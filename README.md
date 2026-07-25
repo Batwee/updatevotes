@@ -53,11 +53,14 @@ URL que l'app Streamlit doit interroger.
       "groupes": [
         {
           "organe": "PO845418",
+          "sigle": "RN",
+          "nom": "Rassemblement National",
           "effectif": 88,
           "pour": 80,
           "contre": 0,
           "abstentions": 2,
-          "nonVotants": 1
+          "nonVotants": 1,
+          "position": "pour"
         }
       ]
     }
@@ -82,21 +85,22 @@ URL que l'app Streamlit doit interroger.
 | `scrutins[].sort` | string \| null | Résultat (`adopté`, `rejeté`...) quand applicable |
 | `scrutins[].synthese` | object | Décompte global des voix (`votants`, `pour`, `contre`, `abstentions`, `nonVotants`) |
 | `scrutins[].groupes[]` | array | Détail du vote par groupe politique |
-| `scrutins[].groupes[].organe` | string | Identifiant du groupe politique (référence AN, ex. `PO845418`) |
+| `scrutins[].groupes[].organe` | string | Identifiant technique du groupe (référence AN, ex. `PO845418`) |
+| `scrutins[].groupes[].sigle` | string | Sigle lisible du groupe (ex. `RN`, `LFI-NUPES`, `EPR`...) |
+| `scrutins[].groupes[].nom` | string | Nom complet du groupe (ex. `Rassemblement National`) |
 | `scrutins[].groupes[].effectif` | int | Nombre de députés du groupe |
-| `scrutins[].groupes[].pour/contre/abstentions/nonVotants` | int | Décompte du groupe pour ce scrutin |
+| `scrutins[].groupes[].pour/contre/abstentions/nonVotants` | int | Décompte détaillé du groupe pour ce scrutin |
+| `scrutins[].groupes[].position` | string \| null | Résumé en un mot du vote majoritaire du groupe : `"pour"`, `"contre"` ou `"abstention"` |
 
-> Par défaut, le détail nominatif (vote individuel de chaque député) n'est
-> **pas** inclus, pour garder le fichier compact. Si le script a été généré
-> avec `--with-nominatif`, chaque `groupes[]` peut aussi contenir une clé
-> `nominatif: {pour: [...], contre: [...], abstention: [...], nonVotant: [...]}`
-> listant les identifiants (`acteurRef`) des députés.
+`position` est directement exploitable pour un affichage type « LFI a voté
+contre, RN a voté pour », sans que l'app ait à recalculer le max des trois
+compteurs elle-même. Les compteurs détaillés restent disponibles à côté pour
+un usage plus fin (ex. afficher qu'un groupe était en réalité divisé).
 
-Les identifiants de groupe (`organe`, ex. `PO845418`) ne sont pas les sigles
-lisibles (« RN », « LFI »...) : ce sont les références internes AN. Pour les
-afficher lisiblement, il faut les croiser avec le jeu de données *Acteurs /
-Organes* de l'AN (ou maintenir une table de correspondance statique
-`organe -> sigle` côté app, plus simple si la liste des groupes change peu).
+Les sigles et noms de groupes sont récupérés automatiquement par le script
+depuis le jeu de données *Acteurs et organes* de l'AN et mis en cache dans
+`data/organes_cache.json` (utilisé en repli si le téléchargement échoue lors
+d'une exécution ultérieure — ce référentiel change rarement).
 
 ## 3. Requêter le fichier depuis Streamlit
 
@@ -143,15 +147,34 @@ for s in scrutins:
             "numero": s["numero"],
             "date": s["date"],
             "titre": s["titre"],
-            "organe": g["organe"],
+            "sigle": g["sigle"],       # ex. "RN", "LFI-NUPES"
+            "position": g["position"], # "pour" / "contre" / "abstention"
             "pour": g["pour"],
             "contre": g["contre"],
             "abstentions": g["abstentions"],
         })
 df_groupes = pd.DataFrame(lignes)
 
-# Ex : total des votes "pour" d'un groupe donné sur toute la période
-df_groupes[df_groupes["organe"] == "PO845418"]["pour"].sum()
+# Comment un groupe donné a voté sur un scrutin précis
+df_groupes[(df_groupes["sigle"] == "RN") & (df_groupes["numero"] == 8190)]
+
+# Combien de fois chaque groupe a voté "pour" sur la période
+df_groupes[df_groupes["position"] == "pour"].groupby("sigle").size()
+```
+
+### Affichage "qui a voté comment" pour un scrutin donné
+
+```python
+scrutin = next(s for s in scrutins if s["numero"] == 8190)
+st.subheader(scrutin["titre"])
+st.write(
+    f"{scrutin['synthese']['pour']} pour · "
+    f"{scrutin['synthese']['contre']} contre · "
+    f"{scrutin['synthese']['abstentions']} abstentions"
+)
+for g in scrutin["groupes"]:
+    emoji = {"pour": "✅", "contre": "❌", "abstention": "➖"}.get(g["position"], "❔")
+    st.write(f"{emoji} **{g['sigle']}** a voté {g['position']} ({g['pour']}p / {g['contre']}c / {g['abstentions']}a)")
 ```
 
 ### Widgets Streamlit typiques

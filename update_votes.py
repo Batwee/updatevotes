@@ -43,7 +43,17 @@ Un fichier JSON de la forme :
       "sort": "adopté",
       "synthese": {"votants": 570, "pour": 300, "contre": 250, "abstentions": 20},
       "groupes": [
-        {"organe": "PO845418", "pour": 88, "contre": 0, "abstentions": 2, "nonVotants": 1}
+        {
+          "organe": "PO845418",
+          "sigle": "RN",
+          "nom": "Rassemblement National",
+          "effectif": 88,
+          "pour": 88,
+          "contre": 0,
+          "abstentions": 2,
+          "nonVotants": 1,
+          "position": "pour"
+        }
       ]
     },
     ...
@@ -54,6 +64,13 @@ Le fichier est trié par numéro de scrutin croissant et ne conserve que les
 informations utiles à l'affichage/l'analyse (les listes nominatives brutes,
 très volumineuses et largement redondantes avec les décomptes de synthèse,
 ne sont pas conservées par défaut — voir --with-nominatif pour les inclure).
+
+Pour chaque groupe politique, le champ `position` résume en un mot comment
+le groupe a voté majoritairement (`pour`, `contre` ou `abstention`) — pratique
+pour un affichage rapide type "LFI a voté contre, RN a voté pour" — tandis
+que les compteurs détaillés restent disponibles pour un usage plus fin. Les
+sigles (`RN`, `LFI-NUPES`, ...) sont récupérés depuis le jeu de données
+"Acteurs et organes" de l'AN et mis en cache localement.
 """
 
 from __future__ import annotations
@@ -82,6 +99,16 @@ def build_zip_url(legislature: int) -> str:
         return f"{base}/{legislature}/loi/scrutins/Scrutins_{ROMAN[legislature]}.json.zip"
     # législature courante (pas de suffixe dans le nom de fichier)
     return f"{base}/{legislature}/loi/scrutins/Scrutins.json.zip"
+
+
+def build_organes_zip_url(legislature: int) -> str:
+    """Archive 'Acteurs et organes séparés' : contient un fichier JSON par
+    organe (dont les groupes politiques), avec leur sigle et leur nom complet."""
+    base = "https://data.assemblee-nationale.fr/static/openData/repository"
+    return (
+        f"{base}/{legislature}/amo/deputes_actifs_mandats_actifs_organes_divises/"
+        "AMO40_deputes_actifs_mandats_actifs_organes_divises.json.zip"
+    )
 
 
 # --------------------------------------------------------------------------- #
@@ -121,10 +148,88 @@ def to_int(value: Any) -> int:
 
 
 # --------------------------------------------------------------------------- #
+# Référentiel des groupes politiques (sigle / nom lisible)
+# --------------------------------------------------------------------------- #
+
+def extract_organe_label(raw: dict) -> tuple[str, dict] | None:
+    """À partir d'un fichier JSON 'organe', renvoie (uid, {sigle, nom}) si
+    c'est un groupe politique (codeType == 'GP'), sinon None."""
+    organe = raw.get("organe", raw)
+    if not isinstance(organe, dict):
+        return None
+    if organe.get("codeType") != "GP":
+        return None
+    uid = organe.get("uid")
+    if not uid:
+        return None
+    sigle = organe.get("libelleAbrege") or organe.get("libelleAbrev") or uid
+    nom = organe.get("libelle") or sigle
+    return uid, {"sigle": sigle, "nom": nom}
+
+
+def build_organe_labels(legislature: int) -> dict[str, dict]:
+    """Télécharge l'archive des organes et construit le mapping
+    organeRef -> {sigle, nom} pour les seuls groupes politiques."""
+    url = build_organes_zip_url(legislature)
+    zip_bytes = download(url)
+    labels: dict[str, dict] = {}
+    with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
+        for name in zf.namelist():
+            if not name.lower().endswith(".json"):
+                continue
+            with zf.open(name) as f:
+                try:
+                    raw = json.load(io.TextIOWrapper(f, encoding="utf-8"))
+                except (json.JSONDecodeError, UnicodeDecodeError):
+                    continue
+            result = extract_organe_label(raw)
+            if result:
+                uid, label = result
+                labels[uid] = label
+    LOG.info("%d groupes politiques référencés", len(labels))
+    return labels
+
+
+def load_organe_labels(legislature: int, cache_path: Path) -> dict[str, dict]:
+    """Récupère le référentiel des groupes, avec repli sur un cache local
+    si le téléchargement échoue (le référentiel change rarement)."""
+    try:
+        labels = build_organe_labels(legislature)
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(json.dumps(labels, ensure_ascii=False), encoding="utf-8")
+        return labels
+    except Exception as exc:  # réseau indisponible, archive absente, etc.
+        LOG.warning("Impossible de récupérer le référentiel des groupes (%s)", exc)
+        if cache_path.exists():
+            LOG.info("Utilisation du cache local %s", cache_path)
+            return json.loads(cache_path.read_text(encoding="utf-8"))
+        LOG.warning("Aucun cache disponible : les sigles de groupe seront absents")
+        return {}
+
+
+# --------------------------------------------------------------------------- #
 # Extraction d'un scrutin
 # --------------------------------------------------------------------------- #
 
-def simplify_scrutin(raw: dict, with_nominatif: bool = False) -> dict | None:
+def majority_position(pour: int, contre: int, abstentions: int) -> str | None:
+    """Résume la position d'un groupe en un mot, à partir de ses décomptes.
+    En cas d'égalité, priorité pour > contre > abstention (choix arbitraire
+    mais stable, à affiner si besoin pour votre app)."""
+    if pour == contre == abstentions == 0:
+        return None
+    best = max(pour, contre, abstentions)
+    if pour == best:
+        return "pour"
+    if contre == best:
+        return "contre"
+    return "abstention"
+
+
+def simplify_scrutin(
+    raw: dict,
+    organe_labels: dict[str, dict] | None = None,
+    with_nominatif: bool = False,
+) -> dict | None:
     """Transforme le JSON brut d'un scrutin en enregistrement compact."""
     data = raw.get("scrutin", raw)
     if not isinstance(data, dict):
@@ -177,17 +282,25 @@ def simplify_scrutin(raw: dict, with_nominatif: bool = False) -> dict | None:
     ventilation = data.get("ventilationVotes") or {}
     organe = ventilation.get("organe") or {}
     groupes_node = organe.get("groupes") or {}
+    organe_labels = organe_labels or {}
     for groupe in as_list(groupes_node.get("groupe")):
         organe_ref = groupe.get("organeRef")
         vote = groupe.get("vote") or {}
         g_decompte = vote.get("decompteVoix") or {}
+        pour = to_int(g_decompte.get("pour"))
+        contre = to_int(g_decompte.get("contre"))
+        abstentions = to_int(g_decompte.get("abstentions"))
+        label = organe_labels.get(organe_ref, {})
         groupe_record = {
             "organe": organe_ref,
+            "sigle": label.get("sigle", organe_ref),
+            "nom": label.get("nom"),
             "effectif": to_int(groupe.get("nombreDeputesGroupe") or vote.get("effectif")),
-            "pour": to_int(g_decompte.get("pour")),
-            "contre": to_int(g_decompte.get("contre")),
-            "abstentions": to_int(g_decompte.get("abstentions")),
+            "pour": pour,
+            "contre": contre,
+            "abstentions": abstentions,
             "nonVotants": to_int(g_decompte.get("nonVotants")),
+            "position": majority_position(pour, contre, abstentions),
         }
 
         if with_nominatif:
@@ -258,6 +371,9 @@ def main() -> int:
     url = build_zip_url(args.legislature)
     zip_bytes = download(url)
 
+    organes_cache = args.output.parent / "organes_cache.json"
+    organe_labels = load_organe_labels(args.legislature, organes_cache)
+
     existing = load_existing(args.output)
     n_before = len(existing)
     n_new = 0
@@ -266,7 +382,9 @@ def main() -> int:
 
     for name, raw in iter_scrutin_files(zip_bytes):
         try:
-            record = simplify_scrutin(raw, with_nominatif=args.with_nominatif)
+            record = simplify_scrutin(
+                raw, organe_labels=organe_labels, with_nominatif=args.with_nominatif
+            )
         except Exception as exc:  # défensif : une anomalie ne doit jamais interrompre tout le traitement
             LOG.warning("Erreur sur %s: %s", name, exc)
             n_errors += 1
