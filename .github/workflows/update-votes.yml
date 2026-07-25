@@ -1,34 +1,37 @@
-name: Mise à jour des votes de l'Assemblée nationale
+name: Auto Update Votes API
 
 on:
   schedule:
-    # Tous les jours à 5h du matin (heure de Paris en hiver, UTC ici)
-    - cron: "0 5 * * *"
-  workflow_dispatch: {}   # permet de le lancer manuellement depuis GitHub
+    # Exécution tous les jours à 03h00 UTC
+    - cron: '0 3 * * *'
+  # Permet de lancer manuellement la mise à jour depuis l'onglet Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-votes:
+  update-json:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Récupérer le code du dépôt
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: 18
 
-      - name: Générer / mettre à jour votes.json
-        run: python update_votes.py --output data/votes.json
+      - name: Installer les dépendances
+        run: npm install axios adm-zip
 
-      - name: Committer si des changements existent
+      - name: Générer le nouveau votes.json
+        run: node update.js
+
+      - name: Enregistrer les modifications sur GitHub
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- data/votes.json; then
-            git add data/votes.json
-            git commit -m "chore: mise à jour automatique des votes"
-            git push
-          else
-            echo "Aucun changement, rien à committer."
-          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add votes.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique des votes" && git push)
