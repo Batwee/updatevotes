@@ -6,31 +6,31 @@ const AdmZip = require('adm-zip');
 const ZIP_URL = 'https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip';
 const OUTPUT_FILE = path.join(__dirname, 'votes.json');
 
-// Dictionnaire de correspondance des groupes politiques de la 17e législature
+// Correspondance des codes d'organes vers les sigles politiques (17e législature)
 const GROUPES_MAP = {
   "PO845401": "RN",        // Rassemblement National
-  "PO845407": "EPR",       // Ensemble pour la République (Renaissance)
-  "PO845413": "LFI-NFP",   // La France Insoumise - Nouveau Front Populaire
-  "PO845419": "SOC",       // Socialistes et apparentés
-  "PO845425": "DR",        // Droite Républicaine (LR)
+  "PO845407": "EPR",       // Ensemble pour la République
+  "PO845413": "LFI-NFP",   // La France Insoumise
+  "PO845419": "SOC",       // Socialistes
+  "PO845425": "DR",        // Droite Républicaine
   "PO845439": "EcoS",      // Écologiste et Social
-  "PO845454": "Dem",       // Les Démocrates (MoDem)
-  "PO845470": "HOR",       // Horizons & Indépendants
-  "PO845485": "LIOT",      // Libertés, Indépendants, Outre-mer et Territoires
+  "PO845454": "Dem",       // Les Démocrates
+  "PO845470": "HOR",       // Horizons
+  "PO845485": "LIOT",      // LIOT
   "PO845514": "GDR",       // Gauche Démocrate et Républicaine
-  "PO872880": "UDR",       // Union des Droites pour la République
+  "PO872880": "UDR",       // UDR
   "PO840056": "NI"         // Non-inscrits
 };
 
 async function processVotes() {
   try {
-    console.log('1. Téléchargement de l archive ZIP...');
+    console.log('1. Téléchargement du ZIP...');
     const response = await axios.get(ZIP_URL, {
       responseType: 'arraybuffer',
       headers: { 'User-Agent': 'Mozilla/5.0' }
     });
 
-    console.log('2. Lecture et extraction des données...');
+    console.log('2. Extraction et analyse...');
     const zip = new AdmZip(Buffer.from(response.data));
     const zipEntries = zip.getEntries();
 
@@ -46,33 +46,37 @@ async function processVotes() {
           if (!scrutin) return;
 
           const titre = (scrutin.titre || "Scrutin sans titre").trim();
-          const numeroScrutin = Number(scrutin.numero || 0);
+          const numeroScrutin = parseInt(scrutin.numero || 0, 10);
 
           let totalPour = 0;
           let totalContre = 0;
           let totalAbstention = 0;
 
           const groupesList = [];
-          const organes = scrutin.ventilationVotes?.organe?.groupes?.groupe;
           
+          // Extraction des groupes (gestion tableau vs objet)
+          let organes = scrutin.ventilationVotes?.organe?.groupes?.groupe;
           if (organes) {
-            const groupesArray = Array.isArray(organes) ? organes : [organes];
-            
-            groupesArray.forEach((g) => {
+            if (!Array.isArray(organes)) {
+              organes = [organes];
+            }
+
+            organes.forEach((g) => {
               const codeOrgane = g.organeRef || "Autre";
-              const sigleLisible = GROUPES_MAP[codeOrgane] || codeOrgane;
+              const sigle = GROUPES_MAP[codeOrgane] || codeOrgane;
               
-              const voteGroupe = g.vote?.decompteVoix;
-              const p = Number(voteGroupe?.pour || 0);
-              const c = Number(voteGroupe?.contre || 0);
-              const a = Number(voteGroupe?.nonVotants || 0) + Number(voteGroupe?.abstentions || 0);
+              // Lecture sécurisée du décompte du groupe
+              const voteGroupe = g.vote?.decompteVoix || {};
+              const p = parseInt(voteGroupe.pour || 0, 10);
+              const c = parseInt(voteGroupe.contre || 0, 10);
+              const a = parseInt(voteGroupe.nonVotants || 0, 10) + parseInt(voteGroupe.abstentions || 0, 10);
 
               totalPour += p;
               totalContre += c;
               totalAbstention += a;
 
               groupesList.push({
-                sigle: sigleLisible,
+                sigle: sigle,
                 pour: p,
                 contre: c,
                 abstention: a
@@ -80,12 +84,17 @@ async function processVotes() {
             });
           }
 
-          // Récupération depuis la synthèse source OU calcul à partir des groupes
-          const synSource = scrutin.syntheseVote || {};
-          const pourFinal = Number(synSource.nombrePours || synSource.nombrePour || totalPour);
-          const contreFinal = Number(synSource.nombreContres || synSource.nombreContre || totalContre);
-          const abstentionFinal = Number(synSource.nombreAbstentions || totalAbstention);
-          const totalFinal = Number(synSource.totalVotants || (pourFinal + contreFinal + abstentionFinal));
+          // Extraction de la synthèse source (plusieurs structures d'API possibles)
+          const syn = scrutin.syntheseVote || {};
+          let pSource = parseInt(syn.nombrePours || syn.nombrePour || syn.pour || 0, 10);
+          let cSource = parseInt(syn.nombreContres || syn.nombreContre || syn.contre || 0, 10);
+          let aSource = parseInt(syn.nombreAbstentions || syn.abstention || 0, 10);
+
+          // Si la synthèse d'origine est vide (à 0), on prend la somme calculée depuis les groupes
+          const pourFinal = pSource > 0 ? pSource : totalPour;
+          const contreFinal = cSource > 0 ? cSource : totalContre;
+          const abstentionFinal = aSource > 0 ? aSource : totalAbstention;
+          const totalVotants = pourFinal + contreFinal + abstentionFinal;
 
           const voteData = {
             id: scrutin.uid,
@@ -98,7 +107,7 @@ async function processVotes() {
               pour: pourFinal,
               contre: contreFinal,
               abstention: abstentionFinal,
-              total: totalFinal
+              total: totalVotants
             },
             groupes: groupesList
           };
@@ -107,7 +116,7 @@ async function processVotes() {
             derniersScrutinsParTexte.set(titre, voteData);
           }
         } catch (e) {
-          console.error(`Erreur sur le fichier ${entry.entryName}:`, e.message);
+          // Fichier ignoré si erreur de structure
         }
       }
     });
@@ -115,10 +124,10 @@ async function processVotes() {
     const cleanVotes = Array.from(derniersScrutinsParTexte.values());
     cleanVotes.sort((a, b) => b.numero - a.numero);
 
-    console.log(`3. Sauvegarde de ${cleanVotes.length} textes/lois uniques...`);
+    console.log(`3. Sauvegarde de ${cleanVotes.length} scrutins...`);
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(cleanVotes, null, 2), 'utf8');
+    console.log('Mis à jour avec succès !');
 
-    console.log('Succès ! Le fichier votes.json a été mis à jour.');
   } catch (err) {
     console.error('Erreur :', err.message);
     process.exit(1);
