@@ -4,7 +4,7 @@ const axios = require('axios');
 const AdmZip = require('adm-zip');
 
 // URL de la 16e législature (vous pouvez remplacer 16 par 17 pour la législature actuelle)
-const ZIP_URL = 'https://data.assemblee-nationale.fr/static/openData/repository/16/vp/VT_16.json.zip';
+const ZIP_URL = 'https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip';
 const OUTPUT_FILE = path.join(__dirname, 'votes.json');
 
 async function processVotes() {
