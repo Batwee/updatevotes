@@ -3,23 +3,26 @@ const path = require('path');
 const axios = require('axios');
 const AdmZip = require('adm-zip');
 
-// URL de la 16e législature (vous pouvez remplacer 16 par 17 pour la législature actuelle)
+// URL officielle de la 17e Législature (Scrutins.json.zip)
 const ZIP_URL = 'https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip';
 const OUTPUT_FILE = path.join(__dirname, 'votes.json');
 
 async function processVotes() {
   try {
-    console.log('1. Téléchargement de l archive ZIP...');
+    console.log('1. Téléchargement du fichier ZIP des scrutins...');
     const response = await axios.get(ZIP_URL, {
       responseType: 'arraybuffer',
-      headers: { 'User-Agent': 'Mozilla/5.0' }
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+      }
     });
 
-    console.log('2. Lecture et simplification des données...');
+    console.log('2. Lecture et extraction des données...');
     const zip = new AdmZip(Buffer.from(response.data));
     const zipEntries = zip.getEntries();
 
-    const cleanVotes = [];
+    // Map pour conserver uniquement le scrutin le plus récent par texte/titre
+    const derniersScrutinsParTexte = new Map();
 
     zipEntries.forEach((entry) => {
       if (!entry.isDirectory && entry.entryName.endsWith('.json')) {
@@ -30,37 +33,54 @@ async function processVotes() {
 
           if (!scrutin) return;
 
-          // Structure simplifiée et allégée pour votre application
-          cleanVotes.push({
+          // Normalisation du titre ou de la référence du texte pour le regroupement
+          const titre = (scrutin.titre || "Scrutin sans titre").trim();
+          const numeroScrutin = Number(scrutin.numero || 0);
+
+          const voteData = {
             id: scrutin.uid,
-            numero: scrutin.numero,
-            titre: scrutin.titre,
+            numero: numeroScrutin,
+            titre: titre,
             date: scrutin.dateScrutin,
             codeTypeVote: scrutin.codeTypeVote,
-            sort: scrutin.sort?.code, // ex: "adopté", "rejeté"
-            demandeur: scrutin.demandeur?.texte,
+            sort: scrutin.sort?.code || "Non précisé",
+            demandeur: scrutin.demandeur?.texte || "",
             syntheseVote: {
               pour: Number(scrutin.syntheseVote?.nombrePour || 0),
               contre: Number(scrutin.syntheseVote?.nombreContre || 0),
               abstention: Number(scrutin.syntheseVote?.nombreAbstentions || 0),
               total: Number(scrutin.syntheseVote?.totalVotants || 0)
             }
-          });
+          };
+
+          // Si le texte n'a pas encore été vu OU si ce numéro de scrutin est plus récent
+          if (!derniersScrutinsParTexte.has(titre)) {
+            derniersScrutinsParTexte.set(titre, voteData);
+          } else {
+            const voteExistant = derniersScrutinsParTexte.get(titre);
+            // On compare les numéros de scrutin ou les dates
+            if (numeroScrutin > voteExistant.numero) {
+              derniersScrutinsParTexte.set(titre, voteData);
+            }
+          }
         } catch (e) {
-          console.error(`Erreur sur ${entry.entryName}:`, e.message);
+          console.error(`Erreur sur le fichier ${entry.entryName}:`, e.message);
         }
       }
     });
 
-    // Tri par date décroissante
-    cleanVotes.sort((a, b) => new Date(b.date) - new Date(a.date));
+    // Conversion de la Map en tableau
+    const cleanVotes = Array.from(derniersScrutinsParTexte.values());
 
-    console.log(`3. Sauvegarde de ${cleanVotes.length} scrutins...`);
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(cleanVotes), 'utf8');
+    // Tri par date/numéro décroissant (du plus récent au plus ancien)
+    cleanVotes.sort((a, b) => b.numero - a.numero);
 
-    console.log('Succès ! Le fichier votes.json simplifié a été créé.');
+    console.log(`3. Agrégation terminée : ${cleanVotes.length} textes/lois uniques conservés.`);
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(cleanVotes, null, 2), 'utf8');
+
+    console.log('Succès ! Le fichier votes.json a été mis à jour.');
   } catch (err) {
-    console.error('Erreur :', err.message);
+    console.error('Erreur lors du traitement :', err.message);
     process.exit(1);
   }
 }
