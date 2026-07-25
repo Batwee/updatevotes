@@ -1,0 +1,34 @@
+name: Mise à jour des votes de l'Assemblée nationale
+
+on:
+  schedule:
+    # Tous les jours à 5h du matin (heure de Paris en hiver, UTC ici)
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}   # permet de le lancer manuellement depuis GitHub
+
+jobs:
+  update-votes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Générer / mettre à jour votes.json
+        run: python update_votes.py --output data/votes.json
+
+      - name: Committer si des changements existent
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- data/votes.json; then
+            git add data/votes.json
+            git commit -m "chore: mise à jour automatique des votes"
+            git push
+          else
+            echo "Aucun changement, rien à committer."
+          fi
