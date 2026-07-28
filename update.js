@@ -19,7 +19,8 @@ const MAP_GROUPES = {
   "PO845485": "LIOT",
   "PO845514": "GDR",
   "PO872880": "UDR",
-  "PO840056": "NI"
+  "PO840056": "NI",
+  "PO847173": "UDR"
 };
 
 // Fonction d'extraction du nombre de voix dans une structure variable
