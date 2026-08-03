@@ -1,0 +1,2069 @@
+{
+  "uid": "CRSANR5L17S2025O1N178",
+  "seanceRef": "RUANR5L17S2025IDS29340",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-04-29",
+  "dateLisible": "mardi 29 avril 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3720460",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’un projet de loi",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’ordre du jour appelle la suite de la discussion du projet de loi de simplification de la vie économique (nos 481 rectifié, 1191)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720462",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Vendredi 11 avril, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant à l’amendement no 712 à l’article 3 bis.\n Je vous informe qu’à la demande de la commission, en application de l’article 95, alinéa 4, du règlement, à l’issue de la discussion sur les amendements portant article additionnel après l’article 3 quater, l’Assemblée examinera par priorité les articles 4 à 4 undecies ainsi que les amendements portant article additionnel après ces articles. La discussion se poursuivra par l’examen de l’article 27 et des autres articles qui ont fait l’objet d’une demande d’examen prioritaire de la part du gouvernement."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720464",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne-Laure Blin, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Je me fonde sur l’article 100 du règlement.\nJe suis ravie de vous retrouver, chers collègues, mais il est vingt-deux heures trente ; l’examen du texte devait commencer il y a une heure. La conférence des présidents de ce matin a confirmé la tenue du vote solennel sur le texte le mardi 6 mai. Pourtant, d’ici à demain soir, nous n’aurons vraisemblablement pas fini d’en débattre. L’ordre du jour est saucissonné, on passe d’un texte à un autre plutôt que de travailler en continu, et les Français qui nous regardent ne doivent pas comprendre cette organisation.\nMonsieur le ministre, avant la suspension de nos travaux, vous aviez souligné que ce texte représentait une priorité. Où est-elle ? Nous ne voyons pas la fin du débat : il reste beaucoup d’amendements à examiner dans un temps très court. Pouvez-vous nous donner le programme des jours à venir ? (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Il faut simplifier tout ça !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le ministre de l’action publique, de la fonction publique et de la simplification."
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre de l’action publique, de la fonction publique et de la simplification",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Madame Blin, si nous voulons aller au bout de ce texte, ne commençons pas par poser des questions de ce type ! (Mme Marina Ferrari applaudit.) Nous irons alors beaucoup plus vite. Examinons-le amendement après amendement, le plus rapidement possible, sans perdre de temps !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Claire Lejeune, pour un autre rappel au règlement."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "La situation est liée au cadrage très problématique de ce texte sur le plan politique et idéologique. Vous avez créé un monstre dont nous discuterons pendant des heures et des heures, passant d’un code à un autre, sans que les Français comprennent ce qui se passe. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Pourtant, ce que nous faisons est grave. Nous allons discuter du détricotage de l’objectif zéro artificialisation nette (ZAN), de régressions sociales et écologiques massives."
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "Ce n’est pas un rappel au règlement !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Nous resterons sur la même position qu’avant la suspension de nos travaux : nous voulons aller au bout des choses ; ne venez donc pas nous demander d’accélérer le débat ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720476",
+      "valeurPtsOdj": "1",
+      "titre": "Article 3 bis (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Laurent Croizier, pour soutenir les amendements nos 712 et 711, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "J’espère que nos débats reprendront avec un sens des responsabilités et une sérénité à la mesure de l’importance de nos travaux et des attentes des acteurs économiques. L’article 3 bis favorise l’application du principe selon lequel silence vaut acceptation, qui simplifie la vie des entreprises ; il encadre également la faculté qu’a l’administration d’y déroger. Ces dispositifs doivent entrer en vigueur dans deux ans, c’est-à-dire en 2027. Je souhaite que nous réduisions ce délai à un an – c’est l’objet de l’amendement no 711 – ou au moins à dix-huit mois, comme le propose l’amendement de repli no 712."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Christophe Naegelen, rapporteur de la commission spéciale pour les titres Ier à VI, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur de la commission spéciale",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Sagesse."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Claire Lejeune."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Voilà un bon exemple de ce que je soulignais dans mon rappel au règlement ! Ces amendements n’ont rien de technique ni de neutre. L’extension et l’accélération de la mise en œuvre du principe selon lequel silence vaut acceptation sont à la fois dangereux et hypocrites. Pendant des années, vous avez désossé l’État, refusant d’allouer à nos administrations des moyens qui leur permettraient de disposer de suffisamment de fonctionnaires pour traiter les demandes des entreprises ; et aujourd’hui, vous voulez généraliser le principe selon lequel le silence de l’administration les validerait quasi automatiquement. C’est dangereux : les avis donnés par nos fonctionnaires sont la cristallisation de l’intérêt général inscrit dans nos lois. (M. Matthias Tavel applaudit.) On ne peut pas, avec autant de légèreté, proposer de considérer que l’incapacité de nos administrations, du fait du sous-effectif, à répondre en temps et en heure aux demandes équivaut à un feu vert automatique aux entreprises. Nous nous opposerons à ces amendements et nous vous invitons, lors des prochains débats budgétaires, à voter des moyens qui permettraient à nos fonctionnaires de travailler dans de bonnes conditions et d’apporter des réponses aux usagers. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je soutiens, bien sûr, les amendements.\nJe pensais que les deux semaines de suspension de nos travaux auraient permis aux collègues de gauche de reprendre leurs esprits et de revenir dans le monde réel. Ils continuent néanmoins à balancer des contrevérités."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Il ne fallait pas les faire élire !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Mme Lejeune vient d’affirmer qu’on a désossé l’État. Pourtant, la dépense publique ne cesse d’augmenter, atteignant 57 % du PIB – nous venons d’avoir ce débat avec le ministre de l’économie, des finances et de la souveraineté industrielle et numérique, et la ministre chargée des comptes publics."
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Au début du mois, nous avions discuté du fait que, depuis vingt ou trente ans, le nombre des agences et des comités explose, que le millefeuille territorial s’est aggravé, que le nombre de fonctionnaires est en hausse dans toutes les fonctions publiques, y compris la fonction publique territoriale. (Protestations sur les bancs du groupe LFI-NFP.) N’utilisez donc pas ces arguments, revenez dans le monde réel : notre pays est suradministré, surbureaucratisé ; il faut simplifier !"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Ôtez-moi d’un doute : il est bien dans la majorité ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Sur article 3 bis, je suis saisi par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 712 est adopté ; en conséquence, l’amendement no 711 tombe.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’article 3 bis, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        119\n        Nombre de suffrages exprimés                99\n        Majorité absolue                        50\n                Pour l’adoption                83\n                Contre                16"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 3 bis, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720499",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 3 bis",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de plusieurs amendements portant article additionnel après l’article 3 bis. La parole est à Mme Louise Morel, pour soutenir l’amendement no 2536."
+        },
+        {
+          "orateur": "Mme Louise Morel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794810",
+          "texte": "Cet amendement, soutenu par la totalité du groupe Les Démocrates, concerne un sujet connexe à la simplification. Les entrepreneurs indiquent souvent, lors des échanges, qu’au-delà de la simplification, ils souhaitent une sécurité juridique, une stabilité réglementaire. Nous avons le pouvoir de modifier la loi, mais chaque modification a un impact sur nos concitoyens ; des modifications régulières entraînent l’incertitude, affaiblissent la compétitivité des entreprises, entravent des projets et nuisent au bien-être de leurs promoteurs.\nL’amendement vise à garantir que les règles applicables tout au long de l’étude des dossiers déposés par les entreprises restent celles en vigueur à la date de leur dépôt.\nPour assurer la sécurité juridique du dispositif, nous le rattachons au code des relations entre le public et l’administration, au code de commerce et à celui de l’environnement. Des exceptions peuvent naturellement être prévues pour des motifs impérieux – sécurité, santé publique, préservation de l’ordre ou nécessité de se conformer aux engagements internationaux de la France.\nC’est un amendement de bon sens, qui est attendu par de nombreux acteurs économiques de notre pays, et je vous invite à le soutenir."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Je m’en remets à la sagesse de l’Assemblée. L’idée, en soi, est bonne, mais les normes concernées par l’amendement couvrent un domaine très large. La rédaction proposée me laisse dubitatif."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Vous souhaitez que chaque dossier déposé pour instruction auprès des services de l’État soit instruit en fonction des règles applicables au moment de son dépôt. L’impératif qui sous-tend votre proposition – offrir aux porteurs de projet une visibilité et une stabilité juridique – est salutaire ; cependant, l’amendement empêcherait un entrepreneur de bénéficier de règlements ultérieurs plus favorables, ce qui serait regrettable. De plus, la disposition ne sera jamais totalement opérationnelle puisque le législateur ne peut pas se lier pour l’avenir, ni s’affranchir d’obligations européennes ou internationales – une difficulté supplémentaire. Si je partage votre souhait de stabilité, c’est à nous, pouvoirs législatif et réglementaire, de prévoir collectivement des règles d’entrée en vigueur adaptées aux différents intérêts en présence pour chaque loi ou règlement – de manière éclairée, au cas par cas.\nJe vous demande donc de retirer votre amendement, sans quoi j’y serai défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Jean-François Coulomme."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "L’amendement est mal rédigé.\nPrenons le cas inverse : si les règles évoluent de façon favorable pour les entreprises, s’en tenir à ce qu’était l’environnement légal et juridique au moment du dépôt du dossier sera préjudiciable au projet concerné.\nLes dispositions du code de commerce peuvent par exemple évoluer en réaction à l’actualité internationale. Ainsi, les dispositions protectionnistes édictées aujourd’hui par les États-Unis peuvent nous pousser à adapter nos propres règles. En rester à la législation applicable au moment du dépôt du dossier ne serait pas cohérent.\nPour finir, prenons le code de l’environnement. Le réchauffement climatique et les autres modifications du climat provoquent des sécheresses qui peuvent mettre à mal certains projets industriels, comme celui de l’entreprise STMicroelectronics à Grenoble : ce projet est tellement consommateur d’eau que le législateur, qui veille à protéger cette ressource vitale, peut l’estimer anachronique et y mettre un frein, voire un terme, tant nos connaissances ont évolué depuis qu’il avait été déposé.\nTout cela n’a pas de sens. Il ne faut pas voter cet amendement, dangereux à tout point de vue."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Gérard Leseul."
+        },
+        {
+          "orateur": "M. Gérard Leseul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774958",
+          "texte": "Nous comprenons l’intérêt de cet amendement et nous pouvons soutenir l’ambition de stabilité normative et réglementaire que nourrissent nos collègues. Toutefois, plusieurs arguments viennent d’être avancés, qui montrent qu’il ne s’agit pas du bon moyen d’y parvenir. Notre souci de stabilité risquerait en effet de pénaliser certaines entreprises en les empêchant de bénéficier d’un meilleur dispositif. Nous ne pourrons donc pas soutenir l’amendement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2536 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720816",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1846 est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Marie Lebec, pour soutenir l’amendement no 1846."
+        },
+        {
+          "orateur": "Mme Marie Lebec",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721852",
+          "texte": "Cet amendement, déposé par ma collègue Olivia Grégoire, vise à créer un examen de conformité sociale (ECS), directement inspiré d’un dispositif que nous avions introduit dans la loi Essoc de 2018, l’examen de conformité fiscale (ECF) : ce dispositif, qui permet aux entreprises de solliciter un audit préventif sur leurs obligations fiscales, a fait la preuve de son efficacité en réduisant le nombre de contentieux avec l’administration.\nSans caractère obligatoire, le dispositif proposé permettrait aux entreprises, notamment celles dont l’encadrement juridique est moins structuré, de solliciter auprès d’un prestataire agréé un audit externe pour les éclairer sur les démarches et les obligations sociales qui leur incombent. En cas de contrôle, l’audit réalisé ne vaudrait pas exonération des sanctions éventuelles, mais constituerait un élément pris en compte par l’administration, selon une logique d’incitation à la mise en conformité de l’entreprise.\nUn tel dispositif ayant bien fonctionné en matière de conformité fiscale, ma collègue Olivia Grégoire propose de l’étendre aux obligations sociales."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "La commission a émis un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Gérard Leseul."
+        },
+        {
+          "orateur": "M. Gérard Leseul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774958",
+          "texte": "Le dispositif semble intéressant, mais nous n’avons pas obtenu beaucoup d’informations en commission spéciale sur le bilan de la mise en œuvre de l’examen de conformité fiscale et je ne vois pas pourquoi nous en soutiendrions fermement l’extension au volet social. Par ailleurs, nous n’avons pas idée des prestataires susceptibles d’être retenus. Si notre collègue veut bien nous éclairer, cela permettra de voter intelligemment."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Claire Lejeune."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": "président de la commission spéciale",
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Ce n’est pas un pour, un contre ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Je donne la parole à deux orateurs : ils peuvent être contre tous les deux."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Encore une fois, sous prétexte de simplifier, vous allez diminuer le pouvoir de contrôle de l’administration. La mesure proposée peut également avoir une dimension injuste : la capacité à recourir à un prestataire n’étant pas égale entre les entreprises, les plus petites d’entre elles n’en bénéficieront pas.\nTout comme nous étions opposés à l’examen de conformité fiscale, nous le sommes à l’examen de conformité sociale. Opposables à l’administration, de tels examens préparent en réalité des formes d’exonération pour les plus grosses entreprises en cas de pénalité pour fraude fiscale ou, en l’occurrence, sociale.\nJuridiquement fragile, le principe mettrait la DGFIP – direction générale des finances publiques – en difficulté face à d’éventuelles fraudes organisées, auxquelles le professionnel mandaté pourrait même participer, en affaiblissant l’administration en cas de procédure judiciaire. Le dispositif introduit par l’amendement permettrait en effet à l’entreprise de se dégager de sa responsabilité sur un tiers en cas de conflit avec l’administration. Il constituerait en outre une trappe à organisation de la fraude sociale – dont le non-versement des cotisations employeurs représente 40 %. (Applaudissements sur quelques bancs du groupe LFI-NFP.)\nUne fois encore, un amendement proposé sous prétexte de simplification pourrait avoir des conséquences assez graves. Je vous invite donc à voter contre."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Pierre Meurin – qui souhaite s’exprimer pour ou contre ?"
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "Je ne sais pas : je voudrais seulement poser une question sur l’amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Je vous en prie."
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "Je ne vais pas jouer à monsieur « Je sais tout »."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "C’est bien d’être lucide !"
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "Je me demande seulement : un examen de conformité sociale contribue-t-il à simplifier ou à complexifier ? Pour nous faire un avis sur le sujet, il faudrait savoir si les entreprises ont besoin de passer des examens : on n’est pas à la fac…\nUn tel dispositif offrirait-il vraiment aux entreprises une soupape de respiration, selon une logique de simplification ? Il s’agit bien d’une question, non d’un de ces jugements qu’assène la gauche, qui sait tout sur tout et qui découvre en réalité une fiche inventée par un collaborateur. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": "président de la commission spéciale",
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "C’est vrai qu’ils sont très malins."
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "En l’occurrence, nous souhaitons seulement poser quelques questions."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Il s’agit d’un amendement de bon sens. Il faut écouter les entrepreneurs qui nous disent leur désarroi face à des lois de plus en plus complexes, un code du travail de plus en plus épais,…"
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "C’est parce que vous y avez introduit trop de dérogations !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "…des obligations de plus en plus importantes.\nContrairement à ce qui a été dit, je vois dans cet examen de conformité un effort de transparence de la part des entrepreneurs. Vous les accusez, comme d’habitude, de vouloir tricher et contourner la loi. (M. Matthias Tavel s’exclame.) Au contraire, ils interrogent l’administration pour savoir si les décisions qu’ils ont prises sont les bonnes. Une telle démarche serait très positive et nous aurions tort de rejeter cet amendement. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "J’invite chacune et chacun à se signaler au plus tôt au cours de la discussion afin que nous puissions nous en tenir, dans la mesure du possible, à un pour, un contre, et à ne pas multiplier les interventions."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1846 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur l’amendement no 1108, par le groupe La France insoumise-Nouveau Front populaire ; sur l’amendement no 2233, par le groupe Rassemblement national ; sur l’article 3 ter, par les groupes Rassemblement national et Ensemble pour la République ; sur l’amendement no 525, par le groupe La France insoumise-Nouveau Front populaire.\nLa parole est à Mme Julie Ozenne, pour soutenir l’amendement no 1108."
+        },
+        {
+          "orateur": "Mme Julie Ozenne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842045",
+          "texte": "Notre amendement vise à renforcer la sécurité juridique et la transparence de l’action administrative en rendant opposables et publiques les décisions tacites prises en vertu du principe Silence vaut acceptation.\nIl s’agit d’une avancée concrète pour la simplification de la vie économique, mais aussi pour l’égalité devant la loi et le service public. Sans publicité des décisions tacites, il devient impossible de construire une doctrine administrative cohérente : les usagers ignorent leurs droits ; leur administration peut ignorer sa propre jurisprudence implicite ; le juge administratif ne peut trancher qu’au cas par cas, sans vision d’ensemble.\nCet amendement permettrait au contraire que les décisions implicites soient connues, opposables et puissent faire l’objet d’un recours devant le juge administratif ou, en cas de divergences territoriales manifestes, d’un arbitrage ministériel. Ainsi, nous construirons une administration véritablement moderne et équitable, fondée sur le droit et non sur l’opacité."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Avis défavorable : l’amendement nous semble déjà satisfait par l’article L. 232-2 du code des relations entre le public et l’administration."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne Stambach-Terrenoir."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Nous soutiendrons cet amendement, qui prévoit une obligation de publication des décisions implicites de l’administration, lorsque s’applique le principe Silence vaut acceptation.\nPrenons le cas d’un propriétaire de terrain qui veut faire construire une maison individuelle et qui dépose une demande de permis de construire auprès de l’administration compétente. Celle-ci dispose de deux mois pour instruire la demande, à l’issue desquels le permis de construire est réputé accordé par défaut. Le propriétaire peut alors faire construire sa maison.\nOr, grâce à cet amendement de bon sens, l’information des usagers sera complète : une fois mis au courant, ils pourront envisager d’agir en fonction de ces décisions, éventuellement en déposant un recours s’ils veulent les contester. L’amendement confère donc plus de droits aux usagers, contrairement à ce projet de loi qui, dans l’ensemble, tend plutôt à les museler et à restreindre leurs droits à l’information et à la participation aux décisions qui les concernent.\nQui plus est, une telle mesure ne complexifierait en rien les opérations de l’administration, puisqu’il existe des logiciels permettant de générer et de publier ce genre de documents très rapidement.\nJe pense même que ce principe de publication devrait être étendu aux décisions implicites de rejet que prend l’administration. En effet, les administrés concernés disposent seulement d’un délai de deux mois pour contester la décision devant la juridiction compétente. Dans un délai aussi court, ils n’ont pas toujours les moyens de s’offrir une expertise juridique, sans parler des difficultés pour calculer le délai à respecter sans même savoir s’ils doivent attendre une confirmation de la décision. Que ferait par exemple un administré qui ne parle pas très bien le français ?\nBref, il ne faut pas perdre de vue le rôle de l’administration : rendre service. C’est elle qui doit s’adapter aux usagers, non l’inverse. Assurer une information efficace et transparente de tous les administrés serait d’autant plus important, afin qu’ils puissent prendre leurs décisions en connaissance de cause. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne-Laure Blin."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "En réalité, votre amendement tend à complexifier l’action de l’administration, créant un véritable embouteillage dans son fonctionnement, puisque vous lui imposez des tâches supplémentaires, notamment la publication de toutes ses décisions sur un site internet – alors même que certaines des administrations françaises n’en ont pas.\nL’esprit de votre amendement poussera en fait à la contestation systématique des décisions. Si celles-ci sont toutes publiées, les demandes de recours devant les tribunaux se multiplieront. Cela ne manquera pas de contraindre les projets et de favoriser les batailles juridiques contre l’administration, dont votre amendement ne favorise donc pas l’efficacité. Au contraire, il crée une charge de travail supplémentaire pour les administrations, au détriment des Français, qui ne verront pas leurs projets aboutir dans des délais plus courts."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 1108."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        151\n        Nombre de suffrages exprimés                102\n        Majorité absolue                        52\n                Pour l’adoption                52\n                Contre                50"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1108 est adopté.)\n (Applaudissements sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720869",
+      "valeurPtsOdj": "1",
+      "titre": "Article 3 ter",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Robert Le Bourgeois."
+        },
+        {
+          "orateur": "M. Robert Le Bourgeois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841837",
+          "texte": "Selon le baromètre du numérique, publié le 19 mars dernier, 44 % de la population rencontre des difficultés pour accomplir des démarches administratives en ligne. Si la numérisation de ces démarches a bel et bien simplifié certaines demandes, elle a aussi accentué les inégalités, non seulement face au numérique, mais également face au langage administratif. En résumé, pour les plus âgés et les moins diplômés, la numérisation est synonyme de complexité – on ne sera pas étonné de l’apprendre.\nMais ce n’est pas tout. Ce baromètre révèle que la classe d’âge la plus en difficulté pour effectuer des démarches administratives en ligne est, étonnamment, celle des 18-24 ans, 20 points au-dessus des autres classes d’âge. Le problème pourrait donc aller croissant.\nL’article 3 ter permet de remettre au cœur du service public les notions de service et de public. Il permet d’abattre – au moins en partie – le mur de l’administration, qui ralentit trop fréquemment le traitement des dossiers, suscite incompréhension et souvent colère chez les usagers. En 2018, lors de l’examen de la loi Essoc, un amendement de Laurent Saint-Martin, qui est désormais ministre, avait d’ailleurs été adopté par toute la Macronie pour que « les services de l’État, les collectivités territoriales et les établissements publics qui en dépendent mettent à la disposition du public un numéro d’appel non géographique fixe et non surtaxé ». Le Sénat était malheureusement revenu sur cette heureuse idée.\nUne telle situation est insupportable et mérite d’être combattue. Obliger les administrations à vous fournir un simple numéro de téléphone et une adresse mail lorsqu’elles accusent réception de votre demande est un premier pas vers la simplification que nous appelons tous de nos vœux. Les Français les plus modestes, notamment ceux des campagnes, qui ont vu les services publics disparaître de leurs territoires, vous exhortent à maintenir cette mesure. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "L’extrême droite nous propose de rendre obligatoire l’affichage des numéros de téléphone et mails des agents qui accompagneraient le public."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Votez notre amendement !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Mais de quels agents parlez-vous ? Des agents des structures que vous avez essayé de supprimer à l’article 1er ? (Applaudissements sur les bancs du groupe LFI-NFP. – M. Gérard Leseul applaudit également.) Tous ces organismes publics accompagnent en effet au quotidien les citoyens, les citoyennes et les collectivités, et vous avez tenté de les supprimer ! Mme la ministre des comptes publics nous a d’ailleurs annoncé qu’elle allait en supprimer d’ici à la fin de l’année pour faire encore et encore des économies sur le dos des services publics, au détriment de l’accompagnement des citoyens et des citoyennes sur le terrain. Cessez cette hypocrisie !"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Cessez vos leçons !"
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "C’est votre attitude qui est hypocrite !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Ce que vous essayez de faire est très visible : si vous vouliez vraiment que les citoyens et les citoyennes bénéficient d’un véritable accompagnement, vous auriez par exemple voté pour le rétablissement de l’impôt sur la fortune (Applaudissements sur les bancs du groupe LFI-NFP) ou pour la taxe sur les superprofits ! La vérité, c’est que la logique qui consiste à toujours vouloir faire des économies sert toujours les mêmes : elle sert les riches (« Aucun rapport ! » sur les bancs du groupe RN), elle sert les bourgeois que vous protégez (Exclamations sur les bancs du groupe RN),…"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Le camp du bien a parlé !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "…parce que vous refusez d’aller chercher l’argent là où il se trouve pour financer des services publics corrects et pour disposer d’administrations qui correspondent effectivement aux besoins des citoyens et des citoyennes.\nEn attendant, le groupe La France insoumise défend depuis très longtemps une proposition de loi qui rendrait obligatoire la présence d’agents dans les guichets des services publics (« Eh oui ! » sur les bancs du groupe LFI-NFP), celle de la camarade Danièle Obono ; je vous invite à la voter, puis à tout faire pour qu’elle passe au Sénat. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements nos 287, 1128, 1150 et 2546, par le groupe Rassemblement national et sur l’article 3 quater, par le groupe Ensemble pour la République.\nLes scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. le ministre, pour soutenir l’amendement no 2233 visant à supprimer l’article 3 ter."
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Je demande effectivement à l’Assemblée nationale de supprimer l’article 3 ter."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Ça ne se passe pas comme ça : vous ne pouvez pas nous demander de faire quoi que ce soit !"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Je fais ce que je veux !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Cet article ayant été introduit par la commission, l’avis de la commission est de fait défavorable à sa suppression."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Charles Fournier."
+        },
+        {
+          "orateur": "M. Charles Fournier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793980",
+          "texte": "Évidemment, nous souhaitons nous aussi que l’administration soit en mesure de répondre au téléphone ou par mail afin d’accompagner les usagers : sur ce principe, tout le monde peut être d’accord. Mais les moyens qui devraient être associés à cette ambition ne sont pas au rendez-vous, et nombre d’entre vous ne les soutiennent pas ! C’est bien là la difficulté : pour qu’une administration puisse faire ce que vous demandez, il faut renforcer ses moyens.\nDe notre point de vue, si l’idée mérite d’être approfondie, un tel choix nécessite un éclairage : nous aurions dû disposer d’une étude d’impact. Depuis le début de nos discussions sur ce texte, nous achoppons sur cette difficulté : on prend des décisions par voie d’amendement sans s’assurer qu’elles seront applicables. L’applicabilité d’une telle décision mériterait d’être évaluée ! Nous sommes donc défavorables au maintien de cet article dans le texte, mais la question devra être réexaminée dans le futur."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Pierre Meurin."
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "Tous les députés qui voteront pour cet amendement s’opposeront à ce qu’une administration réponde au bout du fil ! Ce sont les termes exacts du débat. Faites donc bien attention à votre vote (Exclamations sur les bancs du groupe LFI-NFP) :…"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "…le but de cet article, qui a été introduit par l’excellent amendement de notre collègue Le Bourgeois en commission – je vous remercie de l’avoir rappelé, monsieur le rapporteur –, c’est que les administrations répondent au bout du fil !"
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Cela ne relève pas de la loi !"
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Avec quels moyens ?"
+        },
+        {
+          "orateur": "M. Charles Fournier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793980",
+          "texte": "Créez des postes, alors !"
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "Dans nos permanences, nous prenons en charge de très nombreuses personnes en plein désarroi (Applaudissements sur quelques bancs du groupe RN) ; elles se demandent comment accomplir leurs démarches administratives au sein de cette administration kafkaïenne. Je vous invite à réfléchir très sérieusement à la suppression de cet article : si vous votez l’amendement du gouvernement, cela reviendra à dire qu’une administration n’est pas obligée de répondre au téléphone ; or la France populaire, les Français ont besoin de cette garantie. Il me semble que c’est la moindre des choses ! Méfiez-vous, chers collègues. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Danielle Brulebois."
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "Vous voulez donc pouvoir contacter les services publics par téléphone et par courriel. Je voudrais tout de même vous rappeler qu’un effort important a été consenti avec les maisons France Services ! (Applaudissements sur les bancs des groupes EPR et Dem. – Exclamations sur les bancs du groupe RN.) On en trouve 3 000 dans les territoires ; dans le Jura, il y en a 32 !"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "L’un ne remplace pas l’autre !"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Il faut aller voir, ça marche !"
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "La Cour des comptes a publié le 4 septembre 2024 un rapport d’évaluation du programme France Services : elle salue « une politique publique aux résultats positifs qu’il convient de pérenniser et de renforcer ». (« Hors sujet ! » sur les bancs du groupe RN.) Je pense que la Cour des comptes peut être qualifiée d’objective : nous voterons pour l’amendement du gouvernement. (Applaudissements sur quelques bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Claire Lejeune."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Les propos tenus du côté du Rassemblement national sont assez savoureux ! (« Savourez ! » sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Encore des leçons !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "« Supprimer 500 000 fonctionnaires, c’est tout à fait possible. » Vous savez qui je cite ? Éric Ciotti, qui est votre allié. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Aucun rapport !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Vous avez suivi la même logique durant tout l’examen de ce texte sur la simplification économique, n’ayant que les mots d’« obésité administrative » ou d’« État mammouth » à la bouche ! « Les opérateurs publics et les fonctionnaires nous coûtent trop cher », dites-vous ; « supprimons les organismes », « supprimons les comités », « supprimons les agences » !\nJ’ajoute que pendant tous les débats budgétaires, vous avez fait les mêmes choix ! Tous ensemble, vous avez freiné des quatre fers à chaque fois qu’il s’agissait d’imposer les plus riches et les plus grandes entreprises (Exclamations sur les bancs du groupe RN) pour financer l’aptitude de l’État à répondre aux sollicitations, pour restaurer sa capacité d’action. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Il faut lui dire que Brejnev est mort ! Ça va lui faire un choc !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Je veux donc vous demander qui vous comptez mettre derrière ces téléphones, puisque vous voulez supprimer toutes les instances et tous les agents qui seraient susceptibles de le faire !"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": "président de la commission spéciale",
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Il y a 6 millions de fonctionnaires en France, je le rappelle ! Ils ne sont pas 3 000 !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "L’amendement du gouvernement a au moins le mérite de l’honnêteté : il assume clairement la situation pour laquelle vous avez voté ensemble, une situation dans laquelle l’État est désossé. Vous n’avez pas les moyens de mettre des gens derrière les téléphones ! Par cohérence, nous ne participerons pas à ce dialogue hypocrite entre vous : nous nous abstiendrons (« Ah ! » sur les bancs du groupe RN)…"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Bien ! Le peuple vous regarde !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "…et si un jour vous voulez qu’il y ait du monde derrière les téléphones dans nos services publics, votez des moyens pour l’État ! (Applaudissements sur les bancs du groupe LFI-NFP.) Votez aussi pour la proposition de loi de Danièle Obono,…"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Vous avez 1 euro à chaque fois que vous dites « Obono » ?"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "…grâce à laquelle il pourrait non seulement y avoir du monde derrière les téléphones mais aussi des visages derrière les guichets, donc un service public matériel et humain partout dans nos territoires. Arrêtez d’être à ce point hypocrites ; c’est vraiment insupportable ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 2233."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        138\n        Nombre de suffrages exprimés                98\n        Majorité absolue                        50\n                Pour l’adoption                29\n                Contre                69"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2233 n’est pas adopté.)\n (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’article 3 ter."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        130\n        Nombre de suffrages exprimés                121\n        Majorité absolue                        61\n                Pour l’adoption                77\n                Contre                44"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 3 ter est adopté.)\n (Applaudissements sur les bancs du groupe RN.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721223",
+      "valeurPtsOdj": "1",
+      "titre": "Article 3 quater",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 287."
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Il s’agit d’un amendement rédactionnel."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Sagesse."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne Stambach-Terrenoir."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "L’amendement est certes rédactionnel mais j’ai une question, monsieur le rapporteur : les mots ont un sens et en l’occurrence, vous voulez remplacer le mot « public » par le mot « personnes ». Mais la nomenclature que vous souhaitez modifier est celle du code des relations entre le public et l’administration : quel est donc l’intérêt de supprimer le mot « public » ? Je suppose qu’une telle modification induit une nuance, qu’elle change quelque chose ; j’aimerais savoir quoi !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Ce sont des dispositions légistiques qui sont issues du travail mené avec les services de la commission, avec lesquels j’ai échangé tout au long de la construction du texte. Ils privilégient le terme « personnes » à celui de « public ». C’est purement légistique !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 287."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        154\n        Nombre de suffrages exprimés                109\n        Majorité absolue                        55\n                Pour l’adoption                106\n                Contre                3"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 287 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721236",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne-Laure Blin, pour soutenir l’amendement no 525."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Le présent article prévoit un échange d’informations entre les administrations, alors qu’elles ont plutôt tendance à fonctionner en silo ; c’est donc une mesure de bon sens. Leur permettre d’échanger entre elles les informations ou données collectées peut évidemment conduire à informer le public de manière plus efficace, notamment en ce qui concerne les formalités administratives.\nOr l’alinéa 6 proscrit l’utilisation de ces informations et données « pour la détection ou pour la sanction d’une fraude ». C’est là que le bât blesse, quand on sait que les différentes fraudes, notamment la fraude sociale (« Et la fraude fiscale ! » sur les bancs du groupe LFI-NFP), coûtent excessivement cher aux deniers publics. Nous pourrions donc, grâce à cet amendement qui vise à supprimer l’alinéa en question, donner à l’État des moyens supplémentaires de recouvrement des fraudes, qui peuvent atteindre plusieurs milliards d’euros – la fraude sociale, en particulier, a entraîné 1,2 milliard de redressements en 2023.\nIl convient donc de supprimer l’alinéa 6 pour retirer un obstacle inutile à la lutte contre la fraude."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Sagesse."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne Stambach-Terrenoir."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "L’article 3 quater réécrit l’article L. 114-8 du code des relations entre le public et l’administration. Il s’agit d’une disposition issue de la loi dite 3DS de 2022 – relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l’action publique locale –, qui visait à faciliter les échanges de données entre les administrations, afin d’améliorer l’accès des personnes aux prestations sociales et de lutter contre le non-recours. Je rappelle qu’en France, le taux de non-recours aux prestations sociales atteignait 30 à 40 % en 2024, et même 50 % pour le minimum vieillesse ! Voilà de quoi nous parlons.\nOr vous voulez par votre amendement, collègue, lever l’interdiction qui a été posée d’échanger des données pour lutter contre la fraude."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "En effet ! Précisément pour lutter contre la fraude !"
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Ce faisant, vous détournez l’esprit dans lequel ces dispositions ont été pensées, à savoir améliorer l’accès aux prestations sociales pour les personnes qui y ont droit et en ont besoin, et non lutter contre la fraude. D’autres mesures législatives sont là pour ça. Ce n’est pas la peine d’instaurer une surveillance manifestement disproportionnée au détour d’un article dont ce n’est pas l’objet. Je vous renvoie à l’article 5 du règlement général sur la protection des données, qui dispose que le traitement des données à caractère personnel doit être proportionné à l’objectif poursuivi. En l’espèce, vous m’accorderez que transformer une disposition censée aider les gens à accéder à leurs droits en un outil de contrôle et de sanction est sacrément exagéré ! Du reste, la Cnil – Commission nationale de l’informatique et des libertés –, qui a rendu un avis à deux reprises sur la loi « 3DS », a considéré que ces échanges devaient être limités aux données strictement nécessaires et garantir le respect des droits des personnes ainsi que la sécurité et la confidentialité des données. (Applaudissements sur quelques bancs du groupe LFI-NFP.) À cet égard, elle a accueilli très favorablement l’ajout des mentions indiquant que les données collectées ne seraient pas utilisées ou réutilisées à des fins de « détection ou pour la sanction d’une fraude ».\nAu lieu d’essayer d’améliorer un outil qui a été conçu pour aider les plus précaires d’entre nous, vous préférez le transformer en instrument de traque de la fraude sociale. On attend que vous vous occupiez de la fraude fiscale, qui nous coûte entre 80 et 100 milliards d’euros chaque année. Pour l’heure, nous vous demandons simplement de respecter les droits fondamentaux de la personne, en particulier la protection des données personnelles ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Dites plutôt que vous êtes pour la fraude !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 525."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        155\n        Nombre de suffrages exprimés                151\n        Majorité absolue                        76\n                Pour l’adoption                97\n                Contre                54"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 525 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’article 3 quater, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        154\n        Nombre de suffrages exprimés                152\n        Majorité absolue                        77\n                Pour l’adoption                102\n                Contre                50"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 3 quater, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721368",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 3 quater",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de plusieurs amendements portant article additionnel après l’article 3 quater. La parole est à M. le rapporteur, pour soutenir les amendements nos 1128 et 1150, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Ces amendements de coordination visent à étendre les dispositions des articles 3 ter et 3 quater à la Polynésie française, à la Nouvelle-Calédonie et à Wallis-et-Futuna."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Favorable aux deux amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 1128."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        149\n        Nombre de suffrages exprimés                107\n        Majorité absolue                        54\n                Pour l’adoption                104\n                Contre                3"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1128 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 1150."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        154\n        Nombre de suffrages exprimés                105\n        Majorité absolue                        53\n                Pour l’adoption                105\n                Contre                0"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1150 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721381",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Louise Morel, pour soutenir l’amendement no 2546."
+        },
+        {
+          "orateur": "Mme Louise Morel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794810",
+          "texte": "Cet amendement du groupe Les Démocrates, très attendu par les TPE-PME – très petites, petites et moyennes entreprises –, vise à instaurer la possibilité – j’insiste sur le caractère non-contraignant de la proposition – de recourir aux outils de visioconférence pour faciliter la tenue de certaines réunions, comme celles du CSE, le comité social et économique, ou des institutions représentatives du personnel, les assemblées générales ou les conseils d’administration, afin de faciliter le dialogue social et de simplifier les décisions administratives. Cette mesure répond également à un enjeu écologique en évitant aux personnels de se déplacer pour des réunions dont l’ordre du jour n’est pas toujours d’une importance majeure. Ce serait une solution de souplesse d’autant plus bienvenue qu’elle n’est pas contraignante."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Marcangeli",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605782",
+          "texte": "Je partage votre intérêt pour les nouvelles technologies au service d’une plus grande efficacité en général. La possibilité de recourir à la visioconférence est déjà prévue, mais elle est conditionnée à une négociation préalable avec les partenaires sociaux au sein de l’entreprise. Il n’apparaît pas pertinent de priver les partenaires sociaux de cette négociation. Une telle mesure ne serait pas neutre, en effet, car une partie des organisations syndicales considère que le passage à la visioconférence dénature la qualité du dialogue social. Je vous invite à retirer votre amendement ; à défaut, j’y serai défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Matthias Tavel."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Une fois n’est pas coutume, il est heureux qu’un ministre de ce gouvernement vante le dialogue social. Ce sont des mots que nous aimerions entendre plus souvent mais que nous aurions surtout voulu voir se transformer en actes, en particulier lors de la réforme des retraites. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nEn l’espèce, nous nous opposerons nous aussi à l’amendement car permettre, sans l’accord des organisations syndicales ou des représentants du personnel, de convoquer un CSE ou toute autre instance représentant le personnel serait une grave remise en cause de la possibilité pour les salariés, leurs représentants, leurs organisations de faire valoir leur point de vue dans leur relation avec l’employeur. (Mêmes mouvements.)\nVous dites, madame Morel, qu’il s’agit là d’une demande des TPE. Mais n’est-ce pas vous qui prétendez régulièrement que, dans les TPE, le dialogue social se passe comme ça, en toute simplicité, à la porte de l’atelier, parce que tout le monde se connaît ? Il est étonnant d’en appeler à présent à l’instauration de la visioconférence : soit tout le monde se connaît dans l’atelier et il n’est pas nécessaire de recourir à un tel outil, soit les gens sont très éloignés les uns des autres. Faites au moins l’effort de nous présenter un argument cohérent ! Le nôtre est constant : les droits des salariés ne doivent pas être rabotés mais renforcés, aussi manifesterons-nous jeudi 1er mai, comme chaque année, quoi que vous en pensiez. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Je soutiendrai cet amendement de bon sens, d’autant plus que ce n’est qu’une option ! Contrairement à ce qu’affirme M. Tavel, l’accord des parties concernées est requis. C’est écrit noir sur blanc. Si les syndicats refusent la visioconférence, il n’y en aura pas. Je ne comprends pas ce refus systématique, aussi bien de la part de la gauche radicale que de la droite radicale, de toute utilisation des nouvelles technologiques alors qu’elles permettent des avancées considérables. Comment pouvez-vous vous récrier, quand on propose de créer un site internet, en répétant qu’il faut absolument conserver le téléphone ? C’est honteux. Prenez-vous les Français pour des retardés, incapables d’utiliser les outils de la nouvelle technologie ? (Exclamations sur plusieurs bancs des groupes RN, LFI-NFP et SOC.)\nTout le monde connaît ici les mérites des conférences à distance, tant sur le plan écologique en ce qu’elles réduisent la pollution et les embouteillages que sur celui des conditions de travail, en diminuant les sources de stress. Votons cet amendement qui offre aux entreprises la possibilité de s’adapter aux circonstances. (Applaudissements sur quelques bancs du groupe RE.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 2546."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        151\n        Nombre de suffrages exprimés                147\n        Majorité absolue                        74\n                Pour l’adoption                91\n                Contre                56"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2546 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721398",
+      "valeurPtsOdj": "1",
+      "titre": "Article 4 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Plusieurs députés sont inscrits sur l’article.\nLa parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "L’article 4 est intéressant en ce qu’il prévoit l’accès de tous les acheteurs publics à un logiciel uniformisé et gratuit, la plateforme des achats de l’État (Place). Transparency international France, avec qui nous avons beaucoup échangé à propos de cette disposition, y voit un moyen, par l’uniformisation qu’elle instaure, de renforcer la transparence de la commande publique. Nous y serons donc favorables et nous vous présenterons quelques amendements pour l’améliorer.\nPas moins de 130 000 acheteurs publics recourent au logiciel de leur choix, ce qui entraîne une grande disparité dans la publication du libellé du marché. Les rendus, les formats d’exportation, varient d’un logiciel à l’autre, ce qui rompt l’égalité d’accès aux marchés publics, altère la lisibilité des offres et complexifie l’analyse des publications, amenuisant ainsi les chances de détecter une atteinte à la probité, toujours selon Transparency international France. L’instauration de cette plateforme permettrait de remédier à ces inconvénients. C’est une avancée à laquelle, je le répète, nous serons favorables. Nous nous opposerons par ailleurs à des amendements que la droite a déposés pour des raisons qui nous échappent, car ils tendent à empêcher purement et simplement l’utilisation de cet outil."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Loïc Kervran."
+        },
+        {
+          "orateur": "M. Loïc Kervran",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719052",
+          "texte": "La plateforme Place permet aux entreprises de consulter les appels d’offres de l’État ou des organismes de sécurité sociale, mais aussi d’y répondre. Or le gouvernement a choisi, pour gérer cette plateforme qui se trouve d’une certaine manière au cœur du réacteur, de changer de prestataire, en préférant à une PME Française, Atexo, un grand groupe nord-américain, CGI."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Canadien."
+        },
+        {
+          "orateur": "M. Loïc Kervran",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719052",
+          "texte": "Je me pose la question, comme beaucoup d’autres sur ces bancs, de la raison d’un tel choix, d’autant plus que l’État n’a pas passé d’appel d’offres pour choisir le prestataire qui devra gérer une plateforme précisément en charge des appels d’offres ! Il s’est servi de l’Ugap (Union des groupements d’achats publics) pour lancer le marché.\nEnsuite, il nous semblait avoir compris que l’État voulait faciliter l’accès des PME aux appels d’offres de l’État ; mais une fois encore, c’est un grand groupe qui l’a remporté.\nSe pose enfin un problème de souveraineté. Imagine-t-on un instant les États-Unis confier à une entreprise française la gestion de la plateforme qui reçoit les réponses, les offres financières et les offres techniques, à leurs appels d’offres publics ? Une nouvelle fois, vous faites preuve d’une naïveté qui finit par devenir coupable. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements no 132 et identiques ainsi que sur l’amendement no 2015, par les groupes Rassemblement national et La France insoumise-Nouveau Front populaire ; sur les amendements nos 1832 et 1413, par le groupe Rassemblement national.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe suis saisi de plusieurs amendements de suppression, nos 132, 1056, 1280, 1327 et 1874.\n La parole est à M. Hervé de Lépinau, pour soutenir l’amendement no 132."
+        },
+        {
+          "orateur": "M. Hervé de Lépinau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642988",
+          "texte": "L’efficacité doit être notre seule boussole. Or il existe déjà tout un écosystème qui permet, en matière de commande publique, d’accéder à l’information. Le fait de disposer de multiples opérateurs présente des avantages. Tout d’abord, on limite les risques d’un blocage du système. Ensuite, l’implantation locale des opérateurs permet de coller parfaitement à l’actualité économique de la région. Enfin, ces écosystèmes, qui génèrent un chiffre d’affaires de 20 millions d’euros, s’adossent également à des informations que les journaux d’annonces légales, puisque c’est d’eux qu’il s’agit, donnent aux différents acteurs dans leur bassin économique.\nCe serait une regrettable erreur que de centraliser la totalité des annonces sur Place, d’autant plus que l’État nous a appris qu’en matière informatique, il peut rater le coche. Souvenez-vous du logiciel Louvois pour les armées, qui s’est révélé être une catastrophe. Et de Cassiopée pour le ministère de la justice ! Aucun accès n’avait été prévu pour les juges d’instruction parce qu’en 2010, il était question de les supprimer ! Or cette décision n’a jamais été prise : les juges d’instruction sont toujours là, mais l’accès à Cassiopée n’a pas été corrigé. Laissons donc au marché privé le soin de gérer ces plateformes informatiques.\nEnfin, le logiciel Place a été confié à un opérateur canadien. Une fois de plus, nous touchons du doigt le problème de la souveraineté numérique.\nJe rappelle qu’Atos, acteur essentiel qui gère une partie importante des systèmes d’infogérance, est aujourd’hui en très grande difficulté pour avoir été mal géré, mais aussi parce que l’État ne joue pas forcément le jeu avec cet opérateur. Je vous invite donc tous à voter cet amendement de suppression : c’est dans l’intérêt national. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Valérie Rossi, pour soutenir l’amendement no 1056."
+        },
+        {
+          "orateur": "Mme Valérie Rossi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840673",
+          "texte": "Nous proposons de supprimer l’article 4 du projet de loi, car il ne répond pas à l’objectif de simplification du texte et met en péril tout un écosystème qui satisfait aux besoins de la commande publique.\nEn cherchant à obliger les opérateurs publics à utiliser une plateforme de gestion de la commande publique unique, au surplus gratuite – ce qui incitera fortement les collectivités locales, pour qui cette utilisation est facultative, à y recourir –, nous risquons de nous éloigner de l’objectif de simplification.\nSi l’objectif est d’améliorer le taux et la fluidité de réponse aux appels d’offres publics, la solution ne passe pas par un point d’accès unique mais par la simplification et l’allégement des procédures de passation des marchés. C’est sur ce point qu’il faudrait travailler.\nPar ailleurs, en incitant fortement les acteurs publics à utiliser une plateforme unique étatique, au moyen de la gratuité, l’article 4 prive ces derniers de leur liberté d’action, de gestion et de décision. Cela fragilise un équilibre qui a prouvé son efficacité."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720910",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Loïc Kervran, pour soutenir l’amendement no 1280."
+        },
+        {
+          "orateur": "M. Loïc Kervran",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719052",
+          "texte": "Quel est le sens de cet amendement de suppression ? Il s’agit d’affirmer qu’on ne peut obliger tous les acteurs publics à passer par une plateforme dont la gestion vient d’être confiée à un acteur nord-américain. Ce n’est pas possible en l’état ! Je le répète, c’est une mine d’or potentielle pour des services de renseignement.\nDans le domaine économique, il n’existe pas d’alliés. Si un pays peut être notre allié dans d’autres domaines, comme la lutte contre le terrorisme, cela ne signifie pas que nous pouvons lui confier une mine de données aussi importantes que celles-ci. Tant que nous ne disposerons pas d’une solution souveraine, il est impensable d’augmenter encore le volume d’appels d’offres, de réponses, d’informations techniques et financières qui transitent par cette plateforme. (Applaudissements sur plusieurs bancs du groupe HOR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720774",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne-Laure Blin, pour soutenir l’amendement no 1327."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Si cette plateforme dématérialisée pour l’achat public est présentée comme un outil de simplification, elle risque en réalité de désorganiser l’écosystème numérique construit depuis plus de vingt ans autour de plateformes privées spécialisées. Sa mise en œuvre porterait un coup dur à la presse quotidienne régionale (PQR) et à la presse professionnelle, qui tirent une partie de leurs revenus de la publication des avis de marché. Les pertes sont estimées à plus de 20 millions d’euros par an, avec des conséquences directes sur la viabilité économique de ces titres, la pluralité de l’information et les liens de proximité dans les territoires.\nCette plateforme ne répond pas non plus aux besoins réels des entreprises : nous le répétons depuis le début de l’examen du texte, le principal frein au développement de leur activité réside dans la complexité des démarches et non dans la multiplicité des plateformes.\nEnfin, en imposant un outil unique, on créé un monopole public, confié de surcroît à une filiale d’un groupe canadien, CGI, en totale contradiction avec les engagements pris en matière de souveraineté numérique.\nJe ne crois pas que nous soyons prêts à sacrifier un écosystème utile, une presse régionale déjà fragile et une part de notre compétitivité et de notre souveraineté au nom d’une simplification qui n’en est pas une."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3720779",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1056 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’amendement no 1874 de M. Éric Ciotti est défendu.\nQuel est l’avis de la commission sur ces amendements de suppression ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Ce sujet a donné lieu à de nombreux débats en commission. J’étais moi-même assez partagé, car si je suis enclin à faire confiance aux initiatives privées, qui fonctionnent bien dans ce domaine, il est vrai que pour les acheteurs publics « étatiques » – j’utilise ce terme pour les distinguer des collectivités locales –, il y a une certaine logique à centraliser le traitement des appels d’offres.\nUn autre sujet concerne l’amputation que subirait le chiffres d’affaires de certaines entreprises privées.\nLa commission a rejeté ces amendements. À titre personnel, je m’en remets à la sagesse de l’Assemblée et je donnerai un avis favorable à l’amendement no 215 de notre collègue Christelle Petex, que nous examinerons un peu plus loin."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre déléguée chargée du commerce, de l’artisanat, des petites et moyennes entreprises et de l’économie sociale et solidaire, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée chargée du commerce, de l’artisanat, des petites et moyennes entreprises et de l’économie sociale et solidaire",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Que dit cet article 4 ? Il fait référence à la plateforme Place, déjà utilisée par l’État, au sujet de laquelle je voudrais apporter quelques précisions pour répondre aux orateurs, notamment à Loïc Kervran.\nCette plateforme appartient au ministère de l’économie et des finances, et non à des prestataires extérieurs. Cinq prestataires sont chargés de sa maintenance, dont une filiale d’un groupe canadien ; les quatre autres prestataires sont français. L’hébergement des données, confié à l’un des prestataires, est effectué sur deux sites situés en France. Il était important de rétablir ces faits.\nL’article 4 rappelle que l’État utilise déjà cette plateforme et propose d’étendre son utilisation à toute la sphère étatique, c’est-à-dire essentiellement aux organismes de sécurité sociale. Par analogie, imaginez une entreprise qui dispose de deux procédures d’achat : il s’agit de les unifier et de les simplifier. Aujourd’hui, 7,5 % de la commande publique passe par Place ; si nous élargissons son usage à l’ensemble de la sphère étatique, nous arriverons à un chiffre de 17 %.\nEn second lieu, l’article 4 propose, à titre facultatif, de généraliser l’utilisation de la plateforme aux collectivités territoriales – qui représentent 83 % de la commande publique – en ouvrant son accès à celles de ces collectivités qui le souhaitent.\nJ’entends ceux qui disent qu’il faut préserver la PQR. Il est vrai qu’il existe un marché, mais l’article 4 n’empêche pas la publication des appels d’offres. Il permet simplement l’utilisation d’une plateforme, étant observé que tous les appels d’offres sont aujourd’hui effectués de manière dématérialisée. La commande publique représente 170 milliards d’euros, mais de nombreuses TPE et PME peinent à y accéder."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Le fait de disposer d’une seule plateforme, sur laquelle chaque entreprise a un seul profil d’acheteur, facilitera l’accès des TPE-PME à la commande publique. C’est très important !\nJe regretterais donc que la suppression de l’article 4 prive l’État – notamment les organismes de sécurité sociale – du bénéfice d’une plateforme unique sans faciliter pour autant l’accès des TPE-PME à la commande publique.\nS’il peut y avoir une réticence à généraliser l’usage de la plateforme à toutes les collectivités territoriales pour des raisons tenant à la défense de la PQR, comme l’a très bien expliqué Anne-Laure Blin, c’est un autre sujet. Ne supprimez pas tout l’article 4 simplement pour défendre la PQR ! Je rappelle que les appels d’offres continuent à être publiés. En revanche, il est vrai que la presse est propriétaire d’un groupement d’intérêt économique (GIE) qui détient un certain nombre de plateformes.\nJ’ajoute que ne pas laisser aux collectivités territoriales la liberté de recourir à une plateforme publique me gêne.\nLe gouvernement est donc défavorable à ces amendements de suppression. En revanche, il s’en remettra à la sagesse de l’Assemblée sur les amendements nos 215 et identiques, qui suppriment la généralisation de l’utilisation de la plateforme Place pour les collectivités territoriales."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Claire Lejeune."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Nous nous opposerons à ces amendements de suppression et soutiendrons par conséquent la plateforme Place. Nous démontrerons ainsi à notre collègue Cazeneuve, qui nous a caricaturés en nous présentant comme rétifs par principe à toute avancée, hostiles au numérique,…"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "… que c’est tout le contraire.\nNous soutenons la création d’une plateforme numérique. (M. Emmanuel Maurel applaudit.) Je veux souligner que la question du numérique est une question politique, tout comme celles de l’accès à ce numérique, des infrastructures qui sous-tendent la dématérialisation – laquelle ne va pas de soi –, de la souveraineté numérique et de la gestion des données – nous parlerons beaucoup des data centers à l’occasion de ce texte.\nNous ne sommes pas opposés par principe à ces évolutions.\nNous soutiendrons le déploiement de Place car il s’agit d’une plateforme publique, qui améliorera la lisibilité de la commande publique, notamment pour l’État, et nous fera gagner en transparence. Nous préférons cela à une myriade de plateformes privées qui agissent par intérêt, y trouvent un profit et se sont livrées à un lobbying efficace, qui transparaît à travers ces amendements de suppression, pour le conserver.\nJ’invite mes collègues socialistes à revoir leur position de vote. Quand on a à cœur de défendre la transparence et la lisibilité et de promouvoir un opérateur public de préférence à une multitude d’opérateurs privés, on ne peut voter ces amendements de suppression, dont l’un émane des rangs socialistes.\nNotre seul doute concernait la présence d’une entreprise canadienne. Mme la ministre l’a levé en indiquant que seules la gestion et la maintenance sont déléguées à cette entreprise. Je vous invite donc à voter contre ces amendements de suppression. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Si j’ai été un peu taquin, chers collègues, je vous prie de m’en excuser. Je me réjouis que vous souteniez notre position sur ces amendements."
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Alliés un jour, alliés toujours !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "On peut certes discuter du contenu de cet article mais, comme l’a dit Mme la ministre, le supprimer intégralement est idiot !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Tout de suite les grands mots !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "C’est confondre une volonté de souveraineté – qui est unanimement partagée – et le souci d’efficacité. En matière de souveraineté, Mme la ministre a fait valoir que l’outil utilisé compte moins que la conservation des données. Où sont les données et qui en a le contrôle ? Sur ce point, les réponses ont été très claires."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Pas du tout !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Si, sous prétexte de souveraineté, on supprime tous les matériels et logiciels construits et produits par les Américains, notre pays va s’arrêter instantanément. Fixons-nous des objectifs, prenons des garanties, mais ne faisons pas de bêtise contraire à l’efficacité !\nIl y a quelques jours, la logique de votre discours était de dire : « arrêtons la multiplication des saisies, évitons que les entreprises soient contraintes de redonner les mêmes informations à chaque appel d’offres, voilà le rôle de la politique ». Or c’est ce que propose cet article ! Il s’agit de mettre davantage de moyens et d’efficacité pour disposer d’une plateforme plus simple d’utilisation pour les entreprises. C’est tout ! Arrêtez de multiplier les plateformes que nous ne contrôlerons pas, qui ne permettront ni de lutter contre la fraude, ni de réaliser des gains de productivité, pour vous plaindre ensuite que nous ne faisons pas assez d’économies. Je suis contre la suppression de cet article."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Valérie Rossi."
+        },
+        {
+          "orateur": "Mme Valérie Rossi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840673",
+          "texte": "Nous avons entendu les arguments de Mme la ministre : nous retirons l’amendement no 1056."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1056 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Hervé de Lépinau."
+        },
+        {
+          "orateur": "M. Hervé de Lépinau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642988",
+          "texte": "Vous n’avez pas répondu à toutes les questions, madame la ministre. Je pense en particulier à l’absence de passation d’un marché public s’agissant de l’opérateur canadien. Nous attendons une réponse sur ce point.\nJe m’adresse maintenant au collègue Jean-René Cazeneuve. Vous n’avez pas compris nos propos. Vous avancez l’argument des économies réalisées – je suppose que vous parlez d’argent public. Or nous parlons de gens qui paient pour avoir accès à un service ; le fait de rendre Place obligatoire n’aura donc aucun impact d’un point de vue budgétaire.\nPar ailleurs, à ma connaissance, les milieux économiques n’ont pas demandé que Place centralise toutes les informations. Ce qu’ils attendent, c’est une simplification du code des marchés publics, ce qui suppose un effort particulier. Or cet effort ne sera pas fait. Vous ne résoudrez pas ce problème en imposant une centralisation.\nEnfin, je crois beaucoup au principe de subsidiarité. Encore une fois, si demain Place se plante – nous pourrions citer de multiples logiciels qui dysfonctionnent dans l’administration –, c’est l’accès à l’ensemble des marchés publics qui sera compromis. Au nom du principe de subsidiarité, laissez donc les autres plateformes fonctionner !\nDans la mesure où les milieux économiques ne formulent aucune demande de changement, le système actuel donne satisfaction. Je le répète, la volonté de centralisation ne répondra pas au besoin d’efficacité que nous avons évoqué. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Loïc Kervran."
+        },
+        {
+          "orateur": "M. Loïc Kervran",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719052",
+          "texte": "Madame la ministre, au mois d’octobre, plusieurs dizaines de parlementaires, issus de nombreux groupes politiques, ont écrit à vos prédécesseurs à ce sujet. En février, ils se sont adressés à l’actuel gouvernement. Ils n’ont toujours pas reçu de réponse.\nAvez-vous des éléments de réponse rassurants à nous donner ? La question est non l’hébergement des données, mais l’accès au code source et aux données en production. Le cœur du problème, c’est ce que permet la tierce maintenance applicative – précisément ce qu’Atexo a transféré à CGI. Cela représente une mine d’or pour ceux qui souhaiteraient mener des actions hostiles, pour identifier nos entreprises, en particulier celles qui répondent aux appels d’offres du ministère de la défense."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Loïc Kervran",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719052",
+          "texte": "Grâce aux droits d’accès dont elle dispose, CGI peut savoir qui, à l’intérieur de chaque entreprise, est chargé de répondre aux appels d’offres. C’est mâcher le travail aux services de renseignement étrangers !\nUne fois de plus, j’appelle tous mes collègues à supprimer l’article 4 tel qu’il est rédigé."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre déléguée."
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "En effet, je n’ai pas répondu à une des questions posées, veuillez m’en excuser. Sachez qu’un appel d’offres a bien été lancé conformément à ce qui est prévu par la loi. Plus précisément, un accord-cadre, passé par l’État, a été conclu comme c’est le cas pour certains marchés publics. Lorsqu’un besoin est apparu s’agissant de la plateforme Place, nous sommes allés chercher dans l’accord-cadre un prestataire qui s’était déjà porté candidat. C’est ainsi que CGI a été choisie. J’espère que cette réponse vous aura éclairés.\nJ’en viens à la question de l’accès au code source et aux données en production. Je veux vous dire ici que la filiale française du groupe canadien – car il ne s’agit pas de la société canadienne elle-même, je tiens à le préciser car chaque mot a son importance – n’a aucun accès au code source ni aux données en production. Je vous le certifie.\nPar ailleurs, j’ai rencontré des entreprises."
+        },
+        {
+          "orateur": "M. Alexandre Dufosset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840135",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Un grand nombre de TPE et PME aimeraient accéder à la commande publique – je rappelle que celle-ci représente 170 milliards d’euros. Or le grand nombre de profils d’acheteurs rend la tâche compliquée pour ces entreprises qui ne sont pas forcément habituées aux commandes publiques. Plus le nombre de profils sera réduit, plus l’opération sera facile pour ces entreprises, notamment dans le secteur du bâtiment et des travaux publics. Celles que j’ai rencontrées m’ont fait part de leur vif intérêt, sinon pour une plateforme unique, du moins pour une diminution du nombre de profils d’acheteurs.\nJ’ajoute que Place est une plateforme gratuite pour l’État et pour les collectivités."
+        },
+        {
+          "orateur": "M. Hervé de Lépinau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642988",
+          "texte": "Pas pour les entreprises !"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Monsieur le député, ce qui est prévu par cet article ne changera rien pour les entreprises.\nS’agissant de la commande publique, l’État doit jongler entre plusieurs procédures – on n’imagine pas une telle situation pour une entreprise. Ce que nous proposons représente donc une réelle simplification en la matière."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix les amendements identiques nos 132, 1280, 1327 et 1874."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        152\n        Nombre de suffrages exprimés                142\n        Majorité absolue                        72\n                Pour l’adoption                70\n                Contre                72"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 132, 1280, 1327 et 1874 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721125",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne Stambach-Terrenoir, pour soutenir l’amendement no 2015."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Comme nous venons de le démontrer collectivement, la généralisation du logiciel public Place est souhaitable pour la commande publique en France.\nNotre amendement répond à l’exigence de simplification puisqu’il prévoit une généralisation, de façon obligatoire, de ce logiciel unique partout en France, y compris pour les collectivités territoriales, leurs établissements publics et leurs groupements.\nUne telle mesure faciliterait les échanges entre les administrations, puisque tous les services fonctionneraient avec les mêmes méthodes. Aujourd’hui, quelque 130 000 acheteurs publics ont recours au logiciel de leur choix pour publier des offres de marchés publics et recueillir des candidatures. Cette disparité des logiciels amoindrit la lisibilité des offres existantes sur l’ensemble du territoire.\nAvec la généralisation de Place, on favorise la transparence des procédures de passation auxquelles auront recours les personnes publiques, qui n’auront plus à utiliser des logiciels divers et variés.\nEn outre, tous les soumissionnaires seront mis sur un pied d’égalité puisque la démarche, pour l’appel d’offres sur internet, sera la même partout. Cela facilitera grandement le travail des TPE-PME, qui ne disposent pas forcément du temps ni des moyens humains nécessaires pour changer de méthode et utiliser de nouveaux logiciels à chaque candidature.\nPar ailleurs, la gratuité du logiciel constitue un argument supplémentaire en faveur de sa généralisation.\nEn outre, les données essentielles de la commande publique doivent obligatoirement être publiées en libre accès après la conclusion d’un marché. Or le recours à une multitude de logiciels entraîne une publication dans des formats différents. Les données sont alors plus difficilement exploitables si l’on souhaite détecter les atteintes à la probité, notamment les cas de corruption de basse intensité au sein des collectivités.\nComme le note le rapport de la commission spéciale du Sénat relatif au projet de loi, si l’on étend l’usage obligatoire du logiciel Place aux collectivités territoriales, 85 % des marchés publics seront traités avec le logiciel, contre 17 % si l’on conserve la rédaction actuelle du texte.\nPour une fois, nous pouvons donc nous retrouver autour d’une mesure de simplification réellement efficace. Je vous invite donc à voter pour l’amendement – ce serait une belle manière de conclure cette séance. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Défavorable. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Tel qu’il est rédigé, votre amendement ne correspond pas à la présentation que vous venez d’en faire. En effet, il restreint le champ du recours obligatoire à Place aux seules personnes morales de droit public et supprime le recours facultatif à Place pour les collectivités territoriales prévu par l’alinéa 4."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Il ne permet cependant pas de rendre obligatoire l’accès à Place par les collectivités territoriales. Par ailleurs, il exclut du périmètre les organismes de sécurité sociale. Je vous invite à relire l’amendement : il revient en fait sur tous les apports de l’article 4.\nJ’y suis donc défavorable, comme je l’ai été aux amendements de suppression de l’article."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Charles Fournier."
+        },
+        {
+          "orateur": "M. Charles Fournier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793980",
+          "texte": "Je suis plutôt d’accord avec Mme la ministre. Le fait de rendre optionnel le recours à la plateforme permet à la PQR de continuer de publier les avis – c’est un problème qui a été soulevé tout à l’heure.\nÀ terme, j’imagine que le dispositif ne restera pas en l’état – l’amendement prévoit d’ailleurs de rendre obligatoire l’utilisation du logiciel Place d’ici à 2030.\nIl est vrai qu’en supprimant l’alinéa 4, qui prévoit la possibilité pour les collectivités territoriales d’utiliser Place, on retire celles-ci du dispositif puisqu’elles sont déjà exclues de la mesure prévue à l’alinéa 3. C’est en tout cas ainsi que je comprends la rédaction de cet amendement et c’est pourquoi je pense qu’en l’état, il ne faut pas l’adopter."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Matthias Tavel."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Madame la ministre, comprenons-nous bien. Nous proposons simplement une rédaction allégée de l’alinéa 3 : « les personnes morales de droit public » qui devront utiliser la plateforme incluent les collectivités territoriales. En revanche, nous supprimons en effet le caractère facultatif de cette utilisation. Tel est l’esprit de notre amendement, dont je ne fais pas la même lecture que vous. Nous souhaitons que chacun soit éclairé avant le vote."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 2015."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        126\n        Nombre de suffrages exprimés                125\n        Majorité absolue                        63\n                Pour l’adoption                18\n                Contre                107"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2015 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721153",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’amendement no 1413 de M. Alexandre Loubet est défendu."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Christophe Naegelen",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721486",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 1413."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        119\n        Nombre de suffrages exprimés                112\n        Majorité absolue                        57\n                Pour l’adoption                36\n                Contre                76"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1413 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3721160",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Prochaine séance, demain, à 14 heures :\n Questions au gouvernement ;\n Suite de la discussion du projet de loi de simplification de la vie économique.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

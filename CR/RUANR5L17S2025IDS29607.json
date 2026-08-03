@@ -1,0 +1,1446 @@
+{
+  "uid": "CRSANR5L17S2025E1N008",
+  "seanceRef": "RUANR5L17S2025IDS29607",
+  "sessionRef": "SCR5A2025E1",
+  "date": "2025-07-07",
+  "dateLisible": "lundi 07 juillet 2025",
+  "session": "Première session extraordinaire 2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3835875",
+      "valeurPtsOdj": "1",
+      "titre": "Remplacement d’un député",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Mme la présidente de l’Assemblée nationale a reçu, en application des articles L.O. 176 et L.O. 179 du code électoral, une communication du ministre de l’intérieur, en date du 7 juillet 2025, l’informant du remplacement de notre regretté collègue Olivier Marleix par Mme Christelle Minard."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835879",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion d’une proposition de loi adoptée par le Sénat",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi portant création d’un statut de l’élu local (nos 136, 1603 deuxième rectification)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835881",
+      "valeurPtsOdj": "2",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. le ministre de l’aménagement du territoire et de la décentralisation."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre de l’aménagement du territoire et de la décentralisation",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Avant toute chose, permettez-moi de rendre hommage au député Olivier Marleix. À l’instant où nous allons commencer la discussion d’un texte visant à protéger l’élu local, je pense à l’élu qu’il a été, d’abord conseiller général de son cher département d’Eure-et-Loir, maire d’Anet puis premier vice-président de la communauté d’agglomération du pays de Dreux. Il avait l’engagement au cœur et le sens du devoir. Je pense à sa famille, à ses proches et à ses collègues députés.\nMalgré ces circonstances particulièrement pesantes pour tous ceux qui l’ont connu, il nous faut ce soir débattre d’un texte ô combien important pour notre démocratie locale.\nAu cours de ma vie politique, j’ai eu l’honneur de servir les Français, d’abord dans le cadre de fonctions locales et parlementaires, puis au sein du gouvernement. Tout comme celles de député, les responsabilités nationales sont évidemment exigeantes et rigoureuses : vous participez à la construction de la loi devant laquelle tous les citoyens sont égaux, ce qui implique des devoirs.\nPourtant – et tous ceux qui me connaissent savent combien mes propos sont sincères – être élu local, comme maire puis président d’une métropole, a été et reste l’engagement le plus marquant et le plus profond de ma vie. J’ai coutume de dire – et je ne suis pas le seul – que le mandat de maire est le plus beau des mandats. C’est au contact direct de nos concitoyens, dans la proximité des territoires, que l’on mesure pleinement combien l’action politique peut changer la vie des gens.\nÊtre élu local implique, à chaque instant, de dédier son temps aux autres, en analysant les dossiers des conseils, en participant à la décision publique, par le vote, dans une assemblée municipale, dans un conseil communautaire, en commission d’appel d’offres ou ailleurs. Être élu local, c’est aussi, et souvent, être réveillé pendant la nuit, parce qu’un immeuble de votre commune a pris feu ; se lever tôt pour aller encourager les jeunes sportifs ; chercher des solutions de logement pour des familles ou être interpellé sur les difficultés de transport. C’est se coucher tard après avoir enchaîné les audiences de familles et de concitoyens et manquer le dîner auprès de sa propre famille.\nC’est aussi, et c’est très important, l’apprentissage quotidien d’un équilibre délicat entre vie d’élu, vie professionnelle – quand on fait le choix de la poursuivre – et vie personnelle. Vous connaissez, vous aussi, cette réalité. En cela, être élu local, c’est bien sûr un honneur mais c’est aussi, ne l’oublions pas, une charge et un devoir.\nPendant la crise sanitaire, l’engagement des élus locaux aux côtés des citoyens a été particulièrement décisif, pour continuer à organiser les services essentiels qui ont permis la continuité de la vie de la nation, dans nos écoles, nos transports, ou auprès des plus démunis. La France doit tant à ses maires et à leurs adjoints, ainsi qu’aux conseillers municipaux, communautaires, départementaux et régionaux. Parce qu’ils sont habitués à servir les autres avant de se servir – la formule est connue –, on aurait bien trop tendance à considérer leur engagement comme acquis.\nC’est en cela que le texte que nous allons examiner aujourd’hui est une exigence démocratique, mais aussi une reconnaissance historique, dictée par un besoin de justice. Je remercie tout particulièrement la ministre Françoise Gatel, ici présente, qui en est à l’origine. Je tiens d’emblée à saluer sa constance et sa détermination dans ce combat républicain, au service de nos concitoyens.\nCe texte est aussi une promesse pour l’avenir. C’est pourquoi je remercie tout particulièrement les rapporteurs Stéphane Delautrette et Didier Le Gac, pour nos nombreux échanges et pour le travail de qualité que nous avons pu conduire. Cher Didier, cher Stéphane – vous me permettrez de vous appeler par votre prénom –, vous avez proposé en commission des précisions utiles et bienvenues, que je salue.\nDerrière cette proposition de loi sur le statut de l’élu, il y a une histoire, une histoire française, une histoire d’engagement, de dévouement, de service public et de décentralisation. Cette histoire commence évidemment en 1789, avec les États généraux puis la loi du 14 décembre 1789. Elle se poursuit avec la loi de 1831, lorsque la nation s’est dotée d’un principe fondateur, celui de la gratuité du mandat électif – non pas par désintérêt pour ceux qui s’y consacraient, mais parce que la fonction élective ne devait pas être assimilée à un métier.\nDès 1884, la loi municipale reconnaît toutefois la nécessité de rembourser les frais engagés et, en 1972, la République reconnaît aux élus locaux un droit particulier à la retraite. Au fil du temps, l’histoire a tranché : on ne peut pas exiger le dévouement sans offrir les moyens d’agir, et l’on ne peut pas vouloir représenter toute la société si seuls les plus fortunés, les retraités ou les fonctionnaires ont les moyens de s’engager.\nLes grandes lois de décentralisation ont renforcé cette conviction : en donnant davantage de responsabilités aux collectivités, elles ont rendu indispensable un cadre clair, protecteur et équitable pour celles et ceux qui les dirigent. Dix ans après la création de la charte de l’élu local et cinq ans après la loi « engagement et proximité », nous avons la possibilité, grâce à ce texte, d’ancrer officiellement dans la loi un statut de l’élu local : c’est ce que nous vous proposerons à l’article 5  bis.\nNous avons tous conscience que le texte que nous défendons aujourd’hui est un texte de progrès, qui doit être aussi un texte d’équilibre. Il vient conforter les droits des élus locaux et contient des avancées majeures que je vais vous rappeler.\nIl vise d’abord à une plus grande équité entre les élus, en assurant notamment aux maires d’arrondissement et aux élus de certaines collectivités d’outre-mer les mêmes garanties qu’aux autres. Nous allons proposer aussi que les revalorisations des indemnités des élus soient mieux ciblées pour permettre de réduire l’écart d’indemnités entre l’ensemble des élus du bloc communal.\nAujourd’hui, le maire d’une petite commune de moins de 500 habitants perçoit une indemnité de seulement 1 050 euros brut, alors que celui d’une commune de plus de 100 000 habitants en reçoit une près de six fois supérieure. Notre action doit donc être ciblée sur les cinq premières strates, jusqu’à 20 000 habitants. En effet, il subsiste un écart de 1 000 euros entre la cinquième et la sixième strate des maires : cet écart n’est pas justifié, et nous devons réduire cette iniquité. Ce sera l’objet des articles 1er et 2.\nDeuxième objectif : mieux protéger les élus locaux. À l’heure – nous ne le dirons jamais assez – où les élus font face à des menaces croissantes, il est impératif d’assurer leur sécurité juridique et personnelle par un élargissement de la protection fonctionnelle, prévu par les articles 19 et 20. Il convient également de s’assurer que l’engagement ne se traduise pas par une perte de droits : c’est notamment l’objet de l’article 17, pour une meilleure conciliation entre congés maladie ou maternité et mandat d’élu local.\nNous devons aussi mieux accompagner la sortie de mandat, grâce à une réforme de l’allocation différentielle de fin de mandat (ADFM) proposée aux articles 26 et 27, afin de mieux mobiliser cet outil adossé à un fonds, vous le savez, largement sous-utilisé.\nIl s’agit aussi de mieux accompagner la conciliation entre vie professionnelle et exercice du mandat local, en impliquant les employeurs par le rétablissement du label prévu à l’article 10 sans créer une nouvelle niche fiscale, ou encore en permettant d’accroître de manière raisonnée, raisonnable et non prohibitive pour l’employeur, les possibilités d’autorisations spéciales d’absence, à l’article 9, et de congés de formation, à l’article 15.\nTroisième axe : la fin du conflit d’intérêts public-public, à laquelle je tiens particulièrement. Cette spécificité française insolite complique la vie des agents publics et des élus locaux. Nous proposons de modifier certaines règles de quorum surannées et excessives, en nous appuyant sur les propositions d’un éminent juriste, le président Christian Vigouroux.\nEnfin, saluons le fait que cette loi encourage l’ouverture des mandats locaux à de nouveaux profils : parce que nous voulons une démocratie vivante, nous devons faciliter l’engagement des étudiants, pour que la jeunesse puisse elle aussi s’emparer progressivement des responsabilités locales. C’est l’esprit de l’article 12, mais aussi des articles 7 et 7  bis prévoyant l’extension du recours à la visioconférence, pour moderniser le fonctionnement de nos instances locales.\nCette proposition de loi intègre bien sûr d’autres sujets, que nous aurons l’occasion d’aborder au cours de la discussion.\nNous sommes attachés à garder l’esprit de ce texte, adopté à l’unanimité au Sénat, notamment grâce à la ténacité de Mme Françoise Gatel – je salue la capacité d’innovation dont elle a fait preuve avec ses anciens collègues sénateurs. Mais il nous faudra aussi avoir conscience que cette discussion se déroule dans un contexte nouveau, puisque nos finances publiques sont soumises, semble-t-il, à une pression exceptionnelle.\nNous vivons un moment où chaque euro dépensé doit être justifié et utile, chaque réforme pesée, chaque avancée équilibrée. Veillons donc ensemble à ne pas alourdir de manière non maîtrisée la charge budgétaire des réformes décidées ici pour les collectivités. Veillons ensemble à simplifier, là où nous donnons parfois le sentiment de les compliquer. Ne créons pas des actions obligatoires qui rendraient la vie des petites communes – je pense par exemple aux équipes municipales des petites communes de 400 habitants – encore plus compliquée. Rendons les évolutions possibles, mais pas obligatoires.\nAu moment où chacun dans le pays doit faire des efforts, nous devons veiller à ne pas grever les budgets de nos collectivités. Nous avons partagé avec les élus locaux la position du gouvernement sur l’article 3 de la proposition de loi, relatif à la retraite des élus locaux, qui mérite une réflexion et des débats approfondis.\nGrâce à ces ajustements, nous pourrons remettre au Sénat un texte adapté aux nouvelles réalités – elles ont changé en un an –, en visant l’objectif ambitieux de doter nos élus locaux d’un statut avant 2026.\nPour cela, nous avons besoin de vous. Tout comme nous nous sommes battus pour que ce texte soit inscrit à votre ordre du jour, soyons conscients que nous sommes observés, par les élus mais aussi par l’ensemble de nos concitoyens. Faisons en sorte que cette future loi exprime la reconnaissance de tous les Français envers leurs élus locaux. Qu’ils soient fiers de pouvoir dire que la République sait remercier et protéger ceux qui les représentent chaque jour, même dans des temps difficiles. (Applaudissements sur plusieurs bancs des groupes EPR, DR, Dem et HOR ainsi que sur les bancs des commissions. – Mme la ministre déléguée chargée de la ruralité applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme la ministre déléguée chargée de la ruralité."
+        },
+        {
+          "orateur": "Mme Françoise Gatel",
+          "fonction": "ministre déléguée chargée de la ruralité",
+          "role": null,
+          "idActeur": "PA266795",
+          "texte": "Avant toute chose, comme François Rebsamen, j’ai une pensée émue pour le président Marleix et sa famille. Cette nouvelle tragique endeuille la démocratie et l’ensemble des républicains qui la font vivre. Le texte que nous examinons ce soir prend ainsi une résonance particulière, quand on sait l’ardent défenseur de la démocratie locale que fut Olivier Marleix, non seulement dans cet hémicycle, mais aussi dans sa commune d’Anet, comme maire et conseiller départemental.\nTous les six ans, parce qu’ils veulent agir et servir, parce que leur enthousiasme l’emporte bien souvent sur la conscience des difficultés auxquelles ils s’exposent, près de 1 million de candidats se présentent aux suffrages de leurs concitoyens lors des élections locales. Création révolutionnaire, première incarnation de la démocratie participative, espace de proximité où les citoyens façonnent leur destinée collective, la commune est plus moderne que jamais. Or, dans nos 35 000 communes, que le ciel reste serein ou que l’orage gronde, les élus veillent, vigies infatigables, discrètes sentinelles de la République. Il nous revient d’agir pour éviter que ces vigies ne vacillent.\nEn 2020, 345 conseils municipaux restaient incomplets, 106 communes n’avaient pas de candidats aux élections municipales, et nombre d’autres une seule liste. Qu’est devenue cette formidable France de l’engagement ? Malmenés, parfois, par des citoyens exigeants, entravés par des normes complexes et souvent inadaptées, faiseurs de lien dans une société fragmentée, trop fréquemment violente, ces centaines de milliers d’hommes et de femmes de devoir, davantage à la manœuvre qu’à l’honneur, sont épuisés. Je salue à cette occasion l’engagement du député Vincent Jeanbrun, lâchement agressé voici deux ans, lorsqu’il était maire. Depuis 2020, près de 2 200 maires, soit quatre fois plus que durant le mandat 2008-2014, ont démissionné parce que leur engagement avait trop douloureusement bouleversé leur vie ; ajoutons à cela, au sein des conseils municipaux, 67 000 vacances de sièges, équivalant à 13 % du demi-million d’élus locaux.\nMesdames et messieurs les députés, si ces élus lâchent la rampe, notre République, notre démocratie tout entières sont menacées. Ceux qui doutaient de leur force n’ont pu que saluer leur vaillance, leur résilience, lors de la crise sanitaire et des épisodes climatiques très graves dernièrement traversés par notre pays. Vigilants, bienveillants, attentifs à tout et à chacun, ils veillent, ne renoncent jamais ; très souvent pour eux, gémir n’est pas de mise.\nJ’ai pu le constater dans chacun des quarante-deux départements que j’ai récemment visités : partout, dans les communes, les élus imaginent des solutions innovantes, audacieuses, porteuses d’avenir pour notre pays – médicobus en Lozère, réaménagement prometteur d’un centre-bourg à La Ferté-Saint-Aubin, où je me trouvais jeudi dernier à l’invitation de votre collègue Constance de Pélichy.\nPourtant, la lassitude les gagne ; chaque jour, un maire démissionne. Ce à quoi nous assistons n’a rien d’un découragement lié aux circonstances, d’une crise passagère des vocations : il s’agit d’une inflexion grave et durable. En cet instant où nous sommes entendus et attendus par les élus locaux, comme l’a dit le ministre, j’adresse une pensée très fraternelle à ceux qui sont allés jusqu’au bout de leurs forces ; je pense au maire de Signes, Jean-Mathieu Michel, mort en 2019 dans l’exercice de ses fonctions, à tous les élus – vous en connaissez de nombreux – victimes de violences verbales ou physiques, autrement dit d’agressions, d’insultes, et dont les visages nous accompagnent ce soir.\nLa République ne les abandonnera pas. Attentifs à leur quotidien, nous continuons de déployer le plan national de prévention et de lutte contre les violences aux élus, lequel vise à renforcer leur protection juridique, psychologique, mais aussi physique, grâce à des dispositifs comme le Centre d’analyse et de lutte contre les atteintes aux élus (Calae).\nAux côtés des associations d’élus et de parlementaires, dont je salue les travaux, les initiatives, nous sommes déterminés à agir ; face au lent délitement de notre démocratie locale, nous ne nous résignerons pas. C’est tout le sens de l’inscription de cette proposition de loi à l’ordre du jour de votre assemblée. Je remercie très chaleureusement le premier ministre et le ministre pour leur soutien indéfectible au texte. Je tiens également à saluer l’important travail de Stéphane Delautrette, de votre ancien collègue Sébastien Jumel et de Violette Spillebout, qui ont démontré l’attachement de votre assemblée à la juste reconnaissance de nos élus locaux ; le travail du président de la commission des lois – cher Florent Boudié – et celui des rapporteurs, Didier Le Gac et, de nouveau, Stéphane Delautrette, pour la qualité de nos échanges de vues, dans un climat de confiance fort précieux.\nSi la démocratie n’a pas de prix, elle a forcément un coût. Nous devons l’assumer en faisant un choix qui est déjà celui du gouvernement : rechercher pour chaque mesure le meilleur équilibre possible. Je le dis en responsabilité, consciente de la gravité de la situation budgétaire. Cette proposition de loi tend à redonner à chacun de nos concitoyens, quelle que soit sa situation personnelle, familiale, professionnelle, quels que soient son âge, les moyens et l’envie de s’engager : c’est là tout le sens de la promesse républicaine. Cela suppose, le ministre l’a dit, de faciliter et sécuriser l’exercice d’un mandat, de revaloriser les indemnités, de développer la formation, de reconnaître l’effort des entreprises qui emploient des élus salariés et, surtout, de sécuriser la sortie du mandat, afin qu’aucun élu ne se retrouve en difficulté lors d’une éventuelle reconversion professionnelle.\nSi le maire reste l’élu préféré des Français, c’est parce qu’il incarne la République dans sa proximité, son efficacité, la démocratie dans ce qu’elle a de plus représentatif et participatif. Je tiens à rendre hommage à tous les élus locaux qui s’engagent pour servir : ils sont des faiseurs de possibles, de solutions. Comme le dit l’adage, ils ne savaient pas que c’était impossible, ou seulement difficile, alors ils l’ont fait ! La commune n’est pas le dernier kilomètre de la République, mais son cœur – le lieu fondamental où se construisent l’égalité des droits, la fraternité, où s’éveille la conscience citoyenne. Le gouvernement et moi-même portons avec force la conviction que l’avenir de notre pays repose sur la vitalité de nos territoires, la détermination et l’énergie des élus qui les font vivre.\nDevant vous, je suis tout à la fois émue, honorée et fière de débattre de cette proposition de loi adoptée à l’unanimité au Sénat, où je l’avais déposée en tant que sénatrice. Il ne s’agit pas d’un texte de privilèges ; il exprime le respect et la gratitude de la République envers ceux qui lui sont essentiels. (Applaudissements sur les bancs des groupes EPR, SOC et Dem ainsi que sur les bancs des commissions. – Mme Dominique Voynet applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Dans moins d’un an, les 500 000 conseillers municipaux que compte la France remettront leur mandat en jeu, tandis que des dizaines de milliers de nos concitoyens brigueront pour la première fois un mandat électoral. Ce souffle démocratique, une chance pour notre pays, cache une réalité plus inquiétante : trop nombreux sont ceux qui, découragés par des conditions d’exercice de plus en plus contraignantes, hésitent voire renoncent à s’engager ou même à renouveler leur engagement. Alors que les communes, lieux du lien social, de la proximité, de l’action concrète, constituent le cœur battant – je tiens à saluer la pugnacité de celles et ceux qui le font battre – de notre République, il devient, élection après élection, toujours plus difficile de trouver des femmes, des hommes prêts à endosser ces responsabilités essentielles, particulièrement dans les communes rurales.\nCette crise silencieuse n’est pas anodine : elle met en péril la vitalité démocratique de nos territoires, menace l’équilibre même de notre modèle républicain. Face au risque d’un effondrement des vocations à l’horizon 2026, je me réjouis de voir ce texte, plus d’un an après son adoption au Sénat, arriver enfin dans notre hémicycle. Largement attendue par les élus partout en France, y compris dans les territoires ultramarins, cette proposition de loi vise à répondre à une exigence démocratique simple : quels que soient son sexe, ses origines sociales, sa situation professionnelle et personnelle, tout citoyen doit pouvoir être candidat à une élection. Or le compte n’y est pas ; l’absence d’un véritable statut de l’élu local rend bien souvent difficile de concilier mandat, vie professionnelle et vie de famille.\nComment justifier que seuls 19,8 % des maires soient des femmes, moins de 9 % des employés et ouvriers, alors que ceux-ci représentent près de la moitié des actifs ? Notre assemblée ne peut plus ignorer ce déséquilibre qui abîme la démocratie locale. Si aucune proposition de loi ne saurait à elle seule résoudre la crise de la représentation démocratique, nos suggestions ont pour but de supprimer les freins à l’engagement de ceux qui hésitent encore, d’aider ceux qui ont franchi le pas. Certes, la décision ne dépend pas seulement des conditions d’exercice du mandat : la complexification de l’action publique locale et la réduction des marges de manœuvre financières des collectivités territoriales ne jouent pas en sa faveur – nous aurons l’occasion d’en reparler au moment de l’examen du prochain projet de loi de finances. Toutefois, et même si elle ne remédiera pas à toutes les difficultés, la création d’un statut de l’élu local contribuera à redonner de la vitalité à notre démocratie.\nDe l’établissement d’un véritable droit à la formation à la reconnaissance de l’expérience acquise en fin de mandat, en passant par la facilitation de l’engagement des étudiants, des personnes en situation de handicap, des femmes, entre autres, le texte promet un choc d’attractivité en matière d’engagement local ; nous pouvons nous en féliciter. Je préfère le dire dès maintenant, ce choc aura un coût financier : prétendre que nous pourrions, sans moyens supplémentaires, répondre efficacement aux difficultés croissantes rencontrées par ces élus serait une forme d’illusion. Il ne s’agit pas de faire des élus locaux des citoyens à part, mais de reconnaître leur place singulière au sein de notre République – une place qui les expose, les engage, les mobilise vingt-quatre heures sur vingt-quatre au service de l’intérêt général, dans des conditions extrêmement exigeantes.\nCe texte n’est pas le fruit d’une impulsion isolée mais le résultat d’un travail parlementaire approfondi, nourri par les contributions du Sénat et de l’Assemblée nationale – je salue le travail de notre délégation aux collectivités territoriales, tout particulièrement celui de Violette Spillebout et, lors de la précédente législature, celui de Sébastien Jumel – ainsi que par les propositions des associations d’élus. Aussi, je serai attentif à ce que ses acquis soient préservés dans leur esprit comme dans leur portée ; à quelques mois des élections municipales, nous devons envoyer à nos concitoyens un signal fort.\nNous tenons ici, chers collègues, une occasion rare : celle de faire aboutir un texte qui porte l’empreinte d’un travail consensuel, rigoureux, transpartisan. Je forme donc le vœu que, d’ici à la fin de la semaine, nous lui donnions la force d’une adoption unanime, à la hauteur de l’enjeu qu’il représente pour nos territoires et pour la vitalité de notre vie démocratique. (Applaudissements sur les bancs des groupes EPR, SOC et Dem ainsi que sur les bancs des commissions. – Mme Dominique Voynet applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Didier Le Gac, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Mercredi dernier, la publication d’un sondage Ipsos réalisé pour l’Association des maires de France et des présidents d’intercommunalité (AMF) nous apprenait que le maire reste la figure politique en laquelle les Français ont le plus confiance – 69 %. Nos concitoyens voient en lui l’exemple d’une action publique concrète, efficace ; élu local durant près de vingt ans, je mesure la satisfaction que procure ce lien direct avec ses concitoyens. Paradoxalement, nous assistons depuis quelques années à une forte crise de l’engagement local : depuis 2020, cela a été dit, pas moins de 2 189 maires ont démissionné.\nÀ ce phénomène sans précédent, il nous faut répondre. Les raisons de cette crise sont multiples : beaucoup de maires estiment leur travail de plus en plus compliqué pour des raisons administratives ou juridiques, notamment la multiplication des recours contre leurs projets ; nombre d’entre eux ne se sentent pas assez protégés contre l’incivilité, voire l’insécurité, suscitées par certains administrés. Bref, le découragement gagne de plus en plus d’élus locaux.\nDe l’autre côté, nos concitoyens souhaitant s’impliquer dans la vie de leur commune hésitent de plus en plus à le faire car il n’est jamais simple de concilier sa vie professionnelle ou personnelle avec un engagement d’élu. C’est pourquoi ce texte apporte des réponses concrètes pour faciliter l’exercice du mandat d’élu. Il prévoit par exemple une meilleure prise en charge des frais de transport, des frais de garde d’enfants, des congés maladie, des congés maternité, ou encore l’amélioration de la protection fonctionnelle.\nCe texte, très attendu, ne vise pourtant pas à créer un statut de l’élu local. En effet, le terme de statut pourrait laisser croire que les élus devraient bénéficier d’une sorte de régime dérogatoire au droit commun ; il n’en est rien. En revanche, l’exercice du mandat d’élu local doit être mieux défini, mieux protégé et mieux valorisé.\nJe formulerai trois remarques sur les articles dont je suis rapporteur.\nLa première porte sur l’article 1er, relatif aux indemnités. Lors des débats en commission, nous n’avons pas voulu augmenter de manière importante et uniforme les indemnités des élus. En effet, dans un contexte budgétaire fortement contraint et face aux difficultés de pouvoir d’achat de nombre de nos concitoyens, il nous a paru inopportun de majorer ces indemnités de manière trop prononcée. En revanche, nous avons émis le vœu que cette majoration profite surtout aux maires des communes de taille modeste. C’est précisément cette ligne de crête, entre la nécessité de revaloriser l’engagement local et l’impératif de maintenir le sens des responsabilités au regard de l’état de nos finances publiques, que je défendrai au cours de nos débats.\nMa deuxième remarque porte sur l’article 3, relatif aux retraites. Je comprends la volonté du Sénat de reconnaître l’engagement des élus en leur accordant un trimestre de retraite pour chaque mandat effectué. Cependant, je regrette qu’une telle mesure s’applique uniformément à l’ensemble des élus, y compris à ceux qui ont continué de valider leurs trimestres au titre de leur activité professionnelle. À mon sens, d’autres propositions auraient été préférables, notamment pour revaloriser le montant des pensions de retraite plutôt que d’agir sur la durée de cotisation.\nMa troisième remarque porte sur l’article 18. Étant élu d’un département qui a vu une multiplication des mises en cause de maires pour des conflits d’intérêts dits public-public, ces dernières années, nous avons souhaité, en accord avec l’ensemble des associations d’élus, œuvrer à une refonte de cette notion qui n’existe pas chez nos voisins européens.\nAujourd’hui, en effet, un élu municipal qui est également président ou simple membre d’un syndicat intercommunal peut être accusé de conflit d’intérêts « public-public », pour peu qu’il participe au vote en conseil municipal d’une délibération concernant un sujet en rapport avec ce même syndicat. Au-delà de l’absurdité de ces situations, cela crée un climat inutile de suspicion à l’égard des élus. Il est grand temps de clarifier ce sujet.\nEnfin, je formule le vœu que nos travaux et la navette avec le Sénat permettent une adoption rapide du texte et son entrée en vigueur avant les prochaines élections municipales de 2026. Ce texte constitue un véritable enjeu pour notre démocratie. Tout citoyen qui veut s’engager doit, tout simplement, pouvoir le faire. (Applaudissements sur les bancs du groupe EPR et sur les bancs de la commission. – Mme Dominique Voynet applaudit également.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835939",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Dans la discussion générale, la parole est à Mme Blandine Brocard."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Permettez-moi à mon tour d’exprimer des pensées très émues pour notre collègue Olivier Marleix.\nAvant d’entrer dans le détail de cette proposition de loi, ayons en tête quelques chiffres simples, mais essentiels : en France, nous comptons 34 000 maires, 132 000 adjoints, plus de 400 000 conseillers municipaux dans les communes de moins de 20 000 habitants. Seules 521 communes dépassent ce seuil. Bien sûr, cela ne diminue en rien l’engagement des élus des grandes villes, mais cela nous rappelle que l’immense majorité de nos élus locaux exercent dans des territoires ruraux ou périurbains, souvent en première ligne, souvent seuls, souvent avec peu de moyens. Ce texte, dans sa philosophie, s’adresse avant tout à eux.\nPour ma part, je pense qu’il n’y a pas de véritable crise de vocation, pas plus que lors des précédents renouvellements municipaux. Je suis convaincue que les candidats aux élections municipales de 2026 seront encore nombreux – du moins, je l’espère.\nReste qu’il y a bien une usure rapide de l’engagement quand l’énergie des premiers mois cède la place à la lourdeur des responsabilités, aux injonctions contradictoires, aux obstacles normatifs, à l’impossibilité de financer un projet pourtant urgent et utile, au manque d’ingénierie et parfois même – trop souvent – à la violence verbale, morale ou physique.\nL’élu local est le premier recours, le dernier rempart, l’éternel responsable. Qu’il s’agisse d’un chien errant, d’une inondation, d’un voisin bruyant, d’un commerce en difficulté ou encore d’un arbre au milieu de la route, c’est le maire ou l’adjoint qu’on appelle ; lui qui dort avec son portable de permanence sur sa table de chevet.\nPourtant, les indemnités des élus locaux restent dérisoires. Le maire d’une petite commune touche entre 1 000 et 2 600 euros brut par mois – c’est souvent moins que les agents qu’il encadre. Ses adjoints, eux, touchent entre 400 et 1 100 euros par mois, alors qu’ils sont présents sur tous les chantiers, à tous les conseils, face à tous les imprévus. En 2019, la loi « engagement et proximité » a permis une revalorisation bienvenue mais l’écart reste immense : la rémunération des élus locaux dans les petites communes peut être jusqu’à six fois inférieure à celle dans les grandes communes.\nLes sénateurs proposent une hausse uniforme des indemnités de 10 %. Une telle mesure, en plus d’être très coûteuse, aggraverait les inégalités. Comment peut-on sérieusement proposer une augmentation de 600 euros pour un maire qui perçoit déjà 5 600 euros d’indemnité, alors que d’autres perçoivent à peine le smic ? Nous proposons donc une revalorisation dégressive, ciblée sur les communes de moins de 20 000 habitants, là où l’engagement est souvent le plus quotidien, le plus personnel et le plus exposé.\nEn commission des lois, nos échanges ont été riches, respectueux et constructifs, au-delà des appartenances politiques. Nous avons partagé une conviction : reconnaître l’engagement des élus locaux ne revient pas à octroyer des privilèges, mais bien à réparer une injustice.\nNous avons aussi repéré des points de vigilance importants.\nPour ce qui est de la conciliation entre mandat et emploi d’abord, il convient de permettre aux élus de continuer à travailler sans être pénalisés dans leur carrière et d’inciter les entreprises à valoriser l’engagement public, sans créer de complexité ni alimenter une suspicion de conflit d’intérêts.\nEn ce qui concerne la retraite, ensuite, nous devons corriger les rigidités et supprimer les incohérences, sans pour autant créer un statut dérogatoire qui risquerait de renforcer la défiance.\nNous avons également évoqué la question de la vie après le mandat. Il est légitime de valoriser les compétences acquises et de sécuriser les périodes de transition, mais force est de constater que seuls 173 élus ont pu bénéficier de l’allocation de fin de mandat en 2020. Cela dit tout du fossé entre le droit théorique et la réalité.\nS’agissant de la dotation particulière relative aux conditions d’exercice des mandats locaux (DPEL), l’extension de son usage sans augmentation des crédits reviendrait à pénaliser les communes les plus vulnérables au profit des autres. Il faudra faire preuve de responsabilité budgétaire sur ce point.\nEnfin, permettez-moi de dire un mot sur la méthode. Près de la moitié des amendements ont été écartés au titre de l’article 40 de la Constitution. Pourtant, ce texte est entièrement gagé au dernier article. Nous ne pouvons qu’en réduire la dépense, sans pouvoir proposer un euro supplémentaire, même gagé. C’est profondément frustrant.\nCe texte n’est pas une solution magique, mais il peut constituer un signal fort. Nos élus locaux ne demandent pas des privilèges mais du respect, de la reconnaissance et les moyens de continuer à servir leurs communes dans des conditions dignes de notre République, qu’ils honorent à chaque instant. À nous d’être à la hauteur de leur engagement. (Applaudissements sur les bancs des groupes Dem et EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Comme les intervenants précédents, j’ai une pensée émue pour notre ancien collègue Olivier Marleix et j’adresse un message d’amitié à ses collègues et à sa famille.\nPrès de 1 million de candidats aux élections locales en 2020. Ce chiffre témoigne de la vigueur de la volonté d’engagement de nos concitoyens pour leur territoire.\nPrès de 560 000 élus locaux en France : parmi eux, plus de 1 900 conseillers régionaux, un peu plus de 4 000 conseillers départementaux et 520 000 conseillers municipaux. Ces chiffres témoignent de la vigueur avec laquelle se maintient l’engagement des élus locaux pendant leur mandat.\nNous ne pouvons ignorer l’autre réalité, celle des démissions. Selon une récente étude réalisée par l’association des maires de France et par le Centre de recherches politiques de Sciences Po (Cevipof), ce phénomène connaît une hausse sans précédent. Entre juillet 2020 et mars 2025, pas moins de 2 189 maires ont démissionné. En l’espace de trois mandats municipaux, soit entre 2008 et 2026, le nombre annuel moyen de démissions de maires a été multiplié par quatre.\nNi les chiffres ni les causes de ces démissions ne peuvent nous satisfaire. Parmi les causes de ces démissions figure la difficulté à mener les projets municipaux jusqu’au bout, dans un tiers des cas, avant même les questions de santé physique et mentale. Comment accepter que l’implication dans la vie politique locale épuise nos élus locaux, dont l’engagement se fait trop souvent au détriment de leur vie personnelle et professionnelle, et parfois même au prix de leur santé ?\nLa commune est le premier point de contact de nos concitoyens avec le service public et avec l’État, du fait des nombreuses missions qu’elle assure pour lui. Certains disaient que les maires sont « à portée de baffe » ; malheureusement, ils en sont parfois victimes. Pourtant, le maire reste l’élu préféré de nos concitoyens.\nLes départements et les régions assurent des missions toujours plus vastes et importantes, à la suite de l’élargissement de leurs prérogatives, ces cinquante dernières années, opéré par le constituant et le législateur.\nDans ce contexte, le groupe Horizons & indépendants estime qu’un texte législatif visant à créer un statut de l’élu local ainsi qu’à simplifier la vie publique locale est une excellente idée. Nous saluons votre initiative, madame la ministre, vous qui étiez alors sénatrice et rapporteure de ce texte.\nIl n’existe toujours pas de statut de l’élu local à proprement parler. Pourtant, la loi du 2 mars 1982 l’avait annoncé et promis aux élus locaux. Son article 1er disposait que des lois détermineraient le mode d’élection et le statut des élus. Force est de constater que, quarante-trois ans plus tard, aucun statut de l’élu local n’a vu le jour. La présente proposition de loi visait initialement à pallier cette lacune en améliorant le régime indemnitaire des élus, en facilitant la conciliation entre l’exercice de leur mandat et leur vie personnelle et en sécurisant leur sortie de mandat.\nLe groupe Horizons & indépendants soutient bien évidemment cette proposition de loi. Cependant, nous tenons à souligner que la création d’un statut de l’élu local doit prévoir des mesures qui ne soient pas uniquement financières. Notre groupe est convaincu qu’une réponse efficace ne peut être seulement budgétaire : il convient également de valoriser des mesures organisationnelles au sein des collectivités ou d’allègement des normes. Seule une telle philosophie permettra de répondre aux attentes des élus locaux tout en limitant l’aggravation du déficit public.\nC’est pourquoi notre groupe a déposé des amendements visant à accorder le statut de salarié protégé aux élus locaux, à réfléchir à l’opportunité de garantir que les maires en disponibilité ne soient pas lésés dans leurs droits à l’assurance chômage à l’issue de leur mandat. Il s’agit aussi de créer un véritable statut de l’élu local, en inscrivant dans le code général des collectivités territoriales (CGCT) l’ensemble des garanties dont les élus locaux jouissent. Ces mesures permettraient de poser les premières pierres d’un véritable statut de l’élu local. Nous le devons aux maires et aux élus locaux ; nous le devons à notre démocratie.\nReste que cette proposition de loi améliore indéniablement les conditions d’exercice du mandat d’élu local. Le groupe Horizons & indépendants la soutiendra. (Applaudissements sur plusieurs bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Martine Froger."
+        },
+        {
+          "orateur": "Mme Martine Froger",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA822617",
+          "texte": "Il existe aujourd’hui dans notre République une injustice flagrante : ceux qui sont en première ligne, ceux qui incarnent au quotidien l’intérêt général, ceux qui affrontent les difficultés les plus concrètes sont paradoxalement ceux que le droit protège et accompagne le moins.\nDepuis des années, les élus locaux réclament un véritable statut, qui reconnaisse la réalité de leur engagement et leur donne les moyens d’agir. Le présent texte constitue une avancée attendue ; il doit répondre à leurs aspirations légitimes.\nLe groupe LIOT a toujours soutenu les collectivités territoriales et les élus de terrain, convaincu que la démocratie locale était la clé d’un lien fort entre la République et ses citoyens. C’est pourquoi nous soutiendrons ce texte qui va, incontestablement, dans la bonne direction.\nIl s’agit d’envoyer un message clair : celui d’un soutien plein et entier à l’ensemble des élus locaux. Face à la crise de l’engagement que nous connaissons, il est indispensable d’apporter des réponses concrètes et ambitieuses. Ce texte vise ainsi à répondre à une triple exigence : améliorer les conditions d’exercice des fonctions locales, renforcer la protection des élus et les accompagner tout au long de leur mandat mais aussi après celui-ci. Ces trois piliers sont essentiels pour redonner le goût et l’envie de s’engager au service de nos concitoyens.\nL’accompagnement financier, qui constitue le premier pilier, est très attendu, en particulier dans les zones rurales où les responsabilités se multiplient alors même que les moyens restent contraints. Il était indispensable de revaloriser certaines indemnités, notamment celles des exécutifs locaux et des maires, qui doivent pouvoir exercer leur mandat dans des conditions dignes. Nous saluons donc les dispositions qui fixent les indemnités au plafond prévu par la loi : c’est une reconnaissance de la charge et de la complexité des missions qui incombent aux élus locaux.\nCependant, certaines mesures semblent réservées à un niveau de collectivité, ce qui risque d’introduire des inégalités de traitement. Il nous semble indispensable de veiller à la cohérence et à l’égalité entre tous les élus, quel que soit leur échelon.\nLe deuxième pilier renforce la sécurité des élus. La position de notre groupe est simple et constante : un élu est un élu, quelle que soit la taille de sa commune ou la nature de son mandat. Lorsqu’il est menacé, agressé ou diffamé, il doit bénéficier de la même protection. Nous saluons la volonté d’étendre l’octroi automatique de la protection fonctionnelle. C’est une avancée importante et nécessaire face à la hausse inquiétante des violences à l’encontre des élus.\nToutefois, nous voulons souligner une carence : l’absence de protection fonctionnelle devant les juridictions financières comme la Cour des comptes. Il y a là un enjeu de sécurité juridique essentiel : un élu doit pouvoir se défendre dans toutes les procédures où sa responsabilité est engagée.\nL’accessibilité et l’inclusion forment le troisième pilier. Nous devons lever les freins qui empêchent trop souvent les femmes, les jeunes ou les personnes en situation de handicap de s’investir dans la vie publique. Le chemin est encore long pour garantir une véritable égalité. Je pense particulièrement à l’injustice qui frappe les maires en congé maternité : privées d’indemnité, confrontées à la difficulté de se faire remplacer, elles subissent une discrimination inacceptable. De ce point de vue, nous saluons les avancées contenues dans l’article 17, qui permettra aux femmes élues d’envisager sereinement leur congé maternité.\nEnfin, il nous faut aborder un enjeu de fond : la redéfinition du sens de l’engagement local. Trop d’élus ont le sentiment d’être prisonniers d’un carcan administratif, noyés sous les obligations réglementaires, sans véritables marges de manœuvre. Cette réalité alimente la lassitude, la démotivation, parfois même le renoncement.\nPour inverser cette tendance, il faut leur rendre de l’autonomie, leur permettre de mobiliser des leviers concrets pour agir et innover au service de leurs territoires et de leurs concitoyens. Accroître cette capacité d’initiative, c’est redonner de la fierté et de l’envie à celles et ceux qui s’engagent dans la vie publique. C’est en recréant cette dynamique positive, en renforçant la confiance et la liberté d’action des élus locaux, que nous pourrons véritablement redonner vie à notre démocratie, au plus près du terrain. (Applaudissements sur les bancs des groupes LIOT, EPR, SOC et Dem ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Elsa Faucillon."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Depuis 2020, près de 13 000 élus locaux ont quitté leur mandat, selon le décompte de l’AMF. Le nombre de démissions de maires, bien qu’elles demeurent minoritaires, augmente : on en recense 1 500 entre 2020 et 2023, soit un doublement par rapport à la période s’étendant de 2004 à 2014. Ces chiffres traduisent une réalité préoccupante : l’engagement local, qui constitue pourtant un pilier de notre démocratie, est désormais fragilisé.\nDe nombreux maires et élus locaux témoignent d’une crise des vocations, nourrie par plusieurs facteurs. Ils rencontrent des difficultés importantes à concilier leur vie professionnelle et personnelle avec un engagement public ; ils font face à une recrudescence des menaces et des violences ou encore à des obstacles à la reconversion professionnelle. Nombreux sont ceux qui pointent un déséquilibre entre la surcharge des responsabilités et le désengagement de l’État – on pense aux baisses de dotation aux collectivités."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Les élus locaux souffrent parfois de voir les immenses besoins des administrés sans pouvoir y répondre.\nCertes, la proposition de loi ne répond pas précisément à tous ces enjeux, en tout cas pas au dernier que j’ai mentionné, mais elle vise à reconnaître l’engagement des élus locaux à sa juste valeur. De nombreux rapports parlementaires, tels que celui de Sébastien Jumel et Violette Spillebout, ont souligné le large consensus politique autour du mal-être des maires et préconisé une revalorisation de leur statut ainsi que des protections renforcées.\nNous soutenons donc les objectifs de ce texte. Il tend à améliorer concrètement les conditions d’exercice du mandat, tout en sécurisant le parcours des élus tout au long de leur engagement afin d’éviter que la fonction d’élu local ait pour corollaire la précarité, l’insécurité ou la marginalisation professionnelle. Adoptée à l’unanimité au Sénat, la proposition de loi comporte des avancées importantes que nous saluons : revalorisation des indemnités, développement des droits à la formation et sécurisation de la fin de mandat. Elle contient également des mesures qui permettront de diversifier les profils en prenant en compte la situation des étudiants, en accompagnant des élus en situation de handicap ou en assouplissant les règles en cas de maladie ou d’événements personnels majeurs.\nNous nous réjouissons également du renforcement du régime de protection fonctionnelle, qui deviendrait automatique pour tous les élus victimes de violences, garantissant une protection indispensable.\nSur le plan déontologique, la proposition de loi marque également un progrès. Dans un souci légitime de transparence, elle impose désormais aux élus locaux de déclarer, dans un registre tenu par la collectivité territoriale ou le groupement, tout don ou avantage d’une valeur supérieure à 150 euros. Cette obligation, qui vise à prévenir les conflits d’intérêts et à lutter contre toute forme de corruption, exprime la volonté claire de renforcer la confiance des citoyens envers leurs représentants. Nous insistons par ailleurs sur l’importance de la prévention des risques et de la formation des élus pour sécuriser leur action, tout en préservant les principes fondamentaux de la lutte contre la corruption.\nEnfin, nous nous félicitons de la suppression de l’article 23, inspiré du contrat d’engagement républicain, qui introduisait une présomption de défiance à l’égard des élus. Cette suppression rétablit la confiance dans l’action locale, en valorisant l’intégrité de nos élus plutôt qu’en la mettant en doute.\nNous serons attentifs à la formation des élus car il nous semble qu’il faut réaffirmer le libre choix des élus dans la détermination des domaines dans lesquels ils souhaitent se former et de celui de l’organisme de formation – cette liberté est décisive.\nEn définitive, ce texte ne réglera pas à lui seul tous les problèmes de la démocratie locale, mais il marque à n’en pas douter une étape importante. Il porte une ambition claire, celle de garantir davantage de reconnaissance et de protection pour favoriser l’engagement dans une république qui a plus que jamais besoin de ses communes et de ses maires.\nLes maires continuent d’incarner la proximité et la permanence de la République. Les élus locaux manifestent au quotidien l’engagement dans la proximité. Ils méritent un statut à la hauteur de leur mission. Nous sommes très loin de l’attribution de privilèges : nous parlons d’élus locaux dont la situation est souvent précaire. Il s’agit donc – j’y insiste – d’un rattrapage nécessaire et non de la distribution de petits privilèges.\nPour toutes ces raisons, nous soutenons pleinement cette proposition de loi. (Applaudissements sur les bancs des groupes GDR, SOC et LIOT ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Matthieu Bloch."
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Tout d’abord, permettez-moi de m’associer aux légitimes hommages à la suite de la disparition de notre collègue Olivier Marleix. Je tiens à adresser toutes mes pensées à sa famille, à ses proches et à ses collègues du groupe Droite républicaine. C’était un député engagé et il manquera beaucoup à cet hémicycle.\nLe texte que nous examinons est essentiel parce qu’il répond à une crise silencieuse mais profonde : celle de l’engagement local. C’est une crise d’usure, de solitude, et aussi de sens, pour les femmes et les hommes qui, chaque jour, tiennent la République à hauteur d’homme, souvent au prix de leur équilibre personnel, parfois malheureusement au prix de leur sécurité.\nDepuis le dernier renouvellement municipal, vous le savez, plus de 2 000 maires ont démissionné. Derrière ce chiffre, il y a des visages, des vies bouleversées, des vocations brisées, des élus qui ont tout donné pour leur commune et qui, un jour, ont décidé que c’était trop – trop de pressions, de complexité, de solitude. Georges Clemenceau soutenait que la fonction de maire est l’une des plus difficiles de la République. Plus d’un siècle après, ses mots résonnent encore, peut-être plus fort que jamais.\nDevant les immenses difficultés rencontrées par les élus locaux, nous devons répondre présent. Les maires, notamment ceux des petites communes, ne réclament ni un statut de notable ni des privilèges. Ils demandent à exercer leur mission sans mettre en péril leur vie de famille, leur emploi ou leur santé. Ils demandent qu’un congé pour présider un conseil municipal ne devienne pas un sujet de tension dans leur entreprise, que l’indemnité versée par la République soit perçue non comme une gêne, mais comme une juste reconnaissance, et qu’en cas de menace ou de mise en cause, la République soit à leurs côtés.\nDans l’engagement local, le fil républicain se fragilise. Nous avons le devoir de le retendre, pas seulement par des discours d’hommage, mais par des actes législatifs concrets. Ce dont nous débattons ici n’est pas un privilège qu’on accorderait à une corporation, mais un sursaut républicain. Ce n’est pas une faveur, mais une réponse, pragmatique et mesurée, à une réalité que chacun ici connaît : la multiplication des démissions, la difficulté à recruter des candidats dans les petites communes, les reconversions professionnelles impossibles, les menaces croissantes contre les élus et la conciliation devenue presque intenable entre mandat et vie professionnelle.\nCe texte répond à une partie de ces préoccupations. Trois avancées majeures méritent d’être soulignées : la revalorisation des indemnités, indispensable pour garantir un minimum de reconnaissance et de décence dans l’exercice du mandat ; le maintien, réajusté mais préservé, de la bonification de leurs retraites ; la consolidation du droit à la formation et l’extension de la protection fonctionnelle.\nÀ ces avancées, le groupe UDR a souhaité apporter une contribution utile et concrète, fondée sur les retours du terrain. Nos amendements ne remettent pas en cause l’architecture du texte, mais prolongent son esprit : celui d’une responsabilité partagée entre l’État, les collectivités et les élus. Nous proposons notamment que les convocations formelles à des réunions locales, telles que celles des commissions, des syndicats mixtes ou les conférences intercommunales, ouvrent droit à une autorisation d’absence.\nNous proposons aussi la suppression de l’article 7  bis, qui rigidifie inutilement les règles de convocation des conseils dans les petites communes. Le bon sens doit prévaloir. Un maire rural n’est pas un sous-préfet : il n’a ni cabinet ni secrétaire général. Ne l’accablons pas sous prétexte de le protéger.\nCette proposition de loi est modeste dans sa facture mais grande par son intention. Elle redonne du souffle au mandat local sans céder à l’incantation ni à l’illusion comptable. Elle réconcilie la République avec ses serviteurs de terrain, ceux qui sont applaudis dans les discours, mais trop souvent oubliés dans les textes.\nVictor Hugo disait qu’être utile rend les hommes heureux. Les élus locaux sont indiscutablement utiles. Il est temps que la République, en retour, leur soit fidèle et qu’elle soit juste envers eux.\nLe groupe UDR votera ce texte avec détermination et continuera, dans un esprit de responsabilité, à défendre cette idée simple mais exigeante : la République tient, parce que des maires, des adjoints, des conseillers tiennent bon. (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Bruno Bilde."
+        },
+        {
+          "orateur": "M. Bruno Bilde",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720822",
+          "texte": "Avant toute chose, je tiens à saluer avec solennité les plus de 500 000 élus locaux de notre pays et, ce soir, en particulier Olivier Marleix. Ces femmes et ces hommes sont les véritables piliers de notre démocratie. Ils donnent de leur temps, de leur énergie, parfois au détriment de leur vie professionnelle ou familiale, parfois même au péril de leur intégrité physique ou morale. Ils incarnent la République, l’État, la France dans ce qu’elle a de plus concret et quotidien.\nPour 69 % des Français, le maire est l’élu qui inspire le plus confiance – c’est un visage familier et apprécié.\nPourtant, le constat est désormais partagé sur tous les bancs : l’engagement local traverse une crise profonde. Une lassitude généralisée, un sentiment d’abandon et une solitude croissante minent les rangs des élus. Depuis 2020, plus de 2 400 maires ont démissionné, soit plus de 4 % d’entre eux. À cela s’ajoute une hémorragie silencieuse de conseillers municipaux. La complexité croissante des mandats, l’insécurité, l’insuffisance de protection juridique et sociale : tout cela accélère la vague de découragement. La crise est profonde, entre chute des candidatures et augmentation des démissions.\nLes violences envers les élus locaux sont en forte recrudescence. Ces actes sont malheureusement devenus le lot quotidien de certains élus sur tout le territoire national. Ils se sentent désarmés et ont le sentiment d’être abandonnés par l’État, incapable d’assurer leur sécurité. Les maires en particulier sont en première ligne face à l’explosion des incivilités et des violences verbales et physiques de certains administrés. La période électorale à venir risque d’être propice à une nouvelle aggravation de ce climat malsain pour la démocratie. Dans ce contexte, il est urgent d’agir pour protéger ceux qui donnent de leur temps au service des autres et pour lever les freins à l’engagement, simplifier le quotidien des élus, améliorer l’attractivité de leurs fonctions, reconnaître leur utilité et leur dignité, et assurer pleinement leur sécurité.\nLa présente proposition de loi, longtemps attendue, souvent repoussée, entend apporter des réponses à la crise de l’engagement local. Elle aborde les trois grandes dimensions de la vie des élus : l’exercice du mandat, la conciliation avec la vie professionnelle et personnelle et la reconversion. Nous saluons plusieurs avancées positives : la revalorisation des indemnités, en particulier pour les maires et adjoints des communes rurales, trop souvent oubliés ; l’amélioration de la couverture sociale, mesure de justice et de reconnaissance ; la facilitation de la formation, pendant le mandat, mais aussi dans la perspective de l’après – la politique n’est pas un métier, mais un engagement ; la protection renforcée des élus, tant sur le plan physique que juridique – il n’est pas admissible qu’un maire se retrouve seul en première ligne face à l’ensauvagement de la société.\nSoyons clairs, il ne s’agit ni d’accorder des privilèges ni de faire des élus des citoyens à part, mais au contraire d’éviter que l’engagement public ne devienne un luxe réservé à quelques-uns, protégés des contraintes matérielles. Nous soutenons également les dispositions qui visent à ouvrir plus largement les mandats aux jeunes, aux étudiants et aux personnes en situation de handicap – la République a besoin de toutes les énergies et de tous les profils.\nToutefois, cette proposition de loi est un petit texte, qui n’aborde pas les grands problèmes auxquels sont confrontés les élus locaux : une bureaucratie administrative qui les rend incapables d’appliquer et même de connaître les différentes normes et règlements ; et une administration centrale de plus en plus tatillonne, qui asphyxie le mandat des maires – ils sont souvent bien seuls pour répondre à des courriers qu’un énarque lui-même aurait du mal à comprendre. Le texte ne dit rien non plus de la crise de la fonction publique territoriale. Aujourd’hui, être fonctionnaire territorial n’attire plus, tant les règles internes sont devenues obsolètes et totalement hors-sol. Les jeunes diplômés préfèrent aller dans le privé et les maires ont beaucoup de mal à recruter des cadres compétents.\nEnfin, nous serons attentifs à l’application réelle de la loi. Voter un texte est une chose, encore faut-il que les décrets sortent dans les temps et qu’ils ne neutralisent pas l’esprit de la réforme, et que les élus aient les moyens d’appliquer les mesures adoptées. Sans cela, les belles intentions resteront lettre morte. Les élus locaux comptent sur vous. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Violette Spillebout."
+        },
+        {
+          "orateur": "Mme Violette Spillebout",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794486",
+          "texte": "Avant tout, permettez-moi d’adresser un message de soutien reconnaissant, chaleureux et respectueux, à tous nos maires et élus municipaux, départementaux et régionaux qui, dans chaque commune de France, notamment les plus petites, consacrent leur temps sans compter, au sacrifice de leur vie privée et professionnelle, au service de l’intérêt général. C’est en l’honneur de ces plus de 500 000 élus locaux que nous débattons enfin ce soir dans l’hémicycle d’un texte fondamental, visant à améliorer l’accès à un mandat local et à améliorer ses conditions d’exercice.\nComme l’a dit l’un des grands hommes politiques français, Jules Ferry, les élections sont la garantie de la liberté et de la République. Le texte que nous examinons incarne cette liberté essentielle que les élus, par leur engagement quotidien, permettent d’entretenir et de renforcer. Il s’agit d’un sujet profondément politique, au sens le plus noble du terme : celui de l’engagement civique, de la représentation et de la démocratie de proximité.\nÊtre maire, conseiller municipal ou président d’intercommunalité, de région ou de département, c’est exercer un mandat exigeant, souvent solitaire, trop peu reconnu et parfois risqué. Les élus sont, comme le disait notre ancien collègue Sébastien Jumel, les hussards de la République, ces soldats dévoués à la défense de notre modèle républicain. Je pense à lui ce soir avec émotion car, en 2023, nous avons mené ensemble une mission d’information sur le statut de l’élu local qui a permis de mobiliser positivement tous les groupes de l’Assemblée, dans un esprit de compromis et d’urgence démocratique pour le pays.\nNous rappelions souvent que les élus sont « à portée de baffes, mais aussi à portée de bises ». Cette expression résume bien la violence de certaines situations, mais aussi l’amour, parfois aveugle, que nos concitoyens portent aux élus, en particulier aux maires. À l’aube des élections municipales de 2026, il est urgent d’agir. Les associations d’élus insistent ainsi avant tout sur la nécessité de renforcer la dotation budgétaire des collectivités territoriales, sujet de débats tendus chaque année lors de l’examen du projet de loi de finances.\nMais il convient avant tout de reconnaître l’engagement individuel – c’est ce qui nous rassemble ce soir – de ceux qui, par courage, choisissent de s’investir. C’est dans cet esprit que j’ai rédigé et déposé, aux côtés de Sébastien Jumel puis de Stéphane Delautrette, deux propositions de loi successives. Ce choix traduisait notre volonté commune de maintenir ce sujet en tête de l’agenda parlementaire et dans une perspective transpartisane. Ce soir, les députés du groupe Ensemble pour la République sont heureux, comme ceux des autres groupes, d’examiner la proposition de loi de notre chère collègue sénatrice, aujourd’hui ministre, Françoise Gatel, qui rejoint totalement nos travaux préparatoires.\nCette version a été enrichie par la commission des lois de l’Assemblée, grâce à un travail de consensus, dans l’efficacité et la responsabilité. Le texte vise trois objectifs essentiels : reconnaître les élus pour ce qu’ils sont – si la revalorisation des indemnités ne constitue pas une priorité à nos yeux, sauf pour les petites communes, la bonification des retraites et la reconnaissance des compétences acquises en sont une ; faciliter l’exercice du mandat, en ayant une attention particulière aux situations de handicap ; sécuriser la sortie de mandat, pour éviter que l’engagement républicain ne devienne un facteur d’isolement ou de précarité.\nToutefois, je dois exprimer ici une sorte de frustration. De nombreux amendements travaillés avec soin ont été déclarés irrecevables au titre des articles 40 et 45 de la Constitution, ce qui a conduit certaines associations d’élus à considérer, parfois à juste titre, que le texte ne répondait pas suffisamment à leurs attentes. Toutefois, saluons ensemble les avancées, aussi modestes soient-elles. Je profite de l’occasion pour remercier les associations d’élus qui, sans relâche, ont tenu sur ces questions.\nAu nom du groupe EPR, mon collègue nordiste Sébastien Huyghe et moi-même défendrons plusieurs propositions clés : la création, au sein du code général des collectivités territoriales, d’une nouvelle section dédiée aux droits et devoirs généraux des élus locaux ; la mise en place d’un congé électif de quinze jours pour les candidats et des mesures concrètes pour améliorer la vie des étudiants et des femmes titulaires d’un mandat électif.\nParce qu’il est grand temps de prendre soin de celles et ceux qui prennent soin de la République, votons ensemble et, je l’espère, à l’unanimité, cette belle proposition de loi. (Applaudissements sur les bancs du groupe EPR ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Le statut de l’élu local, voilà quarante ans qu’on en parle ; c’est un véritable serpent de mer. L’enjeu premier est la démocratisation. Tout citoyen, quel qu’il soit, doit pouvoir occuper une fonction d’élu. Homme, cadre, fonctionnaire, retraité : le profil de l’élu est très stéréotypé. Il faut donc veiller en priorité à ce qu’un mandat local ne coûte rien à celles et ceux qui l’exercent et qu’il ne leur soit pas défavorable professionnellement et personnellement. La prise en charge des frais de garde et de déplacement va dans ce sens, mais le compte n’y est pas en matière de formation et de reprise sécurisée de l’activité dans le privé – ne parlons pas des retraites, nous savons bien quelle est votre volonté en la matière.\nLe deuxième enjeu réside dans l’indépendance des élus locaux. Nous refusons absolument de supprimer le conflit d’intérêts public-public ou de modifier la prise illégale d’intérêts. Interdire, c’est aussi protéger. Vous parlez de déontologie, mais où sont les référents déontologues ? Comment exerceront-ils leurs missions ? En ce qui concerne les indemnités, nous sommes d’accord pour les augmenter, mais pas de manière généralisée et uniforme. Soyons clairs, tout cela ne peut fonctionner que si ces mesures sont compensées à l’euro près par le gouvernement. Qui a évalué le coût de cette proposition de loi ? Sur quoi le gouvernement s’engage-t-il ? Pire encore, les amendements gouvernementaux sont souvent moins-disants que les dispositions adoptées en commission, pour ne pas peser excessivement sur les budgets locaux. C’est un aveu : vous n’avez donc aucunement l’intention de concrétiser ces mesures.\nLes élus locaux ont de l’expérience et de la mémoire. Vous avez imposé le changement des rythmes scolaires, mais vous avez supprimé les financements des temps périscolaires à leur charge. Vous avez incité les communes à prendre des mesures écologiques, mais vous avez réduit drastiquement le fonds Vert. Comble de l’hypocrisie, maintenant que vous avez unilatéralement supprimé la taxe d’habitation, vous dites aux maires de se débrouiller avec un nouvel impôt potentiel."
+        },
+        {
+          "orateur": "M. Romain Daubié",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793122",
+          "texte": "Cette suppression a été compensée !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "De plus, vous prétendez régler la crise de l’engagement grâce à ce statut. Quand bien même l’objectif de démocratisation serait atteint, ce qui ne sera pas le cas sans moyens, vous vous appuyez sur une vision simpliste et individualiste de l’engagement, qui vous aveugle. N’avez-vous pas lu l’étude du Cevipof et de l’AMF ? Lorsqu’on interroge les maires sur les causes des démissions, l’insatisfaction concernant les indemnités arrive loin derrière des raisons comme les réponses nécessaires à apporter aux citoyens ou encore le mépris ressenti par les élus dans leurs relations avec l’État.\nLes services des finances publiques n’ont même plus les moyens de construire avec les maires leur budget. Or c’était et c’est toujours indispensable, quel que soit le talent des secrétaires de mairie. D’ailleurs, rien n’est dit des moyens humains pour les collectivités. Austérité, politiques imposées, transferts de compétences contraints et non compensés, intercommunalité à marche forcée et baisses des dotations et des moyens financiers, recul de l’État dans l’ensemble du territoire du fait de la fermeture de services publics ou encore de la réduction des effectifs dédiés à ce qu’on appelle l’ingénierie locale : la crise démocratique, qui se concrétise par une crise de l’engagement et par une crise de confiance entre les élus et les citoyens, renvoie à des années de politiques qui ont dépossédé les élus locaux de leur pouvoir d’action et donc des réponses qu’ils pourraient fournir.\nCertes, il est absolument nécessaire d’améliorer à titre individuel l’exercice du mandat, mais la question du statut de l’élu ne peut être appréhendée sans aborder celle des conditions dans lesquelles il répond aux besoins des habitants. Cela doit passer par la perspective de redonner vie aux principes de libre administration et d’autonomie financière des collectivités, sans oublier la participation citoyenne. Voilà nos propositions. La VIe République, c’est aussi cela. Perte de sens et vision gestionnaire, voilà ce que vous avez fait ! Votre statut de l’élu, réduit au minimum, n’est que l’arbre qui cache la forêt. Nos élus locaux et nos concitoyens méritent bien mieux. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Marie-José Allemand."
+        },
+        {
+          "orateur": "Mme Marie-José Allemand",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840665",
+          "texte": "Comme les précédents orateurs, je voudrais avoir une pensée pour notre collègue Olivier Marleix ainsi que pour sa famille et ses proches.\nLe groupe Socialistes et apparentés est satisfait de l’inscription à l’ordre du jour de cette proposition de loi qu’il avait appelée de ses vœux. Adopté à l’unanimité au Sénat, ce texte fait également l’unanimité parmi nos bancs, ce qui n’est pas si fréquent et témoigne de l’importance du sujet.\nEn effet, il nous donne l’occasion d’évoquer l’engagement des 500 000 élus municipaux, départementaux et régionaux – un engagement total, souvent effectué au détriment de leur vie personnelle, familiale ou personnelle, et qui force le respect et l’admiration. Je souhaite leur exprimer toute ma reconnaissance et ma gratitude.\nMalgré leur dévouement, les difficultés que nos élus rencontrent dans l’exercice de leur mandat atteignent un niveau inédit. Ces difficultés sont multiples : elles découlent de la complexité croissante des normes ainsi que du retrait de la présence et de l’action de l’État dans certains domaines.\nPas une semaine ne passe sans que des élus nous alertent sur leurs conditions d’exercice de plus en plus dégradées, que ce soit en raison de l’augmentation continue du temps exigé par leur mission, de la difficulté à recourir aux absences légales ou encore du risque de voir leur responsabilité pénale personnelle engagée.\nLa preuve en est que, ces dernières années, les démissions de maires ont atteint un niveau historique : on compte 2 189 démissions depuis le dernier renouvellement des conseillers municipaux en 2020, ce qui représente près de 40 démissions par mois. Dans mon département des Hautes-Alpes, depuis cinq ans, 16 des 162 maires ont démissionné, soit près de 10 % d’entre eux.\nCe phénomène doit nous alerter et être pris très au sérieux, si nous ne voulons pas aggraver de façon irrémédiable cette crise de l’engagement. Sans les élus locaux, la démocratie est menacée et, avec elle, la solidité de la République.\nSi cette proposition de loi ne réglera pas toutes les difficultés, il y avait urgence à l’examiner afin de renouer une relation de confiance avec nos élus locaux et de leur permettre de retrouver des conditions d’exercice de mandat plus sereines. Ils le méritent, au regard de l’action qu’ils mènent au quotidien, dans tous les territoires, pour la République.\nDe ce point de vue, plusieurs mesures vont dans le bon sens. Elles devraient améliorer les conditions matérielles d’exercice du mandat, ce qui aidera les élus à mieux concilier celui-ci avec leur activité professionnelle et leur vie personnelle, qui sont autant de freins à l’engagement local.\nJe pense d’abord à l’amélioration des conditions d’indemnisation des maires et des adjoints aux maires, prévue aux deux premiers articles. Afin de tenir compte du coût budgétaire de ces revalorisations et de flécher l’effort vers les communes où le niveau de l’indemnité de maire nécessite le plus souvent une conciliation entre l’activité professionnelle et l’exercice du mandat, nous proposerons de concentrer cet effort sur les plus petites communes, grâce à un mécanisme de dégressivité, tout en limitant la hausse aux seules communes de moins de 20 000 habitants.\nJe pense également à l’article 4, qui étend à l’ensemble des communes de moins de 3 500 habitants le bénéfice de la dotation particulière relative aux conditions d’exercice des mandats locaux, destinée à accompagner les petites communes rurales dans la prise en charge de dépenses rendues obligatoires par la loi, aujourd’hui réservée aux communes de moins de 1 000 habitants.\nL’article 5 instaure une obligation de remboursement des frais de déplacement engagés par les élus lorsqu’ils représentent leur collectivité et prévoit une compensation par l’État des frais de transport engagés par les communes de moins de 3 500 habitants.\nL’article 8 allonge le congé électif dont bénéficient tous les élus.\nL’article 9 étend le périmètre des autorisations d’absence et du crédit d’heures, destiné à compenser les pertes de revenus subies par le salarié élu municipal qui ne bénéficie pas d’indemnités de fonction.\nL’article 17 permettra, quant à lui, de sécuriser la situation des élus locaux en cas de congé maladie, maternité, paternité ou adoption.\nLe groupe Socialistes et apparentés soutiendra les mesures de progrès contenues dans ce texte. Nous ferons quelques propositions complémentaires pour aller plus loin encore, et cela en dépit des règles de recevabilité financière, qui ont considérablement réduit l’initiative parlementaire.\nCette proposition de loi ne réglera pas à elle seule toutes les difficultés. Elle n’en demeure pas moins nécessaire. Au-delà, afin de préserver les marges de manœuvre budgétaires des collectivités, il conviendra d’être vigilants lors de l’examen du projet de loi de finances à l’automne, alors que les discussions engagées avec le gouvernement laissent présager quelques difficultés. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Sébastien Martin."
+        },
+        {
+          "orateur": "M. Sébastien Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA870010",
+          "texte": "À mon tour, avec mes collègues du groupe de la Droite républicaine, je voudrais avoir une pensée pour Olivier Marleix. Il était un fin connaisseur de nos assemblées locales : je suis certain qu’il aurait participé à nos débats avec toute la hauteur de vue et l’expérience qui étaient les siennes, et qu’il aurait soutenu l’essentiel des mesures que nous nous apprêtons à examiner.\nComme vous l’avez dit, madame la ministre – chère Françoise Gatel –, ce texte touche au cœur de notre République : la place des élus locaux, leur reconnaissance, leur protection, mais aussi, et surtout, les conditions dans lesquelles nos concitoyens acceptent, ou n’acceptent plus, de s’engager pour leur commune, pour leur intercommunalité, pour leur département ou pour leur région – en bref, pour leurs concitoyens.\nAvant d’être député, j’ai eu le privilège d’exercer – et je le fais toujours – des mandats locaux. Président d’une intercommunalité, conseiller départemental d’un canton rural, président d’une association nationale d’élus, Intercommunalités de France, je connais les joies et la fierté de servir son territoire, ainsi que les contraintes, les sacrifices personnels et professionnels et, parfois, la solitude face à des décisions difficiles. Être élu est souvent devenu une responsabilité à temps plein.\nCe texte part d’un constat simple : si nous voulons que des femmes et des hommes continuent de s’engager, il faut les soutenir et leur donner les moyens d’exercer leur mandat ; sinon, c’est la démocratie locale elle-même qui se fragilisera.\nC’est pourquoi nous saluons plusieurs avancées contenues dans la proposition de loi : une meilleure protection sociale pour les élus, l’élargissement de l’accès à la formation, des dispositions pour faciliter le retour à la vie professionnelle et de nouvelles mesures pour sécuriser l’exercice du mandat face aux risques juridiques de plus en plus forts. Ces mesures conforteront l’engagement des élus en place. Nous espérons aussi qu’elles susciteront de nouvelles vocations, car la démocratie locale a besoin de renouvellement, de diversité et de plus de jeunesse.\nLe texte permet également de clarifier les règles relatives aux conflits d’intérêts. C’est heureux, parce que ces règles fragilisent le bon fonctionnement de notre démocratie. En effet, nous sommes nombreux à déplorer les va-et-vient permanents dans les assemblées locales, qui virent parfois à l’absurde et peuvent aboutir à des salles de conseil à moitié vides. De même, qui n’est pas étonné de voir tel ou tel élu compétent sur un sujet empêché de rapporter une délibération, parce qu’il serait frappé de conflit d’intérêts ? Je me réjouis qu’à travers ce texte, nous redonnions un peu plus de place à la démocratie et un peu moins à la procédure.\nAutre point : ce texte nous est présenté quelques semaines après l’institution de la parité dans toutes les communes. L’accès d’un plus grand nombre de femmes aux conseils municipaux et la création de ce statut de l’élu local sont deux exemples d’évolution et de modernisation de notre démocratie. Nous devons nous en réjouir. Néanmoins, je regrette de nouveau que nous ne soyons pas allés jusqu’au bout de la logique en instituant le fléchage intercommunal dans toutes les communes.\nEnfin, ce texte est aussi l’occasion d’un plaidoyer pour la décentralisation et pour la confiance envers les territoires. Si les mandats locaux sont devenus si lourds, c’est aussi parce que l’État ne cesse de multiplier les normes, les contrôles et les mesures de recentralisation.\nDonnons aux élus locaux des marges de manœuvre, simplifions leur quotidien, faisons confiance à leur intelligence du terrain. Des pistes ont été proposées dans le Roquelaure de la simplification de l’action des collectivités, mais il faudra sans doute aller plus loin. Nous devons collectivement travailler à un texte sur la simplification dans les collectivités territoriales, car si les élus attendent un statut, ils attendent peut-être aussi, et surtout, qu’on leur simplifie la vie.\nLe mandat local n’est pas un privilège : c’est un engagement, une charge, parfois un sacrifice. J’ai une pensée pour notre collègue Guillaume Lepers, victime de violences dans sa propre commune, il y a quelques jours. (Applaudissements sur quelques bancs des groupes DR, RN, EPR, Dem et HOR.)\nL’engagement des élus doit être reconnu à sa juste valeur. Si nous voulons que des générations d’élus continuent de faire vivre notre démocratie au quotidien, il faut leur donner des conditions dignes pour agir.\nLe groupe de la Droite républicaine votera pour cette proposition de loi avec cohérence, constance et confiance. (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Catherine Hervieu."
+        },
+        {
+          "orateur": "Mme Catherine Hervieu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840947",
+          "texte": "Notre démocratie est nourrie par les valeurs républicaines – la liberté, l’égalité, la fraternité – que nous devons ensemble faire vivre concrètement, à tous les échelons institutionnels.\nLa déclinaison de la démocratie représentative à différents niveaux est une force. Si nous y portions atteinte, nous fragiliserions la démocratie et l’engagement des centaines de milliers de concitoyens dans les mandats locaux.\nDans un État historiquement centralisateur comme le nôtre, l’enjeu est d’assumer et d’améliorer les liens indéfectibles entre celui-ci et les collectivités locales. Il convient ainsi de conjuguer la puissance régalienne et redistributrice de l’État, au-delà d’une approche seulement gestionnaire, et la puissance des collectivités locales dans la conduite de leurs compétences.\nNous devons prendre en considération les contextes locaux, qui montrent que les histoires politiques et territoriales sont très diverses. Pensons à la référence au pays aux mille fromages, à la diversité des paysages, des accents, des habitats et des habitants, qui ont eux-mêmes des histoires multiples.\nCe texte, qui apporte un soutien aux élus locaux, répond à une promesse ancienne, puisqu’elle date de 2002, ainsi qu’aux démissions de plus en nombreuses d’élus locaux. Il est destiné à améliorer le système indemnitaire, actuellement inégalitaire et illisible, à instaurer une meilleure protection sociale pour permettre aux élus d’exercer leur mandat dignement, à offrir à ces derniers une représentation sociale plus juste et à lever les blocages à la création du statut de l’élu.\nIl tient compte de la pluralité des situations rencontrées lors d’un mandat. Le quotidien et l’organisation du travail local sont différents selon que l’on est élu d’une commune de moins de 500 habitants, d’une agglomération, d’un conseil départemental ou régional, avec délégation ou dans l’opposition.\nDe plus, de grandes disparités existent dans l’engagement dans la vie politique locale, en raison de freins multiples : doute sur la légitimité, syndrome de l’imposteur, situation de handicap, maternité, compatibilité avec la vie étudiante, équilibre entre la vie professionnelle, d’un côté, et la vie personnelle et familiale, de l’autre. Les jeunes, les femmes et les personnes porteuses de handicap sont sous-représentés.\nNous insistons sur la nécessité d’apporter des aides aux personnes porteuses de handicap, en écho à la mission d’évaluation de l’application de la loi du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, dont notre collègue Sébastien Peytavie était rapporteur.\nL’accès à la formation doit être facilité grâce à la future loi. D’une part, l’élu ne peut pas être expert en tout ; d’autre part, il doit assumer son devoir d’être à la hauteur de son mandat. Le droit élargi à la formation y contribue.\nLa question des moyens humains et techniques ainsi que de l’ingénierie consacrés aux politiques publiques menées par les collectivités se pose aussi : cela nous prépare des débats intenses lors de l’examen du projet de loi de finances pour 2026.\nLa valorisation et la reconnaissance de l’engagement dans les mandats locaux se traduisent également par la valorisation des acquis de l’expérience, l’octroi de trimestres de bonification pour la retraite et la sécurisation de la sortie du mandat.\nToutefois, les avancées sont timides. Les mesures pour renforcer les droits de l’opposition municipale sont presque absentes et l’accompagnement pour les élus des petites communes est encore insuffisant.\nLes conséquences des politiques néolibérales se traduisent aussi par la disparition des services publics locaux et par leur dématérialisation. Cette déshumanisation des liens sociaux laisse nombre de nos concitoyens dans le désarroi, l’impatience, la frustration, voire la colère. Ce sont les élus locaux, notamment les maires, en première ligne, qui pallient et compensent cette absence : ils sont les tampons des crises sociales. Pendant leur mandat, certains sont agressés dans l’exercice de leurs fonctions. C’est intolérable. Nos travaux doivent respecter l’ambition initiale, qui est de renforcer leur protection.\nEnfin, la santé mentale a été désignée grande cause nationale en 2025 par le gouvernement. Dès lors, respectons cet engagement et intéressons-nous par exemple à la situation des élus.\nLa présente proposition de loi, qui était attendue, arrive dans l’hémicycle moins d’un an avant les élections municipales. Les avancées en matière de statut de l’élu local devront se traduire financièrement. La démocratie a en effet un coût : celui de la concrétisation de nos valeurs républicaines, bases de la cohésion nationale.\nLe groupe Écologiste et social estime indispensable de créer un véritable statut de l’élu local, qui garantisse des conditions d’exercice dignes, facilite la reconversion post-mandat et réponde, entre autres, aux besoins des petites communes. Nous avons plus que jamais besoin de démocratie, notamment locale. (Applaudissements sur les bancs des groupes EcoS et SOC. – M. Laurent Mazaury applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La discussion générale est close."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3836205",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion des articles",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "J’appelle maintenant, dans le texte de la commission, les articles de la proposition de loi.\nJe vous informe que les articles 3  bis, 6, 6  bis, 7, 14  bis, 21, 22, 24  bis, 27  bis et 28 sont soumis à la procédure de législation en commission. En conséquence, ils feront l’objet d’un vote d’ensemble après la discussion, dans les conditions du droit commun, des autres articles et avant le vote sur l’ensemble de la proposition de loi.\nD’autre part, à la demande du gouvernement, en application de l’article 95, alinéa 4, du règlement, l’Assemblée examinera demain, mardi 8 juillet, à vingt et une heures trente, les articles 4, 3 et 27."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3836209",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Sylvain Berrios."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Nous sommes réunis pour discuter d’un texte créant un statut de l’élu local, ce qui revient surtout à améliorer les conditions d’exercice d’un mandat local, s’agissant des enjeux aussi bien juridiques et financiers que liés à la formation ou à la sécurité.\nForce est de constater que plus de quarante-cinq amendements, parmi ceux que nous avons déposés sur ce texte, ont été balayés par la commission des finances, ce qui me semble regrettable. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Laurent Mazaury."
+        },
+        {
+          "orateur": "M. Laurent Mazaury",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "Tout d’abord, j’ai une pensée pour notre collègue Olivier Marleix, pour sa famille, pour ses proches et pour ses collaborateurs. Dans ces conditions dramatiques, il est bien difficile d’aborder l’examen de cette proposition de loi portant création d’un statut de l’élu local.\nIl est néanmoins incontestable que nous devons renforcer le soutien à nos élus locaux, y compris d’un point de vue financier. J’en sais quelque chose, étant moi-même élu local – comme nombre d’entre vous – depuis plus de quinze ans. C’est l’un des multiples leviers grâce auxquels nous redonnerons l’envie de s’engager dans la démocratie locale, maillon essentiel de la politique de proximité pour nos concitoyens.\nDans cette perspective, notre groupe souhaite que les indemnités des exécutifs locaux soient, d’office, fixées au plafond prévu par la loi afin d’éviter toute instrumentalisation éventuelle. Je vous annonce déjà que nous rejetterons tout amendement visant à revenir sur ce principe.\nCependant, nous le savons, une disposition d’ordre financier ne permettra pas de remédier aux difficultés rencontrées au quotidien par les élus si elle ne s’accompagne pas d’autres mesures, de différentes natures.\nLes élus locaux se retrouvent parfois dans un état de détresse profonde et ne savent pas, alors, vers qui se tourner, en particulier dans les plus petites communes. C’est d’ailleurs pour cette raison que la création d’un référent pour la santé mentale des élus locaux dans chaque préfecture, prévue par l’article 19  bis de la présente proposition de loi, constitue une avancée significative et bienvenue.\nIl est de notre devoir de soutenir nos élus locaux. Ils sont les élus les plus proches des Français parce qu’ils garantissent le bon fonctionnement de notre démocratie au quotidien, sur le terrain. Comme le dit le président du Sénat, Gérard Larcher, ils sont « à portée d’engueulade ».\nEnfin, je veux profiter de cette prise de parole pour rendre hommage à un maire, parmi tant d’autres, connu pour son engagement profond en faveur de ses administrés et pour son attachement absolu aux valeurs républicaines : M. Jean-Pierre Sautonie, maire de Saint-Jory-las-Bloux, en Dordogne, qui – lui aussi – s’est donné la mort, en 2022, à la veille des élections législatives. (Applaudissements sur les bancs du groupe LIOT.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Nous allons débattre, à l’occasion de l’examen de l’article 1er, de l’augmentation des indemnités des élus locaux. Il s’agit là d’un réel enjeu, vu le niveau de leur indemnisation – je pense en particulier aux maires des petites communes, bien souvent obligés d’arbitrer entre l’usage de leurs propres indemnités et la mobilisation des moyens trop peu importants dont ils disposent pour mener des politiques publiques. Bien sûr, le problème demeurera si le dispositif n’est pas compensé à l’euro près.\nEnsuite, l’article prévoit une augmentation uniforme des indemnités, quelle que soit la taille de la commune, ce qui pose une autre difficulté, d’autant plus que le montant est fixé à partir du pourcentage de l’indice, une méthode qui simplifie l’application de la mesure mais qui tend à renforcer les inégalités entre les élus des grandes communes et ceux des communes de taille plus modeste.\nAu cours de la discussion sur cet article, nous soutiendrons les mécanismes reposant sur une approche différenciée en matière d’augmentation des indemnités des élus locaux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Sébastien Huyghe."
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Je veux tout d’abord rendre hommage, à mon tour, à Olivier Marleix, qui nous a quittés dans des conditions dramatiques. C’était un travailleur infatigable et un législateur averti. Il nous manquera – à tous, sur tous les bancs.\nJ’en viens à l’article 1er. Nous avons déjà expliqué que nous étions favorables à une augmentation des indemnités pour l’ensemble des élus locaux. Compte tenu de leurs responsabilités, du temps qu’ils y consacrent et de l’abnégation dont ils font preuve envers nos concitoyens, le montant de leur indemnisation devrait être décent. Or force est de constater que, pour certains d’entre eux, et au vu du niveau de sujétion, il n’est pas à la hauteur, notamment si on le compare à celui que l’on observe dans d’autres pays européens, comme l’Allemagne.\nMalheureusement, le contexte budgétaire ne nous permet pas de procéder à la même augmentation pour l’ensemble des élus. C’est pourquoi le gouvernement prévoit, par voie d’amendement, de concentrer l’effort sur les élus des petites communes, ce qui serait aussi une manière d’exprimer notre reconnaissance envers ces derniers. Ils consentent à de nombreux sacrifices, notamment dans leur carrière professionnelle ; il est donc nécessaire de les accompagner en procédant à une revalorisation de leurs indemnités.\nNous soutiendrons cet amendement, même si nous aurions préféré être en mesure de faire des efforts supplémentaires en faveur de l’ensemble des élus locaux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Pascal Lecamp."
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Je prends la parole en tant qu’ancien maire – je l’étais il n’y a pas si longtemps. Nous sommes tous d’accord ici pour considérer qu’il faut améliorer le statut de l’élu. Tout ayant déjà été dit à ce sujet, je ne reviendrai pas sur les différents arguments – le volume horaire, les contraintes, etc.\nPour se limiter à la question budgétaire – puisque c’est celle qui est traitée dans l’article 1er –, je donnerai l’exemple concret de la petite ville dont j’étais maire : 3 000 habitants, un budget de fonctionnement de 3 millions d’euros, une masse salariale de 1,5 million et des indemnisations, pour les différentes tâches des élus, qui s’élèvent à environ 150 000 euros.\nSi l’on applique une revalorisation de 10 % des indemnités, il faut parvenir à préserver le million et demi d’euros qui, au sein du budget, garantit un bon fonctionnement de la commune. Il ne faudrait pas que cette augmentation se fasse au détriment des besoins quotidiens de ces collectivités.\nAu fond, c’est un jeu à somme nulle. Nous devons donc trouver un dispositif qui permette d’améliorer le statut de l’élu mais qui soit également satisfaisant sur le plan budgétaire. Plutôt qu’une augmentation de 10 %, le Modem propose, avec l’amendement de Blandine Brocard, une revalorisation dégressive. En effet, si l’augmentation prévue par le texte est réellement nécessaire pour certaines communes, elle ne l’est pas pour d’autres.\nIl est en tout cas important d’avoir toujours à l’esprit les trois chiffres que je vous ai indiqués – 3 millions d’euros de budget, 1,5 million d’euros de masse salariale et 150 000 euros d’indemnités. En prenant en compte ces données – valables pour une commune de 3 000 habitants –, il faut trouver un moyen de procéder à une augmentation des indemnités tout en permettant à la commune d’avoir le même niveau d’activité et sans nuire à son bon fonctionnement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Nous sommes bien sûr favorables à une augmentation des indemnités des élus locaux. Cependant, je vous demanderai de témoigner du même soutien lors de l’examen du projet de loi de finances.\nJe vous signale que dans ma circonscription, qui compte 126 communes – la plus petite réunit quate-vingt-neuf habitants –, les indemnités sont souvent utilisées par les élus pour financer l’achat de livres pour le fonds de la bibliothèque.\nPar conséquent, l’augmentation des indemnités est une bonne chose mais il ne faudra surtout pas oublier les élus au moment de prendre des décisions concernant la dotation globale de fonctionnement (DGF), afin que les communes aient les moyens de fonctionner correctement et que les élus ne soient pas obligés, en raison d’un manque d’argent, de leur reverser leurs indemnités. (Applaudissements sur les bancs des groupes SOC et LIOT. – Mme Géraldine Bannier applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je suis saisie de plusieurs amendements, nos 647, 799, 452, 654, 710, 629, 473, 754, 3 et 591 pouvant être soumis à une discussion commune.\n Les amendements nos 799, 452, 654 et 710 sont identiques.\nSur les amendements no 799 et identiques, je suis saisie par les groupes Ensemble pour la République et Les Démocrates de demandes de scrutin public.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n La parole est à Mme Blandine Brocard, pour soutenir l’amendement no 647."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "La revalorisation de 10 % des indemnités de tous les élus, prévue par cette proposition de loi sénatoriale, creuserait encore davantage l’écart indemnitaire qui existe entre les maires selon les différentes strates de communes, en particulier entre les élus des plus petites communes, qui bénéficieraient d’une augmentation de 107 euros, et ceux des plus grosses communes, pour lesquels l’augmentation s’élèverait à 617 euros.\nJ’avais donc déposé cet amendement qui vise à augmenter de 2 points – soit 80 euros – le pourcentage de l’indice pour l’ensemble des élus, ce qui permet une revalorisation dégressive, de 7,84 % à 1,38 % selon la taille des communes.\nToutefois, je vais le retirer au profit du no 710, sur lequel nous avons travaillé avec le gouvernement et qui permet d’aboutir peu ou prou au même résultat tout en évitant de revaloriser les indemnités les plus élevées, ce qui réduit un peu plus un écart qui n’est pas justifié par une différence de sujétion.\nLes débats sur cette question en commission des lois étaient très intéressants. Nous avons cheminé pour parvenir à un résultat satisfaisant, dans le droit fil de la loi relative à l’engagement dans la vie locale et à la proximité de l’action publique de 2019, avec pour objectif de réduire l’écart indemnitaire – nous sommes passés d’un rapport de 1 à 8,53 à un rapport de 1 à 5,69 après 2020. Nous devons poursuivre sur cette voie.\nL’amendement est donc retiré. (Applaudissements sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Il est repris !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3836247",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "L’amendement no 647 est repris par Mme Élisa Martin.\n Nous en venons aux amendements identiques. \nLa parole est à M. le ministre, pour soutenir l’amendement no 799."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je veux tout d’abord remercier Mme la députée Brocard.\nDans un contexte où l’engagement local est plus que jamais essentiel à la vitalité démocratique de notre pays, le gouvernement propose une revalorisation ciblée et progressive des indemnités de fonction des maires des communes de moins de 20 000 habitants.\nCette mesure répond aux attentes exprimées de manière récurrente par les élus eux-mêmes ainsi que par plusieurs parlementaires – que je salue –, notamment en commission des lois. Notre proposition est le fruit d’un dialogue constructif entre élus et associations.\nEn valorisant davantage l’engagement des maires, cette mesure contribuerait à rendre ces mandats plus attractifs dans un contexte où les responsabilités sont croissantes et les sollicitations quotidiennes de plus en plus nombreuses. Elle constituerait un signal fort, à la hauteur de l’utilité démocratique et sociale de ces élus de proximité.\nLa mesure proposée résulte aussi d’une réflexion en matière d’équilibre budgétaire. Le surcoût annuel est estimé à 41,3 millions d’euros, soit un effort significativement contenu par rapport à la proposition initiale, dont le coût s’élevait à 65 millions."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Cet ajustement permet de concilier la nécessaire reconnaissance de l’engagement des maires et l’exigence de soutenabilité financière pour les collectivités financières et pour l’État.\nCette disposition traduit une volonté politique claire : renforcer les bases de notre démocratie locale en soutenant concrètement les femmes et les hommes qui s’y engagent au quotidien."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3836256",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Didier Le Gac, rapporteur, pour soutenir l’amendement no 452."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Avec cette première série d’amendements, nous entrons dans le vif du sujet puisque nous abordons la question des indemnités.\nComme cela a été dit, le texte proposé par les sénateurs prévoyait une augmentation linéaire et uniforme de 10 % des indemnités pour l’ensemble des communes.\nLorsque nous avons discuté de cette proposition en commission des lois, les commissaires, d’une part, nous ont dit qu’une augmentation de 10 % des indemnités des élus enverrait à nos concitoyens un message qui ne serait pas forcément opportun, pour les raisons que vous pouvez imaginer, d’autre part, nous ont demandé que l’augmentation prévue ne soit pas uniforme mais qu’elle tienne surtout compte de la taille de la population des communes des élus concernés et privilégie ceux des plus petites communes, dans la mesure où les indemnités des maires des communes dont la population dépasse 50 000, 80 000 et 100 000 habitants sont confortables.\nCet amendement, identique à celui du gouvernement, tend ainsi à revaloriser de 4 % à 8 % les indemnités des élus des communes de moins de 20 000 habitants ; dans les communes dont le nombre d’habitants dépasse ce seuil, elles ne subiraient aucune augmentation. Dans le détail, cette augmentation s’élèverait à 8 % dans les communes de moins de 1 000 habitants, à 6 % dans les communes de 1 000 à 10 000 habitants et à 4 % dans les communes de 10 000 à 20 000 habitants.\nJe rappelle également, pour la parfaite information de tous, que nous avons voté, dans la loi « engagement et proximité » de 2019, une augmentation déjà importante, et bien légitime, des indemnités des élus des petites communes. Cette augmentation s’élevait à un peu plus de 60 % pour les communes de moins de 500 habitants, à 40 % pour les communes de 500 à 1 000 habitants et à 29 % pour les communes de 1 000 à 3 500 habitants.\nJ’ajoute enfin que, comme vous le savez tous, les élus ne sont pas motivés par les indemnités – je n’ai jamais entendu un élu me dire qu’il s’agissait de sa principale motivation !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835794",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Marie-Christine Dalloz, pour soutenir l’amendement no 654."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Ce soir, les commissaires aux lois du groupe DR sont absents – chacune, chacun en comprendra la raison. C’est pourquoi je défends cet amendement, déposé à l’initiative de notre collègue Patrick Hetzel.\nIl ne faudrait pas que ce texte serve de prétexte à une augmentation uniforme des indemnités des élus. Il importe que la fonction d’élu soit revalorisée dans son entièreté et la revalorisation de la rémunération afférente n’en constitue qu’un aspect. Conforter l’écart qui existait entre les petites communes et les communes dont la population va jusqu’à 20 000 habitants serait une erreur.\nEn effet, la réalité est que, dans une petite commune, le maire est certainement plus sollicité quotidiennement sur tous les sujets que dans une commune de 15 000 habitants. Dans une telle commune, même si l’engagement du maire est également important, il dispose de services. À l’inverse, dans une petite commune de moins de 500 habitants, voire de moins de 300 habitants, il n’y a pas de services ; le maire, qu’il s’agisse du déneigement en hiver ou de l’accompagnement des personnes âgées, est très régulièrement sollicité.\nRevaloriser les indemnités des élus des petites communes à hauteur de 8 % et descendre jusqu’à 4 % pour les élus des communes dont la population va jusqu’à 20 000 habitants me semble assez logique et témoigne par ailleurs d’un souci pour l’équilibre des finances publiques. En effet, je le rappelle, une augmentation uniforme de 10 % coûterait 65 millions d’euros, tandis que celle que prévoient les amendements identiques aura un coût plus acceptable dans le futur cadre budgétaire."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835798",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Marina Ferrari, pour soutenir l’amendement no 710."
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795120",
+          "texte": "Dans la droite ligne de ce qu’ont indiqué nos collègues au sujet des amendements identiques, je dirai que cet amendement de groupe, travaillé avec Mme Brocard, tend à réduire l’écart entre les rémunérations des élus des petites communes et des grandes communes, qu’aurait creusé la revalorisation de 10 % de l’ensemble des indemnités.\nSecond point : au moment où nous demandons à nos concitoyens de faire un effort – Marie-Christine Dalloz vient de l’évoquer –, il nous semble important de ne pas alourdir davantage la charge qui pèse sur eux et d’envoyer un message de soutien différencié et bien plus appuyé aux élus des plus petites communes, qui ne bénéficient pas de l’aide de services et sont bien plus sollicités chaque jour que ceux des grandes communes."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835801",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Marie-José Allemand, pour soutenir l’amendement no 629."
+        },
+        {
+          "orateur": "Mme Marie-José Allemand",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840665",
+          "texte": "Notre amendement vise à ne conserver la hausse de 10 % des indemnités des maires que prévoyait initialement la proposition de loi que pour les communes de moins de 1 000 habitants et de fixer cette hausse à 8 % pour les communes de 1 000 à 9 999 habitants et à 6 % pour les communes de 10 000 à 19 999 habitants.\nIl s’agit aussi de prendre en considération les problèmes budgétaires auxquels nous allons être confrontés.\nSurtout, il convient de flécher l’effort vers les communes dont le nombre d’habitants est tel que le niveau des indemnités de leurs maires les oblige le plus souvent à concilier l’exercice de leur mandat local avec une activité professionnelle. Cela constitue un frein pour les élus salariés. Nous souhaitons vivement que leurs indemnités de fonction soient revalorisées. (Applaudissements sur quelques bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835803",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Jean-Pierre Bataille, pour soutenir les amendements nos 473 et 754, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "M. Jean-Pierre Bataille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267763",
+          "texte": "À l’instar de différents collègues, Joël Bruneau, moi-même et d’autres députés du groupe LIOT souhaitons une augmentation distincte des indemnités des élus.\nJe vais vous faire une confidence : j’estime que le maire d’une commune de moins de 100 habitants et celui d’une commune de plus de 100 000 habitants devraient percevoir les mêmes indemnités. En effet, j’ai toujours considéré qu’être le maire d’une toute petite commune constituait un sacerdoce : on ne dispose ni de moyens ni de personnel et la gestion du temps est encore plus compliquée qu’ailleurs.\nPar l’amendement no 473, Joël Bruneau propose que les indemnités des maires augmentent de 10 % dans les communes de moins de 3 500 habitants, de 5 % dans les communes de 3 500 à 20 000 habitants et n’augmentent pas au-delà de ce seuil.\nPar l’amendement no 754, nous suggérons une augmentation uniforme de 10 % dans les communes de moins de 20 000 habitants et aucune augmentation au-delà de ce seuil."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835808",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Carlos Martens Bilongo, pour soutenir l’amendement no 3."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "texte": "Nous sommes unanimes : il ne faut pas suivre la proposition faite par le Sénat d’augmenter de 10 % les indemnités des maires dans l’ensemble des communes, quelle que soit leur taille. Par cet amendement, nous proposons que seules les indemnités des maires des communes de moins de 50 000 habitants fassent l’objet d’une revalorisation. Comme vous l’avez dit, chers collègues, les maires des petites communes ont énormément de travail à accomplir tous les jours. Ils sont nos voisins de la rue et sont appelés dès qu’un feu de forêt se déclare ou qu’une voiture tombe en panne. Ces maires méritent toute notre reconnaissance ; la revalorisation des indemnités ne doit concerner que les petites communes. (M. Aurélien Le Coq applaudit.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3835810",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 647 est adopté ; en conséquence, les amendements identiques nos 799, 452, 654 et 710 ainsi que les amendements nos 629, 473, 754, 3 et 591 tombent.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Emmanuel Duplessy, pour soutenir l’amendement no 591."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Les amendements qui viennent d’être défendus sont tous moins-disants que la proposition du Sénat. On pourrait s’en satisfaire : on entend souvent dire que l’autre assemblée est plus sage que la nôtre mais il semblerait que ce ne soit pas le cas ce soir !\nNos amendements de réécriture visent à raboter un peu la revalorisation des indemnités des plus grands élus parce que la priorité doit être accordée aux élus des communes rurales, dont la charge de travail est tout aussi importante, sur lesquels pèsent des contraintes matérielles et qui n’ont pas de services derrière eux. Toutefois, nous déplorons que, suivant le dispositif que défend le gouvernement, même dans les petites communes, cette revalorisation s’élève non plus à 10 % mais à 8 %, alors qu’on aurait pu espérer que la dégressivité proposée permette que l’argent récupéré en haut du panier soit réinjecté en bas. C’est ce qu’il aurait fallu faire et nos amendements de réécriture allaient dans ce sens. Je regrette qu’ils n’aient pas passé l’épreuve de la recevabilité, alors que le périmètre financier du texte est tout à fait modeste.\nÀ défaut de trouver une autre solution qu’une augmentation uniforme de 10 %, il faut en rester là, mais je crois possible que le gouvernement nous propose, peut-être dans le cadre de la navette parlementaire, un amendement tendant à rendre plus équitable l’augmentation appliquée dans les différentes strates et à réinjecter dans les petites communes rurales les montants récupérés dans les plus grosses, plutôt que de diminuer la revalorisation prévue pour tout le monde, au nom de la dégressivité."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Mon avis est favorable sur l’amendement du gouvernement et les amendements identiques, défavorable sur tous les autres.\nPlusieurs combinaisons sont possibles, selon que l’on fixe le seuil à 3 500, 20 000 ou 50 000 habitants. En commission, nous avons en tout cas décidé de ne pas retenir la proposition d’une hausse uniforme de 10 %. Nous avons préféré le compromis auxquels tendent les amendements identiques, qui visent à revaloriser de 4 % à 8 % les indemnités de fonction des maires des communes de moins de 20 000 habitants."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "En examinant les amendements, on constate qu’un consensus se dégage au sein de notre assemblée, qui est le fruit des travaux menés en commission : il ne faut pas préserver l’augmentation uniforme de 10 % qui était proposée ; il convient de faire porter l’effort de préférence sur les communes de moins de 20 000 habitants, avec une dégressivité des plus petites communes aux plus importantes en dessous de ce seuil.\nPour ma part – il s’agit d’un de mes rares points de divergence avec le corapporteur, et encore s’agit-il d’une divergence mineure –, je pense que le gouvernement aurait pu nous faire une proposition un peu plus ambitieuse, en partant d’une augmentation de 10 % dans les communes de plus petite taille pour descendre jusqu’à 6 % au seuil de 20 000 habitants, comme notre collègue Allemand le prévoit par l’amendement no 629."
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "Très bon amendement !"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Si cet amendement n’était pas adopté ce soir, ce qui sera sans doute le cas étant donné les avis des uns et des autres, le travail sur la revalorisation indemnitaire pourrait se poursuivre dans le cadre de la navette parlementaire. Nous avons bien conscience des contraintes budgétaires mais rehausser de 10 % les indemnités de fonction des maires des communes de moins de 1 000 habitants revient à les augmenter d’un peu plus de 100 euros brut par mois et, à la lumière de nos échanges, je crois qu’ils le méritent bien."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je salue d’abord l’ingéniosité dont font montre les parlementaires pour répondre à une question que tout le monde se pose, à savoir quelle est la meilleure manière de revaloriser l’exercice du mandat de maire – nous évoquerons tout à l’heure le cas des adjoints. Je remercie le rapporteur Didier Le Gac, notre ami Stéphane Delautrette, bien sûr, et je salue l’excellent travail effectué en commission des lois. La proposition que formule le gouvernement dans l’amendement no 799 est, je crois, conforme au consensus issu du travail parlementaire.\nJe voudrais dire aux uns et aux autres – qu’il s’agisse de Mme Allemand, de M. Bruneau, de M. Bataille, de M. Bilongo ou de Mme Pochon – que les propositions qu’ils formulent sont intéressantes mais qu’il faut bien trancher. Je leur propose donc de retirer leurs amendements au profit de celui du gouvernement et des amendements identiques, que le rapporteur Le Gac soutient et qui s’appuient sur l’excellent travail effectué en commission."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Violette Spillebout."
+        },
+        {
+          "orateur": "Mme Violette Spillebout",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794486",
+          "texte": "La proposition de loi tend à créer un choc d’attractivité pour la fonction d’élu local, eu égard au désengagement et aux démissions que nous avons constatés. Parmi les freins à l’engagement figurent les indemnités mais il y en a d’autres.\nDans une récente enquête menée par le Sénat, il apparaît que 55 % des élus interrogés estiment que le sujet des indemnités est déterminant dans le choix de leur engagement. La revalorisation fait donc l’objet d’un consensus et, même si l’amendement du gouvernement est moins-disant que l’article 1er dans sa rédaction initiale, le groupe Ensemble pour la République le soutient.\nCela dit, le sujet des indemnités n’est pas pour autant entièrement réglé. À la délégation aux collectivités territoriales et à la décentralisation, nous avons étudié le Livre blanc sur la juste indemnisation des élus, publié par l’Observatoire de l’éthique publique en 2023 et rédigé par deux universitaires lillois, M. Demazière et M. Lefebvre. Il met en évidence des inégalités d’indemnisation entre simples conseillers dans les assemblées départementales et régionales et élus d’exécutifs locaux dans des villes moyennes. Le sujet de l’injustice indemnitaire suivant le niveau de responsabilité n’est absolument pas réglé par cette proposition de loi, il faut bien en avoir conscience.\nIl y a un autre constat que nous partageons tous : la contrainte budgétaire, qui nous oblige à être plus raisonnables que nous ne le souhaitions en 2023.\nJe conclurai en mentionnant un point de satisfaction : le Sénat, puis notre commission des lois ont fixé un niveau maximum d’indemnités dès le début du mandat sans qu’il soit nécessaire d’en délibérer au sein du conseil municipal. Ce sera un soulagement pour les intéressés puisque cela donnait très souvent lieu à des débats difficiles au moment de la prise de fonction des élus ou de l’installation des conseils municipaux.\nPour toutes ces raisons, je confirme que nous serons favorables à l’amendement du gouvernement. (M. Jean Terlier applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Bryan Masson."
+        },
+        {
+          "orateur": "M. Bryan Masson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793330",
+          "texte": "Ce débat sur les indemnités est évidemment essentiel puisqu’il reflète ce que nous disent les élus locaux. Cependant, les mises en garde du gouvernement suscitent en nous un regret de nature philosophique. Nous pensions vraiment, au terme du travail avec les rapporteurs en commission des lois, que ce texte permettrait de répondre à la question du statut de l’élu local et à l’enjeu de l’attractivité du mandat local évoquée par Mme Spillebout. Or on nous a répondu : attention, le budget, c’est important, on va essayer de diminuer les dépenses de l’État. Mais si l’on doit relancer l’attractivité de ce magnifique mandat tout en faisant attention aux contraintes financières, et adopter de ce fait une loi au rabais, autant ne pas proposer de loi du tout ! Évidemment, nous ne voulons pas augmenter les indemnités des grands barons locaux ; il s’agit de s’intéresser aux acteurs de première ligne, aux élus des petites villes – ainsi qu’à ceux des villes moyennes. D’ailleurs, nous regrettons que ces dernières aient été oubliées dans ces amendements et dans cette discussion. On fait comme si elles n’existaient pas, alors qu’elles sont le relais de l’action de l’État.\nNous regrettons très fortement d’assister à un débat plutôt flou sur les indemnités, sans qu’il soit question des missions principales qu’assurent non seulement les petites villes mais aussi les villes moyennes. Nous avons eu ce débat en commission des lois : au-delà de 100 000 habitants, ce sont d’énormes cabinets, d’énormes structures qui permettent de faire avancer la machine ; en dessous de 50 000 habitants, c’est très compliqué. Il ne faut pas tout mélanger.\nVoilà notre philosophie. Monsieur le ministre, parce qu’il faut tout de même avancer, nous soutiendrons l’amendement du gouvernement, mais n’oubliez pas les villes moyennes ! Surtout, on ne peut pas avancer sur le statut de l’élu local si l’on doit faire tout le temps attention au budget. N’oubliez pas que les communes font progresser l’action de l’État en prenant en charge les missions que celui-ci ne veut malheureusement plus assurer. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "À ce stade, je ferai plusieurs remarques.\nLa première, c’est qu’il est évident qu’une augmentation de 10 % pour l’ensemble des élus pose un problème, surtout dans un contexte où les salaires n’augmentent pas, c’est le moins qu’on puisse dire – ils baissent même tendanciellement de par l’effet de l’inflation. C’est la raison pour laquelle, à l’instar d’autres collègues – à travers par exemple l’amendement no 647 –, nous avons proposé une répartition différente.\nJe rappelle qu’une augmentation de 10 % pour l’ensemble des élus locaux aurait représenté une dépense de 65 millions à 66 millions d’euros. Or ce n’est pas pour des raisons morales que le gouvernement propose de baisser ce montant à 41 millions d’euros, suivant une nouvelle répartition ; c’est pour des raisons financières – sachant que tout cela repose sur le budget des collectivités elles-mêmes. À cet égard, la réponse du ministre vaut aveu, à savoir que tout ce que nous allons décider sera à la charge des collectivités. (M. Paul Christophe s’exclame.) C’est évidemment problématique parce que la fin de l’histoire, nous la connaissons : pour les communes dont les budgets sont les plus modestes et où, d’ores et déjà, les élus n’utilisent pas la part communale qui pourrait financer leurs indemnités, il en sera de même demain.\nC’est pourquoi nous avons repris l’amendement de Mme Brocard, qui propose une répartition différente de celle du gouvernement et qui est plus juste."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Merci, chère collègue."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "De même, nous proposons, par notre amendement, no 3, une répartition différente et plus juste, mais qui s’appuie sur… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’oratrice.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Sylvain Berrios."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "En premier lieu, je note que le travail de maire n’est pas exactement le même selon la strate communale. Cependant, nous devrions éviter d’opposer les communes entre elles. Les maires en France sont ceux qui souvent font tenir la République et nous devons par ce texte leur rendre un hommage global.\nEn second lieu, monsieur le ministre, vous nous avez indiqué que l’adoption de votre amendement entraînerait une dépense relativement importante, évaluée à un peu plus de 41 millions d’euros. C’est exact – mais ces 41 millions d’euros seront supportés exclusivement par les collectivités locales."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Eh oui ! C’est bien le problème !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Or l’une des difficultés, notamment pour les petites collectivités, c’est que les maires renonceront bien souvent à une augmentation parce que celle-ci serait prélevée sur les dépenses de fonctionnement et qu’ils n’en ont pas les moyens."
+        },
+        {
+          "orateur": "M. Gabriel Amard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794906",
+          "texte": "Exact !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Il y a donc un peu d’hypocrisie dans cette affaire parce que finalement ceux qui en ont le plus besoin seront ceux qui ne pourront pas le faire."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Exact !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "C’est pourquoi cet article est quelque peu dérangeant. Il est dommage que nous entamions la création d’un statut d’élu local par un article qui véhicule une forme d’hypocrisie, puisque ce sont les communes qui paieront et que les petites communes seront sanctionnées. (Applaudissements sur les bancs des groupes HOR et LIOT.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Emmanuel Duplessy."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Que ce soit bien clair : ces amendements sont moins-disants que la version actuelle du texte pour les petites communes rurales."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Pour les villes moyennes, il n’y aurait juste plus rien.\nIl est vrai que l’augmentation que nous allons voter sera essentiellement supportée par le budget des collectivités. C’est même pourquoi j’ai déposé un amendement portant article additionnel après l’article 1er, qui vise à sanctuariser les indemnités en créant une enveloppe spécifique au sein de la DGF pour que le problème du versement des indemnités empiétant sur la capacité d’action de la commune ne se pose plus."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Marina Ferrari."
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795120",
+          "texte": "On est en train d’opposer – notamment M. Masson – les différentes strates de collectivités ; on parle même de « baronnies » à propos des grandes communes. Je trouve cela dommage, parce que, pour moi, un maire est un maire, qu’il soit à la tête d’une commune rurale ou à la tête d’une plus grande ville.\nVous dites par ailleurs, monsieur Masson, que les villes moyennes sont les grandes oubliées. Je vais vous donner un exemple : je suis l’élue d’une commune de 31 000 habitants, qui traite plus de 800 bulletins de salaire par mois ; nous avons donc les services qui nous permettent d’agir, et nous sommes bien plus épaulés que les élus d’une commune d’une strate inférieure.\nEnfin, je vais mentionner publiquement le montant des indemnités aujourd’hui : pour un maire d’une commune de 10 000 à 19 999 habitants, l’indemnité est de 2 671 euros ; pour un maire d’une commune de 20 000 à 49 999 habitants, elle est de 3 699 euros. Il y a donc déjà une prise en compte de la strate, ce qui me semble positif. Je soutiens le fait qu’il vaut mieux, comme nous le proposons, renforcer les indemnités des élus des communes les moins importantes parce que la tâche des maires y est beaucoup plus difficile à accomplir."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 647 est adopté ; en conséquence, les amendements identiques nos 799, 452, 654 et 710 ainsi que les amendements nos 629, 473, 754, 3 et 591 tombent.)"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Alors là ! Bravo le Modem !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 1er, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3836528",
+      "valeurPtsOdj": "2",
+      "titre": "Après l’article 1er",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Sur l’amendement no 469, je suis saisie par le groupe Écologiste et social d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Emmanuel Duplessy, pour soutenir l’amendement no 469, portant article additionnel après l’article 1er."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "J’évoquais cet amendement il y a quelques instants : il vise à sanctuariser la question des indemnités et des frais de mandat au sein de la DGF pour que le dilemme auquel sont soumis un certain nombre d’élus locaux, c’est-à-dire le choix entre y renoncer ou intégrer ces montants dans les dépenses de fonctionnement de leur collectivité prenne fin et que les élus ne soient plus tiraillés entre l’indemnisation de leur travail et les moyens alloués à leur commune.\nDe surcroît, cela permettra à l’avenir d’accroître cette enveloppe lorsqu’on votera des augmentations d’indemnités tout en évitant que des élus déjà très riches s’octroient davantage d’indemnités par un jeu politicien, alors qu’ils ont déjà gagné leur vie largement et qu’ils n’ont plus besoin d’indemnités – quand la grande majorité des Français, qu’ils soient élus ou non, ont besoin de travailler pour vivre."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Ce sera un avis défavorable."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Pourquoi ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "La DGF est une enveloppe globale, vous le savez bien. Elle est libre d’emploi, attribuée sans aucune affectation préétablie, afin de permettre aux collectivités d’arbitrer librement entre leurs dépenses de fonctionnement et selon leurs priorités. Chaque commune utilise comme elle l’entend la part de la DGF qui lui revient. Cet amendement propose ni plus ni moins que de remettre en cause le principe de libre administration des collectivités locales."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "N’exagérons rien !"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "C’est une discussion ! On a tout de même le droit de faire des suggestions !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je voudrais revenir sur le vote de l’article 1er, les députés ayant adopté l’amendement que Mme Brocard avait retiré et qu’a repris la députée du groupe LFI."
+        },
+        {
+          "orateur": "Mme Farida Amrani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795588",
+          "texte": "La députée du groupe LFI a un nom !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Merci de me laisser m’exprimer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Laissez le ministre s’exprimer, s’il vous plaît."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "J’essaie d’expliquer comment les choses se sont passées parce que je me demande si tout le monde l’a bien compris. (M. Thierry Benoit applaudit. –  Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Modem et LFI : même combat !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je suis assez surpris du fait que les députés ont ainsi dévalorisé le travail accompli en commission et reconnu préalablement à travers les amendements identiques. À partir du moment où les deux rapporteurs étaient favorables à l’amendement du gouvernement, il est étonnant que celui-ci n’ait pas été retenu. (Vives exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Eh oh !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Nous ne sommes pas à Dijon !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Calmez-vous !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "S’il vous plaît, chers collègues !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Bref. Point barre. Passons à la suite.\nL’amendement no 469 vise à créer une nouvelle case dans la DGF."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Ce serait une enveloppe fermée !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Drôle de manière de se simplifier la vie ! La DGF est déjà difficilement explicable… Si l’on y incluait en plus les frais de déplacement, on n’y comprendrait vraiment plus rien ! Ce n’est absolument pas sérieux. La DGF ne sert pas à cela.\nAvis défavorable. (Mme Marina Ferrari et M. Guillaume Gouffier Valente applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Notre débat et, particulièrement, les propos tenus sur les bancs du gouvernement et des commissions me mettent profondément mal à l’aise. Tous vos arguments en faveur de l’augmentation de l’indemnité des élus locaux pourraient être utilisés pour justifier celle des salaires. S’il y avait des salariés dans les tribunes, leurs oreilles saigneraient. (Exclamations sur les bancs des groupes RN et HOR.)\nIl a été dit que la hausse des indemnités allait augmenter l’attractivité de la fonction d’élu. C’est aussi le cas pour les métiers du soin et de la petite enfance."
+        },
+        {
+          "orateur": "M. Hervé de Lépinau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642988",
+          "texte": "Qu’est-ce que tu en sais, toi qui n’as jamais travaillé ? C’est l’hôpital qui se fout de la charité !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "J’ai même entendu un collègue affirmer que l’élu d’une petite commune et celui d’une grande devraient toucher le même salaire parce que, si le second a davantage de responsabilités, la charge du premier est plus difficile. Voilà que vous êtes devenus marxistes !\nNous ne soutiendrons pas l’amendement en discussion parce qu’il convient de défendre la libre administration des collectivités. Pourtant, une part de nous aimerait le soutenir. En effet, comme cela a été souligné, certaines communes risquent de ne pas pouvoir assumer la charge de la hausse des indemnités.\nLa solution serait que le gouvernement s’engage à compenser cette augmentation à l’euro près ou, au moins, à ne pas baisser le budget des collectivités, qui se serrent déjà la ceinture. Si de tels engagements étaient pris, nous n’aurions pas à déposer des amendements pour essayer de joindre les deux bouts. La balle est dans le camp du gouvernement, dont nous attendons les réponses. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Je veux rappeler à M. Boyard, qui n’a pas encore été élu local, que les élus locaux perçoivent une indemnité et non un salaire. Les mots ont un sens. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Peut-être aurait-il fallu l’écouter ? Si c’était pour dire ça, vous auriez mieux fait de rester assise !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Il ne sait pas faire la différence !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Didier Le Gac, rapporteur."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Je souhaite moi aussi revenir sur le vote de l’article 1er. Ici (L’orateur désigne les bancs du groupe RN), vous disiez ne pas vouloir augmenter les indemnités dans les grandes villes ; là (L’orateur désigne les bancs du groupe SOC), vous vouliez augmenter celles des élus des petites communes. Ce n’est pas ce qui a été fait ! Nous avons augmenté les indemnités de 7 % dans les communes de moins de 500 habitants et d’un peu plus de 3 % dans les communes de 1 000 à 3 500 habitants, mais nous les avons aussi augmentées de près de 1,5 % dans les villes de plus de 50 000 ou 100 000 habitants. Nous avons donc voté une hausse dans les grandes communes, au détriment des petites."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Merci le RN !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Ce n’était pas l’objectif affiché. (Applaudissements sur quelques bancs des groupes EPR et HOR.) Vous avez voté quelque chose que vous déclariez ne pas vouloir."
+        },
+        {
+          "orateur": "M. Jean Terlier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721584",
+          "texte": "Merci de le rappeler !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Il y a là un peu de confusion."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je mets aux voix l’amendement no 469."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        117\n        Nombre de suffrages exprimés                61\n        Majorité absolue                        31\n                Pour l’adoption                8\n                Contre                53"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 469 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Didier Le Gac, rapporteur, pour soutenir l’amendement no 453 portant lui aussi article additionnel après l’article 1er."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Il s’agit d’un amendement de coordination visant à rendre les dispositions de l’article 1er applicables aux élus des collectivités territoriales de Guyane et de Martinique."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 453, accepté par le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3837011",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er  bis",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Blandine Brocard, pour soutenir l’amendement no 711."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Il s’agit d’apporter une rectification à cet article introduit par suite de l’adoption en commission d’un amendement défendu par notre collègue Perrine Goulet.\nL’article 1er  bis modifie la disposition du CGCT relative au plafonnement des indemnités des conseillers municipaux afin d’y intégrer l’ensemble des fonctions liées au mandat. Or cette modification ne concerne que les élus municipaux, ce qui crée avec les autres élus locaux une différence de traitement non conforme aux exigences constitutionnelles d’égalité. Pour renforcer la cohérence, la lisibilité et la transparence du régime indemnitaire des élus locaux, l’amendement vise à étendre la nouvelle rédaction à l’ensemble des mandats visés par les dispositions législatives du CGCT."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Avis favorable.\nOn aborde ici la question de l’écrêtement. Vous connaissez tous la règle : un élu local qui détient plusieurs mandats électifs ne peut pas percevoir, pour l’ensemble de ses fonctions, un total de rémunérations ou d’indemnités de fonction supérieur à une fois et demie le montant de l’indemnité parlementaire. Comme nous l’avons vu en commission, il semble nécessaire d’adopter une rédaction identique pour l’ensemble des élus locaux, afin de ne pas créer de régimes juridiques distincts en matière d’indemnités et de faire en sorte que l’écrêtement concerne effectivement toutes les sommes perçues."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Même position : avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "C’est la magie des débats : ils permettent d’avancer et prouvent que nous comprenons ce que nous votons. Un amendement déposé par une représentante du groupe Modem en commission des lois a offert l’occasion de s’apercevoir que certaines indemnités, indemnisations ou sommes perçues par des élus pour certaines fonctions exercées au titre de leur mandat pouvaient échapper à l’écrêtement. Or tout doit être compté, pour tout le monde. Nous sommes donc très favorables à l’amendement – nous parlerons ensuite du montant à partir duquel on écrête."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 711 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 1er  bis, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3837022",
+      "valeurPtsOdj": "2",
+      "titre": "Après l’article 1er  bis",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je suis saisie de deux amendements, nos 1 et 495, portant article additionnel après l’article 1er  bis et pouvant être soumis à une discussion commune.\n La parole est à Mme Géraldine Bannier, pour soutenir l’amendement no 1."
+        },
+        {
+          "orateur": "Mme Géraldine Bannier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720256",
+          "texte": "Je suis élue locale dans une petite commune rurale et, comme vous tous sans doute, je suis extrêmement préoccupée par la défiance croissante de nos concitoyens envers les élus. Nous avons tous et toutes le devoir absolu de regagner leur confiance. À titre personnel et sans faire aucune polémique, j’ai déjà plusieurs fois plaidé dans l’hémicycle pour le non-cumul d’indemnités, que j’ai toujours défendu. Comme M. le rapporteur l’a rappelé, il existe un écrêtement qui empêche de percevoir plus d’une fois et demie l’indemnité parlementaire de base. Malgré cela, il est parfois difficile pour nos concitoyens de savoir ce que perçoit réellement leur maire si celui-ci est aussi président de communauté de communes ou conseiller départemental ou régional. Cela ouvre la porte à des fantasmes. On imagine que les députés ont des chauffeurs ou que les élus locaux perçoivent des indemnités énormes.\nJe suis persuadée – c’est le sens de mon amendement – qu’il serait plus simple qu’en cas de cumul de mandats, on ne perçoive que l’indemnité la plus haute. Cela offrirait plus de transparence. Je pratique ce non-cumul d’indemnités : si je suis conseillère municipale et déléguée communautaire, ma seule rémunération est mon indemnité de parlementaire. J’atteste que cette démarche est très bien perçue par nos concitoyens. Je souhaite que ce sujet fasse l’objet d’une discussion transparente, qu’il ne soit pas mis sous le tapis, car ne percevoir qu’une indemnité, au montant clairement connu, permettrait de regagner la confiance de nos concitoyens. (M. René Pilato applaudit.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3837026",
+      "valeurPtsOdj": "2",
+      "titre": "(Les amendements nos 1 et 495, successivement mis aux voix, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Élisa Martin, pour soutenir l’amendement no 495."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Il vise à baisser le niveau de revenus à partir duquel l’écrêtement s’applique. Nous proposons comme plafond la rémunération du maire de Paris, soit 7 912 euros, une somme inférieure à une fois et demie l’indemnité des parlementaires. Je pense que nous sommes tous par ailleurs d’accord pour conserver la disposition législative qui prévoit que le surplus est reversé au budget général de la collectivité concernée.\nQu’il recrée ou non de la confiance, l’amendement qui vient d’être défendu nous paraît très bon aussi, mais nous préférons raisonner par rapport aux revenus de l’ensemble des Français. Percevoir 7 912 euros ou, plus encore, une fois et demie l’indemnité parlementaire vous place parmi les 2 % de Français les mieux rémunérés."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission sur ces deux amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Il est défavorable sur les deux, le premier amendement visant purement et simplement à interdire le cumul des indemnités, le second à le plafonner à un montant de 8 000 euros.\nJe rappelle que l’objectif de la proposition de loi est d’encourager les vocations d’élus, non le contraire. J’estime en outre que le cumul est désormais suffisamment encadré et restreint, avec un plafond, fixé à une fois et demie le montant de l’indemnité parlementaire, connu et efficace."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "À propos de l’amendement de Mme Bannier, je dirais qu’à vouloir trop bien faire, il arrive qu’on manque sa cible. Je prends un exemple : le maire d’une commune de moins de 1 000 habitants perçoit une indemnité de fonction de 1 656 euros brut par mois. S’il est par ailleurs également conseiller départemental d’opposition, il en a aussi une autre, légèrement inférieure, de 1 644 euros. Si l’amendement était adopté, il ne pourrait plus cumuler ces deux indemnités, dont le total est pourtant significativement inférieur au plafond autorisé d’une fois et demie l’indemnité parlementaire."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "C’est pourquoi je pense que cet amendement devrait être retiré. À défaut, mon avis serait défavorable.\nÀ propos de l’amendement no 495, je me demande s’il est de bon aloi de prendre pour exemple, pour tous les maires de France, la rémunération de celui de Paris. Sans vouloir être péjoratif envers la capitale, je ne suis pas sûr que l’ensemble des élus de notre territoire aient envie d’avoir comme référence l’indemnité de la maire de Paris plutôt qu’une fois et demie l’indemnité parlementaire. Avis donc totalement défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Géraldine Bannier."
+        },
+        {
+          "orateur": "Mme Géraldine Bannier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720256",
+          "texte": "Je ne voudrais pas que mon amendement fasse l’objet d’une mauvaise lecture. Il ne vise pas du tout à décourager les élus (« Eh si ! » sur les bancs du groupe RN) ou à restreindre leurs indemnités. Avoir une seule indemnité, au montant clairement connu, offrirait plus de transparence. Sinon, nos concitoyens sont obligés d’aller lire les délibérations de la commune, de la communauté de communes, éventuellement du conseil départemental ou régional, pour savoir combien gagne leur élu."
+        },
+        {
+          "orateur": "M. Hervé de Lépinau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642988",
+          "texte": "Mettez l’information dans le bulletin municipal, ou envoyez une lettre !"
+        },
+        {
+          "orateur": "M. Bryan Masson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793330",
+          "texte": "Les règles sont très claires !"
+        },
+        {
+          "orateur": "Mme Géraldine Bannier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720256",
+          "texte": "Nos concitoyens abordent souvent le sujet. (M. René Pilato applaudit.) Dans la commune rurale d’où je viens, les habitants se demandent combien gagne untel ou unetelle. La mesure que je propose permettrait plus de transparence, quitte à ce que les indemnités soient fortement revalorisées."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Marina Ferrari."
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795120",
+          "texte": "Je prends un autre exemple que celui donné par M. le ministre. Le maire d’une commune de moins de 500 habitants perçoit 1 048 euros brut, plus 650 euros s’il est conseiller dans une communauté de communes de moins de 10 000 habitants. Vous demandez, chère collègue, que l’élu reste à 1 048 euros."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795120",
+          "texte": "En outre, je rappelle que, depuis 2019, nous avons l’obligation de déclarer l’intégralité de nos indemnités et qu’elles sont publiques."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "La collègue Ferrari a soulevé le point que je souhaitais aborder.\nConcernant la question de la transparence – traitée un peu plus loin dans le texte –, les élus en situation de cumul ont l’obligation de faire une déclaration annuelle des indemnités qu’ils perçoivent dans les différentes collectivités. Ces informations sont fournies au public ; il est même possible de demander à la Commission d’accès aux documents administratifs (Cada) d’en avoir communication. Ne laissons donc pas entendre que les élus pourraient chercher à cacher les indemnités qu’ils perçoivent. Ce n’est pas le cas et tout cela est strictement réglementé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 1 et 495, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3837075",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Prochaine séance à quinze heures :\n Questions au gouvernement ;\nDiscussion, sur le rapport de la commission mixte paritaire, de la proposition de loi visant à lever les contraintes à l’exercice du métier d’agriculteur ;\nVote solennel sur la proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive ;\n Suite de la discussion de la proposition de loi portant création d’un statut de l’élu local.\nLa séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée le mardi 8 juillet à zéro heure cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3126 @@
+{
+  "uid": "CRSANR5L17S2026O1N018",
+  "seanceRef": "RUANR5L17S2026IDS29851",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2025-10-28",
+  "dateLisible": "mardi 28 octobre 2025",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3866568",
+      "valeurPtsOdj": "1",
+      "titre": "Première partie (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la première partie du projet de loi de finances pour 2026 (nos 1906, 1996).\n Cet après-midi, l’Assemblée a poursuivi la discussion des articles, s’arrêtant à l’amendement no 1865 portant article additionnel après l’article 12."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866570",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 12 (amendements appelés par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "En application de l’article 95, alinéa 4, de notre règlement, nous examinons par priorité les amendements déposés après l’article 12 et relatifs aux services numériques. Nous reprenons nos débats à l’amendement no 1950."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866572",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Paul Midy, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Sur le fondement de l’article 70, relatif à la bonne tenue de nos débats.\nIl est bienvenu d’accélérer le rythme de nos débats, mais sur un sujet aussi important que celui de la taxe sur les services numériques (TSN), dite taxe Gafa, nous demanderons une prise de parole par groupe.\nPar ailleurs, depuis le début de l’examen du projet de loi de finances (PLF) pour 2026, les débats ont été d’une très bonne qualité. Toutefois, Marine Le Pen est arrivée en séance tout à l’heure et l’on a vu le retour de l’alliance entre le Rassemblement national et La France insoumise pour assommer nos entreprises de dizaines de milliards d’euros de taxes. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Ouin-ouin !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Cette seconde observation n’est pas un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Vous n’êtes pas les derniers pour nous faire perdre du temps !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Et vous, pour dire des conneries !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Monsieur Tanguy, pas de vulgarité s’il vous plaît !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "La vulgarité est dans le fond, pas dans la forme !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "S’il vous plaît, commençons sereinement nos débats."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866584",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 12 (amendements appelés par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Aurélie Trouvé, pour soutenir l’amendement no 1950."
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Enfin, nous nous mettons réellement au travail : il serait dommage de laisser nos débats s’enliser !\nCet amendement tend à mettre fin à l’impunité fiscale des géants du numérique, qui réalisent des milliards d’euros de chiffre d’affaires en France, mais qui déclarent leurs bénéfices dans les paradis fiscaux des Caraïbes ou même dans l’Union européenne.\nC’est vrai, une pseudo-taxe Gafam existe et c’est même Bruno Le Maire qui l’a créée en 2019,… (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "…lorsqu’il était ministre de l’économie – il y a eu au moins dix autres ministres de l’économie depuis, on ne les compte plus depuis huit ans.\nC’est une pseudo-taxe qui ne sert à rien ou presque."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Elle rapporte tout de même 800 millions !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Vous n’auriez pas dû applaudir cet impôt. Son rendement annuel est de 500 millions d’euros et elle est inefficace : elle n’a rien changé à la domination des géants du numérique, ce que tout le monde a pu observer.\nNotre amendement s’appuie sur la notion de « présence numérique significative » et tend à taxer les bénéfices des grandes sociétés du numérique selon leur activité réelle. Il ne s’agit pas seulement d’un acte budgétaire et fiscal, mais d’un acte de souveraineté numérique. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Il faut non seulement que les géants du numérique obéissent à la loi française, mais aussi que la concurrence soit loyale dans ce secteur – c’est la condition nécessaire au développement des champions français du numérique dont vous nous parlez sans cesse, monsieur le ministre.\nPour toutes ces raisons, une réelle taxe Gafam est nécessaire !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Philippe Juvin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "La commission a rejeté cet amendement qui vise à créer la notion d’établissement stable virtuel, sur laquelle on fonderait l’assiette et la redevabilité fiscale de la taxe Gafam.\nJe m’interroge : est-il réellement opérant de vouloir consacrer l’établissement stable virtuel en droit national sans renégocier les conventions fiscales avec nos partenaires ? Je dis que je m’interroge mais c’est une manière de m’exprimer : cela constitue un obstacle à l’adoption de votre amendement.\nLe pilier 1 de l’OCDE, dont la négociation, en cours, est rendue complexe par les conditions géopolitiques que vous connaissez, consacrerait le droit à imposer en fonction des ventes des acteurs du numérique. Dans l’attente de cette solution, mon avis est défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je suis opposé à cet amendement et la série nous examinerons dans un instant fournira l’occasion d’exposer la position de mon groupe.\nMerci à Aurélie Trouvé d’avoir rappelé que nous avons été à l’origine de la taxe sur les services numériques, dite taxe Gafa. Sa création avait été l’aboutissement d’un combat de deux ans, mené au niveau européen par Bruno Le Maire, alors ministre des finances, et par le président de la République."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Deux personnes qu’il vaut mieux ne pas citer dans cet hémicycle !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Nous étions proches de l’instauration d’une taxe sur les services numériques au niveau européen, puisque à la fin de l’année 2018, trois ou quatre États seulement s’étaient formellement opposés à sa création, à l’occasion d’un vote du conseil affaires économiques et financières (Ecofin). Je regrette que nous n’ayons pas abouti, car l’Europe aurait pu être une force motrice dans la régulation des géants du numérique.\nJ’en profite pour dire à tous les antieuropéens de cet hémicycle que cette occasion manquée fournit la preuve que la contrainte des votes unanimes ne permet pas toujours d’avancer. Si les questions fiscales se réglaient à la majorité qualifiée au sein de l’Union, nous aurions remporté ce vote et nous aurions donc pu, au niveau européen, instaurer une taxe Gafa.\nJe laisse l’extrême droite et la gauche insoumise à leurs contradictions au sujet de l’Europe…"
+        },
+        {
+          "orateur": "M. Nicolas Dragon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793146",
+          "texte": "C’est affligeant."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "…et j’invite ceux qui déclarent que la taxe ne rapporte rien à ne pas la caricaturer."
+        },
+        {
+          "orateur": "Mme Julie Lechanteux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796026",
+          "texte": "On ne caricature pas !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Les rendements attendus pour l’année 2026 dépassent 800 millions d’euros et le milliard d’euros sera atteint dans quelques années. C’est beaucoup d’argent pour le budget de l’État et, en toute objectivité, on ne peut pas dire que la France n’a rien fait au sujet de la taxation des services numériques. Au contraire, nous sommes plutôt à l’avant-garde de ce combat de justice fiscale au niveau international."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Aurélie Trouvé."
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Collègues qui soutenez le gouvernement, il n’y a absolument pas de quoi être fiers de cet impôt qu’on ne devrait même pas appeler taxe Gafam. Dans le rapport d’information de notre commission des finances sur les différentiels de fiscalité, paru en juillet 2023, on lit d’ailleurs que la taxe sur les activités numériques des entreprises « reste peu efficace », que sa « portée est bien trop réduite » et qu’elle ne traite « l’évitement fiscal des Gafa qu’en surface ». Si ce bilan vous rend fiers, je ne sais pas quoi dire.\nComme à chaque fois, vous faites de l’autosatisfaction alors que les huit ans de la présidence Macron ont été un désastre. Qui peut aujourd’hui dire que nous sommes heureux de voir où en est la souveraineté numérique de la France ? Un seul d’entre vous oserait-il se réjouir de l’action menée en matière de souveraineté numérique ? (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) En réalité, vous n’avez jamais agi courageusement ou planifié les choses de sorte à assurer cette souveraineté ! Tout ce que nous avons eu, c’est la soumission aux géants américains du numérique ! (Applaudissements sur les bancs du groupe LFI-NFP. – M. Benjamin Lucas-Lundy applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 1950."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        144\n        Nombre de suffrages exprimés                136\n        Majorité absolue                        69\n                Pour l’adoption                57\n                Contre                79"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1950 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866620",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je suis saisi de quinze amendements, nos 2376, 2402, 3082, 3615, 3237, 655, 3486, 1948, 517, 2837, 412, 838, 1660, 1945 et 836, pouvant être soumis à une discussion commune.\n Les amendements nos 2376, 2402, 3082, 3615 sont identiques, de même que les amendements nos 517 et 2837, ainsi que les amendements nos 412, 838, 1660, et 1945.\n Les amendements no 2376 et identiques font l’objet d’une série de sous-amendements nos 3855, 3865 et 3866 et l’amendement no 655 fait l’objet du sous-amendement no 3870.\nSur le sous-amendement n° 3855, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Corentin Le Fur, pour soutenir l’amendement no 2376."
+        },
+        {
+          "orateur": "M. Corentin Le Fur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840979",
+          "texte": "J’aurais volontiers laissé M. Jean-René Cazeneuve, qui est à l’initiative de cette démarche, défendre d’abord son amendement no 3615, mais je m’exécute puisque le mien est appelé en premier.\nTout à l’heure, je me suis montré très hostile au plafonnement de la taxe au tonnage, une mesure qui aurait pénalisé l’un de nos champions nationaux et qui aurait nettement entravé notre souveraineté économique, qu’on veut pourtant défendre. Elle aurait pénalisé le pavillon français et le transport maritime français.\nIl s’agit désormais de renforcer la taxe sur les géants du numérique et, à mon tour, je veux saluer l’initiative, prise par la France et l’un de ses précédents gouvernements, de créer une taxe Gafam, dont j’aurais évidemment préféré qu’elle s’applique au niveau européen. Son taux reste toutefois très bas.\nComme beaucoup de Français et de parlementaires, j’ai été très choqué de voir l’administration Trump imposer aux entreprises françaises et aux exportations européennes des droits de douane extrêmement élevés. J’ai également été choqué par le manque de combativité de l’Europe et la facilité avec laquelle on les a malheureusement acceptés.\nJe propose une sorte de mécanisme de réciprocité. On doit subir 15 % de droits de douane sur un grand nombre de nos exportations, au détriment de notre compétitivité ; mon amendement tend à calculer la taxe sur les services numériques en fonction du même taux. Il y va de la compétitivité de la France, de sa souveraineté économique et de sa souveraineté numérique."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866625",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Denis Masséglia, pour soutenir l’amendement no 2402."
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Je voulais présenter mon amendement – rédigé il y a plusieurs mois, après que le président Trump a négocié un accord avec l’Europe, un mauvais accord pour l’Europe – dans les mêmes termes que ceux que vient d’utiliser Corentin Le Fur, mais je vais plutôt rebondir sur les propos de ma collègue de La France insoumise.\nQuand elle exprime la nécessité de renforcer la souveraineté numérique de la France et de l’Union européenne, elle a raison. Quand elle explique qu’il est anormal que la France et l’Union européenne n’aient pas de souveraineté numérique, elle a raison."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Mais alors pourquoi défendre matin, midi et soir des taxes sur l’outil productif ? Pourquoi répéter matin, midi et soir qu’il faut mettre en place la taxe Zucman, alors qu’à force de taxer notre appareil productif, on tuera notre industrie et notre souveraineté numérique ?"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Oh là là !"
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "De grâce, faites preuve de mesure dans vos réflexions ! Je sais que j’en demande beaucoup, mais cessons de taxer notre outil numérique et notre outil productif, à moins qu’on veuille répéter nos discussions d’aujourd’hui dans un an, cinq ans ou vingt ans, faute d’outils et d’une souveraineté numériques suffisamment développés."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Sur les amendements no 3237 et 1948, sur les amendements identiques nos 412, 838, 1660, 1945 et sur les amendements identiques nos 517 et 2837, je suis saisi par les groupes Écologiste et social, La France insoumise-Nouveau Front populaire et Socialistes et apparentés de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Emmanuel Maurel, pour soutenir l’amendement no 3082."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "On peut dire que la taxe sur les services numériques fait œuvre de salubrité publique. Les entreprises du numérique paient deux fois moins d’impôts que les entreprises traditionnelles, alors qu’elles réalisent des profits colossaux.\nIl faut bien reconnaître que la capacité d’innovation des Gafam n’est pas que technologique : elle est aussi fiscale. La plupart rapatrient des profits colossaux dans des paradis fiscaux européens ; c’est d’ailleurs parce que ces derniers se sont montrés récalcitrants que la taxe Gafam n’a pas vu le jour au niveau européen, monsieur Sitzenstuhl.\nIl est vraiment navrant que la Commission européenne elle-même ait baissé les bras ! Il y avait un chemin, mais Mme von der Leyen a décidé de se coucher. De ce point de vue, le projet d’accord entre M. Trump et cette dernière est vraiment un scandale ; il accrédite l’idée d’une vassalisation de l’Europe par les États-Unis.\nVoter une taxe Gafam renouvelée et augmentée permettrait non seulement à la France de montrer le chemin, mais aussi de contester radicalement la colonisation numérique de l’Europe par les États-Unis.\nEn commission, cet amendement avait recueilli une très grande majorité de suffrages. J’espère que ce soir, il en sera de même.\nL’enjeu de notre vote n’est pas seulement le rendement de cette taxe : il y va aussi de la vie économique en Europe."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866399",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 3615 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Jean-René Cazeneuve, pour soutenir l’amendement no 3615."
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "C’est le retour du minitel ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Je voudrais d’abord saluer le travail effectué depuis 2017, notamment par Bruno Le Maire (Exclamations sur plusieurs bancs du groupe SOC), pour fiscaliser les entreprises multinationales. Je pense au pilier 2 de l’OCDE, très largement poussé par la France, et à la taxe Gafa.\nLes géants du numérique doivent payer en France un impôt proportionnel à leur activité et à leur profitabilité. Ces géants, que je connais bien, ont multiplié les astuces légales pour faire en sorte que leur chiffre d’affaires et leur profitabilité ne soient pas connus. C’est pourquoi nous avons créé la taxe Gafa, copiée depuis par sept pays en Europe, avec des taux qui vont de 2 % à 7,5 %.\nMonsieur le président, si vous en êtes d’accord, je vais défendre également par anticipation l’amendement n° 655. En clair, je propose dans l’amendement n° 3615 de porter le taux de la taxe que je viens d’évoquer à 15 %, alors que dans l’amendement n° 655, elle est fixée à 6 %.\nDepuis l’examen en commission, j’ai pu mesurer toutes les réactions suscitées par l’amendement no 3615 dans le monde économique et au-delà. Je ne suis pas là pour rouvrir une guerre commerciale entre la France et les États-Unis et je pense que personne ne le souhaite. Nous avons tous vu les conséquences des taxes décidées unilatéralement ces derniers mois sur les agriculteurs, sur les viticulteurs et sur certains industriels. L’objectif est simplement de faire en sorte que l’impôt soit le plus juste possible au regard de l’activité des géants du numérique en France. (M. Paul Midy applaudit.)\nEn conséquence, je retire l’amendement n° 3615 au profit de l’amendement n° 655."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3615 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Sur l’amendement no 3082, je suis par le groupe de la Gauche démocrate et républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nNous en venons aux sous-amendements aux amendements identiques.\nLa parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire, pour défendre le sous-amendement no 3855."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Les amendements n° 2376 et identiques proposent de multiplier par cinq le taux de la taxe sur les services numériques, pour le porter à 15 % ; ils relèvent le seuil de taxation au niveau mondial de 750 millions d’euros à 2 milliards. L’augmentation est nécessaire, mais je ne comprends pas à quelles entreprises il est prévu de ne pas s’attaquer en relevant le seuil.\nJe doute qu’avec un tel relèvement, le rendement de la taxe atteigne les 4 milliards d’euros prévus. Je propose donc de supprimer le relèvement de ce seuil, qui me semble trop aléatoire et contre-productif.\nMonsieur Le Fur, je suis preneur d’informations sur les entreprises que votre amendement permettrait d’exclure du dispositif."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Nathalie Coggia, pour soutenir le sous-amendement no 3865."
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Je ne remets pas en cause l’esprit d’un amendement que je soutiens et qui vise les géants du numérique dits Gafam, faisant de la France le fer de lance et l’initiateur d’une riposte européenne contre les abus de la politique tarifaire américaine.\nMon sous-amendement a comme objectif de protéger les entreprises européennes de ce secteur contre un effet de bord de l’augmentation d’une taxe qui, contrairement à son intitulé, ne viserait pas seulement les géants américains, mais aussi des entreprises françaises ou européennes comme Criteo, Amadeus, Zalando, Deliveroo, Bolt, Flix, Just Eat, Takeaway ou Adevinta dont les revenus dépassent le seuil de 2 milliards d’euros, alors qu’elles sont déjà soumises à l’impôt sur les sociétés (IS) en Europe. Ces entreprises, plus fragiles que les Gafam, pourraient difficilement absorber un taux plus élevé que le taux actuel, qu’on le fixe à 5 %, à 6 % ou à 15 % de leur chiffre d’affaires. De tels taux affaibliraient ces champions européens technologiques, à l’instar de Criteo, qui réalise près de 2 milliards de chiffre d’affaires mondial pour une marge opérationnelle inférieure à 10 %.\nC’est pourquoi je propose de relever le seuil d’application du nouveau taux de 2 milliards à 10 milliards afin d’en exclure ces champions européens de la tech."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866414",
+      "valeurPtsOdj": "1",
+      "titre": "(Le sous-amendement no 3866 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Daniel Labaronne, pour soutenir le sous-amendement no 3866."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je le retire au profit de l’amendement n° 655."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 3866 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866417",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Nous poursuivons l’examen des amendements en discussion commune.\nLa parole est à M. Arnaud Bonnet, pour soutenir l’amendement no 3237."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "texte": "L’imposition des Gafam est un problème. Cet amendement propose un relèvement de la TSN de 3 à 6 % pour les entreprises dont le chiffre d’affaires mondial est compris entre 750 millions et 2 milliards et un taux majoré à 15 % pour les entreprises dont le chiffre d’affaires dépasse 2 milliards.\nNous abandonnons notre souveraineté numérique aux Gafam. Nous leur abandonnons tous les jours les données de nos concitoyennes et de nos concitoyens. Pire, nous abandonnons à leurs algorithmes la santé mentale de nos enfants ainsi que la moindre des habitudes de nos concitoyens et de nos concitoyennes. Nous les laissons renforcer chaque fois plus fortement les biais les plus négatifs qui existent dans la population.\nÀ l’heure où les menaces mixtes augmentent, retrouvons notre souveraineté numérique. Nous aurions l’air de grosses malignes et de gros malins si les services de Google et de Windows nous étaient supprimés. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Sur l’amendement n° 655 et le sous-amendement n° 3870, je suis saisi par le groupe Ensemble pour la République de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nL’amendement no 655 a été défendu par M. Jean-René Cazeneuve en même temps que l’amendement no 3615.\nLa parole est à M. Paul Midy, pour soutenir le sous-amendement no 3870."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Il vise à porter le seuil de déclenchement de la taxe à 2,5 milliards afin de s’assurer que les entreprises françaises seront épargnées."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866426",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Catherine Hervieu, pour soutenir l’amendement no 3486."
+        },
+        {
+          "orateur": "Mme Catherine Hervieu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840947",
+          "texte": "Il vise à renforcer les moyens de financement nécessaires à la cybersécurité – un sujet dont nous devons nous emparer dans tous les pans de la société – en mobilisant la taxe sur les services numériques. Il reprend les propositions de hausse de taux et d’abaissement du seuil d’entrée de la TSN adoptées en première lecture au Sénat dans le cadre du projet de loi de finances pour 2025."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866428",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Aurélien Le Coq, pour soutenir l’amendement no 1948."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Il s’agit de rétablir une taxe Gafam digne de son nom.\nLes grandes entreprises du numérique organisent tout un système pour échapper à l’impôt en sous-déclarant les bénéfices qu’elles réalisent en France et en les transférant à l’étranger, en particulier dans des paradis fiscaux. Ainsi, alors qu’elles sont dans une situation quasi monopolistique, elles arrivent à échapper à la contribution, pourtant due par toute entreprise.\nNous proposons donc, pour que le rendement de cette taxe soit significatif, de passer son taux de 3 à 15 %, ce qui permettra de collecter une recette fiscale de près de 4 milliards, contre 750 millions aujourd’hui.\nEn 2018, Google a déclaré 3,4 milliards d’euros de chiffre d’affaires en France, alors que son chiffre d’affaires réel est estimé à 14,9 milliards. Je profite de la présence au banc du ministre de l’économie pour lui demander s’il peut nous fournir une estimation des chiffres d’affaires réels des Gafam en France.\nOn lit en effet que les bénéfices de Google auraient été multipliés par trois entre 2022 et 2024 alors que son taux d’imposition n’aurait progressé que de 3 % ; que l’immense partie de ses bénéfices réalisés en France aurait de nouveau été dissimulée puisque, en 2022, 1,2 milliard d’euros serait remonté vers une de ses holdings.\nIl est temps que les géants du numérique payent ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866435",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Philippe Brun, pour soutenir l’amendement no 517."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Par cet amendement, nous souhaitons tout d’abord répondre aux attaques inacceptables de l’administration de Donald Trump contre les produits français, contre les viticulteurs et l’industrie pharmaceutique, qui se trouvent aujourd’hui lourdement taxés. Des pans entiers de notre industrie sont soumis à ce barème de 15 % de la honte, ce Munich fiscal qui a vu la Commission européenne faire des génuflexions devant le géant américain, oubliant l’honneur et oubliant de se faire respecter. Il est anormal de laisser cette situation perdurer sans rien dire.\nNous proposons donc de doubler le taux de la taxe Gafam, dont le rendement de 1 milliard est déjà important. Avec ce doublement, ce sera 1 milliard de plus pour les comptes publics.\nMais, comme a pu le dire notre collègue Sansu, nous avons été dépassés sur notre extrême gauche par les macronistes, par Jean-René Cazeneuve, et même par Corentin Le Fur ! Si bien que nous voterons en faveur de l’amendement de ce dernier, qui propose non pas le doublement, mais le quintuplement de la taxe. Nous aurons alors un double taux : le taux inique de 15 % de Donald Trump sur les produits français et le taux français de 15 % sur les géants du numérique américain. (Applaudissements sur les bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866439",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Michel Castellani, pour soutenir l’amendement identique no 2837."
+        },
+        {
+          "orateur": "M. Michel Castellani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719138",
+          "texte": "Nous proposons de doubler le taux de la taxe sur les services numériques, qui passerait de 3 à 6 %, afin de mieux faire contribuer ce secteur dont la rentabilité a fortement augmenté.\nL’effort de redressement budgétaire impose à tout le monde des contraintes qui devraient être proportionnées à la richesse, qu’elle se mesure en revenus ou en patrimoine. Il est certain que les géants du numérique ont les moyens, inaccessibles aux ménages ou aux entreprises territorialisées, de recourir à des montages complexes ou de déclarer leurs revenus dans des zones à fiscalité douce. L’objectif de l’amendement est donc de les faire mieux participer à l’effort budgétaire commun. (Applaudissements sur quelques bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867077",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Dans la discussion commune, nous en venons à une autre série d’amendements identiques.\nLa parole est à M. Corentin Le Fur, pour soutenir l’amendement no 412."
+        },
+        {
+          "orateur": "M. Corentin Le Fur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840979",
+          "texte": "Je me réjouis que nous nous accordions à considérer comme inacceptable que le taux de la taxe sur les Gafam soit si faible. Premièrement, les géants du numérique, contrairement aux entreprises françaises, échappent très souvent à l’impôt. Deuxièmement, les entreprises françaises et européennes doivent subir des droits de douane prohibitifs de 15 % lorsqu’elles exportent aux États-Unis, alors qu’il n’y a aucune réciprocité en la matière. Il importe d’affirmer collectivement que nous ne pourrons pas tout tolérer et de sortir d’une forme de naïveté, voire de soumission, face à l’administration Trump.\nPar cet amendement de repli, je propose de porter le taux de la TSN à 5 %. Cette initiative procède de la même volonté de changer de regard sur les droits de douane américains que subit l’Europe."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867080",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Charles Sitzenstuhl, pour soutenir l’amendement no 838."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je défendrai à la fois l’amendement no 838 et le no 836 : le premier vise à relever le taux de la TSN à 5 %, le second à 4 %."
+        },
+        {
+          "orateur": "Une députée du groupe EcoS",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est du matraquage ! (Sourires sur plusieurs bancs des groupes EcoS et SOC.)"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je suis heureux de constater l’hommage unanime qui est rendu, depuis quelques minutes, sur tous les bancs, à l’œuvre de justice fiscale qu’ont accomplie Emmanuel Macron et Bruno Le Maire en 2019 en matière de taxation des géants du numérique."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Arrêtez ! Pas de provocation !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je suis d’accord avec M. Maurel, qui a évoqué le cas européen : je pense que la question de la taxation des géants du numérique au niveau européen devra être reposée dans les prochaines années. Il faudra qu’une Commission européenne, un jour, propose un nouveau projet en ce sens. Cela permettrait notamment de constituer une nouvelle ressource budgétaire propre pérenne au niveau européen pour investir dans la transition écologique, la défense, la recherche ou encore l’industrie. Nous avons aussi besoin de cet argent pour continuer à développer l’Union européenne.\nJe termine en soulignant que l’objectif premier de la taxe sur les services numériques est la justice fiscale. Depuis quelques minutes, j’entends de nombreuses références aux États-Unis d’Amérique, ce qui n’est pas étonnant, puisque plusieurs entreprises numériques américaines opèrent sur notre territoire. Je rappelle à la représentation nationale que la TSN n’est pas simplement destinée aux entreprises américaines : elle taxe toutes les entreprises. Elle ne vise pas à faire mal aux États-Unis – je m’adresse tant aux députés français qu’aux Américains qui suivent nos débats, notamment à l’ambassade américaine en France –, mais à taxer toutes les entreprises de ce domaine à des fins de justice fiscale. La mesure n’est pas discriminatoire : ces grandes entreprises doivent être mises à contribution. (Applaudissements sur quelques bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867087",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Aurélien Lopez-Liguori, pour soutenir l’amendement no 1660."
+        },
+        {
+          "orateur": "M. Aurélien Lopez-Liguori",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793904",
+          "texte": "Entre les intérêts de la France et ceux de la Silicon Valley, il faut choisir ; pour notre part, nous choisissons la France. La taxe sur les services numériques a été un bon point de départ : la France a affirmé qu’elle ne se laisserait pas dicter sa politique fiscale par les Gafam. C’est aussi la preuve que notre pays peut défendre ses intérêts stratégiques sans attendre que Bruxelles se décide. Je rappelle que depuis 2022, projet de loi après projet de loi, à chaque fois que nous avons proposé ce type d’amendement, le gouvernement l’a refusé au motif que cela reviendrait à prendre trop d’avance sur Bruxelles. L’année dernière encore, il a refusé l’augmentation du taux à 5 %. C’est donc une très bonne chose qu’il se range enfin à notre avis."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Il veut avoir l’approbation du Medef !"
+        },
+        {
+          "orateur": "M. Aurélien Lopez-Liguori",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793904",
+          "texte": "Il faut aller plus loin. YouTube, Facebook, Microsoft, Amazon, TikTok, les géants du numérique continuent de prospérer sur notre sol et d’exploiter notre infrastructure tout en contribuant faiblement à nos finances publiques. Pire, ils détruisent toute concurrence loyale, empêchent l’émergence de nos propres géants technologiques et étouffent l’écosystème numérique national. Notre souveraineté numérique s’érode jour après jour, alors que les Gafam affermissent leur prise sur nos données.\nNous proposons donc de porter à 5 % le taux de la TSN, actuellement fixé à 3 %. Cela représenterait environ 500 millions d’euros supplémentaires pour les finances publiques. Cet amendement avait été adopté l’an dernier sans le concours de la majorité, ou plutôt de la minorité présidentielle ; nous espérons qu’il le sera aujourd’hui avec son soutien. Je précise qu’il s’agit d’un amendement de repli, les précédents étant plus ambitieux. Nous ferons attention à ce que le seuil de taxation exclue les entreprises françaises du numérique. (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867092",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Claire Lejeune, pour soutenir l’amendement no 1945."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Cet amendement de repli vise à porter le taux de la TSN de 3 % à 5 %.\nJe tiens à rappeler qu’en commission, nous avons voté un rehaussement du taux de 3 % à 15 %. En quelques jours, nous avons assisté à une reculade de M. Cazeneuve sous la menace de potentielles représailles américaines. (MM. Jean-René Cazeneuve et Paul Midy s’exclament.) Nous parlons d’une mesure qui vise à restaurer notre souveraineté, d’une part en nous opposant aux pratiques d’optimisation et d’évasion fiscales de ces entreprises, d’autre part en s’assurant de recettes qui constituent également un gage de souveraineté. Si, s’agissant d’une telle mesure, la représentation nationale recule en quelques jours à la moindre menace, nous sommes bien mal partis pour rétablir notre souveraineté ! (Applaudissements sur quelques bancs du groupe LFI-NFP.)\nPar ailleurs, je souhaite revenir sur le passage du seuil de taxation de 750 millions d’euros à 2 milliards, proposé dans certains amendements et dont l’objectif est d’épargner Leboncoin. Notre sous-amendement no 3855 vise à maintenir le seuil à 750 millions. En effet, s’il est vrai que Leboncoin est établi en France, sa maison mère est le groupe norvégien Adevinta, qui est en plein rachat par le fonds d’investissement Blackstone. La porosité entre les acteurs français et les géants américains est immense. La taxation des entreprises comme Leboncoin sous ce régime fiscal se justifie donc pleinement. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Enfin, ce n’est pas par hasard que Bruno Le Maire a fixé le seuil à 750 millions ; c’est le seuil qui marque le début de l’érosion fiscale dans le cadre du régime mère-fille. Il importe donc de maintenir le seuil et de rehausser à 15 % le taux de la TNS. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867096",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2402 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "L’amendement no 836 de M. Charles Sitzenstuhl a déjà été défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Sans revenir sur le débat de fond relatif aux avantages et aux inconvénients d’une telle taxe, je vais rappeler l’objectif de chaque amendement et donner l’avis de la commission. La question qu’il convient de se poser avant de voter tel ou tel amendement est celle du bilan des coûts et des avantages. (M. Jean-François Coulomme s’exclame.)\nCertains collègues m’ayant indiqué qu’il était difficile de comprendre qui proposait quoi, je vais tâcher de classer les amendements en discussion commune. La commission des finances a adopté les amendements identiques nos 2376, 2402 et 3082 – et l’amendement no 3615, retiré depuis –, elle y est donc favorable. Elle a rejeté tous les autres.\nLes amendements nos 2376, 2402 et 3082 visent à porter le taux de la taxe de 3 % à 15 % et le seuil d’assujettissement de 750 millions à 2 milliards d’euros. Ils font l’objet de deux sous-amendements : le sous-amendement no 3855 de M. Coquerel tend à maintenir le seuil à 750 millions ; le sous-amendement no 3865 vise à le porter à 10 milliards.\nM. Cazeneuve a retiré l’amendement no 3615, qui avait reçu un avis favorable de la commission, au profit de l’amendement no 655, qui n’en a pas reçu. Celui-ci vise à augmenter le taux à 6 % et le seuil à 2 milliards.\nL’amendement no 3237 vise à rendre la taxe progressive en instaurant un taux de 6 % pour les entreprises qui encaissent plus de 750 millions et un taux de 15 % pour celles qui encaissent plus de 2 milliards. L’amendement no 3269, qui ne fait pas partie de la discussion commune mais concerne le même objet, suit le même principe de progressivité avec les mêmes seuils, en maintenant le premier taux à 3 % et en fixant le second à 15 %.\nL’amendement no 3486 vise à porter le taux à 5 % et à abaisser le seuil à 5,5 millions.\nEnfin, les autres amendements ne tendent à modifier que le taux de la TSN : l’amendement no 1948 vise à le porter à 15 %, les amendements identiques nos 517 et 2837 à 6 %, les amendements identiques nos 412, 838, 1660 et 1945 à 5 % et l’amendement no 836 à 4 %. J’espère que vous avez suivi. (Sourires.)"
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Très clair !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Vous êtes très aimable.\nEn résumé, la commission est favorable aux seuls amendements identiques no 2376, 2402 et 3082. Je vous laisse juger des autres, qui modifient différemment les paramètres. Peut-être M. le ministre pourra-t-il nous expliquer – en réalité, tout l’enjeu est là – où en est la négociation sur le pilier 1 de l’OCDE ?\nEnfin, la commission est défavorable à tous les sous-amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur le président, cela me fait plaisir de vous voir là-haut, j’espère que le bureau vous plaît. Je l’ai laissé propre et bien rangé ! (Sourires sur quelques bancs.)\nJe commencerai par indiquer à tous les parlementaires qui se sont exprimés que, même s’il y a des nuances et des différends quant à l’ampleur du taux, nous sommes d’accord avec eux sur le fond. Il est franchement inacceptable que de grandes entreprises internationales qui se comportent parfois de manière oligopolistique, qui gagnent énormément d’argent en France et ailleurs, ne paient pas les impôts qu’elles devraient."
+        },
+        {
+          "orateur": "Mme Isabelle Santiago",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774960",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Comme, en outre, elles paient peu d’impôts dans le pays où elles sont domiciliées, elles n’en paient vraiment pas beaucoup au total. Cela leur permet d’investir des milliers de milliards d’euros dans l’innovation, contribuant à renforcer leur avantage technologique.\nMadame Trouvé, je vous rejoins lorsque vous dites que nous avons perdu le match face aux Gafam s’agissant de certains produits, marchés ou services ; ces entreprises sont parties avant nous, ont investi bien plus que nous et sont désormais dans leur domaine les leaders mondiaux quasiment incontestés, si ce n’est peut-être par quelques leaders numériques chinois. Néanmoins, depuis une dizaine d’années, la France a investi. Nous possédons à présent des entreprises qui sont prêtes à jouer le match des nouvelles générations de la révolution technologique, qui sont prêtes à concurrencer les Américains et les Chinois. Le président de la République s’était donné pour objectif que la France compte vingt-cinq licornes en 2025 ; il y en a trente. (MM. Jean-René Cazeneuve et Paul Midy applaudissent.) Ces licornes ne sont pas apparues par hasard, tout comme les Gafam ne sont pas apparus grâce à des crédits d’impôt mais grâce à l’investissement inédit dans la Silicon Valley – vingt à trente ans plus tard, l’investissement a payé ! (M. René Pilato s’exclame.)\nExotec, qui est un leader de la logistique industrielle, Doctolib que vous connaissez tous et que vous utilisez sans doute régulièrement, BlaBlaCar, Back Market ou Mistral AI sont des entreprises françaises qui se sont développées ces dernières années grâce à une politique d’innovation probusiness– plusieurs députés ont mentionné le président de la République et Bruno Le Maire à ce sujet. (Murmures sur plusieurs bancs des groupes LFI-NFP et EcoS.) Je sais que cela ne plaît pas à tout le monde, mais ce que nous avons fait depuis sept ans n’avait jamais été fait en France et j’espère que nous en tirerons les bénéfices pendant longtemps."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Huit cents milliards de dette supplémentaires, ça n’avait jamais été fait non plus !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Vous pouvez dire tout ce que vous voulez, monsieur le député, mais j’espère que vous êtes tous fiers des entreprises que j’ai mentionnées. Elles font la fierté de la France, car elles gagnent de l’argent, en font gagner à notre pays et créent des emplois. Le secteur des technologies est en effet le premier créateur d’emplois en France.\nJe reconnais cependant que nous avons un problème parce que de grandes entreprises mondialisées font beaucoup d’argent en France mais ne paient pas l’impôt qui va avec. Là encore, nous avons commencé à agir à deux niveaux. En France, d’abord : je rappelle que si vous pouvez déposer tous ces amendements, c’est parce que nous avons créé la taxe sur les services numériques en 2019. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "J’aimerais que l’on reprenne l’analyse des scrutins pour savoir qui l’avait votée à l’époque. (Exclamations sur quelques bancs du groupe EcoS.) Évidemment, vous considérez qu’on n’en fait jamais assez, mais cette taxe sur les services numériques rapporte près de 1 milliard de recettes. Remercions donc celles et ceux qui ont voté cette disposition à l’époque. (Exclamations sur les bancs du groupe LFI-NFP.) Je crois entendre que vous voudriez en tirer 46 milliards ou, pourquoi pas, 50 ou 60 milliards, lâchons-nous : vous avez voté 30 milliards d’impôts supplémentaires ; sur cette lancée, on peut atteindre 100 milliards dans la journée."
+        },
+        {
+          "orateur": "M. Bastien Lachaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720846",
+          "texte": "Ah, vous l’admettez ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "D’autre part, plusieurs parlementaires ont mentionné le pilier 1 de l’OCDE, qui vise à taxer de manière coordonnée au sein des pays de l’OCDE les géants du numérique . Cela permet de corriger un travers évident : ils ne paient pas d’impôt là où ils en gagnent et, plus fondamentalement, ils ne paient pas beaucoup d’impôts. Nous avons beaucoup avancé dans la réalisation de ce pilier 1 et je pense que nous continuerons.\nJe vous alerte donc : il ne faut pas que ce que nous déciderons aujourd’hui anéantisse tous les efforts que nous accomplissons pour parvenir à une taxation efficace ; nous sommes, je pense, tous d’accord sur le fait que la meilleure manière de gérer tout cela est d’agir dans un cadre international.\nÀ présent, vous partez de la taxe sur les services numériques et vous proposez de la multiplier par 2, 3, 4, 5 ou 6. Je vous rappelle que le président d’une grande nation du G7, parce qu’une publicité du gouvernement de l’Ontario mentionnant l’avis de Ronald Reagan sur les tarifs douaniers ne lui avait pas plu, a introduit de manière unilatérale 10 % de tarifs douaniers sur les importations depuis le Canada ce week-end."
+        },
+        {
+          "orateur": "M. Emmanuel Grégoire",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840171",
+          "texte": "On ne va pas se laisser manger !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "C’est un fait, monsieur le député. On ne peut pas se laisser manger, mais il faut prendre en considération les faits. (Exclamations sur plusieurs bancs du groupe LFI-NFP.) J’exposerai un peu longuement quelques points importants, puis j’irai très vite, monsieur le président. (Exclamations sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Écoutez le ministre, s’il vous plaît. Plus on l’écoute, mieux ça ira."
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Cinq minutes de plus, s’il vous plaît. (Protestations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) C’est un débat important."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Écoutez !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "J’écouterai les positions des différents groupes, mais la question mérite que je finisse mon explication. Ce même président, il y a six ans, face à une controverse entre Airbus et Boeing, a introduit des tarifs unilatéraux sur un certain nombre de biens français, notamment les vins et spiritueux ; ensuite, nous avons mis plus de cinq ans à négocier leur baisse. Il faut donc être conscient que quand on entre dans un match,…"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "On l’a perdu !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Non, nous ne l’avons pas perdu. Cependant, si nous introduisons une taxe sur les services numériques disproportionnée – j’insiste sur ce mot –, nous aurons des représailles disproportionnées. (Exclamations sur quelques bancs du groupe LFI-NFP.)\nDans vos circonscriptions, les producteurs de vins et spiritueux vous diront qu’il est impossible de prendre de telles mesures car les États-Unis constituent leur premier marché. Une large part de la production des vins et spiritueux français, tels que le Cognac, l’Armagnac, le vin de Bordeaux, le vin de Bourgogne – je ne les cite pas tous – est exportée aux États-Unis et ils seront très probablement taxés. Plus vous augmenterez les taxes sur les entreprises américaines, plus ils seront taxés – j’expose simplement les faits.\nSur ce fondement, l’avis du gouvernement est défavorable sur tous ces amendements pour les raisons que je vous ai exposées : la taxe sur les services numériques existe ; on peut faire mieux ; il est possible d’agir dans un cadre international.\nCependant, mon intuition me dit que vous voterez certains des amendements en discussion commune. Quand vous voterez, retenez cet argument : il faut avoir le souci de la proportionnalité, à la fois à l’aller, en mesurant le signal que vous enverrez, et au retour, en envisageant le signal qui nous sera envoyé. Vraiment, je vous en conjure : je pense que les agriculteurs français vous regardent et vous écoutent. Demain, après-demain ou le jour d’après, ils auront un avis sur les représailles."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Vous dites cela, mais vous leur imposez le Mercosur !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Je suis défavorable à tous les amendements en discussion commune, mais si je dois choisir, je suis tout de même moins défavorable, comme dirait l’autre, d’abord aux amendements qui ne changent pas le dispositif, en évitant de modifier les seuils, tels que les amendements nos 836 et 838 de M. Sitzenstuhl ou l’amendement no 412 de M. Le Fur, qui me semblent simples dans leur structure et proportionnés dans leur riposte. C’est donc à ceux-là que le gouvernement est le moins défavorable, si vous voulez voter certains de ces amendements en discussion commune. C’est important : vous enverrez un signal très fort ; il se traduira sans doute par une riposte, mais tout cela sera proportionné. Je vous engage vraiment à la proportion."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Pourriez-vous rappeler sur quels amendements le gouvernement émet un avis favorable ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Mon préféré est évidemment M. Sitzenstuhl, dont je suis le seul à prononcer le nom correctement, vous le reconnaîtrez (Sourires), et plus précisément l’amendement no 836. Mon second best, comme on dit dans la Silicon Valley, ce sont les amendements identiques nos 412, 838, 1660 et 1945. Cependant, je rappelle que le gouvernement est défavorable à tous les amendements en discussion commune ; je dis simplement lesquels sont, selon nous, les « moins pires »."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Je donnerai la parole à un orateur par groupe. C’est ce qui a été convenu ce matin en conférence des présidents et rappelé par M. le président de la commission des finances.\n La parole est à Mme Cyrielle Chatelain."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Je vous invite à voter les amendements nos 3237 de M. Arnaud Bonnet et 3486 de Mme Catherine Hervieu. Ils maintiennent le seuil, car vous avez raison monsieur le ministre, nous avons besoin de deux seuils : le seuil de 750 millions d’euros de chiffre d’affaires mondial, pour lequel le taux applicable pourrait être élevé à 6 % ; le seuil de 2 milliards, pour lequel un taux majoré de 15 % pourrait être appliqué. C’est indispensable. Effectivement, cette taxe peut toucher des entreprises françaises mais, vous l’avez dit, l’État les a accompagnées, aussi est-il normal qu’elles contribuent aux recettes de l’État.\nEnsuite, il s’agit certes d’un débat financier portant sur les recettes et la justice fiscale, mais également d’une question de souveraineté. En effet, nous avons un vrai problème de dépendance aux outils américains. Vous l’avez dit, Donald Trump l’utilise pour faire pression, y compris sur le plan politique. Un magistrat français, Nicolas Guillou, qui exerce à la Cour pénale internationale et préside la chambre préliminaire chargée de la situation à Gaza (« Oh ! » sur les bancs du groupe RN), est actuellement privé d’accès à l’ensemble des outils numériques américains en raison des positions qu’il a prises dans l’exercice de son travail ; c’est inacceptable. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP. – Mme Dieynaba Diop applaudit également.) De la même façon, 15 000 personnes ont été privées de leur accès aux services numériques.\nAutre exemple, les Français qui utilisaient Windows 10 ont été contraints de penser qu’ils allaient devoir choisir entre changer leur ordinateur ou payer l’abonnement à Windows. Sous la pression, cette taxe Windows a été reportée. Il n’est pas possible de dépendre comme cela des outils numériques.\nNous devons donc effectivement les taxer pour garantir une justice fiscale et surtout développer des outils alternatifs français et européens fonctionnels."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Par exemple, nous pouvons prendre pour modèle la gendarmerie. Elle fonctionne grâce à Linux et à Ubuntu, deux systèmes d’exploitation à partir desquels a été développé GendBuntu. Il est donc possible de déployer des outils français pertinents, qui garantissent notre souveraineté."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "C’est précisément pour cela qu’il est nécessaire d’augmenter les taxes sur les entreprises du numérique américaines. Surtout, il faut penser à notre indépendance. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Paul Midy."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Le groupe EPR part du principe selon lequel il faut que tout le monde contribue à l’effort, selon une juste mesure. C’est pourquoi nous préférerions éviter une surtaxe sur l’impôt sur les sociétés touchant les plus grands groupes français et travailler sur le sujet qu’a lancé M. le ministre, à savoir sur la manière de s’assurer que les grandes entreprises internationales du numérique paient le juste impôt. Face à une surtaxe à l’IS de 4 milliards d’euros, nous défendions une taxe Gafa du même montant. L’Assemblée a fait un choix un peu différent, puisqu’il s’est trouvé une majorité pour voter une surtaxe à l’IS de 6 milliards ; la situation a donc un peu changé.\nPar ailleurs, nous entendons le ministre nous exhorter à la sagesse.\nNous proposons donc un amendement de compromis, l’amendement no 655 de M. Jean-René Cazeneuve, sur lequel j’ai déposé le sous-amendement no 3870, qui tend à modifier le seuil afin de parvenir au bon ciblage.\nNous voterons contre les amendements qui portent le taux à 15 %. Il faut que nous parvenions à avancer sur la taxation de ces entreprises du numérique internationales. Le meilleur chemin est le pilier 1 de l’OCDE, mais il est utile d’avancer au niveau français. C’est pourquoi instaurer cette taxe sur les services numériques était une bonne idée. Nous devons lancer un nouveau signal. (M. Jean Terlier applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Matthias Tavel."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Monsieur le ministre, vous avez parlé à peu près quinze minutes et vous n’avez pas trouvé le temps de préciser quel était le rendement attendu de ces amendements. Vous avez donc manqué à votre devoir d’éclairer notre assemblée et plutôt cherché à l’embrouiller.\nEn appelant à rejeter tous ces amendements, vous nous demandez en quelque sorte de déclarer forfait – puisque vous prétendez qu’il s’agit d’un match. Nous voulons le jouer et nous ne nous inclinerons pas face à cette tentative de vassalisation (Applaudissements sur les bancs du groupe LFI-NFP ainsi que sur quelques bancs des groupes SOC et EcoS), vassalisation numérique par les Gafam et vassalisation géopolitique par les États-Unis d’Amérique, avec la complicité de Mme von der Leyen et du commissaire français Stéphane Séjourné, ancien secrétaire général de Renaissance, ancien ministre de l’un de vos gouvernements. Celui-ci n’a pas dit un mot pour défendre les intérêts de la France dans le contentieux avec Washington, ce qui est inacceptable. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "Arrêtez d’utiliser Twitter et TikTok !"
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Là où nous vous donnons raison, c’est qu’il ne faut pas prêter le flanc à une possible critique et voter une taxe qui ne cible que les États-Unis. Ce sont bien l’ensemble des services numériques qui doivent être concernés, quelle que soit la nationalité derrière laquelle ils se cachent, et c’est la raison pour laquelle nous défendrons le maintien du seuil à 750 millions d’euros. Enfin, il faut augmenter le taux pour répondre à une exigence de justice fiscale, de souveraineté numérique et de rendement – nous avons beaucoup d’horreurs à supprimer de vos textes budgétaires. Les multinationales, notamment les Gafam et celles soumises et liées à M. Trump, doivent payer plus d’impôts pour que les Français vivent mieux. (Applaudissements sur les bancs du groupe LFI-NFP ainsi que sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Pour votre information, le ministre n’a pas parlé quinze minutes, mais neuf minutes cinquante-huit secondes. (Sourires.)\nLa parole est à M. Emmanuel Maurel."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Vous avez un drôle de sens du compromis, monsieur Midy : le vrai compromis, nous l’avions trouvé quasiment à l’unanimité en commission des finances. Il s’agissait de l’amendement de M. Cazeneuve, retiré depuis, qui visait à porter le taux de la taxe de 3 % à 15 %, tout en relevant le seuil de taxation à 2 milliards d’euros. Il n’y a même pas une semaine, cela nous paraissait à tous juste et équitable.\nEnsuite, je voudrais répondre au ministre, qui a utilisé un argument qui me gêne : celui de la peur des représailles. C’est précisément cette peur qui a motivé l’accord honteux entre Mme von der Leyen et M. Trump. (Applaudissements sur les bancs des groupes GDR, SOC et EcoS.)\nAlors même que les parlementaires européens de tous bords se battent depuis des années pour construire un arsenal de dispositifs garantissant la réciprocité commerciale et luttant contre l’extraterritorialité du droit américain – je pense notamment aux mesures antidumping –, Mme von der Leyen a tout rayé d’un trait de plume, sur un terrain de golf, dans la torpeur du mois de juillet, en disant : c’est mieux que si c’était pire. Mais c’est le contraire qui s’est produit car cela n’a pas empêché M. Trump de taxer les vins et les spiritueux, tout comme l’acier français ! (Applaudissements sur les bancs du groupe SOC.)\nIl ne faut pas avoir peur des représailles. Quand la taxe Gafam a été votée, les États-Unis ont dit qu’ils nous le feraient payer. Ils ne l’ont pas fait. Quand l’Union européenne a voté dans la douleur le DMA – règlement européen sur les marchés numériques – et le DSA – règlement européen sur les services numériques –, les Américains ont dit : vous allez voir ce que vous allez voir ; ils n’ont rien fait.\nIl faut prendre ses responsabilités. La France n’est grande que dans l’audace ! La France n’est grande que quand elle montre la voie ! Nous avons l’occasion de le faire ce soir : soyons patriotes et volontaires, faisons-le ensemble ! (« Bravo ! » et applaudissements sur les bancs des groupes GDR et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Valérie Bazin-Malgras."
+        },
+        {
+          "orateur": "Mme Valérie Bazin-Malgras",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718884",
+          "texte": "Prenons garde à ce que nous sommes en train de faire : nous nous souvenons tous de Donald Trump et de son beau tableau rempli de petites croix. Nous devons préserver les fleurons nationaux que sont nos filières productrices, en agriculture, en viticulture, dans les spiritueux. Les Républicains ne voteront donc pas ces amendements. Le ministre l’a dit tout à l’heure, il ne faut pas jouer avec ça."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Quelle tristesse ! Des gaullistes !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Vous avez tout abandonné du gaullisme !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Bruno Fuchs."
+        },
+        {
+          "orateur": "M. Bruno Fuchs",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722284",
+          "texte": "Moi aussi, je suis pour l’audace et la justice fiscale. Nous sommes pour aller prendre l’argent là où il est. (« Ah ! » sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Et il est où l’argent ?"
+        },
+        {
+          "orateur": "M. Bruno Fuchs",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722284",
+          "texte": "Toutefois, si vertueux que soient ces amendements, leur impact n’a pas été étudié. Vous partez bille en tête sans prendre en compte les conséquences de telles mesures.\nJ’ai échangé avec de nombreux acteurs, notamment américains."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Avec Trump !"
+        },
+        {
+          "orateur": "M. Bruno Fuchs",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722284",
+          "texte": "Permettez-moi donc de vous rappeler la situation. Comme l’a dit le ministre, les pertes pour l’économie française seraient bien plus importantes que les bénéfices attendus.\nLes États-Unis accueillent 5 000 filiales françaises, qui comptent 740 000 employés et réalisent un chiffre d’affaires de 341 milliards d’euros ; à eux seuls, les quatre premiers secteurs – luxe, cosmétique et pharmacie, énergie et chimie, automobile – représentent 260 milliards.\nLa réaction américaine sera très simple : l’administration Trump entravera les appels d’offres – un appel d’offres est en cours pour le cinquième terminal de JFK, regardez si des entreprises françaises le remporteront –, elle lancera des enquêtes sur les entreprises françaises et elle supprimera des visas étudiants."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "C’est déjà le cas ! Ils font déjà tout ça !"
+        },
+        {
+          "orateur": "M. Bruno Fuchs",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722284",
+          "texte": "Chacun est libre de ses choix, mais il faut être conscient de leurs conséquences.\nLes champions français, qui seront mal vus, gommeront leur francité et mettront en valeur d’autres aspects de leurs activités. Enfin, je ne parle pas des droits de douane, déjà évoqués par le ministre.\nSi je suis favorable à cette mesure, elle me semble donc un peu prématurée. Il faut d’abord discuter, négocier et préparer les esprits. En bref, nous disons oui, mais pas cette année."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Michel Castellani."
+        },
+        {
+          "orateur": "M. Michel Castellani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719138",
+          "texte": "Nous sommes face à une équation budgétaire redoutable, puisqu’il s’agit d’arrêter le dérapage des finances publiques, tout en minimisant les effets pervers d’un tel redressement. Ces derniers sont pratiquement inévitables : quand on réduit les dépenses publiques et qu’on accentue le matraquage fiscal, on freine la croissance.\nComment donc résoudre cette équation ? Personne n’en sortira indemne. Ni les ménages, quel que soit leur niveau de richesse, ni les entreprises, quel que soit leur volume. Nous devons donc essayer de trouver les formules les moins mauvaises possible.\nNous parlons d’entreprises gigantesques, qui ont des moyens énormes dont ne disposent pas les entreprises territoriales et encore moins les ménages. Ces moyens énormes leur permettent de minimiser la casse fiscale en recourant à des montages très complexes et en se domiciliant dans des zones de moindre pression fiscale, voire quelquefois dans des paradis fiscaux.\nNotre amendement tend donc à rééquilibrer les choses. Nous ne touchons pas au seuil, mais au taux, en proposant de le faire passer de 3 % à 6 %."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Raphaël Schellenberger."
+        },
+        {
+          "orateur": "M. Raphaël Schellenberger",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721314",
+          "texte": "Nous entendons beaucoup parler de souveraineté, mais de quelle souveraineté s’agit-il ? De souveraineté fiscale, assurément. Il y a un vrai enjeu à assurer notre souveraineté fiscale sur les entreprises qui offrent des services dématérialisés, sur le web.\nEn revanche, je suis étonné qu’on parle de souveraineté numérique, parce que la taxe proposée n’apportera aucune maîtrise du procédé numérique, aucune maîtrise technologique, aucune maîtrise de production de services numériques supplémentaires.\nL’augmentation de cette taxe ne renforcera pas non plus notre souveraineté juridique, alors que l’application de notre droit national – ou, plus largement, continental – est un véritable enjeu dans la bataille mondiale du web et des services numériques. Il y va de la protection de nos concitoyens.\nQue représente donc cette taxe ? Une démarche audacieuse ? Pardon, mais on a connu plus audacieux que l’augmentation d’un taux, d’autant plus que celle-ci finit toujours par se répercuter sur l’usager.\nUne bonne taxe, c’est d’abord une assiette large et un taux faible. Battons-nous pour élargir l’assiette au niveau européen et mondial, afin de préserver un taux faible et l’intérêt des usagers."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Monsieur Masséglia, maintenez-vous votre amendement ?"
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Non, j’ai été convaincu par les propos du ministre. Je le retire."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2402 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Monsieur Le Fur, maintenez-vous votre amendement ?"
+        },
+        {
+          "orateur": "M. Corentin Le Fur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840979",
+          "texte": "J’ai été sensible à la peur des représailles, notamment de la filière viticole. En conséquence, je retire mon amendement no 2376. (« Il est repris ! » sur les bancs des groupes LFI-NFP et SOC.)\nJe crains cependant que, pour éviter la guerre commerciale, on en vienne à accepter le déshonneur – et qu’avec l’administration Trump et les Gafam, on ait le déshonneur et la guerre commerciale."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Ne le retirez pas, alors !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "L’amendement no 2376 est repris par M. Philippe Brun. (Protestations sur les bancs du groupe LFI-NFP.)\nChers collègues, j’ai d’abord entendu M. Brun. Nous verrons ce qui sera indiqué dans le compte rendu.\n La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Tout à l’heure, je vous ai donné l’avis de la commission, qui a décidé de soutenir certains amendements et pas d’autres. Je souhaite maintenant vous donner mon avis personnel, après avoir écouté ce que vous avez dit – je pense, en particulier, aux arguments de M. le ministre.\nD’abord, il est juste de vouloir soumettre les Gafam à l’impôt : ils ont une activité économique et réalisent des bénéfices. Le système actuel, commun avec certains pays de l’Union européenne, est certes imparfait, mais il est accepté par la communauté internationale et il apporte des recettes fiscales.\nIl existe bien un risque de représailles. Si des filières venaient à disparaître parce que nous avons voté une taxe insuffisamment réfléchie, il ne faudra pas venir pleurer. Je vous mets donc en garde. (Exclamations sur les bancs du groupe EcoS.)\nEnsuite, si l’impérialisme des Gafam vous gêne au point que vous invoquiez des arguments quasi moraux pour le dénoncer, arrêtez d’utiliser TikTok et Twitter ! (Applaudissements sur les bancs des groupes EPR, DR et HOR. – Exclamations sur les bancs du groupe EcoS.) C’est quand même incroyable de se plaindre tous les jours de Twitter et de continuer à l’utiliser !\nEnfin, si nous faisons la guerre, il faut être capable d’aller jusqu’au bout, d’accepter les dégâts et de la gagner. En êtes-vous capables ? Je n’en suis pas certain. Je vous invite donc à ne pas voter ces amendements."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867345",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Cyrielle Chatelain, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Sur le fondement du code de déontologie des députés, inscrit dans le règlement, qui rappelle à plusieurs reprises l’importance de l’indépendance des députés : « nul corps, nul individu ne peut exercer d’autorité [sur les députés]. »\nJe suis très gênée de voir le nombre de députés qui retirent leur amendement sous la pression d’instances étrangères. (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR.) Cela veut dire qu’on ne peut plus légiférer sur la question des Gafam, à cause de la menace de Trump. Ce n’est pas possible ! Nous devons voter ces amendements et conserver notre indépendance !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867991",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 12 (amendements appelés par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Philippe Brun."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Deux camps s’opposent sur cette question centrale de la taxe Gafam. Certains pensent qu’il faudra toujours être soumis à la volonté d’un seul homme, plier le genou devant le géant américain et supplier le seigneur dont nous sommes les vassaux de ne pas nous infliger trop de taxes, de ne pas ajouter la crise à la crise.\nMais qu’est-ce qui nous garantit aujourd’hui que Donald Trump ne doublera pas de lui-même, parce que ça lui aura pris le matin en se levant, les droits de douane sur le cognac, le champagne et les produits pharmaceutiques ? Rien ! (Applaudissements sur plusieurs bancs du groupe SOC.)\nNous avons le choix entre deux postures : continuer cette génuflexion permanente ou nous affirmer, en montrant que nous ne pouvons accepter qu’un pays dicte seul les règles du commerce international. Non, le peuple français, le peuple européen, ne sauraient accepter d’être ainsi mis au ban du commerce international ! (Applaudissements sur les bancs du groupe SOC.)\nIl faut donc répondre à la taxe de 15 % sur nos produits français par une taxe de 15 % sur les multinationales américaines.\nJe rappelle que 64 % des Français ont effectué un achat sur internet au cours du dernier trimestre – ils n’étaient que 40 % en 2013. Au moment où nous cherchons tant de recettes nouvelles pour notre budget, nous devons adapter notre fiscalité aux nouveaux outils du numérique, car nous savons que ces services échappent très largement à l’impôt. En doublant le taux de la taxe sur les Gafam, nous réparons cette blessure sur le plan international et, surtout, nous permettons de financer nos services publics. (« Bravo ! » et applaudissements sur les bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866712",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Prisca Thevenot, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Prisca Thevenot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795920",
+          "texte": "Sur le fondement de l’article 70, alinéa 3, pour mise en cause personnelle.\nIl est assez savoureux d’entendre des collègues de gauche hurler à la mise sous pression de ma famille politique, à son incapacité à réfléchir, alors qu’ils ont fait voter un amendement écrit mot pour mot, à la lettre près, par Attac (« Excellent amendement ! » sur les bancs des groupes LFI-NFP et EcoS. – Certains députés du groupe LFI-NFP se lèvent et applaudissent), un amendement qu’ils ont d’ailleurs voté main dans la main avec leur partenaire de toujours, le Rassemblement national. (Applaudissements sur les bancs du groupe EPR. – Exclamations sur les bancs du groupe LFI-NFP.)\nJe le dis assez simplement : oui, vous nous trouverez toujours contre vous, debout, pour en finir avec cette folie fiscale.\nOn vous entend parler de taxes et d’impôts à longueur de journée, mais jamais de créativité ni de récompense pour celles et ceux qui entreprennent dans notre pays. (Applaudissements sur quelques bancs du groupe EPR.) Ce sont pourtant eux qui contribuent au maintien de notre protection sociale, qui font en sorte que notre bilan social continue à exister ; ce n’est certainement pas grâce à vous. (Applaudissements sur quelques bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867986",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 12 (amendements appelés par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Jean-Philippe Tanguy."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "On ne peut pas isoler les votes qui interviendront sur cet amendement de ce qui s’est passé précédemment. En effet, nous avons voté un amendement qui a pu être pensé, réfléchi avec Attac, mais qui est issu de la pensée souverainiste. Madame Thevenot, je ne sais pas si vous connaissez l’association Attac, mais il n’y a rien d’insultant à considérer qu’elle dit quelque chose de vrai ! (M. Paul Midy s’exclame.) Il s’agit là de lutter contre la fraude fiscale. Or ce qui est très drôle depuis quelque temps, c’est que les prises de parole du bloc central et de la Droite républicaine soutiennent la fraude fiscale des multinationales américaines. (Exclamations sur les bancs du groupe DR.)\nLe ministre parle d’un coût de 20 milliards d’euros. Vous reconnaissez donc que, depuis non pas sept, mais vingt ans, vous soutenez une fraude fiscale massive, organisée par les prix de transfert, les royalties, et tout ce qui fait que les multinationales américaines ne paient pas ce qu’elles doivent à la France. Vous dites absolument n’importe quoi. Vous êtes tellement obsédés par la politique politicienne que vous venez de reconnaître que vous n’avez jamais réussi à lutter contre la fraude fiscale. (Protestations sur les bancs du groupe EPR.)\nOr, quand la fraude fiscale n’est pas combattue, ce sont les très petites, petites et moyennes entreprises (TPE-PME) françaises qui en paient le prix, car cet argent-là, au lieu de le prendre aux multinationales américaines, vous le prenez dans les poches des entrepreneurs français. Voilà la vérité ! (Applaudissements sur les bancs du groupe RN.) Nous revendiquons donc ce vote, et j’ai une pensée amicale pour Nicolas Dupont-Aignan qui défendait cette mesure depuis 2013. (Exclamations sur les bancs des groupes EPR et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Ah !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Ensuite, on ne peut pas parler de la lutte contre la fraude sans évoquer votre chère Union européenne. Elle qui devait être un bouclier face aux États-Unis et à la Chine se révèle être leur cinquième colonne ! (Mêmes mouvements.) Vous vous êtes complètement soumis à la pression américaine par l’intermédiaire de Mme von der Leyen. Les socialistes l’avaient fait avant vous, puisque François Hollande a incarné la soumission totale aux États-Unis et à M. Obama. (Exclamations sur les bancs du groupe SOC.)\nQuant à nous, nous défendrons toujours les intérêts français, la tête haute. (« Bravo ! » et applaudissements sur les bancs du groupe RN.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866657",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Manuel Bompard, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Il se fonde sur l’article 100, relatif à la bonne tenue des débats.\nLa séance a repris depuis plus d’une heure, nous avons examiné un certain nombre d’amendements et il est temps, je crois, de passer au vote. Au lieu d’avancer, les collègues du bloc macroniste multiplient les provocations. Nous avons bien compris que, parce qu’ils ont perdu sur le vote d’un amendement tout à l’heure, leur nouvelle stratégie consiste à pourrir les débats pour nous empêcher d’aller au bout de l’examen. (Applaudissements sur les bancs du groupe LFI-NFP. – Exclamations sur les bancs du groupe EPR.)\nS’il vous plaît, monsieur le président, peut-on passer au vote ? Peut-on avancer et cesser les provocations ridicules ? (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Vu d’ici, elles viennent de toute part."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867987",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 12 (amendements appelés par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Même si nos discussions s’enflamment un peu, je trouve que nous faisons plutôt honneur au débat parlementaire, avec de vrais échanges d’arguments. Je pense que les gens qui nous écoutent comprennent ainsi un peu mieux les enjeux.\nJe comptais reprendre l’amendement de M. Le Fur mais, apparemment, M. Brun l’a fait un centième de seconde avant moi. Je le soutiens évidemment, mais je vous invite à voter aussi mon sous-amendement no 3855, car je ne comprends toujours pas pourquoi on a relevé le seuil des 750 millions d’euros.\nMonsieur le ministre, vous avez avancé un argument auquel personne n’a répliqué. Je me permets donc de le faire. Vous nous avez dit que les entreprises ne sont pas des grands méchants loups ; certes, mais je vous incite aussi à ne pas nous raconter un conte de fées sur la situation actuelle. Le pilier 1 et le pilier 2, c’est terminé. Nous dire qu’il faut continuer à attendre le pilier 2, c’est ignorer sa dénonciation par les États-Unis d’Amérique intervenue en juin 2025."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Les États-Unis ont repris le contrôle de leur politique fiscale. En conséquence, la piste de la régulation du libre-échange que vous privilégiez n’est malheureusement plus d’actualité. Et je ne parle même pas du pilier 1 qui, lui, n’a carrément pas démarré. On ne peut donc pas voter en fonction de ces accords. Je le regrette, mais parler du pilier 1 et du pilier 2 est vain.\nNous devons entériner le fait que nous sommes entrés dans une nouvelle époque. Depuis l’élection de M. Trump, l’époque où le capitalisme développait son mode de production, d’exploitation et de profit sur le libre-échange est terminée.\nNous sommes désormais dans un affrontement politico-économique entre blocs. Nous devons faire en sorte que cela ne dégénère pas en guerre mais nous devons, en contrepartie, prendre des mesures qui nous permettent de répliquer."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "C’est pour ça qu’il faut faire l’Europe !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Ce que vient de faire Mme von der Leyen montre bien que ce n’est pas l’Europe qui nous protégera des États-Unis. (Applaudissements sur les bancs du groupe LFI-NFP.)\nIl faut que nous soyons capables de prendre des mesures en fonction de ce que nous estimons bon pour notre pays, et non en fonction d’accords internationaux qui, à mon avis – et c’est peut-être malheureux –, sont caducs. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur Tanguy, dire que des entreprises et des pays qui respectent les conventions internationales sont des fraudeurs, c’est se moquer du monde. Avec l’amendement que vous avez adopté tout à l’heure, c’est vous qui allez introduire une véritable fraude, et même un délit, parce que vous allez contrevenir à la loi ; vous allez taxer les entreprises de 20 milliards, et nous devrons ensuite les rembourser. (Mme Marine Le Pen et M. Jean-Philippe Tanguy s’exclament.) Ce débat a assez duré.\nNous avons déjà multiplié les actions contre la fraude ; Gabriel Attal, ici présent, avait agi en ce sens, lorsqu’il était en fonction à Bercy, puis à Matignon. L’année dernière, nous avons détecté 16,7 milliards de fraude fiscale, contre deux fois moins il y a trois ans. Nous pouvons aller plus loin et nous le ferons, grâce à un projet de loi qui vous sera bientôt présenté. J’espère que vous le discuterez, l’amenderez et le voterez."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Vous serez partis avant !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Mesdames et messieurs les députés, j’ai entendu ce soir des mots très forts : on a « peur », on se « couche », on ne respecte pas la « déontologie des députés », on va « plier le genou »… Mais enfin, nous ne sommes ni dans une cour d’école ni sur un ring de boxe !\nMonsieur Maurel, vous parlez d’audace ; c’est sûr qu’on en a beaucoup en France quand il s’agit de traiter de fiscalité. (Exclamations sur les bancs du groupe LFI-NFP.) En la matière, nous sommes les meilleurs au monde."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "L’audace de montrer le chemin, comme on l’a toujours fait !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "L’audace ne doit pas nous empêcher d’être proportionnés et conscients des enjeux : nous sommes prêts à avancer progressivement, comme nous le faisons depuis six ans, mais veillons à ne pas casser la machine.\nMonsieur le président Coquerel, je suis d’accord sur le fait que nous n’avançons pas assez vite sur le pilier 1, mais je peux vous dire que si vous votez l’amendement no 2376, nous n’avancerons plus du tout : ce sera terminé. Gardez cela en tête. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Toujours les dix plaies d’Égypte !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La réponse proportionnée à la demande légitime d’une meilleure taxation des géants du numérique, c’est celle qui existe déjà : une taxation à hauteur de 3 %. Si vous voulez vraiment aller plus loin, soyez prudents. Un taux de 4 % ou de 5 % serait déjà très élevé. Je reste défavorable à tous ces amendements. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Laissez-nous voter !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Je vais vous laisser voter, mais permettez-moi tout de même de donner mon avis.\nLe taux de la taxe sur le numérique est fixé à 2 % au Royaume-Uni et à 3 % en Italie et en Espagne. Le Canada a même supprimé la sienne."
+        },
+        {
+          "orateur": "M. François Ruffin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722142",
+          "texte": "Ça ne nous dit pas si c’est juste ou pas juste !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Porter ce taux à 15 % en France, ce serait faire deux fois plus que la Turquie, dont le taux est le plus important au monde. Nous serons donc les champions du monde – et je pense que nous aurons ensuite le championnat du monde des rétroactions.\nSoyez prudents, mesdames et messieurs les députés, je vous en conjure. L’audace, c’est bien ; la tête dans le mur, c’est moins bien."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix le sous-amendement no 3855."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        368\n        Nombre de suffrages exprimés                352\n        Majorité absolue                        177\n                Pour l’adoption                154\n                Contre                198"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 3855 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix le sous-amendement no 3865."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas\n          été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        367\n        Nombre de suffrages exprimés                349\n        Majorité absolue                        175\n                Pour l’adoption                130\n                Contre                219"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 3865 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix les amendements identiques nos 2376 et 3082."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        374\n        Nombre de suffrages exprimés                356\n        Majorité absolue                        179\n                Pour l’adoption                154\n                Contre                202"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 2376 et 3082 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 3237."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        374\n        Nombre de suffrages exprimés                365\n        Majorité absolue                        183\n                Pour l’adoption                154\n                Contre                211"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3237 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix le sous-amendement no 3870."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        364\n        Nombre de suffrages exprimés                349\n        Majorité absolue                        175\n                Pour l’adoption                144\n                Contre                205"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 3870 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 655."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        368\n        Nombre de suffrages exprimés                354\n        Majorité absolue                        178\n                Pour l’adoption                296\n                Contre                58"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 655 est adopté ; en conséquence, les amendements nos  3486, 1948, 517, 2837, 412, 838, 1660, 1945 et 836 tombent.)\n (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures, est reprise à vingt-trois heures dix.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866482",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Matthias Tavel, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "Il se fonde sur l’article 100 de notre règlement et sur l’article 40 de la Constitution. Nous venons d’adopter un amendement qui porte le taux de la taxe sur les services numériques de 3 % à 6 % et qui relève le seuil de taxation au niveau mondial de 750 millions à 2 milliards. Si j’en juge par l’exposé sommaire, par le fait qu’il n’a pas été déclaré irrecevable sur le fondement de l’article 40 et par l’avis défavorable émis par le gouvernement, il s’agit d’un amendement qui augmente les recettes par rapport aux dispositifs existants. Mais monsieur le ministre, vous n’avez pas indiqué le rendement attendu de la hausse de la fiscalité induite par cet amendement. Il est indispensable que vous répondiez à cette question pour que nous puissions poursuivre la discussion de façon éclairée."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Et les conséquences économiques ? On ne les connaît pas non plus !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866486",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 12 (amendements appelés par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Sur l’amendement no 3269, je suis par le groupe Écologiste et social d’une demande de scrutin public.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Arnaud Bonnet, pour le soutenir."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "texte": "Il est retiré."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3269 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Sur l’amendement n° 1865, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Claire Lejeune, pour le soutenir."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Le fil rouge de nos débats depuis le début de l’examen de la partie recettes de ce projet de loi de finances, c’est la fracture fiscale. Celle-ci s’est largement aggravée en France sous la présidence de Macron,…"
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "M. Macron !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "…de sorte que l’inégalité face à l’impôt ne cesse d’augmenter. Alors que le Français moyen découvre sa feuille d’imposition,…"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Le Français moyen, il ne vote pas pour vous !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "…certains ont la possibilité, par toute une série d’aménagements légaux, d’éviter l’impôt et ainsi d’accumuler les richesses – comme ils l’ont fait ces dernières années. Il faut mettre fin à cette situation. Le régime mère-fille et l’usage des holdings pour faire remonter les dividendes figurent parmi les dispositifs permettant un tel évitement fiscal. Par cet amendement, nous proposons d’augmenter les taux des quotes-parts pour frais et charges (QPFC) pour s’assurer qu’au moins la moitié des plus-values soit fiscalisée."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "De quoi s’agit-il ?"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Porter les taux actuels de 1 % et de 5 % à 50 % garantirait une fiscalisation minimum tout en évitant la double imposition, qui ne serait pas permise par le cadre du régime mère-fille. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je suis saisi de quatre demandes de scrutin public : sur les amendements nos 1936 rectifié, 2363 et 1917 rectifié, par le groupe La France insoumise-Nouveau Front populaire ; sur l’amendement no 3317, par le groupe de la Gauche démocrate et républicaine.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission sur l’amendement no 1865 ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Un amendement très similaire a été présenté juste avant la levée de séance, en fin d’après-midi. L’amendement est contraire au droit de l’Union européenne, en particulier à un avis de la Cour de justice de l’Union européenne (CJUE) du 12 septembre 2006. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 1865."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        218\n        Nombre de suffrages exprimés                210\n        Majorité absolue                        106\n                Pour l’adoption                62\n                Contre                148"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1865 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "L’amendement no 3422 rectifié de M. Jean-René Cazeneuve est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3422 rectifié, accepté par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866934",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je suis saisi de quatre amendements, nos 1936 rectifié, 2363, 1917 rectifié et 3317, pouvant être soumis à une discussion commune.\nLes amendements nos 1936 rectifié de Mme Claire Lejeune et 2363 de M. François Ruffin sont défendus.\nLa parole est à M. Aurélien Le Coq, pour soutenir l’amendement no 1917 rectifié."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Le débat budgétaire dans son ensemble peut se résumer à cette question : comment se fait-il que les milliardaires ne paient pas leur juste part d’impôt ? (« Oh là là… » sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Demandez à Jean-Luc Mélenchon !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Le moment est venu de dévoiler l’arnaque et d’expliquer ce mécanisme. Si les plus riches, notamment les milliardaires, réussissent l’exploit invraisemblable de ne payer que 2 % d’impôt sur leur revenu,…"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "…ou de ne se voir appliquer que 25 % de prélèvements obligatoires sur l’ensemble de leurs revenus, c’est en raison de l’obscur dispositif qu’est le régime mère-fille. Comment fonctionne-t-il ?"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Explique-nous, père Castor !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Une entreprise, dont ils sont propriétaires, produit de la richesse grâce au travail quotidien de ses salariés et fait des bénéfices. Or, au lieu de verser directement ces bénéfices, sous forme de dividendes, à son propriétaire – par exemple Bernard Arnault… (« Au hasard ! » et exclamations sur les bancs des groupes RN, DR et UDR),"
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Heureusement qu’il est là !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Cela tourne un peu à l’obsession !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Il est jaloux !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "…l’entreprise les verse à une holding, laquelle peut n’avoir aucune activité économique, ni industrielle ni d’aucune sorte, mais consister uniquement en une holding patrimoniale servant de tiroir-caisse, ou d’énorme tirelire – par exemple à M. Arnault. Pensez-vous que cette holding, qui centralise les dividendes de ses filiales, est imposée sur ces derniers ? Non ! Elle bénéficie d’une exonération d’impôt sur les sociétés (IS) à hauteur de 95 %, sous réserve de la réintégration dans son résultat d’une quote-part pour frais et charges, fixée à 5 % du produit total de ses participations. Ainsi, lorsqu’une filiale productive fait remonter 1 million d’euros de dividendes vers la holding, ce montant n’est pas taxé à 24,5 %, mais à 0,8 % ! Voilà comment les milliardaires de notre pays escroquent le fisc. (Applaudissements sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3866947",
+      "valeurPtsOdj": "1",
+      "titre": "… le journal le plus anticapitaliste du moment, on lit que, l’an dernier, Bernard Arnault a encaissé 3 milliards d’euros de dividendes.",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Nicolas Sansu, pour soutenir l’amendement no 3317."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Il vise, dans la même veine, à augmenter la quote-part pour frais et charges de la niche mère-fille, régime qui permet d’exonérer d’impôt sur les sociétés 95 % des dividendes remontés par une filiale à sa holding – le seul montant imposable étant cette fameuse quote-part, qui s’élève à 1 % pour les holdings membres d’un groupe intégré et à 5 % pour les autres. Or ne fiscaliser que 5 % des dividendes à un taux de 25 %, c’est se contenter d’un rendement de 1,25 %.\nLa situation budgétaire nous impose d’augmenter cette quote-part. Grâce à la multiplication des régimes dérogatoires, les dividendes deviennent un mode de rémunération de plus en plus prisé : en 2024, les entreprises françaises ont été les championnes d’Europe en la matière, avec 70 milliards d’euros distribués aux actionnaires – sans compter les 30 milliards distribués sous forme de rachats d’actions.\nAlors qu’une holding comme Suntory, détentrice de la société Orangina, augmente de 3 % par an depuis dix ans le montant des dividendes versés à ses actionnaires, on nous annonce dans le même temps la suppression d’une usine Orangina à La Courneuve : l’avenir de plus de cinquante salariés s’en trouve menacé. Cette situation est intolérable. Le régime mère-fille, qui est en réalité un cadeau offert aux actionnaires, représente 30 milliards d’euros par an – cette somme serait sans doute plus élevée encore si cette niche n’avait pas été déclassée il y a quelques années, et ainsi masquée dans le calcul de l’IS. Par cet amendement, nous proposons simplement de faire passer de 1 à 5 % la quote-part pour frais et charges des sociétés intégrées, et de 5 à 10 % pour les autres.\nRappelons que les États-Unis, dans la majorité des cas, n’exonèrent quant à eux que 50 % des dividendes. La France et l’Union européenne sont une exception en la matière. La présente proposition figurait du reste dans le rapport sur la fiscalité du patrimoine que mon excellent collègue Jean-Paul Mattei et moi-même avions remis en 2023 – c’est la recommandation no 8. Grâce à une telle mesure, la taxation effective des remontées de dividende vers la société mère passerait, selon les cas, à 2,5 % ou 5 %. Elle s’impose, et elle rapporterait au moins 500 millions d’euros. Compte tenu de la situation des finances publiques, les actionnaires doivent contribuer d’autant plus. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Ils ont reçu un avis défavorable. Tous se heurtent au droit européen et à la directive du Conseil du 30 novembre 2011 concernant le régime fiscal commun applicable aux sociétés mères et filiales d’États membres différents."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "On ne peut jamais rien faire !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "C’est le droit européen, il faut le respecter ! Vous proposez de rehausser au-delà de la limite de 5 % la quote-part pour frais et charges. Vous avez le droit de le faire, mais nous n’en tirerons aucune recette supplémentaire, car ce sera inapplicable. Quant à la modification du taux de la niche dite Copé, qui exonère les plus-values de cession de titres de participation – également visée par trois des quatre amendements –, rien ne s’y oppose en droit, mais il faut s’attendre à ce qu’elle aboutisse à une augmentation des dividendes que se verseront les sociétés mères. Ainsi, au lieu de rester sur le territoire national, les fonds concernés partiront vers des holdings établies à l’étranger."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Plus maintenant, grâce à l’amendement voté tout à l’heure !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Pour toutes ces raisons, je suis défavorable aux amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Nous en avons beaucoup parlé hier. Le régime mère-fille n’est ni obscur, ni une arnaque, monsieur le député Le Coq. Si seuls 5 % des dividendes de la filiale reçus par la société mère sont taxés, c’est parce que la filiale a acquitté l’impôt sur les sociétés sur 100 % de son bénéfice ! Inversons votre raisonnement en prenant l’exemple d’une entreprise allemande possédant une filiale en France, qui lui remonte des dividendes : la filiale concernée a déjà payé l’IS sur son bénéfice en France. On ne va pas aller taxer les dividendes une deuxième fois, après qu’il est arrivé en Allemagne ! L’Allemagne a tout à fait le droit de taxer ces derniers à hauteur de 5 %, et d’ailleurs elle le fait, comme nous. Il s’agit simplement d’éviter une double imposition."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Et si elle verse des dividendes à un individu ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Je sais que l’audace n’a pas de limite, monsieur Maurel, mais vous envisagez là une taxe au carré."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Danton était un grand révolutionnaire !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Vous avez déjà voté cela tout à l’heure, et vous voudriez en rajouter une couche ! Une telle mesure est évidemment contraire au droit européen – je le répète en passant, même si tout le monde s’en moque. En plus d’être totalement illégale, elle est complètement déraisonnable. Par ailleurs, pensez-vous, dans ces conditions, que la société allemande que je prenais en exemple laissera sa société fille, en France, s’acquitter à la fois de l’IS sur le bénéfice et du PFU sur les dividendes ? S’il vous plaît… Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Sur cette série d’amendements, comme convenu avec le président de la commission et le rapporteur général, je donnerai la parole à un orateur pour et à un orateur contre. La parole est à M. François Ruffin."
+        },
+        {
+          "orateur": "M. François Ruffin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722142",
+          "texte": "Que comptez-vous faire, monsieur le ministre, face à cette injustice fiscale et au constat que la nation se prive de ressources ? Dans Challenges (L’orateur montre le magazine),…"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Belle source !"
+        },
+        {
+          "orateur": "M. François Ruffin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722142",
+          "texte": "… le journal le plus anticapitaliste du moment, on lit que, l’an dernier, Bernard Arnault a encaissé 3 milliards d’euros de dividendes."
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Lâchez-le !"
+        },
+        {
+          "orateur": "M. François Ruffin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722142",
+          "texte": "Chez Hermès, son grand rival, le montant atteint 1,8 milliard ; chez L’Oréal, la famille Bettencourt Meyers a reçu 1,3 milliard d’euros. Or que lit-on sous la plume des journalistes libéraux de Challenges  ? « Difficile à croire, mais ces grandes fortunes ne vont pas payer un euro d’impôt sur leurs milliards de dividendes. » Au total, d’après le même magazine, 18 milliards de ressources ne seraient pas levées. Les États-Unis ont pourtant trouvé une solution partielle depuis maintenant près d’un siècle. Aussi aimerait-on que le gouvernement ne se contente pas de nous opposer le droit européen, mais nous indique comment il compte résoudre ce problème, remédier à cette injustice et faire en sorte que les multimilliardaires ne soient pas taxés qu’à 2 % sur leurs dividendes, tout en permettant à l’État d’obtenir des ressources supplémentaires. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Collègues d’extrême gauche, quand je vous écoute, j’hésite toujours entre la malhonnêteté et l’incompétence."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Il n’y a pas d’extrême gauche !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Je vous fais crédit de la compétence. Reste qu’en la matière, vous vous contredisez à longueur de temps ! Monsieur Ruffin, vous venez de vous scandaliser du fait que les milliardaires distribuaient trop de dividendes. M. Le Coq, quant à lui, s’est ému du fait que les holdings n’en distribuaient pas autant qu’elles devraient, pour être ensuite taxées. (Protestations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Jérôme Legavre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795298",
+          "texte": "Il ne comprend rien, lui !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "On en distribue trop ou pas assez ? En réalité, vous ne comprenez rien. Une personne morale peut détenir d’autres personnes morales. Quand vous dites que les ultrariches ne sont taxés qu’à hauteur de 2 % sur leurs revenus, c’est une escroquerie."
+        },
+        {
+          "orateur": "M. Matthias Tavel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794166",
+          "texte": "C’est la vérité !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "La confusion de patrimoines est en réalité punie par la loi. Qu’une société puisse être détenue par une autre société est en revanche parfaitement normal, voyez-vous… Ainsi va la vie économique, cela permet de constituer des groupes, donc de créer de la richesse. Comment pouvez-vous être à ce point malhonnêtes ? Soutenir que les ultrariches ne payent que 2 % d’impôt…"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "C’est un fait !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "…entre en contradiction avec les calculs de la direction générale des finances publiques (DGFIP), qui soutient qu’ils sont taxés à hauteur de 55 % de leurs revenus. (Exclamations sur les bancs du groupe EcoS.) J’aimerais que vous rétablissiez cette vérité, monsieur le ministre !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Vous aurez tout le temps de débattre de cette question. Monsieur Ruffin, nous avons voté plusieurs dizaines de milliards d’impôts supplémentaires. La prochaine une de Challenges devrait donc être fort différente. Maintenant, ça suffit. Il faudrait vraiment ne pas aller plus loin…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 1936 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        240\n        Nombre de suffrages exprimés                227\n        Majorité absolue                        114\n                Pour l’adoption                62\n                Contre                165"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1936 rectifié n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 2363."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        262\n        Nombre de suffrages exprimés                228\n        Majorité absolue                        115\n                Pour l’adoption                62\n                Contre                166"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2363 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 1917 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        254\n        Nombre de suffrages exprimés                236\n        Majorité absolue                        119\n                Pour l’adoption                71\n                Contre                165"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1917 rectifié n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 3317."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        272\n        Nombre de suffrages exprimés                270\n        Majorité absolue                        136\n                Pour l’adoption                102\n                Contre                168"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3317 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements nos 2640, 2639 et 2637, par le groupe La France insoumise-Nouveau Front populaire ; sur l’amendement no 2816, par le groupe Écologiste et social.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe suis saisi de cinq amendements, nos 2640, 2816, 3771, 2639 et 2637, pouvant être soumis à une discussion commune.\n La parole est à Mme Marianne Maximi, pour soutenir l’amendement no 2640."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Que les petits payent petit et que les gros payent gros : cette philosophie devrait guider notre fiscalité, dans tous les domaines. Elle n’est pas suivie en matière d’impôt sur les sociétés, objet de cette série d’amendements. Depuis des heures et des heures, nous entendons, en provenance des bancs macronistes, des odes aux petites et moyennes entreprises. Vous dites les défendre, mais on ne trouve, dans la fiscalité que vous préconisez, nulle trace d’un tel engagement. Au contraire, vous tâchez de protéger les multinationales et faites en sorte que l’impôt repose d’abord sur les PME.\nCela s’explique sûrement par le temps que vous passez à côtoyer et à défendre le Medef.\nNous vous proposons un exercice différent : rétablir une justice fiscale dans l’impôt sur les sociétés. Les grandes entreprises ne payent en moyenne que 14 % d’impôt sur les sociétés alors que les petites entreprises sont taxées à 21 %. Cet amendement vise à inverser cette logique et à en finir avec le taux unique d’IS, en le rendant progressif par la création de onze tranches, afin que les gros payent gros, et les petits, petit.\nM. Verny, qui aime nous faire des leçons d’économie, prétend que ce sont les entreprises qui créent la richesse. Je vous le répète : il n’y a pas de création de richesse sans les travailleurs et les travailleuses ! (Applaudissements sur les bancs du groupe LFI-NFP.) Il ne peut y avoir création de richesse sans les salariés qui œuvrent au quotidien. Il peut exister des entreprises sans patron mais pas d’entreprise sans salariés. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Pierre-Henri Carbonnel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841973",
+          "texte": "Montez une entreprise, si c’est si facile !"
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Bolchévique !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867365",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Arnaud Bonnet, pour soutenir l’amendement no 2816."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "texte": "Il s’agit d’un amendement de repli. Il est injuste que l’impôt sur les sociétés soit forfaitaire. Pourquoi de petites entreprises devraient-elles payer dans les mêmes proportions que les grands groupes ? La justice fiscale, c’est aussi pour les entreprises. Les petites entreprises qui font beaucoup moins de bénéfices et qui n’ont pas la même capacité que les grands groupes à encaisser les chocs conjoncturels ne devraient pas avoir à payer les mêmes impôts que les entreprises qui distribuent des millions, voire des milliards, en dividendes. Tandis que des patrons de TPE n’arrivent parfois même pas à se payer, de grands actionnaires se gavent et pratiquent l’évasion fiscale !\nC’est pourquoi, à l’instar de l’impôt sur le revenu, nous souhaitons instaurer un impôt sur les sociétés progressif, plus juste puisqu’il fait dépendre la contribution fiscale des bénéfices dégagés. Les TPE favorisent l’emploi de proximité et la richesse des territoires ; ce sont elles qui peuvent faire revivre le cœur de nos villages. (Applaudissements sur quelques bancs du groupe EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867368",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Nicolas Sansu, pour soutenir l’amendement no 3771."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Il vise également à créer un IS progressif. Aujourd’hui, cet impôt est très injuste et régressif, comme l’a montré l’Institut des politiques publiques (IPP) dans une étude récente. L’objectif n’est pas d’instaurer une surtaxe…"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Non, on l’a déjà fait !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "…mais d’ajuster le taux de l’IS en fonction du bénéfice réalisé. Il s’agit de préserver les petites entreprises, en maintenant leur taux d’imposition au niveau actuel, et de revenir à un taux de 33,3 % pour les plus grandes, ce qui éviterait toutes ces contributions exceptionnelles destinées à redresser les finances publiques. L’impôt sur les sociétés retrouverait ainsi le niveau qui est le sien parmi les pays de l’OCDE : 2,4 % du PIB contre 2 % du PIB en France aujourd’hui."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867372",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "L’amendement no 2639 de M. Éric Coquerel est défendu.\nLa parole est à M. Aurélien Le Coq, pour soutenir l’amendement no 2637."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Il s’agit d’effacer les huit ans d’Emmanuel Macron à l’Élysée. (Applaudissements sur les bancs du groupe LFI-NFP. – « Ah ! sur plusieurs bancs du groupe EPR.) Comment cela a-t-il commencé ?"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Par le fait que vous avez voté pour lui !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Emmanuel Macron a fait des cadeaux aux entreprises qui nous coûtent 211 milliards par an. Conséquence sur le budget de l’État : de la dette, du déficit, la part des recettes s’effondrant de 54,3 % du PIB à 51,4 %, soit 75 milliards d’euros par an de recettes en moins.\nPour revenir à l’avant Macron et effacer ses quinquennats qui n’ont pas marché, il faut d’abord revenir au taux de l’impôt sur les sociétés en vigueur en 2017. La baisse du taux, qui était censée créer de l’emploi et du dynamisme économique, s’est en réalité accompagnée d’une baisse des salaires de 3 points en moyenne. (« C’est faux ! » sur plusieurs bancs du groupe EPR.)\nTous ceux qui en ont profité ont licencié : Auchan, Michelin, Sanofi, Arcelor, Vencorex, qu’ont-ils fait de la baisse de l’impôt sur les sociétés à part verser des dividendes et virer des salariés ? Rien !\nPuisqu’un taux de 33 % risque de vous effrayer, je vous rappelle qu’en France, entre 1948 et 1985, le taux d’impôt sur les sociétés était de 50 % – et il y avait pourtant moins de chômage. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis de la commission sur ces cinq amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Les amendements nos 2816, 2640 et 3771 visent à rendre l’IS progressif, avec un taux allant respectivement jusqu’à 50 %, 40 % et 33 %. Je rappelle que le taux s’établit en moyenne à 21 % dans l’Union européenne. L’amendement no 2637 vise à rétablir le taux de l’IS à 33 %, soit son niveau de 2017. L’amendement no 2639 tend également à relever ce taux à 33 %, en prévoyant un taux réduit à 28 % pour les PME.\nComment peut-on débattre de fiscalité sans jamais s’interroger sur ses effets économiques ?"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Bien sûr, c’est le b.a-ba !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Vous vous êtes interrogés depuis huit ans ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Vous voulez surtaxer les entreprises. Mais une entreprise surtaxée répercute toujours ses coûts, sur le consommateur en augmentant les prix, sur ses investissements en les réduisant, sur l’emploi en embauchant moins, ou encore en délocalisant quand elle le peut. En surtaxant au moyen de l’IS, vous créerez des dégâts ; pensons aux conséquences de ce que nous votons."
+        },
+        {
+          "orateur": "Mme Liliana Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719550",
+          "texte": "La récession !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Avis défavorable sur tous ces amendements. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Même avis. L’IS est déjà progressif : une tranche à 15 % existe pour les PME. Il l’est encore davantage depuis ce qui a été voté hier : on passe de 15 % pour les PME à 25 % pour les ETI, à 26,5 % pour les ETI de la tranche supérieure et à 33,8 % pour les très grandes entreprises."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Ces taux portent sur le chiffre d’affaires, alors que nos amendements portent sur les bénéfices !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Alors que nous sommes dans une compétition internationale, pas un seul pays développé ne dispose d’un IS progressif. Pérenniser ce dispositif, comme ces amendements tendent à le faire, nous placerait dans une ligue mondiale de pays peu connus pour la qualité de leur système fiscal : le Pakistan et la Sierra Leone. Si c’est votre modèle, votez ces amendements, mais ce n’est pas le mien."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Manuel Bompard."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Oh non !"
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Monsieur le ministre, vous ne pouvez pas dire que l’impôt sur les sociétés est progressif sous prétexte qu’un taux réduit est prévu pour les petites entreprises. Deux tranches, ce n’est pas de la progressivité !Contrairement à ce qu’a essayé de faire croire M. le rapporteur, nous ne proposons pas d’augmenter l’impôt sur les sociétés pour toutes les entreprises, mais de le baisser pour les plus petites et de l’augmenter pour les plus grandes. Vous pouvez ne pas être d’accord, mais ne faites pas croire que ces amendements disent autre chose. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Frédéric Petit."
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Je voudrais dissiper d’énormes confusions, ce qui nous servira, je l’espère, pour la suite du débat. Certains ont dit que ceux qui produisaient la richesse étaient les ouvriers. Or c’est l’entreprise qui produit la richesse et, à l’intérieur de l’entreprise, se trouvent les ouvriers, les patrons ou gérants et les bénéfices."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Si ! Les bénéfices sortent de l’entreprise quand ils deviennent des dividendes. Mais un bénéfice reste généralement à l’intérieur de l’entreprise et n’est pas nécessairement transféré à l’actionnaire. Ce dernier n’a pas le droit de piocher comme il veut dans la caisse de l’entreprise – ce serait un abus de bien social –, ni pour partir aux Maldives, ni pour s’acheter une Rolls-Royce, ni pour payer ses impôts personnels.\nÀ l’intérieur de l’entreprise se trouvent les travailleurs, les cadres, les patrons et les bénéfices. L’utilisation du bénéfice fait l’objet d’une discussion et, dans de nombreuses entreprises, d’un conflit entre l’actionnaire qui voudrait l’extraire et le cadre dirigeant qui en a besoin pour investir ou distribuer des primes. Le bénéfice appartient à l’entreprise comme les patrons et les ouvriers.\nLes confusions que vous faites nous mènent dans le mur. L’entreprise n’est pas un riche ! Certaines entreprises font de très gros bénéfices avec très peu d’actifs ; d’autres font de petits bénéfices avec d’énormes actifs immobilisés. Ces dernières auront besoin de leurs bénéfices pour assurer l’entretien de leurs actifs. Il faut revenir à ces vérités !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 2640."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        251\n        Nombre de suffrages exprimés                239\n        Majorité absolue                        120\n                Pour l’adoption                79\n                Contre                160"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2640 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 2816."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        253\n        Nombre de suffrages exprimés                247\n        Majorité absolue                        124\n                Pour l’adoption                87\n                Contre                160"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2816 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix, par scrutin public, l’amendement no 3771."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        262\n        Nombre de suffrages exprimés                260\n        Majorité absolue                        131\n                Pour l’adoption                99\n                Contre                161"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3771 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 2639."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        261\n        Nombre de suffrages exprimés                260\n        Majorité absolue                        131\n                Pour l’adoption                96\n                Contre                164"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2639 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 2637."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        245\n        Nombre de suffrages exprimés                222\n        Majorité absolue                        112\n                Pour l’adoption                59\n                Contre                163"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2637 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je suis saisi de deux demandes de scrutin public : sur l’amendement no 1937 par le groupe La France insoumise-Nouveau Front populaire et sur l’amendement no 2364 par le groupe Écologiste et social.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Ersilia Soudais, pour soutenir l’amendement no 1937."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Ce qui est insupportable, c’est de vous entendre systématiquement dire que vous soutenez les entreprises (Exclamations sur plusieurs bancs des groupes RN et UDR), alors que vous soutenez uniquement les plus grosses et les ultrariches qui les détiennent. Mais si vous voulez prouver que j’ai tort, vous pouvez voter cet amendement.\nIl vise à supprimer la niche Copé, qui profite essentiellement aux holdings patrimoniales et aux grandes fortunes qui les possèdent. Elle leur permet d’échapper à la majorité de l’imposition ; vous conviendrez que cela n’aide pas au consentement à l’impôt.\nLes entreprises qu’il faut soutenir, ce sont les TPE-PME. L’imposition qu’elles subissent est beaucoup trop élevée, contrairement à celle des grandes entreprises. Il faut absolument revoir le barème de l’impôt sur les sociétés.\nIl faut également s’attaquer à la question de la consommation, qui est au plus bas, ce qui met en grande difficulté les TPE et PME. Pour cela, il faut augmenter les salaires. Mais à chaque fois qu’on vous propose d’augmenter le smic, vous n’êtes pas d’accord.\nEn 2019, Éric Woerth, alors président de la commission des finances, a estimé à 5 milliards le coût annuel de la niche Copé. Cela ferait un beau chèque pour financer les services publics, les écoles, qui manquent cruellement de professeurs et d’accompagnants d’élèves en situation de handicap – AESH –, et les hôpitaux, dans lesquels on attend des heures aux urgences, quand on ne finit pas par y mourir. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "La suppression de la niche Copé inciterait les sociétés à verser davantage de dividendes – vous ne gagnerez rien du tout. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 1937."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        232\n        Nombre de suffrages exprimés                223\n        Majorité absolue                        112\n                Pour l’adoption                63\n                Contre                160"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1937 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867767",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je suis saisi de deux amendements, nos 2364 et 3375, pouvant être soumis à une discussion commune.\n La parole est à M. François Ruffin, pour soutenir l’amendement no 2364."
+        },
+        {
+          "orateur": "M. François Ruffin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722142",
+          "texte": "Je ne tiens pas à vous provoquer, monsieur le ministre, mais je ne comprends pas la légèreté de vos réponses sur la question des holdings. Tous les professeurs d’économie reconnaissent qu’elles sont au cœur de l’injustice fiscale ; le gouvernement, par les mesures qu’il s’apprête à proposer, le reconnaît également. Je ne m’explique donc pas pourquoi vous balayez tout cela d’un revers de la main, au prétexte que nous aurions déjà levé suffisamment d’impôts pour ce soir.\nCet amendement concerne la niche Copé. Comme l’explique Challenges, les holdings sont l’occasion d’un double cadeau. Les mouvements de capitaux internes, d’abord, ne sont pas taxés. Les plus-values latentes, ensuite, échappent à l’impôt, grâce à cette niche dont on fête aujourd’hui les 20 ans. En dépit de son coût d’environ 7 milliards par an, elle n’a fait l’objet d’aucune évaluation. Le gouvernement doit s’emparer de cette question – 7 milliards, c’est l’équivalent du coût, pour les finances publiques, du crédit d’impôt pour les services à la personne dont nous avons débattu, des heures durant, samedi après-midi. Nous souhaitons, bien entendu, en finir avec cette niche Copé."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867770",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Jean-Paul Mattei, pour soutenir l’amendement no 3375."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "La holding est un outil très utile au monde des affaires, quand il n’est pas dévoyé. Il est nécessaire à la création et au développement des groupes.\nL’amendement que je vous propose, déjà adopté en 2018 dans cet hémicycle, vise à majorer – un peu – le taux de la niche Copé. La quote-part de frais et charges sur les bénéfices est actuellement de 12 % du taux de l’IS. Du fait de la baisse de l’IS, toutefois, le taux de taxation effective est passé de 3,96 % à 3 %. L’amendement vise donc à réactualiser le taux de la quote-part de frais et charges, en le faisant passer de 12 % à 16 % : question de rééquilibrage, qui relève du bon sens.\nPermettez-moi, monsieur le rapporteur général, de relever une petite confusion. Les cessions de participations jouissent d’un régime fiscal de faveur. Si, avec une société soumise à l’IS, vous cédez un actif en direct – un terrain, un immeuble, etc. –, vous serez taxé à hauteur de 25 %. Il existe cependant une dérogation pour les titres de société, parce qu’il n’est pas possible de les amortir et que leur cadre est assez rigide.\nEn comparaison de ce que nous avons voté tout à l’heure, j’ai presque honte de présenter un amendement si modeste."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Modéré même ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Il serait toutefois l’occasion d’un rééquilibrage, en ramenant à 4 % – contre 3 % actuellement – la taxation effective des cessions de titres dans le cas des holdings. (M. Pascal Lecamp applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Sur l’amendement no 3375, je suis saisi par le groupe Ensemble pour la République d’une demande de scrutin public.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission sur ces amendements ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Elle les avait rejetés, tous les deux, lors de leur examen. Ils sont cependant différents : M. Ruffin souhaite supprimer la niche Copé,…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…tandis que le président Mattei souhaite la rééquilibrer, après la baisse historique du taux de l’IS.\nVous vous plaignez des dividendes, monsieur Ruffin ; mais si nous supprimons la niche Copé, on se versera encore plus de dividendes. Cela me semble quelque peu contradictoire.\nVous avez raison, monsieur le président Mattei, il n’y a pas eu de rééquilibrage à l’époque où le taux de l’IS a baissé. La mesure que vous préconisez, toutefois, aura des effets sur les équilibres économiques globaux. C’est à chacun d’en juger – la commission, toutefois, s’y était opposée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "On peut me reprocher beaucoup de choses, monsieur Ruffin ; mais certainement pas, ces deux derniers jours, un esprit de légèreté. J’ai répondu à peu près à tout…"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Pas à l’essentiel !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "…– sauf peut-être de l’avis d’une personne – et je considère, comme tout le monde j’espère, qu’un budget se construit et n’est pas qu’une somme d’amendements votés au gré des préférences. (M. Manuel Bompard s’exclame.)\nIl me semble donc raisonnable que je puisse me référer à ce qui a déjà été voté pour estimer que, en matière de taxation, il faut s’arrêter là –…"
+        },
+        {
+          "orateur": "M. Guillaume Kasbarian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719372",
+          "texte": "Mais oui !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "…et je suis convaincu que nous sommes déjà allés très loin aujourd’hui."
+        },
+        {
+          "orateur": "M. Guillaume Kasbarian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719372",
+          "texte": "Trop loin ! Beaucoup trop !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "D’aucuns sur ces bancs, en effet, diraient même beaucoup trop, avec des amendements par ailleurs inopérants – reste à voir comment nous pourrons les traiter.\nSur la niche Copé, nous ne sommes pas d’accord : nous voulons la conserver, vous voulez la supprimer."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Ce n’est pas ça !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Si : faire passer son taux de 12 % à 100 %, c’est la supprimer ! Pire même : on garde la disposition, en la vidant de toute substance – autant simplifier en la supprimant pour de bon.\nSi, donc, nous ne sommes pas d’accord, ce n’est pas que nous aimons M. Copé,…"
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Ah ça non !"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "…qui est par ailleurs tout à fait respectable, mais parce qu’une telle suppression nous mettrait en porte-à-faux vis-à-vis de tous les pays européens.\nCette réserve vaut également pour l’amendement du président Mattei, même s’il ne va pas aussi loin et propose seulement de faire passer le taux de 12 % à 16 %. J’entends que la baisse de l’IS aurait rendu la niche Copé plus avantageuse ; nous avons cependant voté des surtaxes dont je ne connais pas les effets directs sur cette niche. Les dispositions équivalentes, en Allemagne et en Italie, affichent un taux de 5 % : je serais prudent avant de procéder à une augmentation, compte tenu de tout ce que nous avons déjà voté. (Mme Christine Pirès Beaune s’exclame.) Je suggère au président Mattei de retirer son amendement, faute de quoi je lui donnerai un avis défavorable. Avis extrêmement défavorable à l’amendement de M. Ruffin, qui ne le retirera pas – je n’ai aucun espoir à ce sujet."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Philippe Brun."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Les socialistes voteront ces deux amendements,…"
+        },
+        {
+          "orateur": "M. Roland Lescure",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "…afin d’effacer, au moins partiellement, les effets de la niche Copé."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Totalement, pour le premier d’entre eux !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Je me pose quelques questions sur l’amendement de M. Mattei, qui a l’habitude, comme il le fait ce soir, de présenter des versions édulcorées des propositions les plus radicales de la gauche de cet hémicycle."
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "On n’attaque pas Jean-Paul Mattei ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "La gauche, on l’a bien compris, cherche à annuler les effets de la baisse de l’IS. Quelle part de cette baisse votre amendement, monsieur Mattei, viendrait-il quant à lui compenser ? Quel serait, ensuite, le rendement fiscal d’une telle mesure ? Quel serait son impact sur les cessions d’entreprise ? Quel serait, enfin, son impact sur les petites sociétés ? Les holdings, en effet, ne sont pas qu’une affaire de grands groupes : les petites sociétés également peuvent y avoir recours…"
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "…dans le cadre d’une restructuration. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 2364."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        248\n        Nombre de suffrages exprimés                240\n        Majorité absolue                        121\n                Pour l’adoption                78\n                Contre                162"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2364 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix l’amendement no 3375."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        258\n        Nombre de suffrages exprimés                258\n        Majorité absolue                        130\n                Pour l’adoption                118\n                Contre                140"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3375 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867819",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Mathilde Feld, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Sur le fondement de l’article 100 de notre règlement, sur la bonne tenue de nos débats.\nNous n’avons pas beaucoup avancé ce soir…"
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "À qui la faute ?"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "…et M. le ministre a usé d’un temps de parole pour le moins important."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Avec toutes ces taxes que vous voulez ajouter !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Dans la mesure où nous avons, pour notre part, retiré des amendements… (Exclamations sur plusieurs bancs) Je ne sais pas pourquoi vous m’agressez de la sorte, je vous parle gentiment. Je voulais simplement savoir si les autres groupes avaient décidé de retirer à leur tour des amendements, comme nous le leur avions proposé, afin que nous puissions avancer dans l’examen de ce PLF. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Benjamin Lucas-Lundy, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Sur le fondement de l’article 62 de notre règlement. Le Canard enchaîné s’apprête à publier demain un article relatif aux délégations de vote du Rassemblement national et à sa pratique des certificats médicaux de complaisance. (Vives protestations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Article diffamatoire !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Il serait bon, monsieur le président, que Marine Le Pen, présidente du groupe Rassemblement national, vienne s’en expliquer – si elle est encore parmi nous."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Nous avons déjà abordé cette question, qui sera évoquée dans une réunion du bureau de l’Assemblée nationale.\nLa parole est à M. Jean-Philippe Tanguy, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Au titre de l’article 70, alinéa 3, pour mise en cause personnelle – mise en cause de notre groupe, en l’occurrence.\n Le Canard enchaîné a omis de préciser, dans ses accusations fantaisistes,…"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Vous en portez aussi !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "…que, le jour qui les intéresse, quatre groupes avaient plus de délégations de vote que nous, dont celui de M. Lucas-Lundy ! (Applaudissements sur les bancs du groupe RN. – Exclamations sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Va travailler tes dossiers !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La suite de l’examen du projet de loi de finances est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3867840",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Prochaine séance, demain, à quatorze heures :\n Questions au gouvernement ;\nSuite de la discussion de la première partie du projet de loi de finances pour 2026.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

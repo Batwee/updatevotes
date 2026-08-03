@@ -1,0 +1,2314 @@
+{
+  "uid": "CRSANR5L17S2025O1N226",
+  "seanceRef": "RUANR5L17S2025IDS29502",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-06-04",
+  "dateLisible": "mercredi 04 juin 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3779473",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la proposition de loi permettant aux salariés de participer aux collectes de sang, de plaquettes ou de plasma sur leur temps de travail (nos 732, 1462)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779475",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "J’appelle maintenant, dans le texte de la commission, les articles de la proposition de loi."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779477",
+      "valeurPtsOdj": "1",
+      "titre": "Article 1er",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je suis saisi de deux amendements, nos 21 et 28, pouvant être soumis à une discussion commune.\n La parole est à M. Pierre Cordier, rapporteur de la commission des affaires sociales, pour soutenir l’amendement no 21."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il vise à encadrer le dispositif des autorisations d’absence, en précisant que les salariés ou agents publics qui souhaitent donner leur sang sur leur temps de travail doivent le faire dans le lieu de prélèvement le plus proche de leur lieu de travail."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779480",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 21 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Théo Bernhardt, pour soutenir l’amendement no 28, sur lequel je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Dans le prolongement de l’amendement de M. Cordier, nous proposons que le don du sang du salarié s’effectue dans le site de collecte le plus proche de son lieu de travail ou de son domicile, afin d’éviter une durée d’absence trop importante et de prévenir les abus."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Le salarié qui se rend sur son lieu de travail dispose parfois d’un lieu de collecte plus proche de son domicile. C’est pourquoi la proposition de M. Bernhardt me semble pertinente. Je retire donc mon amendement au profit du sien."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 21 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le ministre chargé de la santé et de l’accès aux soins, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre chargé de la santé et de l’accès aux soins",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "L’objectif est de concilier la facilitation des dons de sang – à laquelle nous sommes tous favorables – et l’acceptabilité du dispositif par les employeurs. Pour ce faire, il faut naturellement favoriser le lieu de collecte le plus proche du lieu de travail ou du domicile – dans ce dernier cas, le déplacement du salarié présentera d’ailleurs moins de contraintes pour l’employeur. Avis favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Bérenger Cernon."
+        },
+        {
+          "orateur": "M. Bérenger Cernon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842037",
+          "texte": "Nous nous opposons à cet amendement qui est ambigu et dont l’interprétation est incertaine. La question de la proximité du lieu de collecte avec le domicile ou le lieu de travail du salarié ne signifie rien et servira de prétexte à l’employeur pour opposer son refus."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Pierrick Courbon."
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "J’avais sous-amendé l’amendement no 21 de M. Cordier en me fondant sur l’article 98, alinéa 5, de notre règlement, qui dispose qu’un sous-amendement ne peut pas contredire le sens de l’amendement. Nous avions proposé de tenir compte, non du domicile, mais de la résidence principale du salarié, ce qui rappelle l’esprit de l’amendement no 28. J’aimerais donc connaître les raisons de l’irrecevabilité de ce sous-amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Claire Marais-Beuil."
+        },
+        {
+          "orateur": "Mme Claire Marais-Beuil",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841563",
+          "texte": "Je vais faire un cours de mathématiques très simple : entre deux points, le chemin le plus court est une droite. On calcule la distance entre le domicile et le lieu de collecte, puis entre lieu de travail et le lieu de collecte, et on choisit le plus court."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur l’amendement no 19, je suis saisi par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Camille Galliard-Minier."
+        },
+        {
+          "orateur": "Mme Camille Galliard-Minier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719736",
+          "texte": "L’examen de ce texte nous oblige à trouver ensemble un équilibre entre l’organisation de l’entreprise et la générosité du salarié. Toutefois, la disposition de l’amendement risque de n’être pas si simple à appliquer et ne prend pas en compte tous les cas de figure. Ainsi, dans le cas d’un don de plasma, le salarié devra se rendre dans une maison du don qui risque d’être plus éloignée que la collecte mobile située près de son entreprise ou de son domicile.\nAdopter cet amendement risquerait donc de pénaliser le don de plasma, dont l’augmentation est pourtant un des objectifs principaux de cette proposition de loi. Faisons confiance aux salariés qui souhaiteront donner. Autant il faut absolument limiter le nombre de dons par personne dans l’année, autant cette disposition ne me semble pas indispensable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Je suis contre l’amendement. L’objectif de cette proposition de loi est d’augmenter le nombre de dons de sang, de plasma et de plaquettes. Imaginer que les salariés vont prendre leur voiture et choisir l’endroit le plus éloigné pour éviter de travailler, c’est vraiment de la suspicion généralisée. Les deux amendements déposés sont vraiment inutiles et il serait raisonnable que les deux soient retirés. Dans la vie réelle, je ne connais pas de salarié qui voudra faire 200 kilomètres pour éviter une heure de travail."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Quelle caricature !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Je ne sais pas dans quel monde vous vivez, mais cela n’existe pas."
+        },
+        {
+          "orateur": "M. Aurélien Dutremble",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841761",
+          "texte": "Les gars de la CGT vont le faire, croyez-moi !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Je comprends l’objectif de ces deux amendements mais ils ne sont pas raisonnables."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur Courbon, je n’ai pas de réponse très convaincante à votre question sur votre sous-amendement mais, comme M. Cordier a retiré son amendement no 21, en tout état de cause, il serait tombé.\nLa parole est à M. René Pilato."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Faisons un peu de mathématiques. (Exclamations sur quelques bancs du groupe RN.) Si, vous comprendrez ainsi le sens et les limites de votre amendement, et les raisons pour lesquelles nous voterons contre ! Prenez une personne qui travaille à 20 kilomètres de son domicile. Sur son trajet, elle a la possibilité de donner son sang à 2 kilomètres de son domicile alors que le lieu de collecte le plus proche de son lieu de travail est à 10 kilomètres. Votre proposition n’a donc aucun sens : vous allez lui demander d’aller au lieu de collecte le plus proche de son lieu de travail, à 10 kilomètres, alors qu’il y en a sur son trajet à 2 kilomètres de chez elle."
+        },
+        {
+          "orateur": "Mme Claire Marais-Beuil",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Notre amendement dit tout le contraire !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Cet amendement n’a donc pas de sens."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 28."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        65\n        Nombre de suffrages exprimés                61\n        Majorité absolue                        31\n                Pour l’adoption                33\n                Contre                28"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 28 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779512",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je suis saisi de quatre amendements, nos 19, 20, 29 et 14, pouvant être soumis à une discussion commune.\n La parole est à Mme Camille Galliard-Minier, pour soutenir l’amendement no 19, qui fait l’objet d’un sous-amendement no 32 ."
+        },
+        {
+          "orateur": "Mme Camille Galliard-Minier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719736",
+          "texte": "Il est important de concilier la générosité des futurs donneurs avec l’organisation de l’entreprise. C’est pourquoi cet amendement vise à limiter le nombre maximum d’absences à quatre par an. Ce chiffre est raisonnable : lorsqu’on donne son plasma, l’addition du temps du don, du temps de repos et de collation et du temps de déplacement peut prendre jusqu’à une demi-journée. Procéder à quatre dons de ce type dans l’année représente donc deux jours d’absence, ce qui constitue un effort important de la part de l’entreprise.\nToutefois, si l’entreprise le souhaite, elle pourra autoriser plus d’absences à ses salariés. À ces dons effectués sur le temps de travail peuvent aussi s’ajouter des dons réalisés sur le temps personnel.\nEn outre, ce chiffre de quatre absences correspondrait au doublement du nombre moyen de dons par donneur, qui s’élève aujourd’hui à 1,5 don pour le sang, 2,2 dons pour les plaquettes et 2,4 dons pour le plasma.\nEnfin, cette proposition de loi a un double objectif : faciliter le don pour ceux qui donnent déjà – en l’espèce, ma proposition constituerait donc un doublement – et surtout faire connaître le don et permettre aux personnes de passer outre leur appréhension. Toutes ces raisons m’amènent à penser que ce chiffre de quatre absences est celui qu’il faut retenir."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Christine Le Nabour, pour soutenir le sous-amendement no 32."
+        },
+        {
+          "orateur": "Mme Christine Le Nabour",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719756",
+          "texte": "Il s’agit d’un amendement rédactionnel visant à supprimer le mot « jours » après le chiffre 4."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779518",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 20."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Je propose de limiter le nombre des absences à huit par an. Nous avons eu de nombreux échanges en commission. Notre position initiale était d’un don par mois, mais des employeurs, des commerçants, des artisans et des chefs d’entreprise nous ont dit que douze absences par an, cela faisait quand même beaucoup.\nDe plus, il faut avoir à l’esprit que le don de sang – qui concerne les trois quarts des donneurs – est limité à six fois par an pour les hommes et quatre fois pour les femmes. Le plafond de huit dons par an ne pourra être atteint que dans le cas des dons de plasma – qui peuvent être effectués jusqu’à vingt-quatre fois par an – ou de plaquettes. Dans l’objectif de trouver un juste équilibre entre douze et quatre dons – comme le propose notre collègue Galliard-Minier – je propose de couper la poire en deux et de fixer le plafond à huit autorisations d’absence par an."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779521",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Théo Bernhardt, pour soutenir l’amendement no 29."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Il vise à limiter à une seule absence par période de trente jours glissants l’autorisation faite par l’employeur au salarié, ce qui représente un total de douze dons par an sur son temps de travail."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779523",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 29 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Pierrick Courbon, pour soutenir l’amendement no 14."
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Rappelons l’esprit et le sens de la proposition de loi. Il s’agit de faciliter l’accès aux dons et d’offrir aux salariés la possibilité de faire un maximum de dons, compte tenu de l’insuffisance chronique dont nous souffrons. C’est pourquoi tout ce qui consiste à limiter de manière trop drastique cette possibilité est, par définition, contradictoire avec notre objectif. Dans cet esprit, notre amendement vise à respecter simplement les textes réglementaires en vigueur, qui fixent la limite annuelle du nombre de prélèvements par donneur, laquelle est bien supérieure au plafond proposé par les amendements précédents.\nJe vous fais cette proposition constructive : si les auteurs des amendements plus restrictifs que celui de M. le rapporteur acceptent de retirer leur amendement, j’en ferai de même car la proposition du rapporteur constitue une position d’équilibre entre la jauge minimale de quatre absences et la maximale que nous proposons. Je laisse chacun donner son avis et, le cas échéant, nous pourrons avancer dans la direction que je vous propose et qui consisterait donc à soutenir l’amendement no 20 de M. le rapporteur."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Je m’en tiens à la position consistant à fixer une limite de huit absences par an et je remercie notre collègue qui s’est dit prêt à retirer son amendement au profit du mien.\nL’amendement de M. Courbon vise à limiter le nombre d’autorisations d’absence en se référant à l’arrêté fixant les critères de sélection des donneurs de sang qui, comme je l’ai indiqué, limite le nombre annuel de dons de sang à quatre pour les femmes et à six pour les hommes. Cela aurait pour conséquence d’autoriser jusqu’à vingt-quatre absences par an pour donner du plasma.\nFixer à huit le nombre d’absences autorisées me paraît un bon compromis. Certains proposent d’autoriser quatre absences, d’autres douze. Douze plus quatre font seize, seize divisé par deux fait huit. (Sourires. – M. Aurélien Le Coq applaudit.) Eh oui, je sais compter ! Les compromis sont souvent faits de moyennes ; nous devons faire une cote mal taillée. Ce n’est pas facile car chacun a son avis sur cette question. Certains considèrent qu’il faudrait pratiquer la politique de l’ open bar et laisser les salariés partir faire un don où et quand ils veulent, chaque fois qu’ils le souhaitent. D’autres proposent de limiter les absences à quatre par an pour éviter de nuire aux chefs d’entreprise en perturbant l’organisation du travail. D’autres encore estimeront à huit ou à neuf le bon nombre d’absences. Il est très difficile de s’accorder, mais je vous propose un compromis à huit jours par an, en remerciant les collègues qui retireront leurs amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur les amendements identiques nos 22 et 26, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Sur les amendements nos 1, 2 et 4, je suis saisi par le groupe La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Sur les amendements identiques nos 18 et 27, je suis saisi par le groupe Ensemble pour la République d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "À mon sens, un plafond de six absences par an constituerait la bonne limite. Les dons de sang sont limités à quatre pour les femmes et à six pour les hommes ; ce sont les seuls chiffres existants qui pourraient fournir un fondement objectif à la limitation. En fixant la limite à quatre, nous créerions une inégalité entre les hommes et les femmes. En la fixant à huit, nous dépasserions la limite annuelle pour les hommes.\nJe suis favorable au sous-amendement no 32, m’en remets à la sagesse de l’Assemblée en ce qui concerne les amendements nos 19 et 20, suis défavorable à l’amendement no 29 et demande le retrait de l’amendement no 14."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Annie Vidal, suppléant M. Frédéric Valletoux, président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": "suppléant M. Frédéric Valletoux, président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Si je me permets d’intervenir, ce n’est pas pour vous donner mon avis personnel quant au nombre idéal d’absences autorisées par an : je le tairai car il n’émane pas de la commission. En revanche, j’appelle votre attention sur le fait que si nous n’adoptons aucun de ces amendements, ce sera open bar, pour ainsi dire. Or il importe de fixer des limites. Je vous appelle donc à la vigilance et vous demande de voter en conscience."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur Courbon, maintenez-vous votre amendement ?"
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Comme je l’ai dit plus tôt, je suis prêt à le retirer à condition que les autres collègues retirent également le leur et que nous nous accordions pour voter celui de M. le rapporteur. Je ne souhaite pas être le seul à retirer un amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Madame Galliard-Minier, maintenez-vous votre amendement ?"
+        },
+        {
+          "orateur": "Mme Camille Galliard-Minier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719736",
+          "texte": "Oui."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur Bernhardt, maintenez-vous votre amendement ?"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Je le retire au profit de celui de M. le rapporteur, car nous avons besoin d’un consensus."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 29 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Pierrick Courbon."
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Dans ces conditions, je retire également le mien. J’invite mes collègues à voter l’amendement no 20 et à s’opposer à l’amendement no 19, plus restrictif."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 14 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Ersilia Soudais."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Je ne comprends pas pourquoi il faudrait absolument limiter le nombre d’absences, sachant qu’il y a déjà les limites biologiques du corps : on ne peut pas faire n’importe quoi avec son sang ni avec son plasma. Le nombre de dons du sang est limité à six par an pour les hommes et à quatre par an pour les femmes. Il est certes possible de faire jusqu’à vingt-quatre dons de plasma, mais je rappelle qu’en la matière la France est très dépendante des États-Unis d’où provient 65 % du plasma dont nous disposons, ce qui pose à la fois un problème de souveraineté et un problème éthique."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Perrine Goulet."
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "Gardons à l’esprit que ces congés affecteront parfois de petites PME. (« Ah ! » sur les bancs du groupe LFI-NFP.) Si chacun des salariés d’une telle structure prend quatre, huit, voire seize demi-journées par an pour donner du sang, cela peut gravement perturber l’activité de l’entreprise."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Les autorisations d’absence ne se comptent pas en demi-journées mais en heures !"
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "Le texte n’est pas rédigé ainsi, monsieur le rapporteur ! J’invite chacun à faire attention : il faut concilier le besoin, certes impératif, de dons de sang avec les nécessités de la bonne marche de l’entreprise. L’amendement de Mme Galliard-Minier me semble le plus équilibré à cet égard. N’oublions pas qu’il est possible de donner du sang en dehors de son temps de travail."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Dans ce cas, nous proposons de réduire le temps de travail ! (Sourires sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "Autorisons donc quatre dons pendant le temps de travail, étant entendu que d’autres pourront être faits à d’autres moments. Il s’agit d’une démarche bénévole de don de soi ; il n’est pas nécessaire de la marchander systématiquement contre une réduction du temps de travail. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Nathalie Colin-Oesterlé."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "L’objectif du texte est très important : il s’agit d’inciter les salariés à donner leur sang, ce qui constitue un enjeu de souveraineté sanitaire. Nous engageons là une démarche intéressante, mais il faut savoir concilier les impératifs de santé publique avec les contraintes des entreprises. C’est pourquoi je soutiendrai l’amendement de Mme Galliard-Minier visant à limiter à quatre le nombre annuel de dons effectués pendant le temps de travail."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 32 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 19, tel qu’il a été sous-amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        105\n        Nombre de suffrages exprimés                101\n        Majorité absolue                        51\n                Pour l’adoption                18\n                Contre                83"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 19, sous-amendé, n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 20 est adopté à l’unanimité.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779629",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je suis saisi de deux amendements identiques, nos 22 et 26.\n La parole est à M. le rapporteur, pour soutenir l’amendement no 22."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Nous avons voté en commission un amendement instaurant un délai de deux jours dans lequel l’employé doit informer son employeur de son intention d’aller donner son sang. Les amendements que nous nous apprêtons à examiner visent à allonger ou à réduire ce délai.\nEn l’occurrence, l’amendement no 22 tend à porter le préavis à trois jours. Il s’agit de sécuriser un peu plus les employeurs et de leur permettre de s’organiser pour pallier l’absence du salarié ou de l’agent public. L’amendement précise également que ce délai est calculé en jours ouvrés.\nL’amendement participe de notre volonté de rassurer le monde économique : il s’agit de donner aux employeurs – ce sont souvent des commerçants ou des artisans à la tête d’une petite structure – plus de recul pour prendre une décision."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779633",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’amendement no 26 de M. Théo Bernhardt est défendu.\nQuel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix les amendements identiques nos 22 et 26."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        103\n        Nombre de suffrages exprimés                100\n        Majorité absolue                        51\n                Pour l’adoption                56\n                Contre                44"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 22 et 26 sont adoptés ; en conséquence, les amendements no 1, 18 et 27 tombent.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779640",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Ersilia Soudais, pour soutenir l’amendement no 2."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Il vise à supprimer le droit de refus illimité accordé à l’employeur. Les débats ont montré qu’il y a sur les bancs de la droite une confiance aveugle en l’employeur et une suspicion généralisée, à la limite de la paranoïa (« Oh ! » sur les bancs du groupe RN), envers le salarié.\nVous m’objecterez sûrement que le droit de refus n’est pas illimité, puisque le refus doit être justifié par les nécessités de la continuité du service ou de l’activité économique mais, dans les faits, il sera possible à l’employeur de refuser n’importe quelle demande en arguant de raisons organisationnelles. D’ailleurs, il n’aura même pas à se casser la tête, puisque le refus n’a pas besoin d’être expressément motivé. C’est d’autant plus dommageable que seuls 3,5 % de la population en âge de donner du sang le font.\nIl n’est pas nécessaire de mettre davantage de bâtons dans les roues des donneurs. Au contraire, on devrait leur faciliter la tâche. Non, les donneurs réguliers ne sont pas une plaie, ils sont une chance ! (Mme Marie-Agnès Poussier-Winsback s’exclame.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Vous souhaitez supprimer la possibilité pour un employeur de refuser d’octroyer l’autorisation d’absence à son employé. Je suis bien sûr défavorable à votre proposition. L’objectif du texte est d’inciter au don du sang en aménageant à la marge les contraintes liées à l’activité professionnelle. Il ne s’agit pas de permettre aux employés et aux agents publics de s’absenter dès qu’ils le souhaitent, sans que l’employeur puisse s’y opposer et quels que soient les besoins de l’activité professionnelle ce jour-là. Le but est de permettre le dialogue entre l’employeur et l’employé, de sorte que le premier puisse autoriser le second à s’absenter à un moment où cela ne met pas en danger le service ou l’activité économique."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je suis très défavorable à l’amendement. Nous sommes tous convaincus de l’opportunité de favoriser le don de sang, de plaquettes ou de plasma, mais il ne faut pas oublier les nécessités du service. Pensez par exemple aux établissements médicaux : les personnels soignants qui prennent en charge des patients ne peuvent pas quitter leur poste n’importe quand. Si l’amendement est adopté, il sera plutôt un frein qu’une aide car le texte suscitera la méfiance des employeurs. Comme l’a très bien dit Mme Colin-Oesterlé, qui a travaillé sur ce sujet lorsqu’elle était députée européenne, il ne s’agit pas d’opposer les salariés aux employeurs mais de les inciter à dialoguer entre eux, de créer une dynamique sociale qui encourage le don du sang. Pour cela, il faut trouver le juste équilibre."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Théo Bernhardt."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Je vais vous donner deux exemples. Imaginez que vous êtes gérant d’une enseigne de prêt-à-porter ; comment ferez-vous face à l’accroissement de l’activité pendant les périodes de Noël ou des soldes si vos salariés s’absentent ? Imaginez que vous êtes restaurateur ; que ferez-vous si un employé part donner son sang pendant le coup de feu de midi ?\nVous nous accusez de suspicion envers le salarié, mais vous pratiquez vous-même la suspicion envers l’employeur. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Je tiens à rappeler que la deuxième phrase de l’alinéa 3 ne figurait pas dans la rédaction initiale de la proposition de loi. Elle a été ajoutée pour, dit-on, rassurer les employeurs. Encore une fois, je pense que les salariés qui donneront leur sang discuteront avec leur employeur et essaieront de trouver un moment qui ne posera pas de problème à l’entreprise. En revanche, si vous retenez la rédaction adoptée en commission, un très grand nombre d’employeurs trouveront toujours une bonne raison pour empêcher que ce droit puisse s’exercer. La rédaction actuelle ne convient pas, car elle vide la proposition de loi de son sens. C’est pourquoi il faut voter en faveur de l’amendement no 2."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 2."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        108\n        Nombre de suffrages exprimés                91\n        Majorité absolue                        46\n                Pour l’adoption                26\n                Contre                65"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780259",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’amendement no 4 de M. Bérenger Cernon est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Vous souhaitez restreindre la possibilité pour l’employeur de refuser l’autorisation d’absence d’un salarié aux seuls opérateurs des services essentiels. Si je pense qu’ils sont les premiers concernés par cette disposition, ils ne sont pas les seuls. Dans la vente, un employeur doit par exemple pouvoir s’opposer à ce que tous ses vendeurs s’absentent sur la même plage horaire pour donner leur sang, sinon il serait contraint de fermer boutique. Laissons de la souplesse du côté des salariés et du côté des employeurs.\nL’avis de la commission est donc défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 4."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        109\n        Nombre de suffrages exprimés                109\n        Majorité absolue                        55\n                Pour l’adoption                43\n                Contre                66"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 4 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780269",
+      "valeurPtsOdj": "1",
+      "titre": "(Le\n             vote\n            à\n             main\n             levée\n             n’ayant\n             pas\n            été\n             concluant,\n             il\n             est\n             procédé\n            à\n             un\n             scrutin\n             public.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Pierrick Courbon, pour soutenir l’amendement no 15."
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Son objet recoupe certains débats précédents. Il vise à trouver une position d’équilibre entre la garantie que les droits des salariés seront bien effectifs et la volonté de donner des assurances aux employeurs.\nIl introduit trois dispositions. Premièrement, si l’employeur refuse, il est tenu de justifier son refus, manière d’empêcher qu’il s’oppose par principe.\nDeuxièmement, pour sécuriser les employeurs, nous proposons que le reçu émis par l’Établissement français du sang (EFS) précise l’horaire d’arrivée et de départ du salarié pour s’assurer que le temps d’absence correspond bien à la période de don et au temps de transport.\nTroisièmement, nous proposons de substituer au terme de « candidature » celui, neutre, de « présentation » au don. Cette subtilité sémantique vise à éviter d’empiéter sur le secret médical, car une personne peut se présenter à un prélèvement de sang et ne pas être autorisée à l’effectuer."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Vous souhaitez préciser que le justificatif d’absence qui atteste de la présentation d’un salarié à un don du sang indique l’heure d’arrivée et de départ au lieu de collecte et soit fourni sans délai par l’EFS. L’amendement est satisfait par l’amendement no 23 que je présenterai par la suite.\nJe vous demande donc de retirer l’amendement no 15, sans quoi j’émettrai un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Est-il maintenu ?"
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Il ne peut pas être satisfait par un amendement qui ne sera examiné que par la suite. Dans le doute, nous le maintenons."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 15."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le\n             vote\n            à\n             main\n             levée\n             n’ayant\n             pas\n            été\n             concluant,\n             il\n             est\n             procédé\n            à\n             un\n             scrutin\n             public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        113\n        Nombre de suffrages exprimés                100\n        Majorité absolue                        51\n                Pour l’adoption                53\n                Contre                47"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 15 est adopté ; en conséquence, l’amendement no 10 ainsi que le sous-amendement no 31 tombent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Je suis saisi de deux amendements, nos 23 et 5, pouvant être soumis à une discussion commune. L’amendement no 23 fait l’objet du sous-amendement no 34.\n La parole est à M. le rapporteur, pour soutenir l’amendement no 23."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "C’est dommage, monsieur Courbon, car je jugeais que l’amendement no 23 était mieux rédigé que l’amendement no 15. Il vise à reformuler la dernière phrase de l’alinéa 3 relative à la délivrance des justificatifs de don. Il s’agit d’indiquer que ce justificatif atteste que l’employé s’est présenté à l’accueil d’un lieu de collecte en vue de donner son sang, sans préciser s’il a effectivement pu le donner, pour que l’employeur ne puisse pas en déduire d’éventuels problèmes de santé. Il précise également que le justificatif de don est fourni sans délai par l’Établissement français du sang."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur le rapporteur, je suis désolé, mais on me dit que l’amendement no 23 est également tombé, du fait de la victoire de M. Courbon et de l’adoption de l’amendement no 15. Par conséquent, le sous-amendement no 34 est sans objet.\nSur les amendements nos 5 et 6, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Sur l’amendement n° 8, je suis saisi par le groupe Écologiste et social d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Ersilia Soudais, pour soutenir l’amendement no 5."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Il tend à restreindre les justificatifs qui peuvent être demandés aux salariés à leur carte de donneur ou à une attestation de l’Établissement français du sang, afin d’éviter toute demande extravagante, notamment la remise d’un certificat médical."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il aurait été satisfait par l’adoption de l’amendement no 23, mais celui-ci est tombé. Je considère que l’adoption de l’amendement no 15 a le même effet. Je demande donc à Mme Soudais de le retirer, sans quoi j’émettrai un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 5."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        120\n        Nombre de suffrages exprimés                88\n        Majorité absolue                        45\n                Pour l’adoption                58\n                Contre                30"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 5 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780300",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Bérenger Cernon, pour soutenir l’amendement no 6."
+        },
+        {
+          "orateur": "M. Bérenger Cernon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842037",
+          "texte": "Les travailleurs des services essentiels sont exclus des dispositions prévues par cette proposition de loi car par définition ils ne peuvent pas quitter leur lieu de travail. Nous proposons qu’ils bénéficient d’un droit à s’absenter pour faire un don ou d’un temps de récupération si le don est réalisé hors de leurs horaires de travail. La durée de ce congé est d’une demi-journée pour un don de sang ou de plasma et d’une journée pour un don de plaquettes. C’est bien peu, au vu de ce qu’ils donnent chaque jour au service de notre pays. Il s’agit d’une mesure de justice autant que d’intérêt général. Ces salariés doivent avoir les mêmes droits que les autres. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Vous souhaitez créer un droit à congé pour don de sang pour les salariés d’opérateurs de services essentiels qui ne pourraient pas s’absenter sur leur temps de travail. Je ne développerai pas à nouveau tous les arguments que nous avons présentés en commission sur ce sujet. J’y suis défavorable pour plusieurs raisons. Tout d’abord, cela risque de créer une distorsion des droits entre les salariés et les agents publics qui ne me semble pas justifiée par l’objectif poursuivi. Ensuite, comme vous l’avez indiqué lors des débats en commission, cette disposition peut faire l’objet de négociations collectives au niveau des entreprises ou des administrations concernées. Enfin, nous l’avons dit précédemment, rien n’empêche une personne qui ne pourrait pas s’absenter de son lieu de travail de se rendre à une collecte sur son temps personnel. Je rappelle que l’objectif de la proposition de loi est d’inciter au don du sang en levant l’obstacle que peut parfois constituer l’activité professionnelle. Il ne s’agit pas en revanche, chers collègues, de limiter les dons du sang aux seuls horaires de travail.\nVous avez tous affirmé lors de la discussion générale la volonté de trouver un équilibre dans le cadre de cette proposition de loi. Il ne faut donc pas, si vous me passez l’expression, trop charger la barque par rapport aux employeurs en créant des droits nouveaux. (Mme Stéphanie Rist s’exclame.)\nJ’entends bien, madame Rist, mais vous êtes la seule de votre groupe à être opposée à la proposition de loi. (Applaudissements sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Oui, mais on a le droit !"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Certes, et je le comprends, mais nous essayons de trouver un équilibre. Chers collègues, tâchons de respecter l’architecture globale du texte.\nMonsieur Cernon, je vous demande donc de retirer l’amendement no 6, sans quoi j’émettrai un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Vous souhaitez créer un dispositif spécifique aux salariés d’opérateurs de services essentiels ouvrant un droit à congé correspondant à la récupération du temps consacré au don lorsqu’il est effectué en dehors du temps de travail. Comme vous le savez tous, la proposition de loi permet au salarié de s’absenter pour donner son sang si son organisation professionnelle le permet. Le dispositif proposé assure un juste équilibre entre l’encouragement au don et le bon fonctionnement des entreprises."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "On pourrait aussi, éventuellement, essayer de défendre les travailleurs essentiels !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "L’objet qui nous réunit n’est pas de créer un congé dédié à une catégorie de travailleurs spécifiques mais bien d’encourager collectivement les dons quand ceux-ci ne peuvent pas être réalisés sur le temps personnel. Par le dialogue social, les établissements qui souhaitent instaurer un droit à congé plus favorable pourront le négocier au travers d’accords-cadres.\nPour l’ensemble de ces raisons, vous l’aurez compris, j’émets un avis défavorable sur cet amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 6."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        124\n        Nombre de suffrages exprimés                123\n        Majorité absolue                        62\n                Pour l’adoption                33\n                Contre                90"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 6 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780316",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 8."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "L’intérêt de la proposition de loi est d’élargir le nombre de donneurs, qu’il est nécessaire de doubler. Par cet amendement, nous voulons encourager les étudiants à donner plus massivement. Il tend donc à élargir le dispositif aux étudiants pour qu’ils puissent, pour un certain nombre de dons dans l’année, être exemptés des activités obligatoires. Vous me direz qu’ils pourraient sécher les cours mais ce n’est plus possible à l’université ; en raison de la compétition induite par Parcoursup, puis de la sélection en licence et en master, c’est de plus en plus dur d’être étudiant. (Sourires.) Plus sérieusement, que les étudiants aient droit à ce dispositif est non seulement symbolique mais aussi important. (Applaudissements sur les bancs du groupe EcoS. – M. Pierrick Courbon applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Cher collègue, vous proposez d’accorder aux étudiants des autorisations d’absence pour don du sang. Je comprends bien entendu l’objectif mais, comme j’ai eu l’occasion de l’indiquer en commission, la situation des étudiants n’est pas du tout la même que celle des salariés et des agents publics. Je vous renvoie à l’intitulé de cette proposition de loi « permettant aux salariés de participer aux collectes de sang, de plaquettes ou de plasma sur leur temps de travail », or les étudiants ne sont pas des salariés."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Un étudiant sur deux travaille, et ils sont précaires !"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Même si je suis conscient que les études sont prenantes et que la charge de travail ne s’arrête pas à la porte des amphithéâtres – cela n’a échappé à personne –, les étudiants n’ont pas les mêmes contraintes horaires qu’un salarié ou un agent public. (Mme Marie Mesmeur s’exclame.)\nDe plus, des collectes mobiles sont très souvent organisées. Il suffit d’avoir fait un peu d’études pour savoir que des collectes sont souvent organisées dans les facultés – j’ai moi-même participé à certaines d’entre elles il y a quelques années. Les universités encouragent beaucoup les jeunes à donner leur sang, puisque 30 % des donneurs annuels ont moins de trente ans. La population chez laquelle il est le plus difficile d’encourager le don du sang est celle des actifs, en raison de leurs contraintes professionnelles mais aussi personnelles. C’est précisément le public visé par cette proposition de loi.\nJ’émets donc un avis défavorable sur l’amendement no 8."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Théo Bernhardt."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Je me pose la même question qu’en commission, où nous avons déjà eu ce débat : pourquoi les deux amendements que j’ai présentés ont-ils été considérés comme des cavaliers législatifs, alors que celui-ci a été déclaré recevable ? Cela interroge."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Il est vexé !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Nous sommes défavorables à cet amendement, pour deux raisons. D’abord, de nombreuses collectes sont déjà organisées dans les lieux d’études. La plupart des étudiants ont assez de temps libre pour aller donner leur sang – je pense à ceux qui étudient à l’université, pas en prépa.\nEnsuite, des collègues en face ont fait remarquer que les étudiants travaillaient. Cette proposition de loi leur sera donc utile, car ils pourront avoir accès au don du sang sur le temps de travail."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Je ne dispose pas des amendements jugés irrecevables que vous évoquez, mais celui-ci est bien recevable.\nLa parole est à Mme Marina Ferrari."
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795120",
+          "texte": "Je comprends l’objectif de l’amendement, qui est d’inciter les étudiants à participer au don du sang. Cependant, de nombreuses collectes sont déjà organisées au sein des établissements d’enseignement supérieur et, comme l’a rappelé mon collègue, les salariés, y compris ceux qui ont un job étudiant, seront couverts par ce texte."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 8."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        138\n        Nombre de suffrages exprimés                137\n        Majorité absolue                        69\n                Pour l’adoption                62\n                Contre                75"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 8 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 1er, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780709",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 1er",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 3, portant article additionnel après l’article 1er."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "La réforme des retraites est une catastrophe. Demain, pour la énième fois, nous débattrons de son abrogation. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)\nCette réforme a une conséquence : il y a de moins en moins de bénévoles. Toutes les associations nous le disent : si vous partez à la retraite à 67 ans, cela ne vous laisse plus beaucoup de temps pour vous engager dans une association.\nL’amendement vise à autoriser les bénévoles, quand ils sont salariés, à s’absenter cinq jours pour participer à la collecte du sang. Cela aiderait les associations."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur les amendements nos 3 et 9, je suis saisi par le groupe Écologiste et social de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "L’amendement propose d’octroyer cinq jours d’autorisation d’absence par an pour les salariés ou les agents publics qui sont bénévoles dans les associations de don du sang.\nJe comprends cet objectif et suis d’ailleurs le premier à rappeler l’importance du rôle des bénévoles dans nos territoires. Nous en connaissons tous, nous participons régulièrement à des assemblées générales et nous sommes conscients de leur rôle fondamental.\nJ’ai eu l’occasion de le rappeler en commission : les bénévoles facilitent grandement le travail de l’EFS en organisant l’accueil et la collation offerte aux donneurs. Je ne sais pas comment l’EFS ferait sans eux, en particulier dans les territoires ruraux.\nNéanmoins, comme en commission, j’émets un avis défavorable à l’amendement. Si l’on autorise les bénévoles de ces associations à s’absenter, pourquoi refuserait-on des autorisations d’absence à tous les bénévoles membres d’associations d’intérêt général ou caritatives ? Je pense à Emmaüs, par exemple. Si l’on suit la logique de l’amendement, il faudrait étendre l’autorisation de cinq jours à toutes ces personnes.\nJe souhaite soutenir l’engagement citoyen et associatif, mais ce n’est pas aux entreprises de financer celui-ci. L’effort demandé me semble suffisamment important dans le cadre de ce que nous avons prévu."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je confirme !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je comprends bien le sens de votre amendement. Cela me permet de saluer l’engagement des bénévoles dans les associations de don du sang – nous en avons tous dans nos circonscriptions. Ils font un travail formidable et, sans eux, nous dépendrions encore plus des États-Unis pour l’approvisionnement en sang.\nCependant, il faut prendre en compte la réalité économique des petites et moyennes entreprises. La législation du travail propose déjà des moyens pour concilier l’activité professionnelle et l’activité bénévole. Je pense aux congés de solidarité internationale, aux congés du sapeur-pompier volontaire et congés d’engagement."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "C’est pour ça que ça fait beaucoup !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Même si la démarche est bonne, même s’il faut encourager l’engagement associatif et caritatif, nous ne pouvons pas mettre en péril les petites entreprises. Ce n’est pas du tout le sens de cette proposition de loi, qui vise à réaffirmer l’engagement collectif de la nation envers le don du sang, sans opposer employeurs et donneurs."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Pierrick Courbon."
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Notre collègue Davi a parfaitement raison de pointer les effets délétères de la réforme des retraites, qui a reculé de deux ans l’engagement associatif de nombreux bénévoles. En effet, la vie associative française repose essentiellement sur les retraités. C’est factuel. (Applaudissements sur plusieurs bancs des groupes SOC et EcoS.)\nJe modulerai sa proposition en faisant remarquer qu’avec le congé d’engagement bénévole prévu par la loi relative à l’égalité et à la citoyenneté, les salariés ont déjà le droit de prendre cinq ou six jours de congé dans l’année au titre de l’engagement associatif. La demande est satisfaite.\nJe rappelle toutefois qu’il est vraiment important de faciliter l’engagement bénévole le plus tôt possible. Nous en débattrons demain matin, au moins symboliquement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Vous avez le droit de prendre des congés quand vous êtes bénévole, mais il n’y a pas de raison que ce soit à ce moment-là que vous vous engagiez dans votre association."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "C’est ce qu’on appelle la solidarité !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Monsieur le ministre, s’il n’y a plus assez de bénévoles dans les associations, il faudra employer des salariés et, pour financer ces emplois, il faudra augmenter les taux de cotisations sociales des entreprises. Cela coûtera plus cher à ces dernières que de donner congé de temps en temps aux bénévoles. Le bénévolat coûte moins que le salariat !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Marina Ferrari."
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795120",
+          "texte": "Si le salarié a cinq jours d’absence rémunérée pour faire du bénévolat, il n’est plus bénévole : CQFD ! (Mmes Annie Vidal et Marie-Agnès Poussier-Winsback applaudissent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Joël Bruneau."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "Je voudrais rappeler à toutes fins utiles, pour rendre hommage à toutes celles et ceux qui s’engagent de manière bénévole tout en travaillant, que le monde associatif n’est pas animé que par des retraités et des personnes détachées par leur entreprise. Il l’est très majoritairement par des personnes qui le font sur leur temps libre, parce que ça leur fait plaisir. J’en ai fait partie."
+        },
+        {
+          "orateur": "Mme Marie-Agnès Poussier-Winsback",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "Le monde associatif vit de l’engagement bénévole et c’est très bien ainsi. (Applaudissements sur les bancs des groupes LIOT et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme la ministre chargée du travail et de l’emploi."
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre chargée du travail et de l’emploi",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Je voudrais répondre à la remarque de M. Davi sur la réforme des retraites qui, selon lui, aurait été catastrophique. Nous en reparlerons demain, mais savez-vous que le taux d’activité des 55-64 ans a augmenté de plus de 3 points depuis deux ans ? (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Mais leur taux de chômage est de 40 % !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Aujourd’hui, 61,5 % de cette tranche d’âge travaillent. En Suède, ils sont à 75 % – nous avons encore une marge de progrès.\nLa proposition de loi de M. Cordier améliorera la situation car, plus les gens travaillent, plus ils peuvent donner leur sang. Évitons cette espèce de malthusianisme qui consiste à vouloir qu’il y ait moins de gens qui travaillent et à imaginer des congés pour les bénévoles."
+        },
+        {
+          "orateur": "M. Christophe Bex",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793772",
+          "texte": "C’est une question de répartition des richesses !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 3."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        139\n        Nombre de suffrages exprimés                123\n        Majorité absolue                        62\n                Pour l’adoption                40\n                Contre                83"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780749",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 9."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Il vise à confier à l’EFS l’organisation de campagnes d’information à destination des salariés, afin que ces derniers aient connaissance de leurs droits."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Nous avons débattu en commission de l’importance des campagnes d’information de l’EFS. Vous proposez d’ajouter aux missions de cet établissement l’information des salariés sur leur droit à autorisation d’absence pour la collecte de sang. Je vous remercie d’avoir accepté de retravailler votre amendement, auquel j’émets un avis favorable."
+        },
+        {
+          "orateur": "Mme Marie-Agnès Poussier-Winsback",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Ça ne coûte pas cher, en plus !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "J’émets un avis défavorable. L’EFS organise déjà des campagnes spécifiques au quotidien, afin d’inciter l’ensemble des personnes, y compris les étudiants, à donner leur sang ; il s’agit parfois de campagnes thématiques ou d’actions visant à installer les collectes au sein des entreprises."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’amendement no 9."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        140\n        Nombre de suffrages exprimés                139\n        Majorité absolue                        70\n                Pour l’adoption                97\n                Contre                42"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 9 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780941",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 24, accepté par le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’amendement no 24 de M. le rapporteur est un amendement de coordination."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 24, accepté par le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780943",
+      "valeurPtsOdj": "1",
+      "titre": "Article 2",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 2 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur l’ensemble de la proposition de loi, je suis saisi par les groupes Rassemblement national et Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780946",
+      "valeurPtsOdj": "1",
+      "titre": "Explications de vote",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Perrine Goulet."
+        },
+        {
+          "orateur": "Mme Perrine Goulet (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "Nous avions déjà des doutes – qu’a exprimés tout à l’heure, dans la discussion générale, mon collègue Nicolas Turquois – au sujet de cette proposition de loi ; nous avons à présent des inquiétudes. Ce texte part d’une bonne intention et nous souhaitons tous amplifier le don du sang, mais l’amendement qui fixe à huit le nombre maximum d’absences par an est très imprécis : potentiellement, ces huit absences pourraient être huit journées complètes, ce qui peut être très déstabilisant pour une entreprise.\nPar ailleurs, la même disposition vaudra pour toutes les entreprises, des plus grandes jusqu’aux très petites entreprises (TPE). Or elle aura un impact plus fort sur ces dernières.\nOn n’a pas du tout évoqué le risque, bien réel, de faire un malaise après avoir donné son sang. Si un salarié qui a donné son sang dans la matinée fait un malaise dans l’après-midi et a un accident, est-ce qu’on va considérer que c’est un accident de travail qui doit être pris en charge par l’entreprise ? Tout cela n’est pas précisé.\nSur le fond, on est en train de transformer ce qui relevait d’un don de soi, bénévole et volontaire, en une pratique susceptible d’offrir un jour de congé. Le don de soi disparaît et l’on entre dans une logique où tout est monnayé, où tout doit être payé : c’est une évolution de la société qui me paraît très inquiétante. (Mmes Anne Bergantz, Véronique Riotton et Stéphanie Rist applaudissent.)\nEnfin, on fait peser toujours plus de contraintes sur les entreprises. Chaque fois que l’on veut faire quelque chose, on impose une contrainte supplémentaire aux entreprises."
+        },
+        {
+          "orateur": "Mme Anaïs Belouassa-Cherifi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841657",
+          "texte": "Et sauver des vies, ce n’est pas important ?"
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "À aucun moment on n’a envisagé de réorganiser l’Établissement français du sang, par exemple pour qu’il accueille les gens après 18 heures ou à l’heure du déjeuner, ou pour qu’il envoie des camions dans les entreprises– je l’ai vécu dans la mienne – afin d’éviter les déplacements.\nCe texte partait d’une bonne intention mais le résultat n’est pas satisfaisant. Cela me contrarie, mais nous ne pourrons pas voter en faveur de son adoption. (Applaudissements sur plusieurs bancs des groupes Dem et EPR.)"
+        },
+        {
+          "orateur": "M. François Cormier-Bouligeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719118",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Nathalie Colin-Oesterlé."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Je comprends les réserves de ma collègue, mais on touche là à des questions de santé publique et de souveraineté sanitaire. Actuellement, nous importons 40 % du sang dont nous avons besoin de pays qui rémunèrent les donneurs. Alors soyons sérieux !\nBien sûr, j’ai moi aussi quelques réserves, dont j’ai fait part au rapporteur. Je pense par exemple qu’il aurait été préférable de limiter à quatre le nombre de dons dans l’année. (M. Thierry Benoit applaudit. – Exclamations sur les bancs du groupe LFI-NFP.) Pour l’instant, rien n’est prévu, et il m’aurait paru beaucoup plus raisonnable de commencer par quatre absences dans l’année.\nCela étant dit, à titre personnel, je voterai pour cette proposition de loi, afin de lui laisser faire son cheminement législatif. (Applaudissements sur les bancs du groupe HOR. – M. Inaki Echaniz applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Théo Bernhardt."
+        },
+        {
+          "orateur": "M. Théo Bernhardt (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Je rejoins totalement Mme Colin-Oesterlé : il y a là un enjeu de souveraineté et de santé publique. On le sait tous, le sang est un produit précieux et exceptionnel. Il sauve des vies, mais il sert aussi à la recherche, qui l’utilise pour trouver de nouveaux traitements et pour mieux comprendre certaines infections. Le niveau de nos stocks est bas et nous avons besoin de ce précieux liquide.\nNous avons souligné au début du débat que nous souhaitions arriver à un consensus. Force est de constater que nous y sommes parvenus, puisque nous nous sommes accordés sur le nombre d’absences. C’est vraiment l’objectif d’un texte transpartisan : discuter ensemble et trouver le bon compromis pour faire avancer notre pays.\nLe présent texte ne fait peser de soupçon ni sur les employés, ni sur les employeurs. Nous avons trouvé un bon équilibre entre le nombre de dons possibles par an, la nécessité d’en informer l’employeur soixante-douze heures ouvrées à l’avance et la possibilité laissée à l’employeur de demander un report des dons, ce qui permettra de sécuriser les TPE et PME.\nJ’en profite pour féliciter tous les bénévoles et encourager tous les donneurs. Ce qu’ils font est exceptionnel. Le 10 juin, une collecte de sang est organisée à l’Assemblée nationale : allez donner votre sang, on en a besoin ! (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Camille Galliard-Minier."
+        },
+        {
+          "orateur": "Mme Camille Galliard-Minier (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719736",
+          "texte": "Le groupe Ensemble pour la République votera évidemment pour cette proposition de loi, et je remercie le rapporteur de s’être saisi de ce sujet. Ce texte est équilibré, simple et il sera facile à appliquer. Il va permettre de faire connaître le don du sang et il va le faciliter. À quelques jours de la Journée mondiale du don du sang, le 14 juin, qui est l’occasion de remercier les donneurs, il était important que notre assemblée se saisisse de ce sujet. Comme le dit l’EFS, donner son sang, c’est offrir la vie. (M. Jean-Luc Fugit et Mme Marie-Agnès Poussier-Winsback applaudissent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Ersilia Soudais."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Cette proposition de loi a le mérite de mettre en exergue la nécessité qu’il y a d’augmenter le nombre de donneurs de sang, de plaquettes et de plasma et de favoriser la régularité de ces dons. Seules 3,5 % des personnes en âge de donner le font. C’est vraiment peu et cela pose un problème de souveraineté, puisque 65 % de notre plasma provient des États-Unis, où les conditions de prélèvement ne sont pas du tout les mêmes, ce qui a un impact sur la qualité du plasma. On profite de la détresse de miséreux pour en collecter. Rien n’aurait donc vraiment changé depuis la Fantine de Victor Hugo ?\nNous attendions beaucoup de cette proposition de loi, mais elle a surtout une portée symbolique, puisque le droit de refus accordé à l’employeur est sans limite. Ce n’est pas faute de vous avoir avertis sur la nécessité d’employer des moyens coercitifs pour imposer cette nécessité d’intérêt sanitaire général aux employeurs, par exemple en prévoyant des sanctions pour ceux qui entraveraient la volonté de leurs salariés de donner leur sang.\nOn peut vraiment douter de la volonté de la droite de protéger les salariés donneurs de la discrimination des employeurs. On ne peut même pas évoquer ce sujet sans qu’il soit balayé avec mépris, tant est niée l’existence d’un système de domination au sein des entreprises. Et pourtant, la lutte des classes n’est pas une fable !\nEn matière de santé, il y a les intentions affichées et il y a les actes. À droite, il y a toujours une dissonance, et c’est la raison pour laquelle mon département, la Seine-et-Marne, est devenu le plus grand désert médical de l’Hexagone. Prélever le sang pour sauver des vies, c’est bien, mais encore faut-il des urgences dignes de ce nom pour que ce projet aboutisse. Or vous avez largement contribué à l’état de délabrement de nos hôpitaux : c’est ainsi qu’à Jossigny on peut attendre des heures sans être pris en charge et même mourir sur un brancard, faute de soins.\nQue ce soit dans les entreprises ou dans les hôpitaux, le respect des donneurs, des patients et des soignants est une question de volonté politique. Il est temps de s’affranchir d’un management brutal et délétère. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Pierrick Courbon."
+        },
+        {
+          "orateur": "M. Pierrick Courbon (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Je tiens à saluer l’état d’esprit qui a été le nôtre au cours de ce débat, aussi bien en commission qu’en séance publique. Les efforts de chacun nous ont permis de trouver une position d’équilibre, notamment sur ce chiffre de huit jours.\nJe voudrais rassurer notre collègue Perrine Goulet, en espérant la convaincre et obtenir ainsi un vote à l’unanimité. L’amendement no 15, qui a été adopté, prévoit la remise d’un justificatif précisant l’heure d’arrivée et de départ du donneur : il n’y a donc aucun risque que ces huit autorisations d’absence soient des journées entières d’absence. Personne n’utilisera plus de temps que nécessaire."
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "Et s’il y a un accident, qu’est-ce qu’on fait ?"
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Je ne vous ai pas coupé la parole, madame, merci d’en faire autant. Les huit dons sont parfaitement bornés dans le temps et encadrés par la loi."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Pas du tout !"
+        },
+        {
+          "orateur": "M. Pierrick Courbon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841295",
+          "texte": "Face à ce qui constitue un enjeu de souveraineté sanitaire, soit on essaie de trouver des solutions, qui nécessitent effectivement que chacun fasse des efforts, y compris dans le monde de l’entreprise, soit on se satisfait d’importer les deux tiers de notre plasma des États-Unis. Pour notre part, nous ne nous satisfaisons pas de cette deuxième option et nous cherchons des solutions.\nLe don du sang permet de sauver des vies, et il importe que chacun y prenne sa part, y compris les entreprises. Je suis d’accord avec vous, madame Goulet, au sujet des moyens de l’EFS, qui sont effectivement un angle mort de ce texte. Or, pour renforcer les moyens de l’EFS, il y a un rendez-vous majeur : l’examen du projet de loi de financement de la sécurité sociale. Depuis de nombreuses années, nous avons déposé un certain nombre d’amendements visant à renforcer les moyens de l’EFS sur les plans matériel et humain. Malheureusement, vous avez toujours voté contre ces amendements. (Applaudissements sur plusieurs bancs des groupes SOC et LFI-NFP.) Vous aurez la possibilité de mettre vos actes en cohérence avec vos discours d’ici quelques mois. En attendant, je vous invite toutes et tous à voter pour cette proposition de loi."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Josiane Corneloup."
+        },
+        {
+          "orateur": "Mme Josiane Corneloup (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722390",
+          "texte": "Je veux moi aussi souligner la qualité de nos débats, qui ont été constructifs. Le groupe Droite républicaine votera en faveur de cette proposition de loi qui, cela a été dit, répond à la fois à un impératif de santé publique et à un enjeu de souveraineté sanitaire. C’est un texte équilibré, qui permettra aux salariés et aux agents de s’absenter pour faire don de leur sang, tout en conservant leur rémunération. Nous avons besoin de dons supplémentaires, nous avons besoin de sensibiliser et d’inciter au don. Ce texte répond parfaitement à ces impératifs. Il concilie le soutien au don de sang, de plaquettes et de plasma et la préservation du bon fonctionnement des entreprises. (Applaudissements sur les bancs du groupe DR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780982",
+      "valeurPtsOdj": "1",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        145\n        Nombre de suffrages exprimés                137\n        Majorité absolue                        69\n                Pour l’adoption                125\n                Contre                12"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La proposition de loi est adoptée.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Je veux vous remercier pour l’état d’esprit dans lequel s’est déroulé l’examen de ce texte. Madame Goulet, s’agissant des accidents pouvant survenir à la suite d’un don, la vérification avait été faite : c’est la responsabilité civile de chaque agent qui sera engagée.\nNous avons essayé de trouver un équilibre dans ce texte. Afin de ne pas trop léser les chefs d’entreprise, nous leur avons laissé la possibilité, en cas d’impératif, par exemple lorsque leur carnet de commandes est particulièrement chargé, de refuser la demande d’un employé. Mais, parce qu’il y a effectivement un enjeu de souveraineté sanitaire, nous avons introduit ce dispositif pour favoriser le don du sang.\nPour que l’EFS propose des créneaux supplémentaires, il faut qu’il ait davantage de personnel, c’est-à-dire davantage de moyens."
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "On pourrait aussi décaler ses horaires d’ouverture !"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Je vous invite donc, madame Goulet, à demander à François Bayrou de donner davantage de moyens à l’Établissement français du sang. (Applaudissements sur plusieurs bancs des groupes DR et SOC.)"
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je tiens à remercier le rapporteur pour cette proposition de loi de bon sens, qui envoie un message positif à l’ensemble des bénévoles de nos associations de don du sang : cela va les aider à mobiliser les donneurs potentiels. Elle adresse également un message important à la communauté des soignants, puisqu’elle leur garantit qu’ils pourront désormais disposer de stocks de sang suffisants. Elle contribuera enfin, et c’est peut-être son but essentiel, à la souveraineté de la France en la matière, puisque nous dépendons actuellement à 70 % des États-Unis pour nos stocks de sang. Nous faisons confiance à la sagesse du Sénat pour trouver une voie de passage et pour garantir le meilleur équilibre entre la protection des entreprises et l’incitation des salariés à donner leur sang."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures quarante-cinq, est reprise à vingt-deux heures cinquante.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780083",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi de M. Stéphane Viry et plusieurs de ses collègues visant à exercer l’accès à l’emploi, pérenniser et étendre progressivement l’expérimentation Territoires zéro chômeur longue durée comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (nos 1326, 1484)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3780326",
+      "valeurPtsOdj": "2",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Stéphane Viry, rapporteur de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Stéphane Viry",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA721474",
+          "texte": "L’accès à l’emploi est un droit. Il est au cœur du pacte républicain. Ce n’est ni un luxe ni une faveur, mais une exigence constitutionnelle. Pourtant, nous le savons, des centaines de milliers de nos concitoyens en sont durablement privés : des femmes et des hommes que nous croisons chaque jour, désocialisés parfois, oubliés souvent. Pour eux, pour leur dignité, pour la cohésion de notre société, nous avons le devoir de construire des réponses efficaces, humaines et ancrées dans le réel.\nDes solutions existent. Depuis des années, les politiques publiques de l’emploi ont vu émerger une diversité de pratiques au service de l’insertion professionnelle : entreprises et chantiers d’insertion, associations intermédiaires, entreprises du secteur du travail protégé et adapté, etc. Dans la majorité des cas, ces solutions ont transformé des vies, des territoires et des dynamiques collectives.\nÀ ces dispositifs s’ajoute la solution Territoires zéro chômeur de longue durée (TZCLD). Si elle vient compléter les autres outils d’insertion, elle marque un changement de paradigme : c’est une manière radicalement nouvelle de concevoir l’accès à l’emploi en France, qui part des compétences et des envies des personnes durablement privées d’emploi pour créer des activités utiles localement. Territoires zéro chômeur est le chemin et la réponse pour ces personnes, souvent dans l’impasse, pour lesquelles aucune autre solution n’a été trouvée.\nDix ans d’expérimentation nous ont offert du recul, des rapports, des données, des évaluations et des témoignages. Pas moins de quatre rapports indépendants analysant les effets du projet sur l’emploi, le bien-être des bénéficiaires et les dynamiques économiques locales ont été publiés.\nLe comité scientifique de l’expérimentation a livré une analyse détaillée de celle-ci dans son rapport final remis en avril 2021. Sans ambiguïté, il relève que les structures Territoires zéro chômeur ont « contribué à améliorer la trajectoire en emploi, et plus largement, le bien-être des bénéficiaires ». Le comité souligne en particulier le rôle structurant du contrat à durée indéterminée, qui offre un horizon de stabilité nécessaire à la reconstruction des parcours de vie.\nQuand l’emploi revient dans la maison, toute une chaîne dynamique de dignité et de projection se remet en marche. (Applaudissements sur quelques bancs du groupe LFI-NFP.) L’école redevient possible pour les enfants. Voilà ce que permet Territoires zéro chômeur : pas seulement un CDI, mais aussi un retour dans la société.\nLe projet a aussi été évalué par l’Inspection générale des affaires sociales (Igas), la direction de l’animation de la recherche, des études et des statistiques (Dares), le Conseil économique, social et environnemental (Cese) et la Cour des comptes. Les résultats sont cohérents : là où Territoires zéro chômeur s’est implanté avec un consensus local fort, il a permis de réduire significativement le chômage. (M. Gabriel Amard applaudit.) Ce consensus est la clé.\nLes quelques cas d’échec – soyons honnêtes, il y en a eu – confirment l’exigence de la méthode : là où on a voulu aller trop vite, sans préparer le terrain, sans construire l’adhésion, le projet n’a pas trouvé sa place. Cela démontre un point essentiel : Territoires zéro chômeur n’est pas un dispositif clé en main et généralisable, mais une démarche territoriale exigeante, qui suppose une mobilisation forte et une coordination locale solide.\nJe peux en témoigner personnellement, car dans ma circonscription, à Thaon-les-Vosges, un dispositif Territoires zéro chômeur est actif. J’ai suivi, étape par étape, la naissance et la mise en œuvre de ce projet avant d’en observer les effets positifs. J’ai vu les regards se transformer, la confiance renaître, les trajectoires se redessiner. Là-bas, chez moi, des femmes et des hommes ont retrouvé une place, une volonté de travailler, une dignité. (Applaudissements sur plusieurs bancs des groupes LFI-NFP et DR.)\nCela, aucun bilan financier ne peut le quantifier en termes budgétaires."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Stéphane Viry",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721474",
+          "texte": "Ce que j’ai vu à Thaon-les-Vosges et ailleurs en France ne se borne pas à un dispositif : c’est une dynamique humaine et une force collective, c’est tout simplement notre promesse républicaine en action !\nC’est pourquoi le texte dont nous débattons ne généralise pas mécaniquement le projet. Il ne vise pas à rendre son extension obligatoire, mais à ouvrir la possibilité à de nouveaux territoires volontaires de candidater, avec un cahier des charges strict, une gouvernance claire et un pilotage assuré par l’État. Je le redis, le ministère du travail conserve sa compétence d’habilitation, le budget reste encadré par la loi de finances et aucune dépense ne sera engagée sans validation préalable. Nous garantissons ainsi une montée en charge progressive, maîtrisée et responsable.\nLoin d’être un simple copier-coller des lois de 2016 et 2020, le texte que je vous propose est le fruit d’un travail de fond, mené avec les parlementaires, les collectivités, les associations, les partenaires sociaux et le secteur de l’insertion. Il prend en compte les évolutions législatives, notamment la loi pour le plein emploi adoptée en 2023.\nÀ ce jour, Territoires zéro chômeur n’est plus une initiative marginale mais un des outils de la stratégie nationale, reconnu par France Travail comme un levier complémentaire pour accompagner les personnes durablement privées d’emploi et soutenu à ce titre. La proposition de loi intègre pleinement cette solution au sein du réseau pour l’emploi en France. Dans les territoires concernés, Territoires zéro chômeur participera désormais aux comités départementaux de l’emploi ; il sera représenté dans les structures locales de gouvernance et cohabitera en bonne intelligence avec les autres acteurs de l’insertion. Loin de se substituer à l’existant, il le complète. Ceux qui pilotent le projet agissent aux côtés de l’insertion par l’activité économique (IAE), de France Travail et des départements. L’expérimentation s’insère dans une logique d’ensemble, dans une dynamique de coopération territoriale.\nLe texte que je vous présente, enrichi en commission, renforce la place des départements, chefs de file de l’action sociale et cofinanceurs historiques des entreprises à but d’emploi (EBE), pour en faire des acteurs essentiels du dispositif Territoires zéro chômeur. Afin de mieux tenir compte de leurs contraintes budgétaires, le texte ouvre la voie à une modulation de leur participation financière. En tant qu’élu départemental, je mesure en effet les pressions que subissent nos collectivités et je souhaitais introduire la possibilité d’une participation réduite des départements tout en autorisant l’implication d’autres collectivités volontaires.\nLe texte précise la gouvernance du projet : les comités locaux pour l’emploi, véritables chevilles ouvrières réunissant tous les acteurs – élus, entreprises, citoyens, associations – conservent leur rôle central. Cette méthode de gouvernance partagée, démocratique et décentralisée constitue une des grandes innovations de Territoires zéro chômeur ; elle permet de construire des solutions locales, concrètes, adaptées aux besoins et compétences disponibles et de garantir que les emplois créés répondent à des besoins non couverts sans entrer en concurrence ni avec le marché local ni avec les structures d’insertion existantes.\nDepuis 2017, plus de 9 000 personnes ont été embauchées grâce au projet. Actuellement, 3 900 personnes sont en CDI dans des EBE ; elles occupent des emplois durables, utiles et complémentaires.\nLa réussite de Territoires zéro chômeur est celle d’un projet venu de la société civile, un projet citoyen, incarné par des militants, des hommes et des femmes qui croient aux hommes et aux femmes. Cette expérience est née d’un travail de fond conduit par ATD Quart Monde, Emmaüs, la Fédération des acteurs de la solidarité (FAS), le Secours catholique et le Pacte civique. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Le dispositif a été accueilli à bras ouverts par des territoires en quête de solutions et soutenu par des élus de toutes sensibilités. (Mme Émilie Bonnivard applaudit.) Deux fois déjà, en 2016 et en 2020, le Parlement s’est prononcé à l’unanimité à son sujet, d’abord pour lui donner vie, puis pour prolonger son action. Loin de chercher à cliver, le texte vise à rassembler autour d’une conviction commune : en France, personne n’est inemployable."
+        },
+        {
+          "orateur": "Mme Anaïs Belouassa-Cherifi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841657",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. Stéphane Viry",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721474",
+          "texte": "Chers collègues, si nous n’agissons pas, l’expérimentation Territoires zéro chômeur pourrait s’arrêter : en juin 2026, sans nouvelle loi, le projet perdra sa base juridique. Concrètement, cela signifie qu’il ne sera possible ni de créer de nouveaux emplois ni de maintenir les CDI des 3 900 salariés employés dans un dispositif désormais privé de cadre légal. Ce serait un plan social par défaut, un retour en arrière brutal pour des milliers de personnes, un gâchis humain, économique et social que nous ne nous résolvons pas à envisager.\nCertains s’interrogent peut-être sur le dépôt de cette proposition de loi au printemps 2025 alors que nous ne disposons pas encore de l’évaluation complète de l’expérimentation. Il ne s’agit pas de précipitation, mais d’une anticipation responsable pour sécuriser un dispositif qui fonctionne et éviter ainsi un gâchis social. L’urgence politique est bien réelle.\nPermettre à Territoires zéro chômeur d’entrer dans le droit commun, c’est répondre à l’exclusion par l’intelligence collective, donner une chance à chaque territoire et faire vivre ce droit à l’emploi, inscrit dans notre Constitution, dont trop de nos concitoyens attendent encore la concrétisation. C’est enfin affirmer qu’aucun Français ne doit être laissé de côté.\nCe soir, il est temps de transformer l’essai, de faire de cette belle expérimentation une politique publique à part entière, de choisir la continuité, la cohérence et le courage. Ensemble, pour l’emploi et la dignité de ces hommes et de ces femmes, pour la République, adoptons cette proposition de loi ! (Applaudissements sur les bancs des groupes LFI-NFP, SOC, DR, EcoS, HOR et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme la ministre chargée du travail et de l’emploi."
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre chargée du travail et de l’emploi",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Il y a neuf ans, le Parlement votait la loi du 29 février 2016 créant l’expérimentation Territoires zéro chômeur de longue durée dans dix territoires habilités et lançait ainsi un dispositif innovant pensé et forgé par des acteurs de terrain confrontés au chômage de masse et à l’exclusion économique.\nCette loi d’initiative parlementaire couronnait plusieurs années d’un travail collectif mené par des acteurs importants de la solidarité : ATD Quart Monde, le Secours catholique et Emmaüs France. Je pense aussi à Patrick Valentin, qui fut l’un des initiateurs de l’expérimentation dans le Maine-et-Loire dès les années 1990 et demeure son infatigable promoteur. Ancien député de la Côte-d’Or, Laurent Grandguillaume fut lui aussi un artisan tenace de cette idée et de ce projet. Sa proposition de loi fut votée à l’unanimité dans les deux chambres, avec des majorités pourtant très différentes.\nEn 2020, d’autres parlementaires ayant pris le relais, l’Assemblée et le Sénat votaient, une fois encore à l’unanimité, la poursuite et l’extension de l’expérimentation dans au moins soixante territoires. Le gouvernement a accompagné ce processus – en mars dernier, il a encore habilité de nouveaux territoires. Au total, quatre-vingt-trois territoires sont aujourd’hui habilités, le terme de l’expérimentation étant fixé pour tous au 30 juin 2026.\nBien en amont de cette échéance, la proposition de loi débattue aujourd’hui prévoit de pérenniser le dispositif, qui sortirait ainsi du cadre expérimental. J’adresse une amicale salutation à Stéphane Viry, dont je sais la conviction et l’engagement à défendre ce texte.\nLe principe comme le fonctionnement de Territoires zéro chômeur de longue durée sont connus : sur un territoire donné, un comité local pour l’emploi identifie les personnes privées d’emploi volontaires pour travailler et les possibilités d’emploi classique ou en insertion. En lien avec celui-ci, une EBE est créée et, dans le cadre d’activités non-concurrentielles, embauche en CDI les personnes sans solution, selon un principe d’exhaustivité.\nLa démarche est originale et intéressante : elle consiste à partir des personnes et non des postes,…"
+        },
+        {
+          "orateur": "M. Gabriel Amard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794906",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "…à mobiliser les dépenses dites passives pour favoriser le travail et à développer des activités utiles complémentaires à celles des entreprises du territoire. Le financement est public et assuré principalement par l’État, avec le concours des départements, selon plusieurs modalités. L’État verse une contribution au développement de l’emploi, avec la participation des départements.\nLes EBE perçoivent également une dotation d’amorçage pour accompagner la création d’emplois supplémentaires et peuvent percevoir un complément temporaire d’équilibre destiné à combler leur déficit courant d’exploitation.\nPersonne ne peut être insensible aux principes qui guident Territoires zéro chômeur. J’ai la conviction profonde qu’il y a une place pour chacun dans notre économie – et une place pour chacun dans ce monde, tout simplement – et que le travail est une source inégalable d’être au monde, d’estime de soi et d’altérité.\nAlors que le dispositif prendra fin, selon la loi, en juin 2026, se pose évidemment la question de son avenir. L’un des aspects les plus structurants de cette expérimentation est le principe de son évaluation. La Cour des comptes devrait rendre prochainement un rapport sur le dispositif. Surtout, comme prévu par la loi, un comité scientifique indépendant, présidé par l’économiste Yannick L’Horty, publiera une évaluation approfondie dans quelques semaines, à la fin de l’été.\nAprès dix ans, il me semble difficile d’envisager une nouvelle prolongation de l’expérimentation sans évaluation. Sur la base des évaluations qui, encore une fois, seront prêtes dans les prochains mois, voire les prochaines semaines, il sera pertinent de se poser la question de la pérennisation de Territoires zéro chômeur – et des conditions de celle-ci.\nCette proposition de loi intervient avant la remise de ces évaluations. Je le regrette profondément, car vous êtes non seulement législateurs mais aussi contrôleurs et évaluateurs.\nLe débat est cependant toujours utile. Je voudrais donc partager avec vous les réelles interrogations que soulève ce dispositif, particulièrement dans la perspective d’une pérennisation. La proposition de loi qui nous est présentée ne me semble pas suffisamment tenir compte de plusieurs éléments.\nJ’évoquerai tout d’abord la philosophie du dispositif. En s’adressant sensiblement au même public en difficulté, les EBE proposent des contrats à durée indéterminée et offrent une approche très différente de celle des autres opérateurs de l’insertion. Sur les mêmes territoires, auprès des mêmes populations, les opérateurs de l’IAE – auxquels plusieurs députés sont aussi très attachés – recrutent des personnes en CDD avec un objectif clair : le retour vers l’emploi ordinaire. C’est d’ailleurs sur ce critère de l’insertion ou de la réinsertion professionnelle à six mois ou un an qu’ils sont évalués – et je peux vous assurer que j’y veille avec soin.\nLes EBE sont particulièrement attentives au recrutement, mais aucun objectif ne leur est fixé et aucun indicateur explicite d’insertion n’est appliqué. En effet, le dispositif repose sur un principe d’embauche en CDI, qui peut jouer un rôle très positif en termes de réinsertion, de sécurisation du parcours et de capacité à se projeter. Il faut néanmoins admettre l’existence d’un risque inhérent : celui d’éloigner le retour effectif dans une entreprise classique et une sortie du dispositif grâce à un emploi ordinaire.\nJe ne remets pas en cause ces principes, complémentaires à ceux de l’insertion par l’activité économique, surtout en l’absence d’évaluation complète.\nEn revanche, la concurrence des modèles, particulièrement néfaste, risquerait de déséquilibrer notre modèle d’insertion, qui est déjà fragilisé. Comment demander à des dirigeants et à des encadrants de l’IAE de faire davantage d’insertion avec autant sinon moins de moyens si des EBE voisines peuvent se développer en dehors de ces objectifs et de ces contraintes ? (M. Gabriel Amard proteste.) Comment éviter que des personnes qui, avec un parcours en insertion ou un accompagnement de trois ou six mois par France Travail, pourraient rejoindre l’économie classique, soient embauchées trop vite en EBE, avec à la clé une perte de compétences pour les entreprises – sans parler du gâchis d’argent public ?"
+        },
+        {
+          "orateur": "Mme Anaïs Belouassa-Cherifi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841657",
+          "texte": "Gâchis ?"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Il me semble possible de prévenir ces travers, mais cela appelle une grande vigilance pour assurer aussi bien l’équité entre les structures que la bonne articulation entre les modèles.\nC’est précisément pour cette raison que le gouvernement est favorable à une véritable territorialisation d’un dispositif encore marqué par une forme de centralisme. La loi pour le plein emploi tend à confier, autant que possible, les clés des politiques de l’emploi aux acteurs territoriaux qui sont les mieux placés pour connaître les problèmes à résoudre et décider d’une stratégie et de la meilleure allocation des moyens. C’est le rôle des comités territoriaux pour l’emploi – que vous connaissez tous –, à tous les échelons, dotés de nouvelles missions, de nouveaux outils de pilotage et d’une plus grande autonomie dans l’allocation de leurs moyens.\nOr Territoires zéro chômeur est encore trop isolé par rapport à ces dynamiques. Les territoires sont habilités sur la base de décisions nationales et si l’initiative est incontestablement territoriale, la décision, elle, ne l’est pas réellement. Le principe d’exhaustivité les inscrit dans une logique de guichet plutôt que de responsabilité territoriale.\nConcrètement, il est indispensable que la pérennisation s’inscrive dans un conventionnement pluriannuel comparable à celui dont bénéficient les opérateurs de l’IAE et les entreprises adaptées dans le champ du handicap – lesquelles recrutent elles aussi principalement en CDI, ce qui montre qu’un tel modèle est possible. Ainsi, le préfet et le président du conseil départemental ou de la collectivité volontaire pourraient être demain les autorités décisionnaires, en pleine responsabilité.\nIl y a là, je crois, une vraie chance de pleinement territorialiser cet outil et de responsabiliser les territoires, en cohérence avec la réforme du plein emploi et le déploiement des comités territoriaux pour l’emploi.\nLes pistes évoquées dans la proposition de loi sont intéressantes mais ne me semblent pas totalement satisfaisantes. Elles risquent de fabriquer une nouvelle complexité au moment où tous les acteurs travaillent à la mise en cohérence, sur une base locale, des politiques de l’insertion et de l’emploi.\nEnfin, il nous faut soulever la question de la soutenabilité d’un modèle économique et social qui consiste à solvabiliser des emplois par de la ressource publique. Le coût budgétaire du dispositif a été multiplié par plus de cinq en quatre ans, passant de 13 millions d’euros en 2021 à 70  millions cette année. Si l’augmentation du nombre de territoires et d’EBE explique en partie cette croissance, ce montant représente, d’un point de vue budgétaire, plus de 28 000 euros par équivalent temps plein.\nLe principe d’une neutralité – ou d’une quasi-neutralité – budgétaire par l’activation des dépenses passives et la mobilisation des coûts évités doit faire l’objet d’une discussion sincère. Or, je le dis très clairement, il n’a jamais été démontré de manière indépendante.\nIl me semble donc indispensable d’attendre l’évaluation publiée dans quelques mois avant d’envisager une généralisation. En octobre 2019, un rapport conjoint de l’Inspection générale des finances (IGF) et de l’Inspection générale des affaires sociales constatait que la neutralité budgétaire n’était pas au rendez-vous. Dans un contexte de redressement impératif de nos finances publiques, le soutien de l’État ne peut se faire au guichet, selon un principe d’exhaustivité qui est difficilement tenable, tant pour l’État que pour les départements tenus de cofinancer le dispositif, sans évaluation préalable.\nÀ ce stade de la discussion, en gardant à l’esprit l’échéance du 30 juin 2026, il me semble raisonnable d’attendre les résultats des deux évaluations pour pouvoir prendre en compte leurs propositions. ( M. Gabriel Amard et Mme Marie Mesmeur s’exclament.)\nCohérence de l’action publique, territorialisation, soutenabilité budgétaire : ces trois aspects clés d’une pérennisation réussie doivent être traités en amont.\nJe l’ai dit, cette proposition de loi intervient trop tôt. Le soutien de l’Assemblée et du Sénat est connu, mais il me semble dommage d’engager l’examen parlementaire alors que la réflexion n’est pas allée jusqu’à son terme. Nous restons dans l’attente de l’éclairage qu’apporteront les deux évaluations évoquées."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "On a compris !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Des amendements importants ont été adoptés en commission. D’autres, déposés en séance publique, peuvent contribuer à affiner de manière pertinente le dispositif mais je considère que si la discussion est utile, l’adoption de cette proposition de loi serait prématurée.\nVos délibérations doivent nous permettre de baliser le chemin et de prendre date avant de décider d’aller au bout du processus – si les évaluations nous y invitent – en proposant un dispositif robuste et cohérent qui pérenniserait Territoires zéro chômeur de longue durée comme l’un des outils importants de notre politique de l’emploi. (Applaudissements sur les bancs des groupes EPR et Dem. – M. Dominique Potier applaudit également.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3779457",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Perrine Goulet."
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "Monsieur le rapporteur, je le dis d’emblée : le groupe Démocrates n’est pas, par principe, hostile à l’expérimentation Territoires zéro chômeur de longue durée ni à votre proposition de loi.\nToutefois, votre texte – même dans sa version issue de la commission – présente à nos yeux des difficultés de forme comme de fond.\nSur la forme, tout d’abord, il intervient avant même le bilan définitif que doivent en dresser d’une part la Cour des comptes et d’autre part le comité scientifique.\nOn ne peut pas dire, comme vous l’avez fait, qu’il est urgent de voter une proposition de loi en raison du risque d’une nouvelle dissolution à l’automne mais que nous aurons le temps de prendre en considération les bilans, à partir de l’été, pour faire évoluer le texte au Sénat ou en deuxième lecture.\nCette cohérence est d’autant plus nécessaire que nous avons le temps, jusqu’à la mi-2026 – voire plus tard si, pour des raisons techniques, nous devions proroger l’expérimentation d’un an ou deux. Il me semble important d’attendre la fin de l’expérimentation, car si nous sommes éclairés, nous pourrons légiférer efficacement."
+        },
+        {
+          "orateur": "Mme Véronique Riotton",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721426",
+          "texte": "Tout à fait d’accord !"
+        },
+        {
+          "orateur": "Mme Perrine Goulet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720560",
+          "texte": "Sur le fond, ensuite, les difficultés sont multiples. La première est d’ordre philosophique. Il faut savoir de quel public nous parlons. Faut-il permettre l’entrée dans un dispositif aussi protecteur que celui-ci après un an de chômage – ce qui est déjà long, j’en conviens – alors que les critères permettant d’accéder au dispositif d’insertion par l’activité économique sont beaucoup plus stricts ? C’est un point sur lequel je crois qu’il faut s’interroger.\nLa seconde difficulté tient à l’articulation entre les dispositifs actuels d’insertion et le dispositif TZCLD. On le voit dans certains territoires, où des acteurs nous rapportent qu’il existe une véritable concurrence entre les dispositifs d’insertion mais aussi entre ces dispositifs et l’économie réelle. Nous risquons donc de créer un système qui se nourrit lui-même et qui, ce faisant, pourrait produire des effets inverses à ceux que l’on recherche en fragilisant des entreprises, en créant des chômeurs et en générant des emplois aidés éligibles aux EBE. Nous devons donc mieux encadrer ce dispositif.\nC’est là que survient la troisième difficulté. Les expérimentations votées par l’Assemblée nationale sont certes limitées dans l’espace et dans le temps, mais je dois vous avouer que vos propos en commission, qui évoquent une population de 3 millions de personnes éligibles à ce dispositif, m’inquiètent. Cela pourrait alimenter une forme de clientélisme politique que je ne souhaite pas voir prospérer. En effet, si le texte était voté dans sa rédaction actuelle, les collectivités locales pourraient demander à bénéficier du dispositif à la faveur d’un acte réglementaire faible et discrétionnaire, sous le contrôle d’un fonds sur la pertinence duquel on peut s’interroger. Des emplois complètement subventionnés, à temps choisi : bref, nous risquons de créer des trappes à pauvreté, dans des territoires pourtant connus pour leur fragilité économique et qui auront d’autant plus de mal à s’en sortir que ces dispositifs se substitueraient à des mutations profondes dont ils ont en réalité besoin et face auxquelles ils doivent être accompagnés.\nJ’en viens enfin à la quatrième difficulté – j’arrête là cette liste, nous aurons le débat pour aller plus loin –, qui est structurelle. La loi pour le plein emploi confie aux territoires le soin d’organiser l’attractivité économique. Cette proposition de loi tend à conforter une structure à l’échelle nationale, qui n’aura de cesse de générer des lourdeurs et va à l’encontre du principe même de la loi pour le plein emploi, que nous avons pourtant tous votée. Si une structure de coordination est nécessaire durant une expérimentation, sa pérennisation dans le cas d’espèce me paraît superfétatoire. Dans la mesure où nous croyons que l’intelligence en matière d’emploi local vient du terrain – nous l’avons montré en votant la loi pour le plein emploi –, nous devons, par cohérence, supprimer l’article 2, qui maintient un fonds d’expérimentation.\nEn conclusion, monsieur le rapporteur, je dirai que l’opinion de chacun sur le dispositif TZCLD dépend de l’endroit d’où il vient et des expériences qu’il a pu faire. Je sais qu’il n’en va pas de même pour tous mes collègues, mais mon expérience dans la Nièvre est très négative. C’est pourquoi nous plaidons pour que le dispositif soit mieux bordé, mieux opéré et, surtout, mieux évalué. En conséquence, le groupe Les Démocrates est pour l’heure particulièrement réservé sur ce texte. Comme je l’ai rappelé, cette position critique concerne le texte dont nous sommes saisis et la volonté de généralisation du dispositif dans les conditions proposées et non, à l’échelle de notre groupe, l’expérimentation en cours, qui doit aller à son terme et que nous avons soutenue. (Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Mickaël Cosson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793520",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. François Gernigon."
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Depuis 2016, l’expérimentation du dispositif TZCLD nous montre qu’il est possible de transformer une idée simple – personne n’est inemployable – en réalité concrète. En partant des personnes durablement privées d’emploi et des besoins locaux, on crée des emplois utiles, dans des EBE, au service des territoires.\nCe dispositif répond d’abord à des situations humaines souvent marquées par l’oubli. Il s’adresse à des femmes et à des hommes que le système a trop longtemps laissés de côté, des personnes frappées par la maladie, la précarité, l’isolement ou des accidents de parcours, qui, parfois depuis des années, vivent sans emploi, sans utilité reconnue, sans lien social. Beaucoup ne croient plus en elles-mêmes, parce qu’elles ont le sentiment que plus personne ne croit en elles. Leur proposer une place, un cadre, un accompagnement bienveillant, ce n’est pas seulement leur redonner un emploi : c’est leur redonner une part de stabilité, de confiance, parfois de dignité.\nJ’ai eu l’occasion d’observer les effets de ce dispositif lors de ma visite de l’EBE Tezea à Pipriac. J’y ai vu des parcours de vie redémarrer, une énergie nouvelle, une fierté retrouvée, des personnes qui redécouvraient, le matin, une raison de se lever et, le soir, la fierté du travail accompli."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Plus de quatre-vingt-dix EBE ont vu le jour. Elles développent des activités qui répondent à des besoins locaux concrets : recyclerie, circuits courts, mobilité solidaire ou encore médiation de proximité. Ce sont autant de services utiles qui irriguent les territoires.\nCertes, le dispositif a un coût, qui s’échelonne entre 22 000 et 28 000 euros par emploi en 2023, contre 18 000 à 20 000 euros pour un accompagnement classique. Il s’agit toutefois d’un investissement dans l’humain, dans la cohésion sociale, dans la vitalité économique de nos territoires. Il serait réducteur de juger ce dispositif à l’aune des seuls chiffres (MM. Gabriel Amard et Dominique Potier applaudissent), sans prendre en compte les effets sociaux et les économies potentielles réalisées en favorisant le travail plutôt qu’en versant le RSA."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "C’est mieux que le Modem !"
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Le groupe Horizons & indépendants salue donc l’ambition dont témoigne ce texte et la volonté d’aller plus loin. Mais on ne peut faire l’économie d’un regard lucide sur les conditions de pérennisation de cette dynamique prometteuse. D’ici à l’automne, une évaluation indépendante menée par la Dares et un comité scientifique sera publiée ; la Cour des comptes remettra un rapport. Ces éléments doivent guider notre action : ils permettront d’objectiver les effets réels du dispositif en matière de retour à l’emploi, de coûts budgétaires, d’impact territorial.\nEn effet, des interrogations demeurent. L’hypothèse de travail selon laquelle le coût des emplois créés serait compensé par les dépenses évitées par la collectivité doit être confirmée. Nous devons également éviter qu’un dispositif ne fragilise, par effet de concurrence, d’autres acteurs de l’insertion – entreprises adaptées ou structures d’insertion par l’activité économique – qui ne bénéficient pas des mêmes moyens.\nNous devons aussi poser les bases d’une territorialisation plus ambitieuse. Le pilotage local est essentiel. À l’heure où les comités territoriaux pour l’emploi ont été renforcés, l’intégration pleine et entière du dispositif TZCLD dans ce nouvel écosystème s’impose. Cela suppose une contractualisation entre préfets, départements et EBE, un cadrage pluriannuel de l’engagement public et une régulation du nombre d’embauches selon les réalités locales.\nEnfin, il est crucial de clarifier les publics visés. Les EBE ne doivent pas devenir une voie par défaut, mais doivent demeurer une solution pour les personnes durablement éloignées de l’emploi. Derrière chaque CDI signé dans une EBE, il y a bien plus qu’un contrat : une vie qui redémarre. C’est ce qui doit continuer à nous guider."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Paul-André Colombani."
+        },
+        {
+          "orateur": "M. Paul-André Colombani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719286",
+          "texte": "Le dispositif TZCLD est né d’un constat aussi simple que préoccupant : en France, plus de 2 millions de personnes sont privées d’emploi depuis plus d’un an. Cela représente 43 % de l’ensemble des chômeurs. Dans le même temps, près de 500 000 emplois ne sont pas pourvus. Ce paradoxe doit nous conduire à nous interroger collectivement : pourquoi, dans une société aussi riche, le droit à l’emploi, pourtant inscrit dans la Constitution, reste-t-il une promesse non tenue ?\nCe chômage de longue durée ne procède pas d’un choix ni d’un manque d’effort individuel. Il est souvent la conséquence d’un enchevêtrement de difficultés : un état de santé mentale fragile, des ruptures familiales, un statut d’aidant, une mobilité réduite ou simplement des années d’errance professionnelle qui ont laissé des marques. Ces situations appellent des réponses spécifiques, adaptées, humaines.\nC’est dans cet esprit qu’est née l’expérimentation du dispositif TZCLD, promue par des associations et des élus locaux, et soutenue ici par notre ancien collègue Laurent Grandguillaume, que je salue. Elle se fonde sur une idée simple mais audacieuse : personne n’est inemployable et il existe sur chaque territoire des travaux utiles que l’on peut réaliser sans empiéter sur les emplois existants.\nCette expérimentation s’est déployée dans quatre-vingt-trois territoires. Elle a permis la création d’EBE, qui embauchent en CDI des personnes éloignées de l’emploi pour mener à bien des activités utiles localement : services à la personne, recyclage, agriculture ou encore entretien d’espaces verts. Les résultats sont là. Le dispositif a démontré toute son utilité et ses bienfaits concrets, tant pour les personnes embauchées dans les EBE que pour les territoires où il s’est déployé. Ces résultats ne se limitent pas au seul retour à l’emploi ou à l’amélioration des revenus. En effet, le dispositif agit en profondeur, en générant des externalités positives majeures : pour les personnes concernées, d’abord, c’est l’accès à une complémentaire santé, la reconstruction de l’estime de soi, la reconquête d’un rôle utile dans la société ; pour la collectivité, ensuite, ce sont des effets mesurables – réduction des dépenses sociales, moindre recours à l’assurance maladie – et un impact fort en termes de cohésion sociale dans les territoires. (Mme Zahia Hamdane applaudit.)\nL’expérimentation arrive à échéance en 2026. C’est pourquoi nous proposons de pérenniser le dispositif afin d’apporter de la stabilité aux territoires engagés et d’ouvrir la porte à de nouveaux projets. (Mme Anaïs Belouassa-Cherifi applaudit.) La proposition de loi que nous défendons préserve les fondamentaux du modèle, tout en tirant les leçons de l’expérimentation. Elle prévoit notamment le renforcement du rôle des comités locaux, désormais appelés comités pour le droit à l’emploi, qui seront dotés d’un pouvoir de coordination réel et d’une voix délibérative dans le réseau public de l’emploi, ce qui constitue une reconnaissance institutionnelle attendue. Elle prévoit également des modalités plus souples de financement des projets, en permettant à la collectivité territoriale porteuse d’un projet, qu’il s’agisse d’une intercommunalité, d’une métropole ou d’une autre collectivité, de le financer aux côtés ou à la place du département. Il s’agit d’un levier pragmatique, susceptible de lever bien des obstacles lors de la phase de lancement.\nNotre groupe est convaincu que la réussite du dispositif dépendra des moyens qui lui seront alloués. C’est pourquoi nous nous mobilisons chaque année, lors des débats budgétaires, pour augmenter les crédits consacrés à ces politiques de l’emploi innovantes. Car sans moyens, les meilleures idées restent des vœux pieux. Ce texte traduit notre confiance dans l’intelligence des territoires, notre foi dans la valeur du travail pour tous et notre volonté de ne laisser personne de côté. Soutenir cette proposition de loi, c’est donner corps à un principe constitutionnel resté trop longtemps lettre morte. C’est faire vivre concrètement le droit à l’emploi ! (Applaudissements sur les bancs du groupe LIOT et sur quelques bancs du groupe SOC. – Mme Marie Pochon applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Le dispositif TZCLD, lancé en 2016 sous l’impulsion du mouvement ATD Quart Monde et de diverses associations de lutte contre la pauvreté et l’exclusion sociale, avait pour objectif de rendre effectif le droit d’obtenir un emploi, un principe énoncé dans le préambule de la Constitution de 1946.\nCette ambition a encore tout son sens au regard de l’état de notre pays, gangrené par un chômage qui ne diminue pas et qui est voué à s’accroître par le déferlement sans précédent de plans de licenciement. Madame la ministre, les chiffres sont implacables : 5,5 millions de chômeurs pour moins de 500 000 emplois disponibles. À cette crise de l’emploi et de l’emploi durable et de qualité s’ajoute la fragilisation, orchestrée par les gouvernements d’Emmanuel Macron, des personnes privées d’emploi, notamment les plus précaires d’entre elles, qui peinent d’autant plus à retrouver facilement un emploi qu’elles sont sans cesse davantage stigmatisées et enfermées dans un goulet d’étranglement.\nOr la force et l’ingéniosité du dispositif TZCLD résident en ce qu’il a précisément réussi à imposer un changement de paradigme social et économique dans les territoires où il a fait l’objet d’une expérimentation. L’idée sous-jacente au dispositif est en effet de partir des territoires, de leurs spécificités, de leurs capacités à développer de nouvelles activités sociales et solidaires en fonction des compétences et des appétences des personnes durablement privées d’emploi. Les deux expérimentations successives ont permis de démontrer que ce modèle social et économique alternatif fonctionne et peut être viable dès lors qu’une volonté politique ferme le soutient.\nC’est ce dernier point qui me paraît essentiel et qu’il faut encore conforter. Je ne peux que soutenir la pérennisation de ce dispositif, mais je ne voudrais pas que la proposition de loi entérine des modalités de fonctionnement vouées à l’échec à court terme. Ce serait un désastre pour les travailleurs et les territoires engagés dans la démarche, et une énorme déception pour ceux qui ambitionnent d’instaurer ce dispositif. En effet, le choix d’offrir un accompagnement sur mesure à des personnes durablement privées d’emploi par le recours à l’économie sociale et solidaire a un coût.\nLa logique développée par le mouvement ATD Quart Monde reposait sur l’idée que les dépenses de l’État et des collectivités pour ce dispositif seraient compensées par les économies réalisées sur l’ensemble des coûts sociaux induits par la privation d’emploi, notamment sur le RSA. En réalité, nous savons bien que les transferts de budgets ne s’établissent pas de manière aussi simple. De ce point de vue, je regrette que nous ne disposions pas, au moment d’examiner cette proposition de loi, du bilan final du comité scientifique chargé notamment de nous instruire plus précisément sur le coût du dispositif pour les finances publiques et sur les externalités positives constatées. Mais même en l’absence de ce bilan, il me semble que ce dispositif repose sur un principe non négociable : il s’inscrit dans le cadre des politiques publiques pour l’emploi et doit à ce titre être soutenu par l’État.\nOr l’implication financière de l’État est tout sauf assurée. Elle s’est montrée fluctuante ; elle est même à la baisse depuis le 1er octobre 2024. Comme celle des départements était largement accrue, cela a précipité l’abandon de certaines candidatures au dispositif ou freiné des recrutements dans les EBE. Si l’AMF, l’Association des maires de France et des présidents d’intercommunalité, s’est déclarée favorable à une généralisation du dispositif, elle a toutefois indiqué qu’il est indispensable que le financement étatique ne diminue pas. Mais dans une période où le gouvernement entend réaliser 8 milliards d’euros d’économies cumulées et permanentes sur les dépenses locales sur la période 2025-2027, une réelle incertitude pèse sur l’implication à venir de l’État et sur les moyens des départements comme des autres collectivités, elles-mêmes déjà exsangues.\nEn commission, le rapporteur nous a fait part de sa volonté de ramener le montant de la contribution obligatoire des départements à 8 % du montant de celle de l’État, contre 15 % aujourd’hui. Mais le texte ne fixe aucun pourcentage et ne modifie en rien le dispositif existant. En conséquence, tout dépendra du décret à venir et donc du bon vouloir du gouvernement. Par ailleurs, aux yeux du rapporteur, la diminution de la contribution obligatoire des départements n’a pas pour finalité d’augmenter la participation de l’État, mais d’inciter les entreprises à lucrativité limitée à rechercher des financements externes par le développement de leurs activités. Je m’interroge, car cette démarche contrainte de rentabilité m’apparaît contraire aux fondements mêmes de ces entreprises relevant de l’économie sociale et solidaire. Sans un engagement ferme du gouvernement à soutenir les besoins des dispositifs mis en œuvre et de ceux qui émergent, le risque est donc de voir disparaître progressivement une initiative pourtant novatrice et ambitieuse.\nDans ce contexte, nous voterons la proposition de loi, en espérant que les clarifications nécessaires concernant son financement seront apportées dans le cadre des prochaines lois de finances. (Applaudissements sur plusieurs bancs du groupe EcoS. – M. Gérard Leseul applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Bernard Chaix."
+        },
+        {
+          "orateur": "M. Bernard Chaix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840701",
+          "texte": "En 2024, selon l’Insee, 544 000 Français étaient chômeurs de longue durée. Derrière ce chiffre, il y a des vies suspendues, des destins freinés. Quand un pays laisse autant de ses citoyens sur le bord de la route, ce sont sa cohésion, sa santé et sa croissance qui vacillent. Le chômage de longue durée constitue une triple peine : une atteinte à la dignité et à la santé du travailleur, un poids lourd pour notre système de protection sociale et un vrai frein à notre dynamisme économique. Parmi les personnes touchées, 60 % estiment que leur santé s’est dégradée à cause du chômage, plus d’un tiers constatent que leur maladie s’aggrave et un quart développent de nouvelles pathologies. On ne parle pas ici d’un simple accident de parcours : il s’agit d’une spirale de fragilités. À cela s’ajoutent les blessures invisibles : perte de confiance, isolement, sentiment d’inutilité. Le chômage de longue durée brise des trajectoires de vie. Enfin, il représente une perte sèche de compétitivité pour l’économie, entraînant une diminution du produit intérieur brut en raison de la sous-utilisation de la main-d’œuvre disponible. Le groupe UDR le dit clairement : la lutte contre ce fléau est une urgence nationale, politique, sociale et économique.\nLe dispositif que nous examinons ce soir a fait l’objet d’un vote unanime à deux reprises, en 2016 et en 2020. Cela prouve que quand la cause est juste, la République sait se rassembler. Nous saluons la méthode : expérimenter avant de généraliser, observer avant d’imposer, corriger avant d’étendre. Voilà une démarche pragmatique, lucide et respectueuse de l’intelligence collective. Assez des lois trop vastes, trop floues, assez de ces belles promesses qui détricotent la réalité du terrain ! Toutefois, que ce dispositif demeure à sa juste place, c’est-à-dire un dispositif d’incitation : chaque euro investi doit produire de la valeur réelle, pas un effet d’affichage. La France a déjà trop souffert des contrats aidés sans lendemain, créés à coups de milliards pour masquer l’échec et non pour construire l’avenir. Il n’y a pas d’argent public : il n’y a que celui des Français.\nLe groupe UDR souligne son attachement à la liberté économique. L’État a toute sa place au sein d’une économie en bonne santé lorsqu’il s’attaque aux défaillances du marché ou qu’il corrige des inégalités temporaires. En revanche, lorsque par l’excès de prélèvements obligatoires, par des normes démultipliées ou par une mauvaise orientation de l’argent prélevé sur les contribuables, il assèche les dynamiques de nos entreprises, de nos travailleurs et de nos entrepreneurs, il obtient l’effet inverse à celui recherché. Le groupe UDR votera ce texte dans un esprit responsable, mais également avec vigilance. (Applaudissements sur de nombreux bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Gaëtan Dussausaye."
+        },
+        {
+          "orateur": "M. Gaëtan Dussausaye",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842073",
+          "texte": "Le chômage de masse, on le sait, est un mal dont la France peine à se défaire. Elle détient aujourd’hui le sixième plus fort taux de chômage parmi les vingt-sept pays membres de l’Union européenne – triste record. La promesse de plein emploi formulée par le président de la République Emmanuel Macron en 2017 n’a jamais été tenue ; des millions de Français ont ainsi été abandonnés dans l’angle mort des décisions publiques.\nNotre pays souffre d’une absence de courage en matière de lutte contre le chômage et d’une absence de volonté : pas de volonté pour empêcher les délocalisations, pas de volonté pour stopper la multiplication des plans de licenciement, pas de volonté pour restaurer un prix français de l’énergie et ainsi garantir une compétitivité à nos acteurs économiques, pas de volonté pour protéger les productions françaises et donc nos emplois face à la concurrence internationale déloyale, pas de volonté pour assurer un carnet de commandes bien rempli à nos entreprises françaises, notamment par le biais d’une priorité nationale dans l’accès à la commande publique, pas de volonté non plus pour lever tous les freins à la réindustrialisation, c’est-à-dire tous les freins à la création de l’emploi en France, en mettant fin à l’ivresse normative et à l’écologie punitive.\nNombre de nos compatriotes, j’en ai l’intime conviction, sont aujourd’hui très impatients de voir le règne d’Emmanuel Macron arriver à son terme."
+        },
+        {
+          "orateur": "M. Sébastien Humbert",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842085",
+          "texte": "Ah oui !"
+        },
+        {
+          "orateur": "M. Gaëtan Dussausaye",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842073",
+          "texte": "Nous aussi, évidemment ! Dans l’attente de la nécessaire alternance patriote nationale incarnée par Marine Le Pen et Jordan Bardella (Applaudissements sur les bancs du groupe RN. – Exclamations sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Elle ne peut pas, elle est condamnée !"
+        },
+        {
+          "orateur": "M. Gaëtan Dussausaye",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842073",
+          "texte": "… je souhaite que l’on puisse acter le plus rapidement possible la pérennisation dans la loi du dispositif Territoires zéro chômeur de longue durée."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "On peut le financer, avec vos 4 millions !"
+        },
+        {
+          "orateur": "M. Gaëtan Dussausaye",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842073",
+          "texte": "Ce dispositif, on le sait, n’a pas l’ambition de répondre au problème du chômage dans sa globalité, lequel repose davantage, comme nous venons de le voir, sur des enjeux macroéconomiques et sur des enjeux structurels. Mais il a au moins le mérite de défendre une idée juste, une idée simple, une idée profondément humaine : il faut tout faire pour permettre aux plus éloignés de l’emploi de retrouver leur place dans la société par le travail. Ce dispositif, en expérimentation depuis 2016, a montré une vertu principale : il repose sur une conviction que nous partageons et qui est au cœur des idées du Rassemblement national, à savoir que nul n’est inemployable pour peu qu’on adapte l’offre à la réalité du terrain, à la réalité de l’humain, et non l’inverse. Voilà donc le message que nous adressons à nos concitoyens, à ces Français qui ne sont ni des assistés, ni les responsables directs de leur situation, mais bel et bien les victimes, ainsi que leurs descendants, des plans sociaux, les victimes des désindustrialisations à marche forcée, les victimes de gouvernements qui ont eu comme principal tort de ne jamais voir en réalité des hommes, mais uniquement des chiffres.\nNous participerons évidemment à ce débat avec beaucoup de vigilance et beaucoup d’intelligence, deux grandes vertus du Rassemblement national. (Exclamations et rires sur plusieurs bancs des groupes LFI-NFP et EcoS.) À travers nos amendements, nous insisterons sur deux impératifs.\nPremier impératif : centrer le dispositif sur les personnes durablement privées d’emploi, car si on prend le risque de l’élargissement, on peut facilement confondre l’action sociale bienvenue parce que nécessaire avec un dirigisme quasiment socialiste multipliant les emplois subventionnés, c’est-à-dire des emplois non durables.\nSecond impératif : s’assurer que le dispositif Territoires zéro chômeur de longue durée soit un véritable pied à l’étrier pour une réinsertion durable, une réinsertion qui valorise les compétences, car ce dispositif ne doit pas être une fin en soi.\nPour conclure,…"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Pour prolonger votre caricature !"
+        },
+        {
+          "orateur": "M. Gaëtan Dussausaye",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842073",
+          "texte": "…permettez-moi tout de même une petite remarque sur la méthode suivie, monsieur le rapporteur. Cette proposition de loi est dite transpartisane, mais je constate qu’elle ne l’est pas vraiment : parmi tous ses signataires, il manque les députés du premier groupe de l’Assemblée nationale, à savoir le Rassemblement national."
+        },
+        {
+          "orateur": "Plusieurs députées du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Bah oui !"
+        },
+        {
+          "orateur": "M. Gaëtan Dussausaye",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842073",
+          "texte": "Je regrette cette manière de faire, parce que vous ne prenez pas seulement la responsabilité d’exclure le premier groupe de l’Assemblée nationale et le premier parti de France, comme d’ailleurs de notre beau département des Vosges, mais aussi et surtout celle d’exclure du débat 11 millions de Français qui ont fait le choix de voter pour des candidats du Rassemblement national lors des dernières élections. (Exclamations sur les bancs du groupe LFI-NFP.) La lutte contre le chômage, l’effort en faveur du travail et l’investissement pour la solidarité envers nos compatriotes les plus fragiles ne devraient souffrir d’aucun sectarisme. C’est la ligne de conduite que nous suivrons, comme nous l’avons toujours fait, avec Marine Le Pen et Jordan Bardella. (Vifs applaudissements sur les bancs du groupe RN. – Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Christine Le Nabour."
+        },
+        {
+          "orateur": "Mme Christine Le Nabour",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719756",
+          "texte": "Le dispositif expérimental Territoires zéro chômeur de longue durée porte une ambition forte : offrir un emploi à celles et ceux qui en sont durablement privés. Il représente une solution parmi d’autres, poursuivant la même volonté de réduction durable du chômage et répondant ainsi à notre devoir de justice sociale, d’efficacité économique et d’émancipation par le travail. Cependant, à l’heure où sa pérennisation est envisagée, il est indispensable d’allier ambition et exigence, tant dans l’évaluation que dans la mise en œuvre. En effet, si le dispositif repose sur une dynamique territoriale, certaines expérimentations demeurent trop centralisées et insuffisamment connectées aux autres politiques de l’emploi, alors que la réforme pour le plein emploi de 2023 mise sur la territorialisation et sur l’autonomie locale.\nIl n’est pas question de remettre en cause le dispositif, car certaines expérimentations marchent très bien. Dans mon département, à Pipriac, où une des premières expérimentations a vu le jour, l’entreprise à but d’emploi s’intègre dans un véritable projet de territoire. Dès l’origine, les initiateurs de l’expérimentation ont fait, de l’implication des élus des communes concernées et de l’établissement d’un partenariat étroit avec les entreprises locales et les acteurs de l’insertion, un préalable à l’adhésion et à la réussite du projet. Dans ce territoire rural, l’EBE fonctionne en complémentarité avec l’existant ; elle est soutenue par une association qui joue un rôle de coordination entre les acteurs de l’emploi et ceux de l’insertion. Cette approche permet de cibler l’action en partant des besoins des bénéficiaires et en prenant en compte les spécificités locales, dans une logique de suivi des parcours. Quand l’entreprise à but d’emploi complète l’offre et fédère tout l’écosystème, les effets sont positifs à la fois pour les personnes bénéficiaires et pour le bien vivre ensemble dans les territoires. Ces bonnes pratiques observées à Pipriac doivent être valorisées et partagées ; les résultats et les effets positifs doivent être communiqués en toute transparence via le fonds d’expérimentation.\nUne évaluation pilotée par la Dares, avec l’appui d’un comité scientifique indépendant, est en cours ; le rapport est attendu en septembre. Un rapport de la Cour des comptes est également en préparation. Ces évaluations seront déterminantes pour ajuster le dispositif dans un calendrier compatible avec l’adoption d’une loi avant la fin officielle de l’expérimentation, en juin 2026. Le rapport conjoint de l’IGF, de l’Igas et de la Dares d’octobre 2019 soulignait que les entreprises à but d’emploi recrutaient des publics très éloignés de l’emploi, mais que le modèle offrait surtout une sécurisation à long terme via le CDI, sans viser un retour effectif au marché classique pour les moins éloignés de l’emploi. Il décrivait un modèle économique peu soutenable en l’absence d’un meilleur ciblage et d’une gouvernance clarifiée. Il recommandait en priorité de concentrer les recrutements sur les personnes les plus éloignées du marché de l’emploi et d’adapter les modalités de financement en conséquence.\nEnfin, la synthèse de l’exercice de pilotage 2022 de l’expérimentation territoriale contre le chômage de longue durée insistait sur la nécessité d’un chef de projet à temps plein pour coordonner les acteurs locaux et amplifier la coopération, conditions clés pour atteindre l’exhaustivité territoriale. C’est le cas à Pipriac.\nNous savons que ce dispositif a un coût très élevé, estimé à 28 500 euros par emploi créé. Les dépenses évitées par emploi créé sont estimées à 18 000 euros, mais ce chiffre est difficile à établir avec certitude.\nLa France progresse dans la lutte contre le chômage de longue durée et nous ne devons pas compromettre cette dynamique par des décisions hâtives. Nous soutenons l’ambition du dispositif, mais nous estimons qu’en l’absence des garanties indispensables, le vote de ce texte est prématuré. Pour davantage d’égalité et d’équité, il nous faudra ouvrir un chantier de simplification et d’harmonisation des nombreuses mesures d’insertion qui coexistent, attendre leur évaluation et consolider le dispositif TZCLD dans un cadre responsable, équilibré et adapté aux territoires. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Gabriel Amard."
+        },
+        {
+          "orateur": "M. Gabriel Amard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794906",
+          "texte": "Le chômage de masse n’est pas une fatalité. C’est un choix politique, une blessure sociale qui touche chaque jour des millions de nos concitoyennes et de nos concitoyens. Nous vivons depuis cinquante ans avec cette privation massive d’emplois. Aujourd’hui, 5 millions de personnes sont inscrites à France Travail, dont 2,4 millions en chômage de longue durée.\nLa Macronie promettait le plein emploi, mais sur 2 millions d’emplois créés, 900 000 relèvent des microentreprises et 700 000 de contrats d’apprentissage. Bref, ce sont des emplois précaires. En effet, 90 % des microentrepreneurs gagnent moins que le smic après trois ans d’activité. De plus, la situation va se compliquer : l’Observatoire français des conjonctures économiques (OFCE) prévoit un chômage à 8 % d’ici à la fin de l’année et le nombre de licenciements explose.\nFace à cela, cette proposition de loi représente une avancée. Depuis 2017, les TZCLD ont permis à plus de 9 000 personnes de retrouver un CDI – 3 000 équivalents temps plein en 2024 – dans des activités socialement utiles, et cela sans faire de concurrence au secteur privé local. Mécanicien, couturier, maraîcher, jardinier, etc. : il s’agit toujours d’emplois passionnants et utiles pour se reconstruire. Ce projet est né grâce à l’engagement d’ATD Quart Monde – dont je salue la présidente, qui est villeurbannaise –, d’Emmaüs (Applaudissements sur les bancs du groupe LFI-NFP), du Secours catholique et de la Fédération des acteurs de la solidarité, qu’il faut féliciter. (« Bravo ! » sur les mêmes bancs.) Il montre que quand on fait confiance à l’intelligence collective, l’exclusion n’est pas une fatalité.\nLes chômeurs de longue durée sont de grands blessés de la vie. Privés d’activité, souvent isolés, ils subissent une perte profonde de confiance en eux et en l’avenir. Pourtant, lorsque la société leur redonne une place, lorsqu’ils peuvent se remobiliser à travers un emploi ou une formation, toute leur dignité se reconstruit. En prenant soin d’eux-mêmes, ils recréent du lien social, retrouvent leur rôle au sein de la communauté et participent activement à la vie collective, comme je peux l’observer à Villeurbanne.\nToutefois, nous devons rester vigilants. En commission, nous avons obtenu des avancées : suspension des contrats pour formation, clarification de la coopération avec le fonds d’activation. En revanche, certains ont cherché à dénaturer le texte en voulant subordonner le volontariat à l’injonction et en faisant primer la logique de contrôle sur celle de l’émancipation. Macronistes, vous avez même voulu permettre aux départements de se retirer à tout moment du dispositif, ce qui menacerait son financement comme la stabilité des parcours des bénéficiaires ! (Mme Christine Le Nabour proteste.)\nLe principe du volontariat est au cœur de l’expérimentation des TZCLD. Pourtant, avec la loi pour le plein emploi et l’obligation d’effectuer quinze heures d’activité pour percevoir le RSA, le volontariat devient une fiction. Refuser une activité, c’est risquer la perte de ses droits sociaux. Il s’agit d’un chantage à la précarité."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. Gabriel Amard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794906",
+          "texte": "Les droits des salariés des TZCLD demeurent fragiles : ils n’ont pas de convention collective et des CDI sont parfois déguisés en CDD. Le droit de grève reste incertain. Il en va de même pour le financement. Pour quatre-vingt-trois territoires, il aurait fallu au moins 115 millions d’euros. La loi de finances pour 2025, imposée par un énième 49.3, n’en a prévu que 80, laissant le solde aux départements. Enfin, nous devons éviter la marchandisation rampante de la question sociale. À force d’intégrer des entreprises privées dans les comités locaux, on dévoie le projet : offrir un emploi digne et choisi, non un sas vers des missions précaires.\nLe chômage n’est pas la conséquence d’un manque de volonté des chômeurs, comme certains aiment à le prétendre. Il est le produit structurel d’un système qui sacrifie les travailleurs pour préserver les profits. Le combat contre le chômage ne se résume pas à des incantations sur la prétendue valeur travail ; il suppose de rompre avec la logique de l’offre, de la dérégulation et de la mise en concurrence.\nC’est pourquoi nous voterons en faveur du texte. Nous insistons toutefois pour aller plus loin."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Vous ne pouvez pas aller plus loin. Il faut conclure, monsieur le député."
+        },
+        {
+          "orateur": "M. Gabriel Amard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794906",
+          "texte": "Il faut garantir un vrai droit au travail, abroger la loi pour le plein emploi et supprimer l’obligation d’accepter des offres raisonnables d’emploi. (Le temps de parole étant écoulé, M. le président coupe le micro de l’orateur. – Les députés des groupes LFI-NFP et EcoS applaudissent ce dernier.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Océane Godard."
+        },
+        {
+          "orateur": "Mme Océane Godard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840939",
+          "texte": "Après deux lois d’expérimentation de la démarche TZCLD, la présente proposition de loi vise à pérenniser et à élargir un dispositif qui a démontré sur le terrain qu’il était possible de transformer le chômage de longue durée en emplois durables, utiles et choisis. Je salue Laurent Grandguillaume, qui est présent dans les tribunes du public (Applaudissements sur les bancs des groupes SOC et EcoS) et qui fut député de la première circonscription de la Côte-d’Or, où je suis élue. Il fut l’initiateur de cette expérimentation et est le président bénévole de l’association Territoires zéro chômeur de longue durée. Je connais son engagement inlassable pour lutter contre le chômage de longue durée ; il mérite notre soutien et notre reconnaissance.\nOn ne peut que se féliciter d’examiner ce texte. Évidemment, nous le soutenons et le voterons. Il nous fait faire un pas de côté par rapport aux politiques publiques de l’emploi classiques, souvent centrées sur la réforme de l’assurance chômage, l’allongement du temps de travail ou la multiplication des dispositifs de formation. Il propose autre chose : miser sur des activités utiles, qui sont ancrées dans les territoires et y créent de la valeur. Il nous invite à réfléchir aux conditions du développement d’activités qui, tout en répondant à des besoins économiques et sociaux, n’ont pas encore de modèle économique stabilisé mais nous montrent la voie vers une société plus solidaire et la nécessité d’une réinvention permanente de l’action publique.\nIl renouvelle aussi notre regard sur la sécurisation professionnelle. Trop souvent, le chômage est réduit à des chiffres et les questions d’emploi sont appréhendées du seul point de vue des entreprises, sans qu’on s’interroge sur la qualité des postes et le sens du travail. Or l’expérimentation des TZCLD a été une réponse à l’explosion des contrats courts qui rendent épuisants les parcours d’insertion et les vies professionnelles de celles et ceux – souvent fragilisés parce que ce sont des jeunes, des femmes ou des seniors – qui n’arrivent ni à trouver le chemin de la stabilité et de l’autonomie ni à croire à nouveau qu’ils peuvent vivre de leur travail. Les TZCLD mettent l’accent sur les conditions nécessaires pour reprendre une vie professionnelle et donner du sens à un travail, et cela dans le cadre d’un CDI. C’est cette approche qu’il nous faut encourager.\nLe dispositif Territoires zéro chômeur nous propose finalement un contrepied au paradigme qui structure les politiques actives de l’emploi en rompant avec la logique culpabilisante de nombreuses réformes récentes, dont celle de l’assurance chômage. La proposition de loi est résolument positive, venant renforcer la légitimité d’une approche alternative aux politiques libérales.\nEnfin, la démarche TZCLD promeut le territoire comme la bonne échelle pour construire et réguler des politiques publiques plus pertinentes, mieux adaptées et plus efficaces. Si je mesure les tensions qui peuvent exister entre les acteurs territoriaux, surtout dans un contexte financier difficile, je reste convaincue que le développement de nouvelles initiatives comme les TZCLD est une chance pour peu qu’elles se construisent dans le dialogue et la régulation. Je pense ici au rôle des missions locales, de l’IAE, des plans locaux pour l’insertion et l’emploi (PLIE) et des maisons de l’emploi ainsi qu’à la nécessité d’une complémentarité entre ces institutions et démarches, qu’a soulignée M. le rapporteur.\nEn commission, le groupe socialiste a défendu plusieurs amendements structurants. À l’article 1er, un amendement adopté garantit que les EBE ne concurrenceront pas les activités de l’IAE et du secteur du travail adapté et protégé, mais qu’elles fonctionneront en complémentarité avec l’ensemble des activités existant sur le territoire. À l’article 2, nous avons introduit un principe d’équité territoriale pour que le déploiement du dispositif tienne compte à la fois des caractéristiques des territoires et des publics.\nLes Territoires zéro chômeur offrent une autre vision du travail et de l’humain. C’est pourquoi nous voterons en faveur de la proposition de loi, avec reconnaissance pour ce qui a été accompli et conviction qu’une autre vision des politiques publiques de l’emploi est possible. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Josiane Corneloup."
+        },
+        {
+          "orateur": "Mme Josiane Corneloup",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722390",
+          "texte": "Je tiens à saluer le travail et l’engagement de M. le rapporteur Stéphane Viry, car il est heureux que l’Assemblée se saisisse de la fin prochaine de l’expérimentation TZCLD. Ce projet est né de l’action menée par ATD Quart Monde, le Secours catholique, Emmaüs France, le Pacte civique et la FAS au nom d’un principe énoncé dans le préambule de la Constitution de 1946 : « Chacun a le devoir de travailler et le droit d’obtenir un emploi. »\nLa première expérimentation a été lancée par la loi d’expérimentation territoriale visant à résorber le chômage de longue durée de 2016. Elle a d’abord été déployée en 2017 dans dix territoires pilotes, avec des principes simples : l’association Territoires zéro chômeur de longue durée, créée en octobre 2016, anime et développe le projet ; des comités locaux pour l’emploi (CLE), organes collectifs de pilotage, sont organisés pour mesurer le besoin en emplois et identifier, avec la coopération de l’ensemble des acteurs, les emplois accessibles aux volontaires ; sur proposition des CLE, des entreprises de l’économie sociale et solidaire sont conventionnées en tant qu’EBE chargées de créer les emplois accessibles manquants et susceptibles de répondre aux besoins de la population ; enfin, ces EBE embauchent, en CDI et à temps choisi, des volontaires qui étaient durablement éloignés de l’emploi.\nEn 2020, une deuxième loi a prolongé l’expérimentation. Elle a permis l’habilitation de soixante-treize nouveaux territoires entre 2021 et 2025, portant leur nombre total de dix à quatre-vingt-huit. Au 31 décembre 2024, nous comptions quatre-vingt-deux EBE employant 3 587 salariés.\nLe groupe Droite républicaine soutient les initiatives visant au retour à l’emploi des chômeurs de longue durée. La valorisation du travail, au cœur de son socle idéologique, passe par le retour à l’activité plutôt que par les aides sociales. C’est la raison pour laquelle nous trouvons intéressante cette expérimentation, que nous suivons de très près.\nCependant, nous nous interrogeons sur le calendrier de M. le rapporteur. Plusieurs études sont en cours de finalisation, notamment celle d’un comité scientifique coordonné par la Dares et un rapport de la Cour des comptes. Le législateur a besoin de ces rapports pour faire un bilan exhaustif avant d’ajuster le dispositif ou de le pérenniser. Le calendrier de publication de ces rapports est parfaitement compatible avec l’examen et l’éventuelle adoption d’un texte pérennisant le dispositif avant le 30 juin 2026, date de la fin de l’expérimentation actuelle. Nous avons besoin de ces études pour démontrer ou infirmer les postulats concernant les coûts évités par l’expérimentation, ce qui n’a jamais été fait. L’estimation initiale des porteurs des TZCLD, à savoir 18 000 euros de dépenses évitées par reprise d’emploi, a été contestée dans un rapport conjoint IGF-Igas de 2019 et, en 2023, le coût budgétaire de l’expérimentation était d’environ 28 500 euros par équivalent temps plein.\nDeuxièmement, la proposition de loi ne comporte pas assez de garde-fous contre un dérapage des dépenses associées. L’expérimentation fonctionne actuellement de manière centralisée, avec une habilitation des territoires par voie réglementaire, sur proposition du fonds d’expérimentation. Une territorialisation du dispositif impliquerait que la convention soit signée par le préfet et par le président du département, suivant un fonctionnement analogue à celui des entreprises adaptées, qui recrutent principalement en CDI, et aux structures de l’IAE, qui recrutent en CDD d’insertion. Une éventuelle pérennisation doit se faire en concertation avec l’État et les collectivités locales.\nLes députés du groupe Droite républicaine ne sont pas opposés par principe à l’expérimentation Territoires zéro chômeur de longue durée. C’est pourquoi, en l’absence des études essentielles au législateur et de garanties dans le pilotage des finances publiques, nous nous abstiendrons lors du vote sur la proposition de loi."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Marie Pochon."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "En décembre dernier, le département de la Drôme a décidé de retirer son soutien à l’initiative Territoires zéro chômeur de longue durée dans le territoire de grande ruralité qu’est Dieulefit-Bourdeaux. Alors que vingt emplois, dont 30 % destinés à des personnes au RSA, étaient sur le point d’être créés, alors que 60 personnes sont inscrites sur la liste d’attente, alors que 337 personnes sont identifiées comme de possibles volontaires, alors qu’il s’agit d’une zone blanche en matière de structures d’insertion, alors que la directrice de l’entreprise à but d’emploi avait été recrutée, alors enfin que les activités avaient été identifiées et chiffrées, le département s’est désengagé, au motif qu’il y avait une faute de frappe dans le transfert de la délibération. Oui : c’est par une faute de frappe que le conseil départemental, masquant ainsi son choix politique de couper dans les budgets, a justifié la fin de son soutien à un projet qui avait pourtant été discuté, voté et engagé.\nChez moi, ce fut un tremblement de terre. Les maires, les élus municipaux, les habitants, les bénéficiaires sont allés jusqu’à faire une grève de la faim pour défendre le projet. Mais rien n’y fit : le département ne bougea pas, les chômeurs resteraient chômeurs, on continuerait à pointer du doigt ces satanés assistés, et tant pis pour les besoins locaux et la précarité qui ronge nos campagnes. Alors, ce soir, je tiens à saluer le travail exemplaire des associations qui œuvrent, sur le terrain, à l’application concrète de cette si belle promesse qu’est le droit fondamental à l’emploi, à travers le dispositif Territoires zéro chômeur de longue durée, que ce texte vise à pérenniser et à sécuriser. (MM. Gabriel Amard et Dominique Potier applaudissent.)\nÀ l’automne 2024, 2,2 millions de personnes étaient inscrites depuis plus d’un an à France Travail : c’est ce que l’on appelle le chômage de longue durée, une période difficile à vivre pour nombre de nos concitoyens, tant le poids de ne pas avoir de travail est lourd à porter, socialement et moralement, dans notre société. La privation d’emploi est une défaite majeure, une remise en cause de la cohésion de notre société, une brèche dans le pacte républicain. Elle a un coût humain, du fait de la détresse physique et psychique des personnes concernées. Elle a également un coût financier, que nous supportons toutes et tous : selon une étude réalisée par l’association ATD Quart Monde, il s’élèverait à près de 20 000 euros par personne et par an.\n« Sans le dispositif Territoires zéro chômeur de longue durée, je n’aurais jamais pu reprendre une vie normale » : tel est le témoignage d’un salarié d’une entreprise à but d’emploi. Ces entreprises, créées dans tant de territoires, ont permis depuis quelques années l’embauche de 3 500 personnes ; 5 600 autres ont, grâce à elles, retrouvé un emploi. Ces initiatives ne sont pas parties de nulle part ; elles découlent d’une conviction, celle que personne n’est inemployable et que, grâce à la détermination d’élus locaux et de parlementaires, nous pouvons tenir depuis les territoires mêmes la promesse républicaine du préambule de la Constitution du 27 octobre 1946 proclamant le droit pour chacun à obtenir un emploi. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP.)\nCette promesse républicaine, le texte que vous nous présentez ce soir, monsieur le rapporteur, et qui a été déposé de manière transpartisane, propose de la pérenniser, en permettant l’accès de toutes et tous au dispositif Territoires zéro chômeur de longue durée. Nous, écologistes, soutenons ce dernier de tout notre cœur.\nLe dispositif Territoires zéro chômeur de longue durée permet en effet de toucher l’ensemble des territoires de manière exhaustive, assure une embauche non sélective, crée des emplois de qualité et utiles pour le territoire concerné, propose une formation et un travail à temps choisi de manière à s’adapter à tous les profils et aboutit à une création nette d’emplois, c’est-à-dire qu’il ne concurrence pas les emplois proposés par le tissu économique local. Il est un complément indispensable aux dispositifs de sortie de la pauvreté et d’insertion par l’emploi. Il apporte un complément à l’emploi marchand classique pour tout ce qui concerne les aspects non marchands, concernant par exemple l’économie circulaire, la transition écologique ou la solidarité.\nLes personnes qui y ont recours ont été privées d’emploi pendant une durée moyenne de cinq années, notamment du fait de problèmes de santé ou d’un handicap. Un quart des bénéficiaires de l’expérimentation se trouvent ainsi en situation de handicap ou dans une situation familiale difficile. À toutes ces personnes qui ont souvent été abîmées par le travail physiquement ou moralement, l’accès à un CDI dans le cadre d’une entreprise à but d’emploi – il s’agit pour beaucoup de leur premier CDI – permet de construire leur vie en accédant enfin à la dignité et à la reconnaissance.\nIl s’agit d’une aventure collective, réunissant une multitude d’acteurs locaux – élus, habitants, associations, structures de l’insertion, acteurs économiques – qui s’engagent pour l’accès à l’emploi. Si les maires et les élus locaux n’ont pas de compétence en matière d’emploi, ils président les comités locaux des Territoires zéro chômeur de longue durée, ce qui leur donne un pouvoir d’agir ; cela permet d’assurer une forme de décentralisation des politiques de l’emploi et de veiller à leur bon déploiement sur le terrain.\nLe présent texte permettra à d’autres collectivités de contribuer au dispositif, donc de trouver une solution de financement, quand la volonté politique d’un département de couper les vivres s’exerce au motif d’une satanée faute de frappe.\nRefusant l’exclusion et les assignations, nous, écologistes, soutenons et soutiendrons toujours l’autonomie, la fierté et la dignité retrouvée par l’emploi.\nJe vous remercie, monsieur le rapporteur, pour ce travail essentiel. (Applaudissements sur les bancs des groupes EcoS, LFI-NFP et SOC. – M. le rapporteur applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La discussion générale est close.\nLa suite de la discussion est renvoyée à une prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3781465",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Prochaine séance, aujourd’hui, à neuf heures :\n Discussion de la proposition de résolution visant à abroger la loi no 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023, dite réforme des retraites ;\n Discussion de la proposition de loi expérimentant l’encadrement des loyers et améliorant l’habitat dans les outre-mer ;\n Discussion de la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant ;\n Discussion de la proposition de résolution tendant à la création d’une commission d’enquête sur les dysfonctionnements obstruant l’accès à une justice adaptée aux besoins des justiciables ultramarins ;\n Discussion de la proposition de loi visant à un meilleur encadrement du pacte Dutreil ;\n Discussion de la proposition de résolution visant à la reconnaissance, au remboursement et à la réparation par la France de la « double dette » d’Haïti :\n Discussion de la proposition de loi portant plusieurs mesures de justice pour limiter les frais bancaires ;\n Discussion de la proposition de loi visant à renforcer la solidarité envers les retraités pauvres ;\n Discussion de la proposition de loi visant à renforcer la responsabilité des opérateurs d’infrastructures de réseaux de communications électroniques à très haut débit en fibre optique.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée, le jeudi 5 juin 2025, à zéro heure cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

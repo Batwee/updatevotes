@@ -1,0 +1,2608 @@
+{
+  "uid": "CRSANR5L17S2025O1N161",
+  "seanceRef": "RUANR5L17S2025IDS29266",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-04-03",
+  "dateLisible": "jeudi 03 avril 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3697951",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi de M. Xavier Albertini et plusieurs de ses collègues pour réformer l’accueil des gens du voyage (nos 906, 1190)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3697953",
+      "valeurPtsOdj": "1",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Xavier Albertini, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République."
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Monsieur le président, monsieur le garde des sceaux, mes chers collègues, nous examinons ce soir le troisième texte inscrit à l’ordre du jour de la journée réservée du groupe Horizons & indépendants : la proposition de loi pour réformer l’accueil des gens du voyage. J’en suis l’auteur ; ce texte est le résultat de deux années de travail à l’Assemblée nationale mais aussi de vingt années d’expérience en tant qu’élu local."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "On s’en serait bien passé !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Aujourd’hui en France, entre 300 000 et 500 000 personnes se revendiquent de la communauté des gens du voyage et vivent de manière itinérante ou semi-itinérante. Le cadre juridique applicable est issu de la loi du 5 juillet 2000 relative à l’accueil et à l’habitat des gens du voyage, dite Besson 2 ; il a été modifié plusieurs fois depuis. Ce cadre précise les obligations des communes et des EPCI – établissements publics de coopération intercommunale – dans la mise en œuvre de l’accueil des gens du voyage et prévoit l’aménagement à cet effet de trois types de terrains prévus au schéma départemental d’accueil des gens du voyage (SDAGV) : les aires permanentes d’accueil, les aires de grand passage ou les terrains locatifs.\nEn contrepartie des devoirs des collectivités en matière d’accueil, les gens du voyage ont eux aussi des devoirs et se doivent de respecter, comme tous les citoyens, la législation, notamment en ce qui concerne l’installation sur des terrains publics ou privés. (« Exactement ! » sur les bancs du groupe HOR.)\nLa communauté des gens du voyage est hétérogène ; elle regroupe des populations, des traditions, des habitudes, des modes de vie et des fonctionnements très divers. Nombre de gens du voyage – la grande majorité d’entre eux – respectent leurs obligations. Malheureusement, d’autres s’en affranchissent et persistent à s’installer sur des terrains sans autorisation, faisant ainsi porter un regard négatif sur l’ensemble de la communauté. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)\nEn effet, nombre de nos concitoyens, victimes de ces installations sauvages et de leurs conséquences, sont excédés par un sentiment d’impunité de la part des contrevenants et par un sentiment de dissymétrie s’agissant de l’application et du respect des lois, gage de la vie en commun."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Ce n’est pas très clair ! Le respect des lois sur les aires d’accueil ?"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Bien plus, ces installations sauvages ne portent pas seulement atteinte au droit de propriété des communes ou des personnes privées concernées : elles occasionnent trop souvent des problèmes de salubrité et de sécurité, des dégradations, des dommages matériels et environnementaux. (Exclamations sur les bancs du groupe LFI-NFP.)\nFace à ces faits, les victimes sont démunies. Je pense plus particulièrement aux communes et aux EPCI qui, ayant rempli leurs obligations, se voient pourtant contraintes de subir les nuisances liées à l’occupation illicite d’un terrain. Je pense aussi tout naturellement aux élus locaux, rendus responsables par leurs concitoyens faute de pouvoir régler la situation rapidement. Je pense encore aux propriétaires privés qui, après le départ des groupes ayant occupé illicitement leur terrain, doivent acquitter des frais importants de remise en l’état."
+        },
+        {
+          "orateur": "Mme Béatrice Bellamy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795278",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Je pense enfin aux riverains et plus largement aux citoyens, à ceux qui paient leurs impôts, leur eau et leur électricité, à ceux qui respectent la loi. Comment ne pas comprendre le profond sentiment d’injustice qu’ils éprouvent lorsque des individus s’installent sous leurs fenêtres tout en ayant recours à des branchements sauvages pour capter l’eau ou l’électricité ?\nAu cours des débats en commission, j’ai entendu certains se prévaloir d’une connaissance fine du sujet, en excipant de propos excessifs,…"
+        },
+        {
+          "orateur": "Mme Anne-Cécile Violland",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795026",
+          "texte": "Excessifs, tout à fait !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "…caricaturaux et inadmissibles pour critiquer le texte."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Ce qui est caricatural, c’est votre proposition de loi !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Pourtant, si on connaît le sujet, si on est allé sur le terrain au contact de cette population, on ne peut ignorer les problèmes posés par les installations illicites, et on peut encore moins fermer les yeux dessus. On ne peut pas non plus user d’une rhétorique éculée pour globaliser le sujet, pour le déformer au point de rabattre le débat sur la prétendue stigmatisation ethnique d’une population. Une telle méthode, outrancière et dangereuse, ne tient compte en rien des besoins réels et des enjeux sur le terrain, quel que soit le point de vue que l’on adopte.\nCes dernières semaines, j’ai reçu des dizaines de témoignages de particuliers, d’entrepreneurs et de maires de tous bords politiques, m’expliquant leur impuissance face à des situations qui s’aggravent. Ils attendent des actes et un début de réponse législative."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Heureusement, Horizons est là !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Ainsi, et je l’assume, la présente proposition de loi poursuit un triple objectif : inciter, dissuader et punir. Inciter, d’abord : il s’agit d’inciter les communes et les EPCI à réaliser les différents types d’aires d’accueil prévus dans les schémas départementaux d’accueil des gens du voyage, afin de leur garantir l’accès à un habitat correspondant à leur mode de vie. Sans le respect de leurs obligations d’accueil, une grande partie des outils légaux existants, que la présente proposition de loi vient renforcer, ne sont pas mobilisables par les maires et les élus.\nDissuader, ensuite : la création de nouveaux outils juridiques coercitifs, mieux adaptés, en cas d’occupation illégale, vise à dissuader les gens du voyage de procéder à des installations illicites par la perspective de sanctions plus sévères et plus opérationnelles."
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "Prévention, protection ! Voilà ce qu’il faut !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Punir, enfin : en cas de stationnement illicite, la proposition de loi vise à prévoir une réponse administrative et pénale plus efficace. Permettez-moi de vous présenter en quelques mots les instruments juridiques nouveaux qui permettront de renforcer ceux déjà existants.\nPremièrement, le fait d’occuper en réunion des terrains appartenant à des communes ou à des personnes privées, sans autorisation, en vue d’y établir son habitation, même de manière temporaire, est réprimé par le code pénal. Ce délit n’est constitué que lorsqu’il s’agit de l’occupation de terrains communaux, et – j’insiste – que lorsque la commune ou l’EPCI auquel elle appartient a rempli les obligations qui lui incombent au titre du schéma départemental d’accueil. La commission d’un tel délit est punie d’un an d’emprisonnement et de 7 500 euros d’amende ou, depuis 2018, d’une amende forfaitaire délictuelle – cette possibilité est actuellement expérimentée par plusieurs tribunaux judiciaires mais n’est pas encore généralisée.\nDeuxièmement, en 2007, la loi relative à la prévention de la délinquance a substitué à la procédure judiciaire qui était alors en vigueur une procédure administrative, moins complexe, qui permet au préfet de département, sous certaines conditions, de mettre en demeure les occupants illicites de quitter les lieux et, le cas échéant, de procéder à leur évacuation forcée avec le concours de la force publique. La procédure en question figure à l’article 9 de la loi du 5 juillet 2000.\nPar une forme de parallélisme avec les dispositions applicables au délit déjà mentionné, cette procédure administrative ne peut être mise en œuvre que si l’EPCI a satisfait, là encore, aux obligations relatives au schéma départemental. À cet égard, il faut souligner que des efforts restent à faire dans de nombreux départements. En 2023, sur l’ensemble du territoire national, le taux de réalisation des objectifs des schémas départementaux s’élevait à 80 % pour les aires d’accueil permanentes, à 62 % pour les aires de grand passage et à 21 % pour les terrains familiaux.\nLa présente proposition de loi modifie ces deux procédures, pénale et administrative. Elle a été adoptée la semaine dernière par la commission des lois, avec quelques modifications. Par exemple, son article 1er modifie l’article 322-4-1 du code pénal relatif à l’infraction constituée par le fait de s’installer en réunion, en vue d’y établir une habitation, même temporaire, sans autorisation, sur un terrain appartenant à une personne publique ou privée. L’occupant, pour démontrer la légalité de son occupation, devra pouvoir justifier de l’identité du propriétaire ou de celle du titulaire du droit d’usage du terrain. Cette disposition, supprimée en commission, devrait être réintroduite par voie d’amendement.\nL’article 1er rehausse également le montant de l’amende forfaitaire délictuelle applicable."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Ils sont déjà précaires, ce sera encore pire !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Je souhaite que cette mesure, actuellement en expérimentation dans une dizaine de circonscriptions judiciaires, soit généralisée à l’ensemble du territoire national. Enfin, l’article 1er prévoit que la justice pourra procéder à la saisie, avant leur éventuelle confiscation, de tous les véhicules qui, par nature, ne constituent pas l’habitation des occupants. Voilà concrètement une mesure dissuasive."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Vous avez travaillé deux ans pour ça ?"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "L’article 2 renforce la procédure administrative d’évacuation des résidences mobiles en cas de stationnement illicite pouvant engendrer des troubles à l’ordre public. Il porte à quatorze jours, au lieu de sept actuellement, la durée de validité de la mise en demeure à compter de sa notification. Il prévoit également la compétence liée du préfet pour procéder à l’évacuation forcée après une mise en demeure non suivie d’effets – je sais que cette disposition appelle de nombreuses remarques.\nL’article 3 complète l’article 322-3 du code pénal, qui énumère les circonstances conduisant à une aggravation de la peine prévue à l’article 322-1 du même code, sanctionnant la destruction, la dégradation ou la détérioration d’un bien appartenant à autrui. Il s’agit d’ajouter à ces circonstances le fait d’occuper sans droit ni titre le terrain d’autrui pour y établir son habitation, dans les conditions décrites à l’article 322-4-1 dudit code.\nEnfin, outre une demande de rapport, deux articles additionnels ont été adoptés par la commission : l’article 2 bis, qui permet à tout propriétaire ou titulaire d’un droit réel d’usage sur un terrain public ou privé faisant l’objet d’une occupation illicite, de saisir le tribunal judiciaire aux fins d’ordonner en référé l’évacuation forcée des résidences mobiles ; et l’article 4, qui oblige les départements à avoir révisé au moins une fois le schéma départemental avant le 31 décembre 2026, sachant qu’en théorie – mais c’est peu le cas en pratique –, ils doivent l’être tous les six ans.\nLa présente proposition de loi s’appuie sur des travaux transpartisans,…"
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Transpartisan, ça veut dire la droite et l’extrême droite ?"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "…plus larges, que j’ai menés lors de la précédente législature notamment avec mes collègues Ludovic Mendes et Bruno Fuchs – je tiens à les remercier. Au-delà du dispositif circonstancié qu’il prévoit, ce texte doit nous inciter à mener à bien de nouveaux travaux législatifs sur la question ; ils sont nécessaires. Nous avons en effet une responsabilité collective à cet égard, car l’hémicycle n’a accueilli aucune discussion sur ce sujet essentiel qu’est l’accueil des gens du voyage depuis les débats relatifs à la loi « égalité et citoyenneté » du 27 janvier 2017 et à loi du 7 novembre 2018 relative à l’accueil des gens du voyage et à la lutte contre les installations illicites.\nIl est assez largement admis que la législation en matière d’accueil doit faire l’objet d’une mise à jour. C’est d’ailleurs la volonté du gouvernement que de nous accompagner en ce sens ; la création d’un groupe de travail, en mars dernier, sous l’égide du ministère de l’intérieur, en est un gage probant.\nPermettez-moi de remercier chaleureusement les deux administratrices de la commission des lois qui m’ont accompagné ces dernières semaines (Applaudissements sur les bancs du groupe HOR), ainsi que les services du ministère de l’intérieur et de Matignon. Je souhaite également remercier mes collègues du groupe Horizons & indépendants (Mêmes mouvements), en particulier le président Paul Christophe, pour la confiance qu’ils m’ont témoignée en inscrivant ce texte à l’ordre du jour."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Une honte !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Malheureusement, en conscience et en responsabilité, force est de constater que le temps nécessaire à l’examen des quatre-vingt-cinq amendements relatifs à ce texte (« Quel dommage ! » sur les bancs du groupe LFI-NFP) dépassera le temps dédié à cette journée d’initiative parlementaire. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Obstruction !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "Je prends donc la décision de le retirer de l’ordre du jour (Les députés du groupe LFI-NFP se lèvent et applaudissent) ;…"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Parfait ! À la poubelle !"
+        },
+        {
+          "orateur": "M. Xavier Albertini",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794278",
+          "texte": "…je le présenterai à nouveau très prochainement, enrichi de nos travaux en commission et des différentes auditions. (Les députés du groupe HOR se lèvent et applaudissent.)"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "À la poubelle !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Il est donc pris acte du retrait de la proposition de loi par son auteur, en application de l’article 84, alinéa 2, du règlement.\n En conséquence, il n’y a pas lieu de poursuivre la discussion de ce texte."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Excellente nouvelle !"
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "Très bien !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698005",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi de Mme Naïma Moutchou et plusieurs de ses collègues visant à restaurer l’autorité de l’État (nos 959, 1189)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698007",
+      "valeurPtsOdj": "2",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Naïma Moutchou, rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ce texte, je l’ai déjà défendu en 2023."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Avec quel succès !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Il allait alors plus loin mais faute d’adoption, j’ai choisi, avec mon groupe, d’y revenir dans une version allégée."
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "Fallait pas !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Si je l’ai fait, ce n’est pas par entêtement ; c’est parce que les faits, eux, n’ont pas reculé. Les violences contre ceux qui représentent l’autorité publique explosent, et le silence de la loi, face à cette réalité, nous fragilise.\nCe que je propose ici, c’est une peine minimale d’un an ferme, en cas de récidive, pour des violences commises contre ceux qui portent l’uniforme ou l’insigne ou qui participent à notre vie en collectivité : policiers et gendarmes, pompiers, magistrats, élus, soignants, enseignants."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "C’est Noël !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ce n’est pas une machine automatique : une règle claire est posée, mais elle est assortie d’une porte de sortie, puisque le juge pourra y déroger par décision motivée. C’est ciblé, encadré, mesuré ; surtout, c’est attendu.\nCe dispositif ne fait que rétablir une exigence de cohérence à laquelle certains ici restent sourds. Car enfin, comment justifier que l’on puisse voter, ici même et à l’unanimité, des peines complémentaires automatiques dans certains cas – je pense au retrait de l’autorité parentale ou à l’inéligibilité en cas de corruption –, tout en s’y opposant catégoriquement lorsqu’il s’agit de protéger ceux qui incarnent l’autorité de l’État ? Ce « deux poids, deux mesures », personne ne peut l’accepter. Qu’est-ce que cela dit, en creux ? Y aurait-il donc des victimes plus importantes que d’autres, des symboles qu’il faudrait protéger davantage ? Peut-être y aurait-il des infractions jugées moralement plus graves que la violence physique commise contre les agents publics ?\nNous refusons cette hiérarchie implicite. La République n’a pas à choisir entre ses principes : elle doit protéger tous ceux qui la servent.\nLa jurisprudence le montre : les juges ne manquent pas de marge de manœuvre, mais il est de notre responsabilité de leur donner un cadre clair, une colonne vertébrale. Ce n’est pas empiéter sur leur rôle ; c’est exercer le nôtre.\nOn dira que la prison ne règle rien. Mais depuis quand la sanction juste serait-elle devenue le problème ? Ce qui affaiblit le droit, ce n’est pas la fermeté, c’est le flou, l’imprévisibilité, la sanction sans effet. Ce texte est un repère. Il réaffirme un principe simple : quand on agresse la République, la République répond, avec mesure mais avec force.\nLe temps dont nous disposons ce soir est contraint. Si nous voulons aller au bout de l’examen du texte, il faut faire bloc. J’invite tous ceux qui partagent ce constat à accélérer nos débats pour qu’ensemble, nous envoyions un message clair : la violence contre ceux qui nous protègent n’est pas négociable. (Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre d’État, garde des sceaux, ministre de la justice."
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État, garde des sceaux, ministre de la justice",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "En ma qualité de ministre de la justice, je soutiens la proposition de loi de Mme Moutchou et de l’ensemble des membres du groupe Horizons & indépendants… (Applaudissements sur les bancs du groupe HOR)"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Bravo, monsieur le ministre !"
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "…parce que nous sommes confrontés à une réalité préoccupante : les violences commises à l’encontre de ceux qui incarnent au quotidien l’autorité légitime de l’État ne cessent de croître – vous venez de dresser clairement ce constat à la tribune, madame la rapporteure. Élus, policiers, gendarmes, magistrats, sapeurs-pompiers, agents de sécurité intérieure, douaniers, ceux-là mêmes qui, au risque de leur vie, assurent la paix publique, la sécurité ou la continuité des services de secours sont trop souvent la cible de violences, d’insultes, de menaces, ou victimes d’assassinat.\nCes atteintes ne sont pas des faits divers ; ce sont des faits de société. Elles sont le symptôme d’un mal beaucoup plus profond : la remise en cause de l’uniforme, de ce qui fait un État, de l’ordre civique. Lorsque l’autorité républicaine est ainsi attaquée, c’est l’État lui-même que l’on tente d’intimider.\nLe gouvernement soutient donc, avec clarté, cette proposition de loi. Il la soutient dans son intégralité, et il ne lui semble pas nécessaire de la compléter. C’est pourquoi il donnera un avis défavorable à la plupart des amendements déposés.\nRestaurer l’autorité, ce n’est pas céder à la facilité d’une démonstration de force législative qui rendrait incohérent notre code pénal. C’est construire avec lucidité des réponses adaptées, ciblées et conformes à nos principes. C’est affirmer que la République protège ceux qui la servent – moyen très important de soutenir, sans polémique ni faux-semblant, les policiers, les gendarmes, les magistrats, les sapeurs-pompiers et les agents de sécurité intérieure.\nCe texte apporte une réponse positive, concrète, utile. Il envoie surtout un message politique très clair aux délinquants d’habitude : « La commission de violence contre les policiers, contre les élus, contre les magistrats, contre les avocats sera sévèrement sanctionnée et, quelle que soit la situation, vous serez au moins condamné à une peine d’un an d’emprisonnement. » Ce sont là des ajustements nécessaires, que le gouvernement approuve. Ils traduisent une exigence : protéger plus fermement ceux qui nous protègent.\nJe veux également, à cette tribune, soulever une question de méthode. Le droit pénal, et plus encore le droit de la peine, est un terrain très sensible. Chaque modification de l’échelle des peines, chaque évolution du régime d’exécution, chaque dérogation à l’individualisation ont des répercussions profondes sur l’ensemble de notre édifice pénal. Nous devons donc faire preuve en la matière d’une extrême rigueur, autrement dit ne toucher au code pénal que d’une main tremblante. Les réformes du droit pénal ne doivent pas être fragmentaires, ni répondre à des logiques ponctuelles. Elles doivent s’inscrire dans une architecture globale, cohérente et lisible. C’est cette approche que le gouvernement défend, dans le respect nécessaire de l’équilibre entre la fermeté et les garanties essentielles de notre droit.\nLa proposition de loi de Mme Moutchou est claire et cohérente. Le gouvernement la soutient d’autant plus volontiers qu’elle correspond à la réflexion que j’ai moi-même menée sur l’opportunité d’introduire des peines minimales dans le code pénal – j’en ai fait part au président Paul Christophe et à la rapporteure ; j’en informerai prochainement la commission des lois si son président m’invite à le faire. Je précise qu’il ne s’agit pas d’un retour aux peines planchers mais d’un autre concept utilisé dans d’autres pays, qui permet l’individualisation de la peine. L’introduction de peines minimales dans le code pénal est tout à fait constitutionnelle, sachant que le code prévoit déjà des peines maximales. Nous aurons l’occasion d’en reparler. (Applaudissements sur les bancs du groupe HOR. – Mme la rapporteure applaudit également.)\nCette proposition de loi a un objet précis : protéger les agents qui incarnent l’autorité de l’État et qui, trop souvent, en payent le prix. C’est à l’aune de cet objet précis qu’elle doit être débattue. Sur tous les amendements qui visent à changer la nature du texte, j’émettrai un avis défavorable, sans m’exprimer davantage.\nNous devons tenir cette ligne : une réponse ciblée aux violences commises contre ceux qui incarnent l’État ; une réponse ferme mais respectueuse des principes de notre justice ; une réponse immédiate mais pensée dans une logique de cohérence. C’est dans cet esprit que le gouvernement soutient la proposition de loi. Gageons que les magistrats, les policiers, les gendarmes, les agents de sécurité intérieure et les sapeurs-pompiers auront enfin ce soir un texte de loi qui les protège. (Applaudissements sur les bancs du groupe HOR. – Mme la rapporteure applaudit également.)"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Bravo !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698426",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Dans la discussion générale, la parole est à M. Jean Moulliere."
+        },
+        {
+          "orateur": "M. Jean Moulliere",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794466",
+          "texte": "Plus la probabilité d’être condamné pour une infraction augmente, plus la délinquance diminue."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Ha, ha !"
+        },
+        {
+          "orateur": "M. Jean Moulliere",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794466",
+          "texte": "La certitude de la sanction pénale a un effet préventif certain. Elle permet à la fois d’isoler un individu potentiellement dangereux pour la société et de prévenir les passages à l’acte. Ainsi, la présente proposition de loi de Naïma Moutchou permet de renforcer le pouvoir dissuasif des peines prononcées, en apportant la garantie d’une peine effective. Elle est en cela parfaitement cohérente avec la proposition de loi de notre collègue Loïc Kervran que nous avons adoptée cet après-midi.\nFace aux violences contre ceux qui protègent et servent la République – policiers, pompiers, magistrats, enseignants, soignants –, nous devons être fermes ; nous ne devons rien laisser passer. Grâce à cette proposition de loi, nous allons instaurer une peine minimale d’un an d’emprisonnement pour certains délits violents commis en récidive, notamment ceux qui causent une incapacité totale de travail (ITT).\nJ’aurais souhaité développer plus longuement, au nom du groupe Horizons & indépendants, les raisons pour lesquelles l’adoption de cette proposition de loi s’annonce comme un fait majeur. En raison du temps qui nous reste, je me contente de ces quelques mots : ce texte constitue un deuxième pas nécessaire pour restaurer l’autorité de l’État. Notre groupe votera bien évidemment en sa faveur. (Applaudissements sur les bancs du groupe HOR. – Mme la rapporteure applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Elsa Faucillon."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Au cours de cette niche du groupe Horizons & indépendants, nous entamons l’examen d’un second texte qui aura pour conséquence principale une aggravation de la situation catastrophique des prisons françaises, sans rien régler à la délinquance ni contribuer à la restauration de l’autorité de l’État. Il est d’ailleurs assez triste de constater qu’aux yeux de votre groupe, on ne peut restaurer l’autorité de l’État qu’en refermant les portes d’une prison, alors même que nous devrions nous battre pour développer les services publics et disposer d’un État fort capable de planifier et d’assumer une telle planification.\nCette proposition de loi aura des conséquences désastreuses non seulement pour les prisons françaises, je l’ai dit, mais aussi pour les agents pénitentiaires et pour les détenus. Elle sera même contre-productive pour notre société car, non contentes de porter atteinte au principe d’individualisation de la peine, les peines planchers sont inefficaces en matière de lutte contre la récidive. La question de la récidive devrait être abordée à la lumière des situations individuelles, non à l’aune de l’automaticité des peines d’emprisonnement. Cela nécessite de mettre au centre de la réflexion l’utilité et le sens de la peine pour la personne condamnée, pour la société et pour les professionnels.\nJe relève d’ailleurs une incohérence : pour défendre la possibilité de prononcer de courtes peines d’emprisonnement, le rapporteur Loïc Kervran n’a cessé d’invoquer la liberté du juge ; or l’instauration de peines planchers va à l’encontre de cette vision. Nous rappelons que des dispositions légales permettent déjà de tenir compte de l’état de récidive dans le prononcé de la peine. Les magistrats doivent conserver la libre appréciation de la peine adaptée.\nL’introduction des peines planchers en 2007 s’est soldée par un échec en matière de la dissuasion de la récidive. Les statistiques du ministère de la justice indiquent qu’en 2005, 2,6 % des condamnés pour crime et 6,6 % des condamnés pour délit étaient récidivistes ; or, trois ans après l’entrée en vigueur de la loi de 2007, ces proportions atteignaient respectivement 5,6 % et 11 %.\nPar ailleurs, d’après un bulletin statistique publié en 2012 par le même ministère, sur l’ensemble des condamnations en récidive légale prononcées en 2010 en matière correctionnelle et en matière criminelle, les peines planchers ont été prononcées seulement dans 38 % des cas où elles pouvaient l’être. Autrement dit, six fois sur dix, les juges n’ont pas hésité à faire usage de leur possibilité de déroger au dispositif.\nIls l’ont fait à raison, car notre arsenal législatif est suffisamment riche pour lutter contre les réitérations de violence. Le code pénal et le code de procédure pénale prévoient déjà l’aggravation de la situation de la personne condamnée lorsqu’est constaté un état de récidive. Cela ne veut pas dire que nous avons là toutes les solutions. En revanche, je ne crois pas du tout que les peines planchers, déjà expérimentées, soient la bonne réponse. Une telle mesure ne fera que renforcer la politique du tout-carcéral ; elle accrédite l’idée selon laquelle, je l’ai dit, tous les maux de la société pourraient être réglés simplement en fermant la porte d’une cellule.\nDans un rapport remis en 2006, la Commission nationale consultative des droits de l’homme (CNCDH) recommandait d’étendre l’exécution des peines alternatives aux cas de récidive, considérant que celle-ci n’est que le symptôme d’une mauvaise réinsertion et qu’il convient d’accompagner les personnes. Le code pénal prévoit un éventail de peines alternatives à la prison qui peuvent intervenir avant la sentence du juge.\nLes sorties sèches représentent encore 80 % des sorties de prison. Les personnes sont alors livrées à elles-mêmes : la prison les a marginalisées et désocialisées ; elles se retrouvent souvent sans ressources ni soutien. Elles sont 61 % à récidiver. Ces chiffres devraient nous inciter à approfondir notre réflexion, si notre objectif est bel et bien la réinsertion et la lutte contre la récidive.\nPour finir, cette proposition de loi ne permet pas d’engager le travail de déflation carcérale qui serait nécessaire pour réduire la surpopulation dans les établissements pénitentiaires. L’exposé des motifs ne mentionne qu’une seule fois, de manière allusive, le fait que la surpopulation carcérale est l’une des origines de la récidive. Alors que nous devons tendre vers la sortie du tout-carcéral, ce texte s’oppose en tout point à ce mouvement.\nAu cours de cette journée de niche, j’ai le sentiment que vous manifestez une forme de déni de la situation. Je rappelle donc les chiffres du ministère de la justice que j’ai cités lors de la discussion du texte de M. Kervran : au 1er mars, il y avait dans les prisons françaises 82 152 détenus pour 62 539 places opérationnelles. Quant aux 15 000 places prévues pour 2027, personne ici ne peut prétendre qu’elles seront terminées à temps. Quoi qu’il en soit, plus on ouvre de places dans les prisons, plus on les remplit. Or la France continue de figurer parmi les très mauvais élèves en Europe pour ce qui est de la surpopulation carcérale.\nVous l’aurez compris, le groupe de la Gauche démocrate et républicaine s’opposera à ce texte. (Applaudissements sur plusieurs bancs du groupe LFI-NFP. – Mme Sandra Regol applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Olivier Fayssat."
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "Restaurer l’autorité de l’État : vaste programme. C’est en tout cas une nécessité impérieuse dans une France où l’on peut être brûlée vive par son conjoint ou poignardé sur un quai de métro en rentrant du travail ; dans une France où des rabbins se font agresser dans la rue, où un jeune garçon tombe sous des coups de couteau lors d’une fête de village, où l’on retrouve des fillettes assassinées, abandonnées dans des valises ou des jardins publics ; dans une France où le maintien de l’ordre consiste parfois pour des policiers chargés de 25 kilogrammes de matériel à tenter d’éviter les tirs de mortier destinés à les défigurer, en regardant les émeutiers piller ou incendier des véhicules et des bâtiments.\nCe n’est plus une litanie de faits divers, mais le tableau glaçant d’une société qui vacille, où la peur s’installe au rythme des informations et de l’évocation de profils récurrents, où l’État semble désarmé face à la barbarie quotidienne.\nBien évidemment, le groupe UDR soutiendra toutes les avancées, si modestes soient-elles, en faveur du régalien. Sans autorité, il n’y a pas d’État. Rien que le titre de cette proposition de loi est évocateur d’un triste bilan, d’un échec face au déclin de l’autorité. Dans l’attente d’une refonte d’ampleur de notre système pénal, répressif et judiciaire, nous soutiendrons ce texte, sans illusion quant à un retour effectif de l’autorité, mais avec la conscience que toute avancée, même infime, est une pierre posée sur le chemin du redressement.\nLa mise en œuvre de peines minimales pour les récidivistes est une mesure d’évident bon sens, qui correspond à un durcissement des mécanismes dissuasifs pour ceux qui veulent recommencer. L’isolement des délinquants dangereux en prévention d’un crime probable s’inscrit dans une logique impérieuse : celle de protéger nos citoyens des individus qui ont déjà fait preuve de leur dangerosité.\nLe groupe UDR votera donc cette proposition de loi, qui pourrait contribuer à ressusciter un peu chaque jour l’autorité.\nPour être satisfaisante, la restauration de l’autorité doit s’accompagner d’une lutte acharnée contre le corporatisme des juges au sujet des délinquants non récidivistes. Rappelons que, selon la formule de Montesquieu, les juges doivent seulement être « la bouche de la loi », et qu’ils sont responsables devant le peuple.\nLa véritable autorité devrait se manifester par l’expulsion effective des personnes sous obligation de quitter le territoire français (OQTF), qui ne cessent de défrayer la chronique par des flambées de violence, mettant en évidence l’absence de moyens de nos institutions et de nos forces de l’ordre.\nLa restauration de l’autorité suppose que toute la chaîne pénale et judiciaire dispose d’une réelle force de dissuasion face aux délinquants en herbe et aux récidivistes. Elle nécessite davantage de moyens pour nos policiers, la possibilité donnée aux forces de l’ordre de neutraliser et interpeller les délinquants sans prendre un risque pénal et physique plus grand qu’eux, une responsabilisation des parents de délinquants, l’instauration de peines planchers pour toutes les infractions, et la construction de davantage de prisons.\nCette proposition de loi est une phrase d’accroche, une interpellation sur la nécessité d’agir davantage. Mettons fin à cette situation insupportable d’un État qui fait de son système pénitentiaire un véritable Disneyland pour les détenus dangereux – auxquels il distribue des tablettes numériques et pour lesquels il organise des olympiades dans la cour des prisons – mais un enfer pour les détenus normaux ! Mettons fin à ce laxisme qui empoisonne nos institutions ! Nous, parlementaires, ne soyons pas complices des politiques cyniques et complaisantes dont les rangs de gauche se sont faits les hérauts."
+        },
+        {
+          "orateur": "Mme Béatrice Roullaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795410",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "Poursuivons ce qui a été ébauché avec ce texte en donnant à l’autorité des moyens de dissuasion crédibles car l’État ne peut exister sans autorité. Unissons-nous autour de la sécurité de nos compatriotes, de nos familles, de nos amis, en allant plus loin ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme Béatrice Roullaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795410",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Pascale Bordes."
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Il n’y a pas un jour sans que des faits divers – que leur prégnance transforme en faits de société – ne viennent interroger nos concitoyens quant à la capacité de la justice à condamner réellement et efficacement les auteurs d’actes de plus en plus violents.\nAlors que l’objectif prioritaire de la justice devrait être la protection des citoyens, du droit à la vie et à la sécurité, force est de constater qu’il n’en est rien car, depuis de nombreuses années, nous avons perdu de vue que le socle essentiel d’une société démocratique est celui de la protection de l’intégrité. (Mme Béatrice Roullaud applaudit.) Nous avons perdu de vue la place des victimes au profit d’une focalisation permanente sur le délinquant.\nLa loi Dati a introduit des seuils minimaux de peines d’emprisonnement mais, après avoir été vilipendées par la gauche, ces peines planchers ont été abrogées par la loi Taubira. Par pure idéologie, ce texte a fait de l’emprisonnement l’exception : désormais, une peine d’emprisonnement ferme ne peut être prononcée qu’en tout dernier recours. Depuis le vote de ce texte, le juge doit avoir comme point de mire la réinsertion du délinquant et non plus la victime et la société, reléguées au rang de spectateurs.\nPour justifier ce changement de paradigme, Christiane Taubira affirmait, sans l’avoir jamais démontré, que les politiques pénales des années précédentes avaient aggravé la récidive. En effet, pour elle, la prison était la cause de la récidive.\nAujourd’hui, après dix ans d’application de la loi Taubira, la France fait malheureusement face à la surpopulation carcérale et à la récidive, signe que la lutte contre la récidive, selon la méthode Taubira, a notablement échoué. En effet, la prison est devenue l’exception et les alternatives aux poursuites et à la prison vont se multiplier à l’infini jusqu’à devenir un véritable système d’inexécution des peines !\nVoilà la réalité de la réponse pénale en France : elle n’est pas à la hauteur des défis qui nous attendent."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "La criminalité en col blanc et le vol d’argent public !"
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Cela est particulièrement vrai en ce qui concerne le trafic de stupéfiants contre lequel une partie de la gauche veut lutter en légalisant le cannabis !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Rendez l’argent, sortez les chéquiers !"
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Plus sérieusement, si l’on veut enrayer la violence, il faut changer de paradigme de façon urgente afin que les délinquants et les criminels aient la certitude qu’ils seront condamnés à une peine car, pour paraphraser Cesare Beccaria – qu’une partie de la gauche s’approprie : « Ce n’est pas la rigueur du supplice qui prévient le plus sûrement les crimes, c’est la certitude du châtiment. ».\nEn effet, plus on retarde le temps d’une sanction proportionnée et visible, plus on prend le risque de laisser penser que la justice est faible et celui d’installer le délinquant dans une certaine tranquillité l’incitant à continuer dans la voie de la délinquance plutôt que de s’arrêter. Or, aujourd’hui, en France, la certitude de la peine a malheureusement disparu, n’en déplaise à certains."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Où est Marine Le Pen ?"
+        },
+        {
+          "orateur": "M. Anthony Boulogne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841487",
+          "texte": "Arrête !"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Vous avez mis en place un système de fraude !"
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Le Rassemblement national est favorable à l’instauration d’un système de peines socles en dessous desquelles la nation refuse de descendre pour sanctionner des faits très graves : les atteintes aux forces de l’ordre, le trafic de stupéfiants et la récidive."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "La justice des pauvres !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "La justice pour tous, sauf pour Marine Le Pen !"
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Notre socle, ce sont les valeurs de la République, les valeurs humaines qui interdisent de toucher à la vie de la personne, protégée par l’article 2 de la Convention de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH) qui oblige les États non seulement à ne pas donner la mort mais aussi, et surtout, à prendre toutes les mesures utiles pour protéger la vie humaine. Pour défendre ces valeurs socles, sur lesquelles la société ne transige pas, il faut des peines socles à l’encontre de ceux qui contreviennent au contrat social."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Vous détournez l’attention !"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Ils détournent surtout l’argent !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Pas 2, pas 3, mais 4 millions !"
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "La proposition de loi de notre collègue Naïma Moutchou visant à mettre en place une peine minimale d’un an d’emprisonnement pour sanctionner certaines violences délictuelles commises en état de récidive peut permettre de rétablir un tant soit peu la certitude de la peine qui fait tant défaut aujourd’hui.\nNéanmoins, cette proposition de loi nous paraît un peu dérisoire au regard du quantum de peine qu’elle envisage, très éloigné des peines encourues des chefs visés par la prévention."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Où est Marine Le Pen ?"
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Néanmoins, le groupe Rassemblement national votera ce texte qui gravera dans la loi les valeurs socles à propos desquelles la société ne peut pas transiger. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme Léa Balage El Mariky",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841701",
+          "texte": "Vous demandez des peines mais vous revenez sur vos déclarations, comme Marine Le Pen !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Anne-Sophie Ronceret."
+        },
+        {
+          "orateur": "Mme Anne-Sophie Ronceret",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841927",
+          "texte": "Le texte que nous examinons répond à une préoccupation légitime : celle de lutter contre une récidive qui augmente et un sentiment d’impunité qui progresse dans notre société. En 2021, 41,7 % des condamnés étaient récidivistes ou réitérants. La proportion de récidivistes en matière délictuelle a augmenté de 8 points entre 2018 et 2021. Ces faits doivent nous alerter.\nFace à cette évolution inquiétante, il est nécessaire d’envoyer un signal clair. Il n’est pas admissible de voir se multiplier les agressions contre nos forces de l’ordre, nos sapeurs-pompiers, nos enseignants, nos soignants ou nos élus. En 2021, plus de 51 000 faits d’agression ont été commis contre nos forces de l’ordre et nos agents publics. Ce chiffre augmente tous les ans depuis 2016. Il n’est pas admissible non plus que ces actes puissent rester sans réponse forte de la part de la République.\nC’est pourquoi, depuis 2017, nous avons mené une politique pénale ferme et concrète. Nous avons augmenté le quantum des peines, renforcé les peines complémentaires et lancé un grand plan de construction de 15 000 places de prison. Nous avons aussi créé des incriminations spécifiques pour aggraver la répression des actes de violence commis à l’encontre de ceux qui assurent notre sécurité dans l’espace public. Nous avons enfin instauré deux nouveaux délits protecteurs : un délit de séparatisme et un délit de « mise en danger par la diffusion d’informations personnelles ». En outre, la justice de proximité a bénéficié de moyens budgétaires et humains renforcés. Pour la première fois cette année, le budget de la justice dépassera 10 milliards d’euros. C’est une manière très concrète de contribuer à l’efficacité de notre justice.\nL’impunité n’est pas une option : on ne peut ignorer que certaines peines ne sont pas suffisamment exécutées, ce qui alimente le découragement des victimes et des forces de sécurité. Trop souvent, les Français ont le sentiment qu’une condamnation ne change rien à la réalité de l’agression qu’ils ont subie.\nCependant, le dispositif proposé aujourd’hui pourrait être interprété comme une marque de défiance à l’égard des magistrats et cette critique doit être entendue. La justice doit pouvoir adapter la peine à la personnalité, aux circonstances et aux garanties de réinsertion de l’auteur. Il est également nécessaire de rappeler que les dispositifs mis en place antérieurement n’ont pas toujours démontré leur efficacité. C’est pourquoi des réserves peuvent subsister chez certains d’entre nous.\nToutefois, nous partageons la même volonté de restaurer l’autorité de l’État là où elle est la plus violemment défiée. Il est de notre responsabilité de répondre avec fermeté, cohérence et discernement aux violences commises de manière répétée contre ceux qui incarnent l’autorité de l’État. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Danièle Obono."
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "C’est la seconde fois que nous examinons cette proposition de loi qui vise à réinstaurer des peines planchers d’un an minimum concernant certains délits commis en état de récidive. En 2023, l’opposition majoritaire à ces dispositions, notamment celle de vos alliés de Renaissance et du Modem ainsi que celle du ministre de la justice, vous a contrainte, madame la rapporteure, à retirer votre texte initial mais, aussitôt que l’occasion s’est représentée, vous avez récidivé !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Je suis tenace !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Sans plus de succès puisque cette nouvelle proposition a été rejetée en commission le 26 mars dernier, malgré le soutien de l’extrême droite qui a indiqué y être « favorable sur le principe ». Il faut dire que votre proposition de loi ressemble fort à celle présentée par le Rassemblement national en octobre dernier."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Je peux faire l’historique !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Ainsi, en plus de soutenir le même gouvernement illégitime, vous partagez avec le Rassemblement national une affinité pour les politiques d’inflation pénale et carcérale aussi répressives qu’inefficaces. (Applaudissements sur les bancs du groupe LFI-NFP.)\nLes peines planchers instaurées sous Nicolas Sarkozy sont restées en vigueur de 2007 à 2014. La loi du 15 août 2024 est venue, à raison, en abroger la majeure partie car les objectifs desdites peines minimales n’avaient pas été atteints.\nD’ailleurs une étude récente corrobore le fait que ces dispositions ont eu un faible effet dissuasif et que la durée des peines prononcées s’était accrue sans pour autant réduire ni la surpopulation carcérale, ni le taux de condamnation en récidive. Autrement dit, vous souhaitez réinstaurer des mesures inefficaces !\nVotre texte semble par ailleurs se heurter à un obstacle constitutionnel. En effet, dans une décision du 2 mars 2018, le Conseil constitutionnel a indiqué que le principe d’individualisation des peines imposait « la motivation des jugements et arrêts de condamnation, pour la culpabilité comme pour la peine ». Si le Conseil a ensuite validé des peines minimales pour certains délits douaniers, c’était en raison de règles spécifiques. Il n’est donc pas certain qu’un retour des peines planchers soit constitutionnel.\nComme à l’accoutumée en Macronie, vous vous obstinez à proposer des mesures uniquement répressives alors qu’il est incontestable que la prison accroît la récidive. (Applaudissements sur quelques bancs du groupe LFI-NFP.) « C’est presque un lieu commun de dire que la prison peut être considérée comme une école du crime » écrit le chercheur Corentin Durand, coauteur d’un rapport sur les peines internes."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Ils n’aiment pas les chercheurs !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "La recherche internationale montre également que la peine de prison n’est efficace ni pour dissuader la commission d’infractions, ni pour prévenir la récidive. L’emprisonnement engendre une augmentation moyenne de la récidive de 3 à 5 %. Cet effet est accru pour les courtes peines autour de 9 à 10 %. Quelques mois de détention suffisent en effet à perdre son logement, son éventuel emploi, ses liens familiaux et à rencontrer plus délinquant que soi."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Il a aussi été montré que l’allongement des peines n’a aucun effet positif sur la dissuasion ou la récidive. C’est le contenu de la peine qui compte et le traitement des difficultés de la personne ayant un lien avec la commission d’infractions.\nLa France a été condamnée à maintes reprises en raison de l’indignité de ses conditions de détention. La surpopulation carcérale a atteint un nouveau record au 1er mars 2025 avec 82 152 personnes détenues, 4 580 matelas au sol et 160 % de densité carcérale en maison d’arrêt et en quartiers spécifiques."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "La honte !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Cette situation honteuse aurait dû suffire à vous faire renoncer à une proposition de loi aussi contre-productive que criminogène. Il n’en est rien !\nFace à ce constat et en opposition à votre politique cruelle et inefficace, nous proposons des mesures à même de prévenir la récidive : d’une part, la suppression du référentiel carcéral pour de nombreux délits au bénéfice d’une peine de probation en milieu ouvert plus lisible, prononcée à titre principal et, d’autre part, la proposition systématique d’une démarche restaurative pour les auteurs et les victimes et une meilleure préparation à la réinsertion sociale par un accompagnement renforcé.\nNous appelons surtout de nos vœux l’instauration d’un mécanisme de régulation carcérale, proposé notamment par mon collègue Ugo Bernalicis et recommandé par la contrôleuse générale des lieux de privation de liberté (CGLPL) (Applaudissements sur les bancs du groupe LFI-NFP) et par la Commission nationale consultative des droits de l’homme, afin de garantir un taux d’occupation qui ne peut dépasser 100 %.\nVoilà donc quelques-unes des mesures qui auraient un effet certain sur la récidive, loin de vos pseudo-solutions éculées qui ont démontré leur inefficacité depuis vingt ans.\nMichel Foucault disait déjà, en 1972 : « L’institution pénale, avec, en son centre, la prison, fabrique une catégorie d’individus qui font circuit avec elle : la prison ne corrige pas ; elle rappelle incessamment les mêmes […] ». C’est pourquoi nous voterons contre notre proposition de loi. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Céline Hervieu et M. Benjamin Lucas-Lundy applaudissent également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Fabrice Roussel."
+        },
+        {
+          "orateur": "M. Fabrice Roussel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841327",
+          "texte": "Un an après, nous voici de nouveau réunis pour aborder le même sujet, fer de lance de la droite : les peines planchers. L’article unique de cette proposition de loi vise en effet à prévoir une peine minimale d’un an d’emprisonnement pour les délits de violences commis en état de récidive légale et ayant entraîné une incapacité totale de travail sur les personnes visées dans l’exercice, ou du fait, de leurs fonctions, c’est-à-dire les personnes dépositaires de l’autorité publique ou chargées d’une mission de service public.\nAlors que vous prétendez que cette mesure est ciblée, nous devinons, au vu des amendements que vous et ceux qui soutiennent le texte ont déposés, votre véritable intention : en étendre très largement le champ d’application, qu’il s’agisse des seuils ou des délits et crimes commis.\nLa proposition de loi que vous défendez procède tout d’abord d’une défiance manifeste vis-à-vis des magistrats du siège qui sont seuls en mesure de déterminer les peines appropriées en fonction des circonstances et de la personnalité de l’auteur de l’infraction. Rien ne permet de penser que les magistrats font preuve d’une quelconque indulgence, en particulier lorsque des policiers, gendarmes, pompiers ou professeurs sont victimes.\nPermettez-moi de douter que votre texte soit un bon signal envoyé à nos magistrats, à l’heure où certains députés, aujourd’hui, les remettent gravement, et individuellement, en cause – eux, ainsi que leurs décisions de justice –, manquant ainsi aux principes de la séparation des pouvoirs et de notre État de droit. Nous, socialistes, nous tenons aux côtés de la justice. Les magistrats sont habilités à rendre la justice au nom du peuple français.\nCe n’est pas tout. Il faut rappeler que ces peines planchers que vous souhaitez restaurer ont déjà été expérimentées de 2007 à 2014. Elles ont alors prouvé qu’elles étaient sans effet sur la récidive. Comme l’ancienne ministre de la justice, Mme Christiane Taubira, l’avait rappelé : « Les peines planchers sont un automatisme qui réduit la liberté d’appréciation des magistrats. Or les statistiques disponibles […] montrent bien que l’individualisation de la procédure jusqu’aux modalités d’exécution de la peine réduit le facteur de risque de récidive, donc le nombre de nouvelles victimes. » C’est la raison pour laquelle le président François Hollande avait souhaité les abroger.\nAlors même que le mal a déjà été fait, vous souhaitez tout de même bondir de dix ans en arrière, en portant délibérément atteinte au principe essentiel de l’individualisation de la peine, qui vise à appliquer une sanction et des modalités de prise en charge adaptées à la situation de chacune des personnes suivies dans le but de limiter la récidive.\nDe 2007 à 2014, l’application des peines planchers a également contribué à aggraver la surpopulation carcérale. Madame la rapporteure, avez-vous vu l’état de nos prisons ?"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Oui, je m’y rends régulièrement !"
+        },
+        {
+          "orateur": "M. Fabrice Roussel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841327",
+          "texte": "Au 1er mars, on y comptait plus de 82 000 détenus pour seulement 62 000 places."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Oui, il faut plus de places !"
+        },
+        {
+          "orateur": "M. Fabrice Roussel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841327",
+          "texte": "Quelque 5 000 détenus sont contraints de dormir sur des matelas posés à même le sol, dans des cellules de 9 mètres carrés. La densité carcérale globale de notre pays est aujourd’hui de 131 % et dépasse même les 200 % dans plusieurs établissements ou quartiers pénitentiaires. Les très courtes peines encombrent nos prisons, plus particulièrement les maisons d’arrêt dont le taux d’occupation moyen devrait dépasser 164 % d’ici à la fin 2025.\nTrois ans après la condamnation de la France par la Cour européenne des droits de l’homme pour l’indignité de ses prisons, le Conseil de l’Europe a une nouvelle fois constaté, en 2023, l’insuffisance des mesures prises par les autorités françaises en demandant l’adoption rapide d’une stratégie globale et cohérente pour réduire la surpopulation carcérale. La restauration des peines planchers serait donc un non-sens au regard de nos engagements internationaux, dont celui relatif au respect de la dignité humaine.\nVotre proposition de loi a pour simple effet de banaliser le recours à un emprisonnement et à une surpopulation carcérale qui, en l’absence d’accompagnement professionnel, de suivi psychiatrique satisfaisant et de bons conseillers de réinsertion, seront des facteurs de la récidive.\nRien, dans votre texte, ne vise à restaurer l’autorité de l’État et de tous les agents publics au service de l’intérêt général. C’est pourquoi nous voterons contre cette proposition de loi qui ne propose aucune solution alternative. Nous défendrons un amendement visant à supprimer son article unique. Contre-productive au vu de l’objectif poursuivi, il est temps d’en finir avec la prison comme référence sans alternative du système pénal. (Applaudissements sur les bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Nicolas Ray."
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Depuis trop longtemps, notre pays est confronté à une montée continue des actes de violence et de la récidive. Or les Français n’en peuvent plus de voir les multirécidivistes bénéficier, sur le plan pénal, d’une indulgence coupable."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "C’est marqué où ?"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Il est donc de notre devoir de restaurer l’autorité de l’État et de garantir que la justice est à la hauteur des attentes légitimes de nos concitoyens.\nLe texte dont nous débattons ce soir, madame le rapporteur (« La rapporteure ! » sur les bancs du groupe EcoS) y contribue. Il a pour objet de créer une peine minimale d’un an d’emprisonnement en cas de violences commises en état de récidive à l’encontre de personnes dépositaires de l’autorité publique.\nLe groupe DR soutient bien sûr sans réserve cette proposition de loi. (Mme Élisabeth de Maistre applaudit ainsi que Mme la rapporteure.) Nous saluons d’ailleurs votre travail, madame la rapporteure (« Ah ! » sur les bancs du groupe EcoS), mais aussi votre ténacité puisque nous avions déjà soutenu en 2023 une proposition de loi équivalente que vous aviez présentée.\nLes peines planchers, créées sous le quinquennat de Nicolas Sarkozy, avaient démontré leur efficacité. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.) Eh oui, bien sûr !"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Il a même supprimé des postes au ministère de l’intérieur !"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Vous n’avez pas honte !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Entre 2007 et 2014, le taux de récidive avait diminué de 10 %. Malheureusement, en 2014, la majorité de gauche avait choisi de les supprimer, par idéologie, ce qui avait produit des résultats catastrophiques en matière de récidive."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Il faudrait peut-être une peine plancher pour Sarkozy !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Depuis cette suppression, les faits de violence ont explosé, notamment contre ceux qui nous protègent : nos policiers, gendarmes, pompiers, enseignants ou magistrats. Les chiffres sont accablants. En 2023, plus de 5 000 agressions physiques ont été enregistrées contre nos gendarmes. Le nombre d’attaques visant nos pompiers a également considérablement augmenté. Plus de 40 % des individus condamnés sont des récidivistes – un chiffre en constante augmentation.\nFace à cette réalité, il est impératif de restaurer un principe fondamental : la certitude de la peine. Or le dispositif de peine plancher que vous proposez répond précisément à cette exigence. Il garantit qu’un récidiviste violent ne pourra plus bénéficier de sanctions dérisoires.\nLa protection de ceux qui assurent la sécurité de nos concitoyens et le fonctionnement de nos services publics devrait être, pour nous tous, une priorité. Nos forces de l’ordre, nos pompiers, nos enseignants, nos professionnels de santé et toutes les personnes chargées d’une mission de service public attendent de l’État, qu’ils servent avec dévouement, qu’il les protège.\nPar ailleurs, les peines planchers sont attendues par nombre de nos concitoyens – 72 % d’entre eux y sont favorables."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Les Français sont aussi favorables à ce qu’on rende l’argent public !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Les peines minimales prévues par cette proposition de loi assurent un juste équilibre entre deux exigences : d’un côté, une répression accrue des actes commis en récidive et, de l’autre, le respect des principes fondamentaux de notre droit pénal. La possibilité de modulation de la peine permet de respecter le principe d’individualisation des peines qui, vous le savez, a une valeur constitutionnelle.\nCe soir, certains défendent ici l’indulgence pour les délinquants. Certains s’émeuvent davantage du sort de ceux qui agressent que du sort de ceux qui subissent. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "La honte !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Au sein de mon groupe, nous sommes…"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "De droite !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "…délibérément du côté des victimes et des agents publics. (Applaudissements sur les bancs des groupes DR et HOR.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Ça suffit !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Nous sommes du côté de l’autorité. Nous sommes du côté de la justice qui protège. C’est pourquoi nous voterons cette proposition de loi qui permettra, tout simplement, de mieux protéger les Français. (Applaudissements sur les bancs des groupes DR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Emmanuel Duplessy."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Un jour de niche est important puisque c’est la seule fois de l’année où un groupe politique peut se saisir de l’ordre du jour pour mettre en avant ses priorités pour nos concitoyens. Avec Horizons, c’est assez clair : la priorité est à la surenchère pénale. Rien sur l’écologie, rien sur le pouvoir d’achat ou sur nos services publics ! Tout pour punir et enfermer plus, et rien pour traiter les causes.\nVotre proposition de loi a un objectif louable : sortir des détenus de la voie de la délinquance et éviter la récidive. Mais comment le groupe Horizons entend-il atteindre cet objectif ? Propose-t-il d’allouer davantage de moyens à l’administration pénitentiaire, par exemple pour les services pénitentiaires d’insertion et de probation ?"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Entend-il améliorer l’accompagnement des détenus pour favoriser leur formation et leur insertion professionnelle en sortie de peine ? S’agit-il d’instaurer des programmes de justice restaurative pour responsabiliser les condamnés ?\nNon, rien de tout cela. Il nous invite à rétablir une mesure qui a déjà été appliquée, sans succès, mais qui se prête beaucoup mieux à la communication politique : les peines planchers.\nDe fait, après l’inscription de ce dispositif dans la loi par la majorité de Nicolas Sarkozy en 2007, le gouvernement n’a jamais cherché à en évaluer l’effet dissuasif. On comprend pourquoi lorsqu’on consulte la littérature scientifique qui, elle, est unanime : les peines planchers sont contre-productives. Or ce qui n’a pas fonctionné sous Nicolas Sarkozy ne connaîtra pas de meilleurs horizons aujourd’hui.\nLa justice est engorgée et les prisons pleines mais il est plus simple de proposer des mesures inefficaces et plutôt populistes que de consacrer les moyens humains, financiers et matériels nécessaires à la lutte contre la récidive et à la prévention des délits. (M. Antoine Léaument applaudit.)\nLe groupe Écologiste et social est farouchement attaché au principe de l’individualisation des peines, donc opposé aux logiques d’automaticité. La liberté du juge de déterminer la peine adaptée en tenant compte d’une multitude de facteurs est essentielle au bon fonctionnement de la justice et à la justesse de ses décisions.\nLe pouvoir législatif ne doit pas avoir tout contrôle sur les juges, qui doivent rester indépendants – l’actualité ne manque d’ailleurs pas de nous le rappeler."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Nous leur faisons confiance pour prononcer les peines les plus adaptées, en fonction du profil de l’auteur, des faits et des circonstances.\nMadame la rapporteure, en commission vous avez évoqué, à plusieurs reprises – presque comme seul argument – les peines complémentaires obligatoires, que nous avons défendues et que nous défendons toujours,…"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ah ! Voilà !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "…notamment en matière d’inéligibilité pour des faits de corruption et de détournement d’argent public (Applaudissements sur les bancs des groupes EcoS et LFI-NFP. – M. Antoine Léaument se lève),…"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "De la fermeté !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "…pour justifier l’atteinte que porte votre proposition de loi au principe d’individualisation de la peine mais aussi pour mettre en cause notre cohérence intellectuelle et politique.\nJe vais devoir vous reprendre sur ce point. Vous confondez, de manière assez étonnante pour une avocate, peine obligatoire et peine automatique."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "L’individualisation !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Pourtant vous ne pouvez ignorer que, fort heureusement, le principe de la personnalisation ne s’oppose pas à l’obligation pour le juge de prononcer une peine principale,…"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Eh non ! Ça ne marche pas, vous êtes piégé !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "…qu’il s’agisse d’une amende et/ou d’emprisonnement ou de peine alternative, ni de prononcer, si la loi en dispose, des peines complémentaires. Vous voyez, si vous me laissiez terminer !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ça n’a rien à voir, vous êtes dans les stéréotypes !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Votre comparaison est ainsi fallacieuse et trompeuse. Les peines complémentaires, bien qu’obligatoires, sont personnalisables."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quelle gymnastique ! De quoi se faire des entorses !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Il me semble d’ailleurs que certains groupes d’extrême droite ici présents espèrent, à la suite d’un procès en appel, obtenir une diminution de la durée de la peine d’inéligibilité prononcée à l’égard de leur leader, candidate et par ailleurs organisatrice en chef d’un détournement de 4,5 millions d’euros."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Ils ont un totem d’immunité !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Je les trouve optimistes car le candidat des Républicains avait, lui, écopé de dix ans d’inéligibilité pour un détournement de seulement 700 000 euros. Finalement, avec cinq ans d’inéligibilité pour 4,5 millions détournés, elle s’en sort plutôt bien !\nEnfin, pour revenir rapidement sur le titre très idéologique de cette proposition de loi, vous faites une grosse erreur si vous considérez que l’affaiblissement de l’autorité de l’État est dû à un manque supposé de sévérité, notamment en matière pénale. Toutefois, cela en dit long sur votre conception de l’autorité et de ce qui, selon vous, la fonde : la force.\nVous sous-estimez la question de la légitimité et le fait que, pour nombre de nos concitoyens, les principes républicains, notamment la primauté du droit, sont purement déclaratifs et plutôt hors-sol, au vu de leurs conditions de vie et de leurs rapports avec les administrations ou les entreprises, s’agissant par exemple du droit du travail.\nPour restaurer l’autorité de l’État, il serait bien plus utile de se pencher sur la question du respect du contrat social entre gouvernants et gouvernés que de se livrer à une nouvelle surenchère pénale démagogique. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP. – Mme Elsa Faucillon applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Éric Martineau."
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Parce que nous sommes en journée de niche parlementaire, je serai très bref, par solidarité avec nos collègues. (Applaudissements sur quelques bancs du groupe HOR.)\nLa présente proposition de loi vise à lutter contre la délinquance et la récidive et à sanctionner plus durement les personnes qui s’en prennent aux forces de l’ordre et à ceux qui incarnent l’autorité. C’est un objectif que nous partageons.\nLe texte tend à instaurer des peines planchers d’un an d’emprisonnement pour sanctionner les délits de violences commis en état de récidive légale et ayant entraîné une incapacité totale de travail sur des personnes dépositaires de l’autorité publique et assimilées. Je tiens à saluer le travail de Mme la rapporteure Naïma Moutchou.\nLa récidive et la réitération en matière pénale sont toujours en hausse et constituent un vrai défi pour l’institution judiciaire. Si le taux de réitération baisse de manière significative depuis 2020, le taux de récidive, lui, ne fait qu’augmenter. La loi relative à la responsabilité pénale et à la sécurité intérieure permet, depuis 2022, de réprimer par des peines plus sévères les violences commises contre les forces de sécurité intérieure. Ainsi, le quantum des peines encourues en cas de violences volontaires contre les forces de sécurité intérieure a été renforcé, comme les sanctions applicables au refus d’obtempérer. Enfin, la durée des réductions de peine pour les auteurs de violences graves contre les personnes investies d’un mandat électif public a été limitée.\nL’instauration de peines planchers pour lutter contre la récidive est un sujet récurrent. En septembre 2024, le record de surpopulation carcérale a été atteint, avec 79 000 détenus pour seulement 62 000 places disponibles. Les peines planchers se traduisent aussi par un alourdissement de la charge de l’administration pénitentiaire, car les peines de prison sont souvent assorties de sursis avec mise à l’épreuve. Ce dispositif pose en outre la question de l’individualisation des peines, principe fondamental de notre droit. Nous sommes particulièrement attachés au fait de laisser aux juges la liberté de trancher les affaires judiciaires. J’en profite pour réaffirmer ici notre reconnaissance et notre soutien aux magistrats, trop souvent décriés, surtout en ce moment. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "On regarde ses chaussures, du côté du RN !"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Vingt-quatre condamnations !"
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Nous avons crainte que ce dispositif puisse apparaître comme une marque de défiance à l’égard des magistrats, très attachés à l’individualisation des peines, et comme une volonté de contrôler le pouvoir judiciaire.\nDe plus, il présente un risque de rupture d’égalité, dans la mesure où il est possible de déroger aux peines planchers qu’il prévoit lorsque l’individu concerné présente des garanties de réinsertion. Il ne faudrait pas que les délinquants se situant en bas de l’échelle sociale soient davantage pénalisés que les autres.\nPour toutes ces raisons, le groupe Démocrates n’est pas forcément favorable à ce dispositif, vous le savez, mais nous sommes ouverts aux discussions et nous suivrons les débats. (Applaudissements sur les bancs du groupe Dem. – Mme la rapporteure applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La discussion générale est close."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698302",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion des articles",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "J’appelle maintenant l’article unique de la proposition de loi dans le texte dont l’Assemblée a été saisie initialement, puisque la commission n’a pas adopté le texte."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698304",
+      "valeurPtsOdj": "2",
+      "titre": "Article unique",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Gabrielle Cathala, inscrite sur l’article."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "En commission, nous avons eu de longs débats sur les peines planchers. Les peines planchers instaurées par la loi Dati – le dispositif que vous nous proposez n’est pas exactement le même – ont été supprimées en 2014. Elles avaient notamment conduit à une augmentation annuelle de 4 000 années d’emprisonnement ferme, ce qui avait entraîné une surpopulation carcérale record. Mme Taubira les a supprimées au motif qu’elles portaient atteinte au principe de l’individualisation de la peine et surtout qu’elles n’avaient eu aucun effet sur la récidive.\nEn relisant les propos que vous teniez après votre élection à la députation, madame Moutchou, je me suis étonnée. En 2017, vous affirmiez : « La prison, en France, est effrayante. » En 2018, vous vous rendiez compte que « la prison était devenue le terreau de la récidive ». (Applaudissements sur quelques bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Eh oui, je le dis toujours !"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "Il aurait fallu, selon vous, en 2017 encore, développer davantage de centres de détention ouverts et le recours aux travaux d’intérêt général, donc davantage de mesures alternatives aux poursuites."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "Vous disiez même : « La prison, en principe, […] c’est la privation de liberté, ce n’est pas la privation de la dignité. »"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "Vous ajoutiez : « Il faut […] penser à la réinsertion sociale. Aujourd’hui, […] le taux de récidive a explosé. »\nJe me demande donc pourquoi la députée de 2017 tenait des propos contraires à ceux de la députée de 2025. Vous vouliez lutter contre la récidive et trouviez les prisons effrayantes et surpeuplées. Alors pourquoi proposer des mesures de ce type, qui ne feront qu’aggraver le problème ? Si vous étiez restée cohérente, nous aurions débattu, à l’occasion de votre niche parlementaire, d’un texte que nous aurions préféré examiner, visant par exemple à instaurer un mécanisme de régulation carcérale (Applaudissements sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ah non !"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "…à aligner le droit du travail des prisonniers sur celui des personnes qui ne sont pas privées de liberté (Mêmes mouvements), à augmenter le nombre de formations, ou encore à assouplir la libération sous contrainte ou les travaux d’intérêt général.\nJe suis très surprise de ce manque de cohérence. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Céline Hervieu."
+        },
+        {
+          "orateur": "Mme Céline Hervieu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841853",
+          "texte": "Texte après texte, dans le cadre de cette niche parlementaire réservée au groupe Horizons & indépendants, on a l’impression d’une redite permanente de mesures sécuritaires ayant déjà démontré maintes fois leur inefficacité."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "Mme Céline Hervieu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841853",
+          "texte": "Aujourd’hui, vous soumettez à nouveau au débat une proposition visant à rétablir les peines planchers, vieille recette sarkozyste, qui montre sans doute la difficulté que vous avez à renouveler votre logiciel politique s’agissant des mesures de justice. Notre collègue Roussel l’a dit : ces peines planchers n’ont aucun effet sur la récidive. Elles ont été supprimées par Mme Taubira en 2014, sous la présidence Hollande, tout simplement parce qu’elles n’atteignaient pas l’objectif qu’on leur avait assigné. Elles ont démontré leur inefficacité depuis vingt ans. Elles entament la liberté de décision des juges.\nNous ne demandons pas l’indulgence pour les délinquants, mais seulement des mesures efficaces et respectueuses du principe de l’individualisation des peines. On l’a dit : les peines planchers renforcent la surpopulation carcérale. Dans ma circonscription, à la prison de la Santé, la dernière qu’abrite Paris intra-muros, on atteint des records : son taux d’occupation s’élève à 172 %, le plus élevé depuis sa réouverture. Ailleurs en France, dix-sept prisons présentent un taux d’occupation supérieur à 200 %, et 4 000 détenus, monsieur le garde des sceaux, dorment à même le sol !\nMes questions sont les suivantes : jusqu’à quand allez-vous continuer à mener des politiques sécuritaires déséquilibrées ? Où sont les mesures sur les peines aménagées ? Où sont les moyens alloués aux Spip, les services pénitentiaires d’insertion et de probation ? Où sont les moyens destinés aux services de psychiatrie – on sait que de nombreux détenus requièrent un suivi psychologique qui ne leur est pas fourni aujourd’hui ? Où sont les mesures pour renforcer la prévention, pour agir en amont ? Les états généraux de la justice ont proposé de définir établissement par établissement un seuil critique au-delà duquel il devenait possible de décréter l’urgence carcérale.\nC’est de ces mesures que notre système de justice a besoin aujourd’hui. Nous aimerions pouvoir débattre de ce type de mesures plutôt que de vieilles recettes qui n’ont jamais fonctionné. (Applaudissements sur les bancs du groupe SOC. – M. Benjamin Lucas-Lundy applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Sur les amendements identiques nos 1, 8, 29 et 33, je suis saisi par les groupes La France insoumise-Nouveau Front populaire, Écologiste et social et Horizons & indépendants d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Emmanuel Duplessy."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Cet article vise à instaurer des peines planchers pour quelques délits. Je peux rejoindre Mme la rapporteure sur le fait que cela ne va pas révolutionner le droit pénal, puisque la mesure proposée ne concerne qu’un nombre assez limité de délits, commis en état de récidive légale. Cependant, l’orientation est la même : la surenchère pénale.\nPlusieurs collègues ont indiqué que les peines planchers fonctionnaient et avaient prouvé leur efficacité. Mais toutes les données dont nous disposons, issues de plusieurs études datées de plusieurs années et menées dans plusieurs pays, dont certaines en France, vont dans le sens contraire. J’aimerais donc vraiment comprendre ce qui vous permet de soutenir une position opposée, si ce n’est une lecture idéologique des faits (Exclamations sur les bancs du groupe HOR) ou une posture morale selon laquelle plus on tape fort, plus forte est la réponse. Méfiez-vous, cependant, car la violence engendre parfois la violence !\nJe voudrais donc comprendre sur quels éléments factuels vous vous fondez pour affirmer que les peines planchers ont prouvé leur efficacité et permettront de mieux protéger les dépositaires de l’autorité publique, notamment les représentants des forces de l’ordre, concernés par ce texte.\nJe crains que vous ne fassiez une fausse promesse à la population, en faisant croire que des méthodes purement répressives vont régler le problème que vous soulevez. On voit bien qu’au cours des dernières années, l’inflation pénale a été réelle et continue, avec parfois quelques petites marches arrière qui n’endiguent toutefois pas le mouvement général ; pourtant, selon vos informations, qui ne sont d’ailleurs pas celles du ministère de l’intérieur, la violence semble se déchaîner dans notre pays."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "C’est une réalité !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "On a donc du mal à vous suivre, car vous souhaitez aller toujours un peu plus loin, en proposant chaque fois les mêmes solutions qui ne marchent pas, dans l’espoir que, cette fois-ci, elles marcheront. Cette posture me laisse assez dubitatif et cela devient plutôt inquiétant. (Applaudissements sur quelques bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre d’État."
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "Nous discutons depuis ce matin – c’est d’ailleurs passionnant – de la politique pénale, donc de la politique carcérale, ou de la politique carcérale, donc de la politique pénale. Je me suis efforcé de dire à plusieurs reprises que, dans aucun pays d’Europe – aucun –, le problème de la surpopulation carcérale n’a été résolu, quels que soient les dirigeants.\nJe pourrais aussi dresser une comparaison avec notre histoire politique récente. Je le dis en particulier à ceux qui ont pris la parole et qui étaient au pouvoir il n’y a pas si longtemps. Ils comparent les quinquennats en évoquant ce qui a été bien fait, manifestement, sous François Hollande, par Christiane Taubira, et mal fait sous Nicolas Sarkozy, par exemple. Mais permettez-moi une petite remarque : la surpopulation carcérale n’est pas née avec l’élection de Nicolas Sarkozy ou d’Emmanuel Macron."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Voilà !"
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "Je voudrais simplement souligner, madame la députée du groupe socialiste, que, le 1er avril 2017, il y avait 71 000 personnes dans les prisons françaises pour 55 000 places de prison. Lorsque vous avez laissé le pouvoir à la nouvelle majorité, la surpopulation carcérale était très importante, il y avait 3 500 matelas au sol, et plus de 60 % des prisons étaient à rénover.\nJe rappelle que, le 1er avril 2012, quand Nicolas Sarkozy a rendu le pouvoir, il y avait 67 000 personnes en prison pour 58 000 places. La surpopulation carcérale était donc moindre à la fin de son quinquennat que lorsque vous étiez au pouvoir. Cela devrait vous inciter à faire preuve d’un petit peu plus de modestie dans ce débat.\nPersonne n’a trouvé la martingale. La surpopulation carcérale constitue une indignité totale, d’abord pour les agents pénitentiaires, qui font un travail très difficile dans ces conditions, ensuite, bien évidemment, pour les détenus. Elle a bien sûr un effet très néfaste sur la récidive : le taux de récidive, qui s’élève à 60 %, n’a pas changé depuis vingt ans, toutes majorités confondues.\nAvant de donner des leçons sur ce qui a marché et ce qui n’a pas marché, on pourrait tous se dire qu’il s’agit de problèmes d’une grande complexité, qu’aucun pays d’Europe n’a pour l’instant réussi à régler et qu’aucun des partis politiques qui ont gouverné le pays jusqu’à présent n’a totalement réussi à résoudre.\nQuant à l’argument constitutionnel, la preuve du pudding, c’est qu’on le mange. Vous évoquez vous-mêmes la suppression par Mme Taubira des peines planchers précédemment instaurées. Si elles l’ont été, c’est bien qu’elles étaient constitutionnelles !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ben oui !"
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "On peut désapprouver les peines planchers. J’ai émis moi-même à la tribune un certain nombre de réserves, même si j’ai indiqué que le travail de Mme Moutchou, qui s’oriente davantage vers la peine minimale que vers la peine plancher, avait le soutien du gouvernement. Comme je l’ai dit s’agissant de la proposition de loi de M. Kervran, la réflexion que nous devrions avoir au sujet des peines planchers mériterait un débat plus large que celui qu’occasionne l’examen d’une simple proposition de loi. Le groupe de Paul Christophe a cependant raison de mettre cette discussion sur la table. Échangeons des arguments rationnels plutôt que des arguments d’autorité. Personne n’a réussi à mettre fin à la surpopulation carcérale, pas plus qu’à faire diminuer la récidive, et faire preuve d’un peu de modestie devant ces questions nous encouragerait tous à avoir un bon débat. (Applaudissements sur les bancs des groupes DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je suis saisi de quatre amendements identiques, nos 1,8, 29 et 33, visant à supprimer l’article.\n La parole est à Mme Elsa Faucillon, pour soutenir l’amendement no 1."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Monsieur le ministre, vous affirmez qu’en Europe, aucun pays n’a réussi à lutter efficacement contre la récidive, ni contre la surpopulation carcérale. Ce n’est pas vrai : certains pays ont opéré un virage par rapport au tout carcéral et leurs maisons d’arrêt ne présentent pas comme les nôtres un taux d’occupation de 140 ou 150 %. On voit même que, dans certains pays européens, le nombre moyen de détenus pour 100 places ne dépasse pas 78 ou 80. Il est donc faux de dire qu’aucun pays n’a réussi à travailler sur la question de la surpopulation carcérale."
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "De quels pays parlez-vous ?"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "De l’Allemagne ou de l’Espagne, qui ne présentent pas une surpopulation carcérale telle que la nôtre."
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "En Allemagne, il y a le même nombre de places de prison que chez nous, alors que la population est plus nombreuse."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Ce que vous dites n’est donc pas juste. On a en revanche constaté que, dans ces pays-là, la déflation carcérale n’a pas fait augmenter la récidive. Nous voyons donc bien que ce que vous proposez n’est pas la solution.\nCe qui est indiscutable, madame Moutchou, c’est que les peines planchers ont fait croître la population carcérale – plus de 4 000 détenus supplémentaires selon un rapport sénatorial de 2015 – pour un surcoût de plus de 146 millions d’euros. L’effet dissuasif des peines planchers est, de plus, extrêmement faible.\nSi vous en revenez à cette question des peines planchers, ce n’est donc que pour accompagner cette tendance qui voudrait faire croire à la population qu’on traitera le problème de la délinquance par un recours accru à l’enfermement."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Impeccable et implacable !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698453",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Jean-François Coulomme, pour soutenir l’amendement no 8."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Si les peines de prison empêchaient la délinquance, ça se saurait. Admettons pourtant que vous ayez raison – admettons que les peines d’incarcération dissuadent de commettre crimes et délits. Poursuivons votre logique jusqu’au bout : nous serions conduits, afin de nous débarrasser de toute délinquance et de toute criminalité, à instaurer des peines planchers maximales, pour toutes les infractions et dès la première mise en cause. (M. Sylvain Berrios s’exclame.) Voilà la logique qu’il faudrait suivre si la prison était le remède aux défauts de notre société.\nNous sommes au contraire convaincus, à La France insoumise, que le dysfonctionnement de la société – et non un dysfonctionnement génétique, culturel, lié à telle ou telle famille, telle ou telle origine – est ce qui pousse aux délits et aux crimes. Nous avons eu l’occasion de le dire tout à l’heure, lors de l’examen de la proposition de loi visant à faire exécuter les peines d’emprisonnement ferme : l’éducation est un facteur déterminant en ces matières. Nous appelons donc de nos vœux un texte qui vise à compenser les défaillances de l’éducation nationale par des moyens supplémentaires ou par des mesures d’accompagnement pour les enfants en rupture scolaire, afin qu’ils ne finissent pas en prison.\nPoursuivons encore l’examen de votre logique : si la prison était réparatrice, ça se saurait également. Du fait de l’insuffisance des moyens dont dispose l’administration pénitentiaire, on ne peut plus parler d’encellulement, mais plutôt de mise en cage. En quoi amenderions-nous, de cette manière, nos semblables ?"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698457",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Sandra Regol, pour soutenir l’amendement no 29."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Cela a déjà été souligné : votre proposition de loi, madame Moutchou, n’est qu’une redite de votre précédente tentative de 2023, à quelques modifications près, comme une légère modulation du caractère systématique de la peine. Les conséquences des peines planchers, dans un contexte de renforcement de la répression, sont toutefois bien documentées – dans le rapport de la Cour des comptes sur la surpopulation carcérale de 2023, par exemple. Ce renforcement de la répression pénale s’accompagne d’une fonte des budgets de la mission Justice, qui n’est pas explicite dans le projet de loi de finances mais s’opère à bas bruit, à coups d’annulations successives de crédits. La situation est déjà difficile, et vous voulez encore l’aggraver.\nTout cela pour « restaurer l’autorité de l’État ». Un très beau titre – mais restaurer l’autorité de l’État, c’est avant tout recréer de la confiance : confiance dans nos institutions, dans notre justice, confiance dans nos élus et leur exemplarité."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "La justice à deux vitesses que l’on devine dans vos propos, madame la rapporteure, n’y contribuera pas. Je ne retrouve donc rien, dans l’article unique que vous proposez, qui puisse réellement tendre à restaurer l’autorité de l’État.\nL’actuel ministre de l’intérieur s’est par ailleurs exprimé ce soir. J’ai été assez choquée de l’entendre jeter l’opprobre sur l’institution judiciaire dans son ensemble,…"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Une honte !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "…sur les magistrats, sur leur façon de rendre la justice, sur leur prétendue corruption. Ce n’est pas la première fois que nous entendons un ministre de l’intérieur dire du mal de l’institution judiciaire, mais je croyais que c’était derrière nous."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Ne s’agissait-il pas de ce même ministre qui est aujourd’hui au banc ?"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "C’est scandaleux de dire ça !"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Ce qui est scandaleux, ce sont les propos tenus par M. Retailleau !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Que pensez-vous d’ailleurs, monsieur le ministre de la justice, de la façon dont M. Retailleau critique l’administration que vous gérez ?"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "C’est scandaleux de remettre en cause la probité du garde des sceaux !"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "C’est scandaleux – et ça joue la montre, monsieur le président !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Je n’y suis pour rien, ces propos ont été tenus à une heure de grande écoute sur le service public ! (Applaudissements sur les bancs du groupe EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698473",
+      "valeurPtsOdj": "2",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Fabrice Roussel, pour soutenir l’amendement no 33."
+        },
+        {
+          "orateur": "M. Fabrice Roussel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841327",
+          "texte": "Ce texte témoigne d’une volonté de mettre en cause l’action des magistrats. Je ne crois pourtant pas qu’ils fassent preuve d’indulgence quand ils ont à statuer sur des atteintes à des policiers ou des gendarmes. Nous n’avons pas besoin, dans un moment où il nous faut retrouver confiance en notre justice, de ce geste de défiance à leur égard.\nNous avons déjà fait l’essai des peines planchers : elles ne servent à rien. Elles ne permettent pas de lutter contre la surpopulation carcérale ni contre la récidive. La conférence de consensus sur la prévention de la récidive, en 2012, a conclu qu’il fallait laisser les magistrats travailler à l’individualisation des peines. Autant de points importants qui justifient cet amendement de suppression. (Applaudissements sur les bancs des groupe SOC et EcoS. – Mme Elsa Faucillon applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "Défavorable également."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Pascale Bordes."
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Vous prétendez que les dispositions dont nous débattons porteraient atteinte au principe d’individualisation des peines. Je vous recommande pourtant vivement la lecture de la décision rendue par le Conseil constitutionnel le 9 août 2007, qui considère que ce principe « ne saurait faire obstacle à ce que législateur fixe des règles assurant une répression des infractions » et qu’« il n’implique pas davantage que la peine soit exclusivement déterminée en fonction de la personnalité de l’auteur de l’infraction ». On risquerait sinon l’arbitraire. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Il ne dit pas que ça !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Danièle Obono."
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Nous examinons en effet ce texte pour la deuxième fois. Comment pouvez-vous croire, madame la rapporteure, que les quelques modifications que vous y avez apportées suffiront à nous convaincre, cette fois-ci, de son utilité ? Tout nous porte au contraire à en douter : la littérature scientifique, les rapports de la contrôleuse générale des lieux de privation de liberté, les condamnations que la France accumule pour les traitements qu’elle inflige aux détenus. Je ne vois pas que vous ayez apporté de nouveaux arguments en faveur de votre proposition – c’est qu’il n’y en a pas.\nEn tant que parlementaires, nous avons la prérogative et la responsabilité de visiter les lieux de privation de liberté."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Ces visites nous permettent, souvent, de constater l’état déplorable des prisons dans lesquelles travaillent des agents pénitentiaires et dans lesquelles se trouvent également des personnes en détention provisoire. Ces personnes, qui ne sont même pas condamnées, souffrent ainsi déjà de conditions de détention extrêmement dégradantes. Je ne pense pas que vous ayez jamais entendu personne – y compris dans le personnel de l’administration pénitentiaire – dire qu’il faudrait davantage de prisonniers."
+        },
+        {
+          "orateur": "M. Christophe Plassard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793572",
+          "texte": "Mais ce n’est pas le but du texte !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Ce texte prétend répondre, entre autres, aux délits commis à l’encontre des agents pénitentiaires : on sait pourtant que la surpopulation carcérale favorise la violence à laquelle ces derniers sont confrontés."
+        },
+        {
+          "orateur": "Mme Anne Le Hénanff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794426",
+          "texte": "Il faut faire plus court !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix les amendements identiques nos 1, 8, 29 et 33."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        82\n        Nombre de suffrages exprimés                82\n        Majorité absolue                        42\n                Pour l’adoption                32\n                Contre                50"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 1, 8, 29 et 33 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698495",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je suis saisi de trois amendements, nos 37, 26, 36, pouvant être soumis à une discussion commune.\n La parole est à M. Olivier Fayssat, pour soutenir l’amendement no 37."
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "À défaut d’un rétablissement général des peines plancher, cet amendement de repli vise à instaurer des peines planchers spécifiques pour les auteurs d’agressions contre les forces de l’ordre, contre les personnes titulaires d’un mandat électif, les personnels de justice, les gardiens, les enseignants ou les sapeurs-pompiers. Il s’agit de protéger, à tout le moins, ceux qui sont au service de la collectivité. (Applaudissements sur les bancs du groupe RN.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698497",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 26 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Pascale Bordes, pour soutenir l’amendement no 26."
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Je le retire."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 26 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698500",
+      "valeurPtsOdj": "2",
+      "titre": "(Les amendements nos 37 et 36, successivement mis aux voix, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "L’amendement no 36 de M. Éric Ciotti est défendu.\nQuel est l’avis de la commission sur ces amendements ?"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Gabrielle Cathala."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "Ces amendements partagent la logique de la proposition de loi. Ils ne contribueront qu’à aggraver la surpopulation carcérale – sujet sur lequel la rapporteure n’a pas répondu.\nM. Darmanin prétend qu’aucun pays européen n’a réussi, mieux que nous, à juguler la population carcérale : c’est absolument faux. Aux côtés de la Roumanie et de Chypre, la France fait partie des plus mauvais élèves de l’Europe en matière de surpopulation carcérale. (Mme Mathilde Panot applaudit.) La contrôleuse générale des lieux de privation de liberté, Mme Dominique Simonnot, nous a rappelé en fin d’année dernière, après la remise de son rapport annuel, que si l’Allemagne compte 20 millions d’habitants de plus que la France, elle compte 20 000 détenus de moins. La situation sécuritaire y est pourtant quasiment la même. La contrôleuse en est ainsi amenée à se demander pourquoi la France échoue là où l’Allemagne réussit. Elle nous dit également que, dans les prisons allemandes, c’est une personne par cellule, et tous au boulot. Elle ajoute que les jours-amende ont été développés en Allemagne, quand, en France, nous ne faisons qu’accentuer la répression – la proposition de loi sur le narcotrafic en donne un nouvel exemple. La France, enfin, a été de nouveau épinglée par le Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants. (Applaudissements sur les bancs du groupe LFI-NFP.)\nD’où viennent donc vos données, monsieur le ministre ? La CGLPL, le Conseil de l’Europe, l’Union européenne et la presse dans son ensemble nous disent que la France fait partie des plus mauvais élèves, quand les exemples ne manquent pas – Allemagne, Finlande, Espagne, Portugal, Danemark, Pays-Bas – de pays qui réussissent mieux. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Sylvain Berrios s’exclame.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre d’État."
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "On ne peut pas laisser dire des inepties pareilles dans l’hémicycle. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Oh !"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Un peu de respect pour la représentation nationale !"
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "Vous semblez surtout vouloir faire perdre du temps à l’Assemblée, et il est inutile, je pense, d’essayer de vous convaincre. (Applaudissements sur les bancs des groupes Dem et HOR.) Pour ceux qui, cependant, nous écoutent et qui attendent de nous un débat sérieux, je rappelle que les peines de prison moyennes – je vous renvoie aux discussions que nous avons eues lors de l’examen de la proposition de loi de M. Kervran – sont de onze mois en France et de sept mois en Allemagne. La raison ? Il n’y a pas, en Allemagne, d’aménagement pour les courtes peines lors de la première condamnation – c’est la même chose pour tous les exemples que vous avez pris. Faites donc preuve d’un peu de cohérence : si vous n’approuvez pas la proposition de Mme Moutchou et si vous voulez une diminution de la surpopulation carcérale à l’allemande ou à la néerlandaise, il fallait voter la proposition de loi de M. Kervran !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "C’est sûr ! Vous pouvez encore vous rattraper !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 37 et 36, successivement mis aux voix, ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698516",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 23 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je suis saisi de deux amendements identiques, nos 23 et 35.\n La parole est à Mme Pascale Bordes, pour soutenir l’amendement no 23."
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Je le retire."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 23 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698519",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 35 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme la rapporteure, pour soutenir l’amendement no 35."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Je le retire également."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 35 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698522",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 25 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Pascale Bordes, pour soutenir l’amendement no 25."
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Retiré."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 25 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698525",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 32 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Nicolas Ray, pour soutenir l’amendement no 32."
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Je le retire."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 32 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698528",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 28 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Pascale Bordes, pour soutenir l’amendement no 28."
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Retiré."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 28 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698531",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 27 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Qu’en est-il de l’amendement no 27 ?"
+        },
+        {
+          "orateur": "Mme Pascale Bordes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793844",
+          "texte": "Retiré également."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 27 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Madame Obono, retirez-vous l’amendement no 13 ?"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Jamais !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698536",
+      "valeurPtsOdj": "2",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est donc à Mme Danièle Obono, pour soutenir l’amendement no 13."
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Nous sommes là pour défendre ces amendements de repli – non pas dans le but faire perdre du temps, mais bien pour empêcher pour que ce texte ne soit voté. (Applaudissement sur les bancs du groupe LFI-NFP. – Exclamations sur les bancs du groupe HOR.) Nous tâcherons donc de prendre le temps qu’il faut pour vous convaincre de voter ces amendements, afin que les dispositions de ce texte ne s’appliquent pas.\nVous ne daignez pas prêter attention aux arguments que nous vous opposons, qui touchent pourtant exactement aux objectifs que vous prétendez vous donner. Quand on parle des conditions de vie en prison, il est essentiel d’évoquer celles des détenus, mais aussi celles des agents pénitentiaires.\nMonsieur le ministre, vous avez beau jeu de critiquer les gouvernements précédents qui ont exercé le pouvoir sous d’autres étiquettes politiques, mais vous êtes à la manœuvre depuis sept ans ! Et le groupe Horizons est allié au groupe macroniste, également depuis sept ans. Alors, quelle politique avez-vous menée durant cette période ? La même que celle prévue dans ce texte : une politique d’inflation pénale et carcérale."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Exactement ! Ce sont les meilleurs amis de l’inflation carcérale !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Quel est le résultat de cette politique ? De votre propre aveu, c’est un échec complet. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Pourquoi persister dans cette voie puisque, j’y insiste, depuis sept ans, vous appliquez la même politique, avec les mêmes effets désastreux ?"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Monsieur le président, c’est deux minutes !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Ces effets touchent à la fois les personnes en détention et les agents pénitentiaires, dont vous prétendez vouloir protéger l’intégrité et que vous voulez défendre contre les agressions physiques. Pourtant, c’est votre politique qui est en cause… (Protestations sur les bancs du groupe HOR, dont les membres manifestent des signes d’impatience.)\nNous continuerons aussi longtemps qu’il le faudra, et nous irons jusqu’au Conseil constitutionnel… (Le temps de parole étant écoulé, M. le président coupe le micro de l’oratrice.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Sur les amendements nos 13, 14, 15, 16, 17 et 18, je suis saisi par le groupe La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Pourquoi vous n’aimez pas le Parlement ?"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Ce n’est pas le Parlement que nous n’aimons pas !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Avis défavorable, comme pour tous les amendements d’obstruction. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Gérald Darmanin",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA607846",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Benjamin Lucas-Lundy."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Je partage les propos de ma collègue Sandra Regol. Il est impossible d’ignorer l’éléphant dans la pièce, ce soir. Monsieur le garde des sceaux, pendant que nous débattons de la justice – un sujet sérieux qui intéresse nos concitoyens –, à la télévision, le ministre de l’intérieur a affirmé qu’il y aurait des juges rouges, reprenant ainsi une rhétorique propre à l’extrême droite. (Exclamations sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Monsieur le président, ce n’est pas l’amendement !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Selon lui, le problème de la justice française, ce serait la CEDH. C’est l’argumentaire du Rassemblement national ! (Applaudissements sur plusieurs bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Monsieur Lucas-Lundy, je vous invite, vous et vos collègues, à vous en tenir strictement à la défense des amendements. Je serai vigilant sur ce point. Je vous redonne la parole mais revenez au texte de l’amendement. Nous ne sommes plus sur les considérations générales – la discussion générale a déjà eu lieu."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Sans remettre en cause votre présidence, il ne vous échappera pas qu’il est nécessaire de contextualiser notre avis et la position de notre groupe sur un amendement. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP. – Exclamations sur les bancs du groupe HOR.) En l’espèce, nous parlons des juges, de la justice et des règles que nous souhaitons leur fixer. Il est donc primordial que la représentation nationale soit éclairée sur les déclarations scandaleuses et provocantes du ministre de l’intérieur ce soir même – ce n’était pas hier, ni il y a six mois, ni il y a dix ans, mais ce soir même ! (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ce n’est pas l’amendement !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Je ne fais pas non plus référence au garde des sceaux actuel – qui avait estimé que le problème de la police était la justice. Je parle du ministre de l’intérieur en poste, qui remet gravement en cause des principes fondamentaux."
+        },
+        {
+          "orateur": "Plusieurs députés du groupe HOR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Ce n’est pas notre texte, c’est de l’obstruction !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Ils font toujours ça…"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Dimanche, une manifestation est prévue à Paris, visant à créer une sorte de putsch contre la justice. Ce soir, elle a reçu le soutien du ministre de l’intérieur. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP.) C’est un fait grave qui exige que le ministre qui est au banc s’explique. Il serait également nécessaire que notre assemblée, qui est en train de délibérer, puisse s’exprimer sur ce sujet."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Monsieur Lucas-Lundy, je vous ai laissé vous exprimer sur cet amendement. Cependant, pour les amendements suivants, je vous préviens que je n’hésiterai pas à couper la parole si l’intervention ne reste pas strictement sur le texte de l’amendement.\nJe mets aux voix l’amendement no 13."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        76\n        Nombre de suffrages exprimés                76\n        Majorité absolue                        39\n                Pour l’adoption                31\n                Contre                45"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 13 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698573",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Gabrielle Cathala, pour soutenir l’amendement no 14."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "Je viens de consulter le rapport de Mme Moutchou sur sa proposition de loi, et je suis très étonnée. En effet, aucune des études qui remettent en question l’efficacité des peines planchers pour éviter la récidive, ou qui soulignent leur impact sur la surpopulation carcérale, n’est mentionnée dans le rapport ni dans les notes de bas de page. Cette omission me semble quelque peu partiale dans la manière de présenter les faits, et c’est pourquoi je souhaite revenir sur nos interrogations : quelles mesures sont prévues par le gouvernement ou par le groupe Horizons, qui se dit particulièrement concerné par le sujet des prisons, pour lutter contre la surpopulation carcérale – sujet primordial lorsque nous débattons des prisons en France, selon Mme Moutchou ?\nJe souhaite également revenir sur certains chiffres, contestés par M. Darmanin. En 2004, l’Allemagne comptait 96 prisonniers pour 100 000 habitants et, en 2019, ce chiffre était descendu à 78. Comment notre voisin a-t-il pu obtenir un tel bilan ?"
+        },
+        {
+          "orateur": "Mme Claire Marais-Beuil",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841563",
+          "texte": "Ce n’est pas l’amendement !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "C’est l’amendement, ça ?"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "Oui, puisque les peines planchers aggraveront la surpopulation carcérale. J’aimerais donc obtenir des réponses, car les arguments avancés jusqu’ici sont fallacieux et ne reposent sur aucune étude.\nEn outre, je trouve étonnant qu’un rapport sur une proposition de loi qui traite des prisons ne cite pas une seule fois la contrôleuse générale des lieux de privation de liberté. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "C’est même suspect !"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "C’est pourtant la mieux placée pour nous éclairer et, si mes souvenirs sont bons, elle n’a même pas été auditionnée pour donner son avis sur le texte. C’est tout à fait surprenant."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "C’est deux minutes !"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "texte": "Enfin, vous nous accusez d’obstruction, ce qui est savoureux venant de personnes qui ont bloqué l’examen de la proposition de loi visant à abroger la retraite à 64 ans en novembre dernier ! (Applaudissements sur les bancs du groupe LFI-NFP. – M. Benjamin Lucas-Lundy applaudit également. – Le président coupe le micro de l’oratrice.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Avis défavorable.\nFaute de temps, je vais devoir retirer ce texte afin de donner à ma collègue Agnès Firmin Le Bodo l’opportunité de faire adopter la proposition de loi suivante. Mais, vous me connaissez, je vous l’ai déjà dit et le répète : je reviendrai – nous reviendrons – avec ce texte. (Applaudissements sur les bancs du groupe HOR et sur plusieurs bancs du groupe LFI-NFP.)\nJe constate qu’année après année, ceux qui soutiennent ces dispositions sont de plus en plus nombreux."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "La troisième fois sera la bonne !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Absolument, jamais deux sans trois."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "À l’année prochaine !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Nous reviendrons autant de fois qu’il le faudra, parce que nous voulons protéger ceux qui nous protègent. Pour nous, c’est un devoir moral et, avant tout, un devoir républicain. Tant que cette exigence ne sera pas inscrite dans le marbre de la loi, nous continuerons à agir sans relâche.\nEnfin, ce texte n’est pas seulement le mien, ni uniquement celui de notre groupe. Il appartient à tous ceux qui refusent de détourner le regard lorsque l’autorité est fragilisée, lorsqu’elle vacille."
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Vous êtes au pouvoir depuis sept ans ! Vous êtes responsable !"
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Madame Obono, puis-je dire deux mots, s’il vous plaît ? C’est pénible."
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "C’était pénible aussi pendant notre niche !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "S’il vous plaît, madame Obono, laissez parler la rapporteure."
+        },
+        {
+          "orateur": "Mme Naïma Moutchou",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Le texte reviendra, madame Obono, car nous aimons tous la justice, et elle finit toujours par trouver son chemin. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Il est donc pris acte du retrait de la proposition de loi par son auteur, en application de l’article 84, alinéa 2, du règlement.\n En conséquence, il n’y a pas lieu de poursuivre la discussion."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698604",
+      "valeurPtsOdj": "3",
+      "titre": "Discussion, après engagement de la procédure accélérée, d’une proposition de loi\n (procédure de législation en commission)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "L’ordre du jour appelle la discussion, après engagement de la procédure accélérée de la proposition de loi de Mme Agnès Firmin Le Bodo et plusieurs de ses collègues, visant à renforcer la démographie professionnelle des orthophonistes (nos 666, 1182).\nLa conférence des présidents a décidé que ce texte serait examiné dans son intégralité selon la procédure de législation en commission. En application de l’article 107-3 du règlement, nous entendrons d’abord les interventions de la rapporteure de la commission et du gouvernement, puis les explications de vote des groupes. Nous passerons ensuite directement au vote sur l’ensemble du texte adopté par la commission."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698607",
+      "valeurPtsOdj": "3",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo, rapporteure de la commission des affaires sociales."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": "rapporteure de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Je tiens tout d’abord à remercier mes collègues, notamment Xavier Albertini et Naïma Moutchou, qui, face à l’obstruction, ont décidé de retirer leurs textes afin que le mien puisse être examiné. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Obstruction, obstruction…"
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "L’orthophoniste est un professionnel de santé essentiel pour prévenir, évaluer et traiter les troubles du langage et de la communication. Son champ d’intervention ne se limite pas aux enfants, bien au contraire. Il est de plus en plus sollicité pour accompagner les adultes, notamment les personnes âgées. La place centrale des orthophonistes est désormais reconnue pour la prise en charge de la surdité, du bégaiement, des troubles dys, de l’aphasie et des troubles cognitifs, pour n’en citer que quelques-uns.\nPourtant, la France manque cruellement d’orthophonistes. Je dirais même que c’est la profession de santé où la pénurie est la plus marquée. Les 21 000 orthophonistes exerçant en libéral – des femmes, pour 97 % – ont des plannings complètement saturés, ce qui les empêche de prendre de nouveaux patients pendant des mois, voire des années. La conséquence ? Une perte de chance pour des milliers de patients.\nCette situation est d’autant plus regrettable qu’elle pourrait être corrigée par une augmentation des places en formation d’orthophonie, l’une des plus demandées sur Parcoursup, avec 30 000 vœux chaque année. C’est pourquoi ma proposition de loi, adoptée à l’unanimité en commission, vise à envoyer un signal politique fort pour adapter notre système de formation aux besoins de notre pays.\nL’article 1er prévoit une augmentation de l’ordre de 50 % du nombre d’étudiants admis en première année d’ici 2030. Ce n’est pas un numerus clausus, mais un chemin de croissance, un horizon que nous nous fixons pour investir dans la formation. Une clause de réévaluation est prévue en 2030, afin d’ajuster la programmation aux besoins réels.\nPour former davantage d’étudiants en orthophonie, il sera indispensable de répondre à la pénurie de stage. C’est pourquoi, à l’article 2, je propose la création d’un statut de maître de stage universitaire en orthophonie, afin de valoriser ce statut et de professionnaliser la formation.\nEnsuite, pour améliorer la répartition des orthophonistes sur le territoire, l’article 3 prévoit que les étudiants pourront signer un contrat d’engagement de service public (CESP) incitatif, pour exercer dans certains lieux particulièrement désertés, comme les établissements sanitaires et médico-sociaux.\nEnfin, en reconnaissance de la qualité et de la formation des orthophonistes, qui se déroule désormais sur cinq ans, nous avons décidé, à l’unanimité, de créer le diplôme d’État d’orthophoniste.\nJe remercie tous les membres de la commission des affaires sociales pour le travail constructif que nous avons effectué la semaine dernière en commission. Je sais pouvoir compter sur leur soutien à ce texte, qui améliorera significativement l’accès aux soins partout en France.\nJe remercie également les administrateurs qui m’ont accompagnée dans la préparation de l’examen de ce texte. Enfin, je salue les orthophonistes, qui nous écoutent ce soir, alors qu’il est très tard, et qui attendent beaucoup de notre vote qui, je l’espère, sera unanime. (Applaudissements sur les bancs des groupes HOR et Dem et sur quelques bancs du groupe RN. – Mme Nicole Dubré-Chirat applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre chargé de l’enseignement supérieur et de la recherche."
+        },
+        {
+          "orateur": "M. Philippe Baptiste",
+          "fonction": "ministre chargé de l’enseignement supérieur et de la recherche",
+          "role": null,
+          "idActeur": "PA855049",
+          "texte": "Je suis heureux de prendre la parole pour mettre en lumière une profession essentielle au sein de notre système de santé : celle d’orthophoniste. Chaque jour, partout en France, 20 000 orthophonistes accompagnent les enfants, les adultes et les personnes âgées pour les aider à mieux communiquer, à l’oral comme à l’écrit. Leur engagement est visible dans les établissements sanitaires et médico-sociaux, les écoles, les centres de rééducation, ainsi que dans leurs cabinets en ville.\nProfession officiellement reconnue en France depuis 1964, les orthophonistes sont exclusivement formés à l’université, sur une durée de cinq ans. Or nous faisons face à deux défis majeurs : la démographie des professionnels et notre capacité à en former davantage. En effet, malgré l’augmentation du nombre d’orthophonistes en exercice, l’accès aux soins reste très insuffisant. Les besoins ont considérablement augmenté et l’offre de soins est saturée.\nConcernant les capacités de formation, les effectifs d’étudiants peinent à croître. En 2024, nous avons tout juste franchi la barre des 1 000 étudiants admis en formation. La cible du nombre de places à ouvrir d’ici 2030, si elle était figée dans la loi, pourrait devenir une limite ne correspondant plus aux besoins réels dans quelques années.\nQuoi qu’il en soit, cela ne nous dispense pas d’une véritable analyse des besoins de soins à moyen et long termes, afin d’adapter la formation au plus près de ces besoins. C’est votre objectif, et c’est le nôtre – c’est ce qui nous réunit ce soir.\nLe statut de maître de stage universitaire permettra de valoriser l’encadrement des étudiants en stage. Il soulève cependant certaines questions, et les missions de ce maître de stage devront être précisément définies.\nEnfin, je partage votre analyse : la formation en orthophonie doit être sanctionnée par un diplôme d’État, comme toutes les autres professions de santé."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Sanctionner, sanctionner, ils ne pensent qu’à ça ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Philippe Baptiste",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA855049",
+          "texte": "Quant à la proposition d’étendre le contrat d’engagement de service public aux étudiants en orthophonie, c’est une mesure que je soutiens.\nPour conclure, je tiens à réaffirmer le soutien du gouvernement à la profession d’orthophoniste et son engagement à votre côté pour renforcer les capacités de formation à très court terme. (Applaudissements sur plusieurs bancs du groupe HOR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3699033",
+      "valeurPtsOdj": "3",
+      "titre": "Explications de vote",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "J’invite tous les groupes à s’organiser pour que nous finissions avant minuit, heure à laquelle je lèverai la séance quoi qu’il advienne.\n La parole est à M. Emmanuel Maurel."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "C’est une bonne chose de finir cette journée avec un texte qui fait plutôt consensus. La présente proposition de loi tente de répondre à une situation paradoxale : alors que le nombre d’orthophonistes augmente, les délais d’attente ne cessent de s’allonger. Je ne parle même pas des disparités régionales auxquelles la rapporteure a fait allusion.\nPlusieurs facteurs expliquent cet allongement des délais : l’élargissement progressif du champ d’intervention, une meilleure sensibilisation des enseignants aux troubles de l’apprentissage, les relations tissées avec les médecins, qui connaissent donc mieux l’orthophonie qu’auparavant, les habitudes sociales – l’exposition précoce aux écrans est susceptible de causer des retards ou des troubles du langage – ou encore le vieillissement de la population. Les besoins en orthophonie s’accroissent, alors que l’accès aux soins reste largement insuffisant. La proposition de loi entend adapter l’offre de formation à la demande croissante.\nJe m’efforcerai d’être bref pour que nous puissions voter le texte, mais je tiens à en souligner certains manques.\nMadame la rapporteure, vous avez dit que votre proposition n’instaurait pas de numerus clausus mais, dans les faits, c’est ce que vous faites, et cela doit être questionné.\nLes moyens accordés à l’université sont très insuffisants si l’on souhaite vraiment rééquilibrer la répartition territoriale de l’offre de formation – c’est un problème.\nJ’insisterai sur la désaffection à l’égard de l’hôpital public. L’immense majorité des orthophonistes exercent en libéral. Or nous en avons aussi besoin à l’hôpital public, afin d’intervenir à la suite d’un AVC, d’une opération pour un cancer ou d’un traumatisme crânien. Il faudrait donner plus de moyens aux hôpitaux.\nLes répercussions sur les soins sont importantes : un orthophoniste exerçant à l’hôpital, dans un Ehpad ou un institut médico-éducatif (IME) assure un suivi au long cours et inscrit sa pratique dans un projet d’établissement. On observe ainsi une raréfaction des lieux de stage pour les étudiants, alors que les périodes de stage représentent 29 % du temps de formation en licence et 50 % en master.\nJe voudrai évoquer un dernier point – la rémunération. Les orthophonistes gagnent à peine plus que le smic, alors qu’ils ont suivi une formation bac + 5. Cela fait partie des défis à relever, mais que la proposition de loi n’évoque pas.\nNous avons donc quelques réserves, ou plutôt quelques points d’attention. La proposition de loi va cependant dans le bon sens et elle répond à des aspirations croissantes de nos concitoyens. C’est la raison pour laquelle nous allons la voter, et nous remercions le groupe Horizons de l’avoir inscrite à l’ordre du jour. (Applaudissements sur les bancs des groupes SOC et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Sur le vote de la proposition de loi, je suis saisi par le groupe Horizons & indépendants d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Claire Marais-Beuil."
+        },
+        {
+          "orateur": "Mme Claire Marais-Beuil (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841563",
+          "texte": "Mes collègues médecins encore présents dans l’hémicycle savent d’expérience combien il est difficile de trouver un orthophoniste pour ses patients – il faut parfois plusieurs années avant d’obtenir une prise en charge. Or la prise en charge précoce des enfants qui présentent des troubles dys – dyslexie, dyspraxie… – est indispensable. Les orthophonistes assurent également le suivi des personnes qui ont fait un AVC. Nous manquons cruellement d’orthophonistes. Nous voterons donc avec grand plaisir cette proposition de loi. (Applaudissements sur les bancs des groupes RN et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Anne-Sophie Ronceret."
+        },
+        {
+          "orateur": "Mme Anne-Sophie Ronceret (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841927",
+          "texte": "Nous connaissons tous la situation sur le terrain : des professionnels trop peu nombreux, une répartition territoriale inégale et des délais d’attente beaucoup trop longs. Ce n’est plus acceptable pour les patients, dont le suivi orthophonique est essentiel, et ce quel que soit leur âge. Cette proposition de loi apporte une réponse concrète à ce défi majeur. C’est pourquoi le groupe Ensemble pour la République votera évidemment en faveur de ce texte, qui permettra de mieux former, de mieux accompagner et de mieux répartir les orthophonistes sur le territoire. (Applaudissements sur les bancs des groupes EPR, RN et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Zahia Hamdane."
+        },
+        {
+          "orateur": "Mme Zahia Hamdane (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "L’accès aux soins orthophoniques relève de l’urgence. Partout en France, des patients attendent un rendez-vous parfois des mois, souvent des années. Beaucoup d’entre eux y renoncent, faute de professionnel disponible. Cette situation est inacceptable.\nMesurons l’ampleur du problème : les patients attendent en moyenne plus d’un an pour obtenir un rendez-vous. Ces patients ne sont pas de simples chiffres : c’est cet enfant ayant des troubles du langage, dont la scolarité est mise en danger ; c’est cette victime d’AVC qui peine à retrouver la parole, faute d’un suivi adapté ; c’est aussi cette personne âgée perdant progressivement la faculté de communiquer, et qui se retrouve seule face à sa détresse. Dans certaines régions, les délais d’attente atteignent trois ans. Les listes d’attente sont si longues que certaines orthophonistes refusent toute nouvelle inscription.\nJe salue l’arrivée d’une proposition de loi sur le sujet. Elle acte la nécessité d’agir, ce qui est un premier pas. Elle tente de mieux encadrer la formation et d’encourager l’installation dans les zones sous-dotées – c’est mieux que rien. Mais soyons clairs : ce texte est insuffisant car il ne s’attaque pas à la racine du problème. Plutôt que de corriger une politique de formation défaillante, on tente un bricolage institutionnel. (Applaudissements sur les bancs du groupe LFI-NFP.) On cherche à tout prix un compromis entre la nécessité de financer la santé et l’obsession budgétaire du gouvernement, qui taille massivement dans le budget de la santé – cela ne risque pas de faire avancer grand-chose. Croire que la pénurie de soignants se résoudra sans investissements massifs est une illusion. (Mêmes mouvements.) Peut-être est-ce pour cela que Mme Firmin Le Bodo n’a pas jugé utile de défendre cette réforme quand elle était ministre.\nPourtant, la solution est connue de tous : il faut supprimer définitivement le numerus clausus dans toutes les professions de santé. (Mêmes mouvements.) Évidemment, il faudrait aussi donner assez d’argent aux formations qui en ont besoin, mais cela ne fait pas partie des préoccupations de la majorité. Plutôt que de garantir la présence d’orthophonistes sur tout le territoire, on nous vend une réforme minimaliste…"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Personne ne vous oblige à voter le texte !"
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "…– à peine cent étudiants supplémentaires chaque année. C’est un chiffre qui paraît dérisoire au regard de l’ampleur de la crise.\nLes listes d’attente de certaines orthophonistes comprennent entre 100 et 200 patients. Faites le calcul : à ce rythme, la pénurie ne sera pas résorbée avant des décennies. Par ailleurs, les conditions de travail, les horaires intenables, les revenus proches du smic et les stages non rémunérés continueront d’être la règle malgré l’extension des contrats d’engagement de service public. On augmente le nombre d’étudiantes, mais on continue à les décourager d’exercer – quelle hypocrisie !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "Maigre consolation, nous avons obtenu la redirection des nouvelles étudiantes vers les zones sous-denses. Mais nous avions proposé bien plus : mieux planifier la formation, réguler l’installation des orthophonistes, revaloriser ce métier essentiel – autant d’amendements balayés d’un revers de main !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "Comme toujours, le gouvernement refuse de prendre de vraies mesures et laisse le marché décider. Résultat : les patients continueront à subir des inégalités criantes face à l’accès aux soins, selon le territoire ou le niveau de revenus. Actuellement, le territoire français est constitué à 29,5 % de zones sous-denses. À Mayotte, où les inégalités sont criantes, obtenir un rendez-vous avant 2028 relève de l’utopie.\nNous voterons malgré tout cette proposition de loi car il faut bien commencer quelque part. Mais ne nous y trompons pas, ce texte n’est pas une solution. On repeint les murs d’une maison en ruine. Nous ne lâcherons rien : il faut obtenir une réforme digne de ce nom, qui garantisse à chacun, partout sur le territoire, un accès aux soins orthophoniques. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Fabrice Roussel."
+        },
+        {
+          "orateur": "M. Fabrice Roussel (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841327",
+          "texte": "Nous faisons face à une demande croissante de soins et à la stagnation préoccupante du nombre de professionnels de santé. Il est donc nécessaire d’améliorer l’accès aux soins dans notre pays. C’est ce que nous avons commencé à faire hier soir en entamant l’examen de la proposition de loi visant à lutter contre les déserts médicaux.\nIci, il s’agit d’augmenter le nombre de place en formation initiale d’orthophoniste, d’autoriser les orthophonistes dûment agréés à exercer les fonctions de maîtres de stage ou encore d’ouvrir le dispositif des contrats d’engagement de service public aux orthophonistes. Nous saluons ces avancées, comme nous saluons l’adoption de l’amendement de nos collègues du groupe LFI qui tend à réserver les places supplémentaires créées aux zones sous-dotées.\nL’article 3 est le bienvenu puisqu’il sert à flécher les nouveaux postes afin qu’ils bénéficient aux zones les moins dotées. Il faut cependant amorcer une réflexion plus globale sur la régulation de l’installation des orthophonistes, à l’image de celle qui a débouché sur la proposition de loi de notre collègue Guillaume Garot, et qui concerne les médecins.\nNous avons aussi besoin d’un modèle universitaire à la hauteur de nos ambitions – le texte n’y fait pas allusion. Il faut veiller au renforcement des budgets de fonctionnement, créer des postes d’enseignant-chercheur…"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Fabrice Roussel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841327",
+          "texte": "…et de personnel administratif, mais aussi mettre à la disposition des formations des locaux adaptés à des enseignements de qualité.\nCette proposition de loi a été élaborée avec la Fédération nationale des orthophonistes et améliorée en commission. Par conséquent, le groupe Socialistes et apparentés la soutiendra. (Applaudissements sur les bancs des groupes SOC et HOR. – Mme Nicole Dubré-Chirat applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Nicolas Ray."
+        },
+        {
+          "orateur": "M. Nicolas Ray (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Cette proposition de loi de nos collègues du groupe Horizons va dans le bon sens, puisqu’elle vise à augmenter le nombre d’orthophonistes sur l’ensemble du territoire. C’est une attente forte de nos concitoyens. Les besoins vont croissant : c’est notamment vrai pour les enfants, qui requièrent une prise en charge rapide, mais aussi pour les personnes victimes d’AVC ou âgées.\nNotre groupe a toujours soutenu les initiatives qui renforcent l’accès aux soins pour tous, en particulier pour les jeunes. Je salue aussi votre proposition d’étendre les contrats d’engagement de service public, dans une logique incitative. C’est une bonne mesure pour assurer la présence des orthophonistes dans les zones sous-dotées.\nJe ne serai pas plus long : nous voterons cette proposition de loi. (Applaudissements sur les bancs des groupes DR et HOR, ainsi que sur plusieurs bancs du groupe RN. – Mme Nicole Dubré-Chirat applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Sabrina Sebaihi."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "L’examen de cette proposition de loi intervient dans un contexte marqué par une saturation inédite des cabinets d’orthophoniste. La démographie professionnelle de ce secteur peine considérablement à répondre à une demande de prise en charge en augmentation. Avec seulement 33 orthophonistes pour 100 000 habitants, les délais d’attente peuvent aller de plusieurs mois jusqu’à trois ans dans les zones les moins bien dotées.\nLes orthophonistes interviennent quotidiennement dans le cadre de la prise en charge du handicap, de la prématurité, des soins intensifs, des tumeurs cérébrales et de bien d’autres maladies. Cette profession, féminisée à 97 %, est essentielle pour accompagner les personnes ayant des difficultés de communication et de langage. L’impossibilité d’accéder aux soins nécessaires peut non seulement aggraver les troubles, mais aussi accentuer le risque d’exclusion sociale, quand la capacité à communiquer avec les autres est atteinte.\nJe pense particulièrement aux enfants en situation de handicap, atteints de troubles du langage et de la communication. Les délais avant d’obtenir un rendez-vous dans un centre médico-psycho-pédagogique (CMPP) peuvent entraîner des retards de diagnostic, ce qui risque d’avoir des conséquences sur la scolarité. Alors que nous dressons le bilan de deux décennies de politiques insuffisantes en matière d’école inclusive, assurer une inclusion réelle des enfants handicapés en milieu dit ordinaire passe obligatoirement par la mise à disposition de tous les outils nécessaires pour apprendre dans les meilleures conditions. L’accès aux soins orthophoniques est un prérequis du respect du droit à la scolarité.\nDans ce contexte, le groupe Écologiste ne peut que saluer les ambitions de ce texte et le votera. Nous déplorons toutefois que l’objectif de renforcement de la démographie des orthophonistes repose toujours sur une logique de numerus clausus. Alors que nous payons aujourd’hui le prix très élevé de l’entrave à l’accès aux études de médecine, sous couvert de coupes budgétaires, n’avons-nous toujours pas retenu la leçon ?\nCette proposition de loi poursuit des objectifs louables, mais elle ne saurait se substituer à un plan global pour garantir l’accès aux soins orthophoniques, assorti d’une programmation pluriannuelle adaptée aux besoins. Le groupe Écologiste soutiendra toute démarche visant à garantir une filière de l’orthophonie satisfaisante sur le long terme aussi bien pour les patients que pour les professionnels, la revalorisation du métier et des rémunérations, et une évaluation territoriale des besoins. Nous devons aussi adapter la filière aux besoins des zones sous-denses. Nous partageons enfin les craintes de la Fédération nationale des orthophonistes, qui redoute une politique qui prend le risque de favoriser les établissements privés à but lucratif, alors que l’université publique souffre d’un sous-financement chronique.\nPenser une société du soin passera nécessairement par la pleine ouverture de l’accès à la formation et par l’octroi de moyens supplémentaires aux centres médico-psychologiques (CMP), aux CMPP et aux services d’éducation spéciale et de soins à domicile (Sessad), pour leur permettre de recruter des orthophonistes afin de compléter leurs équipes pluridisciplinaires.\nJe suis convaincue que nous nous retrouverons pour améliorer le fonctionnement de cette filière en travaillant tous ensemble. Nous prenons ce texte pour ce qu’il est – une première étape nécessaire – et nous le voterons. (Applaudissements sur les bancs des groupes EcoS et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Éric Martineau."
+        },
+        {
+          "orateur": "M. Éric Martineau (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "L’accès aux soins orthophoniques mérite toute notre attention. La répartition des orthophonistes sur le territoire reste en effet inégale, entraînant des disparités qui compliquent l’accès aux soins pour de nombreux citoyens.\nLa présente proposition de loi vise à corriger ces déséquilibres, en apportant des solutions concrètes pour demain ; elle vise à mieux répondre aux besoins de santé de nos concitoyens partout en France. Ses dispositions ambitieuses permettront l’augmentation progressive du nombre de places en formation initiale, la création du statut de maître de stage universitaire, mais aussi l’ouverture des contrats d’engagement de service public aux étudiants en orthophonie.\nCe texte n’est pas seulement une réponse technique, c’est aussi un engagement très fort pour une meilleure répartition des orthophonistes sur l’ensemble du territoire. Car il est impératif de garantir à chaque citoyen, où qu’il vive, un accès rapide et équitable à ces soins essentiels. Le groupe Les Démocrates votera donc la proposition de loi. (Applaudissements sur les bancs des groupes Dem et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Olivier Fayssat."
+        },
+        {
+          "orateur": "M. Olivier Fayssat (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "Je serai très synthétique. Les orthophonistes, c’est avant tout une pénurie : ils sont 30 pour 100 000 habitants. Or cette pénurie s’accroît alors qu’il s’agit d’une profession de santé essentielle, dont le rôle ne se limite pas à aider certains collègues à prononcer convulsivement mais néanmoins correctement le mot « inéligibilité » ; l’orthophonie, c’est surtout l’accompagnement post-AVC ou celui des cancers ORL, en passant par la prise en charge des maladies neurodégénératives.\nL’objectif est clair : porter le nombre d’étudiants de 975 à 1 463 d’ici 2030 ; créer un statut de maître de stage universitaire afin d’assurer un approfondissement qualitatif de la formation. Voilà pour les mesures phares. Le groupe UDR votera donc le texte. (Applaudissements sur les bancs des groupes UDR, RN et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Paul Christophe."
+        },
+        {
+          "orateur": "M. Paul Christophe (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642868",
+          "texte": "Sans surprise, le groupe Horizons & indépendants votera le texte qu’il défend. Il propose une meilleure reconnaissance du métier d’orthophoniste, grâce à laquelle le nombre de diplômés va augmenter, et il vise à une meilleure répartition géographique des orthophonistes – qui sont dans le même cas que les médecins dont nous avons discuté hier. Vous connaissez les travaux sur les enfants victimes de troubles du neurodéveloppement, enfants dont les besoins ne sont toujours pas satisfaits. Il s’agit aussi de répondre aux besoins identifiés chez les adultes.\nJe saisis l’occasion qui m’est offerte pour féliciter notre groupe de l’adoption de trois textes en une journée et pour remercier tous ceux qui les ont votés. (Applaudissements sur les bancs des groupes HOR, EPR et Dem. – Mme la rapporteure applaudit également.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698824",
+      "valeurPtsOdj": "3",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        72\n        Nombre de suffrages exprimés                72\n        Majorité absolue                        37\n                Pour l’adoption                72\n                Contre                0"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La proposition de loi est adoptée.)\n (Applaudissements sur les bancs des groupes HOR, EPR, DR, Dem et UDR, ainsi que sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme la rapporteure."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Merci, monsieur le ministre, pour votre soutien, merci aux collègues de tous les bancs. Nous avons en effet bien travaillé en commission et nous continuerons d’améliorer la formation et le métier d’orthophoniste dont nous avons tant besoin. J’adresse également mes sincères remerciements aux orthophonistes qui nous écoutent, pour leur engagement au quotidien. (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3698832",
+      "valeurPtsOdj": "4",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Prochaine séance, lundi 7 avril, à quinze heures :\n Discussion, en deuxième lecture, de la proposition de loi et de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité ;\n Discussion de la proposition de loi visant à convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement ;\n Discussion de la proposition de loi visant à réformer le mode d’élection des membres du conseil de Paris et des conseils municipaux de Lyon et Marseille.\nLa séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-trois heures cinquante.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

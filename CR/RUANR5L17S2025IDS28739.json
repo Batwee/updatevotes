@@ -1,0 +1,3245 @@
+{
+  "uid": "CRSANR5L17S2025O1N059",
+  "seanceRef": "RUANR5L17S2025IDS28739",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2024-12-02",
+  "dateLisible": "lundi 02 décembre 2024",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3583005",
+      "valeurPtsOdj": "1",
+      "titre": "Dépôt de motions de censure",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Je vous indique que la présidente de l’Assemblée nationale a reçu aujourd’hui, lundi 2 décembre 2024, deux motions de censure, en application de l’article 49, alinéa 3, de la Constitution, le premier ministre ayant engagé la responsabilité du gouvernement sur l’adoption des conclusions de la commission mixte paritaire sur le projet de loi de financement de la sécurité sociale pour 2025 : l’une, déposée à seize heures trente-cinq, par Mme Mathilde Panot, M. Boris Vallaud, Mme Cyrielle Chatelain, M. André Chassaigne et 181 de leurs collègues ; l’autre, déposée à dix-sept heures trente, par Mme Marine Le Pen, M. Éric Ciotti et 138 de leurs collègues."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583011",
+      "valeurPtsOdj": "2",
+      "titre": "Suite de la discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la proposition de loi visant à améliorer le traitement des maladies affectant les cultures végétales à l’aide d’aéronefs télépilotés (nos 380, 637)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583013",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Cet après-midi, l’Assemblée a commencé l’examen des articles, s’arrêtant à l’amendement no 68 à l’article 1er."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583015",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Alexandre Allegret-Pilot, pour soutenir l’amendement no 68."
+        },
+        {
+          "orateur": "M. Alexandre Allegret-Pilot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841067",
+          "texte": "Il vise à élargir le champ d’application de l’épandage par drone aux cultures en terrasses, dont les parcelles ont une pente difficile à mesurer. Imaginons que cet hémicycle est une parcelle dont la pente est supérieure ou égale à 20 ou 30 %, et que je me trouve sur une portion de celle-ci – sur une de ses terrasses : cette parcelle, prise dans son ensemble, a beau être pentue, la partie que j’en occupe, parce qu’elle est découpée horizontalement, reste plane. L’amendement vise à résoudre cette difficulté technique, afin que la proposition de loi bénéficie aussi aux vignerons ou aux cultivateurs d’oignons, entre autres, qui ne réalisent pas des terrasses pour rien : ils le font parce que c’est moins pénible et plus pratique, lorsque la pente de leur terrain est trop forte. (Applaudissements sur les bancs du groupe UDR.)"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Mercredi, malgré la pente, on va pulvériser le gouvernement !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur les amendements no 33 et identiques, je suis saisie par les groupes Ensemble pour la République et Écologiste et social d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Jean-Luc Fugit, rapporteur de la commission des affaires économiques, pour donner l’avis de la commission sur l’amendement no 68."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur de la commission des affaires économiques",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Il me semble satisfait par l’amendement no 57 de M. Ott adopté cet après-midi, qui a abaissé de 30 à 20 % le niveau des pentes concernées par le dispositif, permettant d’y inclure un certain nombre de parcelles en terrasses. Celles qui en seront exclues devront se soumettre au processus d’évaluation. C’est la raison pour laquelle je demande le retrait de cet amendement ; à défaut, j’y serai défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la ministre de l’agriculture, de la souveraineté alimentaire et de la forêt, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre de l’agriculture, de la souveraineté alimentaire et de la forêt",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 68 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583026",
+      "valeurPtsOdj": "2",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Mathieu Lefèvre, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Sur le fondement de l’article 100.\nMadame la présidente, afin de fluidifier la discussion de cette proposition de loi, pourrions-nous revenir à la règle « un pour, un contre », comme nous en étions convenus ?"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Je ne suis pas d’accord !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Je ne sais pas de quoi vous êtes convenus, je ne présidais pas la première séance consacrée à ce texte, cet après-midi.\nLa parole est à Mme Delphine Batho, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Sur le fondement du premier alinéa de l’article 100.\nContrairement à vous, jeudi dernier, lors de la niche parlementaire du groupe LFI-NFP, nous n’avons pas déposé des centaines d’amendements sur ce texte ; chacun d’entre eux porte sur le fond. Nous ne cherchons pas à ralentir les débats, nous ne jouons pas ce jeu-là. Nous pouvons le faire si vous le souhaitez, mais nous voulons surtout répondre au rapporteur et à la ministre sur chaque amendement. Il ne me semble pas que nous ayons particulièrement fait durer les débats cet après-midi pour le plaisir de les faire durer. (Applaudissements sur quelques bancs des groupes EcoS, LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La conférence des présidents n’a rien décidé de particulier concernant le déroulement de la présente discussion. Continuons au même train que cet après-midi, avec au moins deux prises de parole par amendement, comme le prévoit le règlement."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583034",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de quatre amendements identiques, nos 33, 48, 60 et 73.\n La parole est à Mme Sandra Marsaud, pour soutenir l’amendement no 33."
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "Il vise à supprimer la disposition introduite par voie d’amendement en commission, à l’alinéa 4. Nous considérons que l’interdiction d’utiliser des drones à moins de 250 mètres des habitations favoriserait les grandes exploitations et pénaliserait les petites, parfois constituées de petites parcelles successives. Nous avons eu cette discussion lors de l’examen de l’amendement de M. Ott. Des drones pulvérisant des produits phytosanitaires utilisés en agriculture biologique ou des produits de biocontrôle – comme cela se pratique en Charente – devraient pouvoir être utilisés à proximité des habitations."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583037",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 48."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Retrouvons la raison : alors que l’épandage par voie terrestre peut utiliser des substances cancérogènes, mutagènes et toxiques pour la reproduction (CMR), en bord de parcelles, jusqu’à 20 mètres des habitations, on ne pourrait pas utiliser des produits de biocontrôle avec un drone à moins de 250 mètres ? Cela n’a évidemment pas de sens et exclut de très nombreux territoires. C’est l’objectif recherché, je le sais bien, mais il ne correspond pas aux attentes des agriculteurs. Je suis naturellement favorable à ces quatre amendements identiques."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583039",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Frank Giletti, pour soutenir l’amendement no 60."
+        },
+        {
+          "orateur": "M. Frank Giletti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796034",
+          "texte": "Il tend aussi à supprimer la deuxième phrase de l’alinéa 4, que nous considérons comme un non-sens. Pourquoi créer un périmètre de 250 mètres autour des habitations pour exclure des drones apportant des bénéfices notables et reconnus, au moment même où nous cherchons à privilégier la voie aérienne sur la voie terrestre lorsqu’elle bénéficie à la santé des agriculteurs et des vignerons ? Les traitements par drone sont plus efficaces car ils sont plus précis que les engins terrestres en volant entre 1,50 et 2 mètres au-dessus des cultures. Ce périmètre d’interdiction rendrait impossible le traitement de très grandes surfaces, notamment en pente.\nL’épandage par aéronef offre aussi une plus grande protection aux exploitants agricoles, en les tenant à distance des produits nocifs pulvérisés, ainsi qu’un plus grand confort de travail, en leur évitant de porter, à dos d’homme, de lourds pulvérisateurs. Donnons aux salariés et aux exploitants agricoles l’espoir de bénéficier d’une solution alternative qui préserve leur sécurité et leur santé, et reconnaissons que cet ajout, à l’alinéa 4, est contraire à leur intérêt. (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583042",
+      "valeurPtsOdj": "2",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Vincent Rolland, pour soutenir l’amendement no 73."
+        },
+        {
+          "orateur": "M. Vincent Rolland",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266808",
+          "texte": "L’amendement de mon collègue Julien Dive vise également à supprimer cette deuxième phrase de l’alinéa 4, afin que l’épandage soit autorisé à moins de 250 mètres des habitations. En l’état, le texte pénalise les petites exploitations. Cette interdiction n’a pas lieu d’être au regard des produits d’épandage autorisés et eu égard au fait que les drones, qui garantissent une pulvérisation plus précise, limitent les risques et réduisent la quantité de produits rejetés dans l’environnement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement sur ces amendements identiques ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Des distances de sécurité pour protéger les riverains sont déjà prévues pour les épandages par voie terrestre. Selon le type de culture et le type de produit, les pulvérisations sont interdites dans un périmètre compris entre 3 et 20 mètres autour des habitations. L’adaptation de ce périmètre de sécurité aux drones ne relève pas du domaine de la loi, sauf à surtransposer – je m’y refuse. Les textes d’application seront quoi qu’il en soit tenus par les prescriptions de l’article 9 de la directive de 2009 disposant que « la zone à pulvériser n’est pas à proximité immédiate de zones résidentielles ». Il revient à des mesures réglementaires de préciser la gestion du risque et de s’adapter le plus précisément possible aux différentes situations avec un objectif de sécurité maximale des riverains, en tenant compte des différents paramètres d’exposition, tels que le type de matériel utilisé, la hauteur et la vitesse du vol. Pour toutes ces raisons, je suis favorable à ces amendements de suppression de la deuxième phrase de l’alinéa 4."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Ces amendements tendent à supprimer l’amendement que nous avons fait adopter en commission,…"
+        },
+        {
+          "orateur": "M. Vincent Rolland",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266808",
+          "texte": "C’est bien ça !"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "…qui concerne un sujet important et sensible, au cœur de la problématique posée par l’épandage aérien, celui des riverains et des tiers, parfois propriétaires d’une parcelle voisine ou d’un jardin attenant à la parcelle traitée. Vous auriez pu déposer des amendements pour réduire ce périmètre de sécurité de 250 à 150 mètres, par exemple. Non : vous préférez supprimer toute notion de distance de sécurité en renvoyant à la norme en vigueur – qui fixe la distance minimale entre 3 et 20 mètres selon les cas –, alors que l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (Anses) estime que « les valeurs de dérive aérienne générées par drone sont quatre à dix fois supérieures à celles générées par le matériel de référence quel qu’il soit ». Autrement dit, vous proposez d’élargir le champ de la mesurette qui s’applique au matériel de référence à un engin qui épand dix fois plus loin ; nous y sommes opposés.\nD’autre part, madame la ministre, la protection des riverains relève bien de la loi : les mesures de précaution et de surveillance font l’objet des articles du code rural qui suivent immédiatement ceux concernés par l’alinéa 4. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Cette question est en effet au cœur de la proposition de loi. Tout à l’heure, M. le rapporteur nous a assuré qu’il ne s’agissait pas de revenir sur l’interdiction de l’épandage par avion ou par hélicoptère. Mais même sans pilote, l’épandage par drone reste un épandage aérien ! Vous soulignez que la hauteur de vol sera réglementée et que la pulvérisation sera plus précise, ce qui évitera notamment d’épandre dans le jardin du voisin, mais ma collègue Delphine Batho a bien montré le problème : qui contrôlera la hauteur des traitements par drone, sinon l’agriculteur lui-même ? Pour qu’il y ait contrôle, il faudrait déjà qu’il y ait des contrôleurs…"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Les agriculteurs sont suffisamment contrôlés, si vous voulez mon avis !"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "De manière générale, il existe déjà un déficit du contrôle des molécules utilisées et des pratiques d’épandage. Je n’imagine pas ce que cela donnerait dans le cas d’espèce, d’autant que les traitements seront souvent appliqués par des sous-traitants. (Applaudissements sur quelques bancs du groupe LFI-NFP.)\nQu’ils soient pilotés ou non, les aéronefs exposent à un risque de dérive qui n’est pas anodin et qui justifie que nous nous opposions à toute forme d’épandage aérien. Si l’Anses estime cette dérive quatre à dix fois supérieure, cela signifie clairement que les parcelles traitées par drone seront allégrement pulvérisées, quand bien même elles le seraient par des produits de biocontrôle, que leurs voisins prendront en plein les narines. (Mêmes mouvements.)\nPar ailleurs, monsieur le rapporteur, ce n’est pas parce qu’un produit relève du biocontrôle qu’il est nécessairement inoffensif ou anodin ; au contraire, nous réclamons que certaines molécules autorisées dans l’agriculture biologique soient retirées, du fait de leur dangerosité. Nous ne versons donc pas dans la généralisation ou l’amalgame,…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "À peine !"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "…mais nous demandons que la dangerosité d’une pratique telle que l’épandage aérien soit examinée avec précision. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix les amendements identiques nos 33, 48, 60 et 73."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        126\n        Nombre de suffrages exprimés                124\n        Majorité absolue                        63\n                Pour l’adoption                79\n                Contre                45"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 33, 48, 60 et 73 sont adoptés.)\n\n            (Applaudissements sur plusieurs bancs du groupe RN.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3582902",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 20."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il vise à interdire l’épandage par drone dans les espaces naturels remarquables : réserves naturelles, parcs nationaux et régionaux, espaces du Conservatoire du littoral – la liste est longue des magnifiques paysages de France…"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Les paysages, c’est aussi l’agriculture !"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "…dont la biodiversité remarquable et les écosystèmes doivent être préservés, sans compter leur valeur patrimoniale et esthétique, qui n’est pas compatible avec l’usage intensif de drones."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "L’objet de l’amendement est de réduire la portée du texte. L’exclusion qu’il tend à instaurer, étendue à l’ensemble des espaces naturels définis par le code de l’environnement, apparaît trop générale et manque de discernement, tant le nombre d’espaces concernés semble considérable. Remarquons que certains parcs naturels disposent de chartes qui permettraient d’établir d’éventuelles règles d’usage des drones, en concertation avec les exploitants agricoles. Cela me paraît une meilleure solution. En outre, certains viticulteurs qui cultivent des parcelles situées sur des coteaux fortement pentus, au sein de parcs naturels régionaux, attendent l’autorisation du traitement par drone pour pouvoir se convertir complètement à l’agriculture biologique. Les exclure se révélerait contre-productif.\nAvis très défavorable. Je proposerai de supprimer, par l’amendement no 61, une disposition similaire introduite, en commission, à l’alinéa 6 de l’article 1er."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je veux vous rassurer : les produits phytopharmaceutiques sont utilisés dans les espaces agricoles pour protéger les cultures ; l’autorisation des drones ne conduira pas à traiter des espaces qui ne le sont pas actuellement ou qui n’ont pas besoin de l’être. En outre, les produits utilisés sont seulement ceux autorisés dans les lieux ouverts au public, conformément à la loi du 6 février 2014 visant à mieux encadrer l’utilisation des produits phytosanitaires sur le territoire national, dite loi Labbé. Les risques que vous soulignez n’existent pas. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "De nombreux collègues se signalent pour prendre la parole. Je rappelle les règles, indiquées à la suite du rappel au règlement de M. Lefèvre : deux orateurs pourront s’exprimer sur chaque amendement – un orateur pour, un orateur contre, ou deux orateurs du même avis. Je serai plus souple pour les amendements suscitant davantage de débat.\nLa parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Nous avons adopté, en commission, un amendement qui inscrit la disposition défendue par Mme Batho à l’alinéa 6 de l’article 1er. Nous étions parvenus à une majorité sur ce point en nous souvenant de la mise en garde de la Ligue pour la protection des oiseaux (LPO), qui avait souligné l’importance de protéger les espaces naturels sensibles, les drones ayant un effet perturbateur sur les populations d’oiseaux,…"
+        },
+        {
+          "orateur": "Mme Stéphanie Galzy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793892",
+          "texte": "Et les éoliennes ?"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "…qui peuvent notamment prendre ces engins pour des prédateurs. Le rapporteur présente les drones comme les meilleurs alliés de l’agriculture biologique ; or ils ont un impact négatif sur les populations d’oiseaux présentes dans les espaces naturels sensibles, qu’il convient donc de protéger en maintenant la réglementation existante. Si ce sont bien la biodiversité et l’agriculture biologique qui vous intéressent, vous devez interdire les drones.\nLe meilleur allié de l’agriculture biologique, c’est la biodiversité…"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "…d’où la nécessité de la protéger. Les oiseaux sont les premiers alliés des agriculteurs et des agricultrices puisqu’ils sont des prédateurs naturels face aux perturbateurs éventuels de l’écosystème agricole et aux ravageurs de culture."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3582919",
+      "valeurPtsOdj": "2",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Sur le fondement de l’article 100, alinéa 7, du règlement, je souhaite que les représentants des différents groupes se réunissent pour discuter du déroulement de la séance. Pour notre part, nous voulons pouvoir répondre au rapporteur de la commission lorsqu’il s’agit des amendements dont nous sommes les auteurs, surtout lorsque les arguments avancés sont inexacts. Je demande donc une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt et une heures cinquante, est reprise à vingt et une heures cinquante-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3582926",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Nous reprenons la discussion sur l’amendement no 20.\nLa parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Deux remarques. Si le rapporteur ou le gouvernement considèrent la liste des espaces naturels découlant du code de l’environnement comme trop large, il leur est loisible de la restreindre par voie d’amendement. En second lieu, il n’est pas sérieux de confier la régulation des drones aux chartes des parcs, d’une part parce qu’elles ne peuvent pas intégrer toutes les mesures qu’elles souhaitent si la loi ne les y autorise pas spécifiquement, d’autre part parce que la durée de validité d’une charte de parc naturel régional étant de quinze ans, cela revient à renvoyer aux calendes grecques la possibilité pour certains espaces naturels remarquables d’adopter des règles spécifiques."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Hubert Ott."
+        },
+        {
+          "orateur": "M. Hubert Ott",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794830",
+          "texte": "Je comprends la précaution à laquelle Mme Batho nous invite. Cependant, placer les différents périmètres de protection dans le même panier rendrait le texte inefficace. En effet, un parc naturel régional n’est pas un espace destiné uniquement à préserver l’environnement ; sa vocation est également économique, si bien que certaines activités humaines n’y sont pas restreintes…"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "L’usage des véhicules à moteur est restreint dans les parcs naturels régionaux !"
+        },
+        {
+          "orateur": "M. Hubert Ott",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794830",
+          "texte": "…bien qu’elles doivent être conciliables avec la protection de l’environnement. En outre, un parc naturel régional peut inclure des périmètres réduits faisant l’objet de réglementations spécifiques, tels que les réserves naturelles. Enfin, les parcs nationaux n’ont rien à voir avec les parcs naturels régionaux : la réglementation en matière environnementale y est plus stricte. Le problème est que nous évoquons ces différents espaces sans les distinguer, ce qui revient à parler de tout et de rien."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 20 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Dominique Potier, pour soutenir l’amendement no 12."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Madame la ministre, vous avez mentionné le plan Écophyto, qui dessine un chemin irréversible. La commission d’enquête sur les produits phytosanitaires, qui a rendu ses conclusions il y a un an, a observé combien le déploiement de ce plan était lent et laborieux. Nous avons si peu avancé que nous pouvons considérer qu’une décennie a été perdue.\nDe plus, le groupe Socialistes et apparentés est inquiet des mesures récentes intégrées au projet de loi de finances pour 2025, qui réduisent tous les budgets dédiés à l’agroécologie. Si 10 ou 20 % des solutions peuvent passer par des révolutions technologiques, génétiques ou numériques, nous sommes convaincus que l’essentiel se joue dans l’agronomie. Or la plupart des crédits d’accompagnement ont été supprimés, au bénéfice de mesures fiscales dont l’efficacité reste à démontrer : c’est une mauvaise décision.\nUne autre mesure, madame la ministre, nous inquiète beaucoup : celle qui soumet les décisions de l’Anses à des pressions économiques. C’est à la fois contraire aux principes des directives européennes et à la loi Labbé de 2014.\nDans un tel contexte, nous vous demandons au minimum, si cette proposition de loi venait à être adoptée, que l’ensemble des expérimentations aient vocation à s’intégrer dans la dynamique de réduction de 50 % de l’usage de produits phytopharmaceutiques, comme le prévoit la stratégie Écophyto 2030."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Je partage, sur le fond, cet objectif, mais les drones ne peuvent y contribuer : cette question n’a pas sa place dans l’examen de ce texte, dont l’objet est de donner un outil de plus à nos agriculteurs et non de définir les orientations de notre politique en matière de produits phytosanitaires – on pourra en débattre lors de l’examen de la loi d’orientation agricole. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je vais revenir sur plusieurs points de votre intervention.\nVous n’ignorez tout d’abord pas, monsieur le député Potier, dans quel contexte ce budget a été élaboré. Vous n’ignorez pas non plus que le budget 2024 était, en matière agricole, des plus atypiques, en ce qu’il marquait une progression très importante – de plus de 1 milliard d’euros – par rapport au précédent. Les engagements du budget 2024 n’ont pas tous été concrétisés, et c’est sur ces crédits non affectés qu’ont porté les restrictions budgétaires opérées par l’actuel premier ministre et son prédécesseur. Le budget 2025, s’il était adopté dans les formes que nous connaissons, présenterait toutefois une trajectoire positive par rapport au celui de 2023. Je ne peux pas vous laisser dire que l’agroécologie a tout à fait disparu du budget.\nJe serai claire au sujet de l’encadrement des décisions de l’Anses. Les choses doivent être dites. Il n’est pas question de revenir sur l’indépendance de l’Anses, qui relève de la loi. Je n’entends nullement lui dicter sa conduite et ses décisions – quand bien même le voudrais-je, que je ne le pourrais pas.\nVous connaissez le comité des solutions, ce dispositif qu’avait créé Agnès Pannier-Runacher face aux impasses dans lesquelles les interdictions successives de traitements phytosanitaires plaçaient un nombre croissant de filières agricoles. Ce comité, destiné à les aider à continuer de produire – c’est le moins que l’on puisse faire pour elles – et placé sous la présidence de la ministre, réunissait des professionnels de l’agriculture, des représentants de l’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (Inrae) et de l’Anses, ainsi que des représentants des fabricants de produits phytosanitaires, puisque ce sont eux qui déposent les autorisations de mise sur le marché.\nQu’ai-je ajouté à ce dispositif ? Tout d’abord, j’ai donné à cette instance, en la créant par arrêté, une existence juridique pleine et entière, sous le nom de « conseil d’orientation pour la protection des cultures ». Celui-ci vise à identifier des priorités dans les dossiers traités par l’Anses. Qu’y a-t-il là de honteux ? Il ne s’agit nullement de dicter ses conclusions à l’Agence, mais de lui demander de donner la priorité aux filières qui en ont besoin et qui sont en difficulté, et de travailler sur les extensions d’usage et les équivalences. Au niveau de l’Autorité européenne de sécurité des aliments – l’AESA, l’équivalent européen de l’Anses –, des décisions sont prises par les pays membres, qui explorent et étudient les produits. Ce travail peut servir à l’Anses. Il n’y a absolument rien dans tout ce que je viens de vous exposer qui porte atteinte à l’indépendance de l’Anses ou qui vise à encadrer ses décisions, de près ou de loin.\nQuant à la diminution de l’usage des produits phytosanitaire que vous appelez de vos vœux, nous l’espérons tous également, afin que nous puissions sortir un jour de ce débat dans lequel nous ne parvenons pas à nous entendre. Mais avant d’interdire, il faut proposer des solutions alternatives."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Ça s’appelle l’agronomie !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "J’espère que, sur ce point, nous pourrons nous mettre d’accord. (« Bravo ! » sur les bancs du groupe DR.) On ne peut pas laisser dépérir des filières entières."
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "C’est du bon sens !"
+        },
+        {
+          "orateur": "Mme Sylvie Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719968",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Le jour où nous n’aurons plus besoin de produits phytosanitaires, grâce à l’agronomie, au biocontrôle et à la recherche sur les semences, nous en serons tous heureux ; mais si nous sommes en bonne voie, nous n’en sommes pas encore là. Et vous ne pouvez pas dire qu’aucun progrès n’a été accompli, sauf à vouloir décourager les producteurs en ne reconnaissant pas les efforts considérables qu’ils font pour se passer de ces produits. Or quand on ne reconnaît pas les efforts, on les décourage tout à fait, ce qui n’est pas acceptable ! (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Guillaume Lepers",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA695512",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "J’ajoute un point important au sujet du volume des produits phytosanitaires utilisés : on l’a vu dans d’autres filières, interdire une substance, c’est susciter son remplacement par des substances autorisées, mais il faut parfois deux ou trois substances pour en remplacer une, ou deux ou trois passages pour approcher l’efficacité du produit supprimé. Il y a donc la question de la volumétrie d’un côté et la question de la nature des produits utilisés et de leur efficacité de l’autre, soit une approche plus complexe que celle visant à réduire l’utilisation des produits phytosanitaires de 50 %.\nEnfin, nous devons nous garder de toute surtransposition. Or, par cet amendement, vous surtransposez inutilement la directive européenne du 21 octobre 2009. Elle est suffisamment explicite et ne mentionne pas les volumes utilisés par les drones. Avis défavorable. (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Cette discussion est très intéressante. Madame la ministre, vous êtes favorable à la trajectoire de réduction de l’usage des produits phytosanitaires, mais vous soulignez un problème de volumétrie lié à la nature des produits. C’est une fable pour petits enfants ! À moi, vous ne la ferez pas ! Je rappelle que c’est votre gouvernement qui a supprimé l’indicateur du nombre de doses unités, Nodu, qui mesurait la volumétrie et la dangerosité des produits ! (Applaudissements sur quelques bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Non, la volumétrie seulement !"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Cela faisait quinze ans qu’il était utilisé dans l’agriculture française pour quantifier les progrès – ou leur absence – dans la réduction de l’usage des produits phytosanitaires. Vous l’avez remplacé par l’indicateur de risque harmonisé HRI 1, qui est un enfumage complet, issu de l’institut au doigt mouillé, l’IDM, dont je parlais tout à l’heure, puisqu’il ne repose sur aucune base scientifique ! (M. Jean-Luc Bourgeaux s’exclame.) Ne nous faites donc pas croire que vous vous intéressez sincèrement au problème de la réduction des volumes !\nQuant à votre affirmation selon laquelle il faut accompagner toute interdiction de produit d’une solution alternative, c’est une insulte faite aux 50 000 agriculteurs qui travaillent dans le bio et qui s’en sortent très bien sans substance chimique. Cessez de prétendre défendre une politique contraire à celle que vous avez défendue pendant sept ans dans cet hémicycle ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Je vais emboîter le pas de Dominique Potier et parler à mon tour d’agronomie. Faire de l’agronomie implique d’identifier les caractéristiques de la zone sur laquelle on travaille et d’y adapter son projet agricole. Nous avons débattu des pentes : rassurez-moi, elles n’apparaissent pas après l’installation d’un vignoble ? La pente d’un territoire est connue au moment où l’on s’y installe, ce qui exige que l’on ait réfléchi au préalable à la manière dont on y cultivera le vignoble – c’est aussi cela, l’agronomie. Il n’est donc pas nécessaire de chercher ensuite des voies détournées pour utiliser des pesticides : on connaissait dès le départ les difficultés que poserait un terrain en pente ! Il faut anticiper, choisir des cépages moins fragiles et qui ne nécessitent pas de traitement, plutôt que de faire le constat, après avoir planté, que la pente est un problème et que de s’en remettre au solutionnisme technologique. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Dominique Potier."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Les drones s’inscrivent précisément dans cette dynamique de solutionnisme technologique.\nNous n’avons jamais eu de réponse sur l’utilisation des fonds FranceAgriMer et des fonds de relance consacrés à la technosolution : à quelles filières et à quelles régions, pour quelle efficacité écologique et économique, ont-ils été alloués ? Il est normal que le Parlement inscrive les lois et les évolutions réglementaires et budgétaires dans des trajectoires plus larges.\nMadame la ministre, je souhaite répondre brièvement à certaines de vos affirmations. Je veux alerter mes collègues : ce qui se joue autour de l’Anses, et qui relève du réglementaire, est tout sauf innocent. Pour la première fois depuis 2014, on remet en cause, à visage découvert, la mission qui a été confiée à cette autorité scientifique : protéger nos biens communs écologiques et la santé humaine. Proposer de hiérarchiser ses missions en fonction des priorités économiques, c’est changer de registre. Chacun doit rester dans son rôle. (Applaudissements sur quelques bancs des groupes SOC et EcoS.) Si l’on échoue à bien séparer les pouvoirs, on ouvre la voie à la perte de confiance dans la science.\nJ’ai beaucoup de respect envers le monde paysan quand il s’engage sincèrement dans l’agroécologie – celle-ci ne se limite pas aux fermes de l’agriculture biologique et prend des formes diverses, telles que les 2 000 fermes Dephy, laboratoires des transitions futures –, mais, de grâce, ne mélangez pas les registres et ne permettez pas aux lobbys de dicter leur loi en matière de santé. Ce serait revenir au moins dix ans en arrière."
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "C’est trop long !"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Nous connaissons l’essentiel des solutions : elles se trouvent dans le rapport de la commission d’enquête, clôturée le 14 décembre 2023, sur l’incapacité de la France à atteindre ses objectifs en matière d’utilisation de produits phytosanitaires, rapport fondé sur des sources scientifiques et sur des rapports de l’État que nous avons exhumés. Le texte de la commission est bien plus complet en matière d’agronomie, de commerce et de règles économiques que la proposition de loi que nous examinons, qui ne relève que du détail, mais ce détail pourrait s’avérer dangereux… (Applaudissements sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Guillaume Lepers",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA695512",
+          "texte": "C’est de l’obstruction, madame la présidente !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 12 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583250",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 11 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Mélanie Thomin, pour soutenir l’amendement no 11."
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Le contexte budgétaire ne saurait tout justifier : il ne saurait justifier, en particulier, les renoncements en matière de réduction de l’usage des produits phytosanitaires. Nous espérons que le but de la proposition de loi n’est pas de contourner les objectifs en la matière.\nCet amendement vise à rendre plus transparent l’usage des aéronefs télépilotés, qui constituent de nouveaux outils agricoles. Nos concitoyens du monde rural ont besoin de savoir si cet usage est fiable ou non. Il y a là un enjeu de sécurité sanitaire pour les riverains des parcelles sur lesquelles vous souhaitez généraliser l’utilisation des drones.\nMadame la ministre, il ne s’agit pas d’un simple sujet de surtransposition, mais de la cohabitation entre les agriculteurs qui vont utiliser ces machines et le monde rural – les agriculteurs ont besoin de savoir dans quel cadre ils vont utiliser les drones. C’est pourquoi notre amendement vise à préciser les conditions d’autorisation de l’épandage aérien. À quelle hauteur de vol pourra-t-on utiliser ces engins ? La question est centrale pour ceux qui vivent dans le monde rural. Par ailleurs, les drones seront-ils équipés de buses anti-dérive ? Nous devons savoir si les épandages seront réalisés dans de bonnes conditions sanitaires. Nous attendons vos réponses et nous appelons l’Assemblée à adopter cet amendement, gage de transparence pour tous."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Nous avons débattu d’un amendement similaire à l’alinéa 4. Les hauteurs d’épandage sont réglementaires. S’agissant des buses anti-dérive, votre demande est satisfaite puisque la pulvérisation aérienne de ces produits par drone est encadrée par l’article 9 de la directive du 21 octobre 2009 instaurant un cadre d’action communautaire pour parvenir à une utilisation des pesticides compatible avec le développement durable. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Jean-François Coulomme."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "À quelques jours de la censure, il est étonnant que le gouvernement défende bec et ongles un texte dont les Français pourront constater les effets négatifs potentiels dans tous nos territoires. Mme Batho l’a rappelé, vous avez refusé de protéger les espaces naturels Natura 2000 en utilisant des arguments plus fallacieux les uns que les autres. Tout le monde trouve cette proposition de loi formidable, mais personne n’a vraiment évalué les risques de dispersion des produits phytosanitaires pulvérisés par drone. D’ailleurs, quand ils n’atterrissent pas sur les terrains auxquels ils sont destinés, mais dérivent sur les terrains avoisinants, ce ne sont plus des produits phytosanitaires, mais des déchets. (M. Maxime Laisney applaudit.) Vous qui êtes si fortement attachés au droit de propriété – un droit sacré, selon vous –, vous êtes prêts à le sacrifier quand des déchets, bien souvent toxiques, atterrissent sur les terrains de propriétaires qui n’ont rien demandé ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Hubert Ott."
+        },
+        {
+          "orateur": "M. Hubert Ott",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794830",
+          "texte": "Je ne peux pas laisser dire des choses pareilles ! Vous êtes dans le délire, cher collègue."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Le Conseil d’État n’a pas donné d’avis !"
+        },
+        {
+          "orateur": "M. Hubert Ott",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794830",
+          "texte": "Les espaces naturels que vous évoquez ne font actuellement l’objet d’aucun traitement, et les drones n’y changeront rien ! La dérive des produits dont vous parlez sera indiscutablement inférieure à celle générée par tous les engins actuellement utilisés sur ces terrains."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Et les hélices ?"
+        },
+        {
+          "orateur": "M. Hubert Ott",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794830",
+          "texte": "C’est un fait, c’est la réalité. Vous dérapez, ce qui nous empêche de débattre intelligemment d’un sujet qui intéresse nos concitoyens. Ces derniers veulent une agriculture résiliente qui construit son avenir tout en préservant l’environnement et la santé publique. Les drones ne perturberont pas cette évolution."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Mélanie Thomin."
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Nous avons besoin de disposer de données pour protéger les riverains et nous inscrire dans les transitions attendues. (M. Jean-Luc Bourgeaux s’exclame.) Pourquoi la proposition de loi est-elle dangereuse ? À l’origine, il s’agissait d’utiliser les drones pour des filières spécifiques – bananeraies, vignes, certaines filières arboricoles –, mais l’article propose de les généraliser à tout type de culture et de parcelle agricole en France. Cela signifie que l’on pourra épandre des produits phytosanitaires en aérien partout en France. Il ne faut donc pas minimiser les conséquences d’une telle décision – bien au contraire.\nNous demandons des réponses précises, monsieur le rapporteur. Ma question était simple, mais vous n’y avez toujours pas répondu : quelle sera la hauteur maximale de vol autorisée pour ces engins ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "C’est du réglementaire !"
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Si leur usage se généralise dans nos campagnes, les riverains ont le droit de le savoir. Alors que les projets éoliens sont contestés un peu partout en France, à l’heure où l’agrivoltaïsme se développe, il ne faut pas minimiser les conséquences d’une libéralisation de l’utilisation des drones dans le monde rural. Nous serons probablement amenés à en rediscuter d’ici quelques mois ou années."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 11 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur les amendements identiques nos 5, 13 et 23, je suis saisie par les groupes La France insoumise-Nouveau Front populaire, Socialistes et apparentés et Écologiste et social d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe suis donc saisie de ces trois amendements identiques, nos 5, 13 et 23.\n La parole est à Mme Dominique Voynet, pour soutenir l’amendement no 5."
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Depuis des heures, vous nous parlez de parcelles en pente et du risque d’accidents graves liés à l’usage d’engins sur chenilles. Vous insistez sur l’intérêt qu’il y aurait à épandre les produits phytosanitaires de biocontrôle sur les deux faces des végétaux en soulignant que l’épandage serait ainsi plus ciblé, utiliserait moins de produit, dans des conditions plus sûres – ce qui relativise d’ailleurs le refus du rapporteur que l’expérimentation s’inscrive dans l’ambition de réduction de 50 % de l’usage des produits phytosanitaires du plan Écophyto 2030. L’article I ter que vous créez dans le code rural et de la pêche maritime étend en pratique l’autorisation d’épandage des produits phytopharmaceutiques de biocontrôle, et peut-être demain des pesticides, à tous les types de parcelles ou de cultures, sans aucun égard pour les riverains. Il est donc proposé de supprimer les alinéas 6 à 13 de l’article 1er, et donc l’article I ter ainsi créé dans le code rural et de la pêche maritime."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584138",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Mélanie Thomin, pour soutenir l’amendement no 13."
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Dans la même veine, il s’agit de supprimer les alinéas 6 à 13, qui sont sur le principe dérogatoires. (Brouhaha.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Chers collègues, le brouhaha est pénible. Vous ne vous entendez vraisemblablement pas. N’hésitez pas à sortir de l’hémicycle pour discuter et faire une pause. Seule l’oratrice a la parole."
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Je vous remercie, madame la présidente. Je reprends : cet amendement du groupe Socialistes et apparentés vise à supprimer les alinéas 6 et 13, qui ouvrent l’usage des produits phytosanitaires à tout type de parcelle et de culture, par dérogation. C’est la mesure centrale du texte, et la plus dangereuse, fortement critiquée par l’Anses, qui affirme qu’aucune étude ne démontre de manière concluante que l’utilisation des drones contribue à la diminution de l’usage de pesticides. L’Anses souligne que, lors de la phase de chargement des drones, l’opérateur a plus de risque d’être contaminé car le réservoir doit être rempli plus souvent que dans un usage classique. Le risque est donc avéré. Notre amendement vise à supprimer l’article nouvellement créé afin de restreindre le périmètre de la proposition de loi aux filières spécifiques."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584146",
+      "valeurPtsOdj": "2",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Manon Meunier, pour soutenir l’amendement no 23."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "J’ajoute un argument s’il vous en fallait encore un. Dans un communiqué, l’Union nationale de l’apiculture française (Unaf), opposée à la proposition de loi, précise que les pollinisateurs essentiels à notre système agricole subiraient directement les conséquences du texte, qui ne peut se prévaloir d’aucune étude pertinente évaluant ces nouveaux risques. Aucune étude d’impact n’a en effet évalué les conséquences de l’usage des drones sur les pollinisateurs, principale ressource de nos apiculteurs, qui subissent déjà l’utilisation de produits phytosanitaires par leurs voisins. Les quelques résultats obtenus par l’Anses en leur faveur seraient gravement mis à mal par la proposition de loi.\nJ’attends toujours des réponses. Vous dites vous appuyer sur la science, mais d’après l’Anses, sur les soixante-quatorze essais menés pour vérifier l’efficacité de la pulvérisation aérienne par drone, toutes cultures confondues, soixante-sept présentent des faiblesses méthodologiques – absence de notation sur l’efficacité et de comparaison entre les modalités testées, manque d’information sur le protocole utilisé. Pouvez-vous réellement affirmer qu’il s’agit d’essais fiables et suffisants pour mesurer l’efficacité et les risques de cette méthode d’application ?"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Oui, elle a raison !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Vraiment, ce n’est pas sérieux ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission sur ces amendements identiques ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Nous avons déjà eu ce débat et j’ai exposé de nombreux arguments. Vous souhaitez supprimer les alinéas 6 à 13 et donc les essais prévus à l’article 1er. C’est votre choix, mais c’est dommage, car ils permettraient d’améliorer l’évaluation menée par l’Anses. Nous évoquerons un peu plus loin le protocole des essais et vous constaterez qu’ils concernent les mêmes produits : produits phytopharmaceutiques de biocontrôle et produits autorisés dans l’agriculture biologique.\nJe suis évidemment défavorable à ces amendements, qui suppriment toute possibilité d’expérimentation. Ce serait dommage, notamment pour nos agriculteurs."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Dominique Voynet."
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Monsieur le rapporteur, vous essayez de troubler les parlementaires ! Il n’est pas question de refuser des essais, mais la généralisation de l’épandage par drone, sous prétexte d’essais, à d’autres parcelles et à d’autres types de cultures que celles prévues actuellement."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "C’est ce que j’ai dit !"
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Il faut être clair. Vous n’avez pas répondu à M. Potier tout à l’heure."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Mais si !"
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Il vous a demandé pourquoi les expérimentations que vous proposez ne pourraient pas s’inscrire dans le cadre du plan Écophyto 2030. Veut-on réduire les pesticides ou pas ? Je le répète, soyons clairs. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Elle a raison, ce n’est pas clair !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix les amendements identiques nos 5, 13 et 23."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        162\n        Nombre de suffrages exprimés                159\n        Majorité absolue                        80\n                Pour l’adoption                61\n                Contre                98"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 5, 13 et 23 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584343",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 14 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Mélanie Thomin, pour soutenir l’amendement no 14."
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Tout à l’heure, Mme la ministre a rappelé son souhait qu’il n’y ait pas d’interdiction de produit sans solution pour les agriculteurs. Nous lui répondons qu’il serait opportun qu’il n’y ait pas d’autorisation de drones d’épandage sans évaluation scientifique. Chaque parlementaire porte une responsabilité en la matière.\nL’amendement vise à empêcher la généralisation des programmes d’application dès lors qu’ils n’ont pas fait l’objet d’une expérimentation ou d’une évaluation scientifique. Je souhaite d’ailleurs rappeler qu’une évaluation scientifique nécessite une phase d’expérimentation et du recul, ce qui, à ce stade, n’est absolument pas le cas. Nous avons besoin de cette étape d’évaluation scientifique pour véritablement appréhender le sujet des drones d’épandage aérien, car, même si M. le rapporteur en minimise l’importance, leur usage aura des conséquences significatives à la fois sur le paysage des communes rurales et sur les pratiques du monde agricole, dans une période où nous partageons l’objectif commun de réduire l’usage des produits phytosanitaires. J’ai le sentiment que la proposition de loi ne fait qu’embrouiller l’orientation politique en la matière."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "L’amendement vise à supprimer l’alinéa 6, soit le premier des huit alinéas consacrés aux essais. Étant défavorable à la suppression en bloc des alinéas 6 à 13, je le suis naturellement à la suppression de ces alinéas pris séparément. Je suis donc défavorable à cet amendement et à ceux qui suivront et qui auront pour but de supprimer l’alinéa 7, l’alinéa 8 et ainsi de suite.\nPour la clarté des débats, il me semblait important de rappeler l’objet de l’amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je suis défavorable à l’amendement, car il nie l’objet même du texte. Celui-ci ne porte pas sur l’opportunité d’utiliser des produits phytosanitaires, mais sur une technique, le drone. Si cette technique est utile, permet d’atteindre plus précisément une cible, d’intervenir plus rapidement et plus judicieusement, pourquoi ne profiterait-elle pas à d’autres filières ? (M. Benoît Biteau s’exclame.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Théo Bernhardt."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Chers collègues de gauche, quelle déconnexion ! (« Oh » ! sur quelques bancs du groupe LFI-NFP.) En permanence, avec des arguments plus farfelus les uns que les autres, vous montrez que vous êtes contre les agriculteurs."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "C’est nul sur le fond comme sur la forme !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Prenons par exemple votre argument sur les nuisances créées par les drones."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "C’est vous, la nuisance !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "De telles nuisances seraient limitées dans le temps ; en revanche, les nuisances causées par les éoliennes, en plus d’être plus gênantes, sont permanentes. En pleine mobilisation agricole, je trouve que vous ne manquez vraiment pas de culot ! (Applaudissements sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Madame la ministre, cette proposition de loi porte en effet sur une technique, mais sur une technique que nous n’avons toujours pas analysée scientifiquement et dont nous n’avons pas correctement évalué l’impact. Je vous ai déjà posé la question, mais je ne crois pas avoir eu de réponse : sept essais concluants seulement sur les soixante-quatorze menés par l’Anses, cela vous paraît-il vraiment satisfaisant ? Est-ce suffisant pour tirer des conclusions relatives à la dérive des produits phytosanitaires, à l’impact sur les travailleurs et à l’impact sur les cultures ?\nMonsieur Bernhardt, cela me fait rire de vous entendre dire que nous sommes contre les agriculteurs et que vous êtes les meilleurs défenseurs du protectionnisme en matière agricole. C’est nous qui défendons un réel protectionnisme pour préserver notre modèle agricole !"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Vous êtes toujours à la bourre sur ces sujets !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "En introduisant dans le système agricole des outils comme les drones, vous plongerez une partie de la profession dans la course à l’endettement, comme cela se produit déjà pour d’autres machines agricoles. (Applaudissements sur plusieurs bancs du groupe LFI-NFP. – Mme Dominique Voynet applaudit également.) Ce phénomène rendra les fermes de plus en plus difficiles à reprendre pour les jeunes qui s’installent. Ils auront l’obligation d’utiliser des drones pour traiter correctement les cultures (M. François Cormier-Bouligeon s’exclame) et pour être compétitifs – car c’est bien sur la compétitivité que les macronistes fondent leur politique. Si vous basez votre protectionnisme sur la compétitivité, il n’aura plus aucun sens ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Bien parlé !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Mélanie Thomin."
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "J’ai entendu l’argument de la ministre selon lequel nous débattons d’une proposition de loi purement technique. En réalité, dans le contexte de la suspension du plan Écophyto II+, la France ne suit plus aucune trajectoire de réduction des produits phytosanitaires. Tant que l’orientation agricole du pays ne sera pas claire sur ce point, aucune loi technique ne sera pertinente. Nous ne savons pas quel impact aurait l’usage des drones sur la quantité de produits phytosanitaires utilisés ; nous n’avons pas suffisamment de données, c’est l’Anses elle-même qui le dit dans son rapport.\nIl importe avant tout de définir la trajectoire de consommation de produits phytosanitaires souhaitée pour notre pays. Voulons-nous bâtir sur les acquis que nous avons construits depuis une quinzaine d’années, ou voulons-nous les écraser totalement, comme nous en prenons la direction avec la suspension du plan Écophyto ? M. Attal a fait des choix, en janvier, pour répondre à la colère de certains agriculteurs ; les renoncements qu’ils impliquent ne nous permettent pas de débattre correctement d’une proposition de loi technique comme celle-ci."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 14 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584368",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 56, repoussé par le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. David Taupiac, pour soutenir l’amendement no 56."
+        },
+        {
+          "orateur": "M. David Taupiac",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793796",
+          "texte": "Il précise que les nouveaux essais seront réalisés uniquement sur des parcelles et des cultures soumises à des contraintes d’accès par voie terrestre. M. le rapporteur a évoqué la dérogation permise par le droit européen dans le cas où la pulvérisation aérienne présente des avantages manifestes. Les parcelles difficiles d’accès répondent à cette condition."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Nous avons déjà eu ce débat en commission. Je suis défavorable à l’amendement, car la notion d’accès est restrictive et risque de rendre le dispositif contre-productif. Comme je l’ai expliqué longuement cet après-midi, il existe des bananeraies faciles d’accès, mais pour lesquelles la pulvérisation par drone serait très utile afin de lutter contre la cercosporiose noire. L’adoption de votre amendement causerait donc quelques difficultés.\nEn outre, les difficultés d’accès peuvent être temporaires. Par exemple, elles peuvent être dues à de fortes pluies. J’estime donc qu’inscrire cette condition dans la proposition de loi a peu d’intérêt. C’est pourquoi je vous propose de retirer l’amendement ; à défaut, mon avis sera défavorable. (M. Jean-François Coulomme s’exclame.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 56, repoussé par le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584374",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 64 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Stéphanie Galzy, pour soutenir l’amendement no 64."
+        },
+        {
+          "orateur": "Mme Stéphanie Galzy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793892",
+          "texte": "Il tend à remplacer les mots « présentent des avantages manifestes » par les mots « ne présentent pas de danger » dans la première phrase de l’alinéa 6. Cette modification vise à rendre la rédaction plus rassurante et plus claire pour le public.\nL’adoption d’une telle reformulation montrera notre engagement à protéger nos concitoyens et à prendre des décisions éclairées. Elle soulignera aussi notre responsabilité en tant que législateur et notre volonté de garantir la sécurité et le bien-être de tous. Nous devons rassurer et continuer de développer de nouveaux moyens de traitement des maladies affectant les cultures végétales à l’aide d’aéronefs télépilotés. Je vous invite donc à soutenir cet amendement pour un texte législatif plus clair, plus rassurant et plus accessible. (Applaudissements sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Je ne souhaite pas m’écarter du droit européen (« Ah ! » sur quelques bancs du groupe RN), en l’espèce de l’article 9 de la directive de 2009 sur l’usage durable des pesticides, qui précise bien que la pulvérisation aérienne « doit présenter des avantages manifestes, du point de vue des incidences sur la santé humaine et l’environnement ». Tenons-nous en aux mêmes termes. Demande de retrait ou avis défavorable. Il est suffisamment difficile de construire ce texte pour ne pas vouloir en plus s’éloigner du droit européen."
+        },
+        {
+          "orateur": "M. Pieyre-Alexandre Anglade",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721158",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Défavorable. Je crois qu’il faut reprendre les termes de la directive européenne de 2009. Il me semble que vous ne souhaitez pas d’habitude qu’on s’écarte du droit européen pour le surtransposer en droit français. (Sourires sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "L’amendement est savoureux, pour ne pas dire croquignolesque. Vous dites vouloir protéger les citoyens, alors que depuis le début de l’examen de la proposition de loi, le Rassemblement national n’a de cesse de vouloir élargir le prétendu encadrement prévu dans le texte pour inclure toutes les substances phytosanitaires et toutes les surfaces, y compris les rizières. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Plus de pente, plus de cadre, vous voulez faire tout sauter ! Et maintenant, vous nous expliquez que vous voulez protéger les citoyens.\nCertes, nous avons compris que vous changiez votre discours du jour au lendemain et qu’il ne fallait lui accorder aucun crédit, mais là, c’est vraiment flagrant. Essayez au moins de mettre un peu de cohérence dans vos différents amendements : votre inconséquence commence à se voir… (Applaudissements sur quelques bancs du groupe LFI-NFP. – Mme Mélanie Thomin applaudit également.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 64 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584386",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 34, repoussé par le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Benoît Biteau, pour soutenir l’amendement no 34."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Il concerne l’évaluation : pour avancer, nous devons continuer d’évaluer et, pour le faire de manière cohérente, il faut confier la tâche à des organes scientifiques compétents et adopter une approche globale. L’évaluation doit concerner plusieurs aspects que nous avons déjà évoqués, à commencer par la santé des travailleurs agricoles et celle des riverains. Je rejoins d’ailleurs les propos de M. Coulomme à ce sujet : lorsqu’un produit pesticide atteint une propriété où il n’est pas attendu, il devient un déchet.\nNous avons également évoqué cet après-midi la vie des lombrics. L’épandage par drone de pesticides sur un terrain hydromorphe, saturé en eau, ne met-il pas en danger la vie des sols ? La contrainte de la portance des sols ne s’appliquant pas à l’épandage aérien, cette pratique mettra-t-elle en péril la vie dans les sols ? Manon Meunier a évoqué l’effet de cette technique sur les oiseaux. Nous pourrions encore parler des chauves-souris ou des abeilles. Il faut procéder à une évaluation globale des effets des pesticides lorsqu’ils sont vaporisés par drone.\nJe tiens, enfin, à rassurer M. Bernhardt, qui semble penser que nous sommes opposés à toute forme de progrès. Je suis moi-même agriculteur, et la première chose que remarquent les agriculteurs qui viennent visiter ma ferme, c’est la technicité des engins que j’utilise. (Mme Dominique Voynet applaudit.) Toutefois, ces engins très techniques sont conçus pour favoriser l’agronomie et certainement pas pour mobiliser des pesticides. (Applaudissements sur plusieurs bancs des groupes EcoS, LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Vous proposez que les avantages manifestes du recours aux drones soient établis par l’Anses. Il se trouve que l’Anses, comme nous l’avons déjà dit maintes fois, est déjà impliquée dans le processus d’évaluation. En revanche, elle n’est pas décisionnaire ; la décision de passer d’un régime d’essai à un régime d’autorisation reviendra à l’État et au gouvernement.\nJe suis défavorable à l’amendement, car l’Anses est déjà associée à toutes les étapes d’évaluation de ce dispositif expérimental."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 34, repoussé par le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583069",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 35 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 35."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il est similaire au précédent, car il vise à préciser qui établit que l’épandage par drone présente « des avantages manifestes pour la santé humaine et l’environnement ». Certes, l’alinéa 9 prévoit que les résultats des essais sont évalués par l’Anses, mais il n’est pas écrit que l’autorisation des essais résulte de l’évaluation de l’Anses. En effet, le texte n’établit pas de lien logique entre la décision politique et administrative d’autorisation et l’évaluation scientifique. C’est ce que nous proposons de corriger. (Applaudissements sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Il est le même que sur l’amendement no 34 : défavorable. Ces amendements tendent à demander un avis sur les essais à l’Anses avant que ceux-ci aient été réalisés."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Pardonnez-moi d’insister, madame la ministre et monsieur le rapporteur, mais je poserai pour la troisième fois la même question : une étude de l’Anses basée sur sept essais concluants seulement – sur plus de soixante-dix – vous paraît-elle vraiment satisfaisante au point d’en tirer une proposition de loi qui aura des impacts non étudiés sur la dérive des produits phytosanitaires, et potentiellement sur les travailleurs ? En fait, on ignore quels seront ses effets, puisqu’on ne dispose que de sept essais concluants sur plus de soixante-dix – et même pour ces sept essais, les conclusions sont plutôt négatives, car elles montrent une augmentation de la dérive liée à l’utilisation de drones au lieu d’une application terrestre. Pourrions-nous avoir une réponse ?"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "On aimerait bien, monsieur le rapporteur !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Ces sept essais vous paraissent-ils vraiment suffisants ? (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur l’amendement n° 61, je suis saisie par les groupes Ensemble pour la République, La France insoumise-Nouveau Front populaire et Écologiste et social d’une demande de scrutin public.\n Sur l’amendement n° 6, je suis saisie par le groupe Écologiste et social d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 35 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583082",
+      "valeurPtsOdj": "2",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 61."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Il tend à supprimer la dernière phrase de l’alinéa 6. Nous avons déjà évoqué la question des espaces naturels. De même que je me suis opposé à l’ajout de l’exclusion des espaces naturels à l’alinéa 4, je propose, par l’amendement no 61, de supprimer à l’alinéa 6 l’ajout voté en commission contre mon avis. Je ne serai pas plus long, mais je vous invite à adopter cet amendement par souci de cohérence."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Pour la clarté du débat, je souligne que l’alinéa 6 autorise des essais d’épandage par drone pour tout type de culture, tout type de pente, etc. Il ne s’agit donc plus du tout du dispositif dont nous discutions auparavant. Monsieur le rapporteur, le code de l’environnement interdit la circulation de véhicules à moteur dans certains espaces des parcs naturels régionaux, et vous soutenez que les drones ne posent pas de problème ? Vous souhaitez donc que l’interdiction de circulation des véhicules à moteur ne s’applique pas aux drones, et qu’ils échappent à toute réglementation environnementale et paysagère ?\nNous nous opposerons à l’amendement no 61. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la présidente de la commission des affaires économiques."
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "présidente de la commission des affaires économiques",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Permettez-moi d’expliquer pourquoi la commission des affaires économiques a adopté un amendement excluant le périmètre des espaces naturels du champ d’application de l’alinéa 6. Rappelons qu’il s’agit ici d’essais conduits quelle que soit la pente. Nous avons souhaité encadrer bien plus fortement un éventuel épandage de produits phytosanitaires par voie aérienne en l’interdisant dans les espaces naturels. Il s’agit des sites Natura 2000, des parcs naturels nationaux et régionaux, des zones littorales protégées ou encore des aires maritimes protégées. Cette disposition a été adoptée car, comme vous le savez très bien, ces espaces recèlent de la biodiversité et des écosystèmes remarquables ; or l’épandage de produits phytosanitaires présente des risques pour les écosystèmes environnants – cela a été dit à plusieurs reprises. C’est, du moins selon moi, la raison qui a présidé à l’adoption de cette disposition en commission. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Hubert Ott."
+        },
+        {
+          "orateur": "M. Hubert Ott",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794830",
+          "texte": "L’adoption de cet amendement en commission est très surprenante, car il n’y a aucune raison d’aller épandre je ne sais quoi, avec un drone ou un autre engin, sur des espaces naturels protégés. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je tiens à apporter quelques précisions à la suite des propos tenus par Mme la présidente de la commission. Vous avez donné l’exemple des parcs naturels régionaux ; il se trouve que j’en ai créé un. Ils ne sont pas composés seulement d’espaces naturels."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Personne n’a dit ça !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il y a aussi des villes, des cultures."
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "présidente de la commission des affaires économiques",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "C’est bien pour ça !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Pour quel motif interdirait-on l’utilisation de drones dans les parcs naturels régionaux si les cultures ou la pente le permettent ? Il n’y a aucune raison à cela. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 61."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        145\n        Nombre de suffrages exprimés                140\n        Majorité absolue                        71\n                Pour l’adoption                84\n                Contre                56"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 61 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583104",
+      "valeurPtsOdj": "2",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 6."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il vise à introduire à l’alinéa 6 le principe de la protection des riverains, de la propriété, des espaces et parcelles voisins. (Brouhaha) Le bruit dans l’hémicycle rend difficile de s’exprimer, madame la présidente."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Je vous rejoins : il y a du brouhaha dans l’hémicycle. Si des collègues s’ennuient ou s’ils ont des choses à se raconter, ils peuvent aller à l’extérieur."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "On fait des jeux de mots !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Et quand vous parlez pendant que nous avons la parole, ça ne pose aucun problème ?"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Vous avez soutenu tout à l’heure à propos des riverains, monsieur le rapporteur, que le droit commun en matière de protection, à savoir une distance de 3 à 20 mètres, s’appliquait. Or je lis dans l’article L. 253-8 du code rural que lorsqu’il s’agit de produits de biocontrôle ou à faible risque, il n’y a pas de distance de protection des riverains. Je voudrais donc savoir si vous confirmez vos propos selon lesquels le droit commun de 3 à 20 mètres s’applique, ou si en réalité, il n’y a aucune distance et aucune mesure de protection des riverains pour l’épandage par drone de produits de biocontrôle, d’agriculture biologique et de produits à faible risque. Il est important que nous le sachions. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Nous avons déjà débattu de cette question lors de l’examen de l’alinéa 4. Je ne reviendrai donc pas sur ce point, si ce n’est pour dire que je suis défavorable à cet amendement.\nSi on l’adoptait, on ne pourrait pas utiliser un drone pour épandre des produits de biocontrôle à moins de 250 mètres d’un bâtiment, alors qu’on pourrait aller jusqu’à 20 mètres avec des substances CMR, nettement plus dangereuses. Ce ne serait pas cohérent.\nPour répondre à votre question, le droit commun applicable aux produits de biocontrôle s’appliquera pour les essais prévus par cette proposition de loi. Lors des essais réalisés par l’Anses jusqu’à présent, la dérive constatée sur des mannequins situés à 10 mètres de la zone pulvérisée était légèrement supérieure dans le cas d’une pulvérisation par drone par rapport à l’application terrestre, à concentration initiale équivalente – c’est ce que j’ai évoqué précédemment. Cependant, dans les 10 mètres au-delà de la zone pulvérisée, vers les habitations, la concentration est plus faible. Or les drones permettront d’utiliser des concentrations plus faibles ; en baissant la concentration initiale, on réduira aussi le gradient de concentration et la dérive. C’est en ce sens que les drones constituent un progrès, même si vous le contestez. Voilà pourquoi je suis défavorable à cet amendement, qui rendrait tous les essais inopérants."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Jean-François Coulomme."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "De nouveau, je suis très surpris par le taux de présence du clan macroniste quand, pendant la discussion du projet de loi de finances (PLF) et du projet de loi de financement de la sécurité sociale (PLFSS), il n’y avait personne. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Gabriel Attal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722190",
+          "texte": "Vous ne parlez pas du fond !"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Cette proposition de loi semble vraiment vous enthousiasmer, car vous êtes présents dans une proportion extraordinaire ! Je me demande si vous avez touché une prime pour ce texte en particulier, et non sur ceux qui intéressent vraiment les Français, comme le budget de la nation – mais passons. (Exclamations sur les bancs du groupe EPR.)\nAvez-vous déjà vu fonctionner un drone ? Ce n’est ni plus ni moins qu’un petit hélicoptère avec des pales qui tournent très vite et qui produisent des turbulences dans des proportions très difficiles à maîtriser."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Comment pouvez-vous faire preuve d’une telle certitude, d’une telle confiance dans cette technologie ? Je ne comprends pas : je vous trouve inconséquents, irresponsables et surtout indifférents à tout principe de précaution, alors que vous êtes censés, en tant que représentants du peuple, défendre l’intérêt général. Vous ne défendez ici que l’intérêt de quelques apprentis sorciers qui vont mettre leur propre santé en péril en manipulant des technologies telles que l’épandage par drone pour lesquelles la dispersion des molécules n’est pas du tout maîtrisée. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Stéphanie Galzy."
+        },
+        {
+          "orateur": "Mme Stéphanie Galzy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793892",
+          "texte": "Les distances de sécurité lorsque le produit contient une substance phytopharmaceutique préoccupante sont de 20 mètres, ou de 10 mètres pour l’arboriculture, la viticulture, les bananiers ou le houblon, ou même de 5 mètres pour d’autres cultures, bien évidemment avec des matériels permettant de réduire la dérive jusqu’au niveau autorisé. C’est précisément le cas avec les drones équipés de buses antidérive. Cette méthode constitue une révolution en matière de précision pour l’agriculture ; elle se traduit par l’utilisation de moins de produits et par davantage de sécurité. Votre combat est un combat archaïque."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "C’est vous qui dites cela ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Galzy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793892",
+          "texte": "Pourquoi les distances seraient-elles différentes lorsqu’on emploie des drones plutôt que d’autres méthodes de pulvérisation ? Vous-mêmes n’avez pas la réponse à cette question. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Premièrement, je note que ma question, pourtant purement factuelle, n’a pas reçu de réponse."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Si, j’ai répondu."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Le droit existant – à savoir des distances de 3 à 20 mètres – s’applique-t-il ou non ?\nDeuxièmement, monsieur le rapporteur, vous laissez entendre qu’il y aurait un problème de cohérence du côté du groupe Écologiste et social sur la question de la protection des riverains. Je vous rassure : les pesticides cancérogènes, mutagènes et toxiques pour la reproduction, nous ne sommes pour les épandre ni à 3 mètres des habitations, ni à 20 mètres : nous voulons les interdire ! (Applaudissements sur plusieurs bancs du groupe EcoS et sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 6."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        156\n        Nombre de suffrages exprimés                152\n        Majorité absolue                        77\n                Pour l’adoption                52\n                Contre                100"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 6 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583134",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 15, repoussé par la commission et le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 15 de Mme Mélanie Thomin est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 15, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583136",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 36 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Dominique Voynet, pour soutenir l’amendement no 36."
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Je serai brève, car le risque que constitue l’extension des essais à n’importe quel type de parcelles et de cultures a déjà été évoqué. Pour diminuer ce risque, l’amendement tend à réduire la durée maximale des programmes, qui pourraient être étendus à un an."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Demande de retrait, sinon avis défavorable. Un an n’est pas suffisant pour mener des essais. Lors des travaux en commission, nous avons proposé avec M. Taupiac une durée de trois ans, comme pour l’expérimentation Egalim, qui avait ensuite fait l’objet d’une étude de l’Anses. Votre proposition est presque paradoxale, car on ne pourra pas tirer les bonnes conclusions d’une expérimentation si courte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Avis défavorable. La durée d’un an est beaucoup trop courte pour collecter des données robustes démontrant l’intérêt et la sûreté du dispositif et de la méthode. Il faut tenir compte du besoin de répliquer les essais dans des conditions agropédoclimatiques variées."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "La situation est cocasse : vous évoquez des données insuffisamment robustes, mais vous proposez un texte sur la base de sept essais dont la méthodologie a été validée par l’Anses. Assurons-nous de la solidité des données du début à la fin, pas seulement quand cela vous arrange, pour prolonger ou permettre des dérogations à tout va. Dès le début du processus scientifique, le cahier des charges doit établir le volume de données nécessaires – visiblement, ce n’est pas le cas ici. Retirez donc ce texte et passons à des choses sérieuses. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. David Magnier."
+        },
+        {
+          "orateur": "M. David Magnier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841587",
+          "texte": "Il est vingt-trois heures et nous débattons du texte depuis seize heures ; nous avons donc mis près de six heures pour examiner quatre-vingts amendements."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. David Magnier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841587",
+          "texte": "Il nous en reste vingt-sept. Ce texte est important pour les agriculteurs. Je vous demande donc de retirer vos amendements ou de les défendre rapidement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Vous venez de faire un rappel au règlement, alors que je vous avais donné la parole pour donner votre position sur l’amendement no 36. La prochaine fois, faites un rappel au règlement dans les formes. En attendant, je vous remercie de me laisser présider la séance. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 36 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583942",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 16, repoussé par la commission et le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 16 de Mme Mélanie Thomin est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 16, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur l’amendement n° 69, je suis saisie par le groupe de la Gauche démocrate et républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. André Chassaigne, pour soutenir l’amendement no 69."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Je suis tellement sûr que cet amendement de bon sens fera l’unanimité que j’hésite à le présenter. Il donne à notre rapporteur l’occasion de démontrer qu’il est favorable à une approche scientifique. Dans sa rédaction actuelle, l’alinéa 8 prévoit que « les essais visent à déterminer, pour un type de parcelles ou un type de cultures, les avantages de la pulvérisation par aéronef ». Or dans une démarche scientifique, les essais doivent caractériser à la fois les bénéfices et les risques. Nous proposons de modifier la rédaction de l’alinéa en ce sens. (Applaudissements sur plusieurs bancs des groupes GDR, LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. Jean Terlier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721584",
+          "texte": "Cela fait cinq fois que vous le dites !"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "De toute façon, ils n’aiment pas la science !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "L’article 9 de la directive européenne 2009/128/CE instaurant un cadre d’action communautaire pour parvenir à une utilisation des pesticides compatible avec le développement durable, dite directive SUD, précise qu’il faut démontrer les avantages manifestes pour déroger à l’interdiction de l’épandage aérien. L’évaluation scientifique de l’Anses examine à la fois les bénéfices et les risques. En toute sincérité, votre amendement est donc satisfait. Demande de retrait, sinon avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Dominique Voynet."
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "À plusieurs reprises, le rapporteur a revendiqué une approche scientifique, n’hésitant pas à rappeler qu’il était un membre éminent de l’Office parlementaire d’évaluation des choix scientifiques et technologiques (Opecst)."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Je n’ai jamais dit ça !"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "De toute façon, ça ne veut rien dire !"
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Je lui rappelle qu’il est de rigueur que les protocoles scientifiques prévoient explicitement l’évaluation des avantages et des inconvénients, des bénéfices et des risques. (Applaudissements sur quelques bancs des groupes EcosS.)"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Il est choquant de refuser cette approche scientifique basique, enseignée dès la première année du diplôme d’études universitaires générales (Deug) de sciences."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Le Deug n’existe plus !"
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "J’ai entendu dire qu’il faudrait s’en remettre à un comité des solutions où siègent les administrations, les organisations agricoles et les industriels qui fabriquent les produits phytosanitaires – mais ni les riverains, ni les associations, ni les consommateurs, ni les usagers de l’eau. À qui devons-nous faire confiance ? Au débat démocratique, au Parlement, à la science, aux organismes et aux administrations qui s’en occupent et qui en sont les garants ! (Applaudissements sur quelques bancs des groupes EcoS, LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "C’est dégoûtant, ce que vous faites !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Je suis de nature patiente, mais cela fait cinq fois que je pose la même question à M. le rapporteur et à Mme la ministre."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Moi, jeudi dernier, je répondais aux questions,  !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "De nouveau, M. le rapporteur s’appuie sur l’étude de l’Anses, arguant qu’il s’agit d’un travail scientifique valable. Permettez-moi donc de reposer ma question :…"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Ce serait bien de répondre !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "…sur les soixante-quatorze essais menés par l’Anses, sept seulement ont été concluants. Cela vous paraît-il suffisant ? L’Anses elle-même reconnaît qu’il faudrait mener d’autres essais avant de voter un texte susceptible d’avoir des conséquences sur les travailleurs, les agriculteurs et la biodiversité. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Nous n’avons même pas parlé des goélands qui attaquent les drones ! Tout le monde se fout des goélands ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Maintenez-vous votre amendement, monsieur le président Chassaigne ?"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Oui, je le maintiens. Je ne comprends pas votre position, monsieur le rapporteur. Tout à l’heure, vous avez triché en citant l’AESA. J’ai rencontré ses responsables ; contrairement à ce que vous avez dit, ces derniers émettent des avis qui peuvent être contradictoires, en tenant compte des bénéfices et des risques."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Bah oui !"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Selon vous, l’AESA donne seulement un avis, ou alors un avis qui doit être appliqué après. C’est faux !"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "En effet, chaque État a son organisme. En France, c’est l’Anses, qui évalue les bénéfices et les risques."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Je ne comprends pas que vous soyez bloqué ainsi. C’est une mauvaise méthode. Le travail parlementaire ne consiste pas à refuser tout amendement de l’opposition : quand un amendement s’appuie sur une forme de sagesse, on l’accepte ! (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.) Nous avons vécu trop longtemps sous des majorités écrasantes qui considéraient que la vérité n’était que d’un côté. C’est cela qui tue le travail parlementaire ! (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "Mme Eliane Kremer",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722328",
+          "texte": "C’est ce que vous faites !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 69."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        141\n        Nombre de suffrages exprimés                140\n        Majorité absolue                        71\n                Pour l’adoption                54\n                Contre                86"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 69 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583979",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 38, accepté par la commission et le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 38."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 38, accepté par la commission et le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583982",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 37, accepté par la commission et le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 37 de Mme Delphine Batho est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 37, accepté par la commission et le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3583984",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 39 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 39."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il précise que les résultats des essais, évalués par l’Anses, sont également rendus publics, conformément à l’article 7 de la Charte de l’environnement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Le droit d’accéder aux informations relatives à l’environnement détenues, reçues ou établies par les autorités publiques figure déjà dans la Charte de l’environnement. Sur ce fondement, l’Anses rend publics les résultats de tous ses travaux d’expertise. Votre amendement est donc satisfait. Demande de retrait, sinon avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. René Pilato."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Monsieur le rapporteur, ma collègue Manon Meunier vous a posé cinq fois une question que je vais tourner autrement. Que reprochez-vous aux soixante-quatorze études de l’Anses, dont seulement sept sont favorables ? Prétendez-vous que votre croyance est supérieure aux protocoles et aux résultats scientifiques ? Pensez-vous que votre expertise est meilleure que celle de l’Anses ? Je réitère la question de ma collègue : oui ou non, estimez-vous que sept résultats positifs sur soixante-quatorze – une proportion que je n’ose calculer – sont suffisants pour faire adopter ce texte ? (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 39 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures quinze, est reprise à vingt-trois heures vingt.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est reprise.\nJe suis saisie de plusieurs demandes de scrutin public : sur les amendements identiques nos 45 et 47, ainsi que sur le sous-amendement no 84 à ces amendements, par le groupe La France insoumise-Nouveau Front populaire ; sur le sous-amendement no 86 à ces amendements, par le groupe Écologiste et social ; sur l’amendement no 29, par le groupe La France insoumise-Nouveau Front populaire.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\n La parole est à M. David Taupiac, pour soutenir l’amendement no 44."
+        },
+        {
+          "orateur": "M. David Taupiac",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793796",
+          "texte": "M. le rapporteur a évoqué à plusieurs reprises le fait que l’épandage par drone devrait rendre le traitement plus efficace à concentration moindre. Je propose que soit ajoutée dans le texte, où elle n’apparaît nulle part, cette notion de diminution ou du moins d’absence d’augmentation des quantités pulvérisées. Cet amendement prévoit donc que l’Anses vérifie que les programmes d’essai s’inscrivent dans une trajectoire de réduction de l’utilisation des produits phytopharmaceutiques."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Défavorable. On peut évidemment souscrire à l’objectif de réduction des quantités, mais il ne revient pas pour autant à l’Anses de l’évaluer, d’autant que l’amélioration du ciblage par le recours aux drones permettra de recourir davantage à des produits ne présentant qu’un faible risque."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 44, repoussé par le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de cinq amendements, nos 45, 47, 29, 70 et 26, pouvant être soumis à une discussion commune.\n Les amendements nos 45 et 47 sont identiques et font l’objet de trois sous-amendements, nos 86, 85 et 84.\n La parole est à M. David Taupiac, pour soutenir l’amendement no 45."
+        },
+        {
+          "orateur": "M. David Taupiac",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793796",
+          "texte": "Il vise à ce que l’Anses instaure un protocole déterminant les conditions d’autorisation des essais, ainsi que les modalités de leur réalisation et de la transmission des résultats."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3582982",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 47."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Il est identique au précédent, que M. Taupiac a brillamment défendu."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir les sous-amendements nos 86, 85 et 84, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "J’appelle votre attention, chers collègues, sur le no 86, qui vise à ce que le décret mentionné à l’alinéa 11 de l’article soit pris en Conseil d’État. N’étant pas un projet de loi, le texte n’a fait l’objet ni d’une étude d’impact, ni d’un avis du Conseil d’État ; or nombre de décisions de ce dernier ont trait aux pesticides, notamment en ce qui concerne les questions de protection des riverains ou de propriété privée.\nLe no 85 tend simplement à ce que l’avis de l’Anses soit rendu public ; le no 84, aussi important que le no 86, prévoit que la procédure d’autorisation et de réalisation des essais suit son cours « sous réserve de l’absence d’incidence négative pour la santé humaine et l’environnement »."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3582987",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 29."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Il vise à modifier l’alinéa 11 de manière à préciser que les essais auront lieu « sous réserve de l’absence d’incidence négative pour la santé humaine et l’environnement par rapport aux applications par voie terrestre ». J’ai rapidement consulté une étude suisse dont les conclusions rejoignent celles de l’Anses : dans les vignes, lorsque vous traitez par drone, les feuilles du dessus reçoivent la même quantité de produit que lors d’un épandage terrestre. En revanche, pour atteindre les feuilles situées près des grappes, il en faut quatre fois plus ; pour les grappes, sept fois plus ! (« Eh oui ! » sur quelques bancs du groupe LFI-NFP. – Mme Véronique Louwagie s’exclame.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Chers collègues, s’il vous plaît !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Vous comprendrez que si le volume utilisé est multiplié par sept, les conséquences pour la santé ne sont pas les mêmes ! Nous souhaitons donc qu’elles soient évaluées. (Applaudissements sur plusieurs bancs du groupe EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3582991",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. André Chassaigne, pour soutenir l’amendement no 70."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Un homme en colère ! (Sourires.)"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Il ne diffère pas substantiellement du précédent ; mais la ministre et le rapporteur nous répondront encore une fois que le rôle de l’Anses ne consiste pas à évaluer les risques. C’est à se demander pourquoi elle possède justement une direction de l’évaluation des risques, pourquoi elle compte parmi ses objectifs l’évaluation des risques, la qualification des dangers, la coordination des expertises ! Il est vrai qu’à vous entendre, nous n’aurions pas besoin de ses services, les drones ne présentant que des avantages. Je n’en dirai pas plus : non seulement vous usez d’arguments fallacieux, mais votre démarche est pathétique."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3582993",
+      "valeurPtsOdj": "2",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 26 de Mme Delphine Batho est défendu.\nQuel est l’avis de la commission sur ces amendements et sous-amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "S’agissant des amendements identiques nos 45 et 47, l’avis sera bien sûr favorable : M. Taupiac et moi nous étions engagés en commission à travailler sur ce point. Il s’agit de préciser, à l’alinéa 11, d’une part que l’Anses sera obligatoirement consultée au sujet du décret, d’autre part que celui-ci ne définira pas seulement les conditions d’autorisation et modalités de réalisation des essais, mais aussi les modalités de transmission à l’Anses de leurs résultats. Cette réécriture, élaborée avec la commission, satisfera en outre les amendements nos 29, 70 et 26, dont je demande par conséquent le retrait ; à défaut, avis défavorable.\nQuant aux sous-amendements, l’avis sera également défavorable. S’agissant de fixer le protocole scientifique des essais, la consultation de l’Anses est indispensable ; il n’existe en revanche aucune raison d’imposer, comme le prévoit le no 86, celle du Conseil d’État. Le no 85 est satisfait, l’Anses rendant déjà publics tous ses travaux. Le no 84 prévoit que le décret ne pourra être pris que « sous réserve de l’absence d’incidence négative pour la santé humaine et l’environnement ». Or ma démarche est celle du président Chassaigne : examiner avantages et inconvénients de l’épandage par drone. Comment pourrions-nous envisager de ne pas autoriser celui-ci si nous ne réalisons que les essais dont nous savons par avance qu’ils n’auront pas d’incidence négative ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Les amendements identiques nos 45 et 47 visent à ce que le décret fasse l’objet d’un avis préalable de l’Anses. Il est évident que celle-ci sera consultée en vue de son élaboration, de manière à s’assurer que les résultats des essais répondront aux prérequis et recommandations formulés dans son avis ; la précision n’est donc pas nécessaire, mais je m’en remets à votre sagesse.\nLe sous-amendement no 86 tend à préciser que le décret sera pris en Conseil d’État : là encore, ce n’est pas nécessaire, d’autant que le droit européen a fixé un cadre très précis. Quant au no 85, nous avons discuté de ce point ; les avis de l’Anses sont publics. Dans les deux cas, avis défavorable.\nLe sous-amendement no 84 et l’amendement no 29 visent à s’assurer que le décret ne sera pris qu’en l’absence d’incidence négative pour la santé humaine et l’environnement. Néanmoins, il s’agit d’une surtransposition par rapport à la directive européenne, et j’y suis défavorable.\nL’amendement no 70 prévoit que le décret ait plutôt pour finalité de caractériser les bénéfices et les risques sur la santé humaine et l’environnement. Toutefois, la rédaction actuelle du texte s’appuie sur l’article 9 de la directive européenne, à savoir les avantages manifestes pour la santé et l’environnement. Je ne souhaite pas que l’on s’écarte du droit de l’Union.\nEnfin, l’amendement no 26 vise à rendre cumulatives les conditions prévues par le droit de l’Union, à savoir démontrer l’absence de solution viable ou les avantages manifestes pour la santé humaine et l’environnement, alors qu’elles sont pour l’instant alternatives. Une fois encore, je ne souhaite aucune surtransposition des textes.\nPour l’ensemble de ces raisons, j’émets un avis défavorable sur ces amendements et sous-amendements, à l’exception des amendements identiques nos 45 et 47, pour lesquels je m’en remets à la sagesse de l’Assemblée nationale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Permettez-moi de revenir sur l’amendement et le sous-amendement qui font référence aux bénéfices – ou tout au moins à l’innocuité – des essais pour la santé humaine. C’est un point essentiel de la proposition de loi. Comment le texte permettra-t-il d’arbitrer entre la santé publique et les intérêts économiques ? Soyons clairs : deux camps s’opposent et vous soutenez la proposition de loi pour défendre des intérêts économiques.\nEn effet, si vous consultez la presse spécialisée relative aux nouvelles technologies digitales, comme je l’ai fait en tapant quelques mots-clés, vous constaterez que le développement de ce marché représente un intérêt économique majeur. Et puisque vous aimez citer des exemples internationaux, j’ai examiné le cas des États-Unis, où l’épandage par drone est autorisé. Voici ce que déclarent les promoteurs de cette nouvelle technique : elle permet – je cite – d’augmenter la production et de réduire les dépenses d’exploitation."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "C’est bien le prisme par lequel vous voulez nous faire avaler ces nouvelles technologies. Ce n’est pas tant, comme vous le prétendez, afin d’alléger le travail des ouvriers agricoles ou de le rendre moins pénible, que pour défendre les intérêts économiques de ceux qui déploient ce marché énorme – il se chiffre en milliards d’euros et de dollars – et qui vendent ces nouveaux outils. Ce faisant, ils aliéneront encore davantage les agriculteurs, comme l’a expliqué mon collègue Benoît Biteau, à des technologies et des opérateurs nouveaux dont ils deviendront dépendants."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "texte": "Dites cela à John Deere !"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Cela revient à leur mettre une corde supplémentaire au cou. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Le décret n’est pas simplement technique, monsieur le rapporteur. Il engage des libertés et des droits fondamentaux. À partir du moment où l’épandage par drone, y compris de produits de biocontrôle, entraîne une dérive des substances nettement supérieure à la pratique classique, l’impact sur des tiers est évident. Or la directive européenne est claire sur ce point : « Les autorités compétentes précisent, dans l’approbation, les mesures à prendre pour avertir à temps les résidents et les passants et pour protéger l’environnement situé à proximité de la zone de pulvérisation. » Elle ajoute, au point 6 : « Les autorités compétentes conservent un enregistrement des demandes et des approbations visées au paragraphe 4 et tiennent à la disposition du public les informations pertinentes qu’elles contiennent, comme l’aire couverte par la pulvérisation, la date et la durée prévues de la pulvérisation », etc.\nDans la mesure où le Conseil d’État a déjà annulé des décrets et des arrêtés pris par les gouvernements successifs en matière d’épandage de pesticides et de protection des riverains, il est normal que le décret dont il est question dans ce texte soit pris en Conseil d’État. (Mme Sandra Regol applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. André Chassaigne."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Je suis assez effaré, madame la ministre et monsieur le rapporteur, de vous entendre faire référence au droit de l’Union européenne et considérer qu’une écriture différente dans le droit français s’apparenterait à une surtransposition. Il se trouve que j’ai produit, avec Jean-Louis Bourlanges, un rapport d’information sur les méthodes de transposition des directives européennes."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Extraordinaire rapport !"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Transposer une directive, ce n’est pas prendre une photocopieuse mais faire en sorte que les orientations définies par l’Union européenne – que nous soyons d’accord ou non – soient intégrées dans notre droit, avec notre propre expression. Nous sommes très attachés, par notre culture, à l’évaluation des bénéfices et des risques et il faut faire la démonstration que la transposition entraîne bien des avantages.\nVous considérez qu’il ne faut pas toucher au droit européen, comme s’il était en bronze, et qu’il faut le transposer comme tel. Non ! Le parlement français n’a pas à le transposer à l’identique. Nous pouvons l’intégrer dans notre législation en utilisant notre vocabulaire, notre culture et notre façon d’exprimer les choses. (Applaudissements sur plusieurs bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Nous en venons aux votes.\nJe mets aux voix le sous-amendement no 86."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        132\n        Nombre de suffrages exprimés                131\n        Majorité absolue                        66\n                Pour l’adoption                37\n                Contre                94"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 86 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 85 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix le sous-amendement no 84."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        130\n        Nombre de suffrages exprimés                128\n        Majorité absolue                        65\n                Pour l’adoption                34\n                Contre                94"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 84 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix les amendements identiques nos 45 et 47."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        129\n        Nombre de suffrages exprimés                127\n        Majorité absolue                        64\n                Pour l’adoption                89\n                Contre                38"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 45 et 47 sont adoptés. En conséquence, les amendements nos 29, 70 et 26 tombent, de même que les amendements nos 40 et 41.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584317",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 17 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Dominique Potier, pour soutenir l’amendement no 17."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Je vous propose une seconde chance de laisser une marque dans l’histoire, madame la ministre, en inscrivant les expérimentations – si elles sont adoptées – dans la dynamique du plan Écophyto.\nPar ailleurs, vous avez évoqué le rôle du comité des solutions dans l’examen des autorisations de produits phytopharmaceutiques, par rapport à l’Anses. C’est en contradiction totale avec l’esprit qui a prévalu, après de longs débats, dans la loi de 2014 visant à mieux encadrer l’utilisation des produits phytosanitaires sur le territoire national ! Si un tel décret devait être pris, vous pouvez être certaine que le groupe Socialistes – et bien d’autres, j’en suis sûr –, ainsi que de nombreuses organisations environnementales de défense de l’eau ou de la santé humaine, dénonceraient ce qui est parfaitement contraire aux fondamentaux de l’autorité scientifique et à son indépendance. Si 95 % des substances cancérigènes, reprotoxiques et mutagènes ont été supprimés – retrait que vous avez vous-même vanté –, c’est grâce à l’autonomie et à l’indépendance de l’Anses. C’est bien cette autonomie qui incite la recherche agronomique, végétale ou technologique à trouver des solutions, et non le contraire.\nRétablissons l’ordre dans notre pays, remettons la science et la démocratie sur le devant de la scène, face à tous les lobbys susceptibles de nous soustraire à une évolution pourtant vitale pour l’agriculture et la productivité de demain.\nC’est pourquoi je vous invite à inscrire les expérimentations, si elles sont votées, dans la dynamique du plan Écophyto, c’est-à-dire dans cette ambition partagée à l’échelle française et européenne de réduire notre dépendance à la phytopharmacie."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur les amendements identiques nos 7, 24 et 71, je suis saisie par les groupes La France insoumise-Nouveau Front populaire et Écologiste et social d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission sur l’amendement no 17 ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Nous avons déjà eu un long débat, en début de séance, sur le plan Écophyto. Je reste défavorable à l’inscription des essais dans cette stratégie. Le drone est un outil qui participe à la réduction des quantités de produits pulvérisés."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Vous ne m’avez pas répondu sur les quantités. Comment l’intensité du recours aux produits phytosanitaires sera-t-elle mesurée ? Utilisera-t-on l’indicateur Nodu, qui est employé depuis quinze ans et reconnu scientifiquement, ou celui-ci sera-t-il remplacé, sous la pression des lobbyistes qui voudraient augmenter les quantités de pesticides vendues et épandues, polluant les sols et l’environnement, par l’indicateur HRI 1 qui, lui, n’a aucune assise scientifique et ne se fonde sur aucun protocole pour qualifier la dangerosité des produits ? En réalité, cet indicateur applique des coefficients multiplicateurs qui n’ont d’autre objectif que de lisser les quantités utilisées afin d’amoindrir la robustesse des mesures et de donner l’illusion d’une moindre utilisation des pesticides, alors que c’est l’inverse qui se produit dans notre pays depuis trop longtemps ! À tel point que nous sommes devenus les champions d’Europe des volumes utilisés, mais aussi du nombre de molécules autorisées ! (Applaudissements sur quelques bancs du groupe LFI-NFP.) Avec ce texte, nous risquons de devenir aussi les champions sur le plan des modalités d’épandage des pesticides. Continuons ainsi et nous finirons sur le podium des pays qui n’ont plus d’agriculture viable et pérenne en Europe. (Applaudissements sur quelques bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Permettez-moi de revenir sur le plan Écophyto : initié en 2008, il avait pour ambition de réduire de 50 % l’utilisation des pesticides, dans un délai de dix ans. Nous sommes en 2024 et nous n’avons pas commencé à réduire les volumes."
+        },
+        {
+          "orateur": "Une députée du groupe EPR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Si !"
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Non ! Malheureusement, les indicateurs montrent que beaucoup d’argent public a été mis sur la table, mais que la réduction se fait attendre. Je répéterai ce que j’ai évoqué précédemment : nous ne sommes plus au XVe siècle, à l’époque où Paracelse affirmait que « c’est la dose qui fait le poison ». En réalité, c’est l’exposition qui est dangereuse, quelle que soit la dose, a fortiori dans un système où l’individu est soumis à un effet cocktail.\nNotre ami André Chassaigne a mentionné l’AESA. Nous avons auditionné cette agence à deux reprises, dans le cadre de la campagne Secrets toxiques. Elle reconnaît elle-même que l’évaluation des autorisations de mise sur le marché est défaillante en ce qui concerne la protection de la population. Et nous voudrions utiliser encore des pesticides, alors qu’ils entraînent un effet cocktail ? Puisque l’agence sanitaire chargée de protéger les citoyens européens admet ne pas respecter la réglementation à laquelle elle devrait se référer et reconnaît des lacunes en la matière, nous devrions au contraire convoquer le principe de précaution, afin de protéger véritablement les populations exposées aux pesticides. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 17 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584336",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de trois amendements identiques, nos 7, 24 et 71.\n La parole est à M. Hendrik Davi, pour soutenir l’amendement no 7."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Il tend à supprimer les alinéas 12 et 13 de l’article 1er, qui visent à autoriser une généralisation de l’épandage par drone après expérimentation. Vous me répondrez qu’il semble logique de mener des expérimentations et d’étudier ensuite si elles fonctionnent dans tel ou tel cas avant de les généraliser.\nLe problème, c’est que ces deux alinéas sont loin d’être précis : l’épandage est autorisé si l’expérimentation a montré que la pulvérisation par aéronef présentait des avantages manifestes, et selon des critères définis par décret. Qu’entend-on exactement par « avantages manifestes » ? J’aimerais bien entendre l’avis du rapporteur sur ce point. Imaginez qu’une expérimentation montre que sans drone, 50 % des abeilles disparaissent et 25 % avec drone – c’est toujours trop d’abeilles qui disparaissent. La notion d’« avantages manifestes » n’est pas suffisante. C’est la raison pour laquelle nous n’avons cessé de répéter qu’il fallait prouver l’absence d’effets délétères des épandages sur l’environnement et la santé.\nComme nous arrivons à la fin de l’examen de ce texte, je voudrais tout de même rappeler qu’il vise à élargir les possibilités d’épandage de produits phytosanitaires. Or entre les années 2000 et 2022, la quantité de pesticides épandue dans notre pays est déjà passée de 63 000 à 70 000 tonnes. C’est absolument inadmissible ! Alors que nous devrions réduire de 50 % la consommation de pesticides dans les prochaines années, nous discutons d’un texte qui ouvre la boîte de Pandore en autorisant des épandages de tous les produits phytosanitaires – c’était d’ailleurs l’objet d’un amendement. Ne nous faites pas croire, sous couvert de biocontrôle, que ce n’est pas ce que vous voulez ! C’est ce que vous souhaitez et cela conduira à encore plus d’agriculture industrielle."
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Ce n’est pas vrai !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584560",
+      "valeurPtsOdj": "2",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme, pour soutenir l’amendement no 24."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Pour compléter le propos de mon collègue Hendrik Davi, j’ajouterai que pour protéger le modèle agricole, vous vous appuyez sur le désormais célèbre triptyque « numérique-robotique-génétique ». Vous nous vendez de nouveau ce modèle avec les drones, en prétendant que cette approche permettra de respecter la trajectoire de réduction des pesticides. J’ai été technicien à l’Institut national de recherche agronomique (Inra) avant d’être élu député : l’agriculture de précision, on y était déjà il y a plus de dix ans ! On nous vantait la réduction de la consommation de pesticides grâce aux GPS dans les tracteurs et aux dispositifs super-pilotés au moyen de cartes des sols agricoles, etc."
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Vous êtes contre les GPS, maintenant ?"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "L’agriculture de précision est arrivée, mais elle n’a de précision que le nom – les plus-values réalisées par les marchands de matériels ont augmenté, tout comme l’endettement des exploitations. (Applaudissements sur quelques bancs du groupe LFI-NFP. – Exclamations sur les bancs du groupe EPR.) La consommation de produits phytosanitaires n’a pas diminué – elle a même continué à augmenter. L’agriculture de précision et l’agriculture numérique n’offrent donc pas de solution. La seule solution, c’est de remettre dans les champs des paysans, des ouvriers et des ouvrières agricoles qualifiés et correctement rémunérés, pour faire de l’agronomie au plus près du terrain et sortir des dépendances cumulatives en matière de technologies, que vous essayez une fois encore de nous vendre avec ces drones. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584564",
+      "valeurPtsOdj": "2",
+      "titre": "Suspension et reprise de la séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. André Chassaigne, pour soutenir l’amendement no 71."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Le texte est mal ficelé : vous auriez dû placer les alinéas 12 et 13 au début. Votre seul objectif est de prendre un arrêté qui dresse la liste des parcelles où l’on peut utiliser les drones car la pulvérisation n’aurait pas de conséquences négatives pour la santé. L’alinéa 12 définit le contenu de l’arrêté et l’alinéa 13 dispose que « pour les types de parcelles ou pour les cultures inscrites sur la liste mentionnée au premier alinéa du présent C, un programme d’application par aéronef circulant sans personne à bord peut être autorisé dans les conditions prévues au B du I bis. » Vous auriez pu en rester là : tout le reste du texte vise à faire la démonstration qu’on ne recherchera que les avantages de la pulvérisation – en aucun cas on ne s’interrogera sur les risques potentiels. Toutes vos réponses sont allées dans ce sens. Je ne suis pas personnellement opposé aux évolutions permises par l’agriculture de précision, mais il faut le faire avec honnêteté."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Vous foncez avec un tracteur qui a une puissance énorme parce que vous voulez à tout prix arriver à vos fins. Mais un peu d’objectivité ! Ayez une approche scientifique – une forme de respect ! Vous avez votre objectif et, à partir de là, vous déroulez le fil en ne retenant que les arguments qui vous permettront de l’atteindre. La démarche scientifique, le respect de l’environnement et de la santé humaine, ce n’est pas ça – c’est tout le contraire ! (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS – Mme Martine Froger applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Ce texte vise à réduire la pénibilité du travail des agriculteurs..."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "…et l’impact environnemental de leur action. (Exclamations sur les bancs du groupe LFI-NFP.) Par ailleurs, l’évaluation scientifique de l’Anses sera présentée à l’Opecst."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Vous n’avez pas voulu l’écrire !"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Si, c’est écrit. L’alinéa 12 mentionne les résultats des essais – regardez bien. Pour toutes ces raisons, je suis défavorable aux amendements. Nous avons déjà eu cette discussion tout à l’heure. Des essais sont prévus, l’Anses élabore les protocoles et identifie dans son évaluation les aspects positifs et négatifs. Les évaluations sont présentées à l’Opecst et transmises au gouvernement, qui peut prendre des décisions d’autorisations."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Je demande une suspension de séance. Je soutiens pour partie l’amendement de M. Chassaigne, mais sa référence à l’Opecst me gêne un peu. Je souhaiterais que nous puissions harmoniser nos positions. (Exclamations sur les bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "C’est de l’obstruction !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures cinquante, est reprise à vingt-trois heures cinquante-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est reprise.\nQuel est l’avis du gouvernement sur les amendements identiques ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il est défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Permettez-moi de revenir sur trois points. D’abord, regardez le texte. Je ne sais pas qui l’a écrit, mais l’alinéa 12 se termine ainsi : « est susceptible de présenter des avantages manifestes pour la santé humaine et pour l’environnement ». Je vous suggère la reformulation suivante, pour peu qu’il soit possible de sous-amender : « présente des avantages manifestes pour la santé humaine et pour l’environnement ». Ce serait préférable à l’emploi du mot « susceptible »."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "On pourrait écrire : « on offre »."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Ensuite, pour ce qui concerne l’Opecst, j’y ai siégé aussi et c’est une noble institution. Néanmoins, vous l’avez instrumentalisé pour faire passer la fusion entre l’Institut de radioprotection et de sûreté nucléaire (IRSN) et l’Autorité de sûreté nucléaire (ASN). Ce n’est donc pas le bon exemple pour nous donner confiance en matière de pesticides ! (Exclamations sur les bancs du groupe EPR.) Enfin, le plus important est ce qu’a dit mon collègue Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Ah !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Je travaillais également à l’Inra en tant que chercheur. Moi aussi, en 2005, j’ai regardé les beaux tracteurs avec les multicapteurs – on avait des capteurs magnifiques qui étaient capables de connaître les conditions de la culture et en même temps de répandre les pesticides. On nous promettait une baisse de la consommation de pesticides et de produits phytosanitaires grâce à ces techniques extraordinaires. Ce n’est pas ce qui s’est passé – en disant cela, je porte une accusation grave contre votre modèle de développement agricole. Expliquez-nous pourquoi ça ne marche pas,…"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "…pourquoi, alors qu’on a fait tant de progrès techniques, on continue de pulvériser toujours plus de produits phytosanitaires. Merci de me répondre. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. André Chassaigne."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Revenons sur les mots employés. Je n’ai pas eu le temps d’aller au fond des choses tout à l’heure : l’alinéa 12 prévoit que la pulvérisation par aéronef sera autorisée par arrêté si elle « est susceptible de présenter des avantages manifestes ». Qu’est-ce que ça veut dire ? Pouvez-vous définir ces avantages manifestes ? N’y aurait-il pas derrière tout cela une forme de loup qui consisterait à faire en sorte que la pulvérisation concerne des parcelles et des cultures beaucoup plus nombreuses que vous ne l’affirmez aujourd’hui ? (M. Gérard Leseul applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. René Pilato."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Vous prétendez que nous n’aimons pas les agriculteurs, mais c’est vous qui les poussez au suicide (Vives protestations sur les bancs des groupes EPR, DR et Dem) à cause d’une course incessante à la productivité qui oblige à l’utilisation des produits phytosanitaires et entraîne des cancers."
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "Quelle honte !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est vous qui provoquez un désastre écologique, humain et économique. Arrêtez de faire votre cinéma et de vous cacher derrière les mots ! Reprenez vos esprits, changez de modèle, faites une bifurcation écologique, et on en reparlera ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "Lamentable, Pilato !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Éric Martineau."
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Je n’ai pas pris la parole durant toute la séance, mais j’ai entendu beaucoup de choses qui m’ont froissé, notamment l’accusation qui nous est faite de ne pas soutenir les agriculteurs. Puisque vous ne comprenez pas pourquoi l’utilisation des pesticides et des produits phytosanitaires ne baisse pas, je vais vous donner un exemple très concret. Je suis moi-même passé en agriculture biologique. Auparavant, pour lutter contre la tavelure, j’utilisais un produit chimique à hauteur de 500 grammes par hectare ; je l’ai remplacé par 1 kilogramme de cuivre et 3 kilogrammes de soufre. Pour lutter contre les pucerons, j’ai remplacé 140 grammes de produits chimiques par 5 litres d’huile de neem, qui est un perturbateur endocrinien notoire, utilisé en agriculture biologique à défaut d’autre chose. Cessons donc d’opposer constamment le bien et le mal : tout est chimique !"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "C’est ce que j’ai essayé d’expliquer !"
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Le cuivre est un élément naturel, mais quand on le répand sur nos cultures, c’est bien un produit chimique ! (Applaudissements sur plusieurs bancs des groupes Dem, EPR, DR et HOR.)"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "C’est un polluant !"
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "De surcroît, en remplaçant des produits issus de la chimie de synthèse par des produits naturels moins efficaces, il a fallu augmenter les quantités utilisées. En passant en agriculture biologique, j’ai dû augmenter mon utilisation de produits phytosanitaires ! (Mêmes mouvements. – Exclamations sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Il a raison ! Écoutez un agriculteur !"
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Enfin, l’utilisation des drones nous permet de faire évoluer l’agriculture. Je vous invite à vous rendre dans la région italienne du Trentin-Haut-Adige où exercent nos propres concurrents. Aucune zone n’y souffre d’absence de traitement et celui-ci est réalisé par aspersion sur frondaison… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur. – Les députés des groupe Dem, EPR et DR applaudissent ce dernier.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix les amendements identiques nos 7, 24 et 71."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        132\n        Nombre de suffrages exprimés                129\n        Majorité absolue                        65\n                Pour l’adoption                34\n                Contre                95"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 7, 24 et 71 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La suite de la discussion est renvoyée à une prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3584709",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Questions orales sans débat.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée, le mardi 3 décembre 2024, à zéro heure cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

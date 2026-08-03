@@ -1,0 +1,3980 @@
+{
+  "uid": "CRSANR5L17S2026O1N159",
+  "seanceRef": "RUANR5L17S2026IDS30307",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2026-02-19",
+  "dateLisible": "jeudi 19 février 2026",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4025463",
+      "valeurPtsOdj": "1",
+      "titre": "Deuxième lecture (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’ordre du jour appelle la suite de la discussion, en deuxième lecture, de la proposition de loi relative au droit à l’aide à mourir (nos 2401, 2453)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025468",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Camille Galliard-Minier, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Camille Galliard-Minier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719736",
+          "texte": "Il se fonde sur son article 101 : je demande une seconde délibération sur l’amendement no 977 de Mme Vidal, qui tend à préciser que les seules souffrances psychologiques ne peuvent suffire pour bénéficier de l’aide à mourir. Il est essentiel de préserver l’équilibre du texte auquel nous étions parvenus, ce qui implique de rétablir cette disposition."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Tout est important, ce n’est pas pour cela qu’on demande une seconde délibération à chaque fois !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Thibault Bazin, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Sur le fondement de l’article 100 relatif à la discussion des amendements. Nous examinons plusieurs amendements très structurants, ce qui peut donner lieu à une certaine confusion. L’amendement no 977 a été rejeté à quelques voix près. Or il porte sur une disposition majeure, qui a été supprimée en commission et que nous sommes nombreux à vouloir rétablir. J’appuie donc cette demande de seconde délibération, de telle sorte que nous puissions rétablir à l’alinéa 8 de l’article 4 la phrase : « Une souffrance psychologique seule ne peut en aucun cas permettre de bénéficier de l’aide à mourir. » Qu’on soit pour ou contre l’aide à mourir, il est fondamental qu’on ne permette pas qu’une souffrance uniquement psychologique donne accès à cette aide."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur de la commission des affaires sociales, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Sur le même fondement que le collègue Bazin, mais pour défendre une autre position. Ce n’est pas sérieux : nous n’allons pas passer notre temps à demander des secondes délibérations dès que nous ne sommes pas satisfaits du résultat d’un vote ! (Applaudissements sur plusieurs bancs du groupe SOC. – MM. Sébastien Peytavie et René Pilato applaudissent également.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est ce que vous avez fait sur l’article 2 !"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Ce petit jeu pourrait durer bien longtemps ! Il faut accepter la majorité qui se dégage, quand bien même elle ne nous satisferait pas, sans quoi nous n’achèverons jamais l’examen du texte."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "On ne va pas s’en sortir !"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Je m’oppose donc fermement à ce qu’une seconde délibération ait lieu sur cet amendement. (Applaudissements sur plusieurs bancs du groupe SOC. – MM. Sébastien Peytavie et René Pilato applaudissent également.)"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. René Pilato, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Il se fonde également sur l’article 100. Rappelons ce qu’il s’est passé lors de l’examen du texte relatif aux soins palliatifs : nous avons perdu puisque le droit opposable a été retiré ; cependant, nous avons respecté le vote de l’Assemblée. Nous avons ensuite accepté qu’on revienne sur une disposition qui avait été adoptée à une voix près, parce que deux collègues avaient changé d’avis. Or, que je sache, sur l’amendement que vous mentionnez, personne ne changera son vote."
+        },
+        {
+          "orateur": "Mme Stella Dupont",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643175",
+          "texte": "Si, moi !"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Il a été rejeté avec au moins quinze voix d’écart !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Revenir dessus est donc assez problématique. L’amendement de Mme Vidal a été battu largement, pas à une voix près. En formulant une telle demande, c’est comme si vous ne reconnaissiez pas les décisions prises démocratiquement dans cet hémicycle. Quand cela se joue à une voix et que deux collègues changent d’avis, on peut admettre le bien-fondé d’une seconde délibération ; mais quand cela se joue à une dizaine de voix et qu’il n’y a pas de changement dans les positions de chacun, ce n’est pas sérieux. (M. Gérard Leseul applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre de la santé, des familles, de l’autonomie et des personnes handicapées",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Lors du vote qui a eu lieu sur l’amendement no 977 de Mme Vidal, il y a eu quatre voix d’écart et une personne a dit s’être trompée. Cet amendement permettait de garantir un équilibre, nécessaire à l’adoption de ce texte. Il importe, quand cela se joue à trois voix près, de pouvoir voter une deuxième fois."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Dites à vos soutiens de venir en séance !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je demande donc, madame la présidente, une seconde délibération sur les amendements nos 977 et identiques."
+        },
+        {
+          "orateur": "Mme Marie-Noëlle Battistel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342415",
+          "texte": "Ça va, quoi !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Ce n’est pas sérieux !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est sa liberté, elle a le droit !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est scandaleux ! Vous n’êtes pas des démocrates !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Élise Leboucher, rapporteure de la commission des affaires sociales, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Je demande une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Elle est de droit. La séance est suspendue pour cinq minutes."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt et une heures trente-cinq, est reprise à vingt et une heures quarante.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025645",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Cet après-midi, l’Assemblée a poursuivi la discussion des articles de la proposition de loi, s’arrêtant à l’amendement no 1420 à l’article 4."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025494",
+      "valeurPtsOdj": "1",
+      "titre": "Article 4 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de quatre amendements, nos 1420, 1666, 1011 et 1643, pouvant être soumis à une discussion commune.\n Les amendements nos 1011 et 1643 sont identiques.\nLes amendements nos 1420 de M. Gérault Verny et 1666 de Mme Christine Loir sont défendus.\nLa parole est à M. Charles Sitzenstuhl, pour soutenir l’amendement no 1011."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je vois que cela commence chaudement, ce soir ! Cet amendement peut sembler rédactionnel, mais il touche selon moi à une question de fond. Il tend à remplacer, à l’alinéa 8, les mots « liée à » par les mots « résultant de ». Lier, c’est un terme assez lâche – pas au sens moral du terme, mais au sens de « vague ». D’ailleurs, quand on ne sait pas trop quoi répondre dans notre vie politique, on utilise souvent la formule « en lien ». La mention « résultant de » est plus précise : elle induit un lien de causalité. D’où cette proposition de correction, afin que le texte soit plus solide juridiquement et plus protecteur des malades."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025499",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements nos 1420 et 1666, successivement mis aux voix, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1643 de M. Thomas Ménagé est défendu.\nLa parole est à Mme Brigitte Liso, rapporteure de la commission des affaires sociales, pour donner l’avis de la commission sur ces quatre amendements en discussion commune."
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 1420 et 1666, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 1011 et 1643 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025506",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements nos 1290 et 915, successivement mis aux voix, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de huit amendements, nos 1290, 915, 144, 321, 595, 1089, 885 et 1419, pouvant être soumis à une discussion commune.\n Les amendements nos 144, 321, 595 et 1089 sont identiques.\nLes amendements nos 1290 de Mme Nathalie Colin-Oesterlé, 915 de Mme Anne-Laure Blin, 144 de Mme Marie-France Lorho, 321 de Mme Justine Gruet, 595 de Mme Hanane Mansouri, 1089 de M. Charles Sitzenstuhl, 885 de M. Philippe Ballard et 1419 de M. Gérault Verny sont défendus.\nQuel est l’avis de la commission sur ces huit amendements en discussion commune ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 1290 et 915, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 144, 321, 595 et 1089 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 885 et 1419, successivement mis aux voix, ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025867",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 803 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de plusieurs amendements, nos 803, 1762, 1665, 1492, 143 et 594, pouvant être soumis à une discussion commune.\n Les amendements nos 143 et 594 sont identiques.\n Je suis saisie de l’amendement no 803 de Mme Sandrine Dogor-Such."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 803 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025870",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1665 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1762 de M. Alexandre Allegret-Pilot est défendu.\nJe suis saisie de l’amendement no 1665 de Mme Christine Loir."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1665 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025873",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1492 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de l’amendement no 1492 de Mme Lisette Pollet."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1492 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025875",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 143 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de l’amendement no 143 de Mme Marie-France Lorho."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 143 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025877",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements nos 1762 et 594,\n             repoussés\n             par\n             la\n             commission\n             et\n             le\n             gouvernement, successivement mis aux voix, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 594 de Mme Hanane Mansouri est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 1762 et 594,\n             repoussés\n             par\n             la\n             commission\n             et\n             le\n             gouvernement, successivement mis aux voix, ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025883",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements identiques nos 145 et 596,\n             repoussés\n             par\n             la\n             commission\n             et\n             le\n             gouvernement,\n             ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de deux amendements identiques, nos 145 et 596.\nL’amendement no 145 de Mme Marie-France Lorho est défendu.\nLa parole est à Mme Hanane Mansouri, pour soutenir l’amendement no 596."
+        },
+        {
+          "orateur": "Mme Hanane Mansouri",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841183",
+          "texte": "Vous constaterez que nous faisons l’effort – qui nous coûte beaucoup – de retirer un certain nombre d’amendements ou d’indiquer simplement qu’ils sont défendus, pour permettre aux débats d’avancer."
+        },
+        {
+          "orateur": "Mme Marie-Noëlle Battistel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342415",
+          "texte": "Après ce que vous venez de faire, franchement !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "C’est parce que vous n’êtes que huit !"
+        },
+        {
+          "orateur": "Mme Hanane Mansouri",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841183",
+          "texte": "Il aurait pourtant été souhaitable que nous puissions discuter du fond. Étant moi-même opposée au texte, j’ai proposé des amendements visant à le cadrer davantage – mais j’ai le sentiment que vous ne souhaitez aucunement prendre en considération notre travail."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "En effet, nous n’avons pas envie de prendre votre avis en considération !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 145 et 596,\n             repoussés\n             par\n             la\n             commission\n             et\n             le\n             gouvernement,\n             ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025893",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1445,\n             repoussé\n             par\n             la\n             commission\n             et\n             le\n             gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1445 de M. Jorys Bovet est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1445,\n             repoussé\n             par\n             la\n             commission\n             et\n             le\n             gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025899",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de plusieurs amendements, nos 1090, 80, 411, 801 et 1640, pouvant être soumis à une discussion commune.\n Les amendements nos 80, 411, 801 et 1640 sont identiques.\n L’amendement no 1090 de M. Charles Sitzenstuhl est défendu.\nLa parole est à M. Patrick Hetzel, pour soutenir l’amendement no 80."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Dans le droit fil des débats que nous avons eus tout à l’heure, il vise à compléter l’alinéa 8 en y ajoutant : « Une souffrance psychologique seule ne peut en aucun cas permettre de bénéficier de l’aide à mourir. » En effet, une souffrance de ce genre peut généralement être traitée et les psychiatres, pour cette raison, nous alertent sur les risques de dérive que ferait courir l’absence d’une telle précision."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025903",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 411 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Justine Gruet, pour soutenir l’amendement no 411."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "On a beaucoup répété que l’objectif était de nous en tenir à ce que nous avions voté au mois de mai ; dans ce cas, mon amendement no 410 aurait pu être adopté, qui tendait à indiquer que la souffrance devait être psychologique « et » physique. La précision apportée par le présent amendement aurait alors pu trouver sa place à la fin de l’alinéa. Toutefois, l’amendement no 410 n’a pas été adopté et je n’ai pas demandé de seconde délibération, car je respecte le vote de cette assemblée !"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Vous ne validez pas les autres demandes, alors ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il y a cinquante nuances de DR !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Dès lors, et suivant l’argumentation de M. le rapporteur général en commission, du moment que l’alinéa 8 commence par « présenter une souffrance physique ou psychique », mon amendement ne fonctionne plus et je le retire par souci de cohérence."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 411 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025909",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Sandrine Dogor-Such, pour soutenir l’amendement no 801."
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "Il vise à poser une limite claire : une souffrance psychologique seule ne peut en aucun cas ouvrir le droit à l’aide à mourir. La santé mentale est un enjeu majeur de santé publique. Près de 13 millions de nos concitoyens sont concernés par un trouble psychique et ces pathologies représentent le premier poste de dépenses de l’assurance maladie, devant les cancers et les maladies cardiovasculaires. La prévention du suicide relève quant à elle, au titre du code de la santé publique, d’une responsabilité explicite des pouvoirs publics.\nDès lors, introduire l’idée, même de façon implicite, qu’une souffrance psychique isolée puisse fonder une demande d’acte létal créerait une rupture profonde dans notre politique de prévention."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025912",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1090 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1640 de M. Thomas Ménagé est défendu.\nQuel est l’avis de la commission sur ces amendements ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Ces amendements reviennent sur la question de la souffrance psychologique. Je vous demande de les retirer, dans la perspective de la seconde délibération qui a été proposée tout à l’heure sur les amendements no 977 et identiques. Il me semble que les formulations que vous proposez ici sont plus dures.\nPrenons le cas d’un patient à qui l’on viendrait d’annoncer qu’il est atteint d’une maladie grave et incurable – ce qui est un critère d’éligibilité – et chez qui cette annonce aurait provoqué, par exemple, un syndrome dépressif réactionnel. Même s’il n’éprouve à ce stade aucune souffrance physique, il pourrait tout de même, en l’état actuel du texte, être éligible à l’aide à mourir. Les amendements no 977 et identiques répondent à ce cas de figure ; il importe donc de les adopter, afin de retrouver le point d’équilibre de la première lecture. Demande de retrait, donc ; à défaut, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Élise Leboucher, rapporteure."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "J’aimerais que l’on arrête de faire ce parallèle avec la prévention du suicide."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "On va continuer à le faire !"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Ces deux sujets n’ont rien à voir. Le texte ne touche en rien aux raisons pour lesquelles les gens se suicident : le deuil, l’isolement, le harcèlement scolaire, etc."
+        },
+        {
+          "orateur": "Mme Claire Marais-Beuil",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841563",
+          "texte": "C’est pareil !"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Sur la question de la prévention du suicide, notre texte ne présente aucune difficulté…"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Ça se discute !"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "…et je ne me lasserai pas de le répéter. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Christophe Bentz."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Soyez assurée, chère collègue, que nous allons continuer à défendre nos positions.\nJe sens comme un peu de flottement. Ce texte prétendument « d’équilibre » me semble prêt de déborder. Si j’en crois les bascules de vote, en tout cas dans le groupe Rassemblement national, il finira par devenir invotable pour une majorité de députés. Ce sera un problème – pour vous plus que pour nous."
+        },
+        {
+          "orateur": "Mme Christine Pirès Beaune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608172",
+          "texte": "Vous devriez être content, alors !"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Vous affirmez, madame la ministre, que l’amendement de ma collègue Mme Dogor-Such est « plus dur » que l’amendement no 977 de Mme Vidal, sur lequel vous demandez une seconde délibération. Mais comme sa rédaction est exactement la même, je me demande bien en quoi."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Parce qu’il vient du RN !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Leur rédaction n’est pas la même – notamment l’exposé des motifs. (M. Christophe Bentz s’exclame.) Il me semble important de garder ce point d’équilibre."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1090 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 80, 801 et 1640 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025935",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1297 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1297 de M. Bartolomé Lenoir est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable également. Monsieur Bentz, si la rédaction de l’amendement no 801 était la même que celle de l’amendement no 977, ils auraient figuré dans la même série d’identiques. L’amendement de Mme Vidal proposait aussi de supprimer les mots « physique ou psychologique » ; celui de Mme Dogor-Such est donc plus dur."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1297 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025941",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Justine Gruet, pour soutenir l’amendement no 324, sur lequel je suis saisie d’une demande de scrutin public par le groupe Droite républicaine.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Cet amendement me paraît essentiel. On demande au médecin d’évaluer si le patient répond aux cinq critères donnant accès à l’aide à mourir. Sur une question comme celle de la résidence stable, nous l’avons vu en commission, un médecin pourrait cependant éprouver des difficultés à se prononcer – je présenterai un amendement sur cette question précise lorsque nous examinerons le chapitre relatif à la procédure.\nIl s’agit de s’assurer que le consentement est libre et éclairé ; pour ce faire, nous proposons qu’il soit exprimé « devant le président du tribunal judiciaire ou le magistrat désigné par lui »."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Et devant le président de la République, ce serait pas mal aussi !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "C’est la formule consacrée, en cas de don d’organe, dans la procédure prévue à l’article L. 1231-1 du code de la santé publique. Le législateur, en s’assurant que le consentement de la personne est recueilli par le président du tribunal judiciaire, évite de faire peser cette responsabilité sur les médecins mais la confie à des professionnels ayant l’habitude de contrôler la légalité des critères. L’abus de faiblesse est une réalité quotidienne dans les tribunaux. Il y va de la protection des plus fragiles."
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Mais bien sûr !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Ce n’est pas aux médecins qu’il revient de faire cette expertise et de s’assurer de l’absence de pression extérieure. C’est d’autant plus essentiel, monsieur le rapporteur général, madame la rapporteure, que le texte ne prévoit pas de contrôle a priori de la légalité des critères. Il convient donc que la première évaluation soit confiée à des experts."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Olivier Falorni, rapporteur général, pour la commission des affaires sociales, de la proposition de loi relative au droit à l’aide à mourir, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général, pour la commission des affaires sociales, de la proposition de loi relative au droit à l’aide à mourir",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Avis défavorable. Vous pouvez être rassurée, madame Gruet : l’article prévoit déjà que la manifestation de la volonté est « libre », ce qui suppose que la personne puisse prendre sa décision sans contrainte extérieure. La proposition de loi encadre d’autant plus cette exigence que la vérification de la libre manifestation de la volonté est réitérée à toutes les étapes de la procédure. Le texte est donc déjà précis et sécurisant. Un médecin qui serait conduit à douter du caractère libre et éclairé de l’expression de la volonté pourra notifier une décision défavorable au demandeur, voire saisir, si nécessaire, le procureur de la République.\nVotre proposition est par ailleurs peu opérationnelle et bien trop restrictive : une exigence comme celle que vous formulez se traduirait par une procédure lourde et pourrait ainsi conduire certaines personnes souhaitant bénéficier du dispositif à s’en détourner.\nJ’espère avoir répondu à vos inquiétudes. J’espère aussi avoir répondu à celle de M. Bentz, qui se demande si le texte sera voté ou non – même si, pour lui, c’est plus un espoir qu’une inquiétude."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Je crains néanmoins que votre espoir ne soit douché, cher collègue. J’aime bien les gens déterminés, et je vous reconnais une grande détermination à combattre ce texte."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Merci !"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Mais reconnaissez également la mienne, et sachez que je veillerai jusqu’au bout de son examen à ce que nous ayons un texte d’équilibre, à même d’être voté par la plus large majorité possible dans cet hémicycle. Je m’y emploie ; ce n’est pas toujours facile, car nous sommes une démocratie vivante, humaine, où s’exprime une pluralité de points de vue, chez ceux qui défendent le texte comme, aussi bien, chez ceux qui s’y opposent. Il y a plusieurs nuances de contre et plusieurs nuances de pour !\nDans la logique qui est la vôtre, je comprends vos arguments. Sachez cependant que notre logique est de faire en sorte que ce texte soit voté – et bien voté – mardi prochain. Nous y arriverons ! (Applaudissements sur les bancs des commissions. – M. Nicolas Turquois applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "J’entends dire qu’il faudrait absolument préserver l’équilibre du texte – c’est la raison qu’a invoquée la ministre pour appeler à une seconde délibération sur l’amendement de Mme Vidal. Mais si ce dernier venait à être adopté, on passerait d’un critère indiquant que la personne doit présenter une souffrance physique ou psychologique liée à l’affection à un critère excluant la seule souffrance psychologique.\nCe n’est absolument pas l’équilibre qui avait été trouvé dans le texte, tel qu’il a été adopté à deux reprises (Applaudissements sur les bancs des groupes SOC et EcoS) : avec cette rédaction, la souffrance ne doit plus être physique ou psychologique, mais cumuler les deux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Justine Gruet."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Monsieur Delautrette, j’apprécie que vous preniez part au débat, mais vous n’avez absolument pas donné votre avis sur mon amendement."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Ça ne vous arrive jamais, bien entendu !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Cet amendement est le seul à évoquer un aspect pourtant essentiel du débat : comme le consentement doit être libre et éclairé, nous devons être en mesure d’évaluer si des pressions extérieures, aussi bien familiales que financières, s’exercent. L’évaluation de la situation par un magistrat existe déjà pour le don intrafamilial d’organe.\nMa proposition ne vise pas à entraver le droit que vous voulez créer, mais à le sécuriser : il s’agit d’éviter les abus de faiblesse, en l’absence de contrôle a priori de la légalité des critères, en confiant cette mission à des magistrats, rompus à l’expertise d’un consentement libre et éclairé."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Jean-Paul Mattei."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "La question du consentement est effectivement importante. Cependant, un officier ministériel sollicite généralement l’avis d’un médecin en cas de doute, par exemple sur la capacité de discernement de la personne qui a déposé un testament. Or vous demandez ici le contraire.\nComme nous l’avons vu en première lecture, le texte encadre strictement la procédure, qui est jalonnée d’allers-retours, avec une demande de confirmation en cas de doute. Dès que nous aurons achevé l’examen de ce cinquième critère – « être apte à manifester sa volonté de façon libre et éclairée » –, nous entamerons la discussion relative à la procédure, qui décline la manière dont le consentement doit être exprimé jusqu’à la fin."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Matthieu Bloch."
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Je soutiens l’amendement de Mme Gruet. Je travaillais dans le domaine du notariat avant de siéger dans cet hémicycle."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Moi aussi !"
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Il n’est malheureusement pas rare que des gens ouvrent une succession à l’étude avant même le décès d’une personne, tant la pression autour des questions d’héritage est forte.\nIl nous arrive de consulter des médecins, c’est vrai, mais il est bon qu’un officier ministériel, le président du tribunal, en l’occurrence, s’assure du consentement libre et éclairé du patient. L’intervention d’un interlocuteur extérieur est pertinente en raison de la pression qui peut s’exercer sur lui, de la part de son entourage, et parfois même des médecins qui le suivent. (Mme Justine Gruet applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Océane Godard."
+        },
+        {
+          "orateur": "Mme Océane Godard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840939",
+          "texte": "Je comprends l’objet de cet amendement, mais je suis franchement gênée, voire heurtée, par cette défiance et cette suspicion permanentes…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est tout le contraire !"
+        },
+        {
+          "orateur": "Mme Océane Godard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840939",
+          "texte": "…à l’égard du corps médical – poser un diagnostic d’affection grave et incurable, avec un pronostic vital engagé, n’est pas anodin ; pire, à l’égard des patients qui expriment des douleurs réfractaires dramatiques et se trouvent dans un état insupportable ; et enfin à l’égard des familles.\nVous voulez ajouter une sécurité supplémentaire, pour que l’on demande au patient : es-tu vraiment certain de vouloir une aide à mourir ? Mais une telle décision ne se prend pas à la légère ! Faites donc confiance aux gens. (M. Arnaud Simion applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. René Pilato."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Nous avons un petit souci, collègue Gruet : si une personne cumule les cinq critères, que l’équipe soignante la déclare éligible à l’aide à mourir et qu’elle ne peut pas se déplacer, est-ce au président du tribunal de venir la voir ? Expliquez-nous comment vous faites. Cela n’a pas de sens."
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Et combien de temps cela va-t-il durer ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 324."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        121\n        Nombre de suffrages exprimés                119\n        Majorité absolue                        60\n                Pour l’adoption                38\n                Contre                81"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 324 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026463",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 638, repoussé par la commission et le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 638 de Mme Soumya Bourouaha est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 638, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026626",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de deux amendements, nos 1748 et 1493, pouvant être soumis à une discussion commune.\nLa parole est à Mme Claire Marais-Beuil, pour soutenir l’amendement no 1748."
+        },
+        {
+          "orateur": "Mme Claire Marais-Beuil",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841563",
+          "texte": "Nous proposons de supprimer, à l’alinéa 9, les mots « être apte », afin que le cinquième critère soit ainsi rédigé : « manifester sa volonté de façon libre et éclairée ». Vous objecterez qu’il s’agit encore de sémantique, mais il existe une différence entre « être apte à manifester » et « manifester » : d’un côté, on peut le faire mais on ne le fait pas forcément ; de l’autre, on le fait."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026628",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1493 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de l’amendement no 1493 de Mme Lisette Pollet."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1493 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "La rédaction actuelle apporte déjà les précisions proposées. La mention « être apte » correspond tout simplement à la formulation utilisée dans cet article pour énumérer les différents critères. La personne doit évidemment manifester sa volonté, pas seulement être apte à le faire. Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1748,\n             repoussé\n             par\n             le\n             gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026472",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1147 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Juvin, pour soutenir l’amendement no 1147."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Il s’agit de préciser que la volonté de la personne est exprimée par écrit. Cette exigence tend à garantir la clarté, la traçabilité et la sécurité juridique de la demande – bref, c’est une preuve. Il s’agit d’une assurance supplémentaire que sa volonté a été clairement établie.\nNombre d’actes médicaux nécessitent de remplir un document. Pour un tel acte, dont il est inutile de souligner la gravité – au sens littéral –, il paraît évident de demander une preuve écrite."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Vous excluez de fait les personnes qui rempliraient tous les critères d’éligibilité mais ne seraient pas aptes à écrire. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Cette volonté devra être réitérée à toutes les étapes de la procédure ; on ne va pas demander à la personne de l’écrire à chaque fois. Cela n’a pas de valeur juridique supplémentaire. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Madame la rapporteure, il existe des alternatives quand on ne sait pas écrire."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il y aura très peu de cas !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "La loi prévoit qu’avant de participer à un essai clinique, il faut signer un document ; quand le législateur a instauré cette règle, il ne s’est pas posé la question des personnes qui ne savent pas écrire. Dans de telles situations, exceptionnelles, des moyens exceptionnels sont prévus par la loi. Par ailleurs, nombre d’actes nécessitent une signature : ce n’est certes pas une preuve absolue, mais un élément de preuve et de traçabilité."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1147 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026484",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1148 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Juvin, pour soutenir l’amendement no 1148."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Je souhaite ajouter les mots « avec plein discernement » après le mot « volonté »  – c’est une question fondamentale. L’article 6 prévoit que « la personne dont le discernement est gravement altéré lors de la démarche de demande d’aide à mourir ne peut pas être reconnue comme manifestant une volonté libre et éclairée ». Par conséquent, si le discernement de la personne n’est pas « gravement » altéré, mais seulement un peu altéré, on considère qu’elle est en mesure de manifester une volonté libre et éclairée. C’est très dangereux ! Qui va décider que l’altération est grave ou légère ? Le discernement est là ou il n’est pas là ; il n’y a pas d’entre-deux. Le risque est de donner un avis favorable à des patients au discernement partiellement altéré."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "L’amendement est satisfait par la rédaction actuelle. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Patrick Hetzel."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Cet ajout permettrait d’écarter les cas de confusion mentale, de contrainte psychique et d’altération des facultés, ce que ne fait pas la simple mention du consentement libre et éclairé."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je ne suis pas tout à fait d’accord. La rédaction résultant de l’adoption de cet amendement serait la suivante : « être apte à manifester sa volonté avec plein discernement, de façon libre et éclairée ». Que signifie « de façon éclairée », si ce n’est avec plein discernement ?"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Discernement plus, plus, plus !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "J’établis un parallèle avec l’alinéa 3 de l’article 6 : « la personne dont le discernement est gravement altéré […] ne peut être reconnue comme manifestant une volonté libre éclairée ». Nous craignons que la volonté d’une personne dont le discernement est un peu altéré ne soit considérée comme libre et éclairée."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est un point important."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "J’appelle votre attention sur cette ambiguïté. Le discernement doit être plein – c’est tout ou rien."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1148 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026500",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 853, repoussé par la commission et le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 853 de M. Charles Sitzenstuhl est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 853, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026502",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 750, repoussé par le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Édouard Bénard, pour soutenir l’amendement no 750."
+        },
+        {
+          "orateur": "M. Édouard Bénard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "Le débat sur la notion de discernement est central. L’amendement vise à préciser l’expression « libre et éclairée », contenue dans le dernier des critères d’accès à l’aide à mourir. Tel que rédigé, ce critère exclut les personnes souffrant d’une pathologie neurologique qui présente la double particularité d’une évolution lente et de l’apparition possible de troubles cognitifs lors de l’évolution de la maladie. C’est notamment le cas des personnes souffrant de certaines formes de sclérose latérale amyotrophique (SLA), de la maladie de Parkinson ou de la maladie d’Alzheimer.\nCertaines personnes malades peuvent également souffrir des effets secondaires de leur traitement, qui altèrent progressivement la conscience, sans pour autant remettre en cause la décision première de demander l’aide à mourir. Pour ces raisons, nous souhaitons préciser que la volonté libre et éclairée doit être appréciée au seul moment de la demande de l’aide à mourir."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Votre amendement est en contradiction avec l’article 6, qui prévoit que l’aptitude à manifester sa volonté est appréciée lors de la procédure collégiale, c’est-à-dire après la demande. L’équilibre du texte repose par ailleurs sur le fait que la personne doit être apte à manifester sa volonté tout au long de la procédure. Je vous invite donc à retirer votre amendement ; à défaut, j’émettrai un avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 750, repoussé par le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026732",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de trois amendements, nos 323, 1275 et 1071, pouvant être soumis à une discussion commune.\n Les amendements nos 323 et 1275 sont identiques.\n La parole est à Mme Justine Gruet, pour soutenir l’amendement no 323."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Madame Godard, il n’y a rien de gênant ou de choquant à vérifier que le patient ne subit aucune pression. Arrêtez de nous faire passer pour des méchants, ou pour des personnes inhumaines !\nVous semblez n’avoir aucun doute et être certaine qu’il n’y aura jamais la moindre pression. Notre rôle de législateur est de faire en sorte que pas un patient ne risque de subir une pression familiale ou sociétale. Pour ce faire, nous devons garantir la légalité de ce cinquième critère, ce qui suppose qu’une personne ayant l’expertise nécessaire vérifie que la volonté du patient est réellement libre et éclairée. Cet amendement me paraît donc pertinent.\nMonsieur Pilato, il est tout à fait possible que le juge se déplace au chevet du patient."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Comme s’il n’avait que cela à faire !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "La question n’est pas de savoir s’il n’a que cela à faire. Dès lors que nous, législateur, décidons d’instaurer cette protection, le rôle du juge est de vérifier la légalité du critère."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Il va falloir donner des moyens à la justice et vous les avez réduits !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Le budget a augmenté !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Il est de notre responsabilité d’inscrire cette garantie dans la loi pour protéger les personnes vulnérables, susceptibles d’être victimes d’un abus de faiblesse."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026742",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1275 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Sandrine Dogor-Such, pour soutenir l’amendement no 1275."
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "Monsieur Pilato, les patients sous tutelle ne se déplacent pas.\nCet amendement vise à préciser ce qu’est une « volonté libre et éclairée », condition déterminante de l’accès au dispositif, en définissant trois exigences cumulatives : l’absence de pression, de contrainte ou d’influence indue ; la délivrance d’une information loyale, claire et adaptée ; la vérification de la capacité de discernement de la personne eu égard à son état clinique, aux traitements reçus et à son environnement.\nJe suppose que cet amendement ne sera pas adopté et que, s’il l’est, nous aurons droit à une seconde délibération. Je préfère donc le retirer."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1275 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026748",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements nos 323 et 1071, successivement mis aux voix, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1071 de M. Charles Sitzenstuhl est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Défavorable, car les amendements sont satisfaits."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "La question posée par Mme Gruet est fondamentale : c’est celle du contrôle a priori – avant l’acte. En l’état de la rédaction du texte, ce contrôle est assuré par le médecin impliqué dans le mécanisme. Or, vous le savez, les abus de faiblesse existent – certains héritages sont longs à arriver.\nPour lutter contre ces abus, nous pensons qu’une tierce personne doit intervenir, non pour juger de la pertinence de l’acte, mais de sa régularité. C’est ce qui se passe dans les cas de don d’organe intrafamilial. Imaginez que je sois le frère de M. Mattei et qu’il veuille me donner son rein :…"
+        },
+        {
+          "orateur": "M. Christophe Blanchet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Vous avez beaucoup de chance ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…le juge vérifiera que les droits de chacun sont respectés. Ce dispositif existe, il fonctionne, et le juge travaille en urgence.\nNous estimons donc indispensable d’instaurer un contrôle extérieur du même ordre, garantissant la régularité du droit. Qui peut s’y opposer ? (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Quelques députés des groupes LFI-NFP, SOC et EcoS",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Nous !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Julie Laernoes."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Ces amendements ne visent pas à protéger qui que ce soit mais à complexifier l’expression d’une volonté libre et éclairée en ajoutant une procédure judiciaire inapplicable."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Sous couvert de protéger les plus faibles, vous cherchez simplement à empêcher l’accès à l’aide à mourir. En réalité, vous tentez de nier ce droit par des subterfuges un peu grossiers."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Cela s’appelle l’État de droit !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Jean-Paul Mattei."
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Gardez votre rein, monsieur Mattei ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Je ne ferai pas un rappel au règlement pour mise en cause personnelle (Sourires), mais j’invite chacun à lire la procédure. Si je devais faire un don d’organe, je serais plus rassuré en consultant un médecin qui m’explique les conséquences de mon acte, plutôt qu’un officier ministériel – notaire ou juge. (Applaudissements sur plusieurs bancs des groupes Dem, EPR, LFI-NFP, SOC et EcoS.)\nTout est prévu dans la procédure, y compris la possibilité d’adresser la personne à un psychiatre en cas de doute. Le texte a évolué, il a été travaillé et réfléchi. Je comprends qu’on puisse être contre, mais je vous invite à regarder ce que nous allons voter."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Ils sont de mauvaise foi !"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Je suis plus rassuré par la procédure prévue par le texte que par celle que vous proposez. (Applaudissements sur plusieurs bancs des groupes Dem et EPR ainsi que sur quelques bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 323 et 1071, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Sur l’amendement no 1317, je suis saisie par le groupe Horizons & indépendants d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe suis saisie de cinq amendements, nos 1317, 1152, 192, 13 et 636, pouvant être soumis à une discussion commune.\n Les amendements nos 13 et 636 sont identiques.\n La parole est à Mme Nathalie Colin-Oesterlé, pour soutenir l’amendement no 1317."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Il s’agit de préciser la notion de volonté libre et éclairée en complétant l’alinéa 9 par la phrase suivante : « Cette condition induit également que la personne ne fait l’objet d’aucune pression extérieure. »\nC’est un garde-fou essentiel contre tout risque de dérive. Dans la rédaction actuelle du texte, cette exigence n’est appréciée qu’au stade de l’administration de la substance, et non lors de l’examen de la demande ou de la décision d’éligibilité. Il est indispensable de vérifier la condition tout au long de la procédure, en particulier au moment de l’instruction de la demande, afin de garantir que la volonté est bien libre et éclairée.\nCet amendement vise donc à renforcer la sécurité juridique du dispositif, à prévenir tout risque de pression ou d’influence indue et à garantir la pleine cohérence du texte avec les garanties éthiques qui doivent encadrer une telle décision."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026777",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Juvin, pour soutenir l’amendement no 1152."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Chaque année, environ 800 jugements sont rendus pour abus de faiblesse. Ce type d’abus n’est donc pas une vue de l’esprit. Nous souhaitons simplement inscrire dans la loi la nécessité de s’assurer qu’il n’existe aucune pression extérieure."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "« Libre et éclairé », ça veut dire quoi ?"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026780",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 192 de Mme Sandrine Dogor-Such est défendu.\nLa parole est à M. Patrick Hetzel, pour soutenir l’amendement no 13."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Les abus de faiblesse existent : on compte 600 à 800 condamnations par an en moyenne – et un nombre d’affaires bien supérieur. Nous sommes plusieurs, sur différents bancs, à défendre les mêmes amendements, car cela nous inquiète. Il s’agit de protéger les plus vulnérables. Je suis d’ailleurs très étonné que la gauche ne soit pas sensible à cet argument car ce texte va créer une pression très forte sur les plus vulnérables. (Mme Justine Gruet et M. Dominique Potier applaudissent.)"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Oui, sur les plus faibles !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Or, la fraternité consiste à protéger les plus faibles. Ne pas l’entendre revient à ne pas tenir compte de la devise de la République."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Et de la réalité de la société !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026786",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Stéphane Peu, pour soutenir l’amendement no 636."
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Prévoir cette précaution, c’est une manière de protéger les personnes qui sont vulnérables, qui n’ont pas toujours un entourage familial bienveillant, dans une société où l’égoïsme triomphe, où la solitude de nos aînés est devenue la règle, où le fameux projet de loi relatif au grand âge tarde à venir."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Je ne sais pas si on le verra un jour…"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Cela m’inquiète beaucoup – c’est d’ailleurs l’une des raisons de mon opposition à ce texte : je ne voudrais pas que cette proposition de loi envoie un signal aux plus vulnérables d’entre nous, notamment à nos aînés, les incitant à une forme d’auto-effacement. (Applaudissements sur les bancs du groupe DR. – Mme Annie Vidal applaudit également.)"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "J’ai visité un service de soins palliatifs à Saint-Denis, ville populaire, et je connais trop bien ces personnes à qui l’on a répété toute leur vie qu’elles étaient de trop. Imaginez ce que cela produit lorsqu’elles sont vulnérables, âgées ou en soins : elles ont intériorisé cette idée – qu’elles sont un poids pour la société, que c’est à elles de s’effacer. Il ne faut pas d’incitation, même implicite. (Applaudissements sur les bancs du groupe DR. – Mmes Blandine Brocard et Annie Vidal, ainsi que M. Dominique Potier, applaudissent également.)\nJe souhaite donc que nous prenions des précautions, afin que ce texte ne devienne pas une loi de l’individualisme, mais qu’il laisse un espace à la solidarité et à la bienveillance. (Applaudissements sur les bancs du groupe DR. – Mmes Blandine Brocard et Annie Vidal ainsi que M. Dominique Potier applaudissent également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Je vais essayer de répondre calmement ; du reste, il n’y a aucune raison de ne pas être calme."
+        },
+        {
+          "orateur": "Mme Pascale Got",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331973",
+          "texte": "Un peu, quand même !"
+        },
+        {
+          "orateur": "Mme Marie-Noëlle Battistel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342415",
+          "texte": "Il y a des limites !"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Certes, mais il faut prendre sur soi. Ces amendements sont satisfaits. La manifestation de la volonté doit être libre, ce qui implique l’absence de contrainte extérieure. Cette exigence est vérifiée à toutes les étapes de la procédure : la proposition de loi encadre très bien les choses.\nJe ne pourrais pas dire mieux que M. Mattei, qui a été très précis. En cas d’abus de faiblesse, l’article 223-15-2 du code pénal s’applique."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Après la mort !"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Nous sommes là pour écrire la loi, pas pour rassurer les personnes qui expriment des inquiétudes. Ces amendements sont satisfaits. (M. Jean-Marie Fiévet et M. Thomas Lam s’exclament.) Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Je soutiens pleinement ces amendements. Il faut être très vigilant quant aux pressions que peuvent subir des personnes fragilisées par la maladie, le handicap ou le grand âge.\nJ’ai rencontré une dame âgée qui m’a dit s’inquiéter de l’adoption de ce texte : elle craint qu’on lui mette dans la tête l’idée que, puisque l’aide à mourir existe, elle pourrait bien y recourir. (Protestations sur quelques bancs des groupes LFI-NFP, SOC et EcoS.) Elle dit que si on le lui dit trop souvent, elle pourrait finir par le faire, même si ce n’est pas son souhait. Ces pressions pourront exister, pour différentes raisons. (M. Dominique Potier applaudit.) Or il faut protéger les personnes fragiles. (M. Patrick Hetzel applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Nicolas Turquois."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "L’abus de faiblesse existe – je ne le nie pas –, mais prévoir l’absence de pression extérieure est redondant puisqu’il est déjà précisé que la volonté doit être libre et éclairée."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "C’est différent !"
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Une telle rédaction introduirait un doute. En outre, ce serait une manière de remettre en cause la compétence des médecins, qui savent faire preuve d’humanité, écouter, évaluer les situations et repérer d’éventuelles pressions.\nSi, à chaque fois que nous défendons un amendement, la présidente ou le président de séance nous demandait si nous le faisons sans pression extérieure, comment cela serait-il perçu ?"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Oh !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "C’est dans le règlement !"
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Cette précision est non seulement inutile, mais elle exprime une défiance envers ceux qui doivent évaluer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 1317."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        132\n        Nombre de suffrages exprimés                130\n        Majorité absolue                        66\n                Pour l’adoption                55\n                Contre                75"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1317 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 1152 et 192, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 13 et 636 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4027078",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 779 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de plusieurs amendements, nos 779, 895, 736, 749, 1706 et 294, pouvant être soumis à une discussion commune.\n La parole est à M. Michel Lauzzana, pour soutenir l’amendement no 779."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Je proposais, avec cet amendement de repli, dans les cas où le patient est incapable de s’exprimer en raison d’un coma irréversible ou d’un état végétatif chronique, de tenir compte de ses directives anticipées, tout en précisant que la personne de confiance qu’il a désignée reste garante de sa volonté.\nToutefois, comme la prise en compte des directives anticipées a été repoussée à plusieurs reprises et qu’y faire référence ici pourrait fragiliser le texte, je retire mon amendement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 779 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4027080",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Stella Dupont, pour soutenir l’amendement no 895."
+        },
+        {
+          "orateur": "Mme Stella Dupont",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643175",
+          "texte": "Il s’agit de garantir aux personnes inaptes à manifester leur volonté de manière libre et éclairée, ou qui sont empêchées de le faire, l’accès au droit à mourir dans la dignité grâce à deux outils : les directives anticipées et la personne de confiance. Il conviendra de s’assurer que ces directives anticipées ont été rédigées ou confirmées depuis moins de trois ans, afin de garantir qu’elles correspondent toujours à la volonté de la personne.\nCet amendement permet également de garantir l’effectivité des dernières volontés d’une personne qui se trouverait empêchée de les signifier de manière libre et éclairée, grâce à une personne de confiance à qui elle aurait donné des indications relatives à sa fin de vie.\nCes dispositions concernent notamment les personnes en état de mort cérébrale, dans le coma ou dans un état végétatif irréversible."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4027084",
+      "valeurPtsOdj": "1",
+      "titre": "Suspension et reprise de la séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Les amendements nos 736 de M. Nicolas Sansu et 749 de Mme Émeline K/Bidi sont défendus.\nLa parole est à Mme Karen Erodi, pour soutenir l’amendement no 1706."
+        },
+        {
+          "orateur": "Mme Karen Erodi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795844",
+          "texte": "La loi Claeys-Leonetti a créé les directives anticipées pour que chaque citoyen reste maître de sa fin de vie, même lorsqu’il ne peut plus s’exprimer. Il serait incompréhensible, voire cruel, que cette nouvelle loi sur l’aide à mourir ignore cet outil fondamental.\nPar cet amendement, nous cherchons à lever une injustice majeure : l’exclusion de l’aide à mourir de celles et ceux qui perdent subitement leur conscience ou leur discernement. Dans la rédaction actuelle, si vous êtes victime d’un AVC ou touché par une maladie dégénérative foudroyante juste avant d’avoir pu réitérer votre demande, la loi vous ferme définitivement la porte menant à une fin de vie digne. C’est une double peine insupportable.\nLes directives anticipées et la personne de confiance sont des outils qui existent déjà dans notre droit et doivent servir de preuve de la volonté du patient. Bien entendu, si la personne, même sans discernement, manifeste une opposition ou un refus, le processus sera immédiatement suspendu : le consentement reste notre boussole.\nL’aide à mourir doit être un droit effectif. Ne laissons pas les personnes ayant été victimes d’un AVC et celles qui sont touchées par une maladie neurodégénérative sur le bord du chemin. Votons cet amendement pour qu’aucun citoyen ne soit prisonnier d’un corps dont il a déjà, en conscience, choisi de se libérer. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Sylvain Carrière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793912",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Sur l’amendement no 1706, je suis saisie par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Nicole Dubré-Chirat, pour soutenir l’amendement no 294."
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Cet amendement est un peu différent des précédents et s’inspire d’un dispositif canadien : la demande anticipée d’aide à mourir, qui concerne les patients atteints d’une maladie neurodégénérative. Au moment où la personne reçoit le diagnostic de sa maladie, elle a la possibilité de formuler une demande d’aide à mourir, dont il sera tenu compte au moment où elle ne reconnaîtra plus son entourage ou ne pourra plus effectuer les gestes du quotidien. Cela concerne une population particulière, dans un cadre bien déterminé, puisque ces demandes obéissent à des conditions spécifiques, parmi lesquelles le fait qu’un diagnostic ait été posé sur la maladie."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Sur l’amendement no 294, je suis saisie par le groupe Droite républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Revoici soulevée la question des directives anticipées, qui n’avait pas encore été abordée au cours de cette deuxième lecture. Abondamment débattue en première lecture, elle avait d’ailleurs été tranchée à plusieurs reprises et il avait été acté par l’Assemblée nationale que les directives anticipées ne pourraient pas faire partie du dispositif.\nJ’entends parfaitement les arguments développés par ceux d’entre vous qui souhaitent réintroduire ici les directives anticipées. Je respecte évidemment leur point de vue, et il est légitime qu’ils remettent cette question à l’ordre du jour.\nNéanmoins, je remercie notre collègue Lauzzana d’avoir à la fois évoqué ce sujet et retiré son amendement, et j’en appelle à la responsabilité de toutes et tous, notamment de ceux qui veulent que le texte soit adopté. L’une des grandes conclusions du débat que nous avons eu en première lecture est qu’il ne faut pas prendre en compte les directives anticipées dans le dispositif – et cela nous avait permis d’aboutir à l’adoption du texte. Je vous invite donc à retirer vos amendements, à défaut de quoi je leur opposerai un avis très défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Le chemin à la française proposé dans ce texte, tel qu’il a été voté en première lecture, est un chemin d’équilibre, qui consiste à demander aux patients de réitérer leur volonté. Inscrire ici les directives anticipées, comme le proposent ces amendements, ce serait s’écarter de ce chemin. Le gouvernement, qui continue de défendre la ligne d’équilibre atteinte en première lecture, y est donc défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Marie-Noëlle Battistel."
+        },
+        {
+          "orateur": "Mme Marie-Noëlle Battistel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342415",
+          "texte": "Madame la ministre, monsieur le rapporteur général, vous dites, avec raison, que nous avions trouvé un point d’équilibre sur la question des directives anticipées. Cela me pousse à revenir sur l’annonce, faite en ce début de séance, d’une seconde délibération sur l’amendement no 977 de Mme Vidal, afin de respecter, dites-vous, un point d’équilibre. Après vérification, comme M. Delautrette l’a noté tout à l’heure, si l’amendement concerné était adopté à l’issue de cette seconde délibération, le point d’équilibre sauterait.\nAlors, de deux choses l’une : soit on tient à ce que ce texte soit bâti sur des points d’équilibre, auquel cas le sort de l’amendement de Mme Vidal ne peut être remis en cause – et nous nous engageons tous ici à respecter les points d’équilibres atteints au fur et à mesure du cheminement du texte ; soit ce n’est pas le cas, et je ne vois pas pourquoi, alors que nous sommes très attachés à la prise en compte des directives anticipées, nous devrions y renoncer. Lorsqu’on recherche le consensus, c’est dans le respect mutuel, et il faut que chacun fasse un pas vers l’autre. Je suis heureuse que nos collègues n’aient pas retiré leurs amendements, car ils pourront ainsi être mis aux voix. J’attends en tout cas une explication de la part de la ministre."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Gosselin."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Il est toujours intéressant de voir des collègues s’interpeller entre eux et interpeller le gouvernement et le rapporteur général. Cela révèle de forts points de tension (Exclamations sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "C’est vrai que vous, vous ne le faites jamais !"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "…mais c’est le propre du débat parlementaire, évidemment !\nSur le fond, je crois en effet qu’il serait malvenu de revenir sur l’exclusion des directives anticipées. Le débat a été difficile mais il a été tranché…"
+        },
+        {
+          "orateur": "M. Andy Kerbrat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794130",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Vous nous parlez de points d’équilibre et de compromis : ce sont des éléments de langage, qui ne correspondent pas vraiment à la réalité.\nJ’en terminerai en rebondissant sur les propos de Stéphane Peu. Il a très justement évoqué l’auto-effacement de certains. (Mmes Justine Gruet et Annie Vidal ainsi que M. Dominique Potier applaudissent.) Combien de fois ai-je entendu des personnes d’un certain âge, seules ou non, redouter d’être une charge pour leurs enfants ! Oui, le risque de l’auto-effacement est bien là. C’est une vraie menace."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Océane Godard."
+        },
+        {
+          "orateur": "Mme Océane Godard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840939",
+          "texte": "Madame la présidente, je demande une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures quarante, est reprise à vingt-deux heures cinquante.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise, mais suspendue à nouveau pour dix minutes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures cinquante, est reprise à vingt-trois heures.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à M. Sébastien Peytavie."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Avant la suspension, nous évoquions les directives anticipées. Au-delà des tractations au sujet d’une seconde délibération, un débat de fond sur cette question est nécessaire. Nous sommes arrivés à trouver une ligne – puisqu’il est question de lignes d’équilibre –, mais il est essentiel de s’appuyer sur la volonté de la personne et d’aller vérifier jusqu’au bout qu’elle confirme sa volonté.\nVous avez pu constater le nombre de personnes en situation de handicap que ce texte – qui, je le rappelle, n’ouvre pas une aide à mourir en raison d’un handicap – inquiète. Toutefois, une personne en situation de handicap qui se retrouverait avec des douleurs qu’aucun traitement ne pourrait soulager pourra y avoir accès.\nIl ne faut pas s’extraire d’une société que l’on peut qualifier de validiste et de la représentation que l’on peut avoir de ce que cela signifie d’être en pleine possession de ses moyens, en pleine forme et performant. Lorsque j’ai auditionné les personnes atteintes de la maladie de Charcot, j’ai constaté que lorsqu’on leur demande, au moment de l’annonce du diagnostic, quels seront les points d’étape difficiles pour ceux, l’idée de se retrouver en fauteuil roulant peut représenter pour elles un impossible. Une fois qu’elles se retrouvent en fauteuil avec un bon matériel, c’est plutôt l’idée d’être alité qui les effraie, et à la fin, c’est le fait d’être sous respirateur.\nAinsi, leur perception peut évoluer, et il faut leur en laisser la possibilité. C’est pour cela que le fait de s’appuyer sur la volonté de la personne et de vérifier jusqu’à l’acte que cette volonté est toujours présente est pour moi une ligne essentielle, et que je m’oppose à la prise en compte des directives anticipées. (MM. Stéphane Peu, Patrick Hetzel et Philippe Gosselin applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Jean-Paul Mattei."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Dans le prolongement de la remarque de notre collègue Peytavie, j’ai toujours été perturbé par le fait que, dans le cadre des soins palliatifs, la décision d’accompagnement médical, qui va jusqu’à la sédation, peut tenir compte des directives anticipées – le malade peut ne plus avoir la capacité de dire non, même pour une sédation –, sans que cela pose problème.\nPour ma part, je fais bien la différence entre les soins palliatifs et l’aide à mourir, et je comprends que l’on puisse tenir compte des directives anticipées dans le cadre d’un accompagnement médical jusqu’à la fin. Par contre, s’agissant de l’aide à mourir, on voit bien la limite ; la volonté éclairée et libre doit être vérifiée jusqu’au dernier moment."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "La personne peut revenir en arrière. Dans mon activité professionnelle, quand les gens faisaient des testaments, ils pouvaient changer d’avis jusqu’à la fin, et nous étions attentifs à respecter leur volonté. Pour moi, c’est très important. Tenir compte des directives anticipées dans le cadre de l’aide à mourir me semble très dangereux : cela entraverait la liberté de dire non jusqu’à la fin et de revenir en arrière. Il est fondamental de repousser ces amendements."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Je trouve que nous arrivons à un niveau d’incertitude très élevé. Je rappelle que nous sommes en train de décider des critères pour l’aide à mourir, sur la base de la définition de l’article 2, sur lequel une deuxième délibération est également prévue. Le principe retenu initialement était celui de l’autoadministration, puis nous sommes passés à l’administration par un tiers si la personne le souhaite.\nDans son avis, le Comité consultatif national d’éthique avait considéré le suicide assisté comme une « voie pour une application éthique d’une aide active à mourir, à certaines conditions strictes ». À ce stade du débat, nous sommes très loin d’une application éthique d’une aide active à mourir. Plus nous avançons, plus nous créons de l’incertitude."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 895, 736 et 749, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 1706."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        117\n        Nombre de suffrages exprimés                95\n        Majorité absolue                        48\n                Pour l’adoption                17\n                Contre                78"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1706 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 294."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        97\n        Nombre de suffrages exprimés                82\n        Majorité absolue                        42\n                Pour l’adoption                11\n                Contre                71"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 294 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de plusieurs amendements, nos 674, 1298, 1378, 2031, 1815 et 1447, pouvant être soumis à une discussion commune.\n Les amendements nos 674 et 1298 sont identiques.\n La parole est à M. Vincent Trébuchet, pour soutenir l’amendement no 674."
+        },
+        {
+          "orateur": "M. Vincent Trébuchet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840685",
+          "texte": "Il est défendu."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025544",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1378 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Matthieu Bloch, pour soutenir l’amendement no 1298."
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Je défendrai l’amendement de M. Lenoir, qui traduit une préoccupation récurrente tout au long de ce débat. Nous voulons nous assurer que les soins palliatifs ont bien été proposés au moment où les professionnels discuteront avec un patient d’un éventuel suicide assisté ou d’une aide à mourir."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "C’est dans le texte !"
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "C’est absolument essentiel pour nous, a fortiori compte tenu des défaillances constatées sur des pans entiers du territoire – certains départements sont dépourvus de services de soins palliatifs. Nous ne voudrions pas que sur ces territoires sous-dotés, l’aide à mourir soit proposée aux patients comme une solution de facilité, au lieu de leur proposer des soins palliatifs."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de deux demandes de scrutin public : sur l’amendement no 2031, par le groupe Rassemblement national ; sur l’amendement no 1815, par le groupe Socialistes et apparentés.\nLes scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Thomas Lam, pour soutenir l’amendement no 1378."
+        },
+        {
+          "orateur": "M. Thomas Lam",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842125",
+          "texte": "Je retire cet amendement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1378 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025552",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Christophe Bentz, pour soutenir l’amendement no 2031."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "J’ai retiré tous mes amendements à l’article 4 à l’exception de celui-ci. Comme, je le répète, vos critères d’accès sont à mon sens des garde-fous fictifs, parce que temporaires, je n’ai pas voulu cautionner le débat sur l’article.\nPar cet amendement, nous voulons restreindre la possibilité d’un suicide assisté ou délégué aux personnes qui résident ou sont soignées dans un département disposant d’une unité de soins palliatifs. Prenons un cas concret : mon département de la Haute-Marne, qui est dépourvu d’unité de soins palliatifs et qui n’a même pas de médecins dans les équipes mobiles – plus rien."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Il y a des unités de soins mobiles !"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Il existe une profonde inégalité territoriale dans l’accès aux soins."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Je ne veux surtout pas que les Haut-Marnais en fin de vie se trouvent face au choix cornélien entre souffrir ou mourir."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025559",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Dominique Potier, pour soutenir l’amendement no 1815."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Les experts s’accordent sur le fait que 99 % des personnes qui peuvent accéder à des soins palliatifs renoncent à leur désir de demander la mort. Au-delà des convictions philosophiques, spirituelles et anthropologiques qui nous animent les uns et les autres, le choix auquel nous faisons face renvoie à des enjeux d’égalité républicaine, mais aussi d’égalité et de justice sociales.\nY aura-t-il demain dans notre pays des Français qui, n’accédant pas aux soins palliatifs, seraient condamnés à demander la mort pour dépasser leurs souffrances, tandis que d’autres – un sur deux, dans l’état actuel des choses – pourraient accéder à une prise en charge de leurs souffrances et n’auraient pas à demander la mort ? Ce serait absolument insupportable.\nEn vertu de convictions républicaines et du principe de justice sociale, on ne peut pas accepter une demande de mort si la personne n’a pas la possibilité de choisir librement l’accès aux soins palliatifs, qui sont l’expression du troisième élément du triptyque républicain – pas de liberté sans égalité, pas d’égalité sans accès à une fraternité humaine, que manifestent les soins palliatifs. (Applaudissements sur certains bancs des groupes RN, DR et Dem.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Il a raison !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4025564",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements identiques nos 674 et 1298 ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1447 de M. Jorys Bovet est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Ces amendements relatifs aux critères d’accès aux soins palliatifs sont de plusieurs types. Certains visent à ajouter un critère d’obligation d’accès aux soins palliatifs. Je rappelle que ce serait contraire au principe d’autonomie du patient défini par la loi Kouchner : nul patient n’est obligé d’accéder à des soins palliatifs. La loi Kouchner est très claire sur ce point."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Ce n’est pas la question !"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Si, c’est la question que soulèvent les amendements qui prônent d’ajouter un critère d’obligation."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Lesquels ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Il s’agit des amendements no 2031 et 1815.\nD’autres amendements ne prévoient qu’une simple information ou une proposition de prise en charge. Ces amendements sont déjà satisfaits par la rédaction de l’article 5, qui indique que le médecin « informe la personne qu’elle peut bénéficier […] des soins palliatifs et s’assure, si elle le souhaite, qu’elle puisse y avoir accès ».\nEnfin, d’autres amendements un peu différents prévoient que « la volonté n’est pas libre et éclairée si la personne a exprimé la demande de bénéficier de soins palliatifs et n’a pas pu y avoir accès ». Ce n’est pas opérant : une personne peut tout à fait demander à accéder aux soins palliatifs et, finalement, en raison de l’évolution de sa situation, vouloir entrer dans un processus d’aide à mourir, sans que l’absence d’accès aux soins palliatifs constitue un facteur explicatif. Nous, législateurs, dans ce domaine, ne pouvons pas décider à la place des personnes, car nous ne sommes pas dans leur situation. Ce serait aberrant de voter un amendement qui reviendrait à faire de l’arrêt de la demande d’accès aux soins palliatifs, parce que la situation médicale s’est aggravée, un critère explicatif. Cela n’a pas de sens.\nPour l’ensemble de ces raisons, je suis défavorable à tous ces amendements"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Avis défavorable, avec les mêmes arguments."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Nous abordons là ce qui est peut-être la question éthique la plus importante. Les travaux préparatoires, notamment l’évaluation par la commission des affaires sociales de la loi Claeys-Leonetti et l’avis du Conseil d’État de 2018 en vue d’une potentielle évolution législative, ont souligné que le fait d’avoir accès aux soins était l’une des conditions de la liberté des personnes. Cela ne veut pas dire qu’elles sont obligées d’en bénéficier. L’amendement de notre collègue Potier mentionne un accès effectif – si la personne le demande et si son état de santé le requiert.\nEn l’absence d’accès aux soins palliatifs, dans la relation soignant-soigné, la personne n’est pas réellement libre face à l’alternative que vous créez avec ce nouveau droit. Qui n’a pas les moyens d’accéder aux soins palliatifs ? Probablement les plus pauvres et les plus vulnérables, que nous avons le devoir de protéger. En écho aux propos de Stéphane Peu tout à l’heure, on sait que certaines personnes ont un sentiment d’indignité, ce qui est très grave. Toute personne a une dignité intrinsèque. Il faut que nous combattions ce sentiment et qu’à aucun moment nous ne laissions le moindre chemin permettant que prospère l’idée que la vie ne mérite pas d’être vécue, faute d’accès aux soins."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Julie Laernoes."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Tous ces amendements proposent de poser de nouvelles conditions à l’accès à l’aide à mourir pour exclure un certain nombre de personnes de son accès. On peut regretter que le droit opposable aux soins palliatifs n’ait pas été voté.\nLa question de l’accès à l’aide à mourir est une question de justice sociale, car qui y a accès aujourd’hui ? Ceux qui ont les moyens de se payer un voyage en Suisse, ceux qui ont la « chance » d’habiter non loin de la Belgique ou encore ceux qui, comme moi, ont en plus de la nationalité française celle d’un État où l’aide à mourir est pratiquée. Chacun devrait pouvoir y accéder s’il le souhaite et ne pas être obligé de souffrir jusqu’au dernier moment. La population française le demande et nous voulons lui donner ce droit au nom de la justice sociale. Ces amendements ne sont qu’un prétexte pour que les Françaises et les Français n’y aient pas accès. (M. Gabriel Amard et Mme Marie-Noëlle Battistel applaudissent.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 674 et 1298 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 2031."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        127\n        Nombre de suffrages exprimés                125\n        Majorité absolue                        63\n                Pour l’adoption                45\n                Contre                80"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2031 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 1815."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        127\n        Nombre de suffrages exprimés                127\n        Majorité absolue                        64\n                Pour l’adoption                51\n                Contre                76"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1815 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1447 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026364",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Patrick Hetzel, pour soutenir l’amendement no 239."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Inspiré de la Charte de la personne hospitalisée, il vise à compléter l’alinéa 9 de l’article 4 par la phrase suivante : « La personne doit avoir été préalablement informée des actes qu’elle va subir, des risques fréquents ou graves normalement prévisibles en l’état des connaissances scientifiques et des conséquences que ceux-ci pourraient entraîner. »\nOn constate que, dans les pays qui ont légalisé le suicide assisté ou l’euthanasie, les choses ne se passent pas toujours très bien. Il faut donc veiller à diffuser cette information."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Sur l’amendement no 239 et sur les amendements identiques no 635 et suivants, je suis saisie par le groupe Droite républicaine de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Justine Gruet."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "L’article 5, alinéa 10, prévoit que le médecin informe la personne et « s’assure, si elle le souhaite, » qu’elle puisse avoir accès de manière effective aux soins palliatifs. Je trouve hypocrite de ne pas écrire dans l’article 4 que l’accès aux soins palliatifs doit être effectif. Il ne s’agit pas de mettre un frein au droit à l’aide à mourir. Nous souhaitons que l’accès aux soins palliatifs soit effectif dans tous les territoires, mais ce n’est pas encore le cas et c’est injuste. Vous parliez, madame Laernoes, de justice sociale, une idée qu’il me semble compliqué de défendre dans ce contexte (Exclamations sur les bancs du groupe LFI-NFP) car, si dans l’absolu nos concitoyens devraient avoir le choix de bénéficier ou non des soins palliatifs, quand il n’y en a pas, ils n’ont pas ce choix !\nC’est pourquoi il nous semble extrêmement important que l’accès effectif aux soins palliatifs soit présent dans le texte dès cet article 4, en tant que critère d’accès à l’aide à mourir. Nous le devons à nos concitoyens. C’est la moindre des choses."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Blandine Brocard."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Ce que vient de dire notre collègue est très important. Ceux qui sont favorables à ce texte revendiquent la liberté de choisir sa mort, mais est-on vraiment libre quand on n’a pas le choix ? (Applaudissements sur les bancs du groupe DR ainsi que sur quelques bancs du groupe HOR. – M. Dominique Potier applaudit également.)\nJe rappelle que la moitié de nos concitoyens n’ont pas accès aux soins palliatifs. Ils n’ont donc pas le choix et ce n’est pas pour eux une véritable liberté. (M. Thibault Bazin et M. Dominique Potier applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Julie Laernoes."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Je ne vais pas épiloguer, d’autant que le débat qui vient de s’ouvrir ne porte pas sur l’amendement. Cela dit, je veux rappeler que la proposition de loi originelle portait sur les soins palliatifs et l’aide à mourir. Elle a été scindée en deux, mais ce n’est pas notre choix, nous n’avons pas été consultés.\nOn peut regretter que plusieurs départements ne soient pas pourvus d’unités de soins palliatifs, mais pour y remédier, il faut d’abord voter des budgets dans le projet de loi de financement de la sécurité sociale (PLFSS). (Applaudissements sur plusieurs bancs des groupes EcoS et LFI-NFP.) La Droite républicaine semble ne pas comprendre ce qu’est la justice sociale. Elle consiste notamment à donner des moyens à la santé publique."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Nicole Dubré-Chirat."
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Peut-être que les patients n’ont pas le choix parce qu’il n’y a pas d’unité de soins palliatifs ou d’équipe mobile dans leur département, mais on ne peut pas dire qu’ils ne seraient pas soignés. Ils peuvent en effet être hospitalisés et pris en charge par des équipes formées aux soins palliatifs. Les gens ne sont pas laissés à l’abandon, sans soins."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est sidérant !"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Ah bon ? Vous habitez où ?"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "J’ai les pieds sur terre, en tout cas !"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "C’est incroyable d’entendre des choses pareilles ! C’est un mensonge !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Allons, mes chers collègues !\n La parole est à Mme Sandrine Dogor-Such."
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "La loi sur l’aide à mourir sera effective tout de suite alors qu’il va falloir attendre dix ans pour avoir des unités de soins palliatifs. L’aide à mourir sera donc demandée par défaut de soins. C’est une évidence. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Ce n’est pas l’amendement !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Seule Mme Dogor-Such a la parole. Laissez-la parler !"
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "Sans soins palliatifs, on souffre et on n’est pas libre de choisir. Dans mon département, il y a des médecins qui partent à la retraite et qui ne sont pas remplacés. Les habitants n’ont donc même pas de médecin traitant et attendent plus d’un an pour une consultation avec un spécialiste. C’est la réalité !"
+        },
+        {
+          "orateur": "Mme Karen Erodi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795844",
+          "texte": "Ce n’est pas l’amendement !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Aurélien Saintoul."
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Cet argument se retourne comme un gant : vous nous expliquez que cette loi va empêcher le développement des soins palliatifs, mais elle n’est pas encore votée et tous les départements ne sont pas encore pourvus d’unités de soins palliatifs. Ça ne prouve donc rien.\nPar ailleurs, vous perdez de vue que nous parlons de l’ouverture d’un droit et, ce faisant, vous voulez forcer les gens à souffrir le martyre tant que les soins palliatifs ne seront pas développés à leur juste mesure. Mais ça n’a pas de sens ! C’est un peu comme si, dans un pays où le système de soins serait moins avancé, vous disiez aux gens qu’ils n’ont pas le droit de se faire soigner tant que la société ne s’est pas dotée de telle ou telle avancée médicale. C’est absurde !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "La loi Claeys-Leonetti, ça existe !"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Novlangue !"
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "La corrélation que vous établissez entre l’absence de soins palliatifs et le droit à l’aide à mourir n’a rien d’évident.\nBien sûr, il faut développer les soins palliatifs, mais vous n’avez pas été capables de le faire ces dernières années. Dans le monde réel, il faut donc bien apporter une réponse aux gens qui subissent un martyre. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Il ne faut pas confondre les conditions d’accès et d’éligibilité, qui sont l’objet de l’article 4, avec les procédures. Nous sommes, me semble-t-il, tous d’accord pour dire que les soins palliatifs doivent être proposés et que leur accès doit être effectif."
+        },
+        {
+          "orateur": "M. Nicolas Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841507",
+          "texte": "Rien à voir avec l’amendement !"
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Cependant, ne confondons pas les deux : dans l’article 4, il s’agit bien des conditions d’accès et uniquement des conditions d’accès."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Gérard Leseul."
+        },
+        {
+          "orateur": "M. Gérard Leseul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774958",
+          "texte": "Cela fait dix minutes que nous discutons des soins palliatifs, mais je vous rappelle que la discussion porte sur l’amendement n° 239, qui propose de compléter l’alinéa 9, après la liste des cinq critères d’accès, par la phrase suivante : « La personne doit avoir été préalablement informée des actes qu’elle va subir, des risques fréquents ou graves normalement prévisibles en l’état des connaissances scientifiques et des conséquences que ceux-ci pourraient entraîner » – à savoir la mort. Cela fait donc dix minutes que nous parlons d’autre chose, à l’initiative de personnes qui n’ont pris la parole qu’à des fins dilatoires. (« Eh oui ! » et applaudissements sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Tous les groupes s’étant exprimés sur cet amendement important, nous allons pouvoir passer au vote.\n Je mets aux voix l’amendement no 239."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        130\n        Nombre de suffrages exprimés                128\n        Majorité absolue                        65\n                Pour l’adoption                44\n                Contre                84"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 239 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026407",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie de cinq amendements, nos 635, 794, 1185, 1847 et 1849, pouvant être soumis à une discussion commune.\n Les amendements nos 635, 794, 1185 et 1847 sont identiques.\n L’amendement no 1849 fait l’objet d’un sous-amendement no 2166.\nL’amendement no 635 de Mme Josiane Corneloup est défendu.\nLa parole est à M. Patrick Hetzel, pour soutenir l’amendement no 794."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Il propose de compléter l’alinéa 9 par la phrase suivante : « La personne dont le discernement est altéré par une maladie lors de la démarche de demande d’aide à mourir ne peut pas être reconnue comme manifestant une volonté libre et éclairée. »\nLe fait d’avoir plusieurs lectures est une bonne chose. Nous avons déjà eu des débats sur des amendements concernant les personnes atteintes de maladies neurodégénératives. C’est un sujet très sensible, qui est en lien direct avec les directives anticipées. Dans le cas des maladies neurodégénératives, elles ne peuvent s’appliquer pour l’aide à mourir."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026411",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’amendement no 1185 de Mme Maud Petit est défendu.\nLa parole est à M. Dominique Potier, pour soutenir l’amendement no 1847."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "La nouveauté entre la première et la deuxième lecture – ou plutôt la troisième, comme le rappelait notre rapporteur – est l’émergence du mouvement antivalidiste. Des manifestations publiques ont commencé à s’organiser sur la place des Invalides dès les premiers jours de la première lecture et nous avons été nombreux à recevoir des associations telles que Les Éligibles. Ces associations, qui se caractérisent par un certain pluralisme politique – même si un front de gauche antivalidiste a émergé –, nous alertent sur la situation de personnes en situation de handicap ou atteintes d’une maladie de longue durée, pour lesquelles le fait d’être éligible à l’aide à mourir crée une forme d’insécurité. Nous devons entendre cette inquiétude.\nIl faut au moins prendre la précaution d’exclure les personnes privées de leur capacité de discernement d’une loi fondée sur la liberté, dont ne disposent malheureusement plus les personnes en situation de déficience intellectuelle. C’est presque étonnant que nous devions encore en parler, tant il paraît évident qu’il faut protéger ces personnes."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4026415",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Vous conservez la parole, monsieur Potier, pour soutenir l’amendement no 1849."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Je n’ai pas pour habitude de raconter mes expériences personnelles, mais il se trouve que la semaine dernière j’ai longuement discuté avec des personnes de la communauté de L’Arche. Dans l’ensemble des communautés où des gens font le choix de vivre la fraternité humaine avec des personnes en situation extraordinaire – en l’occurrence, il s’agit de personnes présentant un handicap mental –, il y a en ce moment une immense inquiétude, et la moindre des choses et que nous la prenions en compte. Nous avons évoqué les pauvretés sociale, territoriale et économique. Il faut également prendre en compte cette autre forme de pauvreté qu’est la dépendance intellectuelle à l’égard d’autrui. Le minimum, c’est faire preuve de fraternité à l’égard des personnes qui en souffrent."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme la rapporteure, pour soutenir le sous-amendement no 2166 à l’amendement no 1849 et donner l’avis de la commission sur les amendements en discussion commune."
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Je partage globalement vos arguments. Comme le soulignait M. Juvin, l’alinéa 3 de l’article 6 est mal placé, puisqu’il traite des conditions d’accès à l’aide à mourir, non de la procédure. Il serait plus approprié, en effet, de le placer après l’alinéa 5 de l’article 4.\nToutefois, ces amendements visent aussi à modifier la rédaction de cet alinéa. L’amendement no 1849 de M. Potier se rapprochant le plus de la rédaction existante, j’émets, à titre personnel – car la commission l’avait rejeté –, un avis favorable à ce dernier, à la condition d’adopter mon sous-amendement, qui supprime les mots « par une maladie », conformément à la rédaction actuelle de l’alinéa.\nIl s’agit ainsi de procéder, à rédaction constante, au transfert vers l’article dont nous discutons de l’alinéa 3 de l’article 6, afin de garantir la clarté du texte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Ces amendements portent sur un alinéa de l’actuel article 6. Il va de soi qu’il ne peut pas figurer deux fois dans le même texte. S’il se trouve transféré à l’article 4, il faudrait donc qu’il soit supprimé à l’article 6, et je ne suis pas certaine que des amendements le prévoient.\nEn outre, ces amendements proposent une rédaction légèrement différente, puisque les premiers évoquent un discernement « altéré », alors que l’amendement no 1849 de M. Potier choisit le terme « gravement altéré », qui figure aussi dans l’alinéa 3 de l’article 6 dans sa rédaction actuelle. Pour ma part, je suis favorable au choix du terme « altéré ». (MM. Patrick Hetzel et Philippe Juvin applaudissent.)\nJe suis favorable au sous-amendement de Mme la rapporteure, qui vise à supprimer les mots « par une maladie », pour conserver la rédaction actuelle de l’alinéa. En revanche, il porte sur l’amendement de M. Potier qui retient l’expression « gravement altéré », alors que je préférerais le mot « altéré ». En tout état de cause, il conviendrait de reporter la discussion à l’article 6."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Et s’agissant des premiers amendements de la série ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "J’y suis plutôt favorable, car je préfère qu’il soit question d’un discernement « altéré » plutôt que « gravement altéré »."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Sébastien Peytavie."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Pour répondre à M. Potier, il est vrai que les mouvements antivalidistes se mobilisent depuis quelque temps. Pourtant, le risque que le champ du texte s’étende aux situations de handicap n’existe pas."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "C’est leur inquiétude !"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Oui, mais ce n’est pas le cas, en tout cas pas dans la rédaction actuelle du texte."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "J’en conviens."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "C’est la voie que d’autres ont choisie, mais ce risque de dérive est clairement écarté par le texte. (M. Gérard Leseul applaudit.) Il convient de le répéter, car des personnes ont effectivement exprimé cette inquiétude.\nPrenons maintenant le cas d’un patient atteint d’un cancer de la gorge et souffrant de douleurs aiguës, qui connaît par ailleurs des troubles cognitifs et des difficultés de compréhension – il pourrait s’agir, par exemple, d’une personne trisomique. Ce patient peut-il, en cas de douleurs insupportables, exprimer librement sa volonté ?\nIl me semble qu’avec un accompagnement adapté, il est possible de s’assurer de sa volonté ; il paraît donc difficile d’exclure a priori cette personne du dispositif proposé au seul motif de son handicap.\nIl n’en reste pas moins que certaines personnes polyhandicapées ne peuvent satisfaire au critère du consentement libre et éclairé, et se trouvent, de ce fait, exclues du champ du texte. Notre ligne est donc parfaitement claire. (M. Gérard Leseul applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Je partage les propos de M. Peytavie. La question n’est pas de savoir s’il y a handicap ou non, mais s’il y a discernement ou non."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Oui."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Madame la ministre, si j’ai bien compris l’avis du gouvernement, vous souhaiteriez que l’amendement no 1849 de M. Potier ne comporte pas l’adverbe « gravement »."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "C’est cela."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Envisagez-vous donc de sous-amender cet amendement pour retirer ce mot ?"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Ce serait intéressant ! Ou bien sous-amendez l’amendement no 635 !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Ce serait une très bonne idée. L’amendement de M. Potier est un très bon amendement, mais le mot « gravement » pose un problème."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Oui, il est de trop !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Voilà, il est de trop, parce que le discernement est altéré ou ne l’est pas. Nous ferions donc preuve d’intelligence collective en sous-amendant l’amendement de M. Potier afin de retirer le mot « gravement »."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je viens de déposer un sous-amendement !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Ah, notre excellent collègue Bazin a déjà fait le nécessaire !"
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "C’est trop tard !"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Tout à l’heure, vous vouliez ajouter « gravement » ! Il ne faut pas exagérer !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Monsieur Potier, la direction de la séance m’indique que, si vous souhaitez rectifier votre amendement, il n’est pas nécessaire de le sous-amender. Vous avez la parole."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Je souscris aux différents arguments qui ont été avancés. Le débat sur le handicap sortait du champ des amendements en discussion et relevait plutôt d’une réflexion de politique générale. Je rends hommage à Sébastien Peytavie pour les précisions claires qu’il a apportées à ce sujet.\nJe suis sensible, madame la ministre, à votre avis sur mon amendement, notamment s’agissant du mot « gravement ». Je me range pleinement à votre avis et, afin de parvenir à un compromis, j’accepte de rectifier mon amendement en supprimant ce mot."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "À la lumière de ces nouveaux éléments, pourriez-vous préciser l’avis du gouvernement, madame la ministre ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Si le mot « gravement » est retiré de l’amendement no 1849, j’y suis favorable, sous réserve de l’adoption du sous-amendement no 2166. Avis défavorable aux amendements no 635 et identiques."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4027147",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Thibault Bazin, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Sur le fondement de l’article 100, relatif à l’examen des amendements. Afin de clarifier nos débats, nous proposons donc de supprimer le mot « gravement » – nous parlons bien d’un discernement altéré – et les mots « par une maladie », car le discernement peut être altéré par d’autres facteurs.\nJe viens à l’instant de déposer en ce sens un sous-amendement aux amendements no 635 et identiques. Est-il utile de suspendre la séance pour deux minutes, afin d’examiner sa recevabilité ? Cela nous permettait de clarifier l’objet du vote."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Dès lors que M. Potier a dit qu’il retirait le mot « gravement », un sous-amendement n’est pas nécessaire.\nLa parole est à Mme Nicole Dubré-Chirat, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Sur le fondement de l’article 100. Le cours de nos débats m’échappe. Nous examinons l’article 4 qui définit clairement cinq critères (Applaudissements sur quelques bancs des groupes EPR et sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) Or nous débattons d’un alinéa de l’article 6 qui viendrait s’insérer dans l’article 4.\nEnfin, lorsque nous examinerons l’article 6, un amendement visera à supprimer le mot « gravement ». Si je peux me permettre, je pense que nous faisons un peu n’importe quoi ! (Applaudissements sur quelques bancs des groupes EPR et sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Julie Laernoes, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Sur le même fondement. Le débat est ubuesque ! Près de 2 000 amendements ont déjà été déposés, et des sous-amendements viendraient s’ajouter à des amendements qui portent sur un alinéa de l’article 6, alors que nous examinons l’article 4. Soyons clairs : ce débat n’a pas sa place à ce stade de l’examen des articles ; il brouille le texte. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)\nCe bidouillage d’amendements et de sous-amendements n’a aucun sens. Exprimez donc un avis défavorable et remettons ce débat à l’examen de l’article 6. C’est essentiel pour l’équilibre du texte. (Applaudissements sur plusieurs bancs des groupes EcoS, LFI-NFP et SOC. – Mme Stella Dupont applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Justine Gruet, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Je demande une suspension de séance, s’il vous plaît."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Elle est de droit."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures quarante, est reprise à vingt-trois heures quarante-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4027178",
+      "valeurPtsOdj": "1",
+      "titre": "Article 4 (suite)",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1847 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "M. Potier a retiré l’amendement no 1847 et rectifié l’amendement no 1849 pour en retirer le mot « gravement ». L’amendement no 1849 tel qu’il vient d’être rectifié devient ainsi identique aux amendements nos 635, 794 et 1185. Nous procéderons donc au vote du sous-amendement no 2166 de Mme la rapporteure, puis à celui des amendements identiques qu’il tend à modifier.\nLa parole est à Mme  la rapporteure."
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Après beaucoup d’écoute et de discussions…"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Beaucoup de tractations !"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Soyons positifs : parlons plutôt d’écoute et de concertation."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Nous sommes éblouis !"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Tout bien considéré, je suis défavorable aux amendements identiques. Laissons cette disposition à l’article 6."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Très bonne décision !"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Vous étiez d’accord, maintenant vous ne l’êtes plus…"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Je ne vends pas la peau de l’ours avant de l’avoir tué, mais il est probable que nous examinerons alors des amendements visant à supprimer le mot « gravement ». Ne touchons à rien pour l’instant : nous retrancherons « gravement » lorsque nous étudierons l’article 6."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Il vaut mieux le voter maintenant ! Notre confiance est limitée."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Tout ça pour ça !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Madame la ministre, la position du gouvernement est-elle la même que celle de Mme la rapporteure ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Oui."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Madame la rapporteure, cela signifie-t-il que vous retirez le sous-amendement no 2166 ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Oui."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il est repris !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 2166 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix les amendements identiques nos 635, 794, 1185 et 1849 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        120\n        Nombre de suffrages exprimés                118\n        Majorité absolue                        60\n                Pour l’adoption                44\n                Contre                74"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 635, 794, 1185 et 1849 rectifié ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Sur l’amendement no 14, je suis saisie par le groupe Droite républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Patrick Hetzel, pour soutenir cet amendement."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Il importe de s’assurer réellement que la volonté du patient est libre et éclairée. Le médecin, s’il a un doute à ce sujet, doit donc pouvoir saisir un psychiatre ou un psychologue."
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "C’est le sujet de l’article 6 !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "M. Hetzel connaît parfaitement le texte ; il est étonnant qu’il aille chercher des alinéas de l’article 6 pour en débattre à l’article 4. Ne compliquez pas la loi ! Faisons les choses simplement. L’article 4 concerne les conditions d’accès au dispositif. Votre proposition sera débattue dans le cadre de l’article 6. Arrêtons de tout mélanger, de grâce ! (Applaudissements sur plusieurs bancs des groupes Dem, EPR, LFI-NFP, SOC et EcoS.) Soyons respectueux du texte, de son organisation, et nous débattrons de toutes les dispositions sans qu’il soit nécessaire de les déplacer d’un article à l’autre. (M. Thibault Bazin s’exclame.) Monsieur Bazin, puisque vous aimez faire les choses comme il faut, vous devriez être sensible à cet argument. (Applaudissements sur plusieurs bancs des groupes Dem, EPR, LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 14."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        119\n        Nombre de suffrages exprimés                119\n        Majorité absolue                        60\n                Pour l’adoption                42\n                Contre                77"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 14 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Sur l’amendement nos 1254, je suis saisie par le groupe Droite républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe suis saisie de cinq amendements, nos 1254, 240, 918, 1763 et 1744, pouvant être soumis à une discussion commune.\n Les amendements nos 918 et 1763 sont identiques.\n L’amendement no 1254 de Mme Élisabeth de Maistre est défendu.\nLa parole est à M. Patrick Hetzel, pour soutenir l’amendement no 240."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Nous souhaitons exclure les majeurs protégés du dispositif."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Thibault Bazin, pour soutenir l’amendement no 918."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Nous sommes là pour voter un texte cohérent. Si on trouve la définition du dispositif à l’article 2, les critères d’accès à l’article 4 et la procédure à l’article 6, il faut que toutes ces dispositions forment un ensemble cohérent. (Rires et exclamations sur quelques bancs du groupe EcoS.) Il est donc normal que les articles renvoient les uns aux autres."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Par exemple, le débat relatif au mode d’administration de la substance – autoadministration ou possibilité pour le patient de choisir l’administration par un soignant –, qui justifie la tenue d’une seconde délibération à l’article 2, reviendra nécessairement dans les articles suivants. M. le rapporteur général le sait bien : c’est ainsi que le texte a été construit. Ce n’est pas de notre faute !\nL’amendement concerne les majeurs protégés. Ils doivent être recensés dans un registre, mais celui-ci n’est pas encore opérationnel. Le médecin qui instruit la demande est censé consulter ce registre qui n’existe pas encore et n’existera sans doute pas avant deux ou trois ans. (M. Philippe Vigier s’exclame.) Le cas des majeurs protégés pose donc un réel problème : pour les rendre éligibles au dispositif, ne devons-nous pas attendre que le registre soit opérationnel ? Personnellement, je préférerais qu’ils ne soient en aucun cas éligibles ; s’il faut qu’ils le soient, attendons au moins jusqu’à la création du registre !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4027224",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Les amendements nos 1763 et 1744 de M. Alexandre Allegret-Pilot sont défendus.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Justine Gruet."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "L’attente de la seconde délibération sur l’article 2 rend nos débats quelque peu insincères (Exclamations sur quelques bancs des groupes SOC, EcoS et Dem), puisqu’à l’instant où nous parlons, l’euthanasie n’est plus l’exception et ne concerne plus seulement les patients physiquement incapables de s’autoadministrer la substance létale. Avant la dissolution, nous avions déjà observé que le texte était difficile à suivre."
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Merci qui ?"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "C’est vous qui le rendez plus compliqué !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "C’est sur l’avis du Conseil d’État que les dispositions en avaient été scindées en plusieurs articles très précis. Dans l’article 2, vous avez choisi le terme très générique d’aide à mourir, qui recouvre tant l’autoadministration que l’administration par un tiers ; pourtant, ces deux options sont très différentes sur le plan éthique. En fin de compte, la fragmentation du texte est source d’insécurité juridique. J’apporte donc mon soutien à ces amendements qui visent à y remédier."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Je voudrais dire à Thibault Bazin que le fameux registre… Monsieur Bazin, je suis en train de vous répondre. Monsieur Bazin !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "On ne s’adresse pas ainsi à ses collègues !"
+        },
+        {
+          "orateur": "Mme Marine Hamelet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795900",
+          "texte": "Si on vous dérange, on peut partir !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Vous avez énoncé un argument ; par respect pour vous, j’y répondais. J’étais donc surpris que vous ne m’écoutiez pas."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je vous écoute, allez-y !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "On ne s’interpelle pas entre députés !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Tant que le registre n’existera pas, les majeurs protégés ne pourront pas bénéficier de l’aide à mourir."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Ce que vous dites est faux ! Ce n’est pas ce qui est dans le texte !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Vous feriez mieux de ne pas employer d’arguments qui peuvent être retournés contre vous. Vous cédez à la facilité."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est faux ! Vous mentez !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Ces amendements ont pour seul effet de complexifier les choses. Mélanger les critères et la procédure dans le même article ne vous ressemble pas, vous qui aimez la simplification."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Le cas des majeurs protégés est un vrai problème ! Le gouvernement défendra d’ailleurs un amendement à ce sujet."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Je vous remercie de l’élégance avec laquelle vous avez écouté mes arguments. Couper la parole à quelqu’un dont les propos vous gênent, c’est un aveu de faiblesse !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Nous en reparlerons demain !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 1254."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        117\n        Nombre de suffrages exprimés                112\n        Majorité absolue                        57\n                Pour l’adoption                40\n                Contre                72"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1254 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 240 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 918 et 1763 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1744 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Sur l’amendement no 1310, je suis saisie par le groupe Droite républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Philippe Juvin, pour soutenir cet amendement."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Il vise également à la protection des personnes vulnérables. En l’état du texte, une personne sous curatelle, qui ne peut pas souscrire seule un emprunt, ou une personne sous tutelle, qui ne peut pas signer seule un contrat important, pourraient bénéficier de l’euthanasie."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Quel rapport avec l’amendement ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "L’amendement ne tend pas à l’interdire absolument mais à faire en sorte que, lorsqu’une personne faisant l’objet d’une telle mesure de protection juridique demande l’euthanasie, le juge des contentieux de la protection soit sollicité pour confirmer le caractère libre et éclairé du consentement. Cela fait partie de son rôle légal.\nPour l’instant, le texte ne prévoit rien de tout cela ; il dispose simplement que le tuteur ou le curateur doit être informé, ce qui ne veut rien dire. Nous demandons donc que le juge contrôle le caractère libre et éclairé du consentement des personnes sous tutelle ou sous curatelle."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Des garanties existent déjà et ont été rappelées à l’occasion d’amendements précédents. En outre, je crains que votre proposition n’alourdisse trop la procédure, ce qui pourrait conduire certaines personnes qui souhaitaient y accéder à renoncer. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Avis défavorable. Nous débattrons demain du registre des majeurs protégés, j’aurai d’ailleurs l’occasion de déposer un amendement à ce sujet. Dans le cas qui nous occupe, il revient au médecin d’apprécier le caractère libre et éclairé de la volonté du demandeur."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "C’est bien le problème !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Patrick Hetzel."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Je comprends votre argument ; c’est au médecin de se prononcer. Vous noterez cependant que, comme l’a rappelé M. Juvin, des dispositions spécifiques aux personnes sous tutelle ou sous curatelle sont déjà prévues dans le code de la santé. Par exemple, avant un don d’organe, l’avis médical doit s’accompagner de l’avis du juge, chargé de vérifier que la décision est éclairée et libre de toute pression. Ces garanties sont conçues pour protéger les personnes concernées. Elles fonctionnent d’ailleurs très bien : je n’ai jamais entendu personne s’en plaindre. C’est pourquoi nous sommes très attachés à l’amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 1310."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        113\n        Nombre de suffrages exprimés                112\n        Majorité absolue                        57\n                Pour l’adoption                43\n                Contre                69"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1310 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4027272",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Suite de la discussion, en deuxième lecture, de la proposition de loi relative au droit à l’aide à mourir.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

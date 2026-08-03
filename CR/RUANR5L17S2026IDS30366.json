@@ -1,0 +1,2097 @@
+{
+  "uid": "CRSANR5L17S2026O1N169",
+  "seanceRef": "RUANR5L17S2026IDS30366",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2026-02-25",
+  "dateLisible": "mercredi 25 février 2026",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4035618",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion, après engagement de la procédure accélérée, d’un projet de loi adopté par le Sénat",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’ordre du jour appelle la discussion du projet de loi relatif à la lutte contre les fraudes sociales et fiscales (nos 2115, 2250 rectifié)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4035620",
+      "valeurPtsOdj": "1",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. le ministre du travail et des solidarités."
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre du travail et des solidarités",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Au moment où l’on demande des efforts…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Aux plus riches ?"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…importants aux Françaises et aux Français ainsi qu’à nos entreprises pour redresser les comptes de l’État et de la sécurité sociale, nous avons le devoir républicain de lutter contre les fraudes, en laissant de côté – je vous le suggère – les idées reçues et les a priori idéologiques sur la fraude. La fraude n’est ni une idéologie ni un acte politique, c’est un coup de hache porté au pacte républicain.\nL’objectif de ce texte est simple : protéger…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Les plus riches !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…autant les particuliers que les entreprises et les comptes publics. Dans le contexte actuel des finances du pays, la fermeté doit être totale pour lutter contre la fraude sociale – c’est de celle-ci que je parlerai – et fiscale.\nC’est la raison pour laquelle le premier ministre a souhaité commencer l’examen de ce texte en parallèle des textes budgétaires et dans leur continuité. Avec David Amiel et Stéphanie Rist, nous serons pleinement mobilisés pour défendre ce texte jusqu’au bout.\nLa volonté du gouvernement est de faire adopter un texte équilibré et juste, un texte d’efficience et de fermeté, afin de répondre aux attentes légitimes des Françaises et des Français. Nous le devons à tous les travailleurs et à tous les employeurs qui respectent leurs obligations et qui sont très largement majoritaires dans notre pays. Nous le devons aussi aux services de l’État et aux fonctionnaires qui sont en première ligne pour lutter contre la fraude et qui manquent de moyens face à la professionnalisation et à la complexité des modèles de fraude."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Vous supprimez des emplois !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Pour lutter efficacement contre la fraude, nous devons sortir des postures idéologiques. Il faut le dire clairement : il n’y a pas, d’un côté, la fraude fiscale qui concernerait les entreprises, de l’autre, la fraude sociale qui concernerait seulement les particuliers. En fait, plus de la moitié de la fraude sociale est le fait d’entreprises peu scrupuleuses, qui recourent au travail dissimulé et éludent le paiement de cotisations pourtant indispensables à la pérennité de notre modèle social."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Ça ne se voit pas dans le texte !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Le combat contre la fraude doit dépasser les clivages et rassembler l’ensemble des forces politiques qui veulent permettre à l’État d’agir avec fermeté tout en employant des méthodes proportionnées."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "C’est raté !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "La lutte contre la fraude commence par la détection. En 2024, 2,9 milliards d’euros de fraudes sociales ont pu être détectés, plus du double du montant des fraudes découvertes en 2020 – nous progressons. Cependant, nous pouvons et devons faire encore mieux, en améliorant les dispositifs, de manière à permettre une détection encore plus rapide et s’assurer du recouvrement des sommes soustraites par la fraude organisée.\nLa tâche n’est pas simple parce que la fraude met à l’épreuve la puissance publique. Les services font face à des pratiques qui évoluent vite et prennent des formes variées. Les montages sont de plus en plus sophistiqués, à la main de réseaux organisés, et touchent de plus en plus de secteurs.\nAvec ce projet de loi, le gouvernement propose d’aller plus loin en renforçant les outils existants grâce à la technologie, mais toujours de manière juste et proportionnée, dans le respect de la vie privée et sans stigmatiser les bénéficiaires légitimes de la solidarité nationale.\nCependant, on ne peut pas lutter contre la fraude d’aujourd’hui avec les outils d’hier. C’est pourquoi nous devons lutter contre la fraude sociale sur tous les fronts.\nUn premier volet de mesures, celui qui permet le recouvrement des sommes les plus importantes, concerne directement la lutte contre le travail dissimulé, sous toutes ses formes, qui représente le principal poste de fraude sociale, estimé à 7 milliards d’euros, loin devant les fraudes liées aux prestations sociales ou à l’assurance maladie.\nJ’ai eu l’occasion de le dire plusieurs fois : l’emploi crée le travail ; le travail entraîne des cotisations ; les cotisations financent la sécurité sociale. Le travail dissimulé échappe complètement à cette logique de solidarité. Non seulement il nuit au financement de la sécurité sociale, mais il nuit aussi aux travailleurs qui ne cotisent pour aucun droit et qui subissent des conditions de travail et de rémunération dégradées. Il nuit également aux entreprises elles-mêmes, car les montages frauduleux faussent la concurrence vis-à-vis de l’immense majorité des entreprises qui s’acquittent de leurs obligations.\nJe voudrais d’abord insister sur la nécessité de mieux coordonner et concentrer les actions de nos corps de contrôle en vue de lutter contre le travail dissimulé. Nous devons renforcer leurs moyens d’action face à des schémas frauduleux toujours plus complexes.\nPour améliorer le taux de recouvrement, nous proposons à l’article 21 un principe nouveau de flagrance : dès lors qu’il y a conviction de fraude sur la base de faits avérés, les services pourront geler immédiatement les comptes de l’entreprise incriminée. Le but du gouvernement est d’agir vite pour ne pas lui laisser le temps d’organiser son insolvabilité, voire de se volatiliser dans la nature en emportant la caisse.\nNous souhaitons aussi, avec l’article 22, renforcer l’obligation de vigilance, donc la solidarité financière dans les chaînes de sous-traitance. La lutte contre le travail dissimulé concerne aussi les maîtres d’ouvrage, qui doivent prendre la mesure de leur responsabilité quand ils font appel à des donneurs d’ordre qui recourent au travail dissimulé via leurs prestataires et la sous-traitance en cascade.\nNous voyons ainsi se multiplier les cas de sociétés qui sous-traitent à des prestataires une partie des missions confiées par de grands groupes étrangers peu scrupuleux de nos normes sociales. Le gouvernement a déposé un amendement pour qu’il soit possible de procéder à la fermeture administrative de ces établissements complices de travail dissimulé. Par cet amendement, nous voulons mieux protéger nos entreprises et nos travailleurs. Nos normes sociales doivent contribuer à protéger nos commerces et nos filières contre la concurrence déloyale internationale.\nLa lutte contre la fraude sociale doit également permettre d’améliorer la part des sommes effectivement recouvrées. Il n’y a pas de sanction réellement dissuasive si elle ne se traduit pas par le recouvrement des sommes dues et par l’acquittement de l’amende – il faut taper au portefeuille.\nPour cela, le gouvernement propose d’élargir l’accès de nos services aux données fiscales et sociales. C’est le meilleur moyen de renforcer l’efficacité financière des contrôles. Nous serons amenés à discuter à l’article 17  bis du schéma de sanctions graduées, à la main des Urssaf, que nous proposons pour renforcer notre capacité à recouvrer les sommes dues.\nLe deuxième ensemble de mesures du texte relatives à la fraude sociale s’attaque aux fraudes à l’emploi. Avec ces mesures, nous cherchons, non pas à embêter les Français à la recherche d’emploi, à remettre en cause le droit à l’erreur ou à pointer du doigt la négligence, mais bien à sanctionner des faits avérés de fraude intentionnelle et répétée.\nLe projet de loi limite aux comptes bancaires domiciliés en France ou dans l’Union européenne le versement des allocations chômage ; il interdit de percevoir des allocations en cas de revenus issus d’activités illicites ; enfin, il cherche à permettre à France Travail d’améliorer le recouvrement des fraudes aux allocations chômage, qui représentent 116 millions d’euros en 2024.\nAu sujet de France Travail et de son action dans la lutte contre la fraude, le gouvernement soutiendra l’équilibre que vous avez trouvé en commission sur l’article 28, relatif aux capacités de contrôle de France Travail. Vous avez en effet adopté un système proportionné, qui protège la vie privée des allocataires tout en renforçant significativement les moyens d’action à la disposition des agents de contrôle de France Travail. Je plaide pour que cette version soit retenue.\nToutefois, soucieux de trouver les bons équilibres et sensible à certains arguments émis notamment par la Défenseure des droits, le gouvernement déclare dès ce soir être favorable aux amendements nos 263 et 82, présentés respectivement par les groupes communiste et socialiste, et qui visent à maintenir le reste à vivre des allocataires le temps de la suspension conservatoire. Nous devons être fermes et justes sans être dans l’excès ni renoncer au choc de solidarité.\nUn troisième ensemble de mesures de lutte contre la fraude sociale concerne la formation. Des investissements puissants ont permis de développer la formation, les compétences, l’apprentissage et de réduire durablement le chômage. C’est une grande réussite d’une belle politique publique en faveur de la jeunesse. Toutefois, quelques organisations peu scrupuleuses se sont engouffrées dans le système pour le dévoyer."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Fallait pas libéraliser ! Faut pas venir pleurer, maintenant !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Nous devons aux jeunes et aux entreprises un écosystème de la formation efficace et irréprochable.\nLa fraude à la formation est en train de se professionnaliser. Il faut la freiner et même l’arrêter avant qu’elle ne se propage. Nous avons déjà accompli des actes en ce sens dans le cadre du droit existant. Ainsi, la semaine dernière, la préfecture d’Île-de-France a prononcé le retrait d’agrément d’un centre de formation aux pratiques plus que douteuses.\nDans ce cas, comme dans les autres, les jeunes sont les premières victimes. Ils pensent se former et se préparer à la vie active mais, en réalité, ils se trouvent face à des charlatans qui détournent l’argent public à des fins malhonnêtes. Nous avons créé une cellule d’accompagnement pour assurer la continuité des parcours. Pas un jeune ne sera laissé sur le bord du chemin. Ils n’ont pas à subir les conséquences des actes des fraudeurs, que nous sanctionnerons et dont nous arrêterons les activités.\nLe texte que vous allez examiner propose des moyens pour mieux défendre les jeunes et les entreprises face aux brigands de la formation, en vérifiant que les offres de formation sont de qualité et ne visent pas à détourner l’argent public.\nLe gouvernement présentera ainsi un amendement qui tend à assurer la remontée de données pour mieux informer les Françaises et les Français sur les taux d’abandon, les taux de réussite aux examens et, surtout, les taux d’insertion professionnelle en fin de parcours. Si, dans le cadre de leurs campagnes de recrutement des apprentis, les établissements communiquent des informations trompeuses sur ces statistiques, ils pourront être sanctionnés financièrement.\nVous l’avez compris, le gouvernement se place résolument du côté des jeunes. Il faut faire le tri entre les formations sérieuses et les formations trompeuses.\nNous lutterons aussi plus fermement contre les organismes de formation qui ne respectent pas la République et ses valeurs. Nous avons des retours inquiétants au sujet de certaines formations. Des actions sont en cours dans nos services pour lutter contre l’emprise, l’entrisme, le charlatanisme, ou encore contre des formations qui pourraient s’apparenter à un exercice illégal d’activités réglementées, comme la médecine.\nPour conclure, les pratiques de fraudes à la sécurité sociale ne sont pas acceptables. Elles sont très mal ressenties par nos compatriotes. Nous devons faire attention, car la fraude fragilise la confiance dans notre modèle social de solidarité et de mutualisation des risques. Elle installe le doute chez nos concitoyens, qui peuvent rechigner à fournir des efforts quand certains trichent et menacent la soutenabilité financière de nos politiques de solidarité.\nSi vous adoptez ce projet de loi, nous pourrons mieux identifier la fraude et mieux recouvrer les sommes indues. Les systèmes de détection et de sanction deviendront plus dissuasifs et nous arriverons à faire baisser la fraude réelle dans notre pays, ce qui devrait être un objectif partagé par tous. Si ce texte est adopté, nous pouvons espérer un recouvrement de l’ordre de 1 à 2 milliards d’euros rapidement et, à moyen terme, de 3 milliards."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "On attend de voir !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "La sécurité sociale en a bien besoin.\nJ’espère que nous saurons être collectivement à la hauteur des aspirations des Françaises et des Français, qui attendent de nous tous de la fermeté face aux réseaux organisés de fraude et de l’indulgence face à l’erreur individuelle. Nous devons mettre un coup d’arrêt à la fraude intentionnelle et à la fraude à grande échelle. Si ce texte est adopté, nous pouvons espérer récupérer de l’argent pour la sécurité sociale.\nEnfin, je dirai un mot sur la motion de rejet qui a été déposée. Si elle était adoptée, ce serait…"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Une bonne chose !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…un mauvais message que nous enverrions : un message de laxisme et quasiment un encouragement pour les fraudeurs. (Applaudissements sur les bancs du groupe EPR ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre de la santé, des familles, de l’autonomie et des personnes handicapées",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Quand une société décide de mettre en commun ses ressources, de faire contribuer chacun pour protéger les plus fragiles, la fraude n’est pas un simple abus ; elle est une trahison – une trahison de la confiance sans laquelle aucune solidarité ne tient. Ce n’est pas seulement l’argent qui est détourné, c’est l’idée même de justice qui est abîmée. En tolérant la fraude, on installe une inégalité presque morale entre ceux qui respectent la règle et ceux qui la contournent.\nLutter contre la fraude sociale, ce n’est donc pas cocher une case budgétaire, ni aligner des sanctions pour recouvrer 13 milliards d’euros, c’est défendre le cœur battant de notre pacte social."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Mon dieu !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Depuis quelques années, la fraude change de visage. Elle s’organise, se professionnalise, se sophistique. C’est pourquoi la puissance publique doit élever son niveau d’exigence et d’action.\nC’est l’ambition de ce projet de loi : franchir un cap décisif dans la lutte contre la fraude sociale et assumer un changement d’échelle ; donner enfin aux organismes de sécurité sociale les moyens d’agir plus vite, plus fermement et plus efficacement dès qu’une fraude d’ampleur est détectée."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Bla bla bla !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "D’abord, le projet de loi simplifie profondément les procédures. Prenons le cas d’une société d’audioprothèse qui surfacturait systématiquement les dispositifs pris en charge par l’assurance maladie ; dans l’état du droit, cette fraude faisait l’objet d’un dépôt de plainte par chacune des soixante caisses primaires d’assurance maladie (CPAM) concernées. Grâce à une meilleure coordination entre les caisses et la justice, une seule et même plainte pourra désormais être déposée pour une fraude unique. C’est un progrès très concret et attendu. Les enquêtes seront ainsi plus rapides, les procédures plus fluides et, au bout du compte, un plus grand nombre de condamnations pour escroquerie seront prononcées.\nNous renforçons également les capacités d’enquête de l’assurance maladie. Un nombre accru d’agents pourront exercer le droit de communication, notamment auprès des établissements bancaires. Les enquêteurs spécialisés pourront ainsi se concentrer sur les fraudes les plus sophistiquées et les réseaux les mieux structurés.\nD’autre part, la lutte contre la fraude ne peut plus être émiettée ; elle exige une action collective, cohérente et coordonnée. C’est pourquoi nous organisons de nouveaux échanges d’informations entre l’assurance maladie et les organismes complémentaires. En partageant les données indispensables, ils pourront détecter plus rapidement les anomalies et stopper les fraudes portant sur les actes ou les prestations de santé. Nous renforçons aussi les échanges entre, d’une part, les acteurs de l’autonomie des personnes âgées et en situation de handicap, et, d’autre part, les organismes de l’État et de la protection sociale.\nL’objectif est simple : il s’agit de mieux repérer les incohérences, d’éviter les détournements et de sécuriser les dispositifs. Toutefois, je tiens à être parfaitement claire : cette coopération renforcée ne se fera jamais au détriment des droits des assurés. Le texte fixe un cadre strict à l’usage des données de santé : accès limité, secret professionnel renforcé, durée de conservation encadrée et interdiction totale d’utiliser ces données pour fixer le prix des contrats."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Et les fuites de données ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Nous ciblons également des fraudes identifiées depuis longtemps et qui pèsent lourd sur les finances de l’assurance maladie. Je pense notamment aux transports sanitaires, qui représentent 7 milliards d’euros de dépenses chaque année et plus de 40 millions d’euros de fraude en 2024. Ces transports sont indispensables pour des milliers de patients, mais ils donnent aussi lieu à des dérives. Désormais, certaines données nécessaires à la facturation, comme les kilomètres réellement parcourus et la géolocalisation, devront être transmises automatiquement à l’assurance maladie.\nNous renforçons également les sanctions contre les fraudes les plus graves. Prenons l’exemple d’une pharmacie. Aujourd’hui, si elle facture massivement des médicaments onéreux non délivrés, elle peut être déconventionnée. Or cela n’est pas toujours dissuasif, puisqu’elle peut continuer de fonctionner avec de l’activité non remboursée. Un professionnel de santé convaincu d’une fraude lourde pourra désormais cumuler sanctions financières et sanctions conventionnelles.\nNous irons plus loin encore lors de l’examen du texte, en proposant de nouvelles mesures visant notamment à combattre les sites frauduleux qui délivrent abusivement des arrêts de travail et des prescriptions de médicaments coûteux. Nous présenterons aussi des mesures pour encadrer les pratiques commerciales liées à certains équipements de santé remboursés, afin de prévenir les abus et de garantir une information loyale des patients.\nMesdames et messieurs les députés, je le rappelle régulièrement : la sécurité sociale n’est pas simplement un ensemble d’administrations, de guichets et de prestations ; elle est notre héritage, un socle de valeurs fondamentales qu’il nous appartient de protéger et de faire prospérer. L’adoption de ce projet de loi nous permettra de tenir cette promesse de justice. (Applaudissements sur les bancs des groupes EPR et Dem ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. le ministre de l’action et des comptes publics."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Ça fait trois ministres !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre de l’action et des comptes publics",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Personne n’est au-dessus de la loi."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Euh… On a des exemples !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Par ce texte, nous renforçons notre arsenal contre le business de la fraude, c’est-à-dire contre ceux qui, par des moyens de plus en plus sophistiqués, font du vol de l’argent public une profession. Cela fragilise non seulement nos finances publiques, mais aussi notre pacte républicain. En effet, la fraude est une perche tendue à tous les démagogues. Elle abîme la cohésion sociale, fragilise le consentement à l’impôt et sape le soutien nécessaire des citoyens à la solidarité nationale.\nC’est pourquoi le premier ministre a souhaité, dès sa prise de fonctions, faire de la lutte contre toutes les fraudes une priorité. L’objectif du gouvernement est clair : prévenir, traquer, sanctionner et recouvrer, pour frapper les fraudeurs au portefeuille et garantir le bon usage du denier public. L’expérience des dernières années le montre : notre engagement a déjà payé. Jamais nous n’avons autant détecté ni autant encaissé. En 2025, nous avons détecté un record de 17,1 milliards d’euros de fraude fiscale et encaissé 11,4 milliards d’euros. Dans le champ social, le montant des fraudes détectées et redressées a doublé entre 2019 et 2024.\nCes bons résultats sont dus à des choix politiques clairs, qui se sont matérialisés dans le plan ministériel de lutte contre toutes les fraudes aux finances publiques présenté par Gabriel Attal en mai 2023 et poursuivi par Thomas Cazenave. Dans ce cadre, nous avons renforcé les moyens humains, modernisé les outils, revu les organisations internes – ciblage des contrôles, déploiement de pôles de lutte contre la fraude à enjeux, développement de pôles d’enquêteurs nationaux –, mieux coordonné les administrations et encouragé un travail plus rapproché avec les parquets.\nL’adoption des textes financiers pour 2026 a permis d’aller encore plus loin en sécurisant des avancées majeures en matière de lutte contre la fraude fiscale, avec notamment la généralisation de la facturation électronique. Je veux saluer ceux dont l’engagement au quotidien permet un tel succès : les agents de la direction générale des finances publiques, des douanes, des organismes de protection sociale et de tous les services qui participent à cette lutte contre la fraude, protégeant ainsi l’argent et les droits sociaux de nos compatriotes.\nSoyons cependant lucides : il reste encore beaucoup de travail. Les fraudeurs s’adaptent. La fraude se numérise, se structure, s’industrialise. Comme les autres ministres l’ont dit avant moi, il s’agit avant tout d’une fraude de professionnels – 64 % des montants de la fraude sociale sont concernés. Ce projet de loi est donc un texte de riposte, avec une cible assumée : la fraude organisée.\nD’abord, il faut mieux détecter la fraude en facilitant les croisements de données. La mise à jour du registre national des entreprises (RNE) sera systématisée et les transmissions d’informations judiciaires aux services fiscaux et douaniers seront facilitées.\nEnsuite, il faut mieux sanctionner la fraude. L’escroquerie aux finances publiques en bande organisée sera criminalisée et les sanctions contre les facilitateurs de la fraude seront alourdies. Les dispositifs de sanction à la main de l’AMF – l’Autorité des marchés financiers – seront renforcés. Les revenus présumés issus d’activités illicites pourront être assujettis à des majorations de CSG – contribution sociale généralisée.\nEnfin, il faut mieux recouvrer. Contre les sociétés éphémères qui organisent leur propre insolvabilité, une procédure de flagrance sociale sera mise en place. La solidarité financière dans les chaînes de sous-traitance sera renforcée. Nous aurons l’occasion de revenir sur ces dispositions au cours des débats.\nPermettez-moi de saluer le travail utile et exigeant réalisé par les commissions des affaires sociales et des finances de l’Assemblée nationale ainsi que par leurs rapporteurs Patrick Hetzel et Daniel Labaronne. Monsieur le rapporteur Labaronne, vous avez notamment sécurisé la mise à jour du RNE en cas de fraude, tout en répondant aux exigences de protection des données personnelles. Quant à vous, monsieur le rapporteur Hetzel, vous avez permis de mieux encadrer les dispositions relatives au droit d’information de France Travail, de supprimer l’accès au fichier PNR – les données des dossiers passagers – et de clarifier le cadre d’exploitation des données de connexion à France Travail par certains de ses agents à des fins de lutte contre la fraude.\nUne motion de rejet préalable a été déposée. Face à cet enjeu majeur pour notre cohésion sociale et nos finances publiques, comment peut-on dire : « Circulez, il n’y a rien à voir, rien à discuter » ? Bien sûr, on peut vouloir améliorer les dispositions du texte. Le travail engagé en commission a vocation à se poursuivre en séance. J’entends certains dire qu’il faut rééquilibrer le texte : c’est précisément le but de nos débats en séance. (Exclamations sur quelques bancs du groupe SOC.)\nFace au développement du business de la fraude, fiscale comme sociale, une fraude sophistiquée, œuvre de professionnels, il est du devoir de l’Assemblée nationale de protéger les finances publiques et de s’assurer que l’argent des Français va bien à nos services publics et à notre protection sociale. Nous espérons que l’examen de ce texte permettra de renforcer les moyens qui permettent à nos services de garantir le meilleur usage des deniers publics. (Applaudissements sur plusieurs bancs des groupes EPR et Dem ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Il est mauvais, ce texte !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Patrick Hetzel, rapporteur de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Le Haut Conseil du financement de la protection sociale (HCFIPS) a estimé à 13 milliards d’euros en 2024 le manque à gagner pour les organismes de protection sociale imputable à la fraude. Sur ces 13 milliards, 2,1 milliards ont été détectés et ont fait l’objet d’un redressement, et seulement 600 millions ont pu être recouvrés.\nAlors que notre modèle de financement de la protection sociale fait face à des enjeux inédits de soutenabilité, la fraude constitue une lourde atteinte au principe de solidarité qui est au fondement de notre modèle social. Comme cela a été rappelé, cette fraude s’effectue de plus en plus en bande organisée.\nFace à ce constat, le présent texte poursuit une triple ambition : mieux détecter, mieux sanctionner et mieux recouvrer.\nD’abord, il s’agit d’améliorer le partage des informations pertinentes entre les administrations. Cela passe par une extension du droit de communication entre les organismes, afin de détecter les incohérences dans les déclarations et de sortir du système déclaratif quand cela est possible. Les échanges d’informations entre organismes, déjà bien développés, doivent être davantage sécurisés juridiquement.\nIl est en outre indispensable de renforcer la lutte contre les fraudes à l’identité et de sécuriser la vérification de la résidence en France pour le versement de certaines prestations. Un certain nombre de fraudes complexes seraient évitées en imposant la production de documents originaux et d’une preuve de résidence pour certaines prestations.\nIl faut aussi s’attaquer à la fraude des entreprises, qui représente près de 60 % du manque à gagner dû à la fraude. Dans cette optique, il est essentiel de renforcer les prérogatives et les pouvoirs des inspecteurs chargés du contrôle, de simplifier leur action et d’adapter le régime de responsabilité des maîtres d’ouvrage et des donneurs d’ordre à la réalité du recours massif à la sous-traitance.\nJe salue les avancées permises par les dispositions de l’article 21, qui instaure la procédure de flagrance sociale, et de l’article 22, sur le devoir de vigilance du maître d’ouvrage à l’égard du sous-traitant. Elles amélioreront significativement les outils dont nous disposons pour recouvrer les dettes des entreprises éphémères, qui prospèrent en organisant leur propre insolvabilité.\nDans le champ spécifique de l’économie des plateformes, l’article 8 renforce les obligations de vigilance des plateformes de véhicule de transport avec chauffeur (VTC) sur la réalité de l’activité de leurs chauffeurs et sur la régularité des exploitants qu’elles mettent en relation, en assortissant ces devoirs de contrôle de sanctions administratives.\nEnfin, je garde à l’esprit que ce projet de loi s’inscrit dans un contexte de forte activité législative en matière de lutte contre la fraude : la loi Cazenave contre toutes les fraudes aux aides publiques a été promulguée en juin dernier. De plus, certains articles du texte ont dû être supprimés en commission, car ils se trouvaient à l’identique dans la loi de financement de la sécurité sociale pour 2026. C’est la preuve que les choses avancent.\nJe veillerai également, en tant que rapporteur, au juste équilibre entre l’objectif de lutter contre la fraude et la stricte nécessité de l’accès aux données personnelles et de l’encadrement des libertés individuelles.\nN’oublions pas non plus qu’en matière de fraude sociale, beaucoup peut être fait au niveau réglementaire, voire par l’adoption de bonnes pratiques. Nous ne devons donc pas céder à la tentation de la surlégislation.\nInversement, il est de notre responsabilité, en tant que législateur, de ne pas livrer par une inertie coupable notre modèle social à la logique de prédation des fraudeurs, notamment de ceux qui agissent en bande organisée. Il aura fallu six ans pour que certaines recommandations essentielles de la commission d’enquête relative à la lutte contre les fraudes aux prestations sociales soient débattues, et certaines mesures du projet de loi ne seront effectives que dans plusieurs années : entre l’adoption d’une loi et sa mise en œuvre effective, il y a un délai d’adaptation pour les organismes en question.\nJ’espère que la motion de rejet préalable ne sera pas adoptée. Nous devons débattre des moyens de lutter contre les fraudes : il y va du pacte républicain."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Daniel Labaronne, rapporteur pour avis de la commission des finances, de l’économie générale et du contrôle budgétaire, à laquelle la commission des affaires sociales a délégué l’examen des articles 1er, 1er  bis, 3 à 3 ter, 9, 9  bis, 14, 15, 18 à 20  quater et 23 à 23  ter."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Nous entamons l’examen du projet de loi relatif à la lutte contre les fraudes sociales et fiscales, dont j’ai l’honneur d’être le rapporteur pour avis du volet fiscal. Je veux le dire d’emblée : il ne s’agit ni d’un texte de suspicion généralisée, ni d’un texte dirigé contre les plus modestes. (Murmures sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme Anna Pic",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794270",
+          "texte": "Quelle idée !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Il ne vise ni l’erreur de bonne foi ni les situations de fragilité ; il souhaite combattre la fraude organisée, s’attaquer à ceux qui en ont fait une activité professionnelle et détournent massivement l’argent public."
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Les très très riches, oui !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "La fraude sociale et fiscale a changé de nature. Elle n’est plus marginale, artisanale ; elle est structurée, professionnalisée, parfois mafieuse. Elle prospère sur nos failles administratives, nos lenteurs, nos cloisonnements.\nL’État ne peut rester désarmé ; il doit se donner les moyens d’agir efficacement. C’est pourquoi ce projet de loi a trois ambitions : mieux détecter ; mieux combattre et sanctionner ; surtout, mieux recouvrer.\nPremière ambition : mieux détecter. Le texte vise à améliorer, de manière strictement encadrée, le partage d’informations entre administrations fiscales, sociales, douanières, judiciaires, afin que soient décelés plus rapidement les comportements frauduleux. Les données personnelles seront protégées ; s’agissant du volet fiscal, je proposerai des amendements destinés à garantir un traitement sécurisé et proportionné.\nLe texte prévoit également de faciliter le contrôle de certaines activités économiques, de renforcer les échanges d’informations avec les autorités de régulation financière. En revanche, plusieurs articles additionnels adoptés en commission devraient être supprimés, soit parce que satisfaits par le droit existant, soit parce qu’incompatibles avec le droit européen. Là encore, l’efficacité commande la clarté.\nDeuxième ambition : mieux sanctionner. La logique est simple : frapper les trafiquants là où ça fait mal, au portefeuille – confiscation judiciaire des biens, saisie des sommes et taxation des revenus issus du trafic. Il convient de poser le principe suivant : on ne peut s’enrichir grâce à la drogue tout en percevant des allocations chômage."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Ah là là !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Le Sénat a durci le dispositif en étendant l’interdiction de cumul à l’ensemble des aides et prestations sociales versées sous condition de ressource. Il s’agit là d’une erreur que nous devrons corriger : l’interdiction de cumul existe déjà pour les prestations sociales et la malencontreuse rédaction sénatoriale met en danger tout le dispositif de recouvrement des prestations sociales indûment versées.\nInversement, certains collègues, en commission, se sont inquiétés de la possibilité que le recouvrement des sommes indûment perçues intervienne avant la décision du juge pénal. Rappelons que l’autonomie des procédures fiscales par rapport aux procédures pénales est un principe constitutionnel.\nLe texte prend également acte de la complexification des schémas de fraude et de l’extension de l’activité des mafias au détournement d’aides publiques. Les moyens d’enquête des services de police judiciaire et de renseignement fiscaux seront renforcés afin de lutter contre les groupes criminels qui organisent le détournement de fonds publics. En revanche, la suppression du verrou de Bercy ou l’extension massive des transmissions automatiques à la justice seraient contre-productives : si l’on veut attraper de gros poissons, il faut concentrer les moyens, non les diluer dans l’océan des petites affaires.\nTroisième objectif : mieux recouvrer. C’est le cœur politique du texte. L’idée est non pas d’empiler les sanctions symboliques, mais de récupérer l’argent de la fraude. Trop de procédures échouent simplement faute de temps. L’allongement des délais de reprise de l’administration fiscale permettra de corriger des omissions d’assiette ou de recouvrement portant sur des montants très significatifs.\nJe tiens à souligner l’importance de l’article consacré aux trusts, souvent situés dans des paradis fiscaux et qui ont longtemps servi – et servent encore – à échapper à l’impôt.\nJ’ai considéré le texte à travers un seul prisme : celui de l’efficacité. Après consultation de l’ensemble des services concernés, et au terme d’un travail exigeant, marqué par des échanges nourris avec tous les groupes de notre hémicycle afin de bâtir d’utiles compromis, une conviction s’impose : notre priorité doit être, non pas d’élargir indéfiniment le champ des contrôles, mais de rendre la lutte contre la fraude réellement opérationnelle. Ce texte doit frapper vite, juste et fort les réseaux organisés, les montages sophistiqués, les professionnels de la fraude, non les erreurs de bonne foi, ni les plus fragiles. C’est à cette condition qu’il sera accepté et qu’il produira des résultats tangibles. (Applaudissements sur quelques bancs des groupes EPR et DR. – M. le rapporteur applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Ce projet de loi est important tant par son ampleur, par les nouveaux dispositifs de lutte contre la fraude qui y figurent, que par la portée politique et symbolique qu’il revêt. En effet, la question de la fraude n’est pas accessoire : elle touche au cœur de notre pacte social et républicain. Alors que la soutenabilité de notre modèle social nécessite des réformes structurelles, comment pourrions-nous demander des efforts supplémentaires à nos concitoyens si ces derniers ont le sentiment que la fraude progresse dans notre pays, que certains se soustraient aux règles communes ? En détournant de celles et ceux qui en ont légitimement besoin les ressources du système de protection sociale, la fraude entame la confiance de nos concitoyens dans son équité ; or sans confiance, pas de solidarité durable : c’est pourquoi cette fraude doit être combattue.\nSi, depuis quelques années, l’arsenal de la lutte contre la fraude sociale s’est renforcé et le montant détecté a augmenté, ce texte constitue une étape supplémentaire, dont je me félicite. Selon la note annuelle de suivi et d’évaluation des fraudes sociales publiée en janvier par le Haut Conseil du financement de la protection sociale, cette fraude a atteint en 2025 14 milliards d’euros, contre 13 milliards lors de l’évaluation précédente. Dans la même note, le Haut Conseil estime indispensable d’accentuer les efforts de lutte, notamment concernant le recouvrement, et souligne l’importance de la prévention. Éviter la fraude constitue donc la mesure la plus efficace en termes d’équité comme de rendement financier.\nAinsi que le rappelait en commission Patrick Hetzel, que je salue pour la qualité et la rigueur de son travail, le projet de loi a une triple ambition : mieux détecter, mieux sanctionner, mieux recouvrer. Mieux détecter, en supprimant les obstacles au partage d’informations entre administrations, afin que l’action publique gagne en efficacité ; mieux sanctionner, en luttant résolument contre les comportements abusifs, le travail dissimulé ; mieux recouvrer, en sécurisant et accélérant les procédures, afin que les sommes dues reviennent effectivement à la collectivité. En prévoyant de nouveaux moyens de détection, des sanctions et obligations renforcées, un élargissement des pouvoirs de certains organismes publics – caisses de sécurité sociale, France Travail –, des outils mieux coordonnés, le projet de loi, je le répète, marque une nouvelle étape. Je tiens à souligner l’engagement de l’ensemble des membres de la commission des affaires sociales et la qualité des échanges dans ce cadre ; j’imagine, cher Daniel Labaronne, que la commission des finances a examiné ce texte avec autant d’exigence et de sérieux.\nBien évidemment – c’est un point auquel je suis très attaché –, nous devons constamment veiller à l’équilibre entre lutte contre la fraude et dispositions concernant l’accès aux données personnelles ou la préservation de la confidentialité des données de santé. Ce texte vise avant tout à protéger. Encore une fois, en luttant contre la fraude, nous protégeons les droits de celles et ceux qui perçoivent légitimement des prestations sociales, ce qui fait de cette lutte une composante essentielle de la confiance de nos concitoyens dans le système ; nous protégeons le principe même de solidarité qui fonde notre modèle social. (Applaudissements sur les bancs des commissions ainsi que sur quelques bancs des groupes EPR et Dem.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4036116",
+      "valeurPtsOdj": "1",
+      "titre": "Motion de rejet préalable",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "J’ai reçu de Mme Mathilde Panot et des membres du groupe La France insoumise-Nouveau Front populaire une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement.\n La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Le texte que nous examinons est relatif à la fraude fiscale et sociale, mais je vous entends parler de fraude sociale davantage que de fraude fiscale. Si vous avez du talent pour quelque chose, c’est pour faire croire aux Français que le problème tient à celui qui fraude avec 600 euros par mois, tout en réussissant à cacher et soutenir les fraudes de ceux qui perçoivent 600 millions par mois ! (Applaudissements sur les bancs du groupe LFI-NFP.)\nLorsqu’on s’intéresse aux manipulations dont vous faites profiter vos amis qui fraudent le fisc, il vous devient difficile de dissimuler, derrière le petit arbre de la fraude sociale, ce gros sac de billets de banque. (M. Antoine Léaument s’esclaffe.) Pour que les Français se représentent bien les choses, rappelons que la fraude aux prestations sociales s’élève à 5 milliards par an, la fraude et l’évasion fiscales à 120 milliards, soit vingt-quatre fois plus ; par rapport aux recettes de l’État, ce sont respectivement à peu près 0,3 % et 8 % du budget.\nPuisqu’il faut de l’argent pour l’hôpital, pour l’école, pour les jeunes qui galèrent, pour faire quelque chose face au réchauffement climatique, le bon sens consisterait à aller le chercher du côté de la fraude fiscale. Or vous ne parvenez à récupérer que 14 % du montant de celle-ci, contre 16 % du montant de la fraude sociale. C’est tout de même étrange : du côté fiscal, il y aurait plus d’argent à recouvrer ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nSi l’on descend encore dans le détail, on constate que depuis l’arrivée au pouvoir d’Emmanuel Macron, le président des riches, les effectifs consacrés à la lutte contre la fraude fiscale ont diminué de 20 %, tandis qu’augmentaient ceux destinés à combattre la fraude sociale. Il va falloir que vous m’expliquiez le concept qui consiste à remplacer un poste permettant de récupérer des millions d’euros par un poste qui permettra d’en recouvrer quelques centaines ! (Mêmes mouvements.)\nVous vous prétendez des Mozart de la finance ; vous êtes davantage des joueurs de pipeau. Vous parlez du pacte républicain. Certes, il faut lutter contre la fraude au nom du pacte républicain, du pacte social, mais disons donc aux Français ce qu’est un règlement d’ensemble ! J’ai mentionné les 14 % du montant de la fraude fiscale que vous arrivez à recouvrer ; disons plutôt qu’il s’agit de ce que vous ne laissez pas passer. Il faut que les Français sachent qu’il existe en effet un dispositif, appelé règlement d’ensemble, issu d’une loi de 2004, et qui permet au ministère du budget de petits arrangements entre copains. Il s’agit d’un club très sélect : le boulanger qui fait faillite en raison de l’augmentation des prix de l’électricité, prix que vous avez délégués à l’Union européenne, n’est pas admis à y entrer ; en revanche, chaque année, une centaine d’entreprises concluent avec Bercy de tels arrangements, qui nous coûtent 1 à 2 milliards par an. En 2024, vous avez ainsi fait un modeste cadeau de 500 000 euros à une seule personne : on ne sait pas qui, on ne sait pas quoi, on ne sait pas comment. Vous me répondrez que ce n’est pas vous qui avez créé ce système ; toutefois, chers collègues macronistes, le nombre de ces règlements d’ensemble a triplé depuis que vous êtes au pouvoir !\nVincent Bolloré, qui, entre 2008 et 2011, a tenté de frauder 800 millions d’impôts, devait payer 320 millions de pénalités : Bercy lui en a fait grâce. Pourquoi ce privilège ? Quand une mère seule perçoit 320 euros d’allocations familiales en trop, vous lui demandez de les restituer immédiatement, même si cela met ses deux enfants dans la galère. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe SOC.)\nVoilà ce qui porte atteinte au pacte social, au pacte républicain ! Voilà pourquoi je vous accuse d’hypocrisie : parce que vous avez diminué les moyens de la lutte contre la fraude fiscale et augmenté ceux de la lutte contre la fraude sociale, tout en sachant très bien que cela ferait perdre de l’argent à l’État. Vous avez organisé un petit système d’arrangements financiers avec les copains dans les entreprises desquels vous vous recasez lorsque vous perdez les élections.\nEn outre, vous oubliez de rappeler qu’en matière d’aides sociales, le principal problème réside dans le non-recours. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe SOC. – Mme Christine Arrighi applaudit également.) Beaucoup de gens qui auraient droit à des aides ne le savent pas. Croyez-moi, les riches, eux, connaissent fort bien les possibilités d’arrangement avec Bercy !\nNous étudions un texte dont les trois quarts des mesures concernent la fraude sociale et le dernier quart seulement la fraude fiscale. De surcroît, ce quart est cosmétique : les milliardaires peuvent dormir tranquilles !\nVous avez prévu des dispositions absurdes, notamment en ce qui concerne les MDPH, les maisons départementales des personnes handicapées. Pour une personne en situation de handicap, obtenir une réponse à son dossier peut prendre des mois, même si elle est en situation de grande précarité, même si elle est dans la galère. Pourtant, vous demandez par ce texte aux agents des MDPH d’effectuer davantage de contrôles à la fraude, alors qu’elle représente moins de 1,5 % de l’ensemble de la fraude aux prestations sociales ! Vous n’augmentez pas le nombre d’agents, mais vous élargissez leurs missions. Résultat, les délais de réponse seront encore plus longs. Voilà une conséquence très concrète sur la vie des Français ! (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe SOC.)\nVous avez prévu une disposition qui permettra de suspendre les prestations sociales sur simple suspicion de fraude. Attention : il n’y a ici ni juge ni autorité capable de s’y opposer. Tout repose sur une simple suspicion, sur votre seul bon vouloir !"
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "C’est honteux !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Vous avez l’air de penser qu’on peut se passer de prestations sociales – mais lorsqu’on vit avec 900 euros par mois en travaillant à temps partiel, c’est impossible. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Martine Froger applaudit également.) Ce que vous instaurez, c’est une condamnation à mort financière sur simple suspicion.\nIl n’y a absolument rien de cohérent dans ce texte censé renflouer les caisses de l’État. Pire, vous laissez les fraudeurs fiscaux s’échapper, puisque vous supprimez des postes ; l’arbre de la fraude sociale cache la forêt de l’évasion fiscale.\nMais votre texte va encore plus loin, notamment en ce qui concerne les données des Françaises et des Français. L’année dernière, une fuite de données au ministère du budget a concerné 1,2 million de nos concitoyennes et concitoyens. Des informations très sensibles ont fuité : noms, prénoms, adresses fiscales, documents bancaires – tout ce dont un escroc a besoin pour commettre une fraude au crédit à la consommation."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Nous n’avons pas eu la moindre explication de la part du ministre du budget, et le voilà qui instaure, à l’article 1er de ce texte, une disposition qui va généraliser à l’ensemble des administrations l’accès à ces données !\nUne fuite de données a encore eu lieu la semaine dernière : vous êtes incapables de protéger les données de l’État, mais vous en donnez encore plus aux escrocs et aux fraudeurs. Vous êtes des incompétents ! (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Martine Froger applaudit également.)\nOui, parlons des fuites de données de l’État. Je vais en dresser la liste : attention, elle est encore plus longue que la lente agonie de votre gouvernement ! En janvier 2026, le site service-public.fr subit une fuite de documents administratifs – on ne sait pas combien ni lesquels. Le même mois, c’est au tour de la plateforme Choisir le service public : 377 000 victimes. En février 2026, le site service-public.fr est de nouveau hacké – preuve que vous êtes incapables de combler la faille. France Travail a été condamnée à une amende après une récente fuite de données, la plus grave de son histoire."
+        },
+        {
+          "orateur": "Mme Farida Amrani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795588",
+          "texte": "Et ce n’est pas faute de vous avoir prévenus !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "On n’a pas entendu le ministre du travail s’exprimer sur le sujet.\nFin 2025, c’est cette fois au tour de la messagerie interministérielle : les données des fonctionnaires de ministères importants ont été exfiltrées ; ce sont des données sensibles, mais vous êtes incapables de les protéger. En décembre 2025, c’est même le ministère de l’intérieur, censé garantir le plus haut niveau de sécurité, qui subit une fuite de données. Novembre 2025, c’est de nouveau le cas de la plateforme Choisir le service public.\nJe ne vous cite que quelques exemples tirés des quatre derniers mois ; la liste n’est même pas exhaustive. Vous êtes incapables de tenir des bases de données, et vous avez la prétention de tenir un État ? Pour qui est-ce que vous nous prenez ? (Applaudissements sur les bancs du groupe LFI-NFP.)\nDans ce texte, vous prévoyez de saisir des données très sensibles pour les transférer à toute une série d’administrations – aux préfectures, aux administrations de sécurité sociale, à des complémentaires – sans nous garantir que vous êtes capables de les protéger puisque chaque semaine, il y a des fuites de données sans que vous ne présentiez d’excuses ni ne corrigiez les failles.\nVoilà toutes les raisons qui nous poussent à déposer cette motion de rejet. (Applaudissements sur les bancs du groupe LFI-NFP.)\nVous menez une bataille culturelle qui vise à faire croire aux Françaises et aux Français que le problème, c’est celui qui vit avec 600 euros par mois, mais les gens se rendent bien compte que le vrai problème, ce sont les milliardaires qui ont mis au pouvoir la bande de bras cassés que vous êtes ! (Applaudissements sur les bancs du groupe LFI-NFP.)\nQue Bernard Arnault et Vincent Bolloré ne dorment pas tranquilles ce soir : l’élection présidentielle approche. Une fois que la volonté populaire se sera exprimée, nous irons chercher leurs impôts – en enfer s’il le faut ! (Les députés du groupe LFI-NFP se lèvent et applaudissent. – Applaudissements sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Sur la motion de rejet préalable, je suis saisi par les groupes Ensemble pour la République et La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nNous en venons aux explications de vote sur la motion de rejet préalable.\nLa parole est à M. Thierry Benoit."
+        },
+        {
+          "orateur": "M. Thierry Benoit (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Monsieur Boyard, j’ai écouté votre propos et je dois dire que j’en partage presque tout le contenu. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Alors, votez pour la motion de rejet !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Il faut en effet que nos concitoyens sachent que la fraude fiscale dans notre pays est estimée à entre 80 et 120 milliards d’euros, quand seulement 16 milliards sont identifiés. De son côté, la fraude sociale est estimée à 13 milliards d’euros,…"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Pas tout à fait…"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "…pour 2,5 milliards détectés. Ce sont là les chiffres officiels du ministère de l’économie et des finances.\nJe partage donc la quasi-intégralité de votre propos.\nLà où je ne suis pas d’accord, c’est que le gouvernement prend justement l’initiative de s’attaquer au sujet de la fraude."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Il ne s’attaque à personne !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "On constate, avec les moyens modernes – internet, et tout ce qui va avec –, une croissance exponentielle de la fraude et il est fort logique que le gouvernement entende agir.\nSur ce projet de loi, 746 amendements ont été déposés et doivent être débattus. L’objet de ces amendements est de faire avancer la cause.\nVous souhaitez opposer la fraude fiscale et la fraude sociale. Je vous rejoins sur le fait qu’il faut s’atteler très sérieusement à la fraude fiscale – même s’il faut combattre aussi la fraude sociale –, notamment pour les nébuleuses des grands groupes."
+        },
+        {
+          "orateur": "M. Jérôme Legavre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795298",
+          "texte": "Alors, il faut rejeter le texte !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Pour ce faire, nous devons examiner au plus vite le texte qui nous est proposé ce soir.\nEn conséquence, le groupe Horizons & indépendants votera contre la motion de rejet préalable. (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Antoine Valentin."
+        },
+        {
+          "orateur": "M. Antoine Valentin (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "Contrairement au groupe Horizons & indépendants, nous ne partageons ni la position ni les propos de M. Boyard. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Ah ! Merci !"
+        },
+        {
+          "orateur": "M. Antoine Valentin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "Pour mettre fin à un suspense insoutenable, je vous informe que nous voterons contre cette motion de rejet préalable. L’initiative de LFI ne nous surprend pas, tant nous avons l’habitude de voir se déployer une logique imparable : refuser d’avancer pour l’intérêt général lorsque ses intérêts électoraux sont menacés.\nOui, ce texte est imparfait. Nous partageons le constat, mais pas les conclusions que vous en tirez.\nImparfait, d’abord, parce que, de l’aveu même du gouvernement, il ne permettra de recouvrer qu’une fraction des 14 milliards d’euros de fraude – un chiffre que nous tous ici savons minimisé.\nImparfait, ensuite, parce que notre pays accuse un retard manifeste dans ses dispositifs de détection, de contrôle et de croisement des données. De nombreuses alertes ont été données les années passées, notamment par Charles Prats, sur les dysfonctionnements qui fragilisent notre système de protection sociale. Je vous rappelle que circulent 2,5 millions de cartes Vitale de trop !\nNe perdons pas de vue l’objet de ce texte. Il est question de protéger l’argent public ;…"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Rendez-le !"
+        },
+        {
+          "orateur": "M. Antoine Valentin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "…celui des Français qui cotisent et qui contribuent ; celui des salariés modestes, des fonctionnaires, des artisans, des entrepreneurs ; celui de tous ceux qui respectent les règles de la République et qui attendent d’elle qu’elle les fasse appliquer avec la même vigueur aux autres."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Alors, rendez les 4 millions !"
+        },
+        {
+          "orateur": "M. Antoine Valentin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "Il est question de justice. Tolérer la fraude, qu’elle soit fiscale ou sociale, c’est organiser une rupture du pacte républicain ; c’est faire peser sur les honnêtes citoyens la charge de ceux qui contournent délibérément la loi et que vous défendez ce soir. Lutter contre la fraude, c’est défendre les Français honnêtes. Ce soir, vous avez à nouveau choisi de défendre ceux qui ne le méritent pas."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "N’importe quoi !"
+        },
+        {
+          "orateur": "M. Antoine Valentin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "Je le répète : nous voterons contre votre motion de rejet."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "On n’est pas surpris !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Personne n’applaudit…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Il faut dire les choses sans détour : si la gauche dépose une motion de rejet, c’est pour empêcher que l’on traite enfin un problème qu’elle a trop longtemps minimisé. En effet, la réalité est brutale : la fraude fiscale et sociale représente entre 60 et 80 milliards d’euros par an. C’est plus que le budget annuel du ministère des armées, et plus que les budgets des ministères de l’intérieur et de la justice réunis. À l’heure où de plus en plus de Français ont du mal à se soigner, c’est l’équivalent de plusieurs projets d’hôpitaux abandonnés."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Alors, rendez l’argent !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "À l’heure où le narcotrafic gagne du terrain chaque jour, ce sont des milliers de postes de policiers et de magistrats qui ne sont pas financés.\nCe n’est pas seulement de l’argent perdu, c’est de la capacité d’action publique qui disparaît au profit des tricheurs sans scrupule que vous défendez. (Exclamations sur les bancs des groupes LFI-NFP, EcoS et SOC.)"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Les tricheurs, c’est vous !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Vous prétendez défendre les plus modestes, mais vous protégez, par posture idéologique et électoraliste, un système trop permissif. Il y a là une contradiction majeure – mais après tout, vous n’êtes plus à une contradiction près.\nRefuser d’examiner ce texte, c’est refuser de frapper les réseaux au portefeuille.\nRejeter ce texte avant même d’en débattre serait un aveu de faiblesse. Le Rassemblement national fera un choix clair :…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Rendre l’argent ?"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "…nous voterons avec détermination contre la motion de rejet.\nLa solidarité nationale impose le respect des règles…"
+        },
+        {
+          "orateur": "M. Jean-Claude Raux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794154",
+          "texte": "Oui, le respect des règles, c’est important !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "…et cela implique un véritable contrôle. En 2027, lorsque nous serons aux responsabilités, avec Marine Le Pen et Jordan Bardella, nous irons encore plus loin. (Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Jean-Claude Raux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794154",
+          "texte": "Vous êtes bien partis !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Nous mènerons une véritable politique de lutte contre la fraude : permanente, structurée, dotée de moyens importants, avec un pilotage unique et une coordination totale des services. Nous le ferons pour les Français honnêtes, qui paient pour deux ;…"
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "Marine Le Pen, c’est une Française honnête ?"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "…pour nos communes, qui subissent l’emprise des réseaux ; et pour la République, qui doit redevenir maîtresse chez elle. (Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Denis Masséglia."
+        },
+        {
+          "orateur": "M. Denis Masséglia (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Notre modèle social protège, accompagne et, surtout, corrige les inégalités – mais aujourd’hui, vous le savez tous, il est sous pression financière. Nous le vérifions chaque année lors de nos débats sur le projet de loi de financement de la sécurité sociale : chaque euro compte ; chaque déséquilibre pèse sur la pérennité du modèle.\nDans ce contexte, une exigence s’impose : si l’on veut défendre notre modèle social, il faut s’assurer qu’il est juste et qu’il n’est pas détourné. La fraude n’est pas une abstraction budgétaire, c’est de l’argent en moins pour l’hôpital, pour les familles, pour les plus fragiles ; c’est une atteinte directe au pacte de solidarité qui fonde notre protection sociale.\nRefuser d’examiner ce texte qui vise à mieux lutter contre les fraudes, c’est envoyer un signal incompréhensible à nos concitoyens. C’est accepter que les abus perdurent au détriment du respect des règles.\nSoyons clairs : lutter contre la fraude, ce n’est pas stigmatiser, ce n’est pas remettre en cause notre modèle social ; c’est, au contraire, le défendre – le défendre contre ceux qui abusent, le défendre pour qu’il reste financé, crédible et durable.\nÀ l’heure où nous demandons des efforts à tous, où nous débattons de l’équilibre de nos comptes sociaux, pouvons-nous sérieusement expliquer que nous refusons de nous doter d’outils supplémentaires pour protéger l’argent public et la solidarité nationale ? Le groupe EPR refuse cette logique. Défendre notre modèle social, ce n’est pas fermer les yeux sur les dérives ; c’est garantir qu’il bénéficie à ceux qui en ont réellement besoin.\nPour toutes ces raisons, le groupe Ensemble pour la République votera contre la motion de rejet préalable. (Applaudissements sur quelques bancs des groupes EPR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "C’est bon, on a déjà tout entendu. Pas besoin de plus !"
+        },
+        {
+          "orateur": "M. Louis Boyard (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je vous avais manqué ! (Sourires.)\nIl va falloir, s’agissant de ce débat, que vous tranchiez : sommes-nous en train de mener un débat économique ou un débat moral ? Ce n’est pas la même chose.\nSi nous menons un débat économique, alors ce n’est pas le bon texte. Tout à l’heure, j’étais invité avec M. le rapporteur sur La Chaîne parlementaire (LCP), et lui-même concédait qu’un simple texte ne permettrait pas de redresser économiquement le pays."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Ce n’est pas le sujet !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "M. le rapporteur admet lui-même qu’il aborde le sujet sur un plan moral ; il estime que, dans le pacte social, il n’est pas acceptable que des gens fraudent."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Oui, c’est juste du bon sens !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Mettons-nous au moins d’accord sur les chiffres. Vous dites qu’il y a 13 milliards d’euros de fraude sociale. D’abord, mettez-vous à jour : ce ne sont plus 13 milliards, ce sont 14 milliards. Ensuite, il faut séparer ces 14 milliards en trois parties : 7,2 milliards de fraude aux cotisations, issue des employeurs ; 1,7 milliard de fraude imputable aux professionnels de santé ; et 5 milliards d’euros de fraude aux prestations sociales.\nSi le débat a lieu, je veux que nous séparions bien les choses. Il est faux de faire croire aux Françaises et aux Français que le montant de la fraude aux prestations sociales s’élève à 14 milliards d’euros.\nNous devons mener le débat dans les bons termes. Ce n’est pas un débat économique, c’est un débat moral. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Dès lors, nous ne pouvons pas omettre le fait que vous pouvez créer toutes les dispositions que vous voulez sur les partages de données entre administrations, si la direction générale des finances publiques (DGFIP) n’a pas les moyens de lutter contre la fraude fiscale, alors vous ne ferez rien contre elle (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Christine Arrighi applaudit également.) Si vous consacrez tous les moyens à fliquer des gens qui perçoivent 300 euros de prestations sociales, mais que vous ne mettez aucun moyen pour vous en prendre à des gens qui reçoivent des centaines de millions d’euros d’aides publiques, sans aucun contrôle – je pense notamment à M. Mittal –, alors vous n’êtes pas dans le bon débat moral.\nC’est pourquoi nous allons aborder le débat du point de vue de la lutte des classes. C’est exactement ce que vous êtes en train de faire : vous avez la main dure quand il s’agit des précaires et vous avez la main légère vis-à-vis des puissants. (Exclamations sur les bancs du groupe EPR.) Votez la motion de rejet ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Sandrine Runel."
+        },
+        {
+          "orateur": "Mme Sandrine Runel (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Le titre du projet de loi est tout simplement mensonger. Ce texte relatif aux fraudes fiscales et sociales n’est pas le texte d’équilibre et de justice que l’on nous présente ; c’est un texte d’affichage, pire, un mensonge politique. En réalité, plus des deux tiers de ses articles sont consacrés à la fraude sociale et les dispositions qu’ils contiennent sont complètement disproportionnées. Vous avez refusé en commission des finances tous nos amendements visant à lutter contre la fraude fiscale. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "C’est une honte !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Vous dites vouloir attraper les gros poissons, mais vous refusez de donner au renseignement les moyens d’aller les pêcher. Nous, socialistes, sommes évidemment pour lutter contre la fraude. Nous sommes toujours favorables au débat quand il s’agit de faire passer des lois justes pour les Françaises et les Français – c’est la raison pour laquelle nous sommes nombreux à être présents sur ces bancs. Mais là, vous êtes vraiment allés trop loin. Jamais nous ne faisons le choix de stigmatiser les plus précaires, ni celui de la violer le droit au respect de la vie privée. (Mme Estelle Mercier applaudit.) Pour notre part, nous ne faisons pas le choix d’épargner les plus riches – c’est ce que vous savez le mieux faire !\nChacun connaît les ordres de grandeur. La fraude aux cotisations sociales est estimée à 4 milliards d’euros. Ce montant n’est pas négligeable, toutefois, il reste vingt fois plus faible que le volume de la fraude fiscale, estimé entre 80 et 100 milliards d’euros. Alors que nous voulons lutter contre la fraude, nous pourrions aller les chercher, ces 80 milliards ; ce serait ça, la justice fiscale, mais c’est quelque chose que vous n’avez pas encore compris.\nNous rejetons aussi bien les conditions de cet examen – entamé à 21 h 45, en catimini, après un examen intense des textes relatifs à la fin de vie et avant trois semaines de suspension des travaux – que la criante absence de mesures contre la fraude fiscale. C’est pour ces raisons que nous voterons la motion de rejet – comme tout l’hémicycle, je l’espère. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Nicolas Ray."
+        },
+        {
+          "orateur": "M. Nicolas Ray (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Une nouvelle fois, le groupe La France insoumise veut empêcher l’Assemblée de débattre sur un texte pourtant essentiel à la sauvegarde de notre modèle social, auquel, je pense, nous sommes tous attachés. (Exclamations sur les bancs du groupe LFI-NFP.) Ils ne souhaitent pas que nous en débattions, comme si les fraudes sociales et fiscales n’existaient pas ! Cela a été rappelé, elles se chiffrent à plusieurs milliards d’euros – 13 milliards pour la fraude sociale, et entre 14 et 50 milliards pour la fraude fiscale. (Rires sur les bancs LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Oh là là !"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Non : 140 milliards !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Taxez les riches !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Je pense évidemment que ces sujets ont une vraie réalité et qu’il est nécessaire que nous en débattions. Comme s’il n’y avait pas urgence à trouver tous les moyens pour réduire les déficits publics de plus en plus importants !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Et Balkany ?"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Le groupe Droite républicaine réclame depuis longtemps ce texte indispensable. Nous l’avions réclamé au premier ministre François Bayrou ; il l’a préparé et nous l’examinons aujourd’hui. Indispensable, le texte l’est aussi sur le plan technique : à chaque projet de loi de financement de la sécurité sociale (PLFSS), nous faisons adopter des amendements pour lutter contre la fraude, qui, à chaque fois, sont censurés au motif qu’il s’agit de cavaliers sociaux."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Le Conseil constitutionnel considère en effet que ces mesures n’entrent pas dans le champ du PLFSS. Ainsi, il faut bien un texte dédié à ce sujet.\nSur le fond, je le répète, de nombreux articles seront utiles pour prévoir une modification des procédures, améliorer nos outils et l’efficacité des contrôles, aussi bien sur le plan social que fiscal, monsieur Boyard, pour mieux détecter, mieux sanctionner, mieux recouvrer et renforcer les échanges d’informations, notamment entre les caisses mutuelles et les caisses primaires. Bref, il est urgent de débattre de ces questions et d’appliquer ces propositions de bon sens, auxquelles les Français sont très attentifs et qu’ils nous réclament régulièrement sur le terrain. (Applaudissements sur quelques bancs des groupes DR, EPR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Christine Arrighi."
+        },
+        {
+          "orateur": "Mme Christine Arrighi (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Après le grand plan de lutte contre la fraude, lancé par Gabriel Attal – qui, comme d’habitude, n’est pas là – (Protestations sur les bancs des groupes EPR et Dem),…"
+        },
+        {
+          "orateur": "M. Guillaume Kasbarian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719372",
+          "texte": "Il est en Ukraine !"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "…annoncé à grand renfort de communication et de réunions, voici celui de Sébastien Lecornu, qui allonge la longue liste des différents textes relatifs aux fraudes que vous avez proposés depuis 2018."
+        },
+        {
+          "orateur": "M. Guillaume Kasbarian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719372",
+          "texte": "C’est nul !"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "L’inscription de ce texte à l’ordre du jour de notre assemblée atteste de l’échec des précédents. Je ne crois pas m’avancer beaucoup en déclarant ici que ce nouveau plan connaîtra le même sort, puisqu’il vise le même objectif : la diversion politique. Ce texte souffre d’une asymétrie profonde et injustifiable : alors que la fraude fiscale est estimée entre 80 et 100 milliards d’euros par an, le gouvernement préfère braquer les projecteurs sur la fraude sociale, qui pèse entre 13 et 14 milliards. Pire, il feint d’ignorer que plus de la moitié de cette fraude sociale est le fait des employeurs et non des assurés.\nCe projet de loi instaure un véritable vent de soupçon généralisé et méconnaît le principe même de la présomption de droit, avec les garanties qu’il implique. Comment accepter, monsieur Farandou, l’article 29, qui permet de suspendre des prestations sociales sur la base de simples indices sérieux, avant même qu’une fraude ne soit prouvée ? (Applaudissements sur plusieurs bancs des groupes EcoS et LFI-NFP.) C’est une rupture majeure avec nos principes juridiques. Vous prétendez agir, mais vous refusez d’y consacrer les moyens humains nécessaires. On nous annonce des recettes mirobolantes grâce à des algorithmes, alors que les services fiscaux ont perdu des milliers d’emplois et que le budget pour 2026 prévoit encore des suppressions d’emplois à la DGFIP.\nEnfin, ce texte multiplie les mesures intrusives et liberticides : géolocalisation des transports sanitaires, accès aux fichiers des compagnies aériennes – vous verrez quand on vous demandera votre nom lorsque vous prendrez votre avion –, et même accès aux adresses IP des allocataires par France Travail. Ainsi, il stigmatise les plus précaires et protège par ailleurs, comme dans le cadre de l’examen du budget, les plus grands fraudeurs fiscaux et sociaux. Parce que nous défendons un service public de justice fiscale et sociale, et non une administration dont les résultats sont fondés sur la pratique de la délation, nous voterons bien entendu la motion de rejet préalable. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP. – Mme Anna Pic applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Cyrille Isaac-Sibille."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "La lutte contre la fraude devrait nous rassembler. Il n’y a aucune raison d’opposer fraude fiscale et fraude sociale, comme si l’une intéressait principalement la gauche et l’autre la droite. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "La preuve…"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "La fraude, c’est du vol. Comme dit le dicton populaire, on peut voler un œuf et on peut voler un bœuf. (Exclamations prolongées sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.) Il faut évidemment lutter contre le vol du bœuf et contre celui de l’œuf."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Qui vole un œuf vole un bœuf !"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Ce sujet mérite mieux que des postures. Regardons la réalité en face : oui, la fraude existe. Elle est de plus en plus organisée et structurée. Elle profite des failles de notre législation. Dans ces conditions, rester avec des outils d’hier face à des enjeux d’aujourd’hui, et surtout de demain, n’est pas une option. Le texte qui nous est proposé aujourd’hui ne règle pas tout, mais il va dans le bon sens."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Il améliore la coordination entre services, renforce les contrôles et cherche à rendre les sanctions plus effectives."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Vous tapez toujours sur les pauvres !"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "C’est concret et utile. Évidemment, nous resterons attentifs à l’indispensable équilibre entre justice et répression. C’est normal : l’efficacité ne doit jamais se faire au détriment des droits,…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "C’est pourtant ce que fait M. Farandou !"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "…mais ce n’est pas une raison pour balayer le texte d’un revers de main. Si nous voulons vraiment lutter contre toutes les fraudes, il faut accepter d’avancer et d’améliorer nos moyens légaux d’y faire face, de manière progressive. Refuser ce texte, qui s’inspire de nombreuses recommandations de nos agents d’État, enverrait un mauvais signal.\nLe groupe Les Démocrates prendra ses responsabilités. Nous ne refusons pas le débat. Et maintenant, discutons. (Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Marc Fesneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719938",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Stéphane Peu."
+        },
+        {
+          "orateur": "M. Stéphane Peu (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Il y a beaucoup de choses à dire au sujet de ce texte. La motion de rejet se justifie assez largement, en partie du fait des déséquilibres mentionnés tout à l’heure. C’est un texte en forme de recette de pâté d’alouettes : une alouette de fraude fiscale pour un cheval de fraude sociale. (Exclamations sur les bancs du groupe LFI-NFP.) L’équilibre est inversement proportionnel au montant de la fraude :…"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "…plus celle-ci est importante, moins on prend de mesures, et plus elle est insignifiante, plus on en prend, parce que derrière, les personnes concernées ne sont pas les mêmes. On retrouve là la doxa macroniste qui consiste à s’en prendre toujours aux mêmes, les plus modestes, les plus pauvres, tout en protégeant les plus riches.\nToutefois, ce n’est pas mon argument principal pour justifier le vote de notre groupe pour la motion de rejet. Je le motiverai autrement. Mardi matin, lors de la conférence des présidents, les présidents de groupe ont demandé au gouvernement à une quasi-unanimité de surseoir à la mise à l’ordre du jour de ce texte (Applaudissements sur de nombreux bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS),…"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "…à la fois pour des raisons de calendrier – compte tenu du nombre d’amendements et d’articles, il est inimaginable de finir l’examen du texte vendredi à minuit –, et parce que cela posait un problème politique, du point de vue même de ce que défend le gouvernement."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Vous aviez déjà prévu de déposer une motion de rejet !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Étant donné l’impossibilité de finir l’examen du texte vendredi à minuit, nous allions avoir un premier texte relatif à la fraude fiscale, avant de reprendre l’examen du volet relatif à la fraude sociale après les trois semaines de suspension des travaux. Vous qui cherchez à créer une cohérence entre la fraude fiscale et la fraude sociale, par la force des choses, vous allez scinder le texte en deux, ce qui est contre-productif au regard de vos propres ambitions."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Ce n’est pas vrai ! Vous aviez déjà déposé la motion de rejet !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Je ne comprends pas : comment se fait-il que le gouvernement décide de passer outre à une demande unanime des présidents de groupe ? (Applaudissements sur plusieurs bancs des groupes GDR, LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix la motion de rejet préalable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        131\n        Nombre de suffrages exprimés                131\n        Majorité absolue                        66\n                Pour l’adoption                62\n                Contre                69"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La motion de rejet préalable n’est pas adoptée.)\n (« Ah… » sur les bancs de la gauche\n           de\n           l’hémicycle.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "À la demande du gouvernement, en application de l’article 95, alinéa 4, du règlement, l’Assemblée examinera par priorité les articles 1er  ter, 2  bis A, 2  bis, 3  quater, 3  quinquies, 5, 7, 8, 8  bis, 9  septies, 9  octies et 9  nonies, l’amendement no 238 qui porte article additionnel après l’article 11, et les articles 13, 14, 17, 17  bis, 18, 19  ter B, 20  sexies, 21, 22, 27, 28, 28  bis et 28  ter."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures cinquante-cinq, est reprise à vingt-trois heures cinq.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4035681",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Dans la discussion générale, la parole est à Mme Nathalie Colin-Oesterlé."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Selon leHaut Conseil du financement de la protection sociale, la fraude sociale représentait 14 milliards d’euros de préjudice en 2024, auxquels s’ajoutent 3,5 milliards d’euros d’erreurs déclaratives. Face à cette réalité, nous n’avons détecté que 2,9 milliards et effectivement recouvré ou évité moins de 1,2 milliard. En d’autres termes, pour chaque euro frauduleusement soustrait à notre protection sociale, nous ne récupérons que 7 centimes. C’est peu et cela nous coûte beaucoup, qu’il s’agisse des finances publiques ou de justice, car derrière ces montants, il y a une réalité que nos concitoyens perçoivent très bien : la fraude est de l’argent prélevé sur les ressources communes au détriment de celles et ceux qui cotisent honnêtement, qui déclarent scrupuleusement et qui respectent les règles. Rappelons-le. Selon le même rapport du Haut Conseil, 56 % de la fraude proviennent des entreprises et travailleurs indépendants, 34 % des assurés sociaux et 10 % des professionnels de santé. C’est donc d’abord une fraude organisée, souvent délibérée, qui capte des ressources destinées à la solidarité nationale plutôt qu’une fraude des personnes vulnérables."
+        },
+        {
+          "orateur": "M. Vincent Thiébaut",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722336",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "C’est au nom de cette double exigence – préserver le financement de notre modèle social et rétablir l’égalité entre ceux qui respectent la loi et ceux qui la contournent – que le groupe Horizons & indépendants soutient ce texte. Nous avons d’ailleurs voté en sa faveur en commission, face à l’opposition des groupes de gauche.\nLe projet de loi s’organise autour de quatre axes.\nD’abord, lever les freins au partage d’informations. Les caisses et les départements accéderont enfin aux bases patrimoniales de la direction générale des finances publiques et France Travail obtiendra des outils de détection inédits, y compris l’accès aux données de connexion et aux opérateurs téléphoniques."
+        },
+        {
+          "orateur": "M. Paul Christophe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642868",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Ensuite, frapper le travail dissimulé et les abus en santé grâce à la géolocalisation des transporteurs sanitaires, au renforcement de la flagrance sociale et du contrôle des arrêts de travail et au durcissement du devoir de vigilance dans les chaînes de sous-traitance.\nTroisième axe, assainir le marché de la formation professionnelle avec des sanctions renforcées pour les organismes fraudeurs et un délai de reprise porté à dix ans en cas de manœuvre délibérée.\nEnfin – c’est peut-être le point le plus attendu –, accélérer le recouvrement en donnant à France Travail le pouvoir de saisie directe sur les tiers et en permettant la suspension conservatoire des prestations sur indices sérieux de fraude.\nUn volet fiscal robuste complète l’ensemble. Il durcit les sanctions pour les escroqueries en bande organisée, renforce le délit de mise à disposition d’instruments de fraude fiscale, modernise les contrôles des terminaux de paiement et étend les délais de reprise dans les procédures internationales. Le texte protège aussi les agents de la direction générale des finances publiques face aux risques croissants associés à la criminalité organisée.\nLe travail en commission a été substantiel puisqu’il a permis d’examiner près de 500 amendements à un texte de plus d’une centaine d’articles. Pour les séances publiques, notre groupe a déposé plusieurs amendements, notamment sur le contrôle d’existence des retraités résidant à l’étranger. Nous proposerons une rédaction plus opérationnelle. Le texte issu de la commission fait de la présentation physique au consulat le moyen de principe. Or, en 2024, notre réseau consulaire n’a délivré que 14 000 certificats d’existence pour 1,4 million de pensionnés résidant à l’étranger. L’équation est impossible. Nous proposons d’élargir la liste des moyens de contrôle aux autorités locales habilitées par le ministère des affaires étrangères en attendant le déploiement de la biométrie prévue en 2028.\nSur la contrainte en cas de travail dissimulé, nous proposons d’introduire un délai de quarante-huit heures avant qu’elle ne devienne exécutoire à titre provisoire. Ce délai modeste permettrait au cotisant de former un recours si un moyen sérieux d’invalidation existe sans remettre en cause la rapidité indispensable du dispositif.\nPour résumer, le groupe Horizons & indépendants soutient ce projet de loi car il traduit enfin dans la loi ce que toutes les analyses recommandent depuis des années : détecter plus tôt, agir plus vite, recouvrer réellement et protéger l’immense majorité des allocataires et professionnels de bonne foi contre une minorité qui fragilise l’ensemble du système. (Vifs applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Ils n’ont jamais été aussi mobilisés !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Paul-André Colombani."
+        },
+        {
+          "orateur": "M. Paul-André Colombani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719286",
+          "texte": "La lutte contre la fraude est une exigence de justice. Elle conditionne l’acceptabilité de l’effort collectif et la crédibilité du système de solidarité. Lorsque certains se soustraient à leurs obligations, ce sont d’autres qui en supportent le poids : les salariés, les indépendants, les petites entreprises, toutes celles et ceux qui respectent la règle. Renforcer les moyens de contrôle et les sanctions est donc légitime, mais cette exigence d’efficacité doit aller de pair avec un impératif d’équilibre : équilibre entre fraude sociale et fraude fiscale, équilibre entre efficacité administrative et protection des droits.\nNous nous réjouissons en particulier de deux dispositifs.\nD’abord, la réponse apportée aux fraudes dans le secteur de la formation professionnelle et du compte personnel de formation (CPF). Les dérives massives constatées appelaient une réaction ferme. Le renforcement des contrôles et l’encadrement des organismes permettront de mieux protéger des fonds essentiels à l’emploi et au développement des compétences.\nEnsuite, les avancées en matière de lutte contre le travail dissimulé. Le renforcement des sanctions, l’extension du devoir de vigilance et la création de la flagrance sociale vont dans le bon sens. Ces mesures protègent les salariés, rétablissent une concurrence loyale entre entreprises et sécurisent les recettes de la sécurité sociale.\nMais ce texte demeure un texte d’ajustement. Son rendement, estimé à 2,3 milliards d’euros, reste limité au regard de l’ampleur réelle des fraudes. La fraude fiscale, évaluée entre 80 et 100 milliards, demeure largement en dehors de son champ. En l’état, le texte donne le sentiment de cibler prioritairement la fraude sociale. Nous nous interrogeons sur ce déséquilibre.\nNous attendons une stratégie plus ambitieuse en matière de fraude fiscale, notamment par le renforcement des effectifs dédiés au contrôle. Les avis de la Commission nationale de l’informatique et des libertés (Cnil) et de la Défenseure des droits rappellent que la lutte contre la fraude ne doit ni créer de nouvelles inégalités ni aggraver le non-recours aux droits, qui demeure important.\nJe dirai également un mot sur les mesures destinées à lutter contre la fraude des professionnels de santé. L’article 5, s’il était rétabli dans la rédaction du Sénat, marquerait un tournant préoccupant pour le respect du secret et de la déontologie médicale. Il introduirait en effet une dérogation explicite au secret médical en autorisant la transmission d’informations relatives à la santé des patients aux organismes complémentaires. Or transmettre à des acteurs assurantiels privés des données portant sur les prescriptions, les diagnostics ou l’historique des pathologies ouvrirait la voie à des usages qui dépassent le strict cadre du soin avec un risque réel de dérive, notamment à des fins commerciales ou assurantielles. Le secret médical, consacré par le code de la santé publique, n’est pas une règle administrative parmi d’autres. Il est strictement encadré et fonde la relation de confiance entre le patient et le soignant. Substituer à ce cadre protecteur un régime de secret professionnel plus large et ne présentant pas les mêmes garanties fragilise un équilibre essentiel de notre système de santé.\nPar ailleurs, l’article 17 comporte plusieurs dispositions perçues comme stigmatisantes par de nombreux professionnels de santé, comme la mise sous objectifs ou le déconventionnement en dehors de tout champ conventionnel. Ce n’est pas acceptable et a provoqué une forte contestation des médecins. Il est pourtant impératif de sanctionner les fraudes avérées. Les dérives constatées ces dernières années, notamment dans certains centres de santé, en particulier en ophtalmologie, et plateformes de télémédecine ont mis en lumière des pratiques graves, parfois organisées, qui doivent être stoppées. Nous souhaitons que Mme la ministre éclaircisse le débat sur la volonté du gouvernement de dissocier les deux pans de cet article 17.\nEnfin, l’extension des droits de communication entre administrations, notamment concernant le fichier national des comptes bancaires et assimilés (Ficoba) appelle des garanties strictes. Les récents piratages de fichiers publics rappellent que les fichiers les plus sensibles ne sont pas invulnérables. Étendre l’accès suppose des protections opérationnelles et vérifiables qui, à ce stade, demeurent insuffisamment précisées.\nCe texte est un texte d’ajustement et les gains budgétaires annoncés ne compenseront pas durablement les déséquilibres structurels. Notre responsabilité collective est d’engager une politique antifraude réellement efficace, équilibrée et durable. C’est dans cet état d’esprit que le groupe LIOT participera au débat, en veillant à ce que les garanties nécessaires en matière de proportionnalité et de protection des droits soient effectivement apportées. Notre position se déterminera à l’issue de l’examen du texte compte tenu des équilibres finalement retenus."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Emmanuel Maurel."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Après son passage au Sénat, ce texte sur la lutte contre la fraude arrive à l’Assemblée totalement déséquilibré. Il a été surchargé de dispositions sur la fraude sociale, dont il a été dit à l’envi qu’elle était bien moins importante que la fraude fiscale, avec des dispositions parfois redondantes, possiblement attentatoires aux droits fondamentaux, mais aussi vexantes, pour ne pas dire humiliantes, et qui, en plus, ne vont pas rapporter grand-chose. Le Sénat s’est fourvoyé dans son obsession à soupçonner ceux qui peuvent le moins frauder et à épargner ceux qui peuvent le plus frauder et vous êtes en train de commettre la même erreur. (M. Jean-François Coulomme et Mme Mathilde Feld applaudissent.)\nQuelle utilité à vouloir disséquer le fonctionnement de la branche accident du travail et maladie professionnelle (AT-MP) quand la fraude y représente moins de 70 millions sur 14 milliards d’euros de prestations ?\nQuelle plus-value à mettre les MDPH et les services départementaux de l’autonomie dans la boucle, alors qu’ils croulent déjà sous le poids de leurs missions et travaillent en sous-effectifs – chacun qui a une MDPH dans son département le sait ? Aucune !"
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Le contrôle des pensionnés résidant à l’étranger ou la programmation d’un plan de lutte contre la fraude dans les branches de la sécurité sociale ne produiront pas plus d’effets puisqu’ils existent déjà.\nBien sûr que des failles existent, dans lesquelles s’engouffrent les fraudeurs, mais ce projet de loi ne prend pas suffisamment le mal à la racine,…"
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "…celle de l’évasion fiscale ou de l’optimisation fiscale agressive."
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Autrement dit, après l’adoption de ce texte, il y aura toujours autant de millionnaires et de milliardaires qui ne paient pas d’impôt sur le revenu. (Applaudissements sur quelques bancs du groupe LFI-NFP. – Mmes Christine Arrighi et Estelle Mercier applaudissent également.) C’est pourquoi vous manquez évidemment votre cible.\nNous ne pouvons pas voter pour un texte qui passe au crible la vie de nos concitoyens les plus défavorisés et les plus pauvres, en espérant grappiller quelques dizaines de millions, mais qui ne s’attaque pas aux dizaines de milliards soustraits à la solidarité nationale par les plus riches et leur armée d’avocats fiscalistes."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Nous en sommes au sixième texte, depuis 2018, consacré à la lutte contre la fraude – je dis bien le sixième !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Justement !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Pourtant, les résultats sont toujours inexistants. N’est-il pas temps de faire autrement ? C’est d’ailleurs la Cour des comptes, une institution jusqu’à présent irréprochable,…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Ça ne va pas durer longtemps !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "…qui l’affirme dans son rapport public de décembre 2025 : « La fraude fiscale n’est ni plus fréquemment, ni plus durement sanctionnée qu’il y a dix ans. » Voilà le résultat de votre politique : pas grand-chose ! (Mme Mathilde Feld applaudit.)"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "C’est pas la Montchalin qui dirait ça !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Si l’on note des progrès en matière de détection des fraudes et des mises en recouvrements, on n’en enregistre pas s’agissant des recouvrements effectifs. C’est tout le problème : notre ardeur législative, si justifiée soit-elle, ne parvient donc pas à corriger l’écart fiscal entre les recettes théoriquement dues et celles réellement perçues – un écart plus élevé que celui de nos voisins, à l’exception de l’Italie.\nVoici les chiffres : en France, l’écart fiscal est estimé à 3,5 % du PIB, contre 3 % en Espagne, 2,5 % en Allemagne et 1,5 % environ au Royaume-Uni. Il est donc nécessaire de faire mieux, mais à condition de s’en donner les moyens.\nIl existe pourtant une contradiction manifeste dans les moyens que vous consacrez aux missions fiscales et aux missions régaliennes. Depuis 2008, les effectifs de l’administration fiscale ont diminué de 4 000 équivalents temps plein, sans que cela semble émouvoir les gouvernements successifs – les mêmes qui, à juste raison d’ailleurs, nous demandent de voter des renforts pour la police et la justice. On ne peut pas prétendre tenir un discours de fermeté sans s’en donner partout les moyens. On ne peut pas soutenir que la lutte contre la délinquance générale exige davantage de policiers et de magistrats tout en prétendant que la lutte contre la délinquance fiscale peut se passer de contrôleurs et d’inspecteurs des impôts supplémentaires. Tout le problème est là : si vous ne donnez pas à l’administration les moyens de contrôler efficacement l’évasion fiscale, votre texte ne servira à rien.\nEn outre, la fraude à la TVA nous coûte 20 milliards par an : votre projet de loi ne s’y attaque pas suffisamment."
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "Eh non !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Enfin, ne laissons pas prospérer dans le texte des dispositions qui pourraient porter atteinte de manière disproportionnée aux droits fondamentaux. À cet égard – et nous serons très vigilants sur ce point –, l’article 5 du projet de loi comporte un vrai risque d’égarer les données de santé sur des bases de données à caractère économique et financier, comme le redoutent les praticiens, et comme l’a presque reconnu l’étude d’impact elle-même.\nVous l’aurez compris, nous abordons ce débat avec un grand scepticisme, doublé d’une grande déception. Vous donnez raison à Alphonse Allais : « Il faut prendre l’argent là où il se trouve, c’est-à-dire chez les pauvres. Bon d’accord, ils n’ont pas beaucoup d’argent, mais il y a beaucoup de pauvres. » (Applaudissements sur quelques bancs du groupe LFI-NFP. – Mmes Estelle Mercier et Sophie Taillé-Polian applaudissent également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Éric Michoux."
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "La fraude n’est pas un détail. Elle est massive, elle trahit la solidarité, elle fracture la nation : 20 milliards d’euros annuels de fraude à la TVA, 7 milliards de fraude avec le travail au noir, près de 1 milliard de fraude à la carte Vitale – certains parlent de 2,5 millions de cartes surnuméraires. La fraude sociale est estimée à 14 milliards d’euros, la fraude fiscale à 100 milliards.\nLe tout représente un peu plus de 120 milliards d’euros de fraude par an : une telle somme, ce sont dix réacteurs nucléaires de nouvelle génération, vingt hôpitaux pour lutter contre les déserts médicaux,…"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Ou encore 240 yachts de Bolloré !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "…300 000 enseignants pour lutter contre les fermetures de classes en zone rurale. Cent vingt milliards chaque année, ce n’est pas une dérive, c’est un pillage !\nDans la France de M. Macron, des influenceurs expliquent comment frauder et des fraudeurs au RSA roulent en Ferrari. C’est exactement ce qu’il s’est passé il y a quelques jours. (Protestations sur quelques bancs des groupes LFI-NFP et EcoS.) Vous n’aimez pas les Ferrari ?"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Et les yachts à 50 millions ?"
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "Quelle honte !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Pourtant, un homme arrêté à 250 kilomètres à l’heure sur l’autoroute, au volant de sa Ferrari, était aussi à la tête d’un réseau de fraude sociale qui a réussi à détourner 1,8 million d’euros. Voilà où en est rendue la France du Mozart de la finance après neuf ans de règne !\nDans la France de M. Macron,…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Et dans celle de Mme Le Pen ?"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "…il y a aussi ceux qui se lèvent tôt, qui cotisent et n’ont plus assez pour boucler les fins de mois. Une France dont on parle trop peu ici. C’est la France qui se lève tôt, qui travaille, qui entreprend, qui déclare et qui paie ses impôts."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "C’est vraiment le café du commerce !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Oui, c’est la France du café du commerce, cher monsieur ! (M. Jocelyn Dessigny applaudit.) Bref, c’est la France des honnêtes gens, qui refuse les gaspillages et ne demande qu’une chose : le respect et la reconnaissance de son travail."
+        },
+        {
+          "orateur": "Mme Sandrine Nosbé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841191",
+          "texte": "Taxez les riches !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Il existe une véritable économie parallèle : celle des commerces illégaux, du travail au noir, des salariés non déclarés, des petits trafics. Elle fonctionne grâce au travail dissimulé…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Vous parlez de vos attachés parlementaires ?"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "…et aux travailleurs précaires – ceux que la gauche et l’extrême gauche font venir pour assumer des tâches qu’elles-mêmes ne veulent pas faire ! (Mme Mathilde Feld rit.) Ceux qui prétendent défendre le droit du travail ne font qu’exploiter la misère humaine. Quelle hypocrisie !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Eh oui, bande d’hypocrites !"
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "Et les attachés parlementaires du RN ?"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "On ne compte plus les garages fantômes, les barbershops, les ongleries ou encore les kebabs qui fleurissent un peu partout."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Pas les kebabs !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Ce sont des usines à frauder et à blanchir l’argent. Tout le monde le sait, mais personne n’agit concrètement. Dans un sens, ne pas lutter contre la fraude permet d’acheter la paix sociale.\nRappelons-nous aussi que le meilleur allié des fraudeurs, c’est le millefeuille administratif. La complexité de notre système l’a rendu illisible, incompréhensible, ingérable et faillible, à tel point que nous parlons désormais d’un gigantesque plat de spaghettis. La lourdeur et la lenteur de notre État incitent à la fraude."
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "C’est vous qui êtes lourd !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "C’est pourquoi la lutte contre la fraude doit se décliner en trois axes principaux. Premièrement, un choc de simplification : 400 000 normes, 5 600 pages de code du travail, 1 200 agences de l’État et ainsi de suite. Deuxièmement, des contrôles ciblés avec l’aide des technologies. Troisièmement, sanction des entreprises et des particuliers en cas de récidive.\nUn modèle social solide et durable doit être juste ; pour être juste, il doit être respecté. Plus un État est généreux, plus il doit être exigeant ; cela demande du courage et de la volonté politique. Lutter contre la fraude, ce n’est pas stigmatiser, c’est affirmer que la France récompense les travailleurs, pas les petits combinards (Applaudissements sur quelques bancs du groupe RN), et c’est rétablir la confiance. Et la confiance, c’est comme la porcelaine : ça se casse vite et ça se répare mal !\nIl y a urgence à agir et l’UDR est volontaire dans cette démarche. Nous voulons une France juste et exigeante, une France qui récompense l’effort et qui sanctionne la triche. La France est une grande nation."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Ça, c’est vrai !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Elle est généreuse, elle est solidaire. Vive la République, vive la France ! (Applaudissements sur les bancs des groupes UDR et RN. – Mme Christine Arrighi rit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Théo Bernhardt."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Rendez l’argent d’abord !"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Ça y est, on va avoir droit au couplet sur les immigrés !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Chaque année, 14 milliards d’euros de fraude sociale seraient volés à la solidarité nationale. Et sur ces 14 milliards, nos organismes de protection sociale en détectent moins de 3 milliards, soit à peine un cinquième. Ajoutez-y la fraude fiscale estimée entre 80 et 100 milliards d’euros annuels, et le tableau est complet : plus de 100 milliards s’évaporeraient chaque année dans l’indifférence de ceux qui gouvernent – près du double du budget de la défense ou du budget de l’éducation nationale.\nVoilà le bilan du macronisme en matière de lutte contre les fraudes : 100 milliards annuels pendant dix ans, c’est potentiellement plus de 1 000 milliards de fraude cumulée que l’État a regardé prospérer les bras croisés. Dix ans pendant lesquels les outils de contrôle ont stagné, les organismes de recouvrement ont manqué de moyens, et les fraudeurs ont prospéré tranquillement.\nQu’avons-nous eu pour toute réponse ? Le grand plan Attal : grandes annonces, grande mise en scène, grande opération de communication pour un résultat quasi nul au vu des chiffres auxquels nous sommes aujourd’hui confrontés.\nL’éphémère ministre des comptes publics, encore plus éphémère premier ministre, n’a rien fait ni rien changé, à tel point que le gouvernement actuel, au pied du mur, nous propose ce texte en urgence – urgence toute relative, visiblement, dans la mesure où cela fait plus de six mois que nous attendons son inscription à l’ordre du jour. Une attente interminable, alors même que la fraude continue de prospérer, que l’optimisation fiscale des multinationales atteint des proportions indécentes, que les ententes illicites entre entreprises pour fausser la concurrence se multiplient, et que les fraudes aux importations, qui bafouent nos normes de sécurité alimentaire, sanitaire et environnementale, mettent en danger la vie de nos compatriotes.\nCe texte, vous l’aurez deviné, n’est évidemment pas à la hauteur des enjeux évoqués. Le Conseil d’État juge, noir sur blanc, qu’il ne contient aucune « réforme d’ampleur ». Voilà l’ambition de ceux qui prétendent vouloir redresser les finances publiques.\nPermettez-moi d’être direct : les gouvernements de ces dix dernières années n’ont pas échoué à lutter contre la fraude par manque de moyens ou par manque de temps. Ils ont échoué par manque de volonté politique, ou pire, par calcul. (Applaudissements sur quelques bancs du groupe RN.) Car derrière la fraude organisée, il y a des réseaux, des intérêts, des complaisances que dix ans de gouvernement macroniste n’ont jamais voulu brusquer franchement.\nDix ans, c’est une génération de fraudeurs qui ont appris qu’en France, la fraude paie ; que les contrôles sont insuffisants ; que les sanctions sont dérisoires et que le recouvrement est une fiction. C’est ce message-là que dix ans de lâcheté ont gravé dans les comportements.\nÀ l’inverse, cela fait plus de dix ans que le Rassemblement national martèle que la lutte contre la fraude est un enjeu d’une urgence capitale pour notre pays. Nous, nous n’avons pas attendu d’être au pied du mur pour engager ce combat. Marine Le Pen et Jordan Bardella proposent ainsi un programme clair depuis des années. (Applaudissements sur les bancs des groupes RN et UDR. – Exclamations ironiques sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)\nCréation d’un ministère de lutte contre les fraudes, renforcement des contrôles, lutte contre la fraude à la TVA, durcissement des sanctions, création de la carte Vitale biométrique : voilà des mesures concrètes pour répondre à un phénomène qui ne fait que s’accentuer. La réalité, c’est que le Rassemblement national défriche ce terrain depuis des années, pendant que les autres regardent ailleurs.\nQuand Gabriel Attal nous a présenté son plan comme une innovation, nous avons dit ce qu’il était : un coup de communication destiné à préempter nos critiques, sans l’ambition ni la cohérence nécessaires. Le temps et les chiffres nous ont donné raison."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Comme toujours !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Vous êtes gonflés, quand même ! Franchement, il faut oser !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Ce combat contre la fraude fiscale et sociale revêt une importance fondamentale parce qu’il repose sur deux exigences qu’aucun gouvernement n’a jamais su articuler avec clarté.\nLa première, c’est la justice pour les millions de Français qui jouent le jeu : l’artisan qui paie ses cotisations à la sueur de son front ; l’infirmière qui déclare chaque heure travaillée ; la famille modeste qui remplit honnêtement sa déclaration d’impôts. Ces Français ont un droit légitime d’exiger que leur effort soit protégé ; que la solidarité nationale ne devienne pas un buffet en libre-service ouvert à ceux qui fraudent en bande organisée, qui perçoivent des prestations auxquelles ils n’ont pas droit, qui font travailler des salariés illégalement pendant que leurs concurrents honnêtes disparaissent. La fraude n’est pas un délit sans victimes : ses victimes, ce sont les Français.\nLa seconde exigence, c’est celle des finances publiques. Or la France affiche un ratio de prélèvements obligatoires de près de 44 % du PIB, au deuxième rang des pays de l’OCDE. Les Français sont ainsi déjà parmi les plus taxés du monde. Toute velléité de hausse d’impôts se heurte à la résistance légitime d’une population à bout. Il n’y a plus de marge fiscale : les ressources nouvelles ne se trouvent pas dans les poches des contribuables mais dans celles de ceux qui fraudent et qui volent."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Donc, dans les vôtres !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Lutter contre la fraude, c’est financer nos services publics sans pressurer davantage ceux qui jouent le jeu."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "C’est la seule voie sérieuse de redressement encore ouverte. Or les gouvernements, depuis dix ans, n’ont pas su ou pas voulu l’emprunter franchement.\nC’est dans cet esprit que le groupe Rassemblement national aborde l’examen de ce texte. Nous saisirons cette occasion pour faire mieux, parce que la lutte contre la fraude est une exigence républicaine, parce que les Français le méritent et que les finances publiques l’imposent. La solidarité nationale se mérite et se protège. Avec le groupe Rassemblement national, elle se défend. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Le présent projet de loi participe pleinement de notre pacte social et républicain par son objet : la lutte contre les fraudes sociales et fiscales. Son volet de lutte contre la fraude fiscale, traité par nos collègues de la commission des finances, complète la loi du 30 juin 2025 contre toutes les fraudes aux aides publiques. L’enjeu est d’appréhender la fraude dans toute sa complexité et dans toutes ses dimensions, sans stigmatiser, mais sans naïveté."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Vous l’avez déjà dit !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Pour ma part, je concentrerai mon propos sur la fraude sociale."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Oh ! Comme par hasard !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "La lutte contre la fraude sociale est un impératif financier, social et républicain. C’est un impératif financier car elle est estimée à 14 milliards d’euros, parmi lesquels un peu plus de 2 milliards sont détectés et seulement 600 millions recouvrés. Ce sont autant de moyens qui manquent à l’hôpital, aux familles, aux plus fragiles. C’est un impératif social car la France a fait le choix d’un modèle de protection sociale universel et solidaire, fondé sur une redistribution importante qui réduit les écarts entre les revenus et les inégalités. Il vise ainsi à protéger chacun face aux aléas de la vie, mais il ne peut fonctionner durablement que s’il repose sur la confiance de nos concitoyens dans l’équité des règles et dans leur respect effectif. Or cette confiance s’érode lorsque la fraude prospère. C’est enfin un impératif républicain car au cœur de notre pacte social se trouve le consentement à l’impôt. Il repose sur la conviction que l’argent public est utilisé justement et que les règles s’appliquent à tous. Lorsque certains fraudent, un sentiment d’injustice s’installe."
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "texte": "Exactement ! Tout le monde doit payer sa part !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Je tiens à lever toute ambiguïté : le texte ne concerne que la fraude avérée, il ne vise jamais l’erreur."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Pour rappel, en 2018, notre assemblée a consacré le droit à l’erreur pour protéger le citoyen de bonne foi. Ce principe ne sera jamais remis en cause. Nous combattons en revanche les manœuvres frauduleuses, c’est-à-dire les actes volontaires guidés par l’intention de tromper et de détourner indûment des ressources de notre système de solidarité.\nPar ailleurs, nous faisons face à une évolution profonde de la fraude, qui est de moins en moins le fait d’individus et de plus en plus celui de bandes organisées. Elle prend parfois la forme de réseaux structurés, parfois celle de véritables entreprises de pillage. Le Haut Conseil du financement de la protection sociale estime que le travail dissimulé et la fraude aux cotisations représentent 52 % des montants en question, auxquels s’ajoutent les fraudes aux prestations, de plus en plus organisées chez certains professionnels de santé, et la fraude aux arrêts de travail, tout aussi organisée.\nCe texte prévoit de renforcer notre arsenal autour de quatre axes. Mieux prévenir, c’est rendre la fraude plus difficile que le respect de la loi et la freiner avant qu’elle ne prenne racine. Mieux détecter, c’est faire circuler l’information pour identifier précisément la fraude et les fraudeurs. Mieux sanctionner, c’est adapter des dispositifs devenus insuffisamment dissuasifs en renforçant les sanctions. Enfin, mieux recouvrer, c’est agir vite, notamment grâce à des outils comme la flagrance sociale en cas de travail dissimulé."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Vous avez supprimé des postes d’inspecteur du travail !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Cela étant, nous avons veillé en commission à retirer des dispositions parfois disproportionnées. Je pense à la création d’un fichier des personnes condamnées pour fraude, à la suspension du tiers payant pour les assurés condamnés, à la possibilité de suspendre des prestations sur simple doute ou encore à l’accès au fichier PNR de l’aviation civile et aux données de téléphonie mobile pour contrôler le lieu de résidence des allocataires. (Mme Christine Arrighi s’exclame.) Chère collègue, si vous aviez lu le texte, vous n’auriez pas dit ce que vous avez dit tout à l’heure : c’est écrit très clairement !"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Je l’ai lu en détail !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "La proportionnalité doit nous guider. Nous ne pouvons et ne devons pas utiliser des outils pensés pour la sécurité sociale afin de contrôler les bénéficiaires de prestations sociales.\nLa commission a fortement – peut-être trop – encadré l’article 5, relatif au partage des données entre l’assurance maladie et les complémentaires de santé. C’est pourquoi le groupe Ensemble pour la République proposera plusieurs amendements pour en rétablir la portée, faute de quoi cet article serait inopérant. De même, nous proposerons de revenir sur l’interdiction générale de prescrire ou de renouveler un arrêt de travail en téléconsultation : cette mesure est excessive sachant que nous avons déjà limité ces prescriptions à trois jours et que nous souhaitons préserver l’accès aux soins dans tous les territoires."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Et qu’il est difficile de prendre rendez-vous chez le médecin !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "La lutte contre la fraude sociale n’est pas un simple exercice technique mais un impératif démocratique. (Applaudissements sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme Sandrine Nosbé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841191",
+          "texte": "Et contre la fraude fiscale, évidemment !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Dans la grande course aux effets d’annonce et autres mesures d’affichage, je décerne la palme à ce projet de loi. Le titre sentait déjà la supercherie : comment pouvez-vous établir un parallèle entre deux fraudes qui ne concernent ni les mêmes populations ni les mêmes montants ? La fraude sociale est estimée à 13 milliards d’euros, la fraude fiscale à 100 milliards, quasiment dix fois plus. Pourtant, 80 % des dispositions de votre projet initial ciblaient la fraude sociale."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "On vous voit !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Heureusement, la commission a quelque peu rééquilibré le volet fiscal de votre copie, grâce notamment à des amendements soutenus par la gauche. Cela ne rend pas pour autant acceptables nombre de mesures dangereuses et liberticides. Le texte envisage des moyens très limités de lutter contre la fraude fiscale, alors qu’il déploie une imagination débridée lorsqu’il s’agit de faire la chasse aux usagers des prestations sociales."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "J’ai envie de vous prendre au mot, monsieur le ministre Farandou, quand vous déclarez au Journal du dimanche : « Nous envoyons ainsi un message très clair aux fraudeurs : nous vous sanctionnerons. »"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "La honte !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Sanctionner les plus démunis, c’est assez simple, mais sanctionner les forts, c’est plus compliqué."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Eh oui : il faut du courage !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Où sont les sanctions pour les fraudeurs en col blanc qui naviguent dans les zones grises de notre droit fiscal, entre l’optimisation, l’évasion, la fraude, qui montent des structures sans activité réelle, qui manipulent les prix de transfert, qui abritent leur patrimoine dans des holdings ?\nLe texte prétend lutter contre la fraude fiscale et sociale par des échanges désordonnés d’informations, qui portent toujours plus loin la confusion entre l’autorité de jugement qu’est le pouvoir judiciaire et l’autorité de contrôle qu’est l’administration. Il repose aussi sur l’ouverture, peu encadrée et mal justifiée, d’accès à des données concernant la vie privée ou le secret fiscal. Une autre brillante idée, récurrente dans le texte, consiste à ouvrir tous azimuts les bases de données de la DGFIP, alors même que les données de plus de 1,2 million de comptes ont été dérobées, il y a moins de deux semaines, dans le fichier national des comptes bancaires et que France Travail subit une fuite de données tous les deux mois en moyenne."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Vous êtes irresponsables !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Puisque vous êtes fidèles à votre ligne, on y retrouve bien sûr la surenchère pénale – durcissement des peines, suspicion généralisée, dévoiement de la présomption d’innocence –, mais le texte ne s’intéresse pas réellement à la partie immergée de l’iceberg que constitue l’évasion fiscale. Dans mon rapport spécial, j’ai formulé de nombreuses recommandations pour lutter contre ce fléau qui vide les caisses de l’État, attaque le consentement à l’impôt et abîme la solidarité nationale ; il est dommage qu’on n’en retrouve aucune trace dans le texte. Pour distinguer les pratiques qui relèvent de l’optimisation de celles qui relèvent de la fraude, il nous faut une évaluation globale et précise des montants concernés par l’évasion fiscale et des formes qu’elle revêt, comme nous le demandons chaque année depuis quatre ans. La Cour des comptes a d’ailleurs relayé cette demande dans son rapport de 2025. Sans estimation précise, aucune lutte véritablement efficace ne peut être envisagée. D’autres pays comme le Royaume-Uni, les pays scandinaves ou l’Italie réalisent de telles évaluations ; il s’agit donc simplement d’une question de volonté politique.\nMalheureusement, il suffit de regarder les moyens alloués à la lutte contre la fraude fiscale pour prendre la mesure de votre absence de volonté politique, malgré la présence à vos côtés de fonctionnaires d’État très motivés, souvent plus soucieux des deniers publics que vous ne l’êtes vous-mêmes."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Bien dit !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "La direction générale des finances publiques a subi depuis 2017 des ponctions continues qui ont abouti à la baisse de 11 % de ses effectifs. C’est un non-sens économique absolu : la comparaison de la masse salariale de la DGFIP avec les montants réellement recouvrés montre qu’un fonctionnaire employé à la lutte contre la fraude fiscale rapporte onze fois plus que ce qu’il coûte à l’État.\nPour donner le change, vous annoncez des plans et des conseils, comme le plan de lutte contre toutes les fraudes aux aides publiques lancé en grande pompe en 2023, dont la toute première mesure était la création du Conseil d’évaluation des fraudes. Cette décision est bienvenue mais inopérante, puisque ce conseil ne s’est réuni qu’une seule fois en deux ans et demi, à l’occasion de son lancement. Vous ne voulez pas des mesures efficaces que nous avons défendues dans le cadre des discussions budgétaires, visant à lutter contre les montages financiers des multinationales, contre la domiciliation artificielle des profits, ou à limiter les abus du pacte Dutreil, qui concernent des sommes bien plus importantes que les fraudes aux prestations sociales.\nJe vous repose donc la question : quelle est votre cible ? Ce sont peut-être les fameux fraudeurs aux prestations liées au handicap et à l’autonomie, pour un montant faramineux de 600 000 euros ? Mon ironie répond ici à votre hypocrisie, car nous allons débattre d’un texte obèse de quatre-vingt-seize articles, dont aucune mesure n’est financée, issu d’une étude d’impact plus que parcellaire et dont le chiffrage des recettes escomptées, estimées à 1,5 milliard d’euros, a déjà été jugé peu crédible par le Haut Conseil des finances publiques ; le tout, dans un hémicycle à moitié vide. Bravo !\nEn somme, derrière le slogan de la lutte contre la fraude, qui est pourtant un sujet sérieux, vous ne cherchez qu’à surveiller, à réprimer et à dévoyer complètement notre système de protection sociale. Ce texte est le reflet de votre ligne politique capitaliste dans ce qu’elle a de plus dégoûtant : il vise à opposer entre eux les pauvres qui travaillent et les pauvres qui ne travaillent pas, pour détourner notre regard des vrais fraudeurs, ceux qui maquillent et optimisent, parmi lesquels cinquante-trois personnes détiennent désormais, grâce à vous, le même patrimoine que 32 millions de Français. (Applaudissements sur les bancs des groupes LFI-NFP et GDR. – M. Jean-François Coulomme se lève pour applaudir. – Mme Christine Arrighi applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Sandrine Runel."
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "C’est très tardivement que nous entamons l’examen d’un projet de loi par lequel le gouvernement annonce lutter contre les fraudes sociales et fiscales. Lutter contre la fraude est une exigence républicaine."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "La fraude fiscale comme la fraude sociale portent atteinte à notre pacte collectif. La fraude mine la confiance, affaiblit le consentement à l’impôt et fragilise notre modèle social."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Pourtant, son intitulé est totalement inadapté. Malgré son affichage a priori louable, votre projet de loi devrait plutôt s’appeler : « Laissons les riches tranquilles, contrôlons les ménages les plus précaires et stigmatisons-les. » (Mmes Christine Arrighi et Estelle Mercier applaudissent.)"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "C’est subtil !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Plus sérieusement, derrière l’affichage d’autorité, que contient réellement le texte ? Surtout, contre qui est-il dirigé ? La fraude fiscale représente des montants sans commune mesure avec la fraude sociale, prive l’État et les services publics de ressources considérables et alimente le sentiment d’injustice chez celles et ceux qui paient leurs impôts, parfois lourds, sans disposer de moyens d’optimisation ou d’évasion. Dès lors, une question simple se pose : ce projet de loi s’attaque-t-il véritablement aux grandes fraudes organisées, aux montages sophistiqués, aux circuits internationaux d’évasion ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Non."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Si !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Donne-t-il aux services de contrôle fiscal les moyens humains et juridiques nécessaires pour remonter les filières, démanteler les réseaux et sanctionner les fraudeurs les plus puissants ? Non."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Ben si !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Lutter réellement contre la fraude, ce serait s’attaquer aux 80 milliards d’euros qui manquent aux caisses de l’État, envolés sur des comptes offshore, dissimulés dans des paradis fiscaux et protégés par des armées d’avocats fiscalistes. Ce serait s’attaquer à l’optimisation fiscale et aux milliers de ménages millionnaires qui ne paient pas d’impôt sur le revenu, nonobstant les mensonges de votre ancienne collègue ministre des comptes publics – là encore, Bercy vous a rattrapés."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "L’optimisation n’est pas de la fraude !"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Lutter réellement contre la fraude, ce serait renflouer les caisses de l’État pour pouvoir financer nos services publics. Comme votre projet de loi ne fait rien de tout cela, son rendement est estimé à peine à 2 milliards d’euros, un montant incomparable avec les 80 milliards d’euros de fraude fiscale ou avec les 15 milliards d’euros qu’aurait pu rapporter la taxe Zucman que vous nous avez refusée à l’automne. (Applaudissements sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Quel rapport avec la fraude ?"
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Je ne peux qu’observer le renforcement des dispositifs de contrôle automatisé des allocataires, qui risque d’installer une suspicion généralisée envers les plus modestes. En permettant l’accès aux comptes bancaires et aux données patrimoniales des allocataires du RSA, aux données d’internet, de voyage ou de téléphone des chômeurs – votre imagination est décidément débordante –, vous mettez à mal le droit au respect de la vie privée. En permettant l’automaticité des sanctions et en augmentant les pénalités de fraude, vous mettez à mal le droit à la défense et risquez de faire basculer dans la pauvreté des milliers de ménages ; mais cela, bien sûr, vous ne vous en êtes jamais souciés en dix ans. En supprimant la prise en charge santé et l’ensemble des droits à prestation de certains fraudeurs, vous entravez le droit à un niveau de vie minimum et le droit à la santé pour toutes et tous.\nPour notre part, nous pensons au contraire qu’il faut veiller à maintenir un équilibre fondamental. L’efficacité dans la lutte contre la fraude ne peut être obtenue au détriment des libertés publiques, du respect de la vie privée et du droit à l’erreur. La technologie, l’échange de données, l’algorithmisation des contrôles ne sauraient devenir les instruments d’une surveillance sociale permanente. Pour restaurer la confiance, il faut une stratégie cohérente impliquant de renforcer les moyens de l’administration fiscale, d’accroître la coopération internationale pour lutter contre l’évasion fiscale, de prendre des sanctions réellement dissuasives contre les grandes fraudes et, parallèlement à cela, d’accompagner les usagers pour éviter les erreurs administratives qui ne relèvent pas de la fraude.\nLa lutte contre la fraude ne doit devenir ni un marqueur idéologique, ni un outil de communication politique. Elle doit être un impératif de justice.\nMes chers collègues, la crédibilité de notre action dépendra d’une chose : l’égalité devant la loi, pour tous, sans distinction de statut social, de patrimoine ou d’influence. À l’opposé de cette égalité, votre projet de loi remet une pièce dans la machine du mythe des allocataires fraudeurs qui causeraient le déficit de la France. La stigmatisation doit changer de camp. Nous ne pouvons pas cautionner un texte qui stigmatise les allocataires, fragilise l’accès aux droits et traque les plus précaires, tout en protégeant encore une fois les plus puissants et les plus riches. Nous nous battrons donc, dans cette assemblée, pour rendre à ce texte l’ambition qui devrait être la nôtre et pour revenir sur les atrocités antisociales que vous avez de nouveau fabriquées avec beaucoup d’énergie. (Applaudissements sur les bancs du groupe SOC. – Mme Christine Arrighi et M. Emmanuel Maurel applaudissent également.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Yannick Neuder."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "La fraude sociale et fiscale mine silencieusement notre pacte républicain. Elle prive nos services publics de moyens essentiels, fragilise notre protection sociale et alimente un sentiment d’injustice profond chez nos concitoyens. Elle a aussi contribué, d’une certaine manière, à faire de l’assistanat une culture à part entière. Selon les estimations disponibles, la fraude sociale représente au moins 13 milliards d’euros par an, tandis que la fraude fiscale pourrait atteindre plusieurs dizaines de milliards. Pourtant, seule une petite fraction de ces montants est réellement détectée et recouvrée. Autrement dit, ceux qui trichent passent trop souvent entre les mailles du filet, pendant que ceux qui respectent les règles paient la facture. Cette situation n’est plus acceptable.\nJe tiens tout d’abord à saluer le travail accompli par le Sénat, en particulier par les rapporteurs Frédérique Puissat et Olivier Henno. Ils ont cherché à lever les freins qui paralysent l’action des services de contrôle face à une fraude devenue plus organisée, plus internationale et plus numérique. Le Sénat a notamment renforcé le partage d’informations entre administrations, les moyens d’enquête et de recouvrement, ainsi que les dispositifs permettant d’agir rapidement face à des fraudes avérées. L’objectif était clair : donner aux services les moyens de jouer à armes égales avec les fraudeurs.\nPermettez-moi d’établir un parallèle avec mon département, l’Isère, où a été mené un travail avec les élus, le parquet, la caisse d’allocations familiales (CAF) et la caisse primaire d’assurance maladie (CPAM) afin de supprimer les prestations sociales des dealers, dans le cadre de la lutte contre le trafic de drogue.\nIl faut le dire sans détour : la fraude est devenue une industrie, à laquelle on ne peut plus répondre avec des outils artisanaux. La commission des affaires sociales de notre assemblée a poursuivi ce travail et le groupe Droite républicaine s’y est fortement engagé. Ces avancées traduisent une conviction simple : la fraude n’est pas une erreur administrative, mais un vol fait à la collectivité.\nJe salue également le travail du rapporteur, Patrick Hetzel, dont l’engagement sur ce sujet est reconnu. Sous son impulsion, la commission a élargi les échanges d’informations entre services, renforcé les moyens de contrôle des prestations sociales, donné davantage d’outils aux organismes pour détecter et récupérer les indus et sécurisé juridiquement des dispositifs sensibles. La fraude moderne exploite nos failles administratives, nos lenteurs et nos cloisonnements. L’État doit cesser d’être naïf face à des réseaux qui, eux, ne le sont pas. (M. Cyrille Isaac-Sibille applaudit.)\nPermettez-moi d’insister sur le volet santé de ce texte – je m’y suis particulièrement investi. Lorsque j’étais ministre, j’ai contribué à préparer ce projet de loi en lien étroit avec les acteurs du secteur et avec la Cnil, afin d’améliorer la communication des données entre l’assurance maladie obligatoire et les organismes complémentaires. L’objectif était de sortir du fonctionnement en silos et de mieux lutter contre les fraudes, notamment dans les secteurs dentaire, optique et audioprothétique.\nJ’ai depuis rencontré de nombreux représentants des complémentaires santé. Tous le disent : ils ne demandent qu’à être outillés pour contribuer pleinement à la lutte contre la fraude. C’est pourquoi j’ai déposé des amendements visant à rétablir la version initiale de l’article 5,…"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "…afin que soit strictement encadrée l’utilisation des données réellement nécessaires au remboursement et au contrôle antifraude. Restreindre excessivement ces échanges reviendrait à faire deux perdants : les assurés, moins bien remboursés, et la collectivité, moins bien protégée contre la fraude.\nNous devons aussi changer de regard sur les organismes complémentaires. Ils ne sont pas seulement des financeurs qu’on sollicite ou qu’on taxe à l’aveugle quand les comptes publics se dégradent, mais des acteurs majeurs du système de santé, capables de contribuer à la prévention, à l’efficience et à la détection des abus. (M. Cyrille Isaac-Sibille applaudit.)\nEn tout état de cause, affronter sans ces acteurs le vieillissement de la population et l’augmentation des maladies chroniques, dans la situation financière de nos comptes sociaux, apparaît irréalisable, au mieux utopique. Demain, ils devront être considérés comme des partenaires à part entière et non comme des acteurs à ponctionner.\nJ’ai également proposé la suppression de la réforme de la mise sous objectifs, à l’article 17, conformément aux engagements pris par le gouvernement à la suite de la mobilisation des médecins libéraux. Avec nos collègues, j’ai d’ailleurs reçu leurs représentants à l’Assemblée nationale. Cet article était perçu comme un dispositif brutal, inadapté aux situations territoriales difficiles, susceptible d’aggraver la crise d’attractivité de la médecine libérale et de fragiliser encore davantage l’accès aux soins dans nos territoires. Lutter contre les abus, oui. Stigmatiser ceux qui soignent, non.\nAu fond, ce texte vise un objectif que nous partageons sur tous les bancs : restaurer la justice sociale. Chaque fraude tolérée est une injustice pour ceux qui travaillent, cotisent et respectent les règles. Elle nourrit le sentiment d’un système dans lequel certains contribuent pendant que d’autres profitent. La solidarité nationale n’est pas un droit à l’abus, mais un pacte de responsabilité. Elle suppose donc des devoirs.\nNotre groupe soutient donc ce projet de loi. Il n’y a pas de solidarité durable sans exemplarité. Il n’y a pas de confiance sans justice. (M. le rapporteur, M. le rapporteur pour avis et M. Cyrille Isaac-Sibille applaudissent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Sophie Taillé-Polian."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Personne, sur ces bancs, ne conteste la nécessité de lutter contre la fraude."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Il n’y a plus personne !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Elle prive la collectivité de ressources essentielles. Elle affaiblit notre modèle social. Elle mine la confiance dans l’impôt et dans la solidarité nationale. Elle nourrit un profond sentiment d’injustice.\nUne question se pose cependant : de quelle fraude parlons-nous ? S’agit-il de la fraude fiscale des ultrariches, de celles et ceux qui organisent l’évitement de l’impôt par le moyen de montages complexes, de sociétés écrans, de filiales offshore ? Ou bien allons-nous enfin ouvrir un débat courageux sur les niches fiscales inefficaces, sur certains crédits d’impôt massifs, sur les stratégies d’optimisation agressive, sur les cadeaux faits aux entreprises sans aucune contrepartie, sur la fraude à la TVA par les entreprises – estimée à plusieurs milliards d’euros par le rapport de l’Inspection générale des finances de février 2026, entre imports par les plateformes chinoises et remboursements de TVA mal maîtrisés ? Eh bien, non."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Le choix politique est ici tout autre et s’inscrit dans la continuité de huit ans de macronisme : on préfère s’acharner sur les plus petits. Depuis le début de l’examen de ce texte, nous alertons sur son déséquilibre profond :…"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Mais non ! Vous avez lu le texte ?"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "…un volet fraude fiscale quasiment inexistant, un volet fraude sociale massif, détaillé, durci, qui organise une chasse accrue aux plus précaires.\nRappelons quelques chiffres. La fraude sociale annuelle est estimée entre 13 et 14 milliards d’euros par an, la fraude fiscale entre 80 et 100 milliards. La différence est vertigineuse. Pourtant, où mettons-nous notre énergie ? Dans le contrôle des allocataires, des assurés sociaux.\nC’est la Cour des comptes elle-même qui le dit : en décembre dernier, elle soulignait le manque de volonté politique pour évaluer précisément l’ampleur de l’évitement fiscal et pour contraindre efficacement les fraudeurs les plus fortunés à payer. La fraude fiscale n’est toujours pas chiffrée avec précision dans notre pays, alors que M. Darmanin nous le promettait dès 2018."
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Que vous n’ayez rien engagé de sérieux en la matière est en soi un acte politique. Vous protégez les fraudeurs fiscaux."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Ben voyons !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "En ce qui concerne la fraude sociale, nous soutenons évidemment les dispositions qui visent le travail dissimulé, mais soyons lucides : ce texte va bien au-delà. Il organise un durcissement massif des sanctions, une extension des contrôles sur les assurés sociaux, une généralisation d’outils de collecte de données intrusifs, qui nous inquiètent au plus haut point, avec en tête une vieille lubie : voir dans les demandeurs d’emploi ou les bénéficiaires du RSA, indolents et feignants, des gens qui coûtent « un pognon de dingue ».\nAvec ce durcissement, quelles sont les garanties apportées sur le respect de la vie privée, la protection des données personnelles, les libertés publiques ? Aucune. Le groupe Écologiste et social s’interroge d’ailleurs sur la solidité juridique de certaines dispositions.\nAu-delà des principes juridiques, parlons de la réalité sociale : 56 % de la fraude sociale concernent les employeurs, par le biais de la fraude aux cotisations ; 10 % concernent les professionnels de santé ; seul un tiers, 34 %, concerne les assurés eux-mêmes, parfois avec des usurpations d’identité. En outre, la fraude aux prestations sociales représente une part infime des montants versés : 0,3 % des allocations chômage ; 0,7 % des prestations d’assurance maladie ; 0,01 % des pensions de retraite… Ces chiffres disent une chose simple : la fraude des allocataires existe, mais elle est marginale.\nDerrière ces statistiques et ces chiffres, il y a des réalités de vie. Des personnes sont confrontées à des trop-perçus : des sommes versées à tort, souvent à cause d’un changement de situation mal compris ou d’une erreur administrative face à des procédures de plus en plus complexes, et qu’on leur demande ensuite de rembourser. Pour des ménages qui vivent déjà avec très peu, ces demandes de remboursement sont des drames.\nDes personnes sont victimes d’algorithmes discriminants : le système de notation informatique utilisé par la CAF mène à un fichage des allocataires pauvres et oriente les contrôles vers les plus précaires."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "La probabilité d’être contrôlé est élevée lorsque l’on est précaire. Cette logique est abjecte, car elle assimile la précarité à une probabilité de fraude."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Des mères isolées sont aussi contrôlées chaque année. Certaines nous ont raconté le stress terrible lié à ces contrôles aléatoires et répétés, des embûches pour elles qui ont du mal à joindre les deux bouts. C’est un système malade, qui peut être hypocrite et très injuste.\nAjoutons à cela les risques liés aux fuites de données qui se multiplient dans le pays, dans un contexte international instable, marqué par la montée de l’extrême droite et par le retour de l’autoritarisme."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Ah, ça faisait longtemps !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "C’est dangereux.\nCe dont notre pays a besoin, ce n’est pas d’un soupçon généralisé envers les classes populaires, mais d’un investissement massif et de moyens humains pour les caisses et les organismes sociaux. Ce sur quoi il nous faudrait travailler, c’est l’accès aux droits. (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Cyrille Isaac-Sibille."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Pour nous, législateur, il s’agit d’un impératif de responsabilité au vu de notre situation budgétaire et de notre système de protection sociale. Alors que le déficit ne cesse de se creuser, la fraude aux finances publiques est estimée à plusieurs dizaines de milliards d’euros – 14 milliards pour les fraudes sociales, entre 60 et 100 milliards pour les fraudes fiscales, comme cela a été rappelé. Ces montants donnent la mesure de l’enjeu et appellent une réponse forte de notre part. À eux seuls, les détournements de prestations et de cotisations sociales représentent près de la moitié du déficit attendu de la sécurité sociale pour 2026.\nResponsabilité également au vu du pacte républicain car, au-delà des chiffres, chaque fraude fragilise l’action publique, alimente un sentiment de défiance envers l’État, fracture la société. Chacune nourrit l’idée que certains profitent du système pendant que d’autres contribuent loyalement.\nOr l’État doit rester le garant de la solidarité nationale et de l’équité entre nos concitoyens. Il doit veiller à ce que les aides bénéficient réellement à ceux et à celles qui en ont le plus besoin et à ce que chacun participe à l’effort commun à hauteur de ses moyens.\nC’est pourquoi le groupe Les Démocrates soutient ce texte qui vise trois objectifs : améliorer la coordination des échanges d’informations entre administrations, renforcer les contrôles et les sanctions et accélérer le recouvrement des sommes fraudées, et même éviter leur versement. Face à ces comportements, notre réponse doit être ferme et mesurée. Notre groupe ne croit ni aux postures de ceux qui veulent frapper fort, parfois au détriment des plus fragiles, ni aux discours qui laissent entendre que lutter contre la fraude sociale reviendrait à mener une chasse contre les plus modestes.\nNotre responsabilité est de veiller à parvenir à un équilibre qui protège la solidarité nationale contre ceux qui la détournent et s’organisent pour exploiter ses failles, au détriment de ceux qui en bénéficient légitimement.\nLa fraude n’a pas de visage, pas de catégorie sociale, pas de profession. Nous devons donner aux agents les moyens juridiques et techniques d’agir efficacement, non pas contre ceux qui commettent des erreurs – et que nous devons accompagner –, mais contre ceux qui pratiquent l’abus, la fraude, qui agissent par l’intermédiaire de réseaux criminels organisés.\nNous devons également renforcer la confiance de ceux qui contribuent, et de ceux qui bénéficient des aides. Ce texte peut apporter sa pierre. J’y ai personnellement veillé, d’abord en présentant un rapport lors du Printemps social de l’évaluation, puis en déposant une proposition de loi après avoir discuté étroitement avec le gouvernement – alors dirigé par M. Bayrou –, notamment sur le partage d’informations entre l’assurance maladie et les organismes complémentaires. Le dispositif que j’avais conçu avait été censuré comme cavalier dans le PLFSS de l’année dernière.\nPour être efficace, l’État ne doit pas agir seul : il doit coordonner l’ensemble des acteurs du système.\nJ’en viens à l’article 5 dans sa rédaction actuelle, qui a suscité de nombreux débats. La Cnil nous a alertés : en l’état du droit, le cadre juridique applicable au traitement des données de santé par les organismes complémentaires manque de clarté et de sécurité.\nL’objectif du gouvernement est simple – inscrire dans la loi des pratiques existantes et encadrées, afin de sécuriser juridiquement ces missions, sans élargir les prérogatives des complémentaires ni affaiblir la protection des données personnelles.\nOr, sous couvert de protection renforcée, les modifications introduites en commission des affaires sociales produisent l’effet inverse : elles restreignent les possibilités d’action des organismes complémentaires, tout en recréant une insécurité juridique que la Cnil appelait précisément à résorber.\nJe comprends les inquiétudes exprimées ; la protection des données est un sujet majeur et appelle à la plus grande vigilance. C’est pourquoi, comme M. Neuder, je proposerai de rétablir la version initiale de cet article. J’ai également déposé un amendement visant à renforcer les sanctions en cas de mésusage ou de détournement des données par les organismes complémentaires. Les seuils retenus seront dissuasifs – aucune structure ne pourra détourner des données sans mettre en péril la poursuite de son activité.\nNous pouvons sécuriser juridiquement les missions de ces organismes tout en garantissant un haut niveau de protection aux assurés. L’un n’exclut pas l’autre ; au contraire, c’est l’équilibre que nous devons rechercher."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Merci de bien vouloir conclure."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Dans la continuité du travail engagé par le groupe Les Démocrates, sous réserve d’atteindre cet équilibre, nous voterons ce texte. En tant que dernier orateur, je vous souhaite une bonne nuit."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La discussion générale est close.\nLa suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4036950",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Prochaine séance, aujourd’hui, à neuf heures :\n Suite de la discussion du projet de loi relatif à la lutte contre les fraudes sociales et fiscales.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée, le jeudi 26 février 2026, à zéro heure cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

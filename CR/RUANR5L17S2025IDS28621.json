@@ -1,0 +1,2706 @@
+{
+  "uid": "CRSANR5L17S2025O1N024",
+  "seanceRef": "RUANR5L17S2025IDS28621",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2024-10-28",
+  "dateLisible": "lundi 28 octobre 2024",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3538984",
+      "valeurPtsOdj": "1",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2025",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’ordre du jour appelle la suite de la discussion du projet de loi de financement de la sécurité sociale pour 2025 (nos 325, 487, 480). Cet après-midi, l’Assemblée a entendu les orateurs inscrits dans la discussion générale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3538986",
+      "valeurPtsOdj": "1",
+      "titre": "Avant la première partie",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "J’appelle maintenant les articles du projet de loi."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3538988",
+      "valeurPtsOdj": "1",
+      "titre": "Article liminaire",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hadrien Clouet."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Remettons les points sur les i : le groupe La France insoumise n’est pas d’accord pour qu’un gouvernement gère la sécurité sociale. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Vous n’aviez qu’à faire une motion !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "En effet, la sécu n’est pas et n’a jamais été un appendice du gouvernement, mais la remise complète entre les mains des assurés, les travailleuses et les travailleurs, de leurs cotisations et de la gestion des organismes de sécurité sociale. Nous ne sommes donc pas d’accord, à plus forte raison dès lors qu’apparemment vous n’avez rien à en dire : en effet, nous faisons des déclarations dans le cadre de la discussion générale, mais vous n’avez pas de réponse à nous apporter. Visiblement, les propos glissent sur vous comme l’eau sur les plumes d’un canard. Nous préférerions des canards plutôt que vous au banc (Sourires sur quelques bancs du groupe LFI-NFP) mais, quoi qu’il en soit, nous défendons la démocratie sociale. Si le simple fait de discuter des fonds de la sécurité sociale n’est pas acceptable dans ce type de débat, nous ne déserterons jamais un champ de bataille où nous pouvons vous mettre une pile.\nÀ l’article liminaire, vous présentez un tableau de comptes qui résume la situation financière du système de protection sociale. L’année dernière, ceux qui étaient là se rappellent que vous veniez, la bouche en cœur, avec une prévision d’excédent. Vous souteniez qu’il resterait 0,6 point de PIB dans les caisses. Eh bien, évidemment, il ne reste rien : vous avez réussi à perdre à peu près tout l’excédent qui était prévu. Ce n’est pas simplement une erreur de prévision, mais du sabotage délibéré. En effet, c’est écrit noir sur blanc dans l’exposé des motifs de l’article liminaire : il y a un manque de recettes. Ce sont vos primes Macron, vos exonérations, vos cadeaux et vos niches sociales qui ont causé la situation que nous constatons actuellement. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Dehors !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Ce tableau résume la situation pour 2024 et 2025. Eh bien, il vous reste encore deux mois de l’année 2024 pour essayer de prendre des décisions sensées, à savoir rétablir des cotisations sociales sur tous les revenus qui pour le moment en sont malheureusement exemptés. (Mêmes mouvements.) C’est le sens du rejet de l’article liminaire que nous proposerons dans quelques minutes. Puisque vous n’avez pas su faire hier, il n’y a aucune raison pour que vous sachiez faire demain. Généralement, la défaite vous remettant les idées en place, nous comptons sur ce premier échec pour ouvrir les débats. (Vifs applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Monsieur le président, je veux d’abord vous souhaiter une belle première séance en tant que président."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Tout dépendra de vous ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Je n’avais pas prévu de m’inscrire sur l’article liminaire. Cependant, au moment où nous entamons les débats, après la discussion générale au cours de laquelle des interrogations ont été exprimées, après la motion de rejet préalable que j’ai présentée et qui s’est terminée par une proposition de méthode pour essayer d’éviter un 49.3 à l’issue du processus, je trouve un peu lunaire qu’aucun des ministres présents ne daigne répondre. (Applaudissements sur les bancs du groupe SOC et sur quelques bancs des groupes LFI-NFP et EcoS.)\nLes uns et les autres, vous avez martelé que le projet de loi de financement de la sécurité sociale (PLFSS) était perfectible et que vous étiez ouverts au dialogue. À la fin de la discussion générale, vous devriez alors nous indiquer, sur la base des propositions et des pistes que nous avons évoquées – nous vous avons donné des indications concernant les économies, les recettes possibles ou les dépenses que nous souhaitons préserver –, sur quoi il est possible de travailler. Je me permets de vous dire que, depuis que, la semaine dernière, le texte a été rejeté par étapes par la commission des affaires sociales, nous n’avons eu quasiment aucun contact avec les ministres concernés pour trouver les voies et moyens d’amélioration du texte.\nLe Premier ministre a déclaré que le texte pouvait être amélioré. Des signaux très forts ont été envoyés par l’ensemble des commissaires aux affaires sociales, puis la discussion générale a permis de présenter des pistes de travail, mais à l’issue de celle-ci, silence radio de la part du Gouvernement. Franchement, cela augure très mal de la manière dont nous pouvons et devons appréhender ce débat. (Applaudissements sur les bancs du groupe SOC. – M. Sébastien Peytavie applaudit également.)"
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "En effet !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "M. le ministre chargé du budget et des comptes publics a demandé la parole, et s’exprimera à l’issue des interventions sur l’article liminaire. (« Ah ! » sur les bancs du groupe LFI-NFP.)\nLa parole est à Mme Karine Lebon."
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "Quand ce gouvernement décide d’utiliser le budget de la sécurité sociale comme une variable d’ajustement du déficit public, c’est un détournement du budget de la sécurité sociale. (Mme Ségolène Amiot et M. Hadrien Clouet applaudissent.) En effet, le rôle de la sécurité sociale est de répondre aux besoins sociaux et de santé, non de réparer les erreurs flagrantes du précédent gouvernement en matière fiscale. Cette présentation, à l’article liminaire, offre une vision bien restreinte de la protection sociale, puisque ses dépenses et ses recettes sont ramenées à des points de PIB. Les besoins sanitaires et sociaux à couvrir ainsi que les moyens pour y répondre nous semblent mériter une appréciation autre, plus qualitative et surtout plus précise. En effet, cette présentation sur trois lignes masque une autre réalité budgétaire, celle des administrations de sécurité sociale – et c’est là une difficulté.\nNéanmoins, si l’on se contente de regarder l’évolution des recettes et des dépenses en part de PIB, on observe tout de même clairement entre 2024 et 2025 des recettes quasi constantes, à hauteur de 26,6 points de PIB en 2024 et de 26,7 points de PIB en 2025, et une baisse des dépenses : 26,6 points du PIB en 2024 et 26,4 en 2025. La comparaison est d’autant plus facile que l’évolution du PIB est envisagée de manière constante, à + 1,1 % en 2024 et en 2025, selon l’annexe 1 du PLFSS.\nL’article liminaire montre ainsi des recettes à l’arrêt pour des administrations de sécurité sociale et des dépenses toujours davantage contraintes. Le solde positif de 0,2 point de PIB en 2025 ne laisse pas apparaître ce qu’il en coûte aux assurés sociaux. Ce solde positif cache les 10,1 milliards d’euros de « freinage » des dépenses sociales, selon la formule euphémique consacrée par le Gouvernement, ou encore le déficit sans précédent des hôpitaux, qui s’élève, selon l’annexe 6 du PLFSS, à 1,746 milliard en 2023 – c’est du jamais-vu ! On peut imaginer que ce déficit n’a guère diminué en 2024. (Applaudissements sur les bancs des groupes GDR et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Sébastien Peytavie."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Alors que 80 % des Ehpad sont en déficit, que les maternités et les services d’urgences sont au bord de la rupture, que nous peinons à recruter des personnels paramédicaux, que notre système de santé souffre d’un manque cruel d’investissement, notamment pour la rénovation thermique, vous souhaitez réaliser 15 milliards d’économies. En regardant le tableau, nous voyons que vous voulez contenir les dépenses. Cela n’est pas sérieux et ne peut pas être entendu. D’après l’annonce qui a été faite ce matin, vous souhaitez y parvenir en changeant les règles concernant les jours de carence pour les arrêts maladie dans la fonction publique. Le groupe Écologiste et social souhaite donc supprimer l’article liminaire. (Applaudissements sur les bancs des groupes EcoS et SOC, ainsi que sur quelques bancs du groupe LIOT.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Joëlle Mélin."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "Une fois de plus, nous dirons la même chose : l’article liminaire pose un problème de forme. En effet, une telle présentation est prévue, en théorie, pour exposer des exercices dans le secteur privé, mais son emploi ici s’explique par le fait qu’elle est censée rassurer les détenteurs de la dette. Faisons néanmoins remarquer que, la semaine dernière, l’agence Fitch a ajouté une « perspective négative » à la note de la France ; cette semaine, l’agence Moody’s a carrément annoncé une dégradation de la note. Tout cela créée une grande insécurité. Là aussi, les chiffres sont très difficiles à accepter. Vous nous dites qu’il y a eu un changement de méthodologie au passage des comptes nationaux et des dépenses en hausse. Il aurait quand même été nettement plus intéressant de former des prévisions conformes à la réalité. Ce n’est pas sérieux. Nous demandons donc la suppression de l’article liminaire. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le ministre du budget et des comptes publics."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre du budget et des comptes publics",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Monsieur le président, je vous souhaite une excellente première séance ce soir.\nJe souhaite apporter des réponses à certaines des questions soulevées au cours de la discussion générale, qui concernent les comptes publics ; en outre, cela permettra de préparer l’examen de l’article liminaire.\nMonsieur le rapporteur général et monsieur Guedj, vous avez tous les deux évoqué le lien entre la Caisse nationale de retraites des agents des collectivités locales (CNRACL) et l’objectif national de dépenses d’assurance maladie (Ondam). Il est vrai que c’est une question assez structurante pour ce texte. La question est de savoir pourquoi nous incluons dans l’Ondam l’augmentation de 4 points du taux des cotisations dues par les employeurs à la CNRACL. Si l’on admet qu’il faut la considérer sous Ondam, pourquoi alors ne pas augmenter d’autant l’Ondam ? Je ne recommencerai pas les comparaisons, notamment avec la période 2012-2017, mais il faut effectivement évaluer la situation de l’Ondam hospitalier si on retranche le budget de la CNRACL. L’évolution du sous-objectif établissements de santé de l’Ondam est en augmentation de 3,1 %. Si vous en retranchez la correction et l’augmentation de cotisation à la CNRACL, il est ramené à 2,1 %."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Attention aux calculs !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Les ordres de grandeur sont ceux-là. L’inflation devrait atterrir autour de 1,8 % en 2025, probablement un peu moins. Les dépenses prévues dans l’Ondam hospitalier, et plus généralement celle de l’Ondam, augmentent, même si l’on en retranche l’inflation et l’évolution du budget de la CNRACL.\nEn introduction et en réponse à vos propos, je ne veux donc pas laisser dire qu’il s’agit d’un PLFSS d’austérité. (Exclamations sur quelques bancs du groupe LFI-NFP.) L’augmentation de la dépense est réelle dans ce projet de loi de financement de la sécurité sociale.\nJ’ai affirmé à la tribune que l’effort sur les finances publiques qui était demandé dans les textes financiers cet automne était important : il se traduit par une diminution de la dépense primaire en volume de l’État de 1,1 %, une stabilité, 0 % pour les collectivités locales, et une augmentation de 0,6 % pour la sécurité sociale. Vous avez dit vous-même que la sécurité sociale n’est pas faite pour réduire les déficits publics. J’entends, et je suis même plutôt d’accord avec cette déclaration. En revanche, les comptes sociaux ne sont pas non plus faits pour être en déficit chronique – je crois que vous en conviendrez.\nLa question n’est pas tant de savoir si nous freinons la dépense…"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Vous freinez les recettes !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "…uniquement pour réduire le déficit public du pays dans sa globalité, mais si, dans le PLFSS pour 2025, nous prenons les mesures nécessaires pour nous inscrire dans une trajectoire de rétablissement de nos comptes sociaux. C’est bien ce dont il s’agit ici. Ce n’est donc pas du tout un PLFSS d’austérité.\nSi vous le comparez avec les Ondam du quinquennat de 2012 à 2017, en prenant en considération l’inflation et en retranchant l’effort nécessaire pour la CNRACL, nous sommes grosso modo dans les mêmes ordres de grandeur. Monsieur Guedj, je sais que vous étiez frondeur à l’époque, néanmoins nous sommes globalement sur des niveaux d’Ondam comparables à ce qu’ont fait les socialistes durant le quinquennat de 2012 à 2017. Vous ne m’entendrez pas parler de mauvaise gestion de votre part à ce moment-là, car la trajectoire a justement permis le rééquilibrage des comptes sociaux. C’est ce vers quoi nous devons tendre nous aussi, en faisant preuve de responsabilité, à travers ce PLFSS. Les sous-objectifs, notamment ceux qui constituent l’Ondam hospitalier, ne sont pas simples, je le reconnais bien volontiers. Par conséquent, avec la ministre de la santé, nous devons débattre pour déterminer les bons sous-objectifs. Je ne dis pas non plus que l’Ondam est facile à tenir, absolument pas, mais il est nécessaire. Nous avons besoin de le maintenir à ce niveau, du fait – l’un d’entre vous l’a très justement dit – d’une baisse de recettes, notamment de rentrées fiscales, qui ont été plus faibles qu’escomptées, et d’une augmentation des dépenses. Cet effet ciseaux fait que nous devons à présent redresser nos finances sociales. Je réponds ici aux interventions lors de la discussion générale, mais cela vaut également pour les chiffres pour l’année 2024 dans l’article liminaire ; nous y reviendrons plus précisément.\nPermettez-moi quelques mots sur l’histoire récente de l’Ondam. Cette année, il s’élève à 8,8 % du PIB, contre 8,4 % en 2019, avant le covid. La dépense augmente plus vite que la croissance. Il est très important de garder cette donnée en tête. La part d’Ondam dans notre richesse nationale n’est pas dans une trajectoire de réduction."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Eh oui ! C’est ce qu’on vous reproche !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "On peut s’en féliciter mais ne disons pas, à l’inverse, que le PLFSS est un texte social d’austérité : il se situe dans la continuité de la progression à la hausse des dépenses sociales.\nS’agissant du ticket modérateur, je laisserai la ministre de la santé l’évoquer plus en détail en troisième partie, mais j’aimerais vous donner mon sentiment. On peut toujours discuter de la part liée au ticket modérateur dans l’économie de 1,1 milliard attendue de son augmentation. Personne n’a jamais dit que cette somme devait uniquement résulter du relèvement de 10 points du ticket modérateur. Par définition, l’arbitrage se fera par voie réglementaire.\nRegardons les faits : la France est l’un des pays de l’OCDE (Organisation de coopération et de développement économiques) dont le reste à charge est le plus faible et de loin – près de 10 % de moins que le dernier pays du classement. Certes, notre modèle social est différent et c’est précisément la raison d’être de la sécurité sociale…"
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "Bah oui !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "…mais on peut aussi renégocier la part des organismes complémentaires dans le remboursement de certains actes."
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "Pourquoi ne pas harmoniser ça ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Le débat est légitime. L’augmentation de 10 points peut être discutée. Dans notre pays, la part de la complémentaire santé est inférieure de 3 points par rapport à l’Allemagne et de 9 points par rapport à la Belgique. On doit pouvoir s’inspirer sans tabou du modèle de nos voisins qui prévoient une prise en charge plus importante par la complémentaire santé de certains actes.\nBeaucoup d’entre vous ont évoqué la part du travail dans le financement de notre système social. Elle est essentielle au financement des risques et des branches et doit le demeurer. Monsieur Guedj, quand j’ai dit que le Ségur n’était pas financé, cela signifiait non qu’il n’y avait pas de recettes mais qu’aucun nouveau mode de financement n’avait été adossé aux dépenses supplémentaires de la cinquième branche. Je réfléchirai avec Paul Christophe au fait qu’aucune cotisation n’ait été associée à la branche autonomie."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Quel est le rapport entre le Ségur et la cinquième branche ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "C’était un exemple pour répondre à votre critique sur l’absence de financement. Ce n’est pas une question de recettes, puisqu’il y en a, mais d’association systématique d’un financement à une nouvelle dépense, ce qui n’est pas toujours prévu. Nous devons avoir, en permanence, un regard exigeant sur l’évolution des recettes, notamment celles tirées du travail.\nVous avez considéré que la croissance des cotisations devait suivre celle des dépenses. Très bien. Je vous ferai simplement remarquer qu’à la suite de la baisse de 2 points du taux de chômage, les recettes issues des cotisations sociales avaient augmenté, ce qui avait permis de financer les dépenses sociales.\nRappelons d’autre part que les recettes augmentent constamment – 119 milliards de plus qu’en 2019. Certains nous accusent de privatiser notre modèle social mais c’est tout l’inverse qui se produit ! Les recettes augmentent mais les dépenses aussi, et plus rapidement encore – 134 milliards. Il ne faut pas chercher plus loin les causes du déficit, qui n’est plus soutenable. Nous ne pouvons pas prolonger indéfiniment la Cades (Caisse d’amortissement de la dette sociale), déjà prévue pour durer jusqu’en 2033 avec un remboursement de 16 milliards d’euros par an.\nÀ ce propos, vous ne pouvez pas dire que la sécurité sociale serait excédentaire si on n’affectait pas 16 milliards à la Cades. Il n’est pas possible de raisonner ainsi. La Cades a été créée pour apurer la dette sociale, dette que l’on ne peut pas, le président Coquerel l’a rappelé, « faire rouler ». Nous avons donc besoin de cette recette-là pour rembourser notre dette. C’est une politique de bonne gestion. Vous en conviendrez tous : nous devons tenir notre engagement de rembourser la dette sociale jusqu’en 2033 et équilibrer nos comptes sociaux avec un résultat structurellement net de remboursement Cades.\nL’article liminaire englobe la part de remboursement de la Cades, ce qui donne une impression d’excédent en 2025. Or ce n’est qu’une illusion : une fois les 16 milliards de la Cades remboursés, il nous manque les recettes pour financer les dépenses sociales.\nJe reprendrai tout à l’heure la parole pour donner l’avis du Gouvernement sur les amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur les amendements nos 1 et identiques, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe suis saisi de quatre amendements identiques, nos 1, 544, 924 et 1808, tendant à supprimer l’article liminaire.\n La parole est à M. Jérôme Guedj, pour soutenir l’amendement no 1."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Je vous remercie, monsieur le ministre, d’avoir pris le temps de répondre à la discussion générale. Cela valait le coup de vous titiller. (Sourires.)\nNe nous reprochez pas de vouloir supprimer des articles qui doivent obligatoirement figurer dans la loi organique : le législateur a le pouvoir souverain de voter pour ou contre, ou de s’abstenir sur des articles soumis au vote.\nL’article prévoit le montant des recettes et des dépenses en pourcentage de PIB. Lors de votre audition par la commission des affaires sociales, avec une franchise qui vous honore et dont je vous remercie, vous avez dit que le Ségur de la santé n’était pas financé. (Applaudissements sur les bancs des groupes SOC et LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Il n’a pas dit ça comme ça !"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Si, le compte rendu est clair. Le Ségur de la santé a coûté 14 milliards d’euros, en raison des mesures d’augmentation de salaire. Vous avez dévoilé un secret de Polichinelle en expliquant que cette dépense supplémentaire n’avait pas été financée par des recettes affectées. Vous avez donc décidé que cette hausse des rémunérations serait absorbée par l’Ondam, lequel est prévu pour soutenir les besoins de l’hôpital public. Vous avez dégagé 14 milliards qui correspondent précisément au déficit de la sécurité sociale. Si, alors, vous vous étiez posé la question de l’efficacité des exonérations de cotisations sociales, comme vous vous la posez à présent, nous aurions pu remobiliser tout ou partie de ces exonérations pour financer l’augmentation de salaire des soignants que nous avons applaudis tous les soirs pendant le covid. Nous aurions pu appeler chacun à faire des efforts, notamment les entreprises qui profitent des exonérations alors que celle-ci ne servent même plus à assurer leur compétitivité ni à créer des emplois.\nC’est pour cette raison que vos PLFSS sont chaque année plus fragiles : vous ne prenez pas la peine de dégager les ressources nécessaires au financement des dépenses qui augmentent, le plus souvent d’ailleurs à la suite de mesures légitimes, comme l’augmentation de la rémunération des soignants. C’est pourquoi nous vous proposons de rejeter l’article liminaire. (Applaudissements sur les bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Joëlle Mélin, pour soutenir l’amendement no 544."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "Mes propos valent également pour les articles 1er et 2 : ces chiffres, qui varient au gré des méthodes de calcul retenues, sont irréalistes. Le financement de la sécurité sociale est devenu très aléatoire. Il n’est plus assuré qu’à 55 %, et encore, par les cotisations, c’est-à-dire par le fruit du travail. Nous devons en permanence courir après les taxes et les impôts, et transférer l’argent entre les budgets de l’État, de la sécurité sociale et des collectivités territoriales, ce qui occasionne des frais de fonctionnement importants. Nous ne pouvons donc pas accepter de tels chiffres. (Applaudissements sur les bancs du groupe RN.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539148",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Zahia Hamdane, pour soutenir l’amendement no 924."
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "Je vous demande de soutenir la suppression de l’article liminaire. Cet article, qui présente les prévisions de recettes et de dépenses des administrations de sécurité sociale pour 2024 et 2025, révèle une réalité inquiétante : contrairement à ce que vous venez de dire, monsieur le ministre, le PLFSS est une feuille de route d’austérité. (Applaudissements sur quelques bancs du groupe LFI-NFP.)\nLa Cades continue de siphonner des ressources cruciales : 16 milliards lui ont été affectés en 2024 et la même somme le sera en 2025, soit plus que le volume d’économies que le Gouvernement cherche à imposer à notre système de protection sociale. Au lieu de le renforcer, on le prive de moyens essentiels.\nLe Gouvernement persiste à parler d’une crise structurelle, mais il fait le choix de couper dans les dépenses sociales, tout en accordant des cadeaux fiscaux et des exonérations de cotisations aux grandes entreprises. (Applaudissements sur les bancs du groupe LFI-NFP.)\nCe PLFSS est une traduction concrète de la politique du gouvernement Barnier : faire porter le poids de l’austérité par les classes populaires et moyennes, tout en préservant les intérêts des plus puissants. Nous devons refuser ce texte qui fragilisera encore davantage les plus vulnérables. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539153",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Sandrine Rousseau, pour soutenir l’amendement no 1808."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "Permettez-moi d’abord de vous souhaiter la bienvenue pour la présidence de votre première séance.\nMonsieur le ministre, pour vous, un PLFSS d’austérité, c’est juste un montant brut qui diminue."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Pas forcément !"
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "Pourtant, nous sommes confrontés à une augmentation structurelle des besoins : la population vieillit, les retraités sont plus nombreux, et la demande de services à la personne ne fait que croître.\nDans ce contexte, le libéralisme augmente les besoins de financement dans le PLFSS : la tarification à l’activité (T2A) accroît les dépenses, le recours à l’intérim représente un coût important pour les hôpitaux, la concurrence des crèches et des Ehpad privés rend plus difficile le recrutement de personnels dans les structures publiques. Ainsi, l’accumulation de ces politiques libérales coûte cher à la sécurité sociale.\nConvenez-en : le PLFSS est largement en dessous des besoins de la population et il le sera encore dans les années à venir. (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs du groupe SOC.) Déterminer la justesse d’un PLFSS à l’aune de l’indicateur du PIB n’est pas la bonne méthode. Le PIB, qui n’a plus aucun sens, ne doit pas être le moteur de la protection sociale. Mieux vaut prendre comme indicateurs nos besoins et notre capacité à organiser les soins, la vieillesse, la famille et les accidents du travail."
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "Qui va payer ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le rapporteur général de la commission des affaires sociales, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Nous en avons longuement débattu en commission. Je vais essayer de faire preuve de pédagogie puisque je donnerai la même explication pour les articles liminaire, 1er et 2.\nNous l’avons dit, ces articles sont obligatoires. Les supprimer rendrait le texte inconstitutionnel. Je souscris donc à l’idée de les maintenir, afin que nous puissions voter pour ou contre, et exprimer par là bien plus clairement nos divergences sur le fond.\nMonsieur Guedj, je partage votre point de vue sur l’Ondam et sur le Ségur qui, au bout du compte, n’a pas été financé globalement. Toutes les mesures d’attractivité au bénéfice du personnel sont la cause des difficultés actuelles de nos hôpitaux – ce ne sont pas des recettes pérennes. Je vous rejoins donc sur la mécanique budgétaire.\nMadame Hamdane, je ne peux pas vous laisser dire que la Cades aspire les ressources. En effet, ce mécanisme est tout de même une bonne chose."
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Heureusement qu’on a la Cades !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Sans la Cades, nous n’avons pas de sûreté sur les marchés financiers. Si, demain, nous ne pouvons plus embaucher pour financer l’Urssaf, nous ne pourrons plus payer les retraites ou financer les hôpitaux. Nous serons alors sous la dépendance des marchés financiers asiatiques, américains ou autres. Il faut donc être très prudent. Dans la vie, on a toujours intérêt à rembourser ses dettes, ce qui donne une certaine indépendance financière. (Applaudissements sur quelques bancs du groupe DR.)\nMadame Rousseau, je suis d’accord avec vous – oui, parfois, nous pouvons l’être – pour affirmer que l’Ondam ne permettra pas de faire face à tous les besoins. C’est pourquoi, en commission, nous avons tous été défavorables à l’Ondam pour 2025.\nMais ce n’est pas parce que nous nous rejoignons sur ce point que nous sommes obligés de supprimer la photo de 2024.\nDe la même manière, dans vos collectivités, vous ne voteriez pas contre les comptes administratifs. On ne vous demande d’ailleurs pas de voter pour ou contre. Ces comptes existent, voilà tout.\nSupprimer l’article liminaire ou un Ondam rectificatif, aussi insuffisant soit-il, ne changera pas la réalité des comptes pour 2024 puisque les dix douzièmes ont déjà été consommés.\nPour toutes ces raisons, la commission émet un avis défavorable sur les amendements qui suppriment l’article liminaire.\nÀ titre personnel, je voterai contre l’article liminaire, s’il est maintenu – la commission l’a supprimé. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Au moins, il y en a un qui maîtrise le sujet !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Le rapporteur général l’a dit, le législateur organique a voulu cet article liminaire."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Le vote est souverain !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Je vous l’accorde, monsieur Guedj, mais il a agi ainsi pour améliorer l’information du Parlement, enrichir sa capacité d’évaluation et lui permettre, par conséquent, de délivrer ses autorisations en toute connaissance de cause.\nOn a calqué ce que l’on faisait dans les lois de finances sur les lois de financement de la sécurité sociale – même si la logique de l’Ondam n’est pas comparable à celle des dépenses pilotées par l’État. L’article liminaire du PLFSS est cependant une bonne chose pour l’information et pour les prérogatives de contrôle et d’évaluation des parlementaires.\nEn conséquence, je ne peux que rejoindre le rapporteur général en vous invitant à voter non pas contre l’article liminaire en signe de votre opposition à ce qu’il recouvre, mais pour ce qu’il représente."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "On vote sur le contenu, pas le contenant !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "De la même façon, je regrette que l’équivalent de votre loi de règlement, le projet de loi d’approbation des comptes de la sécurité sociale (Placss), ait pu être rejeté. Les deux textes sont de même nature : il ne faut pas que vous les supprimiez même si vous êtes en désaccord. Néanmoins, je ne me fais pas beaucoup d’illusion sur le résultat du vote. (M. Hadrien Clouet applaudit.)\nPour ce qui est du taux d’emploi, c’est tout de même lui qui nous conduit à 119 milliards de recettes complémentaires depuis 2019. Pourquoi personne n’en parle, ni ne dit que c’est parce qu’on a baissé le chômage qu’on a obtenu ces recettes ? C’est la première raison pour laquelle on peut augmenter les dépenses sociales dans ce pays ! (Applaudissements sur quelques bancs du groupe EPR. – Exclamations sur les bancs du groupe RN.)\nIl faut se féliciter que plus de personnes travaillent et davantage d’employeurs cotisent, pour permettre une évolution positive des Ondam, comme dans les dernières années."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Ça fait rêver !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Monsieur Guedj, que proposez-vous sinon de la dépense non financée ? C’est la même chose !"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Il faut se concentrer sur les évolutions de recettes sociales et fiscales constatées, puis construire les dépenses, afin de réduire le déficit.\nJe suis sûr – du moins, je l’espère – que votre programme n’est pas de creuser le déficit de la sécurité sociale. Nous partageons donc cet objectif. Face aux recettes estimées, il n’y a pas de dépenses supérieures à ce que la trajectoire propose de façon réaliste.\nMadame Hamdane, je ne peux pas laisser dire que la Cades « siphonne » les ressources. Les bras m’en tombent d’entendre cela !\nLa Cades rembourse notre dette sociale, par des recettes de la contribution sociale généralisée (CSG), de la contribution pour le remboursement de la dette sociale (CRDS) et, dans une moindre partie, du fonds de réserve pour les retraites (FRR). Elle rembourse la dette sociale ; elle ne siphonne rien du tout !\nElle rend justement possible la préservation de notre modèle de protection sociale. Elle le protège ! (« Bah oui ! » sur quelques bancs du groupe EPR. – Exclamations sur plusieurs bancs du groupe LFI-NFP.)\nSi vous ne voulez pas que la Cades perdure au-delà de 2033, il ne faut pas rendre notre sécurité sociale plus déficitaire qu’elle ne l’est déjà ! La priorité est, d’abord, de réduire nos déficits pour ne pas avoir à multiplier les prolongations, tout en se plaignant que la caisse siphonne nos recettes de sécurité sociale. C’est tout l’inverse. CQFD.\nEnfin, madame Rousseau, on peut débattre du repère où l’on place le curseur de l’austérité, mais quand on considère que la dépense sociale est bien supérieure à l’inflation, on ne peut pas parler d’austérité. Certains pays ont connu l’austérité en matière de dépenses sociales. Je vous assure, ce n’est pas quand la dépense est supérieure à l’inflation.\nEnsuite, regardez l’écart entre l’inflation et l’Ondam dans la période 2012-2017. Vous verrez que l’on est dans le même quantum."
+        },
+        {
+          "orateur": "M. Arthur Delaporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793394",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Vous n’étiez pas parlementaire à l’époque, mais je ne crois pas que vous eussiez pu dire que les budgets étaient austéritaires : c’étaient des budgets de retour à l’équilibre. C’est exactement ce que nous faisons ! Avis défavorable. (Applaudissements sur les bancs du groupe EPR et sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Cher collègue Guedj, je ne sais pas si vous ferez comme pour la motion de rejet, que vous avez retirée avant le vote, mais nous sommes finalement dans le même cas : nous examinons des amendements de suppression avant l’article liminaire, ce qui pose question. (Applaudissements sur plusieurs bancs des groupes EPR, DR, Dem et HOR.)\nJe préférerais qu’on examine l’article liminaire car, rappelons-le, il a été instauré de manière consensuelle en 2022, lors des débats sur la loi organique relative aux lois de financement de la sécurité sociale, afin de nous permettre de disposer d’une photographie de l’ensemble des comptes de la sécurité sociale pour l’année en cours et l’année à venir."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "On n’avait parlé que de cela !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "La représentation nationale a besoin d’une telle vision budgétaire de l’ensemble des administrations de la sécurité sociale, y compris des régimes de retraites complémentaires et d’assurance chômage, qui n’étaient pas inclus dans le passé.\nCela nous aide, et nous étions d’ailleurs demandeurs des soldes de l’ensemble du périmètre.\nLe solde excédentaire est essentiel. Certains disent qu’il n’y aurait pas besoin de photographie dès lors que l’on sait qu’il y a encore de l’argent. Soyons sérieux ! L’année prochaine, nous devrons peut-être emprunter 60 à 65 milliards. Allez-vous rencontrer des prêteurs sans être capables de leur indiquer où vous en êtes ?\nLes orateurs ont parlé de tout sauf de l’article liminaire ! Il a pour objet les prévisions des soldes de l’ensemble de la sécurité sociale pour 2024 et 2025.\nOn peut trouver que la photo n’est pas belle – c’est le cas – mais on en a besoin. (« Bravo ! » et applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.)\nOn ne peut pas rester aveugles sur la réalité de nos comptes sociaux même si cela en arrangerait certains. Nous voulons les redresser et il faut commencer par les connaître. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Vos propos sur l’article liminaire m’amènent à m’interroger. Il me semble que vous apportez une très mauvaise réponse aux vraies questions qui se posent.\nAvons-nous besoin de réfléchir à la manière de financer la protection sociale ? Oui, bien sûr.\nQuelqu’un peut-il nier que la trajectoire budgétaire de la sécurité sociale est très préoccupante ? Non, tout le monde est d’accord pour le constater."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Est-ce que le budget va être voté ? Non !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Avons-nous besoin de transparence et de traçabilité ? (« Oui ! » sur quelques bancs des groupes SOC et EcoS.) Oui, bien sûr, cela a été voté dans une loi organique, et vous étiez nombreux à l’approuver.\nCe qui nous est présenté est-il faux ? Non ! (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) La Cour des comptes a précisé que, malgré des difficultés techniques, les soldes présentés étaient le reflet de la situation des soldes de la sécurité sociale.\nLa suppression de cet article changera-t-elle quoi que ce soit à la réalité des choses ? (« Oui ! » et sourires sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. François Hollande",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1654",
+          "texte": "Tout est clair !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Non, absolument pas ! La suppression de l’article ne changera rien et présentera de plus un risque d’inconstitutionnalité."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "L’inconstitutionnalité ne vous a pas toujours gênés !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Enfin, en 2020, fallait-il, grâce à la Cades, injecter de l’argent dans la sécurité sociale pour soigner, produire des vaccins, soutenir les entreprises et les salariés ? Oui ! Supprimer ces articles est vraiment une fausse bonne idée. (« Bravo ! » et applaudissements sur les bancs du groupe EPR et sur plusieurs bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hadrien Clouet."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Nous sommes bien sûr hostiles au contenu du tableau. Vous dites qu’un tableau, ce sont des prévisions, parmi lesquelles celles de l’évolution des salaires. Vous prévoyez l’évolution de votre politique, qui elle-même influence les salaires. Comme nous ne sommes pas d’accord avec votre politique, nous ne sommes pas d’accord avec vos prévisions. Au revoir le tableau ! (Applaudissements sur quelques bancs des groupes LFI-NFP et SOC.)\nMonsieur le ministre, vous voulez faire des blagues. Faisons-les ensemble.\nVous dites que le budget n’est pas austéritaire. De 2023 à novembre 2024, l’inflation a pris 7 % ; les recettes de la branche maladie, 5,7 % – c’est inférieur – ; celles de la branche famille 4,7 % – c’est également inférieur – ; et celles de la branche accidents du travail maladies professionnelles ont même baissé de 0,1 %. Donc oui, le budget est austéritaire. C’est écrit dans vos tableaux. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nVous dites que le déterminant est le taux d’emploi, c’est-à-dire le nombre d’emplois dans le pays. Mais non, le déterminant est le niveau des salaires puisque trois emplois à 2 000 euros rapporteront plus dans vos caisses que quatre emplois au Smic. Votre politique, là-dessus aussi, n’est pas bonne. Elle est dépressive, dans tous les sens du terme. (Mêmes mouvements.)\nSelon M. le rapporteur général, il n’est pas juste de dire que la Cades aspire les ressources. Là encore, je conteste votre analyse. Depuis le gouvernement de M. Juppé, en 1996, des charges indues ont été ajoutées, par les exonérations de cotisations sociales à la sécurité sociale. Il y a donc un déficit, qui s’accumule d’année en année. Une fois accumulés, les déficits sont placés dans une caisse à part, la Cades, qui s’endette sur des marchés financiers pour rembourser les déficits accumulés transférés en dettes. Tout cela a un prix : des frais bancaires et des commissions d’intérêt pour 75 milliards ! (Applaudissements sur les bancs du groupe LFI-NFP.)\nÇa, c’est l’écart entre une politique de financiarisation de la sécurité sociale et une politique d’injection directe, par le biais de cotisations. Quand on perd sept années de déficit de la sécu, au moins on dit pardon. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Clémentine Autain."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Au fond, monsieur le ministre, vous nous demandez de valider votre mauvaise gestion. Vous semblez considérer les recettes comme étant fixes."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Oui, intouchables !"
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Évidemment, cela ne marche pas ! Et quand on vous propose de nouvelles recettes, justement pour répondre aux nouveaux besoins, cette logique ne rentre visiblement pas dans votre cerveau. (Exclamations sur les bancs des groupes DR et HOR.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Elle a dérapé !"
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Il est important de se mettre cela en tête alors que vous ne tendez depuis quarante ans qu’à privatiser la sécurité sociale ; alors que M. Kasbarian nous explique que les fonctionnaires, c’est-à-dire ceux qui œuvrent au service de l’esprit public (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs du groupe GDR), devront, en matière de jours de carence, s’aligner sur le privé ; alors que notre société est en train de crever de cette infiltration de la rentabilité dans les comptes sociaux, les services publics !\nSi vous n’êtes pas capables de penser recettes, vous ne trouverez pas de solution pour répondre aux besoins de la population. Les gisements ne manquent pas. Augmentez les salaires, les cotisations rapporteront davantage. Taxez les hyper-riches, les revenus du capital, qui ont explosé ; taxez le sucre, le gras, tout ce qui fait du mal à la société !"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "On devrait bien taxer la connerie !"
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Cessez de nous répéter qu’il faut valider des comptes dont les concepteurs ne s’attaquent jamais à la question des recettes, de refuser toutes les nouvelles ressources que nous vous proposons. Ne nous racontez pas qu’en l’état, nos finances pourront faire face à l’allongement de la durée de la vie, au nombre toujours croissant de personnes âgées que nous devrons aider."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il est l’heure, monsieur le président, et j’ai l’impression qu’elle parle depuis dix minutes !"
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Le privé ne peut gérer les Ehpad : son exigence de rentabilité est contraire à la satisfaction des besoins du plus grand nombre."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Merci, madame la députée."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "C’est la leçon que notre assemblée doit entendre ! (Applaudissements sur les bancs des groupes EcoS et LFI-NFP, ainsi que sur quelques bancs du groupe SOC. – Mme Karine Lebon applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Je ne perds pas l’espoir que cet article ne soit sinon pas modifié, du moins pas supprimé. Monsieur Clouet, ce n’est pas parce que vous contestez les chiffres (Mme Véronique Louwagie applaudit) qu’il faut nier la nécessité, pour le Parlement, de disposer de ces outils d’évaluation et, me semble-t-il, d’assurer la constitutionnalité du texte. Encore une fois, amendez l’article, mais ne le rejetez pas : ce sera beaucoup plus logique !\nMadame Autain, je conçois votre désaccord avec les chiffres que nous proposons, les modalités de recettes ; mais que nous privatisions la sécurité sociale, ne dites pas cela !"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Ne le faites pas, alors !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Absolument rien dans ce texte ne peut le laisser penser. Ces cinq dernières années, les recettes du travail ont augmenté, je le répète, de 119 milliards."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est énorme !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Le modèle du salaire socialisé, pour reprendre votre terminologie, a été renforcé ; il représente désormais 8,8 % du PIB, contre 8,4 % avant le covid-19. C’est là un fait implacable, statistique : par le travail, par l’impôt aussi, il y a davantage de participation publique à la protection de nos concitoyens. Alors que d’autres pays instaurent la retraite par capitalisation, la santé privée, rien, encore une fois, ne tend à privatiser notre sécurité sociale."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Et le ticket modérateur ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Que nous ayons des différences d’appréciation lorsqu’il s’agit d’aller chercher des recettes, d’augmenter les salaires, de savoir s’il vaut mieux augmenter le Smic, comme vous le pensez, ou comme la ministre du travail le propose, préparer une désmicardisation, je l’admets. Soutenir que nous privatisons la sécurité sociale, c’est une contrevérité. Je tiens à ce que nous soyons d’accord sur les termes du débat ! (Applaudissements sur quelques bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix les amendements identiques nos 1, 544, 924 et 1808."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        277\n        Nombre de suffrages exprimés                272\n        Majorité absolue                        137\n                Pour l’adoption                188\n                Contre                84"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 1, 544, 924 et 1808 sont adoptés ; en conséquence, l’article liminaire est supprimé et les amendements suivants tombent.)\n (Applaudissements sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539786",
+      "valeurPtsOdj": "1",
+      "titre": "Première partie",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "J’appelle maintenant les articles du projet de loi dans le texte du Gouvernement, en commençant par les dispositions relatives à l’exercice 2024."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539788",
+      "valeurPtsOdj": "1",
+      "titre": "Article 1er",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Élise Leboucher."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Cet article confirme ce que nous dénonçons depuis des années. Les macronistes, à qui je souhaite d’ailleurs un bon retour dans l’hémicycle après leur week-end prolongé (Applaudissements sur les bancs du groupe LFI-NFP), se complaisent à nous donner des leçons de compétence ou de responsabilité, à marteler qu’eux seuls sont capables de gérer un budget. Ils ont pourtant vidé les caisses de la sécurité sociale !\nEstimé à 10,5 milliards par la loi de financement de la sécurité sociale (LFSS) pour 2024, le déficit atteindra finalement 18 milliards. Depuis plusieurs semaines, nous entendons la sempiternelle petite musique de l’envolée incontrôlée des dépenses ; en réalité, pour la première fois depuis 2021, les recettes progressent moins vite que celles-ci.\nPrenons l’exemple de la branche maladie : si le solde de l’année 2024 s’est dégradé de 3,2 milliards par rapport aux prévisions établies en mai par la Commission des comptes de la sécurité sociale (CCSS), l’Ondam a été rehaussé de 1,2 milliard, si bien que 2 milliards font défaut. Au profit des plus riches, des grandes entreprises, le Gouvernement a favorisé les exonérations et autres niches fiscales, pensant compenser leur prolifération grâce à la TVA payée par la majorité des citoyens ; or celle-ci a généré moins de recettes qu’attendu.\nLa branche accidents du travail et maladies professionnelles (AT-MP) a également été amputée de ses moyens, une baisse de 2 % des cotisations ayant été obtenue par le patronat et imposée par 49.3 lors de l’examen de la future loi de financement rectificative de la sécurité sociale (LFRSS) pour 2023. C’est donc votre mauvaise gestion qui engendre les déficits, et vous comptez poursuivre ce braquage en bande organisée ! Nous refusons de le cautionner ; c’est pourquoi nous vous appelons, chers collègues, à voter pour les amendements de suppression de l’article. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Joëlle Mélin."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "Notre collègue Bazin a ressorti tout à l’heure le fameux argument de la photo. C’est peu de dire que celle-ci ne nous plaît pas : j’irai jusqu’à ajouter qu’elle apparaît terriblement retouchée. Notre collègue Vidal, avec tout le respect que je lui dois, prend à la lettre l’assertion de la Cour des comptes selon laquelle on peut accepter ces comptes en l’absence d’anomalie majeure : ils présentent cependant pour chaque branche plusieurs erreurs comptables qui, dans le privé, coûteraient très cher, et entre trois et huit éléments non probants, c’est-à-dire que l’on est dans l’incapacité de prouver la réalité de la dépense.\nPour que la Cour refuse de certifier les comptes 2022 et 2023 de la branche famille, il lui a fallu constater 5,8 et 5,5 milliards d’erreur ! Nous sommes donc bien dans l’à-peu-près. Par rapport aux prévisions consolidées dans la LFSS pour 2024, le tableau de l’article 1er révèle des écarts d’une ampleur inacceptable. Pour autant, nous ne voterons pas la suppression de l’article, précisément parce que nous voulons pouvoir discuter…"
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "texte": "Vous n’en discuterez pas longtemps !"
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "…de ces graves anomalies, de cette incapacité à se projeter. Si l’on veut établir des prévisions, il faut se montrer autrement plus sérieux. Il y a là un véritable problème à l’égard de la représentation nationale et de nos concitoyens. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Karine Lebon."
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "L’article 1er comprend la révision du tableau d’équilibre par branche de la sécurité sociale. Il s’agit là d’un équilibre pour le moins précaire ; surtout, il accrédite notre contestation…"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "…de la sincérité du Gouvernement lorsqu’il présentait, en 2023, le budget pour 2024, et notre dénonciation de l’indigence des LFSS. La LFSS pour 2024 prévoyait un déficit de 10,5 milliards ; avant l’été, le Gouvernement l’annonçait de 16,6 milliards ; il est désormais estimé à 18 milliards, soit 1,4 milliard de plus qu’en mai et 7,5 milliards de plus qu’initialement !\nCet écart ne provient pas d’un dérapage des dépenses, mais « de moindres recettes », indique l’exposé des motifs de l’article, autrement dit des conséquences de l’austérité budgétaire qu’a imposée la dernière LFSS, adoptée par suite d’un 49.3. Il démontre l’insincérité du Gouvernement, qui surévalue les recettes pour nous faire croire que les renoncements exigés, année après année, des professionnels de santé comme des patients, seraient moins grands qu’il n’y paraît et surtout inévitables. Il reflète l’assèchement de ces recettes, en raison notamment de la prolifération des niches sociales…"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Pour 80 milliards !"
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "…sur les compléments de salaire et des exonérations de cotisations sociales. L’article donne à voir les résultats de vos choix politiques : des travailleurs appauvris, une sécurité sociale qui manque de moyens, un système de soins en proie à une crise inédite. (Applaudissements sur les bancs du groupe GDR, ainsi que sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "L’article est aride, mais je vous propose de faire un peu de philosophie, monsieur le ministre, afin d’enfoncer le clou qu’a planté ma chère camarade Sandrine Rousseau. Il est symbolique que le soin de définir l’austérité soit laissé au ministre de l’économie plutôt qu’à la ministre de la santé. En réalité, elle ne se mesure pas de manière comptable, à l’évolution des dépenses – même en euros courants, ce qui permet d’éviter que l’inflation ne creuse l’écart entre la prévision et la réalisation –,…"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Monsieur était prof d’économie ?"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "…mais en comparant les besoins aux moyens."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "C’était au programme de sciences économiques de première, en 1977, ça ?"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Depuis le début de l’examen de ce texte, lequel ne fait que commencer, nous vous répétons que le compte n’y est pas ! Nos soignants sont en burn-out, nos urgences ferment, nous vous l’avons assez dit. Ce n’est pas là le premier budget d’austérité : chaque fois, vous invoquez la nécessité de réduire les déficits. Or il ressort de l’article 1er que vous vous êtes trompés au sujet de ces derniers : ce ne sont pas 10 milliards mais 18 milliards qui manquent, en raison, selon l’exposé des motifs, « de moindres recettes, en lien avec la dégradation des perspectives macroéconomiques ».\nEn d’autres termes, les salaires n’ont pas suivi, si bien que les cotisations non plus. Cependant, des richesses, dans ce pays, il y en a : nous vous prouverons que les moyens existent qui permettraient aux soignants de travailler, et même aux retraités de partir en retraite, grâce à l’abrogation de la réforme ! (Applaudissements sur les bancs du groupe EcoS, ainsi que sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Vivement qu’ils arrivent au pouvoir, qu’on rigole !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Avant que le ministre ne répète encore une fois une inexactitude factuelle, je souhaite lui tordre le cou une fois pour toutes (Exclamations) – à l’inexactitude, bien sûr, pas au ministre ! Je ne me permettrais pas… (Sourires.)"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "On tord le cou à une idée reçue, pas à une inexactitude !"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Inflation déduite, l’Ondam avait crû de 1,8 % en 2014, 2 % en 2015, 1,7 % en 2016, 1,1 % en 2017 et 1,2 % en 2018. En 2023, il a diminué de 0,1 %, et en 2024 augmenté de 0,6 %. En 2025, compte tenu de la CNRACL et d’une inflation à 1,8 %, sa hausse sera de 0,1 %. Jamais, en une décennie, elle n’aura donc été aussi faible qu’au cours des trois dernières années. (Applaudissements sur les bancs du groupe SOC, ainsi que sur quelques bancs du groupe EcoS.)\nVous m’avez invité, monsieur le ministre, à comparer l’évolution de l’Ondam à celle qu’il a connue entre 2012 et 2017 : je viens de le faire. Si nous proposons de supprimer l’article 1er, c’est parce qu’il vise à entériner la mauvaise gestion que vous reprochait tout à l’heure Clémentine Autain. Quand un déficit évalué à 10,5 milliards se révèle de 18 milliards, il n’est pas possible d’expliquer ce décalage uniquement en se réfugiant, comme vous le faites, derrière « la dégradation des perspectives macroéconomiques ». Vous avez refusé d’aller chercher des recettes pour financer des dépenses pérennes, par exemple celles liées au Ségur de la santé. Ce sont vos choix d’appauvrissement de la sécurité sociale qui ont creusé ce trou ! (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je ne vous comprends plus, chers collègues du Nouveau Front populaire ! (« Ah ! » sur plusieurs bancs des groupes LFI-NFP et SOC.) Il y a quelques mois, nous étions nombreux à demander des chiffres plus sincères et cohérents ; nous réclamions même un projet de loi de financement rectificative de la sécurité sociale ! Or c’est précisément l’objet de l’article 1er, intitulé « Rectification des prévisions de recettes, des tableaux d’équilibre et des objectifs de dépenses pour 2024 ». (Applaudissements sur les bancs du groupe DR.) Le PLFSS ayant vocation à être adopté en décembre, vous ne corrigerez rien s’agissant de l’année en cours ! Ne mentons pas aux Français ; c’est la réalité. Cet article permet simplement de savoir où nous en sommes."
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Très belle démonstration !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "D’ailleurs, le rapporteur général l’a souligné dans son rapport : nous n’avons jamais obtenu de chiffres aussi sincères et cohérents, avec des prévisions macroéconomiques."
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Laissez-nous remettre de l’ordre dans ce pays !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Depuis tout à l’heure, nous parlons des comptes de la sécurité sociale, mais il n’y en a pas un qui évoque le dérapage de 4 milliards des comptes sociaux ! C’est pourtant ce déficit qui devrait nous inquiéter pour l’avenir du modèle social ! Vous parlez sans arrêt de l’Ondam alors que, depuis cinq ans, il n’est même pas respecté : ce n’est qu’une cible à atteindre, qui est systématiquement dépassée. Voilà la réalité ! C’est pourquoi il faut revenir à la réalité des comptes sociaux et des modèles. Or en adoptant ces amendements de suppression, vous nous en empêcherez.\nPar ailleurs, vous expliquez que la situation est due à de moindres recettes. Toutefois, tout à l’heure, Mme Rousseau parlait de la décroissance comme d’une solution ! Or si nous ne créons plus de valeurs dans notre pays demain, nous ne serons plus capables de financer notre système de protection sociale ! (Applaudissements sur les bancs du groupe DR, ainsi que sur quelques bancs du groupe EPR. – Exclamations sur plusieurs bancs du groupe LFI-NFP.) Sans croissance, nous n’aurons plus les recettes nécessaires pour financer la protection sociale, les hôpitaux et les professionnels de santé. C’est là l’enjeu ! (Applaudissements sur les bancs du groupe DR, ainsi que sur quelques bancs des groupes EPR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Avant de passer la parole à Mme Danielle Brulebois, je rappelle qu’il n’y a qu’une seule prise de parole par groupe sur l’article, la plupart des groupes s’étant déjà inscrits.\n Vous avez la parole, madame."
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "Permettez-moi de répondre à nos collègues qui parlent d’austérité, alors que les dépenses sociales atteindront 26 % du PIB en 2025. Ils feraient mieux de se souvenir des budgets votés entre 2012 et 2017, époque au cours de laquelle l’Ondam avait augmenté de 20 milliards d’euros, soit très loin des 54 milliards supplémentaires que notre majorité a votés ces cinq dernières années. De 2017 à 2023, l’Ondam a augmenté de 25 %.\nVous évoquez aussi la dette et insinuez certaines choses à propos de la Cades. Je rappelle qu’en 2015, au cours du mandat de M. François Hollande, c’est un emprunt chinois qui a financé cette caisse !\nEnfin, vous dites que nous n’avons pas fait grand-chose et que le système de santé se trouve dans un état lamentable. Permettez-moi de rappeler que nous avons engagé 19 milliards d’euros dans un plan massif d’investissement : l’hôpital de Lons-le-Saulnier, par exemple, a bénéficié de 33 millions d’investissement, alors qu’il n’avait pas reçu un seul euro depuis les années 2000 et qu’il était dans un état déplorable. Je pourrais également évoquer les 12 milliards débloqués dans le cadre du Ségur de la santé, afin d’améliorer le salaire des infirmières – elles touchent désormais 300 euros de plus par mois et en sont très heureuses. Qu’aviez-vous fait pour elles, jusqu’à présent ? Rien ! (Applaudissements sur plusieurs bancs du groupe EPR, ainsi que sur quelques bancs des groupes DR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je vous informe que sur les amendements nos 2 et identiques je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe suis saisi de trois amendements identiques, nos 2, 931 et 1791, tendant à supprimer l’article 1er.\nL’amendement no 2 de M. Jérôme Guedj est défendu.\nLa parole est à M. Damien Maudet, pour soutenir l’amendement no 931."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Permettez-moi de saluer votre première présidence, monsieur le président, ainsi que le retour de nos collègues macronistes. J’espère que le week-end a été bon ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Prisca Thevenot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795920",
+          "texte": "Oh, ça va !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Un taux d’absence de 85 %, c’est tout de même curieux quand, dans le même temps, votre ministre dénonce l’absentéisme des fonctionnaires !\nPermettez-moi également de saluer l’incohérence du Rassemblement national qui a rejeté cet article en commission mais qui, en séance, s’apprête à ne pas voter les amendements de suppression !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Ils votent souvent avec vous !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Enfin, madame Brulebois, vous précisez que beaucoup d’argent a été investi, que les infirmières percevront 300 euros supplémentaires et qu’elles en sont très contentes. Mais sur quelle planète vivez-vous ? Entre 2020 et 2022, 50 000 postes supplémentaires d’infirmières sont vacants. L’été dernier, deux services d’urgence sur trois ont dû être partiellement fermés. (Applaudissements sur plusieurs bancs des groupes LFI-NFP et EcoS.) Arrêtez de penser que les investissements réalisés ont été suffisants !\nD’ailleurs, avant d’en venir au fond de l’amendement, j’aurais bien voulu saluer encore une personne. Malheureusement, nous avons un problème : après deux heures et demie consacrées à la discussion générale, au cours de laquelle il a été question des déserts médicaux, des hôpitaux et de la santé, la ministre de la santé est absente !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "C’est normal !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Seul le ministre du budget et des comptes publics est présent. C’est symptomatique d’un texte dont l’étude d’impact comporte plus souvent le mot « économies » que le mot « patients ». (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Certes, nous examinons la partie budgétaire ; néanmoins, nous n’avons obtenu aucune réponse de la ministre de la santé au cours des deux heures et demie de discussion générale ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nPour en revenir à l’article 1er, Emmanuel Macron lui-même affirmait en avril que la France n’avait pas un problème de dépenses, mais de moindres recettes. Cet article lui donne raison. C’est le cœur du problème. Depuis 2021, c’est la première fois que les recettes évoluent moins vite que les dépenses. Cela signifie que la stratégie de grandes exonérations de cotisations non compensées – exonérations qui ont doublé depuis 2017 – mène la sécurité sociale à sa perte. La sécurité sociale doit être financée par les cotisations. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Cela ne marchera pas autrement ! Le seul moyen pour que le système de santé fonctionne, c’est d’arrêter d’assécher la sécurité sociale. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 1791."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Nous vous proposons une méthode : partir des besoins et, ensuite, trouver les recettes pour y répondre. Ce n’est pas totalement fou puisque le système a fonctionné de la sorte jusque dans les années 1990. À l’époque, il n’y avait pas de dette sociale, mais un équilibre entre les recettes et les dépenses de la sécurité sociale. C’est ce vers quoi il faut tendre. Nous ne sommes pas contre les dépenses.\nD’ailleurs, permettez-moi de venir en soutien à Sandrine Rousseau. Sur le long terme, si l’on se place dans une approche globale, une diminution des pollutions atmosphériques ou de l’usage des pesticides permettra de réduire les dépenses de santé – je l’ai évoqué dans la discussion générale. Oui, certaines formes de décroissance permettent de réduire les dépenses de santé. Si nous limitons la productivité au travail, par exemple, il y aura moins de burn-out. Ce que disait Sandrine Rousseau était donc très juste : on ne peut s’en tenir à une logique comptable en matière de dépenses et de recettes."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Ben voyons !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Venons-en aux recettes. Sincèrement, il y a moyen d’en trouver ; il y a eu 80 milliards d’exonérations de cotisations sociales ! Nous ne cesserons de vous le rappeler et de proposer de nouvelles recettes, pour en finir avec cette situation catastrophique. Allez dans le pays ! Comme l’a souligné Damien Maudet, les hospitaliers n’en peuvent plus ; les patients ne trouvent plus d’infirmières ni de médecins généralistes. C’est très grave. On ne peut pas voir les choses de manière purement comptable. C’est pourquoi il est vraiment dommage que la ministre de la santé soit absente. (Applaudissements sur plusieurs bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "La suppression de l’article 1er rendrait le projet de loi que nous examinons inconstitutionnel. Vous semblez être défavorables à cet article mais je rappelle que nous étions pourtant plusieurs – Thibault Bazin l’a rappelé fort justement – à réclamer un projet de loi rectificatif, ce qui a été refusé.\nEnfin, remettons un peu de sincérité dans nos débats."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Nous pourrions en avoir un peu dans le budget !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Il est beaucoup question de l’insincérité budgétaire du PLFSS pour l’année 2024. Or nous sommes nombreux, sur ces bancs, à avoir participé à plusieurs réunions organisées au ministère de la santé en 2024, alors qu’Aurélien Rousseau était ministre chargé de ces questions."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Cela n’a pas duré longtemps !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Nous étions plusieurs, à l’époque, à lui dire que le PLFSS pour 2024 était insincère, politiquement et budgétairement. Le voir désormais siéger sur les bancs du Nouveau Front populaire…"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Quel parcours pour ce M. Rousseau !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "…nous laisse à penser que soit nous avions raison mais il ne pouvait pas le reconnaître, soit, en définitive, il s’est rendu compte de l’insincérité budgétaire que nous dénoncions depuis longtemps. (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Cela fait mal, monsieur Rousseau !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Ensuite, que chacun soit cohérent quant à ses positions ! J’ai rappelé tout à l’heure, dans la discussion générale, que l’ensemble des groupes politiques s’étaient prononcés, quasiment à l’unanimité, contre le décalage au 1er juillet de l’indexation des retraites. Et je me réjouis que le Nouveau Front populaire soit soucieux de préserver le pouvoir d’achat des retraités. Cependant, permettez-moi de rappeler à M. Hollande qu’il a fait voter une loi, en date du 20 janvier 2014, visant à retarder la revalorisation des retraites ! (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il ne s’en souvient plus ! Il a la mémoire courte !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Celle-ci a rapporté 3,3 milliards au cours des années 2014, 2015 et 2016. (Mêmes mouvements.) Ensuite, ces dispositions devaient être supprimées en 2017, mais cela ne s’est fait qu’en 2018."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Rends l’argent, François Hollande !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Tout cela pour dire, mes chers collègues, que la meilleure façon de faire apparaître l’insincérité du budget de la sécurité sociale, c’est encore de maintenir l’article 1er du projet de loi. (Applaudissements sur les bancs du groupe DR. – Protestations sur plusieurs bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Pouvez-vous donner l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "La commission ayant rejeté le PLFSS, l’avis est défavorable. (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Non, c’est l’avis du rapporteur général !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "J’ai bien compris, monsieur le rapporteur général, que vous êtes, à titre personnel, défavorable aux amendements de suppression de l’article. Néanmoins, j’aimerais avoir l’avis de la commission."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "La commission était favorable à ces amendements. Néanmoins, étant donné que le texte a été rejeté en commission… (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Non, il n’a pas été rejeté !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Un peu de calme, s’il vous plaît. Ce que je vous propose – et je m’inspire des meilleurs puisque c’est la méthode retenue la semaine dernière pour l’examen du projet de loi de finances –, c’est que le rapporteur général nous indique à la fois l’avis de la commission et son avis à titre personnel. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) L’Assemblée sera ainsi mieux éclairée."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3540091",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Aurélien Rousseau, pour un rappel au règlement. (« Sur quel fondement ? » sur plusieurs bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Sur le fondement de l’article 70 du règlement, pour mise en cause personnelle du rapporteur général dans son long commentaire sur le PLFSS (Vives protestations sur les bancs du groupe DR),…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Un peu de calme !"
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "…qui l’a même conduit à oublier de formuler l’avis de la commission – même s’il ne sait pas très bien quel est son propre avis !"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Sors les mains de tes poches !"
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Il se trouve qu’à la différence de certains, j’ai démissionné, le 19 décembre 2023, du gouvernement. (Applaudissements sur les bancs du groupe SOC.) Je l’ai fait parce que je considérais que tous ceux qui s’appelaient Républicains dans cet hémicycle – parce qu’ils se prétendaient tels ou que le mot figurait dans le nom de leur parti – étaient sur une pente dangereuse ! (Applaudissements sur les bancs du groupe SOC, ainsi que sur plusieurs bancs des groupes LFI-NFP, EcoS et GDR.)\nJe constate que ce projet de loi de financement de la sécurité sociale continue sur cette pente dangereuse et que vous, comme tous les autres, refusez d’ouvrir le sujet des recettes et préférez jeter en pâture à l’opinion publique les fonctionnaires ou les étrangers sans papiers ! C’est beaucoup plus simple ! (Applaudissements sur de nombreux bancs des groupes SOC, LFI-NFP, EcoS et GDR, dont plusieurs se lèvent.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "C’est lamentable. Encore un frustré de la Macronie !"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Les convictions de M. Rousseau s’arrêtent là où commence son opportunisme !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Je note qu’en réponse à une mise en cause personnelle, le député a choisi de faire une mise en cause collective, en quelque sorte !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3540209",
+      "valeurPtsOdj": "1",
+      "titre": "Article 1er (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Tout comme l’article liminaire, l’article 1er est une obligation de la loi organique, mais nous pouvons discuter des trajectoires et du fond. Vous avez dit, madame Lebon, que c’était un tableau à l’équilibre précaire. Utilisons ce débat pour comprendre ce qui explique le delta entre la prévision de déficit de 10,5 milliards dans la LFSS pour 2024 et les 18 milliards qui figurent à l’article 1er.\nAvant tout, les recettes, sociales mais surtout fiscales, ont été moindres. (Exclamations sur les bancs du groupe DR.) Excusez-moi, je ne m’entends pas moi-même ! C’était beaucoup plus calme lors de l’examen du projet de loi de finances… (Rires. – Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Il faut dire qu’il y avait beaucoup d’absents !"
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "C’est le groupe DR qui bordélise l’Assemblée !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "La croissance ayant été tirée davantage par les exportations que par la consommation en 2024, les recettes de TVA ont diminué, et avec elles, les montants affectés au financement de la protection sociale. Cela explique une part de l’écart, à hauteur de 2,5 milliards. De leur côté, les dépenses ont augmenté, dans des proportions certes moins importantes. Il n’y a donc pas d’« insincérité », à proprement parler. (Exclamations sur les bancs du groupe LFI-NFP.)\nDans les lendemains de crise, on observe une élasticité des recettes fiscales et sociales par rapport à la croissance. Personne, dans cet hémicycle, ne s’est plaint lorsque les recettes ont augmenté plus que prévu – dans ce sens-là, cela ne crée jamais d’émoi ! Après cet effet rebond, les courbes se sont infléchies, selon un calendrier inattendu. Cela arrive, et ce n’est pas un défaut des prévisions : après un choc aussi important que la crise covid, il est difficile d’estimer le rythme et la vitesse entre les rebonds ni de prévoir, au milliard près, quand se produira le retour à la normale. Ce n’est pas parce qu’il y a des décalages que les comptes sont insincères – ne nous trompons pas de terminologie. Simplement, l’exécution est différente de celle estimée en loi de finances initiale.\nPar ailleurs, le rehaussement de l’Ondam dégrade également les perspectives de solde – nous y reviendrons.\nMonsieur Davi, il est vrai que la logique n’est pas que comptable ; mais sans elle, on fabriquerait du déficit de manière industrielle ! Il ne servirait à rien de définir un Ondam, de prévoir des trajectoires des comptes sociaux, voire de voter des lois de financement de la sécurité sociale ! La pérennité de notre protection sociale repose sur son équilibre. Nous devons être responsables d’un point de vue financier. Certes, il faut tenir compte des besoins mais, que vous le vouliez ou non, partir de la croissance et de l’inflation reste le meilleur moyen de piloter la dépense."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Et les recettes !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Les hausses de l’Ondam et de l’Ondam hospitalier sont supérieures à l’inflation et à la croissance, nonobstant le retraitement de la CNRACL dont certains estiment, comme le rapporteur général, qu’il faudrait le décorréler. Les dépenses prévues augmentent, c’est tout sauf un budget social austéritaire. Il est adapté aux besoins tout en visant l’efficacité de la dépense et en instituant de nouveaux droits, notamment à l’hôpital – nous y reviendrons.\nPar ailleurs, la ministre de la santé était présente lors de la discussion générale. Traditionnellement, c’est le ministre chargé du budget et des comptes publics qui répond sur la première partie."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Mme Darrieussecq siégera dans l’hémicycle lors de l’examen des parties qui la concernent, en particulier la troisième partie. Avis défavorable."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539039",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Laurent Wauquiez, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Plusieurs députés des groupes LFI-NFP et EcoS",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Sur la base de quel article ?"
+        },
+        {
+          "orateur": "M. Laurent Wauquiez",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267285",
+          "texte": "J’étais sûr que cela serait apprécié par nos collègues de gauche. Monsieur le président, ce rappel au règlement se fonde sur l’article 100, si mes collègues du Nouveau Front populaire me laissent m’exprimer. (Exclamations sur les bancs du groupe LFI-NFP.) Le rapporteur général a posé une question importante. Depuis le début des discussions relatives au PLFSS, nous assistons à des déclarations la main sur le cœur de nos collègues de gauche, qui expliquent qu’il serait indigne d’envisager un report de la revalorisation des retraites. Or, en 2014, sous la présidence de notre collègue François Hollande,…"
+        },
+        {
+          "orateur": "Plusieurs députés des groupes LFI-NFP et EcoS",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Ce n’est pas un rappel au règlement !"
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "On n’est pas en Auvergne-Rhône-Alpes !"
+        },
+        {
+          "orateur": "M. Laurent Wauquiez",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267285",
+          "texte": "…il avait été décidé de reporter la revalorisation des retraites. La commission des affaires sociales a évalué en 2017 le coût pour les retraités…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur le président Wauquiez, ce rappel au règlement n’est pas intimement lié au déroulement de la séance. (Exclamations sur divers bancs.) Silence, s’il vous plaît ! (Brouhaha sur divers bancs.) Chers collègues, je serai intraitable sur notre capacité collective à donner une belle image de l’institution – cela commence par écouter les autres. (Applaudissements sur divers bancs.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539047",
+      "valeurPtsOdj": "1",
+      "titre": "Article 1er (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Bienvenue à monsieur Wauquiez. Si vous citez les articles, vous les comprendrez peut-être un jour. (Rires et exclamations sur plusieurs bancs.)"
+        },
+        {
+          "orateur": "Un député du groupe DR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Minable !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est scandaleux et irrespectueux !"
+        },
+        {
+          "orateur": "M. Jean-Yves Bony",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266793",
+          "texte": "Provocation !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Chers collègues, j’aimerais que l’heure qui nous reste d’ici à la levée de séance se passe dans l’écoute et la bonne humeur et que le débat progresse. (Applaudissements sur plusieurs bancs.)"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Monsieur Boyard, cette remarque s’adresse aussi à vous. Je vous demande de vous cantonner à l’amendement et de ne pas vous livrer à des mises en cause personnelles."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Un peu d’autorité, parfois, ça fait du bien !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Monsieur le ministre, ne parlons plus d’insincérité budgétaire et supposons que Bercy n’ait pas rédigé de notes qui faisaient état d’une insincérité budgétaire."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "C’est faux ! Il n’y a pas de notes !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Quand on passe d’une prévision de 10 milliards à 18 milliards de déficit, il est légitime de s’interroger. Vous avez apporté un élément de réponse. Les recettes sont inférieures aux dépenses et les dépenses prévues sont inférieures à l’inflation réelle – l’inflation vécue par le peuple français, l’inflation des produits alimentaires et énergétiques."
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Ce n’est pas étonnant qu’il ait redoublé !"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Il ne passera pas le contrôle antidopage !"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il n’a rien compris !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Ce n’est pas l’article 1er !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Monsieur le ministre, vous avez parlé de baisse de la consommation. Cette baisse est due notamment au fait que les dépenses, en particulier celles de la sécurité sociale, ne suivent pas l’inflation réelle. Vous prévoyez d’augmenter le nombre de jours de carence pour les arrêts maladie des fonctionnaires, vous comptez faire des économies sur les retraités et vous prévoyez un déficit de la branche famille. Vous allez droit dans le mur ! On le dit depuis des années. La politique de l’offre ne fonctionne pas. À force de diminuer les recettes – vous avez fait 70 milliards d’économies – (Applaudissements sur les bancs du groupe LFI-NFP), vous touchez à la vie réelle des gens. Du coup, il y a moins de consommation et moins de recettes."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Vous n’avez pas suivi le cours d’économie en classe de première !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "C’est là où il y a insincérité : soit vous ne voulez pas comprendre votre erreur soit vous vous plantez, et vous ne voulez pas le reconnaître. Alors que des élections se sont tenues, on a pris les mêmes et on recommence la même politique. Qui s’est trompé, qui est insincère et qui va nous mettre dans le mur ? (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539065",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Véronique Louwagie, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Il se fonde sur l’article 70, alinéa 2, pour mise en cause personnelle. (Exclamations sur les bancs du groupe LFI-NFP.) Monsieur Boyard, vous n’acceptez pas que l’on vous rappelle le report de l’indexation des retraites du temps où la gauche était au pouvoir ; vous cherchez à noyer le poisson par une mise en cause personnelle. C’est inadmissible. (Applaudissements sur quelques bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je n’avais que 14 ans à cette époque !"
+        },
+        {
+          "orateur": "Un député du groupe DR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Il faut assumer, monsieur Hollande !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539069",
+      "valeurPtsOdj": "1",
+      "titre": "Article 1er (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Stéphanie Rist."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Revenons aux amendements de suppression. Les dépenses sociales s’élèvent à plus de 600 milliards et représentent 25 % du PIB, l’Ondam a augmenté de presque 60 milliards ces cinq dernières années par rapport aux 20 milliards de la période 2012-2017 : on ne peut pas parler d’austérité.\nPlusieurs collègues ont souligné qu’il fallait supprimer l’article 1er en raison des difficultés d’accès aux soins. Ce dernier repose sur trois facteurs : l’attractivité, l’investissement et le nombre de médecins. Les PLFSS des dernières années ont augmenté les rémunérations des professionnels de santé de 12 milliards par an tandis que le Ségur de la santé lançait un plan de 19 milliards d’investissements. Quant au manque de médecins, le problème ne se résout pas avec de l’argent, contrairement à ce que nous avons entendu dire et que nous entendrons répéter à chaque article. Lorsque nous sommes arrivés au pouvoir en 2017, nous avons supprimé le numerus clausus. (Applaudissements sur quelques bancs du groupe EPR. – Exclamations sur divers bancs.) L’augmentation de leur nombre est amorcée ; elle est certes encore insuffisante mais cessez de dire qu’elle doit passer par une augmentation des dépenses. Ce n’est pas ainsi que cela marche : il faut une dizaine d’années pour former un médecin. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix les amendements identiques nos 2, 931, 1791."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        285\n        Nombre de suffrages exprimés                211\n        Majorité absolue                        106\n                Pour l’adoption                120\n                Contre                91"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 2, 931, et 1791 sont adoptés ; en conséquence, l’article 1er est supprimé et l’amendement no 1252 tombe.)\n(Applaudissements sur les bancs des groupes LFI-NFP et EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539078",
+      "valeurPtsOdj": "1",
+      "titre": "Article 2",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "L’article 2 rectifie le montant de l’Ondam pour l’année 2024. Revenons un peu en arrière. À chaque fois que nous avons débuté l’examen d’un PLFSS, nous vous avons alertés sur la sous-estimation de l’Ondam. En 2023, l’objectif était sous-estimé de 1 milliard, insuffisant pour couvrir les besoins liés à l’inflation. Cela a été de nouveau le cas en 2024, comme le montre le travail mené par la Fédération hospitalière de France (FHF). Lorsque vous siégez dans des conseils de surveillance, vous constatez l’effet de l’inflation sur le fonctionnement des établissements hospitaliers.\nMais une autre raison explique que l’Ondam doive être rectifié. En mai dernier, les cliniques privées ont menacé de se mettre en grève ; le Gouvernement a très vite répondu à leurs revendications, notamment en supprimant la décote tarifaire qui compensait le fait que les établissements publics ne pouvaient bénéficier ni du fameux crédit d’impôt pour la compétitivité et l’emploi (CICE) ni des exonérations de cotisations. Vous avez financé cette suppression sur l’enveloppe du sous-objectif des établissements de santé, rognant ainsi sur les dotations disponibles pour les établissements publics. C’est pourquoi il faut corriger votre estimation du sous-objectif des établissements de santé en 2024, de 1,2 milliard d’euros en année pleine, soit 600 millions pour un semestre. Même si Frédéric Valletoux n’aime pas quand je le dis en ces termes – puisqu’il était alors ministre de la santé –, ce sont bien 600 millions qui ont été prélevés sur l’ensemble de l’Ondam pour compenser la suppression de cette décote tarifaire."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "On peut contester les conclusions de la Cour de comptes, pas le sérieux du travail des personnels d’une institution importante dans une démocratie. S’agissant de l’Ondam, il nous manque la réponse à ces questions : voulez-vous développer prioritairement le privé – le libéral – ou le public ? Quel rôle dans le système de soins, notamment dans l’accès aux soins, voulez-vous voir jouer à l’hôpital public ? Le secteur libéral se développe à la faveur de l’engorgement organisé de l’hôpital public. Car c’est bien sur ce dernier que repose intégralement la permanence des soins, fait qui explique majoritairement son peu d’attractivité.\nVous n’avez pas non plus tranché la question des obligations de service public auxquelles sont soumis les cliniques privées et les médecins libéraux. Ces réponses nous manquent pour poursuivre la discussion de l’article 2, car tant que nous ne connaîtrons pas votre stratégie en la matière, nous n’accepterons pas les chiffres communiqués : ce que vous qualifiez de rééquilibrage à l’intérieur de l’Ondam dissimule un rabotage de l’ensemble des lignes budgétaires. (Applaudissements sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Joëlle Mélin."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "L’article 2, dont les dispositions sont prévues par la loi organique, offre l’occasion de parler de l’Ondam, qui a 20 ans cette année. Baguette magique censée assurer la maîtrise médicalisée des soins, il est surtout devenu un outil complètement obsolète. L’Ondam et tous ses sous-objectifs n’ont plus qu’un rôle psychologique, celui de maintenir un licol bien serré sur la totalité des acteurs de santé. Ceux-ci s’échinent à fournir des soins de qualité mais sont bridés par cet outil qui n’a pas plus de sens que la maîtrise médicalisée, laquelle a presque 30 ans et n’a jamais été utilisée à bon escient.\nAlors que tous les professionnels de santé, à quelques exceptions près, font tout ce qu’ils peuvent pour réaliser la juste prescription et sont conscients des efforts à fournir, et que les négociations conventionnelles permettent de justes négociations, il est tout à fait inadmissible de conserver un outil totalement inefficient. Nous serons donc ravis de pouvoir le supprimer. (Applaudissements sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Élise Leboucher."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Nous revivons chaque année le même débat : le Gouvernement présente un Ondam sous-dimensionné ; nous relayons la parole des soignants qui appellent à donner à notre système de soins et de protection sociale les moyens nécessaires ; le Gouvernement refuse de l’entendre, impose un Ondam insuffisant puis prévoit des rallonges elles-mêmes insuffisantes.\nAlors même que les difficultés relatives au covid et à la dette sanitaire n’étaient pas résorbées et que les établissements de santé et médico-sociaux étaient frappés de plein fouet par la crise inflationniste, les PLFSS pour les années 2023 et 2024 ont organisé le tour de vis imposé à l’hôpital.\nLe déficit des hôpitaux publics pourrait franchir la barre des 2 milliards en 2024 et 84 % des Ehpad publics sont déficitaires. Face à ce constat, l’Ondam 2024 rectifié présente une hausse en trompe-l’œil, à laquelle il faut retrancher l’inflation que la Banque de France estime à 2,5 % pour 2024. Cette hausse insuffisante démontre d’ailleurs les choix politiques du Gouvernement : pendant que les dépenses en soins de ville augmentent, tirées par les honoraires des médecins spécialistes, le sous-objectif hospitalier fait l’objet d’une coupe de 100 millions d’euros, alors même que FHF estime le besoin de financement supplémentaire à 2,4 milliards, dont 1,8 milliard pour la seule compensation de l’inflation. Le budget des Ehpad et des services de soutien à la perte d’autonomie se voit aussi retrancher 200 millions. Notre système de santé et de protection sociale souffre des politiques austéritaires que vous lui imposez. L’Ondam rectifié pour 2024 n’est pas à la hauteur, c’est pourquoi nous appelons à voter les amendements de suppression. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Karine Lebon."
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "L’Ondam pour 2025 va donc faire l’objet du même débat. Rappelez-vous : lors de l’examen de la dernière loi de financement de la sécurité sociale, nous avions lancé de nombreuses alertes à propos de l’insuffisance de l’Ondam et de ses sous-objectifs. Celui-ci a quelque chose d’infernal : chaque année, vous le sous-évaluez puis vous le corrigez un petit peu, mais toujours très en deçà des besoins. Dans le même temps, les ressources de la sécurité sociale sont asséchées et le Gouvernement fait semblant de s’étonner du creusement du déficit.\nPrenez la mesure de la situation dramatique dans laquelle notre système de soins est désormais plongé ! Un déficit des hôpitaux de plus de 1,7 milliard d’euros pour 2023 et estimé à plus de 2 milliards pour 2024 ; 85 % des Ehpad publics déficitaires, avec un déficit cumulé estimé à 1,3 milliard. Les personnels soignants et non soignants sont exsangues et la prise en charge sociale et médicale se détériore : quatre malades chroniques ou concernés par un handicap physique sur dix considèrent que leur prise en charge médicale s’est détériorée depuis le covid."
+        },
+        {
+          "orateur": "M. Charles Fournier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793980",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "Les renoncements aux soins vont croissant : plus de six Français sur dix ont déjà renoncé à au moins un acte de soin au cours des cinq dernières années.\nSelon l’exposé des motifs de l’article 2, la rectification de l’Ondam de plus de 1,2 milliard d’euros intègre « principalement une dynamique particulièrement importante sur les dépenses de soins de ville, notamment sur les indemnités journalières et les honoraires des médecins spécialistes ». Une fois de plus, le Gouvernement a l’intention de s’en prendre aux arrêts de travail pour maladie. Étonnamment, je ne l’ai pas entendu dire un mot sur les dépassements d’honoraires des spécialistes. Pourtant, selon les spécialités, les honoraires pratiqués pour une consultation sont jusqu’à 2,5 fois plus onéreux d’un département à l’autre.\nS’agissant des hôpitaux, la FHF demande une revalorisation de l’Ondam hospitalier d’au moins 1,8 milliard pour couvrir les seuls surcoûts liés à l’inflation. Et je ne parle même pas du coefficient géographique, notamment dans les outre-mer ! (Applaudissements sur plusieurs bancs des groupes GDR et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Monsieur le rapporteur général, la lecture de votre rapport est très intéressante : le dépassement de l’Ondam de 2,7 milliards est lié pour moitié à des mesures de revalorisation des gardes de nuit et de week-end. Qui s’oppose ici à ces revalorisations ?"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "On n’est pas contre, mais financez-les !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Personne, tant mieux ! C’est l’objet de la rectification de l’Ondam et personne n’en parle ! On est très heureux de rectifier l’Ondam pour revaloriser la rémunération des métiers de la première ligne de santé. (Applaudissements sur plusieurs bancs des groupes DR et HOR. – Mme Danielle Brulebois applaudit également.) Mais à vous entendre, au Nouveau Front populaire, la médecine libérale serait à bannir !"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "On n’a jamais dit ça !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Comment inciter des jeunes à s’installer comme médecins dans nos territoires, sinon par la revalorisation ? C’est un véritable défi ! (Exclamations sur quelques bancs des groupes LFI-NFP, SOC, EcoS et GDR.) J’ai entendu Mme Rousseau parler de la médecine libérale, je vous écoute, chers collègues ! Comme s’il fallait opposer public et privé !"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "C’est vrai, vous l’avez dit !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Concilions et conjuguons les deux secteurs car nous manquons de professionnels ! Ils participent tous deux à la mission de service public de la santé et la permanence des soins n’est pas le monopole des acteurs publics. Dans nos territoires ruraux, des professionnels de santé et des cliniques participent à la permanence des soins ; dans certains hôpitaux de proximité, l’imagerie n’est parfois assurée que par des acteurs privés et nous en sommes très heureux !"
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Non, non !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Dans des centres hospitaliers régionaux universitaires (CHRU), des acteurs privés gèrent parfois totalement la permanence des soins, et heureusement !"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "On ne peut pas s’en satisfaire !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Mais c’est une réalité ! Je vais peut-être vous surprendre : on n’arrête pas de taper sur les spécialistes, mais certains d’entre eux sont en secteur 1 et font un travail remarquable ! Arrêtez de jeter l’opprobre sur le secteur privé ; il participe à la mission de service public de santé dans nos territoires, nous devons le défendre. (Applaudissements sur plusieurs bancs des groupes DR, EPR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Comme chaque année, on s’émeut de la rectification de l’Ondam. Certes, beaucoup considèrent que l’Ondam n’est pas l’outil le mieux adapté, compte tenu des évolutions récentes – à cet égard, la ministre de la santé a annoncé des réformes structurelles. On peut aussi considérer que les prévisions étaient insuffisantes, mais soyons raisonnables. Si nous ne pouvions pas rectifier l’Ondam, cela voudrait dire qu’il constitue une enveloppe rigide. Nous serions dès lors incapables de faire face à de nouveaux besoins ou à de nouvelles attentes apparus en cours d’année. Réjouissons-nous donc de pouvoir le faire ! Comme toujours avec certains, 1,2 milliard supplémentaire, c’est insuffisant, mais ça n’est pas rien ! (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Cyrille Isaac-Sibille."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Vous parlez beaucoup de la santé de nos comptes sociaux, j’aimerais pour ma part vous parler de la santé des Français, qui vont mal. Pourquoi l’Ondam augmente-t-il ? En 1981, 3 millions de Français étaient concernés par une affection de longue durée. Aujourd’hui, ils sont 13 millions. Le meilleur des objectifs serait l’absence de dépense de soins ! Or notre système fabrique des soins. L’Ondam intègre des dépenses de soins de ville, de l’hôpital, du fonds d’intervention régional (FIR), mais aucun sous-objectif ne concerne les dépenses de prévention. Avant de songer à la santé de notre assurance maladie, pensons d’abord à la santé des Français, qui ne cesse de se dégrader. (Applaudissements sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Laurent Panifous."
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Ignorant le sort qui sera réservé à cet article,…"
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "La suppression !"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "…je voudrais simplement dire un mot pour défendre les hôpitaux, les établissements médico-sociaux et les structures qui accueillent les personnes en situation de handicap. Je m’inscris en faux contre l’idée selon laquelle nous ne pourrions pas modifier les chiffres de l’Ondam avant la fin de l’année. Au contraire, il serait de bonne gestion de dire la réalité du déficit structurel des établissements et donc de modifier l’Ondam. Il serait juste d’affirmer que l’Ondam inscrit dans le PLFSS n’est pas réaliste car il ne tient pas compte des déficits structurels chroniques, dus notamment à l’inflation de ces dernières années – même si elle a baissé en 2024 – qui pèse sur les budgets des établissements. C’est pourquoi nous espérons pouvoir défendre nos amendements dans les minutes qui viennent."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur les amendements identiques nos 3, 583 et 986, je suis saisi par le groupe La France insoumise - Nouveau Front Populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je suis saisi de trois amendements, nos 3, 383 et 986, tendant à supprimer l’article 2.\nLa parole est à M. Arthur Delaporte, pour soutenir l’amendement no 3."
+        },
+        {
+          "orateur": "M. Arthur Delaporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793394",
+          "texte": "Nous sommes prêts à retirer cet amendement de suppression à deux conditions, monsieur le ministre.\nLa première est que vous vous engagiez à approuver l’amendement no 191 de M. Guedj et à lever le gage. Cet amendement vise à exaucer la demande de la FHF, qui a besoin de 2,4 milliards d’euros pour finir l’année. C’est simple, les directeurs d’hôpital que j’ai rencontrés dans ma circonscription m’ont indiqué qu’ils ne savaient pas comment ils assureraient les soins jusqu’à la fin de l’année avec l’Ondam actuel. L’hôpital de Montreuil risque de ne pas pouvoir verser les salaires des soignants. Entendez donc le cri des personnels des hôpitaux qui vous demandent 2,4 milliards ; si vous vous y engagez, nous pourrons avancer.\nNous vous demandons aussi de soutenir l’amendement no 208 de M. Saint-Pasteur, qui vise à intégrer à l’Ondam les effets de l’extension du Ségur à l’ensemble du secteur médico-social. Cette mesure n’est pas financée. Ainsi, les représentants du centre d’information sur les droits des femmes et des familles (CIDFF) reçus à l’Assemblée nationale la semaine dernière nous ont dit qu’il sera difficile d’accompagner les femmes victimes de violences conjugales s’ils doivent appliquer la revalorisation du Ségur à tous les personnels, sans aucune compensation.\nEngagez-vous à compenser les effets du Ségur et à aider les hôpitaux à terminer l’année, et nous retirerons notre amendement de suppression. (Applaudissements sur les bancs du groupe SOC. – Mme Sandra Regol applaudit également.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539308",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Sébastien Peytavie, pour soutenir l’amendement no 583."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "La rectification de l’Ondam proposée par le Gouvernement est à l’image du rafistolage budgétaire permanent qui abîme notre sécurité sociale au quotidien. Nous nous interrogeons sur la sincérité même des chiffres qui nous sont présentés. De PLFSS en PLFSS, l’Ondam ne cesse d’être rectifié en raison de sa surexécution. À titre d’exemple, l’Ondam soins de ville pour 2024, fixé à 108,4 milliards d’euros dans la LFSS initiale, est ici porté à 109,5 milliards, soit un delta de 1,1 milliard. Ce différentiel de 1,1 milliard, c’est de l’argent qui a manqué au système de soins.\nAu-delà de cette insincérité manifeste, le financement de l’Ondam et des sous-objectifs soins est loin d’être à la hauteur des besoins du système de santé. Selon la FHF, la non-compensation de l’inflation se chiffre à 1,3 milliard d’euros, ce qui représente 20 000 équivalents temps plein (ETP) infirmiers. Elle ampute sévèrement la capacité de fonctionnement et d’investissement des établissements. Le secteur médico-social n’est pas en reste, alors que 85 % des Ehpad ont enregistré un résultat déficitaire pour l’exercice 2023.\nLes besoins sont là, nous les connaissons. Alors que l’Ondam rectifié est fixé à 256 milliards, la FHF nous prévient qu’il manque encore 4 milliards, ne serait-ce que pour sortir la tête de l’eau. Le groupe Écologiste et social ne donnera jamais quitus à un PLFSS dont la trajectoire d’austérité repose sur 15 milliards d’euros d’économies.\nNous ne pouvons revenir à une sécurité sociale protectrice sans penser l’interdépendance entre la santé humaine et la santé des écosystèmes. L’augmentation des cas de maladie chronique est directement liée aux facteurs environnementaux ainsi qu’à nos modes de vie. Les symptômes sont connus : problèmes respiratoires dus à la pollution de l’air, maladies liées aux perturbateurs endocriniens, exposition aux pesticides. Il nous faut davantage de moyens. (Applaudissements sur plusieurs bancs du groupe EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539313",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Hadrien Clouet, pour soutenir l’amendement no 986."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Pour les spectateurs étrangers à notre assemblée, rappelons l’absurdité de la discussion. Nous parlons d’un objectif national de dépenses de santé ; en d’autres termes, nous décidons d’abord de la somme d’argent que nous mettons dans la caisse, avant de nous demander comment le dépenser pour soigner les gens. La logique politique exigerait l’inverse : il faudrait partir des besoins de la population en matière de santé, puis se demander comment remplir la caisse pour y subvenir. (M. Maxime Laisney applaudit.)\nQuelle que soit la logique retenue, le budget que vous nous présentez est de toute façon déplorable. Les dépenses progressent de 0,5 % par rapport aux prévisions du début d’année, alors que l’inflation s’élève à 2,5 %. La différence entre 2,5 % et 0,5 %, c’est 2 % ! Le budget a très légèrement augmenté tandis que les coûts et les charges – matériel, équipement, logistique, médicaments etc. – pesant sur le système de santé progressaient bien plus vite.\nTout en demandant la suppression de l’article 2, je signale notre étonnement face à l’attitude des députés du Rassemblement national, qui n’ont pas déposé un seul amendement sur cet article qui en a suscité des dizaines. Pourtant, la circonscription de Mme Le Pen inclut l’Ehpad des Orchidées, à Carvin, dont le personnel s’est mis en grève en février pour dénoncer le non-remplacement des départs et le vieillissement du matériel ; je pense que ces gens aimeraient voir leur députée déposer des amendements ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Monsieur Chenu, les soignants du centre hospitalier de Denain, dans votre circonscription, se mettent régulièrement en grève pour demander la titularisation des personnels précaires ; ils auraient sans doute apprécié que vous interveniez sur l’Ondam !"
+        },
+        {
+          "orateur": "M. Sébastien Chenu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Occupez-vous du CHU de Toulouse !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Bref, la suppression de cet article est nécessaire, car les moyens ne sont pas au rendez-vous. Évaluons d’abord les besoins avant de nous poser la question des ressources et des recettes ; c’est ainsi que nous pourrons damer le pion à Bercy. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je répète que la suppression de cet article rendrait le projet de loi inconstitutionnel. Plus généralement, nous serons bientôt en novembre ; le temps que le texte soit examiné au Sénat, revienne à l’Assemblée nationale et soit adopté, l’année sera presque finie. Par conséquent, même si je partage votre diagnostic quant à l’insincérité de l’Ondam initial pour 2024, même s’il manque plusieurs milliards d’euros, je ne pense pas qu’un vote visant à modifier l’article pourra rectifier à temps le financement des différentes structures.\nMme Rousseau a opposé le public et le privé. Malheureusement, la situation est presque aussi grave dans un cas que dans l’autre. Le déficit est de l’ordre de 40 ou 50 % dans les structures privées et a dépassé les 50 % dans les structures publiques. Je vous appelle donc tous à la vigilance sur ce point : ne reproduisons pas les erreurs des PLFSS 2023 et 2024. J’estime important de rejeter l’Ondam 2025, comme nous l’avons fait massivement en commission, tant que les 1,1 milliard d’euros de cotisations supplémentaires à la CNRACL ne seront pas neutralisés.\nMalgré nos divergences politiques, nous sommes d’accord pour conclure à l’insincérité de l’Ondam pour 2024. Cependant, il me semble qu’il faut maintenir l’article 2 pour objectiver cette insincérité budgétaire. Battons-nous ensemble, avec le Gouvernement,…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Contre le Gouvernement !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "…pour trouver les 1,1 milliard d’euros manquants. Nous éviterons ainsi de plonger dans des difficultés plus grandes encore non seulement les hôpitaux, mais aussi les cliniques privées et les centres de lutte contre le cancer. Arrêtons d’opposer le public et le privé, sinon nous finirons par opposer l’Ondam hospitalier et l’Ondam médico-social, l’Ondam médico-social et l’Ondam soins de ville, et ainsi de suite.\nLe texte démontre simplement que ce système budgétaire est en bout de course. M. le ministre doit comprendre que nous n’en voulons plus. Plutôt qu’un texte budgétaire, nous voulons des réformes structurelles qui passent par une vraie loi pluriannuelle consacrée à la santé. Si vous vous engagez à proposer une telle loi de programmation, monsieur le ministre, nous aurons fait un grand pas."
+        },
+        {
+          "orateur": "M. Jean-Yves Bony",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266793",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "La commission s’est prononcée en faveur des amendements de suppression. Son avis est réputé défavorable puisqu’elle a rejeté le PLFSS dans son ensemble, mais elle a adopté ces amendements. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Je tiens à dénoncer la malhonnêteté intellectuelle de Jérôme Guedj. (Exclamations sur plusieurs bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "C’est une attaque personnelle !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Attendez donc mon explication pour en juger ! Il essaie de faire croire que l’Ondam et les comptes de 2024 sont insincères en raison d’un prétendu cadeau que j’aurais fait au secteur privé pendant les quelques mois où je fus ministre. Je souhaite donc rappeler plusieurs choses.\nPremièrement, le conflit avec le secteur privé a démarré lorsque j’ai pris la décision, en accord avec le gouvernement de l’époque et avec la ministre Catherine Vautrin, d’augmenter les tarifs hospitaliers de 4,3 % en 2024 et les tarifs des cliniques de 0,3 %. Cette prétendue différence de traitement – pourtant tout à fait justifiée, mais ce n’est pas le sujet – en faveur des établissements publics a mené les cliniques à appeler à la grève en juin. Finalement, nous avons pu prévenir le conflit en menant des discussions et en parvenant à un protocole d’accord.\nCe protocole comportait quelques mesures pour garantir à l’avenir l’équité de traitement des deux secteurs. Il ne s’agissait pas de revenir sur les décisions déjà actées, aussi le taux d’augmentation des tarifs n’a-t-il pas évolué. Nous avons par exemple accordé 80 millions d’euros aux cliniques pour financer les gardes de nuit et de week-end, reproduisant en cela la mesure dont le gouvernement de Mme Borne – le ministre de la santé était alors M. Rousseau – avait fait bénéficier les hôpitaux publics et les hôpitaux privés à but non lucratif à partir du 1er septembre 2023. Nous avons financé cette somme pour les cliniques privées en prenant 80 millions d’euros sur les réserves prudentielles de l’Ondam – fixé, je le rappelle, à 262 milliards.\nLe protocole visait également la suppression de la minoration des tarifs du privé, car celle-ci avait déjà été accordée aux établissements privés à but non lucratif par M. Rousseau en septembre 2023. Je rappelle d’ailleurs que cette minoration existait pour compenser l’effet du CICE, créé sous M. Hollande."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "J’étais contre !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Certains étaient pour, certains étaient contre."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il y avait des frondeurs, à l’époque !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Il n’en reste pas moins que le CICE a entraîné des effets qu’il était nécessaire de corriger. Nous avons donc supprimé la minoration des tarifs du privé, car ce secteur avait été oublié par le gouvernement précédent.\nLe protocole d’accord comprenait encore la promesse d’un protocole de financement pluriannuel pour les hôpitaux. J’espère que le gouvernement actuel reprendra ce principe, car je crois que le rapporteur général et l’ensemble des groupes appellent de leurs vœux une telle démarche, qui donnerait des perspectives d’avenir et de la visibilité aux acteurs.\nEnfin, par cet accord, le gouvernement dont je faisais partie s’était engagé à faire la transparence sur l’attribution des FIR, dont le privé se plaignait qu’ils n’étaient jamais accordés qu’aux établissements publics. Nous avions promis la transparence, au nom de l’équité.\nVoilà ce que contenait l’accord, pas un euro de plus. Prétendre que j’aurais donné en douce au secteur privé 600 millions d’euros prélevés sur le financement du public – moi qu’on a tant accusé d’avoir favorisé, au contraire, le public ! –, c’est une escroquerie intellectuelle majeure. Nous avons d’ailleurs déjà échangé à ce sujet, monsieur Guedj, mais vous ne résistez pas à en parler en séance avec force effets de manche. Je m’inscris donc en faux contre vos propos mensongers. Aucun euro dans cet accord n’a été pris au public pour être donné au privé, et vous le savez très bien. (Applaudissements sur plusieurs bancs des groupes HOR et EPR.)"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Et l’article 2, alors ?"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Si nous continuons à opposer un secteur à un autre, nous n’arriverons jamais à sortir des crises dont nous sommes en train de débattre. Nous avons besoin de faire travailler tous les acteurs ensemble ! Opposer le public et le privé, c’est faire exactement le contraire, et ce n’est pas du tout la philosophie de l’accord que nous avons conclu en juin."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis du Gouvernement sur les amendements de suppression ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "À plusieurs reprises, j’ai entendu le terme d’insincérité. Il faut être précis : l’insincérité budgétaire, c’est la volonté délibérée de fausser les lignes d’équilibre d’une loi de finances."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Oui, c’est bien cela !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Je vous invite à rectifier vos propos : corriger l’Ondam pour accorder des crédits supplémentaires nécessaires aux soins de ville ou à l’hôpital, ce n’est pas de l’insincérité. Les mots ont un sens. Il est crucial qu’une correction de l’Ondam ne déclenche pas de procès en insincérité à l’Assemblée nationale.\nL’Ondam, ce n’est pas l’orientation naturelle des dépenses de l’assurance maladie…"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Joli !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "…c’est l’objectif à atteindre. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Il peut donner lieu à des corrections, qui sont assumées – il faut juste savoir les expliquer. En l’espèce, l’Ondam a effectivement été modifié par rapport à la loi de financement initiale et sa progression a été fixée à 3,3 %, pour des raisons que, je crois, tout le monde ici comprend. Le détail en est fourni dans l’exposé des motifs. Il s’agit de dépenses nécessaires : dynamique des dépenses des soins en ville et à l’hôpital, campagne de vaccination au Beyfortus – je crois que nous étions tous ravis d’en disposer pour protéger les nourrissons de la bronchiolite et éviter par le même coup la saturation des urgences –, etc.\nD’où le correctif apporté. Il s’agit – passez-moi l’expression – d’une bonne correction ; il ne s’agit pas de mauvaise gestion, et encore moins d’insincérité. C’est pourquoi j’émets un avis défavorable sur ces amendements de suppression. On se trompe de combat. Que les orientations que nous préconisons les uns et les autres pour 2025 divergent, très bien, mais que vous soyez contre la rectification, pour les motifs que je viens d’exposer, du montant de l’Ondam, je pense que c’est contraire même à vos projets politiques et à votre souhait d’augmenter la dépense de santé – ce que prévoit précisément l’article 2. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Je suis saisi de nombreuses demandes de prise de parole. Certains d’entre vous ayant été, non pas mis en cause, mais cités dans le débat, je comprends qu’ils veuillent intervenir, mais je vous informe que je n’accepterai que trois orateurs pour, trois contre ; il me semble que ce sera suffisant. Je vous demanderai en outre de faire bref.\nLa parole est à M. Nicolas Turquois."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Il est vingt-trois heures trente. Voilà deux heures que l’on écoute de belles figures de style, après en avoir entendu d’autres, cet après-midi, à l’occasion de la défense de la fausse vraie – ou vraie fausse – motion de rejet préalable. (Applaudissements sur quelques bancs du groupe EPR.) On discute entre personnes de bonne compagnie, on s’écoute parler, on évoque un peu tous les sujets, on liste tout ce qui ne va pas… Mais concrètement, quand est-ce qu’on avance ? Quand allons-nous essayer de résoudre les difficultés de l’hôpital public, d’améliorer les petites retraites agricoles, de remédier à la désertification médicale ?"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "C’est précisément ce que nous étions en train de faire !"
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Nous parlons dans le vide ! (Mêmes mouvements.)\nComme dans tout exercice budgétaire, que ce soit dans une entreprise, un foyer ou une association, il faut partir de prévisions. Si l’on se contente de les supprimer, qu’on ne peut plus s’appuyer sur un quelconque constat, on ne peut rien faire de concret ! Pourrions-nous donc avancer et passer à l’examen des articles qui visent à améliorer la situation des Français ? (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Damien Maudet."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "« On a arrêté de redouter l’hiver : désormais, on se trouve dans une situation dégradée toute l’année. Les services de réanimation sont saturés quotidiennement. Je dois refuser des patients. » Voilà ce qu’on entend à l’hôpital Necker.\nMonsieur Turquois, que vous le vouliez ou non, cette situation est de votre faute ! (« Eh oui ! » et applaudissements sur quelques bancs du groupe LFI-NFP.) Voilà sept ans que vous êtes au pouvoir et jamais la situation n’a été aussi dégradée."
+        },
+        {
+          "orateur": "M. Jean-Yves Bony",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266793",
+          "texte": "Elle l’était déjà avant…"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "L’an dernier, vous avez fait voter – ou plutôt fait adopter par 49.3 – un budget qui avait été dénoncé par les fédérations hospitalières, par les syndicats et même par le conseil d’administration de la Caisse nationale d’assurance maladie (Cnam). Vous revenez aujourd’hui devant nous avec un budget rectificatif qui est toujours aussi insuffisant. Mais de qui vous moquez-vous ? Croyez-vous vraiment que nous n’allons pas supprimer cet article ?\nVous nous demandez ce que nous avons concrètement fait pour améliorer la situation de l’hôpital. (« Rien ! » sur les bancs du groupe DR.) Je vous renvoie la question : que faites-vous depuis sept ans ? (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Jean-Yves Bony",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266793",
+          "texte": "Et vous, qu’avez-vous fait avant ? Posez la question à M. Hollande !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "On se trouve dans une situation qui n’a jamais été vue. Vous évoquiez le numerus clausus et les déserts médicaux : on va former aujourd’hui autant de médecins que dans les années 1970 alors qu’il y a 15 millions d’habitants de plus !\nNous perdons du temps avec ces histoires. Investissez pour l’hôpital, investissez pour la santé, écoutez les fédérations hospitalières qui vous demandent de l’argent ! Les Français en ont besoin. (Applaudissements sur les bancs du groupe LFI-NFP, ainsi que sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Je voudrais m’adresser avec beaucoup de respect à M. le président de la commission des affaires sociales.\nMonsieur Valletoux, vous avez parlé de malhonnêteté intellectuelle et d’escroquerie. Ce sont des mots durs. Néanmoins, je ne les prends pas pour moi ; je les prends pour la FHF, qui a déployé devant les parlementaires l’argumentaire que je vous ai présenté. Je ne suis pas certain que M. Robinet apprécie – pas plus que l’ensemble des collaborateurs de la FHF.\nCet argumentaire, nous le faisons nôtre, parce que nous sommes convaincus qu’il n’y a pas eu en effet de prise en considération des conséquences de cette mesure. Je ne conteste pas la mesure elle-même, je souligne le fait qu’avec une enveloppe fermée, elle a forcément des conséquences sur le budget de l’hôpital public. Je vous trouve très dur envers la fédération que vous avez présidée par le passé.\nQuant à vous, monsieur le ministre, vous n’avez pas répondu à la proposition que vous a faite mon collègue Delaporte. Vous savez, nous n’avons pas envie de supprimer par principe un à un les articles de ce PLFSS. (Vives exclamations sur les bancs du groupe EPR et DR. – M. Éric Bothorel mime un joueur de pipeau, d’autres députés du groupe EPR un joueur de violon.)\nMonsieur le président, puis-je poursuivre ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Chers collègues, laissez l’orateur s’exprimer."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Nous nous trouvons là au cœur du problème de méthode. Nous vous proposons de retirer notre amendement de suppression pour pouvoir débattre et modifier le texte – tel sera, comme je l’ai expliqué en soutenant la motion de rejet préalable, le sens de notre démarche tout au long de l’examen de ce PLFSS – et vous faites comme si nous n’avions rien dit ! Je le répète, nous avons des contre-propositions, nous souhaitons tracer une autre voie. (Exclamations sur les bancs du groupe EPR.) Si, chers collègues ! Lisez nos amendements !\nArthur Delaporte a posé une question à M. le ministre, qui n’a même pas daigné lui répondre, de même qu’il n’a pas répondu aux propositions que j’ai faites dans la motion de rejet. Il y a un réel problème de méthode. Vous nous reprochez de déposer une motion de rejet préalable et des amendements de suppression, en nous accusant de ne pas vouloir débattre, mais quand nous retirons la motion et que nous vous proposons d’amender le texte, vous ne nous répondez même pas. (Exclamations sur les bancs du groupe EPR.) Il n’y a nulle part où négocier, ni dans l’hémicycle ni dans les cabinets ministériels ! Comment voulez-vous que nous fassions ? (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Monsieur le ministre, j’assume pour ma part de dire que les budgets du PLFSS sont insincères. Il s’agit d’ailleurs, je le répète, d’une stratégie qui crée du déficit.\nPourquoi sont-ils insincères ? Parce que cela vous permet de contraindre les dépenses et de ne pas avoir à chercher des recettes supplémentaires. Si vous soutenez que votre budget n’est pas insincère, c’est que vous êtes dans une totale ignorance des besoins de santé du pays – ce qui est très grave et inquiétant. (Applaudissements sur les bancs des groupes GDR et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "J’adore quand les socialistes parlent d’austérité ! (Exclamations sur les bancs du groupe SOC.) Dans la discussion générale, j’ai rappelé, monsieur Hollande, l’évolution de l’Ondam lorsque vous étiez aux affaires, entre 2012 et 2017. (M. Jérôme Guedj s’exclame.) Je ne vous ai pas interrompu, cher collègue – et n’essayez pas de passer pour une oie blanche, vous ne l’êtes pas du tout ! (Exclamations sur divers bancs.)\nPendant ces cinq années-là, les dépenses d’assurance maladie ont augmenté de 20 milliards d’euros. Au cours des cinq dernières années, de 2019 à 2024, même en tenant compte de l’inflation, qui a été de 2,7 % par an, nous avons mis plus d’argent que vous dans la santé – ne vous en déplaise. (« Eh oui ! » et applaudissements sur les bancs du groupe EPR. – Exclamations sur les bancs du groupe SOC.)\nIl est vrai qu’en matière d’austérité, vous avez été nos professeurs ! Pour ma part, je n’ai pas oublié la baisse des dotations aux collectivités : 13,5 milliards d’euros en moins entre 2012 et 2017. Alors, les leçons, ça va bien ! (Applaudissements sur les bancs du groupe EPR. – Vives exclamations sur les bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Chers collègues, s’il vous plaît !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "D’autre part, Jérôme Guedj, on ne peut pas déposer une motion de rejet préalable puis la retirer au dernier moment, pas vu pas pris ! Les Français nous regardent : ils savent très bien que si la motion est adoptée, cela met un terme au débat – et c’est ce que vous vouliez initialement, mais vous avez eu peur des conséquences d’une telle situation. (M. Jérôme Guedj s’exclame.) De tout cela, les Français ne veulent plus !\nEnfin, madame Rousseau, il n’y a pas que les médecins du public qui assurent les soins non programmés, les médecins du privé le font eux aussi. Cessez d’opposer public et privé ! (Applaudissements sur les bancs des groupes EPR, DR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Veuillez conclure, cher collègue."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Venez dans mon territoire et vous verrez qui fait les soins non programmés. (Le président coupe le micro de l’orateur, dont le temps de parole est écoulé.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix les amendements identiques nos 3, 583 et 986."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        271\n        Nombre de suffrages exprimés                203\n        Majorité absolue                        102\n                Pour l’adoption                121\n                Contre                82"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 3, 583 et 986 sont adoptés ; en conséquence, l’article 2 est supprimé et les autres amendements s’y rapportant tombent.)\n (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Décidément, c’est ma soirée !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "La poisse ! (Sourires.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539446",
+      "valeurPtsOdj": "1",
+      "titre": "Deuxième partie",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "J’appelle maintenant la deuxième partie du projet de loi, concernant les dispositions relatives à l’année 2025."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539448",
+      "valeurPtsOdj": "1",
+      "titre": "Article 3",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Marine Hamelet."
+        },
+        {
+          "orateur": "Mme Marine Hamelet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795900",
+          "texte": "Ce projet de loi prévoit une réforme des retraites agricoles. Il répond à une revendication ancienne des agriculteurs et de leurs syndicats, visant à ce que les retraites agricoles soient calculées sur la base des vingt-cinq meilleures années de revenus.\nLe gouvernement précédent avait pris l’engagement de prendre des mesures en ce sens l’hiver dernier, à la suite de la grave crise agricole. Comme nombre d’autres promesses faites à nos agriculteurs, cet engagement n’a pas été respecté. (Mme Nadine Lechon applaudit.)\nCette réforme est importante en ce qu’elle corrige deux injustices. La première est inhérente aux particularités de la filière : les résultats et revenus agricoles sont dépendants de facteurs exogènes. Une mauvaise météo, une catastrophe climatique ou encore une épidémie touchant les cheptels, et c’est l’ensemble des efforts d’une année qui sont réduits à néant.\nLa deuxième injustice concerne la situation des agriculteurs par rapport à d’autres catégories socioprofessionnelles. Ainsi, le principe des vingt-cinq meilleures années s’applique déjà aux salariés du privé.\nDans la perspective de cette réforme inscrite à l’article 22 du projet de loi, l’article 3 vise à aligner l’effort contributif des salariés agricoles sur celui des travailleurs indépendants. Le Rassemblement national considère que cette mesure est juste et qu’elle profitera aux agriculteurs. Il est grand temps de donner des signaux positifs à une filière agricole qui souffre et qui est à bout de souffle. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Mathilde Hignet."
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Dix-huit pour cent des agriculteurs et agricultrices vivent sous le seuil de pauvreté, et leur situation ne s’améliore pas à l’heure de la retraite. En 2023, les non-salariés agricoles touchaient en moyenne 1 076 euros de pension, contre 1 531 euros pour la moyenne des retraités.\nSi le calcul de la pension sur la base des vingt-cinq meilleures années est une avancée, elle ne suffira pas à garantir une pension décente à l’ensemble des agriculteurs et agricultrices. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Benjamin Lucas-Lundy applaudit également.) Malgré vos belles phrases dans l’exposé sommaire, l’esprit de la proposition de loi de notre collègue Julien Dive n’est pas respecté."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Incroyable ! LFI cite Julien Dive !"
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Si les cotisations vont bel et bien augmenter en 2026, la réforme n’entrera en vigueur qu’en 2028. L’article 3 montre que ceux dont les cotisations vont augmenter le plus sont ceux qui touchent le moins, et cela alors même qu’ils ne seront pas les principaux bénéficiaires de cette réforme. Les non-salariés agricoles à titre secondaire supporteront 50 % de la hausse des cotisations.\nCe sont les conjoints d’agriculteur – les femmes bien souvent – qui ne pourront bénéficier que du minimum vieillesse à partir de 2028, pour les pensions prenant effet à partir de 2026.\nSi les pensions des non-salariés agricoles sont plus basses que la moyenne, c’est avant tout la conséquence des faibles revenus perçus au cours de leur carrière : que signifient les vingt-cinq meilleures années pour des chefs d’exploitation qui ne peuvent pas se rémunérer au Smic parce qu’ils ne sont pas payés à la hauteur de leur travail ? La question des retraites agricoles ne sera pas résolue tant que les agriculteurs et les agricultrices n’auront pas la garantie de prix rémunérateurs. (Mêmes mouvements.) Lors des mobilisations de janvier, la principale demande des agriculteurs était justement d’être assez rémunérés pour vivre dignement de leur travail, ce dont nous sommes encore bien loin. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Nicolas Turquois."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "L’article 3 met fin à une situation anormale : les règles de calcul des retraites agricoles étaient excessivement complexes, en partie forfaitaires, en partie proportionnelles – sans l’être vraiment. Par ailleurs, les cotisations de certains actifs agricoles étaient si faibles que les droits à pension étaient des plus limités au moment du départ en retraite.\nEnfin, le système était difficilement compatible avec celui du régime général. Or, de nos jours, on n’est pas agriculteur toute sa vie : on peut commencer une carrière dans le monde salarié avant de devenir agriculteur, ou inversement. Malgré les difficultés inhérentes au passage d’un système à l’autre, l’alignement sur les règles du régime général, aussi bien pour le calcul des droits – sur les vingt-cinq meilleures années – que pour l’effort de cotisation – il n’y a pas de retraite miracle sans effort de cotisation –, constitue une évolution satisfaisante, que je salue. (Applaudissements sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Permettez que je dise quelques mots d’un article très attendu, relevant d’un des combats menés au sein de notre groupe, en particulier par notre collègue Julien Dive, pour étendre au calcul des retraites agricoles la règle des vingt-cinq meilleures années.\nLa mesure devait être prise en 2024, elle sera finalement mise en œuvre en 2026. Il s’agit toutefois d’une très bonne nouvelle pour les retraités agricoles, la nouvelle règle de calcul permettant d’écarter les moins bonnes années d’une carrière complète.\nL’alinéa 16 fait état d’une période transitoire, de 2026 à 2028, au cours de laquelle un décret fixera les taux des cotisations de manière à résorber progressivement les écarts. Madame la ministre du travail et de l’emploi, pouvez-vous assurer que la réforme sera bien mise en œuvre dès 2026 et qu’elle ne fera pas de perdants ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’amendement no 2079 de M. le rapporteur général est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2079, accepté par le Gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur l’article 3, je suis saisi par les groupes Ensemble pour la République et Rassemblement national de demandes de scrutin public.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nPeut-être cet article sera-t-il le premier à être adopté sous ma présidence ? (Sourires.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Bonne question !"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Jamais deux sans trois !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539581",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 564 rectifié est adopté.)\n (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Karine Lebon, pour soutenir l’amendement no 564 rectifié."
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "En outre-mer, les cotisations et contributions sociales sont assises sur la superficie de l’exploitation. Alors que la loi de finances de la sécurité sociale de 2024 ne comporte pas de dispositions applicables aux non-salariés agricoles des départements et régions d’outre-mer, le Gouvernement souhaite maintenant aligner l’assiette sociale sur celles des travailleurs indépendants de l’Hexagone, ce qui devrait aboutir à une augmentation du montant de leurs prélèvements sociaux.\nLe rapport sénatorial sur le PLFSS pour 2024 estimait ainsi qu’« à défaut d’évaluation préalable des conséquences de la réforme de l’assiette sociale des indépendants, la commission ne dispose pas d’une visibilité précise sur les conséquences induites par celle-ci sur le circuit déclaratif applicable à ces travailleurs, dont la refonte devrait appeler des ajustements du droit d’une particulière technicité. »\nIl en va de même de l’harmonisation des assiettes applicables aux travailleurs indépendants agricoles de l’Hexagone et d’outre-mer : fondée sur le principe d’égalité, elle est toutefois susceptible de pénaliser nos compatriotes ultramarins, faute d’adaptations déterminées avec précision et propres à garantir l’acceptabilité de la réforme.\nLes ordonnances n’ayant toujours pas été prises, et face à l’inquiétude des chefs d’exploitation ultramarins, cet amendement vise à rendre inapplicable la réforme de l’assiette sociale aux travailleurs indépendants agricoles des pays d’outre-mer. C’est une demande émanant du terrain que j’ai l’honneur de vous présenter. (Applaudissements sur plusieurs bancs des groupes GDR et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Pour le moment, cette réforme ne s’applique nulle part, ni en outre-mer ni sur le territoire métropolitain. Un délai d’application est par ailleurs prévu : prolongé à dix-huit mois, il doit permettre au Gouvernement de mesurer l’impact de la réforme. L’amendement étant satisfait, j’en demande le retrait ; à défaut, j’émettrai un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme la ministre du travail et de l’emploi pour donner l’avis du Gouvernement."
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre du travail et de l’emploi",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Merci, monsieur le président – et bonne chance pour votre première présidence !\nL’amendement vise à rendre inapplicable la réforme de l’assiette sociale aux non-salariés agricoles exerçant leur activité en Guadeloupe, Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin.\nComme vous l’avez rappelé, l’article 26 de la LFSS 2024 permet au Gouvernement de légiférer par voie d’ordonnance afin d’aligner l’assiette sociale des 19 000 non-salariés agricoles ultramarins sur l’assiette applicable en métropole.\nLa réforme que nous proposons mettra fin au système actuel de calcul des cotisations sociales en fonction de la superficie pondérée de l’exploitation et permettra d’introduire une proportionnalité entre les revenus professionnels, les prélèvements sociaux et les droits à retraite acquis par ces assurés. Visant à calculer la retraite de base des non-salariés agricoles en fonction des vingt-cinq meilleures années de revenu, la réforme prévue à l’article 22 du présent PLFSS ne pourra, par définition, être appliquée dans les territoires ultramarins tant que les cotisations n’y seront pas calculées sur ces mêmes revenus.\nLe Gouvernement propose, par l’amendement no 2089 portant article additionnel après l’article 5, d’aligner les délais des habilitations prévues pour ces deux réformes afin d’assurer une meilleure articulation entre elles. À cet effet, les deux ordonnances seront prises avant la fin de 2026, en étroite concertation avec les élus et organisations professionnelles des territoires ultramarins.\nAvis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Karine Lebon."
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "C’est exactement ce que les élus des outre-mer reprochent aux gouvernements : la plupart des décisions concernant nos territoires sont prises par voie d’ordonnance. Souvent, d’ailleurs, les projets de loi contiennent un article intitulé « dispositions outre-mer », qui prévoit que le Gouvernement prendra par voie d’ordonnance des dispositions propres aux territoires d’outre-mer.\nJe fais donc onze heures d’avion – 10 000 kilomètres – pour m’entendre dire que, pour mon territoire, on verra plus tard, parce qu’on n’a pas encore mesuré l’impact des dispositions envisagées. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)\nCe discours n’est plus entendable. Le « réflexe outre-mer » devrait être constamment présent. Or il ne l’est jamais ! C’est un vrai problème. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Je souhaite exprimer mon plein soutien à l’amendement de Karine Lebon. Nous voterons en faveur de l’article 3 – c’est bien la preuve que nous participons à l’élaboration de mesures positives. J’observe d’ailleurs que l’article tend à accroître les recettes : si le rendement – quelque 38 millions d’euros –, est faible, cela représente tout de même une augmentation de 190 euros par an pour les exploitants concernés ! Vous semblez ainsi prendre conscience qu’il est parfois nécessaire de relever des cotisations pour financer un dispositif égalitaire. Le raisonnement que vous suivez dans cet article, vous pourriez l’appliquer à d’autres.\nEnfin, je regrette que la main tendue à l’article précédent n’ait pas été saisie : nous n’avons même pas reçu une réponse du ministre nous indiquant ceux de nos amendements qu’il aurait pu soutenir."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Il est parti, l’article !"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Si seulement vous aviez répondu à la proposition de M. Delaporte et pour peu que vous ayez été prêt à donner un avis favorable à nos deux amendements, nous aurions retiré notre amendement de suppression. Nous aurions en effet préféré adopter l’article amendé – c’est la logique que nous vous proposons de suivre depuis le début de la séance. Nous ne pouvons imposer cette coproduction que dans l’hémicycle puisque vous n’avez fait aucune concession à l’extérieur, ni proposé le moindre compromis depuis la réunion de la commission des affaires sociales.\nPermettez que je le dise : il y a un problème. Comment procéderons-nous demain pour l’article 6, qui a été shooté – passez-moi l’expression – par la commission des affaires sociales et pour lequel vous n’êtes pas fichus de nous proposer la moindre solution de substitution ? Nous souhaiterions pourtant pouvoir réformer le système d’exonération de cotisations sociales plutôt que de le voir supprimer par votre propre majorité."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Il faut voter sur cet article pour éviter que je ne rentre bredouille ce soir. Aussi, je ne donnerai la parole qu’à deux orateurs pour et deux orateurs contre.\nLa parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "J’interviens très brièvement pour apporter notre soutien à l’amendement de Mme Lebon : l’exceptionnalité que constitue le fonctionnement par décret pour les territoires ultramarins est inacceptable, surtout sur des questions aussi importantes.\nS’agissant de l’alignement des règles de calcul sur celles du régime général, je vous alerte : une incertitude subsiste quant aux modalités d’application de la réforme, dont il ne faut pas négliger les effets sur la population agricole. Celle-ci a besoin d’informations. Je crains que nous ne mesurions mal les conséquences du flou qui va régner pendant deux ans. (Applaudissements sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "La loi de Julien Dive a été adoptée le 13 février 2023. Depuis cette date, on aurait pu se pencher sur la question des outre-mer ! Adoptée en 2020, la loi qui revalorise les pensions de retraite des agriculteurs – je regarde André Chassaigne – ne fait pas, elle, l’impasse sur les outre-mer : elle comporte des articles spécifiques. Quant à l’article 6 du présent PLFSS, que nous dénonçons, il reconnaît une spécificité aux outre-mer en prévoyant des allègements de charges particuliers.\nIl est urgent de prendre en compte cette spécificité sans renoncer à notre ambition réformatrice ; j’appelle donc le Gouvernement à accélérer le rythme des concertations au cours de ces soixante-dix jours de navette afin que la réforme puisse être opérationnelle dès 2026, dans les outre-mer comme ailleurs."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Philippe Naillet."
+        },
+        {
+          "orateur": "M. Philippe Naillet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643157",
+          "texte": "Je dirai quelques mots pour soutenir l’amendement de ma collègue Karine Lebon. Il faut d’abord rappeler qu’à La Réunion, 42 % des agriculteurs vivent en dessous du seuil de pauvreté, contre 16 % dans l’Hexagone. (Applaudissements sur les bancs du groupe SOC.)\nLa réforme des règles de calcul renvoie à un second enjeu, celui de la souveraineté alimentaire – hors de portée avec un monde agricole affaibli."
+        },
+        {
+          "orateur": "M. Jean-Pierre Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607090",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Philippe Naillet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643157",
+          "texte": "Pour nous, le défi consiste à réduire les importations de produits alimentaires, en particulier d’Europe, car elles sont un des facteurs de la vie chère – problème qui se pose avec acuité dans l’ensemble des territoires ultramarins. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Comme Thibault Bazin, j’apporte mon soutien à l’amendement de Mme Lebon. Je rappelle qu’en 2023, le gouvernement d’Élisabeth Borne avait pris un engagement très ferme : le « réflexe outre-mer » devait s’appliquer dans tous les domaines et en particulier aux sujets agricoles, tant il est vrai que l’agriculture ultramarine n’est pas comparable à celle de l’Hexagone. Vous avez répondu précisément, madame la ministre, mais je vous demande simplement de rassurer les parlementaires : lorsque les ordonnances seront publiées, il faudra que le traitement différencié des outre-mer par rapport à la métropole soit bien visible.\nEnfin, puisque la concorde est au rendez-vous, je pense qu’en votant les propositions de loi défendues par André Chassaigne et Julien Dive, que Nicolas Turquois a évoquées tout à l’heure, nous avons su dépasser nos clivages habituels et apporter des réponses au monde agricole. Les agriculteurs n’attendent pas des mots, ils attendent des faits. Soyons à la hauteur !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 564 rectifié est adopté.)\n (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’article 3, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        206\n        Nombre de suffrages exprimés                181\n        Majorité absolue                        91\n                Pour l’adoption                181\n                Contre                0"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 3, amendé, est adopté.)\n (M. Philippe Vigier applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3539757",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Prochaine séance, demain, à quinze heures :\n Questions au Gouvernement ;\n Suite de la discussion du projet de loi de financement de la sécurité sociale pour 2025.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

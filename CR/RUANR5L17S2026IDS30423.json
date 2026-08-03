@@ -1,0 +1,1915 @@
+{
+  "uid": "CRSANR5L17S2026O1N190",
+  "seanceRef": "RUANR5L17S2026IDS30423",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2026-04-01",
+  "dateLisible": "mercredi 01 avril 2026",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4052318",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’un projet de loi",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’ordre du jour appelle la discussion du projet de loi relatif à la lutte contre les fraudes sociales et fiscales (nos 2115, 2250 rectifié)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052320",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Cet après-midi, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant à l’article 22 bis A.\nSur l’amendement no 373, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052323",
+      "valeurPtsOdj": "1",
+      "titre": "Article 22 bis  A",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Patrick Hetzel, rapporteur de la commission des affaires sociales, pour soutenir l’amendement no 774."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Il est rédactionnel, monsieur le président."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre de la santé, des familles, de l’autonomie et des personnes handicapées",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 774 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 22 bis A, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052327",
+      "valeurPtsOdj": "1",
+      "titre": "Article 22 bis",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 22 bis est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052329",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 22 bis",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je suis saisi de deux amendements, nos 74 et 373, portant article additionnel après l’article 22 bis et pouvant être soumis à une discussion commune.\n La parole est à M. Arnaud Simion, pour soutenir l’amendement no 74."
+        },
+        {
+          "orateur": "M. Arnaud Simion",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841091",
+          "texte": "Cet article a pour objet de renforcer les sanctions administratives et pénales contre le travail dissimulé. L’ampleur de la fraude aux cotisations sociales, estimée entre 7 et 8 milliards d’euros par an, exige un arsenal juridique renforcé. Cet amendement devrait réunir l’ensemble des forces politiques qui souhaitent combattre sincèrement le travail illégal."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052332",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 74 est adopté ; en conséquence, l’amendement n° 373 tombe.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’amendement no 373 de M. Louis Boyard est défendu."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Votre amendement tend à renforcer le caractère dissuasif des sanctions déjà prévues par le code du travail. Il faut que l’arsenal soit dissuasif, mais aussi qu’il permette d’assurer le recouvrement. Je suis convaincu par la stratégie qui consiste à prendre les fraudeurs de vitesse et à attaquer la rentabilité des fraudes organisées. Elle permettra de nuire aux stratégies de fraude plus sûrement que les sanctions pénales. Nous avons déjà abordé cette question au sujet d’amendements précédents. Avis défavorable sur les deux amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable sur les deux amendements."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 74 est adopté ; en conséquence, l’amendement n° 373 tombe.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052338",
+      "valeurPtsOdj": "1",
+      "titre": "Article 22 ter",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 22 ter est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052340",
+      "valeurPtsOdj": "1",
+      "titre": "Article 22 quater",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Sur l’amendement n° 367, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Mathilde Feld, pour soutenir l’amendement no 367."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Nous souhaitons supprimer la possibilité donnée à l’office national antifraude (Onaf) de mener des contrôles sans réquisition du procureur. Il est évident que cette disposition, introduite par un amendement du rapporteur, membre du groupe de la Droite dite républicaine, prend pour cible les travailleurs étrangers et migrants davantage que les employeurs coupables de fraudes aux cotisations sociales. à l’origine. L’exposé des motifs de l’amendement dont sont issus les alinéas 8 à 11 évoquait notamment des contrôles de l’Onaf « en matière d’infraction à l’interdiction de travail dissimulé et d’emploi d’un étranger non autorisé à travailler ». Nous connaissons trop bien les obsessions xénophobes de la droite et de l’extrême droite pour ne pas nous inquiéter que la balance penche sévèrement du côté du second motif. (Exclamations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Alexandre Dufosset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840135",
+          "texte": "Quelle caricature !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Ces dispositions permettent de substituer à la réquisition préalable par le parquet une autorisation sur simple information du parquet, qui conserve évidemment l’intégralité de ses compétences. J’ai échangé avec des représentants de l’Onaf, qui m’ont indiqué qu’il s’agissait aussi d’une question d’efficacité, afin d’agir plus rapidement. Cela ne remet absolument pas en cause les prérogatives du parquet.\nCet amendement a été repoussé par la commission. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je m’en remets à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Théo Bernhardt."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Chers collègues de La France insoumise, nous avions proposé un amendement pour alourdir les sanctions contre les employeurs qui ont recours aux travailleurs dépourvus de papiers et privés du droit de travailler en France. Vous dites que la droite et l’extrême droite – entre guillemets – sont opposées à une telle mesure, mais nous vous l’avions proposée et vous ne l’avez pas soutenue !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Je ne mets pas de guillemets à l’extrême droite, elle est extrême. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Et vous, vous êtes l’extrême gauche extrême !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Monsieur Hetzel, en l’état, l’article permet à l’Onaf de mener des contrôles sans réquisition explicite du procureur, ce qui n’est pas la même chose."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 367."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        54\n        Nombre de suffrages exprimés                54\n        Majorité absolue                        28\n                Pour l’adoption                26\n                Contre                28"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 367 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’amendement no 773 de M. le rapporteur est un amendement de coordination."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 773, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 22  quater, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052363",
+      "valeurPtsOdj": "1",
+      "titre": "Articles 23 et 23 bis",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les articles 23 et 23  bis sont successivement adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052367",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 23 bis",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Nous en venons à deux amendements portant article additionnel après l’article 23 bis.\nL’amendement no 97 de M. Inaki Echaniz est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 97, accepté par la commission et le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052370",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1010, accepté par le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Daniel Labaronne, rapporteur pour avis de la commission des finances, de l’économie générale et du contrôle budgétaire, à laquelle la commission des affaires sociales a délégué l’examen des articles 1er, 1er bis, 3 à 3 ter, 9, 9 bis, 14, 15, 18 à 20 quater et 23 à 23 ter, pour soutenir l’amendement no 1010."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Il est proposé de permettre à l’autorité administrative de prononcer la dissolution d’un fonds de dotation après deux années d’inactivité afin de renforcer la lutte contre la fraude et d’améliorer la surveillance du secteur de la philanthropie. De nombreuses fraudes associées à ces fonds de dotation sont en effet constatées."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1010, accepté par le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052373",
+      "valeurPtsOdj": "1",
+      "titre": "Article 23 ter",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’amendement no 512 de M. le rapporteur pour avis est un amendement de précision."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 512, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 23  ter, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052377",
+      "valeurPtsOdj": "1",
+      "titre": "Article 24",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 24 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052379",
+      "valeurPtsOdj": "1",
+      "titre": "Article 24 bis",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je suis saisi de deux demandes de scrutin public : sur les amendements identiques nos 77, 450 et 987, par le groupe La France insoumise-Nouveau Front populaire ; sur l’article 24 bis, par le groupe Ensemble pour la République.\nLes scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nNous en venons aux trois amendements identiques, nos 77, 450 et 987, tendant à supprimer l’article 24 bis.\n La parole est à M. Arnaud Simion, pour soutenir le premier."
+        },
+        {
+          "orateur": "M. Arnaud Simion",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841091",
+          "texte": "Nous souhaitons supprimer cet article qui risque de pénaliser excessivement les allocataires du RSA surendettés. Il rend non recevables, dans les procédures d’effacement de dettes, les sommes versées au titre du RSA et suivies d’une sanction du département. Il va donc entraîner une aggravation du surendettement des plus défavorisés. Les députés du groupe Socialistes et apparentés appellent plutôt à une refonte du régime de sanctions des allocataires du RSA, excessivement variables selon les départements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Louis Boyard, pour soutenir l’amendement no 450."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Il est parfois nécessaire de rappeler des évidences : nos votes ont des conséquences très concrètes sur la vie des gens. Or l’article 2   bis aura de lourdes conséquences. Aujourd’hui, lorsqu’il est reconnu qu’une personne a commis une fraude au RSA, il est possible de procéder à un rééchelonnement ou à un effacement de sa dette si elle est surendettée. Cet article empêchera de procéder à ce rééchelonnement. On nous propose de voter pour que des personnes surendettées, incapables de rembourser, soient tout de même obligées de le faire ! (Exclamations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Alexandre Dufosset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840135",
+          "texte": "Il ne faut pas frauder !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Cette mesure ne rapportera pas d’argent. Ces gens n’ont pas les moyens de rembourser, précisément parce qu’ils sont surendettés. On me dira que ces personnes n’avaient qu’à s’abstenir de frauder…"
+        },
+        {
+          "orateur": "M. Alexandre Dufosset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840135",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Mais à quoi condamne-t-on ces personnes ? À ne pas pouvoir payer le loyer, l’électricité, la nourriture ? Globalement, vous les condamnez à la précarité extrême pour des années et des années. Est-ce une peine proportionnée pour une fraude au RSA ?"
+        },
+        {
+          "orateur": "M. Alexandre Dufosset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840135",
+          "texte": "Il faut travailler !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052390",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’amendement no 987 de Mme Sophie Taillé-Polian est défendu.\nQuel est l’avis de la commission sur ces amendements de suppression ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "L’article 24 bis a été introduit au Sénat en réponse à une préoccupation des départements depuis une décision rendue par le Conseil d’État, en 2023, sur la recevabilité des indus de RSA dans le cadre d’une procédure de rétablissement personnel. Il est simplement calqué sur le régime de recevabilité des indus frauduleux qui existe s’agissant des autres dettes des organismes de sécurité sociale dans le cadre d’une procédure de rétablissement personnel. Inclure le RSA dans ce dispositif est un alignement, ni plus ni moins. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Systématiquement, l’extrême gauche défend les truands, les fraudeurs et les malfrats ! (Mme Mathilde Feld s’exclame.) Elle nous explique que les pauvres petits ne pourront pas payer leur loyer à cause de ce texte, mais comment doivent faire les honnêtes citoyens qui travaillent et qui ne peuvent pas payer leur loyer ? Eux ne peuvent pas bénéficier des aides auxquelles ils devraient avoir droit parce que, justement, vos amis les délinquants et les fraudeurs bénéficient d’aides qu’ils ne devraient pas toucher ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "N’importe quoi ! Cela n’a rien à voir !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Monsieur Dessigny, une personne qui n’est pas capable de rembourser ce qu’elle doit ne rapportera aucun argent aux honnêtes citoyens dont vous parlez ! Il y a là un débat de fond. Si vous avez été condamné pour fraude, faut-il vous condamner à une peine de mort sociale ? J’utilise ce terme volontairement, car j’ai souvenir d’une personne condamnée pour fraude qui parlait de peine de mort politique… C’était Marine Le Pen ! (Exclamations sur les bancs du groupe RN.)\nQuand Marine Le Pen fraude et est condamnée à une peine d’inéligibilité, vous la défendez. Quand il s’agit de personnes incapables de payer et qui vont se retrouver condamnées à la mort sociale, c’est acceptable à vos yeux. Ce « deux poids, deux mesures » vous caricature et nous motive encore davantage à supprimer l’article 24 bis ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052399",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Jocelyn Dessigny, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Sur le fondement de l’article 70, alinéa 3, pour mise en cause personnelle de la présidente Marine Le Pen.\nMonsieur Boyard, connaissez-vous la présomption d’innocence ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Ce n’est pas un rappel au règlement !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052403",
+      "valeurPtsOdj": "1",
+      "titre": "Article 24 bis (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix les amendements identiques nos 77, 450 et 987."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        85\n        Nombre de suffrages exprimés                85\n        Majorité absolue                        43\n                Pour l’adoption                27\n                Contre                58"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 77, 450 et 987 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Christine Arrighi, pour soutenir les amendements nos 768 et 769, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "L’amendement no 768 vise à supprimer l’alinéa 2, afin que, s’agissant des prestations sociales versées par les collectivités territoriales, les dettes des allocataires continuent à relever du droit commun de l’exécution. L’amendement no 769 vise à supprimer l’alinéa 3, pour qu’il en soit de même en ce qui concerne le RSA."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission sur ces deux amendements ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "La suppression des alinéas 2 et 3 rendrait l’article 24 bis très largement inopérant."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "C’est l’objectif !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Je l’ai bien compris, d’où mon avis défavorable. Je précise que ces amendements ont été repoussés par la commission."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "D’après ce que nous a expliqué M. le rapporteur, il s’agit d’aligner les dispositions applicables aux dettes en matière de RSA sur celles qui sont applicables aux dettes à l’égard d’autres organismes de protection sociale. Or ce n’est pas la question ! On raisonne ici d’un point de vue administratif, je dirais même comme des bureaucrates déconnectés de la réalité quotidienne de nos concitoyens, alors que nos votes ont des conséquences sur des vies humaines ! Je vous l’ai expliqué, l’article 24 bis ne rapportera pas d’argent, d’abord parce que le nombre de cas est minime, ensuite parce que les personnes concernées sont dans l’incapacité de payer. Par contre, il plongera ces personnes encore davantage dans la précarité extrême. Certes, elles ont fraudé, mais elles ne méritent pas pour autant une peine de mort sociale !\nPar l’amendement no 768, monsieur le rapporteur, nous vous rappelons qu’il existe un droit commun de l’exécution, ce qui invalide votre argument. Surtout, quelle sera, selon vous, la conséquence sociale d’un tel article ?"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 768 et 769, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements identiques nos 693 et 988 ainsi que sur l’article 25, par le groupe La France insoumise-Nouveau Front populaire ; sur l’amendement no 884, par le groupe Ensemble pour la République.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe mets aux voix l’article 24 bis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        86\n        Nombre de suffrages exprimés                86\n        Majorité absolue                        44\n                Pour l’adoption                56\n                Contre                30"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 24 bis est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052588",
+      "valeurPtsOdj": "1",
+      "titre": "Article 25",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Les amendements identiques nos 693 de M. Louis Boyard et 988 de Mme Sophie Taillé-Polian sont défendus.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix les amendements identiques nos 693 et 988."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        83\n        Nombre de suffrages exprimés                81\n        Majorité absolue                        41\n                Pour l’adoption                42\n                Contre                39"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 693 et 988 sont adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’article 25, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        89\n        Nombre de suffrages exprimés                88\n        Majorité absolue                        45\n                Pour l’adoption                60\n                Contre                28"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 25, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052602",
+      "valeurPtsOdj": "1",
+      "titre": "Article 26",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 26 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052604",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 27",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Annie Vidal, pour soutenir l’amendement no 884, portant article additionnel après l’article 27."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Cet amendement, qui a été élaboré avec la Caisse nationale de l’assurance maladie (Cnam), vise à renforcer l’efficacité du recouvrement des indus et des sanctions pécuniaires. Actuellement, face à des fraudes complexes ou organisées, certaines structures se placent rapidement en procédure collective. Les caisses d’assurance maladie passent alors après les créanciers prioritaires, ce qui rend le recouvrement difficile, sinon impossible. Aussi proposons-nous d’accorder à ces caisses un privilège similaire à celui dont jouissent les Urssaf. Il s’agit de doter les organismes sociaux d’un outil juridique adapté aux fraudes à fort enjeu financier et de mieux protéger les finances publiques."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "C’est un bon amendement !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je m’en remets à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 884."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        96\n        Nombre de suffrages exprimés                94\n        Majorité absolue                        48\n                Pour l’adoption                63\n                Contre                31"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 884 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052616",
+      "valeurPtsOdj": "1",
+      "titre": "Article 27 bis",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 750, tendant à supprimer l’article 27 bis."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "L’article 27 bis vise à rendre applicables aux régimes spéciaux les dispositions du code de la sécurité sociale relatives aux contraintes délivrées par les directeurs de caisse. Or il fait doublon avec l’article 12 bis, introduit à la demande des caisses de ces régimes, qui permet déjà aux directeurs de caisse de délivrer des contraintes, d’ailleurs dans une optique plus étendue. C’est pourquoi je propose de supprimer l’article 27 bis. Je précise que l’amendement a été accepté par la commission."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 750, accepté par le gouvernement, est adopté ; en conséquence, l’article 27  bis est supprimé.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur l’amendement no 277, sur l’amendement no 554 rectifié et sur les amendements identiques nos 386 et 1002, par le groupe La France insoumise-Nouveau Front populaire ; sur l’article 30, par le groupe Ensemble pour la République.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052621",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 28 ter",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Nous en venons à des amendements portant article additionnel après l’article 28 ter.\n La parole est à M. Louis Boyard, pour soutenir l’amendement no 277."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Nous avons beaucoup discuté hier des fuites de données – ou plutôt, j’ai monologué sans obtenir de réponse. Nous proposons ici un amendement qui permettrait d’avancer sur cette question, que nous devrions aborder de manière transpartisane.\nNous observons chaque semaine des fuites de données massives qui affectent les services de l’État. L’intelligence artificielle facilite le traitement des données qui ont fait l’objet de ces fuites, d’où une explosion du nombre d’escroqueries dont nos concitoyennes et concitoyens sont victimes. Nous devons toutes et tous reconnaître avec humilité que l’État n’est pas au niveau pour affronter ce phénomène.\nFace aux fuites de données qui touchent les différents organismes de sécurité sociale, nous proposons de créer, dans chaque branche, un comité d’éthique et de transparence sur les outils de traitement des données. Vous le savez, l’utilisation de certains algorithmes, notamment par la Caisse nationale des allocations familiales (Cnaf), a fait polémique. Il s’agit non seulement de traiter ce problème, mais aussi de commencer à adapter l’État et nos services aux fuites de données massives. Je vous appelle à adopter cet amendement de consensus et de bon sens."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Bien évidemment, il est tout à fait pertinent de se préoccuper de l’éthique et de la transparence en matière de traitement des données. Toutefois, je l’ai dit en commission, votre amendement est très largement satisfait, puisque la Cnaf a installé un tel comité d’éthique, qui a déjà tenu de premières réunions – vous l’indiquez vous-même dans l’exposé sommaire de l’amendement. Il n’est vraiment pas nécessaire d’inscrire dans la loi une telle disposition, qui ne relève pas du niveau législatif. Cela n’aurait guère d’incidence sur la manière dont le sujet est traité. J’émets donc un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Nous avons déjà débattu de ce sujet hier soir, monsieur Boyard. J’ai évoqué alors le comité d’éthique institué par la Cnaf. Comme l’a dit M. le rapporteur, il n’est pas besoin d’ajouter une telle disposition dans la loi. Je donne donc un avis défavorable à votre amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je ne parviendrai donc pas à obtenir un avis favorable du gouvernement ou du rapporteur ! Je tiens néanmoins à rappeler au groupe Démocrates que cet amendement est issu d’une recommandation qui figure dans un rapport rédigé par Cyrille Isaac-Sibille. Je suis certain que vous pouvez faire confiance à cet honorable collègue qui siège sur vos bancs !\nLe comité d’éthique dont vous parlez, madame la ministre, a été créé après un scandale : on s’est aperçu que, pour détecter les fraudeurs, le Cnaf utilisait un algorithme qui ciblait les personnes précaires, les personnes vivant dans les quartiers défavorisés ou encore les personnes touchant l’allocation aux adultes handicapés (AAH). Bien sûr, les comités d’éthique que nous proposons de créer ont vocation à traiter ces problèmes, mais aussi la question des fuites de données.\nS’il y a un sujet sur lequel nous n’avons pas apporté de réponse au cours de nos débats sur les fraudes, c’est bien celui-là, reconnaissons-le ! Or la mutualisation des données à laquelle il a été procédé dans de nombreux services entraînera davantage de fuites de données. Donc, madame la ministre, je vous en conjure : donnez un avis favorable à cet amendement. En l’adoptant, nous poserons une première pierre. L’Assemblée devrait travailler sur ce sujet d’intérêt public dans un cadre transpartisan."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 277."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        105\n        Nombre de suffrages exprimés                56\n        Majorité absolue                        29\n                Pour l’adoption                24\n                Contre                32"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 277 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052638",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Jocelyn Dessigny, pour soutenir les amendements nos 554 rectifié, 557 et 558 rectifié, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Depuis le début de l’examen de ce texte, nous renforçons les outils de détection, aggravons les sanctions pénales et améliorons les capacités de contrôle. Ces avancées sont nécessaires, mais si nous voulons que la lutte contre la fraude sociale soit crédible, elle doit aussi comporter une dimension réellement dissuasive.\nL’amendement no 554 rectifié s’inscrit dans cette logique : en cas de fraude aux prestations sociales ayant donné lieu à une condamnation pénale définitive, l’organisme débiteur pourrait prononcer l’exclusion temporaire, pour une durée maximale de cinq ans, du bénéfice des prestations sociales non contributives.\nIl existe aujourd’hui un décalage, perçu très fortement par nos concitoyens : celui qui détourne sciemment des prestations financées par la collectivité peut, une fois condamné, continuer à bénéficier des mêmes dispositifs, sans qu’il y ait de conséquence spécifique sur son accès aux aides non contributives. Cette situation alimente un sentiment d’injustice et fragilise l’adhésion aux principes de solidarité nationale, laquelle repose sur un équilibre entre les droits et les responsabilités. Lorsque cet équilibre est rompu par une fraude pénalement sanctionnée, il est légitime que le législateur offre aux organismes compétents un outil proportionné et encadré pour en tirer les conséquences. Cet amendement ne rompt pas avec les principes fondamentaux : il les renforce en affirmant que la solidarité suppose le respect des règles communes."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement sur ces trois amendements ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Plusieurs articles du texte visent déjà à une plus grande fermeté. Ils tendent notamment à sanctionner les bénéficiaires qui ont commis une fraude aux prestations sociales. L’objectif est aussi d’améliorer le recouvrement des indus. Nous rendons ainsi le dispositif plus dissuasif. Dans le souci de préserver l’équilibre du texte, j’émets un avis défavorable sur l’amendement no 554 rectifié.\nL’amendement no 557 vise à rendre obligatoire la communication des organismes de sécurité sociale auprès de l’autorité administrative compétente en cas de fraude d’une personne sans titre de séjour. Une telle disposition sortirait de la logique de lutte contre la fraude. Je donne donc aussi un avis défavorable à cet amendement.\nL’amendement no 558 rectifié prévoit qu’en cas de condamnation pénale définitive pour une fraude aux prestations sociales ou pour une infraction relevant du trafic de stupéfiants, l’organisme débiteur puisse exclure temporairement la personne condamnée, pour une durée maximale de cinq ans, du bénéfice des prestations sociales non contributives. Il est analogue à l’amendement no 554 rectifié ; mes arguments pour m’y opposer sont donc les mêmes."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable, pour les mêmes raisons que M. le rapporteur."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "J’entends ce que vous dites, monsieur le rapporteur, mais, si l’on veut être efficace, il faut prendre des mesures concrètes. Certains articles vont dans le bon sens mais sans aller au bout de la logique. Il faut vraiment envoyer un message fort en ce qui concerne le trafic de stupéfiants : ceux qui vendent de la drogue à nos enfants dans la rue ne doivent pas pouvoir percevoir d’aides sociales. Celles-ci leur permettent, je le signale, d’acheter la marchandise qu’ils revendent ensuite à nos enfants – c’est intolérable ! (Applaudissements sur plusieurs bancs du groupe RN – M. Olivier Fayssat applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 554 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        103\n        Nombre de suffrages exprimés                103\n        Majorité absolue                        52\n                Pour l’adoption                38\n                Contre                65"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 554 rectifié n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 557 et 558 rectifié, successivement mis aux voix, ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052655",
+      "valeurPtsOdj": "1",
+      "titre": "Article 29",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je suis saisi de deux amendements identiques, nos 386 et 1002, tendant à rétablir l’article 29, supprimé par la commission.\n L’amendement no 386 de M. Vincent Rolland est défendu.\nLa parole est à Mme Edwige Diaz, pour soutenir l’amendement no 1002."
+        },
+        {
+          "orateur": "Mme Edwige Diaz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793928",
+          "texte": "Cet amendement de notre collègue Éric Michoux vise à permettre aux organismes de sécurité sociale de suspendre provisoirement le versement d’une prestation sociale dans certains cas précis : en cas de soupçon sérieux de fraude, en cas de manquement du bénéficiaire à ses obligations ou en cas de commission d’une infraction. Il n’y aurait là rien d’arbitraire, bien au contraire,…"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Mais non, bien entendu !"
+        },
+        {
+          "orateur": "Mme Edwige Diaz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793928",
+          "texte": "…puisque la décision serait prise par la direction de l’organisme payeur et que la personne concernée bénéficierait de garanties procédurales. Ainsi, l’organisme payeur devrait d’une part motiver sa décision, d’autre part en informer le bénéficiaire ayant commis une infraction ou soupçonné d’infraction ; bien évidemment, il devrait aussi respecter le principe du contradictoire. Tout cela se ferait dans un délai très court. Cet amendement permettrait une action rapide et efficace contre la fraude. Il aurait une portée très dissuasive. (Applaudissements sur plusieurs bancs du groupe RN – M. Olivier Fayssat applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "J’entends vos arguments, madame Diaz.\nCertes, lors de ses débats, la commission a souhaité faire en sorte que les sanctions prévues à plusieurs articles du texte soient réelles. Mais elles doivent être fondées sur une fraude avérée et non sur un doute sérieux. En l’occurrence, vous procédez à un glissement en évoquant dans l’exposé sommaire de l’amendement un « doute sérieux concernant des manœuvres frauduleuses ». Dans le respect de notre droit, nous souhaitons que les sanctions ne soient prononcées qu’après s’être assuré que la fraude est avérée. Avis défavorable."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "C’est quand même le minimum !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "C’est la moindre des choses d’y être défavorable ! Il est quand même curieux d’entendre les parangons de la présomption d’innocence défendre un amendement prévoyant des sanctions en cas de simple soupçon."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Quel est le rapport ?"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Avec cet article 29, nous arrivons au pire en matière de répression des pauvres et des précaires."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Des fraudeurs !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Il avait heureusement été supprimé en commission et il est bien triste de le voir réapparaître. C’est l’un des pires articles dont nous ayons débattu !\nAlors que vous avez refusé de manière systématique de taxer les entreprises et de les punir pour des soupçons de fraude,…"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "…vous l’acceptez pour des gens qui vivent dans la misère, suspectés sur la base d’algorithmes dont on sait qu’ils sont biaisés pour chercher précisément ces gens-là ! Il est parfaitement abject d’imaginer défendre ce genre d’amendement ou d’article ! (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC. – Exclamations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix les amendements identiques nos 386 et 1002."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        107\n        Nombre de suffrages exprimés                107\n        Majorité absolue                        54\n                Pour l’adoption                40\n                Contre                67"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 386 et 1002 ne sont pas adoptés ;\n             en\n             conséquence,\n             l’article 29\n             demeure\n             supprimé.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Sur l’amendement n° 589, je suis saisi par le groupe Horizons & indépendants d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052735",
+      "valeurPtsOdj": "1",
+      "titre": "Article 30",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’amendement no 589 de Mme Nathalie Colin-Oesterlé est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 589."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        109\n        Nombre de suffrages exprimés                70\n        Majorité absolue                        36\n                Pour l’adoption                47\n                Contre                23"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 589 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Sur l’amendement n° 587, je suis saisi par le groupe Horizons & indépendants d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe mets aux voix l’article 30, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        109\n        Nombre de suffrages exprimés                108\n        Majorité absolue                        55\n                Pour l’adoption                86\n                Contre                22"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 30, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052750",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 30",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Nous en venons à plusieurs amendements portant article additionnel après l’article 30.\nL’amendement no 587 de Mme Nathalie Colin-Oesterlé est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 587."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        107\n        Nombre de suffrages exprimés                105\n        Majorité absolue                        53\n                Pour l’adoption                52\n                Contre                53"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 587 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052760",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 776 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. David Magnier, pour soutenir l’amendement no 776."
+        },
+        {
+          "orateur": "M. David Magnier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841587",
+          "texte": "Cet amendement poursuit un objectif clair et simple : disposer chaque année d’une vision complète et transparente du coût réel de la fraude et de l’efficacité des politiques publiques mises en œuvre pour la combattre. Il s’agit d’avoir une vision exhaustive des fraudes, des recouvrements, des coûts de contrôle et des actions correctives entreprises. Nous ne pouvons lutter efficacement contre la fraude sans en avoir une connaissance précise et nous ne pouvons pas davantage piloter nos politiques publiques sans les évaluer objectivement.\nNous proposons donc que le gouvernement remette chaque année au Parlement un rapport public consolidé, certifié par la Cour des comptes, détaillant le coût réel de la fraude et de la lutte menée pour la combattre, ce que nous récupérons et les résultats concrets obtenus.\nCe rapport, qui doit devenir un véritable outil de pilotage au service du contrôle parlementaire et de la démocratie, fera l’objet d’un débat annuel devant les commissions des finances et des affaires sociales de l’Assemblée nationale et du Sénat. L’objectif est d’obtenir transparence, rigueur et responsabilité dans la gestion des ressources. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Vous constaterez que toute cette série d’amendements…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Nous arrivons dans la grande série des demandes de rapports !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "…proposent, en effet, des rapports sur différents sujets en lien avec le texte. Ma position de principe sera la même pour toutes ces demandes : défavorable. Elles ont d’ailleurs toutes été repoussées par la commission."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Cet avis vaut donc pour l’ensemble des amendements formulant une demande de rapport ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Oui, monsieur le président."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Parfait, nous irons vite ! Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je trouve cette situation peu banale et amusante : ce que vous demandez a été mis en place par Gabriel Attal lorsqu’il était ministre des comptes publics. Chaque année, le Haut Conseil du financement de la protection sociale (HCFIPS) remet ce rapport, sur lequel tous nos collègues ont travaillé pour préparer l’examen du projet de loi de lutte contre les fraudes sociales et fiscales. Le fait que le groupe RN n’ait même pas connaissance de son existence explique une grande partie de ses amendements ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 776 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052775",
+      "valeurPtsOdj": "1",
+      "titre": "Gau on, bonsoir ! Cet amendement demande au gouvernement un rapport sur les pistes d’amélioration de la méthodologie employée pour identifier les médecins en situation de surprescription.\nLes remontées de terrain nous alertent sur des situations d’incompréhension par les médecins, voire d’injustice. Des médecins de bonne foi peuvent être mis en cause, non en raison d’un comportement frauduleux mais parce qu’ils suivent des patientèles particulières – travailleurs exposés à la pénibilité, patients âgés ou souffrant de troubles psychiatriques – ou en raison de leur mode de suivi – visites à domicile. Un rapport serait intéressant pour analyser cela de manière plus fine et éviter qu’ils soient conduits à opérer un tri dans leur patientèle. (Applaudissements sur quelques bancs des groupes SOC et EcoS.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Peio Dufau, pour soutenir l’amendement no 56."
+        },
+        {
+          "orateur": "M. Peio Dufau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841633",
+          "texte": "Gau on, bonsoir ! Cet amendement demande au gouvernement un rapport sur les pistes d’amélioration de la méthodologie employée pour identifier les médecins en situation de surprescription.\nLes remontées de terrain nous alertent sur des situations d’incompréhension par les médecins, voire d’injustice. Des médecins de bonne foi peuvent être mis en cause, non en raison d’un comportement frauduleux mais parce qu’ils suivent des patientèles particulières – travailleurs exposés à la pénibilité, patients âgés ou souffrant de troubles psychiatriques – ou en raison de leur mode de suivi – visites à domicile. Un rapport serait intéressant pour analyser cela de manière plus fine et éviter qu’ils soient conduits à opérer un tri dans leur patientèle. (Applaudissements sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 56, repoussé par la commission et le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052779",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 231, repoussé par la commission et le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "L’amendement no 231 de M. Nicolas Ray est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 231, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Sur les amendements nos 1032 et 1035, je suis saisi par le groupe Rassemblement national de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Karine Lebon, pour soutenir l’amendement no 234."
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "Nous proposons d’instaurer un rendez-vous annuel de vérité sur la fraude fiscale, l’évasion fiscale et les grandes fraudes économiques. Alors qu’on évoque régulièrement des pertes annuelles pour les finances publiques comprises entre 80 et 120 milliards d’euros, le Parlement ne dispose toujours d’aucun document consolidé, stable et transparent pour en apprécier les fondements méthodologiques, les évolutions et les principales composantes. Cette absence de visibilité fragilise le débat démocratique et entretient les approximations quand il faudrait, au contraire, objectiver les montants, identifier les schémas frauduleux et mesurer avec précision les moyens consacrés à la lutte contre ces pratiques.\nCe rapport aurait également pour objet d’éclairer le Parlement sur les ressources humaines, matérielles et budgétaires allouées aux différentes directions en charge de la répression des fraudes, dont les bilans d’activité rappellent le rôle central dans la protection des finances publiques. La transparence est une condition de l’efficacité de la lutte contre la fraude et du contrôle parlementaire, raison pour laquelle nous vous invitons à voter en faveur de cette demande de rapport. (Applaudissements sur quelques bancs du groupe LFI-NFP. –  Mme  Sandra Regol applaudit également.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 234, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052786",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 387, repoussé par la commission et le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Virginie Duby-Muller, pour soutenir l’amendement no 387."
+        },
+        {
+          "orateur": "Mme Virginie Duby-Muller",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608826",
+          "texte": "Il prévoit la remise au Parlement d’un rapport évaluant l’ampleur de la fraude sociale liée à l’activité de moniteurs de ski étrangers en France. Les travaux conduits dans le cadre de la mission flash menée par Vincent Rolland et Marie-Noëlle Battistel ont mis en évidence la situation particulière des travailleurs transfrontaliers italiens, dont les revenus sont imposés dans leur pays de résidence en application d’une convention fiscale franco-italienne. Ce régime, plus favorable que le droit français, peut donner lieu à des détournements. Cet amendement d’appel vise à mieux appréhender le phénomène : nous attendons une prise de conscience de la part du gouvernement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 387, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052789",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements identiques nos 703 et 796, repoussés par la commission et le gouvernement, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je suis saisi de deux amendements identiques, nos 703 et 796.\n L’amendement no 703 de M. Laurent Baumel est défendu. \n La parole est à M. Peio Dufau, pour soutenir l’amendement no 796."
+        },
+        {
+          "orateur": "M. Peio Dufau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841633",
+          "texte": "Cet amendement demande la remise d’un rapport pour harmoniser la définition de la résidence principale, actuellement trop floue et éclatée dans notre droit. Sur le terrain, élus et associations alertent sur une fraude importante, notamment dans les zones tendues, qui permet aux propriétaires de résidences secondaires d’échapper à certains prélèvements obligatoires. Je signale un bel article dans Le Figaro immobilier qui explique le mécanisme de cette fraude. Je vous conseille sa lecture : c’est frappant !\nL’un des obstacles à une politique de lutte efficace contre cette fraude réside dans l’absence d’une définition claire et unifiée de la résidence principale dans les différents codes.?Nous proposons d’engager un travail d’harmonisation des critères – résidence effective, centre de la vie personnelle et familiale, lien avec l’activité professionnelle – afin de gagner en clarté et en efficacité et de rendre les contrôles pleinement opérationnels."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 703 et 796, repoussés par la commission et le gouvernement, ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052793",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Théo Bernhardt, pour soutenir les amendements nos 1032 et 1035, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Il s’agit de deux demandes de rapport, le premier sur la fraude aux cotisations et contributions sociales des travailleurs indépendants relevant du régime réel d’imposition et le second sur les pertes de recettes de la taxe sur la valeur ajoutée affectée à la sécurité sociale.\nJe profite de cette prise de parole pour remercier tous nos collègues de ces débats – un peu en dents de scie entre la commission et la séance – ainsi que les rapporteurs, qui ont été à notre écoute et ont su répondre à nos questions. (Exclamations sur quelques bancs du groupe LFI-NFP.) Pour ce mot de la fin, ou presque, je tenais à saluer la qualité de nos débats. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 1032, qui a reçu un avis défavorable de la commission et du gouvernement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        116\n        Nombre de suffrages exprimés                116\n        Majorité absolue                        59\n                Pour l’adoption                42\n                Contre                74"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1032 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Je mets aux voix l’amendement no 1035, qui a reçu un avis défavorable de la commission et du gouvernement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        107\n        Nombre de suffrages exprimés                103\n        Majorité absolue                        52\n                Pour l’adoption                39\n                Contre                64"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1035 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052804",
+      "valeurPtsOdj": "1",
+      "titre": "Titre",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "La parole est à M. Arnaud Simion, pour soutenir l’amendement no 89."
+        },
+        {
+          "orateur": "M. Arnaud Simion",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841091",
+          "texte": "Avec cet amendement, nous faisons preuve d’audace en supprimant les deux mots suivants dans le titre : « et fiscales ». Nous pensons que renommer le texte « Projet de loi relatif à la lutte contre les fraudes sociales » a un sens, dans la mesure où la quasi-totalité des dispositifs ont cette finalité et où les dispositifs qui prétendent lutter contre la fraude fiscale sont cosmétiques. (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Vous avez tenu à déposer cet amendement pour souligner un point de divergence. Je tiens cependant à rappeler, comme nous l’avons déjà fait à de nombreuses reprises, qu’il ne faut pas seulement raisonner à l’aune du nombre d’articles consacrés à ces questions ; il faut aussi prendre en considération la nature des dispositifs.\nAssurément, certaines dispositions concernant la lutte contre la fraude fiscale étaient déjà en vigueur, mais je vous invite à regarder ce qui a été adopté au cours des derniers mois. Un travail assez important a été accompli en commission des finances dans ce sens."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Non, pas du tout !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Par conséquent, considérer que ce texte ne porterait que sur la lutte contre les fraudes sociales revient à porter un regard asymétrique sur la réalité. Les deux volets sont bel et bien traités dans le projet de loi.\nJ’en profite pour saluer l’investissement de mon collègue Labaronne sur ces questions. Il a largement démontré, notamment lors de ses interventions pour exprimer son avis, que la dimension fiscale n’était nullement négligée. Une fraude est une fraude, qu’elle soit fiscale ou sociale. Avis défavorable. (Applaudissements sur plusieurs bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Défavorable.\nJe remercie l’Assemblée pour la qualité de nos débats, même si ceux-ci ont été morcelés en raison de la suspension des travaux du mois de mars.\nJe répète que la lutte contre les fraudes, qu’elles soient fiscales ou sociales, est un enjeu de justice sociale et une marque de respect pour ceux qui ne fraudent pas."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Avec mon groupe, nous sommes évidemment favorables à cet amendement. Mais au vu de la part ridicule que le texte réserve à la lutte contre la fraude fiscale, nous aurions sans doute plutôt choisi comme titre : « Projet de loi de chasse aux précaires ». (Applaudissements sur plusieurs bancs du groupe LFI-NFP. – M. Jean-Claude Raux applaudit également.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Aux fraudeurs !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Je suis tout à fait d’accord pour remercier les collègues des bancs de la gauche. Sans eux, il n’y aurait eu aucun débat dans l’hémicycle ! (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC.) En effet, les bancs de la droite, censée soutenir le gouvernement, sont restés vides tout au long de la discussion. Ses supplétifs du Rassemblement national l’ont remplacée efficacement. (Exclamations sur quelques bancs du groupe RN.) Comme d’habitude, ils ont été la béquille des macronistes. (Applaudissements sur les bancs du groupe LFI-NFP.)\nCe texte est vraiment une catastrophe. Il est bien dommage que nous soyons constamment obligés de voter sur des projets de loi insupportables. Lorsque j’entends à la radio que le Parlement a adopté un texte de ce type, j’ai honte. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 89 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "Je rappelle que la conférence des présidents a décidé que le vote solennel sur l’ensemble du projet de loi aurait lieu le mardi 7 avril, après les questions au gouvernement.\nLa prochaine séance aura lieu demain à 11 heures, avec à l’ordre du jour la proposition de loi de Mme Caroline Yadan… (Murmures.)\nPoisson d’avril ! (Sourires.) Et puisque Pâques approche… (M. le président fait sonner la cloche posée sur son bureau. – Nouveaux sourires.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4052507",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "texte": "Prochaine séance, demain, à 11 heures :\n Discussion du projet de loi constitutionnelle relatif à la Nouvelle-Calédonie.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-deux-heures quinze.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

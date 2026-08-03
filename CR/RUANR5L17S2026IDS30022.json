@@ -1,0 +1,3462 @@
+{
+  "uid": "CRSANR5L17S2026O1N078",
+  "seanceRef": "RUANR5L17S2026IDS30022",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2025-12-03",
+  "dateLisible": "mercredi 03 décembre 2025",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3952401",
+      "valeurPtsOdj": "1",
+      "titre": "Nouvelle lecture (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’ordre du jour appelle la suite de la discussion, en nouvelle lecture, du projet de loi de financement de la sécurité sociale pour 2026 (nos 2141, 2152)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3957593",
+      "valeurPtsOdj": "1",
+      "titre": "Deuxième partie (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Cet après-midi, l’Assemblée nationale a poursuivi l’examen des articles, s’arrêtant à l’amendement no 485 à l’article 10."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952403",
+      "valeurPtsOdj": "1",
+      "titre": "Article 10 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’amendement no 485 de Mme Ségolène Amiot est défendu.\nLa parole est à M. Thibault Bazin, rapporteur général de la commission des affaires sociales, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre de la santé, des familles, de l’autonomie et des personnes handicapées",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 485 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952406",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 341 est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Michel Lauzzana, pour soutenir l’amendement no 341."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Nous avons instauré une contribution supplémentaire à la contribution de base et à la contribution additionnelle, dénommée « contribution supplémentaire ». Lors de l’examen du projet de loi de financement de la sécurité sociale (PLFSS) au Sénat, seuls les génériques et les spécialités relevant d’un tarif forfaitaire de responsabilité (TFR) ont été exclus de cette contribution supplémentaire. Afin de garantir une égalité de traitement, il convient d’en sortir aussi les médicaments à bas prix, qui n’ont pas de génériques, et qui sont utiles et peu onéreux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "La commission ayant rejeté le texte, je n’émettrai que des avis à titre personnel.\nMonsieur Lauzzana, même si je suis sensible à votre proposition, je crains que votre amendement n’entraîne des effets secondaires et des distorsions suivant le seuil que retiendrait le décret que vous évoquez dans votre amendement. D’ailleurs, un taux réduit s’appliquera aux entreprises dont le chiffre d’affaires est inférieur à 50 millions d’euros."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Oui, mais ça ne suffit pas !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il faudrait plutôt continuer de travailler sur le taux de pénétration des spécialités les moins onéreuses pour rémunérer leurs producteurs – si possible français –, tout en baissant les dépenses publiques et sans toucher à l’assiette fiscale. Même s’il a été adopté par la commission, je demande le retrait de votre amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Cet amendement est semblable au précédent mais, puisqu’il touche la contribution supplémentaire, j’y serai encore plus défavorable. Je reprends cet argument : ces laboratoires auront intérêt à proposer des boîtes à petit prix, comportant moins de médicaments, puisqu’ils seraient alors exonérés de la taxe. Demande de retrait, ou avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Michel Lauzzana."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Je l’ai déjà dit à M. le rapporteur, qui devrait lire ses fiches. Le seuil de 50 millions d’euros n’est pas opérant. On ne parle pas de bénéfice, mais de chiffre d’affaires."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Mais oui !"
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Ensuite, le conditionnement des boîtes est très compliqué à changer et coûte cher. Je ne crois pas que cela soit un argument, donc je maintiens mon amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Monsieur Lauzzana, je lis parfois mes fiches, mais surtout je vous écoute, comme j’écoute tous ceux qui déposent des amendements. L’alinéa qui fixe le plafond d’application du taux réduit pour la contribution supplémentaire à 50 millions d’euros de chiffre d’affaires n’a jamais fait l’objet d’un amendement. Ce plafond permet de viser les petits laboratoires qui produisent des médicaments dont on a besoin. Si vous souhaitiez le modifier, vous pouviez déposer un amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Le nombre de médicaments par boîte étant normé, au niveau français ou européen, je ne suis pas sûre que ce soit un argument, même si je ne partage pas l’avis de M. Lauzzana sur ce sujet."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Les laboratoires pourraient tout de même être incités à vendre deux boîtes de huit éléments au lieu d’une boîte de seize."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Mais si."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 341 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952428",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 256, accepté par le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’amendement no 256 de M. le rapporteur général est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 256, accepté par le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952430",
+      "valeurPtsOdj": "1",
+      "titre": "(Les amendements nos 486 et 487, successivement mis aux voix, ne sont pas adoptés.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Ségolène Amiot, pour soutenir les amendements nos 486 et 487, qui peuvent faire l’objet d’une présentation groupée dans le cadre d’une discussion commune."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Ces amendements proposent une modulation de la contribution supplémentaire des laboratoires pharmaceutiques. Le premier, en fonction des deniers publics qui auront été perçus au cours de l’année précédente ; le second, en fonction des dividendes qui auront été versés l’année précédente."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Les amendements que vous déposez présentent une cohérence d’ensemble."
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Malheureusement."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Vous voulez augmenter le taux de la contribution supplémentaire en fonction des aides publiques perçues par les entreprises. Vous étiez prêts à proposer un pôle public du médicament, mais vous souhaitez aussi augmenter la contribution des entreprises suivant les dépenses publiques en faveur de l’investissement dans la souveraineté pharmaceutique ? Cela me paraît incohérent car plus il y aura d’aides publiques, plus les entreprises contribueront. Je ne pense que ce soit ce que vous voulez faire. Puis, de toute façon, comme vous n’avez pas fixé de taux, le Conseil constitutionnel censurera pour incompétence négative. Gagnons donc du temps : demande de retrait ; sinon, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Vous ajoutez de la complexité et un peu d’opacité à une mesure qui consiste plutôt à simplifier la contribution des laboratoires pharmaceutiques. Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 486 et 487, successivement mis aux voix, ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952439",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 488, repoussé par la commission et le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’amendement no 488 de M. Damien Maudet est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 488, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952441",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de deux amendements, nos 851 et 960, pouvant être soumis à une discussion commune.\n La parole est à M. le rapporteur général, pour soutenir l’amendement no 851."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Dans le cadre du Conseil stratégique des industries de santé (CSIS), les laboratoires peuvent encore baisser leurs prix en signant des conventions supplémentaires avec le Comité économique des produits de santé (CEPS). La différence avec le prix public résultant de ces négociations donne lieu à des remises, souvent appelées avoirs pour éviter la confusion avec d’autres remises.\nCe sont des investissements des industries pharmaceutiques sur notre territoire qui peuvent déjà constituer une forme de paiement de la clause de sauvegarde. Je propose donc que ces avoirs conventionnels soient aussi un mode de libération de la nouvelle part supplémentaire de la contribution sur le chiffre d’affaires. Ainsi, la troisième contribution, qui vient s’ajouter en 2026, se calquera sur ce qui existe déjà.\nNe pas prévoir cet alignement donnerait un mauvais signal aux entreprises qui maintiennent ou développent l’emploi et la production en France. Cet amendement n’avait pas été examiné en commission."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952445",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 851 est adopté ; en conséquence, l’amendement n° 960 tombe.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Philippe Vigier, pour soutenir l’amendement no 960."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "M. le rapporteur général a très bien expliqué les choses. Les entreprises du médicament qui s’engagent à baisser les prix, évitant ainsi un surcoût pour la sécurité sociale, ne peuvent pas être pénalisées. Il nous paraît donc essentiel, au-delà de la clause de sauvegarde, qu’une entreprise qui suit ce mécanisme vertueux soit récompensée et n’ait pas à s’acquitter de la taxe additionnelle. C’est crucial au moment où nous recherchons à améliorer le fonctionnement du coût du médicament."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "L’amendement de M. Vigier n’a pas non plus été présenté en commission. L’abattement de 5 % à 20 % qu’il prévoit est intéressant, mais celui que je présente correspond à ce que l’on fait déjà sur les parts existantes. Je lui proposerai donc un retrait au profit du mien. Il peut le maintenir, mais si le mien est adopté, le sien tombera."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Nous partageons l’objectif de donner aux laboratoires qui veulent investir sur le territoire un intérêt à le faire. C’est ce que propose votre amendement, auquel je suis favorable, monsieur le rapporteur. L’amendement de M. Vigier entraînant en revanche une diminution du rendement, j’y serai défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Non, l’adoption de mon amendement n’entraînerait pas une diminution du rendement. J’essaie d’expliquer qu’il faut un cycle vertueux. Des entreprises paient une redevance, à la fin de l’année, sur des prescriptions qu’elles ne font pas elles-mêmes puisqu’elles assument et exécutent les prescriptions qui leur sont faites. Il serait bénéfique qu’elles puissent négocier une diminution des prix en échange d’une exonération de la taxe additionnelle."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 851 est adopté ; en conséquence, l’amendement n° 960 tombe.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Sur les amendements n° 704 et identique, je suis saisie par le groupe Horizons & indépendants d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Ségolène Amiot, pour soutenir les amendements nos 489, 490 et 491, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Ces amendements visent à rehausser la majoration, actuellement de 2 000 euros, pour les entreprises qui ne respecteraient pas leurs obligations déclaratives. Cela ne concerne pas, comme cela a pu être dit en commission, les entreprises qui commettraient des erreurs ou éprouveraient des difficultés à remplir ces obligations, mais celles qui ne le font pas du tout. Une majoration de 2 000 euros est négligeable pour une entreprise pharmaceutique comme Sanofi. Ces trois amendements proposent un plancher bien plus dissuasif pour qu’elles remplissent enfin leurs obligations déclaratives."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je ne sais pas si vous voyez la longueur de l’article 10 et la quantité de sources juridiques que l’on modifie – lisez, vous aurez peur –, mais vu la complexité du calcul du chiffre d’affaires retenu pour la taxe dont il est question et la lourdeur du circuit déclaratif, que celui qui est certain de tout faire remonter du premier coup sans aucune erreur jette la première pierre à nos laboratoires.\nVous proposez des bornes, hautes comme basses, d’une sévérité considérable pour des entreprises qui sont indispensables à l’approvisionnement de la France en produits de santé et qui constituent un secteur déjà très surveillé et imposé. Vous voulez passer la majoration forfaitaire applicable de 0,05 % à 0,5 % du chiffre d’affaires, soit une multiplication par dix. Vous proposez de passer le plancher de cette majoration forfaitaire de 2 000 à 50 000 euros, ça peut donc être plus, et le plafond de 100 000 à 1 million d’euros. Les trois amendements, qui suivent la même philosophie, ont tous les trois été rejetés par la commission. À titre personnel, j’y suis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Les pénalités appliquées au titre de la clause de sauvegarde jusqu’à cet article ont été transposées à la part supplémentaire de contribution sur le chiffre d’affaires. Les pénalités restent inchangées. En plus, ces amendements pénaliseraient plutôt les petites entreprises. Je ne suis pas sûr que ce soit ce que vous vouliez. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "Les amendements ne visent pas les erreurs de déclaration, qui peuvent arriver et faire l’objet d’une tolérance, mais la volonté de ne pas déclarer ou les fausses déclarations. Cela me semble être le minimum indispensable en matière de contrôle. Nous voterons ces amendements."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Christophe Bentz."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Notre groupe votera différemment selon l’amendement. Nous en comprenons l’intention : il est anormal qu’un certain nombre d’entreprises ne fassent pas de déclaration auprès de l’Urssaf et ne soient pas en règle. Sur le principe, nous approuvons ces amendements, mais ce que propose le no 491, avec un passage du montant de la majoration tarifaire de 100 000 à 1 million d’euros, est délirant. Une sanction, oui, mais trop de charges, non : les entreprises en ont déjà suffisamment. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Mea culpa, madame Rousseau, vous avez raison. Mais avec les mille amendements à lire ces derniers jours, il n’est pas facile de garder le fil. Madame Amiot, vous avez modifié l’amendement depuis son examen en commission et il porte bien sur les retards de déclaration. Les montants que vous proposez, c’est-à-dire multipliés par dix, sont renouvelés tous les quinze jours – je ne sais pas si vous vous en rendez compte. Je pense qu’on va trop loin en matière de montants. Le reste de mon argumentaire à propos des sanctions disproportionnées reste le même."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’amendement no 489."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        174\n        Nombre de suffrages exprimés                121\n        Majorité absolue                        61\n                Pour l’adoption                60\n                Contre                61"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 489 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’amendement no 490."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        183\n        Nombre de suffrages exprimés                154\n        Majorité absolue                        78\n                Pour l’adoption                87\n                Contre                67"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 490 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 491 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3951928",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de deux amendements identiques, nos 704 et 858.\n La parole est à Mme Nathalie Colin-Oesterlé, pour soutenir l’amendement no 704."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Nous reprenons ici la proposition du rapporteur général consistant à relever de 0,1 milliard d’euros le montant Z pour 2025, afin de tenir compte des écarts constatés entre les prévisions gouvernementales et le niveau réel des remises sur les produits de santé. Cet ajustement vise à garantir que les contributions concernées ne jouent qu’un rôle de filet de sécurité, conformément à l’esprit de l’article 10."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3951930",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général, pour soutenir l’amendement no 858."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je vais compléter ce qu’a très bien dit ma collègue lorraine Nathalie Colin-Oesterlé. Il est question du montant Z, qui a trait aux dispositifs médicaux. Alors que nous vivons le virage domiciliaire et que nous instaurons le maillage dans nos territoires en matière de dispositifs médicaux, le montant Z n’a pas été revu depuis plusieurs années. On constate que les montants engagés ne cessent d’augmenter. Il aurait pu être déclenché si le gouvernement de Michel Barnier n’avait pas été censuré. Il est nécessaire de le relever. J’avais déposé deux amendements, un pour le relever pour 2025 et un pour 2026. Il se trouve que le Sénat a adopté ce dernier, relevant le seuil de 2,26 à 2,36 milliards d’euros. Cela n’a pas souvent été le cas pour ce texte, aussi je l’en remercie.\nCes amendements visent à faire de même pour 2025, c’est-à-dire à augmenter le montant Z de 100 millions d’euros, ce qui reste la fixation la plus prudente du seuil, de manière qu’il continue à agir comme un filet de sécurité, à savoir de ne pas être déclenché. On ne peut pas raisonner différemment pour les montants M et Z, par souci de cohérence.\nPeut-être que le gouvernement en espérait un rendement financier, mais quand l’on restaure un climat de confiance avec tous les acteurs et les parlementaires, et que l’on nous explique depuis un mois et demi avoir créé un troisième étage qui fonctionne comme un filet de sécurité, il faut faire en sorte qu’il en soit un.\nJe rappelle que ces deux amendements ont été adoptés par la commission."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je demande le retrait de ces amendements ; à défaut, mon avis sera défavorable. Je comprends votre intention, mais il s’agit d’un rendement qui doit nous aider à maintenir la trajectoire de nos comptes sociaux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Nathalie Colin-Oesterlé."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Pour aller dans le sens du propos de M. le rapporteur général, je trouve qu’il est très compliqué de vouloir développer l’ambulatoire d’une part et d’autre part de rester dans ce qui semble être des postures."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Nous voterons contre ces amendements. Par contre, nous voterons pour les amendements suivants qui baissent le seuil à partir duquel la clause de sauvegarde est déclenchée.\nMonsieur le rapporteur général, vous dites que cette clause de sauvegarde, qu’il s’agisse du montant Z ou du montant M, n’est pas faite pour être déclenchée. Au contraire, elle est précisément faite pour cela ! Parce qu’il s’agit d’un marché dysfonctionnel, dans lequel des sociétés réalisent des chiffres d’affaires et des profits trop importants sur les prix des dispositifs médicaux, et profitent de leur remboursement. La clause de sauvegarde, je le répète, est faite pour être déclenchée. Vu le manque de recettes de la sécurité sociale, je ne comprends pas pourquoi vous souhaitez rehausser le montant. Il faut l’abaisser."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Nous parlons des dispositifs médicaux : alors quand vous me dites que les sociétés qui les proposent font des profits colossaux, tous ceux qui connaissent ce secteur savent que c’est loin d’être le cas. Le montant Z, d’un peu plus de 2 milliards d’euros, n’a pas bougé depuis plusieurs années, contrairement au montant M. Compte tenu du virage domiciliaire et du vieillissement de la population, nous avons besoin des entreprises de proximité pour réaliser un maillage territorial dans l’accès aux dispositifs médicaux. Nous avons vu récemment, quand il a été question des fauteuils roulants ou de l’hospitalisation à domicile, qu’il ne fallait pas les fragiliser. Vous parlez de grands profits : je vous assure que ce n’est pas le cas dans ce secteur."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 704 et 858."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        214\n        Nombre de suffrages exprimés                211\n        Majorité absolue                        106\n                Pour l’adoption                100\n                Contre                111"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 704 et 858 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3951949",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 959\n             rectifié est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Philippe Vigier, pour soutenir l’amendement no 959 rectifié."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Chacun constate qu’il y a des ruptures. Chacun constate que toujours plus de médicaments sont fabriqués à l’étranger. Chacun constate que la transparence n’est pas de mise et que les hyperprofits dont il est tant question n’existent pas. Il y a eu des discussions entre les industriels et le gouvernement – c’est à mettre à votre crédit, madame la ministre – visant à corriger les déséquilibres du dispositif de la clause de sauvegarde.\nL’amendement prévoit simplement de revoir le montant M pour 2025 en le fixant à 27,89 milliards d’euros. Ce n’est pas un cadeau, c’est ce qui avait été voté dans le PLFSS pour 2025. Il est essentiel que l’on inscrive comme montant de référence celui qui avait été voté ici même pour l’année 2025, alors même qu’on prépare les calculs pour l’année 2026. Puisque nous souhaitons de la transparence, inscrivons les montants que nous avions votés."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "J’avais initialement déposé des amendements similaires à celui de M. Vigier, que j’ai finalement retirés. Comme un certain nombre d’éléments ont été modifiés et que l’on vise un rendement de 1,6 milliard d’euros, le montant M ne peut pas demeurer celui que vous évoquez. Est-ce que j’ai la calculatrice ? Non ! On me demande d’y croire : plusieurs tableaux m’ont été transmis hier soir m’indiquant qu’avec tel montant, le rendement de 1,6 milliard serait garanti.\nVotre amendement n’a pas été examiné en commission. J’en demande, à titre personnel, le retrait ; à défaut, je donnerai un avis défavorable. Je laisse Mme la ministre nous expliquer pourquoi il faut lui faire confiance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Mon argument est le même : l’adoption de votre amendement provoquerait une nette baisse du rendement, difficile à chiffrer, mais qui se compterait en centaines de millions d’euros. J’y suis donc très défavorable et vous demande de le retirer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Madame la ministre, si vous me confirmez que le rendement final sera bien de 1,6 milliard d’euros lorsque les comptes seront faits, votre engagement figurera au compte rendu de nos débats. J’accepterai alors de retirer mon amendement, car votre engagement fera loi."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je ne peux pas vous donner le chiffre final, car l’année 2025 n’est pas encore terminée. Nous sommes en train de calculer les baisses de prix avec les laboratoires pharmaceutiques. Je ne peux pas vous donner un chiffre exact, mais ce sera dans cet ordre de grandeur."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Je retire mon amendement, madame la ministre, mais j’ose espérer que si le seuil de 1,6 milliard est dépassé, l’excédent constituera un avoir pour l’année prochaine."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 959\n             rectifié est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Le débat est intéressant. Cela veut dire que les chiffres que vous m’avez transmis hier soir dépendent des données dont vous disposez ; mais j’espère que si, à l’issue de la navette, que j’espère conclusive, dans une dizaine de jours, vos chiffres évoluent, alors le montant M évoluera pour garantir un rendement de 1,6 milliard d’euros. Vous vous y êtes engagée."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952255",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de trois amendements, nos 493, 767 et 76, pouvant être soumis à une discussion commune.\nL’amendement no 493 de M. Damien Maudet est défendu.\nLa parole est à Mme la ministre, pour soutenir l’amendement no 767."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Il tend à réduire de 100 millions d’euros le montant Z pour l’année 2026, à la suite de l’exclusion des greffons tissulaires d’origine humaine de l’assiette de la clause de sauvegarde, décidée par le Sénat."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952259",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 76 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 76."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Il tend à baisser le montant Z prévu par la clause de sauvegarde, lequel concerne les dépenses liées aux dispositifs médicaux. Ce montant passerait de 2,29 milliards d’euros – son niveau décidé par le Sénat – à 2,19 milliards d’euros.\nToutefois, je vais retirer mon amendement, car il est moins ambitieux que les autres amendements de la discussion commune. Je vous invite donc à voter l’amendement no 493 de M. Maudet ou l’amendement no 767 du gouvernement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 76 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Ces amendements n’ont pas été examinés en commission. Vous avancez que l’exclusion des greffons de l’assiette de la clause de sauvegarde justifie la baisse du montant Z, mais je n’ai pas d’éléments qui m’en assurent – j’aimerais pourtant vous croire, madame la ministre.\nUne seule chose m’importe, c’est qu’après avoir revu à la baisse le montant Z et expliqué aux acteurs qu’ils disposaient d’un filet de sécurité, la clause de sauvegarde n’ait pas à être appliquée. J’ai besoin d’en avoir la certitude.\nJe suis défavorable à ces amendements, par cohérence, mais je comprends que la représentation nationale vous fasse confiance. J’ai en tout cas besoin de disposer d’éléments plus précis d’ici à la lecture définitive du PLFSS et d’être assuré que la clause de sauvegarde joue bien le rôle de filet de sécurité."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Nous avions prévu le déclenchement de la clause de sauvegarde en 2025 et en 2026. Je ne peux donc pas vous assurer du contraire."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 493 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 767 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Sur les amendements no 302 et identique, je suis saisie par le groupe Droite républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nL’amendement no 496 de Mme Élise Leboucher est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je suis personnellement défavorable à cet amendement, qui a été repoussé par la commission."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 496,\n             repoussé\n             par\n             le\n             gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952277",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 249, accepté par le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’amendement no 249 de M. le rapporteur général est un amendement de coordination."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 249, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 10, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952280",
+      "valeurPtsOdj": "1",
+      "titre": "Article 10  bis  A",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de deux amendements identiques, nos 302 et 788, qui visent à supprimer l’article 10  bis  A.\n La parole est à M. le rapporteur général, pour soutenir l’amendement no 302."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "L’article 10  bis  A me semble devoir être supprimé. D’une part, les pratiques abusives dans le champ commercial ou de la propriété intellectuelle doivent être sanctionnées par les juridictions, les administrations ou les autorités indépendantes compétentes, plutôt que de faire l’objet d’une taxe. D’autre part, il n’appartient pas à l’administration fiscale ou à l’Urssaf de se prononcer – leurs services n’en ont tout bonnement pas les moyens humains et juridiques – sur le caractère manifestement dilatoire de l’enregistrement de brevets, sur l’abus de position dominante, sur les gestes anticoncurrentiels et j’en passe. Ces amendements ont été adoptés par la commission et à titre personnel, j’y suis favorable."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952285",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Éric Michoux, pour soutenir l’amendement no 788."
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Il tend à éviter la création d’une taxe supplémentaire sur les médicaments. Cette taxe s’appliquerait aux entreprises qui utilisent les brevets pour retarder la mise sur le marché de génériques ; mais c’est en réalité le contribuable et donc le malade – ce qui est scandaleux et honteux – qui la paierait. (Applaudissements sur quelques bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Il est favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 302 et 788."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        222\n        Nombre de suffrages exprimés                220\n        Majorité absolue                        111\n                Pour l’adoption                89\n                Contre                131"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 302 et 788 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952294",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 250 est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général, pour soutenir l’amendement no 250."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il est rédactionnel. J’avais prévu le coup : je l’avais déposé au cas où l’Assemblée ne me suivrait pas pour supprimer l’article. (Sourires)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Il est favorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 250 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952300",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Ségolène Amiot, pour soutenir l’amendement no 502, sur lequel le groupe La France insoumise-Nouveau Front populaire m’a saisie d’une demande de scrutin public ."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Il vise à doubler le taux de la contribution applicable aux laboratoires pharmaceutiques qui abusent des brevets. Ces entreprises en déposent tant et plus, parfois sans limite, parfois en ne changeant qu’une virgule ou un pouième de la description d’un médicament, pour protéger leur monopole sur des spécialités qui ont fait leur temps. Ce faisant, elles abusent de notre système."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "J’ai défendu la suppression de l’article 10  bis A. J’ai été étonné par les votes, mais c’est ainsi.\nVous voulez doubler la taxe prévue par un article malvenu, ce qui ne me semble pas opportun.\nÀ titre personnel, mon avis est défavorable. La commission ne s’est pas prononcée sur cet amendement, tombé après qu’elle a voté la suppression de l’article auquel il se rapporte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je rappelle que le PLFSS tend à imposer à l’industrie pharmaceutique un effort, en l’occurrence 1,6 milliard d’euros de baisse des prix et 1,6 milliard de contribution, soit 3,2 milliards d’euros au total.\nL’amendement no 502 vise à augmenter la contribution des laboratoires pharmaceutiques qui retardent l’arrivée sur le marché de spécialités génériques, pour la porter à 6 % du chiffre d’affaires et à 10 % en cas de récidive.\nComme vous, je pense que les pratiques abusives, dans le champ du commerce ou de la propriété intellectuelle, doivent être fermement sanctionnées. Des dispositifs le permettent déjà et la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) est pleinement mobilisée sur le sujet. Or la taxe proposée favoriserait la désincitation. Le levier proposé n’étant pas le bon, il serait plus adapté de sanctionner et de lutter contre les pratiques dénoncées. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Ségolène Amiot."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Qu’on se rende bien compte : on parle de médicaments qui ont chacun fait l’objet de plus de 200 brevets. Ces dépôts empêchent la production de médicaments génériques et la mise sur le marché de spécialités à bas coût, qui permettent de soigner à des tarifs maîtrisés, dans l’intérêt de la sécurité sociale. Pendant que certains laboratoires abusent ainsi du système, les assurés et la sécurité sociale sont obligés de payer encore et encore des tarifs exorbitants pour accéder à certaines préparations médicales.\nIl est absolument nécessaire d’envoyer un signal fort qui rappellerait le caractère abusif de ces pratiques. Tout le monde les connaît et tout le monde est d’accord : sanctionnons-les pour de vrai ! (Mme Élisa Martin applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’amendement no 502."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        238\n        Nombre de suffrages exprimés                199\n        Majorité absolue                        100\n                Pour l’adoption                43\n                Contre                156"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 502 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Grâce à la navette parlementaire, j’ai commencé de corriger certaines erreurs concernant les greffons, mais je souhaite profiter d’une courte suspension de séance pour aller au bout de ce travail."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures dix, est reprise à\n               vingt-deux heures vingt.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La séance est reprise.\nL’amendement no 251 de M. le rapporteur général est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 251, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 10  bis A, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953060",
+      "valeurPtsOdj": "1",
+      "titre": "Article 10  bis  B",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général, pour soutenir l’amendement no 909, qui fait l’objet d’un sous-amendement."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est pour cet amendement que j’ai demandé une suspension de séance. En voyant sa longueur, vous vous demandez sans doute pourquoi je le qualifie d’amendement rédactionnel. Je vous rassure, il s’agit bien de corrections rédactionnelles ou de précisions quant à l’entrée en vigueur des dispositions.\nLe plan de la liste des produits et prestations n’étant naturellement pas de niveau législatif, le renvoi prévu dans la rédaction du Sénat n’a aucune portée, bien que l’intention soit louable. Il faut donc corriger le texte du Sénat.\nEn l’état, l’article 10  bis  B ne permettrait pas d’exonérer de l’assiette du montant Z les implants et greffons d’origine humaine. Reste que mon amendement, qui vise à y remédier, pose un problème : il engloberait des entreprises qui produisent des greffons mais exercent également d’autres activités. Or ce n’est pas ce que nous voulons. Nous devons donc impérativement voter le sous-amendement d’Annie Vidal pour ne pas rater la cible. Là encore, quand vous verrez la longueur de ce sous-amendement, vous en constaterez le sérieux.\nCet amendement et ce sous-amendement n’ont pas été examinés en commission."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Annie Vidal, pour soutenir le sous-amendement no 1088."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Le présent sous-amendement vise à sécuriser juridiquement la construction de l’assiette du montant Z en précisant la nature des produits concernés par l’exclusion de cette assiette, à savoir les implants et greffons tissulaires d’origine humaine. Il propose ainsi une insertion de la disposition introduite par l’article 10  bis  B dans l’article approprié du code de la sécurité sociale.\nPar ailleurs, ce sous-amendement précise que ce sont bien ces produits qui sont exclus de l’assiette, les exploitants restant toujours assujettis à la clause de sauvegarde pour leurs autres produits."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Avis favorable à l’amendement et au sous-amendement, qui apportent une clarification juridique et sont, à ce titre, importants."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Sur l’article 10  bis B, je suis saisie par le groupe Horizons & indépendants d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 1088 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 909, sous-amendé, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’article 10  bis  B, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        225\n        Nombre de suffrages exprimés                224\n        Majorité absolue                        113\n                Pour l’adoption                184\n                Contre                40"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 10  bis B, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953079",
+      "valeurPtsOdj": "1",
+      "titre": "Article 10  bis",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de trois amendements identiques, nos 233, 332 et 584, visant à rétablir l’article 10  bis supprimé par le Sénat.\nSur ces amendements, je suis saisie par le groupe Socialistes et apparentés d’une demande de scrutin public.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n La parole est à Mme Christine Pirès Beaune, pour soutenir l’amendement no 233."
+        },
+        {
+          "orateur": "Mme Christine Pirès Beaune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608172",
+          "texte": "Cet amendement vise à rétablir un dispositif adopté en première lecture par l’Assemblée. Alors que les pouvoirs publics considèrent les médicaments hybrides comme des génériques, en tout cas dans leurs décisions de tarification, ils sont traités différemment vis-à-vis de la clause de sauvegarde et de la contribution supplémentaire. Pourtant, ces médicaments hybrides et biosimilaires sont, comme les génériques, générateurs d’économies pour les finances publiques, ce que reconnaît d’ailleurs la Cour des comptes. Ils doivent être traités de la même façon."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953084",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Joëlle Mélin, pour soutenir l’amendement no 332."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "Je tiens à signaler qu’il est difficile pour nos entreprises pharmaceutiques et pour les réseaux de distributeurs de supporter ces clauses variables. Il est impératif d’apporter de la clarté sur la clause de sauvegarde : soit nous la maintenons de façon permanente, soit nous la retirons. Nous devons cesser ces changements permanents susceptibles de favoriser les pénuries de médicaments."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953087",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Annie Vidal, pour soutenir l’amendement no 584."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Je préciserai simplement pour ma part que l’essor des médicaments biosimilaires et hybrides permettrait de réaliser des économies considérables en matière de dépenses de médicaments à l’horizon 2030."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "On note là un beau travail parlementaire. Nos trois collègues avaient déposé des amendements un peu différents en commission. Je les avais sous-amendés pour expliquer ce qui avait été fait au Sénat et vous en avez tenu compte en déposant pour l’examen du texte en séance des amendements consolidés. Je tiens à vous en remercier.\nVotre proposition initiale prévoyait d’exclure les médicaments génériques, biosimilaires et hybrides de la clause de sauvegarde. Étant donné que les génériques en avaient déjà été retirés, vos amendements étaient, sur ce point, satisfaits. Vous envoyez ici un message fort au gouvernement : celui d’exclure, en plus des génériques, les biosimilaires et les hybrides.\nEn commission, nous avions envisagé soit l’exclusion – proposée par ces amendements –, soit l’instauration de taux réduits – que vous pourriez proposer, madame la ministre, mais je n’ai pas vu d’amendement du gouvernement en ce sens. Aussi, en l’absence de proposition sur ce dernier point, je donne un avis favorable à ces amendements – votés par la commission après adoption de mon sous-amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Ces amendements proposent de modifier le périmètre de l’assiette de la clause de sauvegarde en en excluant les médicaments hybrides et biosimilaires – médicaments dont, en première lecture, nous avions souligné qu’ils n’étaient pas au même niveau de maturité que les génériques. Je rappelle que la trajectoire des comptes sociaux prévoit la diminution du déficit de l’assurance maladie, grâce notamment à un rendement attendu de la clause de sauvegarde s’élevant à 1,6 milliard d’euros. Si ces amendements sont votés, ce rendement s’en trouverait réduit, nous éloignant ainsi de la trajectoire prévue. C’est pourquoi j’émets un avis défavorable. S’ils sont adoptés, je demanderai une courte suspension de séance – veuillez m’en excuser par avance – afin de rétablir les tableaux de trajectoire des comptes sociaux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Nous soutenons ces amendements. Madame la ministre, si les médicaments biosimilaires et hybrides ne sont pas au niveau de substitution des génériques, c’est parce que nous n’avons pas avancé suffisamment vite sur la possibilité de substitution offerte aux professionnels.\nMme Vidal a parlé d’économies : les médicaments biosimilaires représentent un potentiel d’économies de 600 millions d’euros pour les comptes de la sécurité sociale. Il est important de considérer les génériques, les hybrides et les biosimilaires au même niveau pour accentuer cette substitution ; elle constitue une source d’économies sans représenter aucun danger pour nos concitoyens, dans la mesure où ce sont les mêmes médicaments que les princeps."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 233, 332 et 584."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        255\n        Nombre de suffrages exprimés                253\n        Majorité absolue                        127\n                Pour l’adoption                207\n                Contre                46"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 233, 332 et 584 sont adoptés ; en conséquence, l’article 10  bis est ainsi rétabli.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures trente, est reprise à vingt-deux heures trente-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La séance est reprise.\nLa parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Vous venez d’adopter des amendements identiques qui changent le périmètre de l’assiette de la clause de sauvegarde. Le gouvernement demandera une deuxième délibération qui aura lieu avant le vote de la deuxième partie. Il n’est pas question de revenir sur votre vote : les biosimilaires et les hybrides seront bien exclus de l’assiette. En revanche, afin de conserver le rendement qui était prévu en 2025, nous déposerons un amendement visant à modifier le montant M pour 2025."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre de l’action et des comptes publics."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre de l’action et des comptes publics",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Ce que vient de dire ma collègue Stéphanie Rist est essentiel pour garantir la bonne exécution et la bonne tenue du déficit de 2025 – on parle quand même d’un rendement de 1,6 milliard d’euros. Si nous voulons finir l’année avec un déficit public de 5,4 % du PIB, il s’agira en effet de tenir compte de votre vote sans aggraver – c’est hors de question – le déficit de la sécurité sociale de 1,6 milliard d’euros en 2025, alors qu’il est déjà de l’ordre de 23 milliards. Nous y reviendrons donc en fin de deuxième partie."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953342",
+      "valeurPtsOdj": "1",
+      "titre": "Article 10  ter",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de plusieurs demandes de scrutin public : sur les amendements no 126 et identique, par les groupes Ensemble pour la République et Socialistes et apparentés ; sur l’amendement no 756, par le groupe Horizons & indépendants.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe suis saisie de trois amendements, nos 126, 925 et 756, pouvant être soumis à une discussion commune, visant à rétablir l’article 10  ter supprimé par le Sénat.\n Les amendements nos 126 et 925 sont identiques.\n La parole est à Mme Nathalie Colin-Oesterlé, pour soutenir l’amendement no 126."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Il vise à introduire un critère de territorialité dans le calcul de la clause de sauvegarde, en intégrant la localisation de la production des médicaments concernés. L’objectif est de valoriser la fabrication réalisée au sein de l’Union européenne, afin de renforcer la sécurité d’approvisionnement des patients français en soutenant les acteurs qui produisent en Europe.\nLa crise sanitaire a mis en lumière la fragilité des chaînes mondiales d’approvisionnement et la dépendance de l’Europe à l’égard des pays tiers pour des produits de santé essentiels. Le développement d’une production pharmaceutique européenne constitue un levier stratégique majeur pour garantir la continuité des soins et l’accès durable aux médicaments.\nJ’en profite pour défendre également l’amendement no 756, qui décale l’entrée en vigueur du barème territorialisé pour donner à l’administration le temps de mettre en place le circuit déclaratif nécessaire."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Michel Lauzzana, pour soutenir l’amendement no 925."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Je me bats depuis trois ans pour cet amendement, qui a d’ailleurs été voté chaque année. Il a été adopté par l’Assemblée nationale en première lecture avant d’être rejeté par le Sénat.\nIl vise à introduire un critère de territorialité dans le calcul de la clause de sauvegarde. Ce mécanisme n’a que des avantages : il sécurise les approvisionnements, puisque la fabrication se fait sur notre territoire, il favorise l’autonomie et la souveraineté par rapport aux laboratoires de pays tiers, en cohérence avec la stratégie européenne, et il permet de lutter contre les pénuries. Il présente également des avantages du point de vue du développement durable : lorsqu’on fabrique les médicaments sur notre sol, le bilan carbone est bien meilleur.\nNous pouvons appliquer cette mesure dès la fin de l’année 2026 : nous sommes en décembre et les notifications de la clause de sauvegarde pour cette année viennent d’arriver. Décaler l’application d’un mois entraînerait un décalage d’un an, c’est pourquoi je suis contre l’amendement no 756."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953352",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’amendement no 756 de Mme Nathalie Colin-Oesterlé a déjà été présenté.\nQuel est l’avis de la commission sur ces amendements ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Monsieur Lauzzana, je tiens à souligner votre perspicacité. L’objectif que vous défendez est louable : il s’agit de prendre en compte le lieu de production, dans une logique de souveraineté sanitaire. Toutefois, il est nécessaire d’être précis dans la définition des phases de production à prendre en compte. En effet, certains médicaments peuvent être fabriqués de manière séquentielle ou bien en parallèle, sur différents sites, situés dans différents pays.\nNous pouvons tous être d’accord sur l’objectif ; le plus dur, c’est le comment. D’ailleurs, vous l’avez dit, cette disposition a été votée à plusieurs reprises, mais n’a jamais été appliquée. Ce que je propose, c’est que nous fixions l’objectif et que nous travaillions sur les moyens d’y parvenir – cela ne sert à rien de voter une disposition qui ne sera pas mise en œuvre.\nJe remercie Nathalie Colin-Oesterlé d’avoir tenu compte, dans son amendement no 756, de mon sous-amendement à son amendement en commission. En effet, le décalage de l’entrée en vigueur permet de se donner le temps nécessaire pour qu’entreprises, administrations et Comité économique des produits de santé soient prêts pour appliquer immédiatement le barème territorialisé prévu par l’article 10  ter – j’approuve ce barème et j’invite tous nos collègues à examiner les différentes fractions que Mme Colin-Oesterlé a imaginées.\nJe demanderai par conséquent le retrait des amendements identiques nos 126 et 925 au profit de l’amendement no 756."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Nous avons eu ce débat en première lecture. Je comprends l’intention, mais je rappelle que des mécanismes existent pour favoriser la prise en compte de la localisation de l’usine et de la fabrication : les projets France 2030, qui permettent de relocaliser, ou encore la prise en compte de la localisation dans la fixation des prix. D’autre part, vos amendements sont d’une grande complexité juridique. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Michel Lauzzana."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Je vous avais déjà répondu un peu par avance, monsieur le rapporteur général. Nous sommes début décembre et la notification de la clause de sauvegarde parvient aux laboratoires. En repoussant d’un mois, le rendement sera repoussé d’un an : si nous retenons une date d’entrée en vigueur au 1er janvier 2027, la mesure s’appliquera pour l’année 2027. Pour qu’elle s’applique dès 2026, je maintiens mon amendement.\nLa territorialisation n’a vraiment que des avantages, madame la ministre, même si cette mesure introduit une certaine complexité. Nous devons adopter ces amendements qui ont été votés déjà par trois fois et qui visent à prendre en compte la fabrication des médicaments sur notre territoire, ce qui est aussi un axe souhaité par le gouvernement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Nathalie Colin-Oesterlé."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Il est tenu compte du critère de territorialité dans la fixation du prix, mais la clause de sauvegarde, c’est autre chose. Nous avons vécu une crise sanitaire suffisamment grave, qui a révélé au grand jour nos fragilités, pour tenir compte aujourd’hui de ce critère dans le calcul de la clause de sauvegarde."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Joëlle Mélin."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "Je rappelle à quel point la mondialisation en matière d’industrie pharmaceutique a été une folie, qui nous a privés de notre souveraineté sanitaire. Une territorialisation, à tout le moins au niveau européen, serait déjà une bonne chose, en attendant de retrouver la totalité de notre chaîne de valeur, ce qui sera indispensable dans le cas d’une nouvelle pandémie. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Au moment où les conflits se multiplient dans le monde, l’industrie pharmaceutique est une industrie stratégique – nous l’avons vu avec la covid. C’est pour cela que je soutiens les amendements de nos collègues visant à introduire un critère de territorialisation dans le calcul de la clause de sauvegarde. France 2030 vise à permettre la réinternalisation, mais cela ne suffit pas.\nMadame la ministre, vous allez demander une deuxième délibération, très bien ; mais n’oubliez pas les médicaments innovants. Il ne faut pas qu’ils soient pénalisés par la stabilisation du rendement de la clause de sauvegarde à 1,6 milliard d’euros. Nous avons exclu les biosimilaires et les hybrides du calcul de la clause de sauvegarde ; si on y inclut les médicaments innovants, ce sont eux qui trinqueront."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Christine Pirès Beaune."
+        },
+        {
+          "orateur": "Mme Christine Pirès Beaune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608172",
+          "texte": "Nous soutiendrons nous aussi les amendements identiques nos 126 et 925, qui avaient effectivement été adoptés en première lecture par l’Assemblée, et qui visent à promouvoir et à valoriser la production en Europe, donc en France, à hauteur de 20 % dans le calcul de la clause de sauvegarde. Ces amendements répondent directement à trois enjeux majeurs : la sécurité d’approvisionnement pour les patients, la souveraineté sanitaire pour le pays, mais aussi la préservation des sites industriels dans les territoires. (Applaudissements sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 126 et 925."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        262\n        Nombre de suffrages exprimés                248\n        Majorité absolue                        125\n                Pour l’adoption                209\n                Contre                39"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 126 et 925 sont adoptés ; en conséquence, l’article 10  ter est ainsi rétabli et l’amendement n° 756 tombe.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953377",
+      "valeurPtsOdj": "1",
+      "titre": "Article 11",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de plusieurs demandes de scrutin public : sur les amendements nos 436 rectifié et identique et 437 rectifié, par le groupe Écologiste et social ; sur l’article 11, par le groupe Ensemble pour la République.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Michel Lauzzana."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Je tiens à souligner l’importance de cet article. Nous savons les difficultés de l’Agence centrale des organismes de sécurité sociale (Acoss), qui est le trésorier à court terme de la sécurité sociale. L’article 11 vise à instaurer un mécanisme d’acompte versé par les laboratoires. Ces derniers doivent payer de toute façon : au lieu de payer tout en fin d’année, un acompte sera versé en cours d’année afin de permettre à l’Acoss de souffler un peu. Il faut absolument voter cet article."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de trois amendements, nos 436 rectifié, 503 rectifié et 437 rectifié, pouvant être soumis à une discussion commune.\n Les amendements nos 436 rectifié et 503 rectifié sont identiques.\n La parole est à M. Hendrik Davi, pour soutenir l’amendement no 436 rectifié."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Les dépenses de médicaments remboursées par la sécurité sociale s’élèvent à 36 milliards d’euros, mais les prix affichés pour chacun des médicaments au Journal officiel sont fictifs, parce qu’ils cachent des remises confidentielles négociées avec le Comité économique des produits de santé. Ces remises, qui ne cessent d’augmenter – elles s’élevaient à 9 milliards en 2024 –, sont entièrement couvertes par le secret des affaires. Une telle opacité empêche tout contrôle démocratique et citoyen.\nCet amendement, adopté en première lecture, propose de permettre ce contrôle démocratique et citoyen en imposant l’affichage du vrai prix."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952068",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. René Pilato, pour soutenir l’amendement no 503 rectifié."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Ces 36 milliards sont mis en commun, je dis bien en commun, pour payer les médicaments et soigner les gens. Il y a donc une exigence en matière de transparence, qu’il s’agisse des coûts de la recherche, des coûts de production et des remises, qu’on ne connaît pas, accordées par les laboratoires dont les taux de marge atteignent 45 %.\nSi on y voit plus clair, l’argent pourra être utilisé plus efficacement et on pourra ainsi soigner plus de malades. Et si l’on peut soigner plus de malades, on rend la sécurité sociale plus efficace. (Mme Ségolène Amiot applaudit.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952071",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est de nouveau à M. Hendrik Davi, pour soutenir l’amendement no 437 rectifié."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Après le vote en première lecture de l’amendement que je présentais il y a un instant, il y a eu un vrai chantage de l’industrie pharmaceutique, qui a menacé de quitter le territoire français. Il ne faut pas céder à ce chantage. Je l’ai déjà expliqué au conseiller du ministre et à Mme Rist : nous avons deux solutions pour y faire face.\nLa première, c’est la licence d’office, qui a déjà été utilisée – et ce n’est pas un communiste qui l’a créée, c’est le général de Gaulle. Si l’industrie pharmaceutique nous empêche de disposer d’un produit dont nous avons besoin, on peut octroyer une licence d’office qui remplace le brevet, comme cela s’est déjà produit à deux reprises au cours de notre histoire.\nLa seconde solution consiste à organiser un embryon de service public du médicament pour fabriquer certains produits. Votre ministère le fait d’ailleurs déjà pour répondre à la pénurie de certains médicaments.\nCet amendement de repli prend acte du chantage de l’industrie et propose, à la différence des amendements précédents, que les taux et les dispositifs de remise ne soient rendus publics qu’à partir du 1er janvier 2026."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "J’ai écouté avec attention les différents intervenants. Monsieur Lauzzana, l’article 11 est effectivement fondamental, car, avec l’article 10, il permet à l’Acoss de dégager 8 à 9 milliards de trésorerie supplémentaires, notamment grâce au mécanisme d’acompte des remises.\nMonsieur Davi, monsieur Pilato, je comprends votre intention, mais, chaque année, le CEPS, qui fixe le prix des médicaments, publie un rapport avec un luxe de détails sur les remises, les prix faciaux et publics ou sur les acomptes. Sa lecture est merveilleuse ou fastidieuse, tout dépend du point de vue. Je comprends, en lisant vos amendements, que vous souhaitez que ces éléments globaux soient diffusés auprès du grand public.\nAujourd’hui, nous devons avoir confiance en la CEPS, qui fixe le prix des médicaments, et en l’Acoss, qui perçoit les remises. Ces administrations disposent de tous les éléments par entreprise et par produit. Il n’y a donc pas d’opacité. Vraiment !\nDe plus, parce que vos amendements ne procèdent à aucun ajustement dans le code du commerce ni dans le code pénal, ils présentent un risque : celui que l’Acoss, qui gère la trésorerie de toutes les caisses, soit poursuivie pour délit de divulgation.\nCes amendements ont été rejetés par la commission. À titre personnel, j’émets un avis très défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Comme l’a rappelé le rapporteur général, les montants des remises et des chiffres d’affaires nets figurent dans le rapport d’activité du CEPS. Effectivement, ces montants sont globalisés et les montants individualisés ne sont pas publics.\nEn ce moment, le président Trump demande que le prix des médicaments soit augmenté en Europe pour le faire baisser aux États-Unis. Si notre prix net devient transparent, nous subirons une pression dans la négociation pour augmenter les prix, ce qui irait à l’encontre des amendements que vous défendez depuis le début de l’examen de ce PLFSS. Ce n’est pas céder à un chantage, mais simplement prendre en compte la réalité.\nC’est vrai, les données individualisées sont couvertes par le secret des affaires, mais je crois qu’il faut le préserver, surtout dans le moment géopolitique que nous traversons.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. René Pilato."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Je suis stupéfait : Sanofi ferme des labos de recherche tout en touchant le crédit d’impôt recherche (CIR), et vous ne voulez pas connaître le coût réel de la recherche sur les médicaments, unité par unité. Cela permettrait pourtant de savoir où sont les marges de manœuvre pour que nous puissions faire des économies en demandant aux fabricants de consentir des efforts. Cela permettrait aussi de rendre d’autres médicaments plus accessibles aux malades. C’est une question d’efficacité de gestion de l’argent que tout le monde met dans un pot commun."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "De quoi parle-t-on ? On parle de médicaments comme le Zolgensma, produit à partir d’innovations du CNRS – Centre national de la recherche scientifique – et de l’Inserm – Institut national de la santé et de la recherche médicale – et grâce à des financements du Téléthon, que l’industrie pharmaceutique vend au prix de 2 millions d’euros par patient.\nVous nous parlez du secret des affaires, mais existe-t-il des marchés dans lesquels on ne connaît pas les prix ? Si on connaît les prix, on peut les faire baisser ! Et c’est moi qui dois vous expliquer ça ?\nVous avez peur que si on divulgue les prix, Trump provoque leur augmentation, mais il n’est pas bête. Il sait très bien que nous avons négocié 9 milliards de remises, puisque c’est dans le PLFSS. Il ne connaît pas les remises sur chaque médicament, mais il sait poser une règle de trois. Il sait donc déjà comment faire du chantage. Ce n’est donc pas ça, le problème. Il faut rendre les prix transparents."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "J’ai de nombreuses demandes de prise de parole. Je vous demande donc de faire court.\n La parole est à Mme Joëlle Mélin."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "Je ne connais pas beaucoup de personnes qui s’opposeraient à la transparence, mais à force d’une vertu imposée, nous risquerions de nous mettre en danger sur le plan international. Dans le contexte actuel de forte désindustrialisation, il ne me semble pas essentiel, même au nom de la transparence, d’écorner le secret des affaires. Il est protégé par notre droit et nous devons le respecter, d’autant que les chiffres individualisés sont connus de nos administrations. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Nicolas Turquois."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "L’hypertransparence sur tout a ses limites. En l’occurrence, elle pourrait poser problème eu égard au respect de dispositions contractuelles et à ce qui se passe aux États-Unis.\nJ’ajoute que les associations de patients atteints d’une maladie rare nous demandent de faire respecter un minimum de confidentialité en évoquant les négociations ponctuelles sur certains médicaments difficiles d’accès. J’aurai plutôt tendance à les suivre. Je suis donc contre ces amendements de transparence absolue."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Agnès Pannier-Runacher."
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Trois éléments contre ces amendements.\nLe prix des médicaments en France est parmi les plus faibles d’Europe et il est bien inférieur à celui pratiqué aux États-Unis. C’est pour cela que le président Trump essaye de rééquilibrer les prix, qui sont particulièrement élevés dans son pays.\nLes négociations menées par le CEPS visent précisément à faire gagner du pouvoir d’achat grâce à la baisse du prix des médicaments.\nEnfin, le prix public est un marqueur au niveau européen. Si les remises sont publiques, d’autres pays européens pourraient être tentés de négocier les mêmes niveaux de remise. Nous serions donc perdants sur le prix des médicaments.\nIl ne faut donc surtout pas voter ces amendements."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je ne suis pas sûr que le président américain ait lu le PLFSS ou même qu’il suive nos débats. Si ce n’est effectivement pas le cas, il manque quelque chose ! (Sourires.)\nJe peux comprendre que vous ne me croyiez pas, mais le CEPS dispose bien des éléments médicament par médicament et laboratoire par laboratoire afin de pouvoir négocier les baisses de prix. Si les différences entre le prix public et le prix facial sont rendues publiques, cela dissuadera les laboratoires de concéder des remises. Vos amendements risquent donc de se retourner contre vos objectifs, que nous partageons.\nJe répète qu’ils pourraient exposer l’Acoss – qui n’est pas une structure privée mais le gardien de la trésorerie, des remises, des taxes et des clauses de sauvegarde des acteurs du médicament – à des poursuites pour délit de divulgation. L’Acoss et le CEPS disposent bien de tous les éléments par laboratoire pour connaître le prix réel de chaque médicament, mais il ne faut pas donner ces prix par exemple aux Américains, ou à d’autres."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Mais sur quels produits fait-on 43 % de marge ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Vos amendements risquent de se retourner contre nous. Je pense que ce n’est pas votre volonté."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "On se le demande !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je vous invite donc à les retirer. À défaut, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 436 rectifié et 503 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        276\n        Nombre de suffrages exprimés                276\n        Majorité absolue                        139\n                Pour l’adoption                47\n                Contre                229"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 436 rectifié et 503 rectifié ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’amendement no 437 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        277\n        Nombre de suffrages exprimés                276\n        Majorité absolue                        139\n                Pour l’adoption                45\n                Contre                231"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 437 rectifié n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’article 11."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        278\n        Nombre de suffrages exprimés                278\n        Majorité absolue                        140\n                Pour l’adoption                277\n                Contre                1"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 11 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952122",
+      "valeurPtsOdj": "1",
+      "titre": "Article 11  bis",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "J’ai reçu plusieurs demandes de scrutin public : sur les amendements no 15 et identique, par les groupes Horizons & apparentés et Union des droites pour la République ; sur les amendements no 303 et identique, par le groupe Horizons & apparentés.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de plusieurs amendements identiques nos 15, 30, 358 et 792, tendant à supprimer l’article 11  bis.\n La parole est à M. Julien Dive, pour soutenir l’amendement no 15."
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "L’article 11  bis, qui ciblait initialement les boissons prémix dans la logique d’une taxe comportementale, a dérivé au cours de la navette parlementaire. En effet, avec les modifications apportées par le Sénat, on est allé très loin puisqu’il intègre désormais des boissons présentant des caractéristiques qui n’étaient pas visées par l’Anses – Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail – et que l’article 11  bis dans sa première version – à laquelle je m’étais opposé –, ne ciblait pas.\nJe maintiens mon opposition à cet article, d’autant qu’il s’attaque désormais à des spiritueux, fabriqués sur nos territoires, qui n’ont rien à voir avec les prémix visés par notre assemblée en première lecture."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952677",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Danielle Brulebois, pour soutenir l’amendement no 30."
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "La rédaction adoptée par le Sénat porte une atteinte directe à des productions culturelles et artisanales de nos terroirs, qui n’ont pourtant rien à voir avec les mélanges d’alcool et de boissons énergisantes, dont l’Anses a identifié les risques. Je pense notamment au marc du Jura, aux alcools de fruits, à la gentiane ou encore aux rhums épicés."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Pour la défense des terroirs, avec Mme Brulebois !"
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "En élargissant ainsi le champ de la réglementation, la mesure perd en pertinence et risque de fragiliser des filières qui ne sont nullement concernées par les problématiques identifiées – en particulier les effets stimulants des mélanges et l’attractivité qu’ils exercent sur les jeunes."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952681",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Christophe Bentz, pour soutenir l’amendement no 358."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Nous sommes pour le moins ennuyés par cet article qui vise à créer une nouvelle taxe. Alors que notre système de sécurité sociale repose essentiellement sur les contributions du travail, il n’est pas sérieux d’ajouter une taxe comportementale dans le but de rééquilibrer nos finances sociales.\nCette mesure marque une dérive, puisqu’elle introduit une forme de surfiscalisation qui n’a pas sa place dans une loi de financement de la sécurité sociale.\nChaque année, le groupe Rassemblement national est cohérent (Sourires et exclamations sur quelques bancs des groupes LFI-NFP, SOC, EcoS et GDR) dans son opposition à toutes les taxes proposées par la gauche et le bloc central. (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Ce n’est pas vrai ; parfois, certains se trompent !"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Malheureusement, certaines taxes passent au travers des mailles du filet : c’est le cas ici, avec les boissons prémix. Nous continuons à nous opposer à l’ensemble des taxes, au nom de la défense du pouvoir d’achat des Français. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952687",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Éric Michoux, pour soutenir l’amendement de suppression no 792."
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Comme pour mes collègues, dès que nous entendons le mot « taxe », une lumière rouge s’allume – et ce qui est rouge est souvent dangereux ! (Applaudissements sur plusieurs bancs des groupes UDR et RN. – Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Excellent ! Le rouge est mis !"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Il parle des tomates !"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "texte": "Les boissons prémix, mélanges de boissons alcoolisées et non alcoolisées, posent un véritable problème de santé publique. Or jamais une taxe n’a permis de résoudre ce type de difficulté. Si la santé publique est réellement en jeu, il faut, sinon interdire le produit, du moins sensibiliser et éduquer les publics concernés.\nAvec vous, chaque problème appelle une nouvelle taxe : vous êtes insupportables et totalement incorrigibles. Tout ce qui bouge, on le taxe ; ce qui bouge encore, on le réglemente ; ce qui ne bouge plus, on le subventionne ! Bravo, les bizarres de la finance, et non aux taxes ! (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission sur ces amendements de suppression de l’article 11  bis ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je ne suis pas aussi nuancé et subtil que M. Michoux (Sourires et applaudissements sur quelques bancs des groupes EPR, SOC, DR et Dem), et je vais essayer de m’en tenir au fond."
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "C’est un métier !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Julien Dive a raison de rappeler que l’article que nous avions adopté ici a dérivé au Sénat. Dès lors, devons-nous renoncer au travail mené en commission, qui visait précisément à ne pas porter préjudice aux productions locales et à cibler uniquement les boissons de type Vody, fondées sur l’adjonction de substances excitantes, et supprimer tout le dispositif ?\nAu lieu de supprimer l’Assemblée, madame la présidente (Sourires), il faut plutôt corriger le Sénat – du moins l’amendement voté par le Sénat. (Sourires et applaudissements sur quelques bancs du groupe SOC. – MM. Thierry Benoit et Yannick Monnet applaudissent également.)\nNous avions conçu la rédaction initiale de l’article de manière à ne pas toucher à nos productions, à nos spiritueux, à nos produits traditionnels français : je pense aux rhums – autres que nature –, à des liqueurs, ou encore à des amers qui ne sont pas des bitters. Au lieu de supprimer l’article 11  bis, je vous propose de rétablir la version retenue par l’Assemblée nationale à l’initiative du président Valletoux, et améliorée grâce au travail de la commission qui a procédé à quelques retouches légistiques.\nJe demande le retrait des quatre amendements de suppression affichés en rouge, puisque je préfère le bleu des amendements suivants (Sourires) : les amendements no 303 et identique, sous-amendés par Mme Colin-Oesterlé, que je remercie pour sa proposition. J’émets d’ores et déjà un avis favorable à ce sous-amendement, qui nous donne le temps nécessaire à l’application de la réforme."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Comme lors de la première lecture, je rappelle que la création de taxes comportementales ne constitue en rien une politique de prévention globale : c’est pourquoi j’avais exprimé des avis plutôt défavorables. En revanche, s’agissant des prémix, j’avais émis un avis de sagesse, puisqu’il s’agit de boissons alcoolisées consommées par des mineurs. À cet égard, je rappelle que la vente d’alcool aux mineurs est interdite, comme la consommation par les mineurs."
+        },
+        {
+          "orateur": "M. Christophe Blanchet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Eh oui ! C’est utile de le rappeler !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Enfin, je précise que l’adoption des amendements de suppression ne rétablirait pas la version adoptée par l’Assemblée en première lecture, mais conduirait à supprimer purement et simplement l’article – et donc, la taxe sur les prémix. En cohérence avec ma position lors de la première lecture, je renouvelle mon avis de sagesse."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 15, 30, 358 et 792."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        267\n        Nombre de suffrages exprimés                255\n        Majorité absolue                        128\n                Pour l’adoption                94\n                Contre                161"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 15, 30, 358 et 792 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3952708",
+      "valeurPtsOdj": "1",
+      "titre": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Les amendements identiques nos 303, de M. le rapporteur général, et 880, de M. le président de la commission des affaires sociales, sont défendus.\nLa parole est à Mme Nathalie Colin-Oesterlé, pour soutenir le sous-amendement no 1067."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Il vise à modifier la rédaction de l’article pour préciser l’autorité chargée de la rédaction de l’arrêté. Je propose également un décalage de la date d’entrée en vigueur de la mesure, afin que les services de la direction générale des finances publiques (DGFP) chargés du recouvrement de cette taxe soient en mesure de l’appliquer dès son entrée en vigueur."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement sur les amendements identiques et le sous-amendement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Avis favorable au sous-amendement no 1067 et, par souci de cohérence, je m’en remets à la sagesse de l’Assemblée sur les amendements identiques."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "C’est le seul moment, au cours de l’examen du PLFSS, où nous parlons de santé publique : c’est toujours très frustrant de le faire de manière aussi saucissonnée et sans vision globale. La mortalité prématurée concerne 137 000 personnes par an ; elle est due principalement au tabac, à l’alcool et à la malbouffe responsable de l’obésité.\nOn peut vouloir, par principe, proscrire la fiscalité comportementale ; toutefois, ayons conscience que celle-ci ne poursuit pas un objectif de rendement, mais un objectif de santé publique : c’est d’ailleurs la ministre de la santé qui siège actuellement aux bancs des ministres, non Amélie de Montchalin. Pouvez-vous ainsi balayer d’un revers de la main toutes les mesures prises pour dissuader des comportements qui portent atteinte à la santé de chacun ?\nNous examinerons plus tard des amendements relatifs à l’ajout de sucre dans les aliments pour les nourrissons. Allez-vous considérer la mesure proposée comme une taxe ou comme une mesure de santé publique destinée à dissuader les industriels de créer une accoutumance dès la plus tendre enfance ? (Applaudissements sur les bancs du groupe SOC et sur quelques bancs des groupes EPR, EcoS et GDR. – MM. Yannick Neuder et Richard Ramos applaudissent également.)\nAffirmer qu’on ne peut pas aborder les enjeux de santé publique au moyen de la fiscalité comportementale relève du populisme sanitaire. L’objectif de cette fiscalité n’est pas le rendement – l’idéal serait même le rendement zéro, car l’enjeu est la santé publique. (Applaudissements sur les bancs du groupe SOC ainsi que sur quelques bancs des groupes EcoS et Dem.)"
+        },
+        {
+          "orateur": "M. Richard Ramos",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720092",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "Madame la ministre, je ne comprends pas votre avis de sagesse, alors que nous parlons de boissons alcoolisées dont le marketing vise spécifiquement une population de mineurs qui, en l’occurrence, n’est pas menacée par une baisse de pouvoir d’achat mais par l’addiction progressive à des produits qui nuisent à leur santé. (Applaudissements sur plusieurs bancs des groupes EcoS et SOC. – Mme Ségolène Amiot applaudit également.) On peut véritablement parler d’irresponsabilité complète au regard des enjeux de santé publique."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Nous voterons bien évidemment contre ces amendements. Monsieur Guedj, une taxe est une taxe, il ne faut pas la vendre comme autre chose ! On entend toujours l’argument de la protection des nourrissons : à ma connaissance, ils ne s’abreuvent pas de boissons alcoolisées ; nous n’en sommes pas là ! (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Vous êtes hors sujet !"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "L’argument était le même, s’agissant de la taxe sur les petits colis : il s’agissait aussi de protéger les nourrissons. Excusez-moi, s’il y a un problème sanitaire pour les nourrissons, il faut interdire les produits, pas les taxer ! Voilà pour la logique. (Applaudissements sur quelques bancs du groupe RN.)\nPar ailleurs, de même qu’en première lecture, je doute de la constitutionnalité du dispositif proposé, au regard de l’article 34 de la Constitution, puisqu’il est prévu que le ministre fixe par arrêté la liste des substances incluses dans l’assiette de la taxe. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Je partage partiellement les propos de notre collègue Guedj. Chaque année, nous avons le même débat sur les taxes comportementales et nous en arrivons toujours à la même conclusion : nous sommes incertains des effets de la taxe, en particulier quand elle vise, comme ici, un public très jeune."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "C’est une mesure de santé publique !"
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Une taxe qui se répercute sur le prix du produit n’a aucune incidence pour les consommateurs occasionnels, et ne dissuade pas ceux qui en sont devenus très dépendants et qui vont continuer à l’acheter. C’est pourquoi, chaque année, nous répétons qu’il est urgent de déployer une politique globale de lutte contre les addictions, qui pourrait constituer une de vos priorités, madame la ministre. (Mmes Ségolène Amiot et Colette Capdevielle et M. Philippe Vigier applaudissent.) Je ne doute pas que vous serez sensible à mon appel."
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "Une politique d’éducation de la population !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Pour répondre à l’interpellation de M. Renault, la disposition proposée est constitutionnelle ?"
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Le rapport de la commission est un peu long, mais je vous invite à le lire car les commentaires d’articles comportent la réponse : la taxe dont nous parlons existe déjà, sa constitutionnalité a donc déjà été validée. Son assiette et son taux sont définis. Il ne s’agit pas d’une nouvelle taxe, mais d’une taxe existante sur les prémix, qui vient désormais cibler les Vody, que nous considérons comme un fléau.\nCette disposition a été élaborée en concertation avec les filières afin d’éviter tout effet de bord sur nos productions. Sa rédaction n’a plus rien à voir avec l’amendement initial adopté en première lecture par la commission de l’Assemblée, lequel présentait effectivement des risques en la matière. La taxe est donc conforme à la Constitution : vous en trouverez la confirmation à la page 142 du rapport."
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "M. le rapporteur général a levé tous les doutes !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Ian Boucard."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Le débat sur les taxes comportementales est intéressant. Je voudrais répondre à M. Guedj, en prenant l’exemple de la première drogue en France – je veux parler du tabac. La taxe sur le tabac est plus que comportementale puisqu’elle représente une bonne partie du prix du paquet de cigarettes. Initialement, elle a certes contribué à en diminuer la consommation.\nOui, le tabac est légal, mais les prémix aussi, et le sucre dans le lait infantile également ! Soit les produits sont légaux, soit ils sont illégaux, mais au-delà d’un certain seuil, la taxe ne fonctionne plus. Ainsi, la taxe sur le tabac ne fait plus diminuer la consommation. (« Mais si ! » sur quelques bancs du groupe SOC. – Exclamations sur quelques bancs des groupes EPR, EcoS et Dem.)\nC’est l’élu d’une zone frontalière qui vous le dit : la taxe provoque la diminution des achats chez les honnêtes buralistes, et leur augmentation dans les pays frontaliers moins taxés. (Applaudissements sur plusieurs bancs des groupes DR, RN et UDR.) Vous pouvez faire le même constat devant une station de métro à Paris : on y vend des cigarettes illégales, beaucoup plus dangereuses que celles qui sont vendues par les buralistes,…"
+        },
+        {
+          "orateur": "M. Christophe Blanchet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "…mais qui ne rentrent pas dans vos petits comptes d’apothicaire. On continue à vendre ce poison – nous sommes quelques fumeurs, ici, mais nous savons que c’est du poison –, et, en prime, l’État ne perçoit plus aucune taxe."
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "C’était une mise au point nécessaire !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Béatrice Bellay."
+        },
+        {
+          "orateur": "Mme Béatrice Bellay",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842211",
+          "texte": "L’amendement Valletoux permet d’apporter des précisions utiles. Les boissons prémix – qu’il s’agisse de Vody ou d’autres marques courantes – bénéficient d’un marketing très attractif. Beaucoup d’entre vous n’ont sans doute jamais constaté l’état dans lequel se mettent certains jeunes, sur les plages ou à la fin d’une fête, en ayant consommé ces boissons.\nNous parlons de la santé publique d’enfants qui ne pourront pas acheter ailleurs des Vody ou des Lavish, parce qu’ils sont souvent sur des îles. En effet, les marketeurs de ces boissons ont décidé de les distribuer en priorité dans nos pays des océans, dits d’outre-mer.\nMoi, je pense à ces enfants qui n’auront pas la possibilité de traverser la frontière pour acheter ailleurs : autour, c’est la mer."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Alors il faut interdire ces produits !"
+        },
+        {
+          "orateur": "Mme Béatrice Bellay",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842211",
+          "texte": "Votons ces amendements pour protéger ces enfants. Je réitère auprès de Mme la ministre de la santé la demande d’interdire ces produits. L’ancien ministre Yannick Neuder avait ouvert la voie à cette mesure. Ils sont déjà interdits dans certains pays d’Afrique où ils ont d’abord été introduits. Nous avons besoin de telles mesures de santé publique. Je demande à nouveau l’interdiction de ces boissons chez nous. (Applaudissements sur plusieurs bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix le sous-amendement no 1067."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        269\n        Nombre de suffrages exprimés                191\n        Majorité absolue                        96\n                Pour l’adoption                77\n                Contre                114"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 1067 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 303 et 880."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        273\n        Nombre de suffrages exprimés                265\n        Majorité absolue                        133\n                Pour l’adoption                108\n                Contre                157"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 303 et 880 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 11  bis est adopté.)\n (Applaudissements sur plusieurs bancs des groupes SOC et EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3957231",
+      "valeurPtsOdj": "1",
+      "titre": "Article 11 ter",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Je suis saisie de six amendements, nos 560, 678 rectifié, 505, 731, 235 et 677, qui visent à rétablir l’article 11  ter, supprimé par le Sénat, et peuvent être soumis à une discussion commune.\n Les amendements nos 505 et 731 sont identiques, ainsi que les amendements nos 235 et 677.\n Les amendements nos 560, 678 rectifié, 505 et 731 font l’objet de sous-amendements.\n J’ai reçu plusieurs demandes de scrutin public : sur l’amendement no 560, par les groupes La France insoumise-Nouveau Front populaire et Droite républicaine ; sur l’amendement no 678 rectifié, par le groupe Droite républicaine ; sur les amendements no 505 et identique, par le groupe La France insoumise-Nouveau Front populaire.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Loïc Prud’homme, pour soutenir l’amendement no 560."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Cet amendement de bon sens vise à généraliser l’application du nutri-score à l’ensemble des aliments distribués en France. Les industriels qui ne s’y plieraient pas seraient obligés de verser une cotisation à la sécurité sociale.\nLa malbouffe est une question majeure de santé publique. Elle coûte 50 à 60 milliards d’euros chaque année à la sécurité sociale. Cette mesure minimale de prévention consistant à afficher le nutri-score pour que les consommateurs soient informés de ce qu’ils achètent permettrait d’éviter ce coût. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Étant donné le contexte budgétaire qui préside à nos discussions, il me semble que vous ne pouvez guère vous passer d’économiser 50 à 60 milliards d’euros.\nJe vous invite donc à voter l’amendement, qui est assis sur de nombreuses études scientifiques désignant comme mauvais pour la santé les aliments dont le score nutritionnel est bas, mais aussi les aliments ultratransformés, lesquels appartiennent souvent aux catégories D et E du nutri-score. Cela nous permettrait d’affronter enfin ce problème de santé publique grâce à des solutions concrètes qui permettraient d’éviter les épidémies de maladies chroniques comme les troubles cardio-vasculaires, le diabète de type 2 et la prévalence de certains cancers. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Jean-François Rousset, pour soutenir le sous-amendement no 1013."
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "Il vise à rétablir la disposition votée lors de la première lecture pour exempter de l’obligation d’affichage du nutri-score les produits de nos terroirs, qui traduisent un savoir-faire issu d’une longue tradition, tels que les produits appellation d’origine protégée (AOP) ou indication géographique protégée (IGP)."
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "Nous ne sommes pas opposés à l’affichage du nutri-score pour informer les consommateurs au sujet des produits ultratransformés ou, par exemple, des pizzas industrielles, mais il ne faut pas tout confondre. Nous pouvons être tranquilles s’agissant d’aliments que nous produisons depuis des siècles et qui ont fait la preuve de leur qualité. (Applaudissements sur quelques bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953131",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Anne Bergantz, pour soutenir l’amendement no 678 rectifié."
+        },
+        {
+          "orateur": "Mme Anne Bergantz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA805166",
+          "texte": "Je présenterai à la fois l’amendement no 678 et, par anticipation, l’amendement no 677, qui font partie de la même discussion commune. Tous deux ont été déposés par mon collègue Cyrille Isaac-Sibille qui, comme vous le savez, est très engagé en matière de prévention.\nLe nutri-score est un véritable outil de prévention en matière de santé publique et s’appuie sur des bases scientifiques solides. Je rappelle que la France est à l’origine de ce dispositif et que d’autre pays l’ont adopté depuis.\nLe nutri-score peut contribuer à réduire le risque de pathologie chronique, ce qui constitue un enjeu majeur de santé publique. Une alimentation riche en sel, en gras, en sucre, est un facteur d’obésité, de maladie cardio-vasculaire ou encore de certains cancers.\nPas moins de 1 400 marques ont adopté le nutri-score en 2024, ce qui représente environ 60 % du marché alimentaire français. Toutefois, certaines marques ont récemment décidé de le retirer de leurs emballages. L’amendement no 678 rectifié tend à le rendre obligatoire dans la publicité des produits alimentaires. Il s’agit d’une mesure de santé publique, soutenue par l’assurance maladie dans son rapport annuel « Charges et produits » pour 2026. L’amendement no 677 vise à rendre obligatoire l’affichage du nutri-score sur les denrées alimentaires : pour être pleinement efficace, il doit figurer sur l’emballage de tous les aliments.\nJ’ajoute que je suis favorable au sous-amendement de M. Rousset."
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "Ah !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Le sous-amendement no 1014 de M. Jean-François Rousset est défendu.\nLa parole est à Mme Élisa Martin, pour soutenir l’amendement no 505."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Dans la droite ligne des amendements précédents, il vise à imposer l’affichage du nutri-score sur l’ensemble des produits. Ce barème recueille l’adhésion et la confiance des Français ; il crée de la transparence, puisque à défaut d’indiquer précisément la composition du produit, il évalue sa qualité nutritionnelle. Cela est d’autant plus important que des intérêts industriels et politiques se conjuguent parfois pour s’opposer à la révélation de cette information. C’est la raison pour laquelle Santé publique France lutte contre les lobbys et que nous tenons à rendre le nutri-score obligatoire pour tous les produits alimentaires, quels qu’ils soient. (M. René Pilato applaudit.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953141",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 731."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Cet amendement déposé par mon collègue Boris Tavernier vise à rendre obligatoire l’affichage du nutri-score. Pour vous convaincre de sa pertinence, je vais vous donner deux chiffres : la part des Français souffrant d’obésité est passée de 8,5 % en 1997 à 17 % en 2020 ; chez les moins de 25 ans, elle a quadruplé. Les conséquences de l’obésité sont bien connues : elles vont des maladies cardio-vasculaires à la baisse de l’espérance de vie.\nIl est absolument nécessaire de publier le nutri-score, et ce, sur toutes les marques. Cela contraindra les industriels à produire des aliments moins gras, moins salés, moins sucrés. (M. Vincent Descoeur s’exclame.) C’est extrêmement important pour notre jeunesse. Nous avons voté cette disposition en première lecture ainsi qu’en commission ; il faut la voter de nouveau en séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Le sous-amendement no 1012 rectifié de M. Jean-François Rousset est défendu.\nLa parole est à Mme Sandrine Runel, pour soutenir l’amendement no 235."
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "À l’issue de nos débats en première lecture au sujet du nutri-score, nous avons finalement adopté l’obligation d’affichage pour l’ensemble des produits, à l’exception des AOP, IGP et appellations similaires. Nous aussi, nous voulons préserver l’agriculture française et les produits préparés par nos agriculteurs.\nNous avons souhaité introduire une obligation d’affichage du nutri-score pour plusieurs raisons. Tout d’abord, c’est une mesure de santé publique, de prévention, de lutte contre l’obésité et contre les maladies chroniques. Ensuite, c’est une mesure d’économie : plus nous permettrons à la population française d’être informée au sujet des produits ultratransformés et mauvais pour la santé, moins nous dépenserons pour la soigner.\nÉvidemment, la droite sénatoriale dans tout ce qu’elle a de plus odieux a supprimé cette disposition. Nous voulons donc la rétablir. Encore une fois, l’amendement prévoit une exception pour les produits AOP et IGP, ce qui devrait permettre un vote consensuel. (Applaudissements sur plusieurs bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "Parce que les produits AOP et IGP ne sont pas ultratransformés ! C’est cela qu’il faut comprendre."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953148",
+      "valeurPtsOdj": "1",
+      "titre": "(Le sous-amendement no 1013 est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’amendement no 677 a été défendu.\nSur les amendements no 235 et identique, je suis saisie par le groupe Socialistes et apparentés d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je suis encore sous le choc de l’adoption de l’article 11  bis non amendé, qui ne tient pas compte du travail effectué en commission, en première lecture et en nouvelle lecture. Je suis surpris par les trois votes qui se sont succédé – le rejet des deux séries d’amendements identiques et l’adoption de l’article –, qui ne me semblent pas cohérents."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Il a parfaitement raison !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Monsieur le président de la commission, nous devrons en reparler. Je pense qu’il y a eu une confusion.\nJ’en viens aux amendements à l’article 11  ter. Il est important de promouvoir l’alimentation saine ; la malbouffe est un véritable fléau, comme le montrent les maladies qui frappent les plus jeunes. Il est bon d’être éclairé au sujet de ce qu’on mange : cela sert à la fois la prévention, l’éducation des consommateurs et la réglementation des produits.\nVous abordez cet enjeu sous l’angle de la fiscalité, sans quoi nous ne pourrions en débattre : le seul moyen de parler du nutri-score dans le cadre du PLFSS consiste à proposer une taxe. Pour légiférer autrement à ce sujet, il faut passer par d’autres textes comme les lois Egalim. Il est d’ailleurs dommage que la fiscalité soit ici notre seule porte d’entrée. Pour débattre de santé dans le cadre de l’examen budgétaire, notre cadre organique ne nous permet que de taxer ou de couper dans les dépenses : alors que ces deux approches ne sont pas les seules possibles, les autres nous sont interdites. Il en va de même s’agissant du travail : nous n’avons pas le droit de modifier le droit du travail dans le cadre du PLFSS, ce qui est frustrant, puisque cela pourrait rapporter des recettes à la sécurité sociale.\nLes amendements tendent à rétablir une taxe sur les denrées alimentaires ou sur la publicité qui en est faite, sauf si la valeur nutritionnelle du produit est affichée. Certains d’entre eux visent à asseoir cette taxe sur les dépenses de publicité, d’autres prennent pour redevables les metteurs sur le marché et pour assiette leur chiffre d’affaires.\nL’article initial pose plusieurs problèmes. Premièrement, il ne discrimine pas entre les très grands producteurs agroalimentaires, qui seraient en mesure de respecter cette obligation, et les petits producteurs. La taxe s’appliquerait à tous, y compris aux petits producteurs de produits de qualité qui ne bénéficient pas des labels AOP ou IGP. Or il faut savoir que l’affichage du nutri-score requiert le recours à un bureau d’études, qui peut coûter des centaines d’euros,…"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…l’abonnement à un logiciel spécialisé, qui ne revient pas moins cher, le recours éventuel à un graphiste et le reconditionnement des produits concernés. La disposition telle que vous l’imaginez n’est donc pas du tout adaptée aux petits producteurs. Je regrette que vous ne les ayez pas été pris en considération en concevant l’article.\nDeuxièmement, vous proposez de rétablir l’article 11  ter dans une version qui renvoie à l’intégralité des dispositions du règlement européen sur l’étiquetage des aliments, sans se limiter à celles qui ont trait à la déclaration nutritionnelle. Cela conduirait à ce que les compléments alimentaires, par exemple, soient concernés. (M. Loïc Prud’homme s’exclame.) Il est impossible d’afficher le nutri-score de ce type de produits, qui peuvent être nécessaires pour des raisons de santé ; pourtant, ils ne pourraient échapper aux obligations de transparence et d’information du grand public. La taxe s’appliquerait donc injustement à eux.\nPour toutes ces raisons, je suis défavorable à l’ensemble des amendements, dont il me semble qu’ils ont été rejetés en commission."
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Non, l’un d’eux a été adopté !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Vous avez sûrement raison. En tout cas, mon avis est défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "La volonté du gouvernement est de poursuivre l’augmentation du nombre de produits étiquetés avec le nutri-score sur la base du volontariat. Actuellement, 1 500 marques l’affichent et 60 % du marché est couvert.\nJe sais que cet argument ne vous a pas convaincus jusqu’à présent, cependant le rendre obligatoire poserait un problème eu égard au droit européen. En outre, le nutri-score présente un profil simplifié et permet ainsi la comparaison entre produits, d’où son utilité pour l’information des consommateurs, mais il n’est pas conçu pour exposer un risque sanitaire global en prenant en considération toutes ses dimensions. Ensuite, il n’est pas logique d’appuyer un dispositif fiscal sur un outil tel que le nutri-score, car il évolue – il a ainsi connu une évolution récente –, alors que la fiscalité requiert plutôt de la stabilité.\nJe reprends l’argumentation que j’ai développée concernant les taxes comportementales : je ne soutiens pas qu’elles sont toujours inutiles, mais je dis qu’elles ne constituent pas à elles seules une politique de prévention. Il est trop facile de faire croire que nous réglerons le problème de l’obésité en rendant obligatoire le nutri-score, alors que nous savons que le droit européen nous obligerait à revenir sur cette décision. Je ne crois pas qu’il faille faire semblant ; en tout cas, je ne ferai pas semblant.\nEn revanche, je suis favorable à continuer de diminuer l’exposition des jeunes aux publicités pour des produits trop gras, trop sucrés ou trop salés. Vous savez que le déploiement de la charte alimentaire de l’Autorité de régulation de la communication audiovisuelle et numérique (Arcom) est en cours ; il faut absolument poursuivre ce travail."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "C’est une blague !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je maintiens l’intérêt de la signature des accords collectifs, notamment pour le travail sur la diminution de la teneur en sucre – là encore, je sais que cela ne vous avait pas convaincu en première lecture, mais je ne désespère pas d’y parvenir. Je demeure en effet persuadée que ces accords collectifs permettront d’avancer réellement.\nPour toutes ces raisons, l’avis du gouvernement est défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Comme vous vous en doutez, j’ai reçu beaucoup de demandes de prise de parole.\n La parole est à Mme Sandrine Dogor-Such."
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "Le nutri-score est un outil utile mais scientifiquement perfectible. Il repose sur un algorithme simplifié qui ne prend pas en compte la transformation ni les additifs, pas plus qu’il ne reflète la qualité globale d’un produit. Mme la ministre l’a souligné, un cadre européen est en cours d’élaboration et nous ne devons pas anticiper sur une réglementation future. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Ça fait dix ans que c’est en cours !"
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "La Commission européenne travaille depuis 2020 sur un étiquetage nutritionnel harmonisé obligatoire. Instaurer une obligation nationale isolée risque de créer une insécurité juridique et une distorsion du marché, alors même qu’une norme européenne contraignante est attendue.\nEt puis, prenons garde : une obligation pourrait aussi pénaliser disproportionnellement les PME car les petites structures agroalimentaires disposent de moyens techniques limités pour reformuler leurs produits ou adapter rapidement leur packaging. Enfin, le nutri-score est un outil d’information, non une politique nutritionnelle à lui seul. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Je vous demanderai d’être brefs pour que je puisse donner la parole à tous.\n La parole est à M. Loïc Prud’homme."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Il y a tellement de choses à corriger dans ce qui vient d’être dit, à commencer par les propos incroyables de la ministre de la santé qui soutient que le nutri-score n’est pas une politique de prévention sanitaire, alors que des dizaines d’articles scientifiques établissent un lien direct entre l’un et l’autre. (Applaudissements sur les bancs des groupes LFI-NFP et SOC.) Vos propos sont absolument insupportables car vous soutenez l’inverse de la réalité.\nEnsuite, les sous-amendements de M. Rousset et la prise de parole de Mme Runel relèvent de ce que j’appelle le gastropopulisme. Pardonnez-moi, que des produits soient labellisés IGP ou AOP, réalisés d’après la recette ancestrale de votre grand-mère ou je ne sais quoi… (Exclamations sur les bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Un peu de respect !"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "…ne les empêche pas, s’ils sont trop gras, trop sucrés ou trop salés, d’être mauvais pour la santé. Le nutri-score doit donc s’appliquer aussi à ces produits."
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Par ailleurs, ce n’est pas parce que le nutri-score s’y appliquera que nous n’aurons pas le droit de consommer ces produits. Il faudra simplement les consommer de manière modérée, comme c’est prévu dans le programme national nutrition santé (PNNS). Parlons donc de ce que nous connaissons avec des arguments valides, s’il vous plaît. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Christophe Proença."
+        },
+        {
+          "orateur": "M. Christophe Proença",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841367",
+          "texte": "Comme beaucoup ici, je suis d’accord avec la présence du nutri-score sur tous les produits transformés car ce sont eux qui sont évidemment les plus dangereux. J’émets cependant des réserves sur le fait d’imposer le nutri-score aux produits très peu transformés ou aux produits naturels issus de notre agriculture. En effet, dans nos territoires ruraux, beaucoup de paysans font des produits de grande qualité."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Christophe Proença",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841367",
+          "texte": "Leur imposer un nutri-score me paraît une erreur fondamentale. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "J’ai déjà expliqué pourquoi je pensais qu’il fallait rendre obligatoire le nutri-score ; j’exposerai maintenant pourquoi nous voterons contre les sous-amendements de M. Rousset qui visent à exempter de l’obligation d’afficher le nutri-score les labels tels que les AOP.\nIl y a un problème de définition des objectifs : en effet, en rendant obligatoire le nutri-score, notre objectif n’est pas de déterminer quels produits sont qualitatifs mais d’informer sur la qualité nutritionnelle, comme l’a très bien expliqué mon collègue Prud’homme. Le raisonnement est analogue à celui qui préside aux dispositions sur l’alcool : sur une bouteille de cognac est affiché le taux d’alcool et la prise en considération de cette information implique qu’il vaut mieux éviter de boire la bouteille en entier, mais cela ne vous empêche pas d’en boire. (Exclamations sur les bancs du groupe DR.) Il en va de même pour le roquefort : le consommateur sera simplement informé que c’est gras et salé ; cela ne l’empêchera pas d’en manger, mais, outre la valeur de l’information, cela permettra aussi de modifier les pratiques des industriels. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Nicolas Turquois."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Y a-t-il un problème de malbouffe en France ? Oui. Le nutri-score est-il un dispositif intéressant ? Oui, mais pour des produits transformés. Il faut le développer et non le généraliser. L’alimentation ne consiste pas à consommer une somme de lettres."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "C’est simplement pour l’information !"
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Elle suppose une diversité et des éléments qui sont mal pris en compte dans le nutri-score comme des vitamines ou des acides gras essentiels. L’alimentation est surtout une question d’éducation."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Le nutri-score doit donc être un élément d’information sur certains produits, mais le généraliser n’est pas souhaitable. Les salades et les pommes sur le marché ne portent pas de nutri-score et pourtant elles ont un intérêt gustatif, culturel et nutritionnel, qui ne pourrait être résumé par le nutri-score. Je suis donc défavorable à sa généralisation."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Fabrice Brun."
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "On peut comprendre que le nutri-score s’inscrit dans une logique de prévention contre la malbouffe, en ciblant les produits ultratransformés qui sont nocifs pour la santé, en particulier lorsqu’ils sont consommés de manière excessive mais, de grâce, épargnons les produits AOP, IGP, Label rouge, ceux qui ont reçu la dénomination « produits de montagne » ou « produits fermiers », qui sont naturels et savoureux,… (Applaudissements sur plusieurs bancs des groupes DR, EPR et SOC.)"
+        },
+        {
+          "orateur": "Mme Sophie Pantel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841381",
+          "texte": "On est d’accord !"
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "…qui représentent la France et des savoir-faire séculaires que le monde entier nous envie.\nJe respecte tous les mangeurs de graines, mais respectez nos agriculteurs et nos produits du terroir. (Applaudissements sur plusieurs bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Yannick Neuder."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je n’aurai pas l’enthousiasme du député Fabrice Brun, mais je souhaite simplement rappeler quelques chiffres de santé publique. D’ici quelques années, en 2035, 75 % des dépenses de santé seront liées aux maladies chroniques. (Mme Dominique Voynet applaudit.)"
+        },
+        {
+          "orateur": "Mme Colette Capdevielle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "D’une façon générale, 33 % de la population souffre d’hypertension artérielle ; 20 % de dyslipidémie ; 10 % de diabète dans certaines régions, notamment en outre-mer – je rejoins la députée Bellay sur la spécificité des outre-mer quant à la consommation d’alcool et quant à ces facteurs de risque. Il ne s’agit pas de comparer ou de juger tels ou tels produits – je partage les valeurs des territoires soulignées par Fabrice Brun sur lesquelles reposent les AOC et les AOP –, cependant le nutri-score peut être utile aux professionnels de santé qui expliquent aux patients, dans une perspective d’éducation, qu’ils peuvent se faire plaisir de temps en temps avec un produit qui a reçu une AOC ou une AOP et dont le nutri-score est E, mais que cela ne peut pas être la base de leur alimentation. Dans leur panier quotidien, il faut qu’il y ait une majorité de produits qui ont reçu le score A ou B ; il s’agit de mesures de prévention simples pour favoriser la bonne alimentation. (Applaudissements sur plusieurs bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Agnès Pannier-Runacher."
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Je rejoins les propos de M. Neuder en insistant sur un point : ce sont les Français qui ont instauré le nutri-score en 2017. Ensuite, huit pays européens ont suivi et ont retenu un cahier des charges commun. Si nous ne l’avions pas instauré, la situation au niveau européen n’aurait pas bougé. Ainsi, l’argument selon lequel il faudrait attendre que l’Europe bouge pour déployer le nutri-score est infondé. (M. Dominique Potier applaudit.)\nEnsuite, vous connaissez les chiffres concernant le coût de la malbouffe pour la sécurité sociale. Il est évalué à 12 milliards par an plutôt qu’à 70 milliards d’euros et cela reste une somme importante.\nJe rappelle aussi que nous ne parlons que d’une information – nous ne prenons pas les consommateurs pour des idiots."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Il y a déjà la liste des ingrédients ; il suffit de regarder l’étiquette !"
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Ils ont le choix, mais une information exacte leur est fournie.\nEnfin, les sommes consacrées à la promotion des produits ultratransformés représentent mille fois le budget du PNNS. (M. Dominique Potier et Mme Dominique Voynet applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Julien Dive."
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Il ne s’agit pas remettre en cause le nutri-score mais de débattre de son éventuelle généralisation. Or cette généralisation n’est que le symbole de la naïveté de la pseudo bonne conscience. C’est naïf, parce que les industriels de l’agro-industrie tricheront – j’ose le mot – sur les recettes, les modifieront avec des coproduits pour gagner quelques points et passer de B à A. La généralisation ne changera donc rien à l’affaire. (M. Romain Daubié applaudit.)\nVous vous donnez ainsi une pseudo bonne conscience car le vrai sujet de santé publique, c’est l’éducation alimentaire et rien d’autre. (Applaudissements sur plusieurs bancs du groupe DR et sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Justement !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "L’information contribue à l’éducation !"
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Consacrez des moyens à l’éducation alimentaire. Essayez de faire comprendre aux Françaises et aux Français qu’il est nécessaire qu’ils consacrent une part plus importante de leur budget à l’alimentation pour lutter véritablement contre la malbouffe."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Richard Ramos."
+        },
+        {
+          "orateur": "M. Richard Ramos",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720092",
+          "texte": "Comme nous l’avions fait en première lecture, il faut rendre hommage à Mathilde Touvier et à Serge Hercberg car c’est parce qu’ils ont défendu le nutri-score en France qu’il s’est répandu en Europe. (Mme Louise Morel applaudit.) Cependant, il ne faut pas opposer ceux qui sont pour le nutri-score et ceux qui voudraient qu’il ne s’applique pas aux AOP. En effet, le débat n’est pas là.\nNous sommes tous d’accord pour rendre l’affichage du nutri-score obligatoire ; c’est déjà un premier pas. Nous débattons d’un budget de compromis, alors je suis favorable à rendre le nutri-score obligatoire tout en faisant un effort pour les AOP, parce que les producteurs de foie gras des Landes, du Gers ou d’Alsace peuvent vouloir éviter d’y apposer le nutri-score. Ce n’est pas un combat nutri-score contre AOP. Trouvons donc un compromis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Jean-François Rousset."
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "Une AOP comme le roquefort repose sur un cahier des charges. On ne peut donc pas modifier la recette, contrairement à tous les produits transformés tels que les pizzas. (M. Inaki Echaniz applaudit.)"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Mais on ne demande pas de changer la recette !"
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "La quantité moyenne de roquefort consommée s’élève à 18 grammes, tandis que le nutri-score est calculé sur 100 grammes…"
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Et alors ?"
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "Essayez de manger 100 grammes de roquefort, vous verrez que vous saturerez vite.\nLes États-Unis sont le pays qui compte le plus d’obèses, mais je ne pense pas que les Américains se nourrissent d’AOP et d’IGP – ils se nourrissent de malbouffe. (Applaudissements sur quelques bancs des groupes EPR, DR et EcoS.) Nous ne voulons pas importer la malbouffe des États-Unis et lui donner un code couleur. (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Avant de passer aux votes, je vous indique que, sur l’amendement n° 506 à l’article suivant, je suis saisie par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 1013 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’amendement no 560, tel qu’il vient d’être sous-amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        243\n        Nombre de suffrages exprimés                207\n        Majorité absolue                        104\n                Pour l’adoption                60\n                Contre                147"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 560 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 1014 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’amendement no 678 rectifié, tel qu’il vient d’être sous-amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        246\n        Nombre de suffrages exprimés                205\n        Majorité absolue                        103\n                Pour l’adoption                87\n                Contre                118"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 678 rectifié n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 1012 rectifié est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 505 et 731, tels qu’ils ont été sous-amendés."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        246\n        Nombre de suffrages exprimés                206\n        Majorité absolue                        104\n                Pour l’adoption                59\n                Contre                147"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 505 et 731 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix les amendements identiques nos 235 et 677."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        243\n        Nombre de suffrages exprimés                237\n        Majorité absolue                        119\n                Pour l’adoption                117\n                Contre                120"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 235 et 677 ne sont pas adoptés ; en conséquence, l’article 11  ter demeure supprimé.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Je voudrais revenir sur le vote de l’article précédent, l’article 11  bis. Indépendamment de nos avis respectifs sur la taxation de la Vody, nous nous étions accordés en commission et lors de la première lecture pour veiller à préserver la production locale.\nPar la suite, en commission, nous avons constaté que la version votée par le Sénat était la pire possible puisqu’elle allait à l’encontre de cet objectif et touchait les productions alcoolisées traditionnelles et régionales. C’était ce que nous voulions éviter, mais la confusion du débat a fait que nous avons conforté la version du Sénat.\nJe ne pense pas que ce soit la volonté de l’hémicycle. Au vu des réactions que je reçois depuis quelques minutes, je demande une seconde délibération de l’article 11  bis. (Applaudissements sur quelques bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "C’est noté, monsieur le président."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953618",
+      "valeurPtsOdj": "1",
+      "titre": "Article 11  quater",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Ségolène Amiot, pour soutenir l’amendement no 506, tendant à supprimer l’article 11  quater."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Ce n’est pas un amendement de suppression car il vise à taxer toutes les dépenses publicitaires des casinos, en incluant celles qui portent sur les spectacles et les restaurants. En effet, il s’agit uniquement de produits d’appel destinés à faire venir les gens pour qu’ils dépensent leur argent dans des machines à sous et autres jeux.\nCes jeux d’argent rendent accro. Si un casino peut payer de la publicité, il peut aussi payer une taxe pour aider la sécurité sociale à lutter contre les addictions et à prendre en charge les personnes concernées. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Cet amendement a été rejeté par la commission. À titre personnel, j’y suis défavorable. Un casino peut faire partie d’un établissement qui a aussi d’autres activités – un musée, un hôtel, un restaurant ou de la thalassothérapie, par exemple. Je ne suis pas sûr que tous ceux qui se rendent dans ces lieux vont aussi au casino !\nIl me semble injuste de taxer la publicité pour le musée, le restaurant ou la thalassothérapie. Quant à la taxe sur la publicité pour les jeux d’argent, elle existe déjà. Ne pénalisons donc pas les acteurs locaux, s’il ne s’agit pas de jeux d’argent. Ces publicités participent d’une diversification importante pour l’économie des territoires.\nJ’avais repris, en première lecture, l’amendement de notre collègue de Courson, qui a été adopté : cet amendement ne créait pas d’exonération, mais il sécurisait dans la loi l’intention qu’avait eue législateur, l’an dernier. C’est la raison pour laquelle j’invite l’Assemblée à rejeter cet amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Même avis. Je remercie les députés qui sont engagés dans la prévention des addictions. Nous voulons lutter contre elles. L’addiction aux jeux d’argent est très coûteuse. Elle détruit de nombreuses familles et de nombreuses vies.\nDans le PLFSS pour 2025, des dispositions ont été prises pour taxer plus fortement la publicité sur les jeux d’argent. L’article 11  quater, issu d’un amendement de M. de Courson, est pour nous un bon article, car il confirme la portée de cette taxe, qui vise les publicités pour les jeux d’argent sans toucher les activités connexes des casinos."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Ségolène Amiot."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "J’insiste sur l’importance de cet amendement. Faire croire aux gens que l’installation d’un musée ou d’une thalassothérapie près d’un casino n’a rien à voir avec l’activité de celui-ci, c’est faux. Il se passe la même chose quand un centre Leclerc ou un Carrefour installe des pompes à prix coûtant. Ces activités ne sont que des produits d’appel, des publicités géantes, pour le casino ou le centre commercial.\nLe casino, c’est du jeu d’argent. Ne pas en avoir conscience, ne pas l’admettre, c’est soit être naïf, soit se mentir à soi-même en refusant de voir la réalité. Nous parlons d’addictions graves et profondes, qui détruisent des familles entières, dans toutes les couches de la société. Les familles les plus pauvres sont particulièrement touchées.\nOn ne peut pas se permettre de fermer les yeux sur ces addictions. C’est parce qu’on vous habitue à aller au casino que cela devient un geste naturel. Or il n’est pas naturel de jouer de l’argent."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Ayant été l’auteur, en première lecture, de cet amendement, je rappelle qu’on peut se rendre dans un restaurant géré par un casino, sans entrer dans les salles de jeux qui se trouvent à proximité immédiate. Il en va de même pour les activités culturelles.\nLes casinos ont l’obligation d’investir dans ces activités connexes. On ne peut donc pas taxer un gestionnaire de casino parce qu’il développe des activités culturelles et de restauration. D’ailleurs, s’il sous-traite ces activités, vous n’allez pas le taxer. Je vous invite à rejeter cet amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Justine Gruet."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "On pourrait aussi taxer votre addiction à la taxe ! (Applaudissements sur quelques bancs des groupes DR, EPR et Dem.) Cela fait des semaines que vous essayez de taxer tout ce qui peut l’être. Je pense, au contraire, que nous devons recentrer nos politiques publiques sur la prévention et l’éducation."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Avec quel pognon ?"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Au vu de nos débats, nous en viendrons bientôt à prévoir une taxe sur les réseaux sociaux (Applaudissements sur quelques bancs du groupe SOC et EcoS), car ceux-ci fragilisent considérablement notre société et représentent un problème de santé publique. (Applaudissements sur quelques bancs du groupe DR.)\nVous choisissez la facilité de la taxe, plutôt qu’une politique d’accompagnement. Finalement, cette taxe vise davantage à remplir les caisses de l’État qu’à venir en aide aux personnes qui souffrent d’addiction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Chers collègues, nous parlons de taxer la publicité pour les casinos ! Vous étiez prêts à geler les retraites et les revenus de toute la société, voire à faire la chasse aux arrêts de travail – cela va venir, vous êtes si durs avec les malades –, mais dès qu’il faut s’en prendre aux profits de l’industrie pharmaceutique ou des casinos, avec une petite taxe, c’est terrible ! Arrêtez ! (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "texte": "Vous êtes les rois de la taxe !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Je crois que nous pourrions éviter les caricatures. Dans beaucoup de territoires, les casinos sont devenus des lieux de culture – parfois même, les seuls lieux de culture. J’ai regardé la programmation culturelle d’un casino que je ne nommerai pas, à Enghien-les-Bains, dans le Val-d’Oise. Vous serez très étonné, monsieur le député, de voir qu’il serait absurde de taxer la publicité pour les activités culturelles de ce casino au même titre que celle sur les jeux d’argent.\nOn peut être subtil sans manifester aucune faiblesse, quand il s’agit de lutter contre les addictions aux jeux d’argent et de soutenir l’action de l’Autorité nationale des jeux. Nous voulons mener une action de prévention, et nous ne voulons pas de confusion."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Je mets aux voix l’amendement no 506."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        216\n        Nombre de suffrages exprimés                203\n        Majorité absolue                        102\n                Pour l’adoption                60\n                Contre                143"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 506 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953651",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 214 rectifié, accepté par le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’amendement no 214 rectifié de M. le rapporteur général est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 214 rectifié, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 11  quater, amendé, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3953655",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Suite de la discussion, en nouvelle lecture, du projet de loi de financement de la sécurité sociale pour 2026.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-trois heures cinquante-cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

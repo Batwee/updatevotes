@@ -1,0 +1,3007 @@
+{
+  "uid": "CRSANR5L17S2026O1N242",
+  "seanceRef": "RUANR5L17S2026IDS30607",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2026-05-21",
+  "dateLisible": "jeudi 21 mai 2026",
+  "session": "Session ordinaire 2025-2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4095589",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’un projet de loi",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "L’ordre du jour appelle la suite de la discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles (nos 2632, 2765)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095817",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Cet après-midi, l’Assemblée a poursuivi la discussion des articles, s’arrêtant à l’amendement no 1082 portant article additionnel après l’article 5, examiné par priorité."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095593",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 5 (amendements appelés par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Nathalie Coggia, rapporteure pour avis de la commission du développement durable et de l’aménagement du territoire – articles 5 à 8 ter –, à laquelle la commission des affaires économiques a délégué l’examen des articles 5 à 10 et 14, pour soutenir l’amendement no 1082."
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis de la commission du développement durable et de l’aménagement du territoire",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Les commissions locales de l’eau (CLE) peuvent constituer en leur sein des commissions ou comités techniques chargés d’instruire les questions relevant de leur compétence. Ces instances, dont l’existence et la composition relèvent des règlements intérieurs propres à chaque CLE, jouent un rôle déterminant dans la préparation des décisions relatives à la gestion de l’eau, notamment lors de la révision des schémas d’aménagement et de gestion des eaux, les Sage.\nOr, si certaines CLE ont spontanément constitué des commissions techniques spécialisées sur les questions agricoles, cette pratique n’est pas généralisée et ne fait l’objet d’aucune obligation légale. Il en résulte une hétérogénéité dans la prise en compte des enjeux agricoles au sein des instances de gouvernance locale de l’eau, ce qui nuit à la qualité du dialogue entre la gestion de l’eau et l’activité agricole.\nLe présent amendement généralise l’obligation de constituer une commission technique agricole au sein de chaque CLE."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la ministre de l’agriculture, de l’agroalimentaire et de la souveraineté alimentaire, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre de l’agriculture, de l’agroalimentaire et de la souveraineté alimentaire",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Le gouvernement est extrêmement favorable à l’amendement de Mme la rapporteure, que je tiens à remercier.\nEn effet, les agriculteurs demandent avec insistance d’être mieux représentés au sein de la commission locale de l’eau, instance très importante qui est mobilisée pour l’élaboration du Sage et dont nous avons évoqué le rôle à l’occasion de l’examen de différents amendements. Le fait de constituer une commission technique agricole donnera aux agriculteurs le sentiment qu’ils sont reconnus et que les préoccupations qui leur sont propres peuvent être entendues."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1082 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "L’amendement est rejeté. (« Oh ! » sur divers bancs.)"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "C’est pourtant ce que veulent les agriculteurs !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Le vote est très clair. Il n’y avait que quelques voix « pour ». (Protestations sur les bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Il n’y a personne du groupe EPR !"
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Ils sont où ? Il n’y a personne !"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Pas question de revoter !"
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Vous remettez en cause la présidence ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Mes chers collègues, il est vingt et une heure trente. Il nous reste deux heures et demie à passer ensemble de façon agréable. Nous poursuivons donc la discussion. (Applaudissements sur les bancs des groupes RN et UDR.)\nLa parole est à M. Mickaël Cosson, pour soutenir l’amendement no 2227."
+        },
+        {
+          "orateur": "M. Mickaël Cosson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793520",
+          "texte": "Il vise à assurer la souveraineté alimentaire par des actes plus que par des paroles, en prévoyant que les projets de territoire pour la gestion de l’eau (PTGE) prennent en compte la souveraineté alimentaire et le maintien de l’activité agricole dans nos territoires. L’eau ne doit pas être pensée seulement comme une contrainte environnementale, c’est aussi une condition pour produire et nourrir. L’amendement vise donc à articuler plus clairement eau, agriculture et transition écologique au lieu de les opposer. Il permet d’inscrire noir sur blanc que les PTGE doivent également prendre en considération la réalité productive de chacun de nos territoires."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "La souveraineté alimentaire est au cœur du texte. Toutefois, introduire dans le code de l’environnement un renvoi au code rural pour encadrer les PTGE créerait une hiérarchie implicite entre les objectifs de la politique de l’eau et ceux de la politique agricole. Les PTGE ont vocation à concilier l’ensemble des usages de l’eau sur un territoire donné ; y inscrire explicitement la souveraineté alimentaire comme critère de référence risque d’être interprété comme le fait d’accorder la priorité à l’usage agricole par rapport aux autres, ce qui serait contraire à la logique de l’article L. 211-1 du code de l’environnement.\nAvis défavorable, donc."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre délégué chargé de la transition écologique, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué chargé de la transition écologique",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Le gouvernement est favorable à cet amendement qui prévoit la prise en compte des grands principes de la politique agricole dans la planification locale de l’eau afin de mieux concilier les usages.\nSi vous me le permettez, madame la présidente, je voudrais revenir sur le vote qui vient d’avoir lieu.\nJe rappelle à la représentation nationale que le Rassemblement national s’est opposé à une disposition…"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "…favorable aux agriculteurs !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "…qui crée des comités techniques agricoles au sein des commissions locales de l’eau, une disposition demandée par les agriculteurs, une disposition d’équilibre qui permettait de concilier l’ensemble des usages. (Protestations sur les bancs du groupe RN.) Pour ma part, mesdames et messieurs les députés du Rassemblement national, je considère que l’ensemble des amendements que vous défendrez pour revoir les CLE et la démocratie locale de l’eau sont nuls et non avenus puisque vous n’êtes même pas capables d’adopter une mesure aussi consensuelle. (Applaudissements sur les bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la présidente de la commission du développement durable et de l’aménagement du territoire."
+        },
+        {
+          "orateur": "Mme Sandrine Le Feur",
+          "fonction": "présidente de la commission du développement durable et de l’aménagement du territoire",
+          "role": null,
+          "idActeur": "PA719412",
+          "texte": "Je veux que la représentation nationale et les agriculteurs qui nous regardent se rendent compte de ce qui vient d’être rejeté par le Rassemblement national, qui affirme pourtant défendre les agriculteurs : nos collègues ont voté contre la création d’un comité technique agricole au sein des CLE."
+        },
+        {
+          "orateur": "M. Philippe Ballard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794562",
+          "texte": "C’est une blague !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Philippe Schreck."
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Depuis ce matin, monsieur le ministre, votre projet de loi passe grâce au Rassemblement national. En effet, le groupe EPR n’est pas là ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Il faut assumer votre vote !"
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Dans l’amendement en question, vous aviez tout de même le génie de créer une sous-commission dans une commission."
+        },
+        {
+          "orateur": "Mme Sandrine Le Feur",
+          "fonction": "présidente de la commission du développement durable et de l’aménagement du territoire",
+          "role": null,
+          "idActeur": "PA719412",
+          "texte": "C’était la demande des agriculteurs !"
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Eh bien, il fallait que vos troupes soient là à l’heure, comprennent votre amendement et le votent. Nous ne sommes pas votre béquille, nous n’avons pas à recevoir de leçons et les agriculteurs savent très bien à qui ils doivent la situation dans laquelle ils sont : à vous ! (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Bien sûr, monsieur le député, chacun est absolument libre de son vote. Simplement, pour avoir beaucoup échangé – comme vous, sans doute – avec les agriculteurs, j’ai constaté qu’ils étaient très demandeurs d’une meilleure représentation au sein de la CLE. Que de fois ne nous ont-ils pas dit : Nous ne sommes pas suffisamment nombreux, nous voulons être mieux reconnus dans nos spécificités ! Ils étaient vraiment demandeurs de cette sous-commission. D’où notre surprise car il nous semblait, d’après vos interventions, que c’était une ambition et une préoccupation partagées. Cela dit, chacun est maître de son vote."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2227 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095633",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 320 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Lisa Belluco, pour soutenir l’amendement no 320."
+        },
+        {
+          "orateur": "Mme Lisa Belluco",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795362",
+          "texte": "L’espace d’un instant, nous nous sommes inquiétés de l’extension du socle commun, de la bonne vie du socle commun et de l’amitié entre les droites de l’hémicycle, mais nous voilà rassurés ! (Mme Marie Pochon applaudit.)\nLe présent amendement s’inspire d’un avis du Conseil économique, social et environnemental (CESE) d’avril 2023, qui recommande d’interdire l’utilisation de fonds publics pour les projets de stockage de grande taille appelés mégabassines ou réserves de substitution. Nous proposons que ces projets, qui représentent une maladaptation, ne puissent plus être financés par de l’argent public. L’argent public des agences de l’eau doit servir à financer une meilleure adaptation, des solutions fondées sur la nature et des stockages adaptés aux territoires."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Tout d’abord, interdire le financement des réserves de substitution est directement contraire à l’objet du titre III du présent texte, qui vise précisément à sécuriser les projets de stockage inscrits dans des PTGE concertés : les agences de l’eau en sont un financeur essentiel et leur retrait rendrait la plupart de ces projets économiquement impossibles."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "On ne vise que les grandes bassines !"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Ensuite, conditionner l’ensemble des financements d’irrigation à l’agriculture biologique introduit une discrimination entre irrigants que rien ne justifie au regard des objectifs de gestion équilibrée de la ressource – nous en avons déjà parlé.\nEnfin, la disposition interdisant le financement du démantèlement des réserves jugées illégales est paradoxale car elle prive les agences d’un outil utile pour accompagner la mise en conformité après une décision de justice, ce qui est contraire à l’intérêt général.\nL’avis est donc défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Cet amendement me surprend un peu. M. Biteau nous a fait la démonstration tout à l’heure que lorsque les réserves de substitution étaient financées par de l’argent public et gérées publiquement – il donnait l’exemple de la Vendée –, cela marchait bien."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Si c’est 100 % public, oui !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Or votre amendement dit exactement le contraire, madame la députée.\nS’agissant de l’agriculture biologique, nous avons dit dix fois ce que nous pensions : affirmer qu’il faut lui donner la priorité sur toute autre forme d’agriculture est une discrimination qui nous paraît problématique. Toujours est-il que l’interdiction de toute subvention publique pose un réel problème. C’est pourquoi nous émettons un avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Voilà plusieurs fois que l’on nous objecte qu’affecter l’argent public prévu pour l’irrigation au soutien à l’agriculture biologique constitue une discrimination. Mais la grande différence entre l’agriculture biologique et l’agriculture chimique, c’est que la première ne recèle pas les coûts cachés de la seconde en matière d’assurance maladie, d’explosion du nombre de cancers, de conséquences pour les collectivités chargées de la fourniture de l’eau potable, qui doivent assumer les coûts de la dépollution et du charbon actif – et ainsi de suite."
+        },
+        {
+          "orateur": "Mme Claudia Rouaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342196",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Donc cessez de parler de discrimination quand il s’agit du mode de production agricole le plus vertueux pour les écosystèmes et la ressource en eau !"
+        },
+        {
+          "orateur": "Mme Claudia Rouaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342196",
+          "texte": "Pour la santé également !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 320 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095999",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2190 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Mickaël Cosson, pour soutenir l’amendement no 2190."
+        },
+        {
+          "orateur": "M. Mickaël Cosson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793520",
+          "texte": "Il vise à encadrer les prescriptions des agences de l’eau pour les projets agricoles. On parle souvent de transposition entre la réglementation nationale et européenne ; l’amendement prévoit que les agences de l’eau ne puissent pas, sauf exception majeure, imposer aux projets agricoles des critères qui ne sont pas prévus par la réglementation en vigueur en matière d’eau, de milieu marin ou de biodiversité. L’idée est d’éviter les exigences variables, plus ou moins lourdes, d’un territoire à l’autre. La protection de l’environnement doit suivre des règles claires, prévisibles et équitables. C’est donc un amendement d’égalité de traitement et de sécurité pour les agriculteurs."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Certes, l’hétérogénéité des conditions, d’une agence à l’autre, nuit parfois à la lisibilité des dispositifs ; il ne s’agit cependant pas d’un dysfonctionnement, mais du produit d’une gouvernance décentralisée qui permet aux agences d’adapter leurs critères aux réalités hydrologiques, agronomiques, économiques. Un aquifère karstique méditerranéen n’appelle pas les mêmes critères qu’une plaine alluviale du Bassin parisien. Imposer par décret un socle national unique, interdire aux agences d’y déroger dans un sens plus restrictif, réduirait la capacité d’adaptation au terrain qui fait précisément leur valeur ajoutée par rapport à une administration centrale. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2190 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095835",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 917 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 917."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Cet amendement reprend une proposition du groupe Modem qui elle-même faisait suite au rapport de la mission d’information sur la gestion des conflits d’usage en situation de pénurie d’eau. La mission estimant insuffisantes les sanctions infligées aux récidivistes en matière de non-respect des restrictions – par exemple lorsqu’un arrêté préfectoral, pour cause de sécheresse, interdit l’irrigation –, nous souhaitons les aggraver."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "L’amendement procède d’une logique d’affichage répressif, alors que le principal problème identifié tient à l’insuffisance des contrôles et que le droit permet déjà de sanctionner le non-respect de ces arrêtés. En outre, porter l’amende en cas de récidive à 15 000 euros, sans modulation selon la gravité des faits ou les volumes en cause, risque de créer des situations où elle deviendrait disproportionnée. La gestion durable de la ressource en eau suppose d’abord des moyens de contrôle, de prévention, d’accompagnement des usagers. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "J’aimerais savoir pourquoi, car ce qu’avance Mme la rapporteure est malheureusement faux. Que chacun comprenne bien : l’amende en cas de récidive s’élevant à 1 500 euros, bafouer l’arrêté préfectoral qui interdit l’irrigation coûte moins cher que de le respecter. (Mme Dominique Voynet applaudit.) Il faut que ce soit le contraire ; c’est élémentaire, extrêmement simple. Du reste, cette mesure proposée par le Modem est inspirée, je le répète, des conclusions de la mission d’information parlementaire. (Applaudissements sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre délégué."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Au-delà du problème de l’eau, nous sommes en train de travailler à une réévaluation de l’échelle des sanctions en matière de police environnementale, au sens large. Il faudrait que votre demande s’inscrive dans cette réflexion d’ensemble, de manière à conserver une proportionnalité ; c’est la raison pour laquelle nous ne souhaitons pas aborder ce soir ce point précis, même s’il conviendrait d’alourdir ces sanctions."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 917 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095846",
+      "valeurPtsOdj": "1",
+      "titre": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est de nouveau à Mme Delphine Batho, pour soutenir l’amendement no 920."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Nous avons beaucoup évoqué la rareté de l’eau et débattu des productions agricoles qui méritent que leur irrigation soit sécurisée, préservée, dans un contexte de changement climatique. Il ne s’agit plus de départager divers types d’agriculture alimentaire mais d’opposer, d’une part, la sécurité et la souveraineté alimentaires, d’autre part, les cultures à vocation énergétique, dont cet amendement vise à empêcher l’irrigation. (Mmes Marie Pochon et Lisa Belluco applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Nous en avons déjà un peu parlé. Qu’en cas de pénurie d’eau l’alimentation humaine ait la priorité par rapport à l’énergie, c’est un principe légitime ; en revanche, cibler spécifiquement les cultures intermédiaires à vocation énergétique reviendrait à instaurer, entre les usages agricoles de l’eau, une hiérarchie qui dépasse la vocation de ce texte. En zone de répartition des eaux (ZRE), la gestion des priorités relève des PTGE, des arrêtés préfectoraux, des schémas directeurs d’aménagement et de gestion des eaux (Sdage) et des Sage, le tout permettant un arbitrage territorialisé. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "L’amendement vise à interdire, en ZRE, l’irrigation des cultures intermédiaires à vocation énergétique. Je souscris également au principe en vertu duquel l’alimentation est la vocation première de l’agriculture ; jamais nous ne connaîtrons l’équivalent du système allemand, où la viande de porc, par exemple, constitue un sous-produit de la méthanisation, ce que nous condamnons.\nCependant, ces cultures intermédiaires présentent l’avantage de sécuriser le fonctionnement des méthaniseurs ; elles jouent aussi un rôle important en période d’interculture, leur couvert végétal évitant que le sol, entre récolte et semis, ne reste nu. Il appartient donc aux territoires dans le cadre des PTGE, aux organismes uniques de gestion collective (OUGC) dans celui de la stratégie d’irrigation, de définir les usages les plus pertinents. C’est la raison pour laquelle le gouvernement émettra un avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "L’amendement n’a pas pour objet de remettre en cause des cultures intermédiaires, dont nous pourrions évoquer le rôle dans la rotation des cultures, par rapport aux nitrates, etc. Il s’agit uniquement de savoir si on les irrigue et à cette question, je réponds non. Dans un contexte de changement climatique, où le bien commun que constitue l’eau devient un bien rare, on ne consacre pas l’irrigation à des cultures intermédiaires à vocation énergétique ; ce serait un non-sens, une absurdité.\nDe surcroît, il n’est pas vrai que les PTGE et autres permettent d’apprécier au cas par cas. Sans fondement légal, aucun OUGC ne peut décider d’exclure de l’irrigation tel type de culture. Il faut une disposition législative. Si mes souvenirs sont exacts, l’Assemblée avait d’ailleurs adopté un amendement en ce sens lors de l’examen du projet de loi Egalim ; l’opposition des sénateurs a malheureusement conduit la commission mixte paritaire à supprimer ce passage du texte mais l’Assemblée y était favorable. Or elle n’était pas plus acquise, alors, à nos idées qu’elle ne l’est aujourd’hui ! (Mmes Cyrielle Chatelain et Dominique Voynet applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Dominique Potier."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Je soutiens Mme Batho. Pour élargir un peu la perspective, deux choses dans ce texte nous inquiètent terriblement : d’une part, la banalisation, sans régulation, de l’agrivoltaïsme de masse ; d’autre part, une méthanisation en vue de laquelle le gouvernement, sur les conseils du département énergétique de Bercy, a fait le choix de l’injection alors que la cogénération pouvait engendrer des systèmes vertueux d’économie circulaire, recyclant les effluents et permettant une certaine optimisation.\nCes deux décisions, je le répète, sont terribles ; ajoutez la capacité à irriguer des agriculteurs les plus puissants, ceux qui disposent de l’entregent et des moyens financiers nécessaires, et vous obtenez un système totalement déraisonnable. Nous sommes en train de nous préparer à des pénuries, à des crises énormes, et nous utiliserions de l’eau pour fabriquer de l’énergie, avec un taux de rendement et un bilan écologique tout à fait discutables ?\nIl existe des méthanisations encore plus vertueuses que la cogénération : ainsi, le système Nénufar récupère puis recycle le protoxyde d’azote et les émanations de méthane par des systèmes peu capitalistiques, permettant des économies d’émissions de gaz à effet de serre et une bien meilleure performance. Alors que des questions de pénuries et de sécurité alimentaire vont se poser de manière critique à l’échelle mondiale, irriguer des plantes afin de les jeter dans des méthaniseurs, c’est – pour reprendre un slogan du syndicalisme agricole – marcher sur la tête ! Faisons preuve d’un peu de bon sens, adoptons au moins l’amendement de notre collègue !"
+        },
+        {
+          "orateur": "Mme Lisa Belluco",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795362",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 920."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        120\n        Nombre de suffrages exprimés                113\n        Majorité absolue                        57\n                Pour l’adoption                50\n                Contre                63"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 920 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095865",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur l’amendement no 121, je suis saisie par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n La parole est à Mme Stéphanie Galzy, pour soutenir l’amendement."
+        },
+        {
+          "orateur": "Mme Stéphanie Galzy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793892",
+          "texte": "Il ne s’agit pas d’un amendement de confort mais d’un cri d’alerte, montant de nos territoires agricoles. Partout dans nos campagnes, les exploitants voient les sécheresses qui s’enchaînent, les récoltes fragilisées, les rendements qui baissent ; pendant ce temps, l’État regarde ailleurs. Le stockage de l’eau est devenu une nécessité vitale – pas demain, maintenant. Tout en se battant pour survivre, nos agriculteurs se heurtent aux lenteurs administratives, aux blocages idéologiques, à l’inaction gouvernementale.\nDans ma circonscription, viticulteurs et vignerons ont fini par comprendre qu’ils ne devaient pas attendre grand-chose : ils s’organisent, créent des associations, travaillent collectivement à des projets d’irrigation, non pour leur confort, je le répète, mais parce qu’ils refusent de mourir. Voilà où nous en sommes ; des femmes, des hommes qui nourrissent la France sont obligés de se débrouiller seuls afin d’accéder à une ressource aussi essentielle que l’eau.\nMalgré les multiples relances, les promesses, les grands discours au sujet de l’urgence agricole, les réponses concrètes n’arrivent pas. Cet amendement de responsabilité, puisque vous aimez tant le mot, nous place devant un choix : soit nous donnons enfin aux agriculteurs les moyens de produire, soit nous assisterons les bras croisés à l’effacement progressif de la France agricole ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Dans un contexte de diminution structurelle des eaux renouvelables, inscrire au sein du code rural le développement du stockage de l’eau sans y associer des conditions d’efficience et de partage de la ressource constituerait un signal normatif déséquilibré. Par ailleurs, les articles 5 et 6 du texte traitent la question du stockage de manière opérationnelle et équilibrée, en articulant développement, efficience, gouvernance démocratique, fondement scientifique des décisions, respect des contraintes environnementales, dans le cadre des PTGE. Cet ajout au code rural serait superflu : avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Votre amendement est satisfait par l’article L. 211-1 du code de l’environnement et de la pêche maritime, déjà souvent mentionné au cours de ce débat, qui dispose qu’« une gestion équilibrée et durable de la ressource en eau […] vise à assurer », entre autres choses, « la promotion d’une politique active de stockage de l’eau ». Cette finalité, clairement exprimée dans le code de l’environnement, répond à votre intention.\nPar ailleurs, puisque vous défendez la filière viticole, il est injuste de prétendre que rien n’est fait en la matière. La France est à la manœuvre à Bruxelles pour soutenir le train de mesures ciblées sur le secteur viticole – le paquet « vin ». Les dispositions qu’il contient sont élaborées en parfaite coordination avec la filière viticole et vinicole. Sur le seul exercice budgétaire en cours, nous avons ouvert près de 130 millions d’euros en autorisations d’engagement pour l’arrachage, un dispositif attendu et calibré avec les viticulteurs. Enfin, la France a agi pour obtenir près de 40 millions d’euros destinés à la distillation, afin d’écouler les stocks supplémentaires. Vous ne pouvez donc pas dire que le gouvernement ignore les difficultés de la filière viticole. Nous sommes aux côtés des viticulteurs.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Vous souhaitez inscrire le stockage de l’eau au sein du code rural et de la pêche maritime parmi les priorités pour atteindre la souveraineté alimentaire ; mais le faire sans aborder, de façon plus générale, la gestion de l’eau serait une erreur.\nEn agriculture, la question de l’eau ne peut en effet se résumer au seul stockage. Certes, c’est un des enjeux, nous ne l’avons jamais nié, et plusieurs cultures nécessitent des retenues collinaires qui doivent être évaluées au cas par cas, selon les territoires, en tenant compte en priorité de la disponibilité de la ressource en eau et des conflits d’usage. Mais l’action ne peut s’arrêter là. Elle doit également passer par le développement de cultures plus sobres en eau, à l’heure où les périodes de sécheresse s’accentuent. Cela implique une réflexion sur le choix de variétés et d’espèces particulières, y compris pour l’alimentation animale, en privilégiant des cultures moins gourmandes en eau et adaptées à la saisonnalité. La puissance publique doit ainsi accompagner la transition de l’agriculture vers une réduction de ses besoins hydriques, afin de s’aligner sur la diminution de la ressource.\nBref, on ne peut pas ériger le stockage de l’eau en grande priorité si l’on n’intègre pas, à ses côtés, tous les autres enjeux de la gestion globale de l’eau en matière agricole."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 121."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        131\n        Nombre de suffrages exprimés                127\n        Majorité absolue                        64\n                Pour l’adoption                37\n                Contre                90"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 121 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096456",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je suis saisie de plusieurs amendements, nos 105, 538, 612 et 1207, pouvant être soumis à une discussion commune.\n Les amendements nos 105, 538 et 612 sont identiques.\nLes amendements nos 105 de M. Corentin Le Fur et 538 de M. Thierry Liger sont défendus.\nLa parole est à M. Eric Liégeon, pour soutenir l’amendement no 612."
+        },
+        {
+          "orateur": "M. Eric Liégeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642725",
+          "texte": "L’eau est indispensable à toute production agricole. Sécuriser son accès pour les agriculteurs consiste à garantir une disponibilité suffisante et régulière de l’eau, afin de protéger les cultures comme les élevages. Cela préserve l’alimentation des populations, garantit les revenus agricoles et concourt à la souveraineté alimentaire. Face aux effets du changement climatique et à la variabilité accrue de la pluviométrie annuelle, le développement des capacités de stockage de l’eau constitue un levier structurant pour garantir la résilience des exploitations et procurer une alimentation suffisante, stable, saine et accessible à tous. Le présent amendement vise ainsi à inscrire, parmi les principes fondamentaux du code rural et de la pêche maritime, une orientation claire en faveur de la sécurisation de l’accès à l’eau pour l’agriculture."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096462",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1207 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "L’amendement no 1207 de Mme Sandra Marsaud est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Ces amendements visent à inscrire des objectifs d’augmentation des volumes stockés ou du nombre d’ouvrages de stockage dans les Sdage, ce qui revient à faire de l’accroissement des prélèvements une fin en soi, indépendamment des ressources disponibles et de l’état des milieux. C’est précisément la logique inverse de celle du présent texte, qui conditionne le développement du stockage à des PTGE concertés et fondés sur les meilleures connaissances hydrologiques. Les Sdage ont vocation à gérer l’équilibre de la ressource, non à en promouvoir l’exploitation croissante.\nJe soutiendrai ultérieurement un amendement qui répond plus efficacement à l’objectif sous-jacent des présents amendements, puisqu’il proposera d’intégrer dans les Sage des orientations stratégiques de développement du stockage associées à des objectifs d’efficience.\nPour ces raisons, avis défavorable sur l’ensemble des amendements en discussion commune."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Le gouvernement partage évidemment l’objectif de ces amendements. Leur mise en application pratique soulèverait en revanche un certain nombre de difficultés, à commencer par le bouleversement de la hiérarchie des usages, qui risque de poser des problèmes en matière de sécurité civile et de potabilité de l’eau.\nPar ailleurs, s’agissant de la hiérarchie des usages anthropiques, le gouvernement est opposé à l’établissement d’une priorité entre les différents usages économiques. Ce serait une source de complexité si nous devions arbitrer entre les besoins de l’agriculture, du tourisme ou de la production d’énergie. Par souci d’éviter la complexification et eu égard aux impératifs de sécurité, le gouvernement est défavorable à ces amendements.\nS’agissant ensuite de la fixation des objectifs de stockage dans les Sdage, nous considérons, comme Mme la rapporteure, que cet échelon n’est pas le bon. Le Sdage ne fixe que des orientations principielles ; y inscrire des objectifs de stockage à ce niveau de cartographie de la démocratie locale de l’eau serait contradictoire. Cela risquerait d’imposer des principes de stockage hétérogènes d’une zone géographique à l’autre au sein des Sdage. C’est pourquoi le gouvernement soutiendra l’amendement no 2065 de Mme Pannier-Runacher, qui sera présenté un peu plus loin dans la discussion (« Si elle est là pour le défendre ! » sur les bancs du groupe RN), visant à définir des orientations relatives à l’efficience des usages à l’échelle des Sage, qui demeurent des orientations, par définition, d’ordre principiel.\nJ’ajoute un dernier argument afin d’emporter votre adhésion : la France fait déjà l’objet d’un contentieux européen important relatif à la transposition de la directive-cadre sur l’eau. Si nous intégrions des enjeux quantitatifs de stockage au sein des Sage, nous ne ferions malheureusement que fragiliser notre position.\nLe gouvernement émet donc un avis défavorable sur l’ensemble de ces amendements."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1207 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Ces amendements posent un problème de fond comme de forme.\nSur le fond, d’abord : lorsque l’on élabore un Sdage, la démarche des agences de l’eau – j’ai le plaisir de siéger dans deux comités de bassin différents – consiste à privilégier une approche globale. Il s’agit d’organiser au mieux, sur les territoires et les bassins-versants, le grand et le petit cycle de l’eau, qui sont les deux compétences principales des agences de l’eau. C’est dans cet esprit que s’élabore le schéma directeur, avec pour fil conducteur le principe du pollueur-payeur qui a d’ailleurs présidé à l’émergence même des agences de l’eau. Pour ces raisons, on ne peut inscrire d’office le stockage sans y intégrer les aménagements du territoire nécessaires à la restauration du grand cycle de l’eau, ni la dimension agricole pour ne pas affecter son petit cycle.\nSur la forme, ensuite : les Sdage, élaborés par les comités de bassin, sont l’émanation d’un travail démocratique. Ces comités représentent l’ensemble des acteurs et toutes les composantes de la gestion de l’eau à l’échelle d’un territoire. Imposer un cadre réglementaire descendant pour dicter aux Sdage la marche à suivre serait l’exact inverse de ce que l’on attend de ces véritables parlements de l’eau que sont les comités de bassin. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 105, 538 et 612 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je suis saisie de plusieurs demandes de scrutin public : sur l’amendement no 247, par les groupes La France insoumise-Nouveau Front populaire et Union des droites pour la République ; sur l’amendement no 835, par le groupe Socialistes et apparentés.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Anne Stambach-Terrenoir, pour soutenir l’amendement no 247."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Nous vous proposons par cet amendement de voter un moratoire sur les projets de mégabassines. Puisque vous nous jurez depuis ce matin que ce texte ne vise absolument pas à les favoriser, nous vous proposons de l’inscrire explicitement dans la loi.\nVous persistez à nier les faits, comme si nous ne savions pas lire. Pourtant, la suppression des réunions publiques sur les projets de stockage de l’eau ne vise-t-elle pas à autoriser, en catimini, les projets les plus contestés, c’est-à-dire ces mégabassines ? De même, permettre au préfet de passer au-dessus de la justice ou du schéma d’aménagement et de gestion des eaux pour imposer un projet de stockage de l’eau, n’est-ce pas faciliter l’implantation de mégabassines ? (Applaudissements sur quelques bancs du groupe LFI-NFP.)\nLes mégabassines ne constituent pas une adaptation au changement climatique, contrairement à ce que vous répétez à l’envi. C’est une maladaptation. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Écoutez les hydrologues et les scientifiques qui l’expliquent : pomper l’eau dans les nappes en hiver permet certes d’irriguer l’été suivant sans modifier les systèmes agricoles existants, mais à plus long terme, les mégabassines aggravent la sécheresse. En empêchant l’eau de s’infiltrer dans les sols, elles finissent par fragiliser l’agriculture et compromettre sa pérennité. Tout cela au bénéfice de seulement 7 % des surfaces cultivées – principalement du maïs, une culture très gourmande en eau –, et au détriment des 93 % de surfaces agricoles restantes. (Applaudissements sur les bancs du groupe LFI-NFP.)\nVous teniez tellement à la mégabassine de Sainte-Soline que vous n’avez pas hésité à déployer 3 000 agents des forces de l’ordre et à les laisser tirer 5 000 grenades en deux heures sur 30 000 manifestants, faisant plus de 200 blessés. (Applaudissements sur les bancs du groupe LFI-NFP.) Tout cela pour que la justice confirme l’illégalité de cette mégabassine !\nSi vous dites vrai et que votre texte n’a pas pour but de faciliter les mégabassines, adoptons ensemble ce moratoire ! Cela permettra d’être très clair sur le sujet. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Nous en avons déjà longuement débattu."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "La notion de mégabassine n’a aucune assise juridique. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Tout d’abord, votre amendement est totalement dépourvu de portée normative. La notion de mégabassine n’existe que dans votre vocabulaire ; elle ne figure ni dans le code de l’environnement, ni dans le code rural et de la pêche maritime, ni dans ce projet de loi. Je n’ai eu de cesse de vous demander à quel article vous en auriez trouvé l’occurrence, ce que vous êtes incapable de faire."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Aux articles 5 et 6 !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "La vérité, c’est que cet amendement confirme la position que vous tenez depuis le début : vous ne voulez aucun stockage d’eau. Vous considérez que le stockage n’est pas un outil d’adaptation au changement climatique."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "De maladaptation !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Au fond, vous ne voulez pas d’eau parce que vous ne voulez pas d’agriculture, madame la députée. Tel est le sens véritable de votre amendement. (Applaudissements sur les bancs du groupe EPR. – Protestations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Lamentable !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Vous ajoutez à cela une forme d’indignité : quand des individus viennent à Sainte-Soline avec des armes par destination, qui peuvent être des armes de guerre, quand ils blessent des policiers et des gendarmes, ce n’est pas l’environnement qu’ils défendent. Ils sont contre les forces de l’ordre et contre l’ordre dans ce pays. Voilà ce que vous défendez, madame la députée. (Applaudissements sur les bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "C’est vraiment mauvais !"
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "Le sens de la nuance !"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Rendez-nous Mme Genevard !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Nicolas Turquois."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Nous avons écouté tout l’après-midi des orateurs expliquer qu’il était très important de respecter la démocratie de l’eau. Le dernier alinéa de l’amendement prévoit que « Les autorisations de construction et d’exploitation de mégabassines délivrées dans les dix années précédant la promulgation de la présente loi sont suspendues durant la durée du moratoire. » Vous voulez même remettre en cause des projets qui auraient été validés, mais non encore réalisés. C’est la preuve que vous vous contrefichez de la démocratie de l’eau ; vous voulez monter les agriculteurs et la population les uns contre les autres. Voilà ce que vous faites ! (Applaudissements sur les bancs des groupes Dem et EPR. – Exclamations sur les bancs du groupe LFI-NFP.) Même si, je l’entends, prélever de l’eau l’hiver pour irriguer l’été peut avoir un impact à court terme sur le milieu, cet impact est moindre que lorsque l’on prélève de l’eau l’été pour arroser les cultures. (Applaudissements sur les bancs des groupes Dem et EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Madame la ministre de l’agriculture, vous disiez tout à l’heure sur le ton de la plaisanterie que nous menions la lutte des classes des paysans, comme si c’était quelque chose de dépassé. Eh bien oui, nous menons la lutte des classes des paysans. (Applaudissements sur les bancs des groupes LFI-NFP et EcoS.) En réalité, la lutte contre les mégabassines s’inscrit précisément dans cette logique. Ces installations sont le meilleur moyen que vous avez trouvé pour privilégier une petite partie des paysans – c’est ainsi que ça se passe. Alors que tous les paysans d’un territoire contribuent au financement des mégabassines par l’intermédiaire d’une Coop de l’eau, seuls quelques-uns bénéficient de l’eau qui est stockée. (Applaudissements sur les bancs du groupe LFI-NFP)."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Eh voilà !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Derrière, ce qu’on ne dit pas, c’est que ce sont des millions d’euros d’argent public qui sont concentrés sur quelques paysans, tandis que les autres galèrent parfois à construire des petites retenues collinaires. J’ai pris tout à l’heure l’exemple d’une maraîchère dans ma circonscription qui voulait créer un petit ouvrage de stockage. Il lui a fallu de nombreuses années pour réussir à obtenir quoi que ce soit. Elle a dû débourser des dizaines de milliers d’euros qu’elle a eu des difficultés à réunir. Ce n’était pas un blocage démocratique ; c’est simplement que l’argent public n’est pas orienté en priorité vers ces paysans qui contribuent à la souveraineté alimentaire, mais vers vos amis, vers ceux que vous préférez privilégier."
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Les gros !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Je rappelle que 34 % de la production des surfaces irriguées sont destinés à l’exportation. Vous construisez des mégastructures pour l’exportation – vous exportez notre eau. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.) Oui, nous menons la lutte des classes des paysans. Dans notre pays, l’écart entre les paysans les plus riches et les paysans les plus pauvres est bien plus élevé que pour les autres métiers. Il y a aujourd’hui de très gros paysans, qui s’approprient une grande partie des richesses (Applaudissements sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Merci de conclure, madame la députée."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "…et ce sont eux que vous privilégiez dans vos politiques. (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’oratrice. – Les députés du groupe LFI-NFP applaudissent cette dernière. – Exclamations sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Ce moratoire vise à évaluer la pertinence, y compris économique, des mégabassines. Les agences de l’eau commencent à publier des études qui montrent que le retour sur investissement de l’argent public qu’elles y injectent est faible : quand on met 1 euro d’argent public dans de tels projets, le retour économique pertinent n’est que de 70 centimes environ. L’argent public investi est supérieur au retour économique. La pertinence des mégabassines doit par conséquent être précisément évaluée dans le cadre d’un moratoire.\nMonsieur Turquois, j’ai l’honneur et le plaisir d’être l’élu d’une circonscription où cinq mégabassines viennent d’être définitivement interdites par le Conseil d’État. (Applaudissements sur les bancs du groupe LFI-NFP.) Les porteurs de projet devront restituer 1,2 million d’euros de subventions et la remise à l’état initial se fera à leurs frais. C’est bien la preuve que des évaluations sont nécessaires concernant la construction de mégabassines. Il ne s’agit pas d’empêcher le stockage de l’eau ou l’irrigation,…"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Oh, certes non !"
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "…mais de protéger les agriculteurs du désagrément de devoir ensuite restituer l’argent public qu’ils ont perçu et remettre le site à l’état initial, parce que les projets sont totalement contraires aux règles, que ce soient les règles européennes ou les règles nationales. (Exclamations sur les bancs du groupe EPR.) Ainsi, cette mesure vise aussi à protéger les agriculteurs de dérives qui pourraient les exposer à de graves difficultés. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "J’ai le souvenir d’avoir rencontré, au dernier Salon de l’agriculture, un des agriculteurs concernés par une réserve de substitution. Dans votre bouche, ce sont des mégabassines, comme il y a des mégapoulaillers, ou des fermes-usines (Protestations sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Arrêtez !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "…mais cela s’appelle des réserves de substitution – pour les périodes pendant lesquelles il n’y a pas d’eau."
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Des méga-réserves de substitution !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Cet agriculteur, qui était membre d’une coopérative ayant élaboré un projet de réserve de substitution, était au désespoir. Il cultive des semences, ce n’est pas un gros céréalier producteur de maïs – cette catégorie d’agriculteurs est votre bête noire, l’archétype de l’agriculteur que vous conspuez à longueur d’interventions. (Exclamations sur les bancs du groupe EcoS et sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "C’est le système que nous dénonçons !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Cet homme ne correspond pas du tout au portrait que vous faites des agriculteurs concernés par ces projets. Par ailleurs, je rappelle que la surface agricole utile consacrée au maïs dans notre pays s’élève à 560 000 hectares. Si vous considérez que le soutien à cette filière est indu, cela va poser un réel problème de reconnaissance pour un très grand nombre d’agriculteurs dans notre pays.\nCet amendement est particulièrement scandaleux parce qu’il est rétroactif. Le moratoire concernerait non seulement les projets en cours d’instruction, mais aussi les autorisations délivrées dans les dix années qui ont précédé la promulgation de la présente loi."
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "C’est une maladaptation !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il y a vraiment une volonté punitive dans cette approche, qui n’est pas acceptable. Avis totalement défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 247."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        141\n        Nombre de suffrages exprimés                130\n        Majorité absolue                        66\n                Pour l’adoption                31\n                Contre                99"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 247 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096727",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 915 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 915."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il vise à énoncer un principe simple et de bon sens : en République, dans un État de droit, les décisions de justice s’appliquent. Quand une décision de justice a déclaré qu’un ouvrage était illégal, les pouvoirs publics et l’État ne peuvent pas chercher à contourner cette décision en procédant à des formes de régularisation a posteriori. (M. Maxime Laisney applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Le droit existant prévoit déjà que les porteurs de projet dont les autorisations ont été annulées doivent procéder à la remise en état du site. Inscrire dans la loi une interdiction générale de régularisation irait à l’encontre de la jurisprudence du Conseil d’État, qui admet la régularisation lorsque le vice ayant conduit à l’annulation est réparable, ce qui est bien sûr souhaitable pour les exploitants agricoles et les autres usagers d’ouvrages de stockage. Le présent texte prévoit précisément le mécanisme de l’autorisation provisoire pour gérer la transition vers une nouvelle autorisation. C’est une voie équilibrée. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Dommage qu’on n’ait aucune explication !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Mon collègue a évoqué la situation des réserves dites de l’Association syndicale autorisée d’irrigation (Asai) des Roches. Je voudrais pour ma part interroger le gouvernement sur le lac de Caussade."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Excellente question !"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Peut-on, dans un État de droit et une république, s’arroger le droit de construire de façon illégale des ouvrages de stockage ? Alors que ces ouvrages ont été déclarés illégaux à plusieurs reprises par la justice, le préfet cherche une manière de régulariser la situation. L’intention de cet amendement est de l’empêcher. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Alexandre Allegret-Pilot."
+        },
+        {
+          "orateur": "M. Alexandre Allegret-Pilot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841067",
+          "texte": "La scène est cocasse : la gauche veut nous interdire de régulariser des réserves en eau, alors qu’à longueur de journée, elle veut régulariser des clandestins dans notre pays. (Rires et exclamations sur les bancs du groupe LFI-NFP. – Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Il y a une différence : ce sont des humains !"
+        },
+        {
+          "orateur": "M. Alexandre Allegret-Pilot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841067",
+          "texte": "À un moment, réveillez-vous ! Refuser de régulariser des réserves en eau alors qu’on veut régulariser des personnes qui méprisent notre République, il y a un problème ! (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Frédérique Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719272",
+          "texte": "Parfois, mieux vaut se taire ! Ou réfléchir avant de parler."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre délégué."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Je suis en désaccord total avec vous, madame la ministre Batho. Quand un ouvrage a été déclaré illégal par une décision de justice, le porteur de projet a le choix entre la mise en conformité – c’est d’ailleurs ce que nous faisons s’agissant des volumes prélevables – ou la remise en état. Dans quelle République serions-nous si la décision de justice imposait un démantèlement immédiat ? Ce ne serait pas la même République."
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Ça rame !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Par ailleurs, un soupçon de partialité pèse ici sur le corps préfectoral. Les préfets représentent l’intérêt général et ils le défendent – c’est inscrit dans la Constitution de la Ve République. Ils n’ont pas à concilier des intérêts particuliers avec un intérêt général – ils défendent par définition ce dernier. Dans le cas d’espèce de Caussade, les propositions de régularisation qui ont été faites ne sont pas définitives et n’ont pas encore été établies. Évidemment que le principe du contradictoire s’applique. (Protestations sur quelques bancs du groupe LFI-NFP.) Toutefois, ce n’est pas un contradictoire arbitraire ; il se fait sous l’autorité du juge."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Ça fait dix ans que ça dure !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Si on imposait le démantèlement immédiat dès lors qu’une décision de justice était prise, il n’y aurait plus beaucoup de gens pour vouloir investir dans ce pays et construire des projets. (Exclamations sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Bah voyons !"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "C’est la garantie d’impunité !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 915 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096745",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 916 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho, pour soutenir l’amendement no 916."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il vise à construire la paix de l’eau dans le département des Deux-Sèvres, dont beaucoup d’entre vous parlent sans y vivre…"
+        },
+        {
+          "orateur": "M. Jean-Yves Bony",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266793",
+          "texte": "Ça arrive souvent !"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "…et sans savoir quelle est aujourd’hui la situation de ce territoire dans lequel les tensions et la violence empoisonnent la vie quotidienne.\nPar cet amendement, je propose tout d’abord que les autorisations environnementales des réserves d’irrigation dont les travaux n’ont pas commencé soient abrogées ; et ensuite, que la gestion de l’eau pour l’irrigation agricole fasse l’objet d’une concertation préalable qui aborde les solutions d’adaptation de l’agriculture et de l’irrigation au changement climatique.\nCes autorisations environnementales ont été délivrées sur le fondement d’un dossier d’enquête publique qui date d’il y a plus de dix ans. Depuis, le Bureau de recherches géologiques et minières (BRGM) a estimé que les calculs de volumes d’eau prélevables ne tenaient pas compte du changement climatique, l’autorisation unique de prélèvement dans ce bassin-versant a été annulée, et la justice a suspendu les autorisations de quatre des réserves à cause des risques pesant sur une espèce protégée, l’outarde canepetière. Par ailleurs, il n’y a pas eu, dans ce bassin-versant, le début d’un commencement de respect des obligations agroécologiques liées à l’irrigation.\nLe comité de bassin de l’agence de l’eau Loire-Bretagne avait lui-même, par l’intermédiaire de son président Thierry Burlot, diligenté une mission de médiation et recommandé une pause dans les travaux. C’est ce que propose cet amendement, attendu par un territoire qui a envie du retour du dialogue et de la fin de la violence pour trouver des solutions pour son avenir."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Je ne peux évidemment pas souscrire à votre amendement, pour plusieurs raisons.\nD’abord, abroger par voie législative et donc générale des autorisations individuelles qui ont été régulièrement délivrées porterait une atteinte grave à la sécurité juridique.\nEnsuite, le contentieux que vous citez montre que le droit existant permet aux juges administratifs d’assurer le contrôle de la légalité de ces autorisations. C’est ce contrôle qui doit jouer, plutôt qu’une abrogation législative rétroactive.\nSur le fond, on en a déjà beaucoup débattu. Les réserves de substitution sont des outils, parmi d’autres, d’adaptation au changement climatique, dont la légitimité a été reconnue par le juge dans de nombreuses décisions. Le présent texte a précisément pour objet de sécuriser leur développement dans le cadre des PTGE, qui offrent la concertation territoriale préalable que vous appelez de vos vœux.\nMon avis est donc défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je fais miens les arguments de Mme la rapporteure.\nJe voulais ajouter que je me suis rendue dans les Deux-Sèvres. Ce déplacement, qu’on disait périlleux, s’est parfaitement bien déroulé. Ce n’était pas une visite Potemkine. J’ai rencontré tous les syndicats. Le panel complet des acteurs du stockage d’eau était présent.\nC’est en effet un territoire blessé, profondément traumatisé par les événements violents qui s’y sont déroulés. Je l’ai senti et j’ai compris ce jour-là à quel point un territoire comme celui-là avait besoin d’apaisement. Voilà le premier enseignement.\nLe deuxième enseignement que j’en tire, c’est que ces acteurs, y compris les syndicats plutôt proches de cette partie de l’hémicycle (Mme la ministre se tourne vers le côté gauche de l’hémicycle), m’ont dit ne pas être opposés aux réserves de substitution. Le prisme des événements violents de Sainte-Soline ne reflète pas le ressenti des agriculteurs de ce territoire ni leur opinion sur ces ouvrages. Voilà ce que j’ai appris de la visite de votre beau territoire."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "J’ai plusieurs inscrits, mais je vais essayer de donner la parole à un orateur pour, un orateur contre et de faire tourner la parole.\n La parole est à M. Philippe Schreck."
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Cet amendement en dit beaucoup sur le rapport entre l’écologie que je qualifierais de politique et notre agriculture.\nIl nous placerait dans la situation suivante. Une autorisation a été délivrée. Les travaux n’ont pas commencé, mais l’autorisation et les financements mis en place permettent à l’agriculteur d’investir, de trouver un successeur ou de développer des projets. Le premier coup de pioche n’a pas encore été donné et la loi annule l’autorisation. On anéantit tout. Cet amendement allie l’insécurité juridique au refus de l’irrigation pour notre agriculture.\nLa loi a été respectée et appliquée, les autorisations ont été données et les financements sont versés. Il ne manque plus qu’à commencer les travaux, mais comme cela n’a pas été fait tout de suite, on abroge tout. Cela n’a pas de sens ! Nous voterons naturellement contre. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Ersilia Soudais."
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Madame la rapporteure, vous dites que nous avons déjà beaucoup débattu sur les mégabassines, mais la qualité du débat n’est pas là. Je ne reviens pas sur les interventions de l’extrême droite, qui case la question des clandestins alors qu’on parle de mégabassines. (« Ah ! » sur plusieurs bancs des groupes RN et UDR.) Avec eux, c’est simple, quoi qu’on dise, ils nous répondent : immigration !"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Quel humour !"
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "Du côté du gouvernement, on a face à nous un ministre qui fait mine depuis des heures de ne pas comprendre ce qu’est une mégabassine. Monsieur le ministre, une mégabassine, ce n’est pas n’importe quel ouvrage de stockage d’eau : c’est un ouvrage gigantesque, qui représente une dizaine de terrains de football. On ne parle pas de n’importe quel site de stockage d’eau. À un moment donné, il va falloir arrêter de faire semblant de ne pas comprendre !\nOn a bien compris pourquoi vous le faites : l’idée, c’est de nous faire passer, encore une fois, pour des extrémistes. (Exclamations et applaudissements sur les bancs des groupes RN et UDR ainsi que sur plusieurs bancs des groupes EPR et DR.) C’est ce qu’on entend depuis le début des débats. Mais la vérité, c’est que l’extrémisme est de votre côté, avec votre défense de l’agrobusiness, qui va jusqu’à la caricature. Vous pouvez masquer cela avec de mauvaises plaisanteries, comme celle de M. Jean-René Cazeneuve qui s’est amusé à dire que, pour La France insoumise, deux baignoires formaient déjà une mégabassine. Le réalisme est de notre côté.\nMonsieur le ministre, vous avez dit qu’il fallait être sérieux, mais je vous vois beaucoup plaisanter. Oui, il faut être sérieux, mais cela ne sert à rien de le répéter dix fois en trente secondes, car, à aucun moment, vous ne l’êtes. Ce n’est pas sérieux de faire en sorte qu’une minorité accapare la ressource en eau. Ce n’est pas sérieux de laisser s’épuiser nos nappes phréatiques. Ce n’est pas sérieux de gaspiller notre eau, car une mégabassine, c’est aussi du gaspillage…"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Non, au contraire !"
+        },
+        {
+          "orateur": "Mme Ersilia Soudais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795466",
+          "texte": "…puisque de grandes quantités d’eau s’évaporent ou se dégradent – jusqu’à 60 % du total de l’eau retenue dans certaines d’entre elles –, sans compter l’impact considérable de ces ouvrages sur les milieux naturels et la biodiversité."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Madame la ministre, je vous remercie pour ce que vous avez relaté de votre visite en Deux-Sèvres, mais vous n’avez pas rencontré tout le monde. Vous ne m’avez pas rencontrée (Mme la ministre proteste) – vous m’aviez invitée, mais votre visite n’a pas eu lieu dans ma circonscription. Vous n’avez pas rencontré tous les élus locaux. Vous n’avez pas rencontré les associations environnementales. Vous n’avez pas rencontré les élus qui font face à des fermetures de captage d’eau potable. Vous n’avez donc vu qu’une partie de la réalité des Deux-Sèvres.\nJe reconnais une chose et je vous en donne acte : vous avez compris qu’il y avait un besoin d’apaisement. Mais comment apaiser si on ne fait pas « pouce », si on ne remet pas les choses à plat ? Mon amendement propose un chemin concret pour parvenir à un apaisement. Je n’ai pas compris comment, concrètement, vous pensiez pouvoir apaiser les choses en Deux-Sèvres en poursuivant la mise en œuvre d’un projet qui remonte maintenant à plus de dix ans et qui se heurte à des décisions de justice et à un problème d’acceptabilité locale. En effet, les habitants des Deux-Sèvres veulent le maintien de l’activité agricole et en particulier de l’élevage, mais ils ne veulent plus de pesticides. Ils ne veulent plus voir les cas de cancer se multiplier à l’hôpital de Niort. Ils ne veulent plus de captages d’eau potable qui ferment. C’est autour de cela que l’on peut construire une solution d’avenir pour le partage de l’eau et pour le maintien de l’agriculture dans un territoire rural et fier de ses productions agricoles. (Applaudissements sur les bancs du groupe EcoS. – M. Dominique Potier applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la présidente de la commission du développement durable et de l’aménagement du territoire."
+        },
+        {
+          "orateur": "Mme Sandrine Le Feur",
+          "fonction": "présidente de la commission du développement durable et de l’aménagement du territoire",
+          "role": null,
+          "idActeur": "PA719412",
+          "texte": "J’ai entendu dire que l’on n’avait pas correctement débattu sur le sujet des mégabassines. Je tiens à rappeler qu’en octobre 2023, nous avions débattu en commission du développement durable d’une proposition de loi visant à instaurer un moratoire sur le déploiement des mégabassines, défendue par Mme Clémence Guetté."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Donc, vous savez ce que sont les mégabassines !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 916 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4097016",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Chantal Jourdan, pour soutenir l’amendement no 835."
+        },
+        {
+          "orateur": "Mme Chantal Jourdan",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643192",
+          "texte": "Il vise à répertorier et à cartographier l’ensemble des retenues d’eau présentes sur le territoire national. À ce jour, il n’y a pas de recensement exhaustif. Le ministère de la transition écologique précise d’ailleurs qu’il « manque actuellement en France un panorama réel et précis des volumes prélevés et stockés, ainsi que des impacts cumulés sur la ressource en eau ».\nUn tel relevé serait utile à l’agriculture comme à l’ensemble des secteurs, notamment pour mener la politique d’adaptation au changement climatique et réfléchir au partage des usages. L’amendement précise qu’il reviendrait aux établissements publics territoriaux de bassin (EPTB) de réaliser ces relevés."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Votre amendement est déjà partiellement satisfait, puisqu’il existe aujourd’hui un inventaire national des plans d’eau. Il n’est pas encore complet, mais il est en cours d’actualisation et de renforcement. C’est sur ce volet qu’il convient de travailler. Demande de retrait."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Vous avez pleinement raison, cette cartographie est nécessaire. En revanche, une fois n’est pas coutume, je pense que c’est au ministère de la faire, en lien avec l’Office français de biodiversité (OFB), plutôt qu’aux établissements publics territoriaux de bassin, car cela complexifierait leur mission. Ce travail est en cours et il mérite d’être poursuivi. Je m’engage à en rendre compte devant la représentation nationale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 835."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        131\n        Nombre de suffrages exprimés                131\n        Majorité absolue                        66\n                Pour l’adoption                37\n                Contre                94"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 835 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4097028",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2194 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Mickaël Cosson, pour soutenir l’amendement no 2194."
+        },
+        {
+          "orateur": "M. Mickaël Cosson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793520",
+          "texte": "Son objet est de permettre un recours contre les avis défavorables rendus par la CLE, au même titre qu’on peut recourir contre un refus de permis de construire. Cela éviterait que des avis rendus de façon précipitée, auxquels peuvent manquer certains éléments, ne deviennent incontestables. Le recours permettrait de réclamer les pièces complémentaires lorsque c’est nécessaire."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "La notion de décision de non-prélèvement prise par la CLE n’a pas d’existence juridique précise. La CLE n’est pas une autorité administrative qui délivre des autorisations de prélèvement, car ce rôle appartient au préfet. Je rappelle que les délibérations de la CLE dans le cadre du Sage sont déjà susceptibles de recours de droit commun du contentieux administratif. La création d’un recours spécifique pour une catégorie d’actes qui ne sont pas définis juridiquement serait source de confusion et de contentieux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Comme l’a expliqué Mme la rapporteure, les décisions de la CLE ne peuvent faire l’objet d’un recours, car ce n’est pas elle qui signe les documents et les décisions qui peuvent faire l’objet d’un recours, mais le préfet.\nJ’avais lu un peu hâtivement votre amendement et j’avais cru qu’il ouvrait la possibilité d’un recours contre une décision de prélèvement, alors qu’il s’agit en fait d’une décision de non-prélèvement. C’est une idée intéressante, car il y a déjà tellement de recours contre les décisions de prélèvement. Je comprends donc parfaitement l’esprit de votre amendement, et la mesure proposée est tout à fait envisageable ;…"
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "texte": "Mais vous êtes une secte, ma parole !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "…mais il ne peut s’agir des décisions de la CLE."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2194 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4097036",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2229 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Patricia Maussion, pour soutenir l’amendement no 2229."
+        },
+        {
+          "orateur": "Mme Patricia Maussion",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794262",
+          "texte": "Cet amendement donne au préfet coordonnateur de bassin un rôle explicite de validation du diagnostic, du programme d’action et du contenu du PTGE, avec désignation d’un préfet référent. L’idée est de sortir d’une gouvernance trop floue car ces projets territoriaux engagent des arbitrages majeurs sur l’eau. Nous voulons que l’État joue pleinement son rôle de garant de l’intérêt général et de la cohérence entre les territoires. C’est une ligne constante chez nous : davantage de pilotage national quand les enjeux deviennent structurants. (Applaudissements sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Le texte donne déjà au préfet coordonnateur de bassin la compétence d’approuver les PTGE. Pour le reste, l’organisation avec les services de l’État dans le département va de soi. L’inscrire dans la loi ne serait pas utile. Demande de retrait."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2229 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096242",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5 bis (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je suis saisie de sept amendements identiques, nos 967, 1032, 1360, 1502, 1688, 1853 et 2029, visant à supprimer l’article 5 bis.\n La parole est à M. Jean-Luc Bourgeaux, pour soutenir l’amendement no 967."
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Cet amendement de notre rapporteur, M. Dive, vise à supprimer un article qui repose sur une logique inadaptée aux réalités de la gestion quantitative de l’eau. Le stockage ne peut raisonnablement être envisagé uniquement en période d’inondation grave ; il doit au contraire s’inscrire dans une logique d’anticipation fondée sur les excédents de pluviométrie, les niveaux de débit disponibles et les seuils des nappes phréatiques.\nEn outre, le dispositif proposé demeure largement inopérant en l’état. Il repose sur des notions insuffisamment définies et renvoie l’essentiel de ses modalités à un décret d’application, ce qui fragilise sa portée juridique et opérationnelle."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096246",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Les amendements nos 1032 de Mme Danielle Brulebois et 1360 de M. Charles de Courson sont défendus.\nLa parole est à M. Benoît Biteau, pour soutenir l’amendement no 1502."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Je ne vous cache pas ma surprise quand je regarde la liste de ceux qui défendent aussi ce soir des amendements de suppression de l’article 5 bis. Cela étant, l’argument qui vient d’être avancé n’est pas dénué d’intérêt : faire dépendre le remplissage des retenues de substitution des seules périodes d’inondation rendrait ce remplissage extrêmement aléatoire, sans parler des risques techniques.\nComme je l’ai déjà souligné, le volume d’une réserve de substitution comme celle de Sainte-Soline est supérieur à 800 000 mètres cubes. Il est impossible de remplir en quelques heures une telle mégabassine, même avec des pompes très performantes.\nPour ma part, si je demande la suppression de l’article 5 bis, c’est précisément parce que nous devons sortir de la logique d’inondation pour entrer dans une logique des crues. La bonne approche consiste à accueillir les crues dans des zones d’expansion, afin de ralentir l’eau, de la retenir et de favoriser son infiltration, créant ainsi les conditions de l’irrigation, avec ou sans réserves de substitution.\nLa rédaction de cet article est donc totalement inadaptée à l’objectif de stockage de l’eau. Compter sur les inondations pour favoriser l’irrigation serait une garantie bien trop aléatoire, voire une menace, pour le monde agricole."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096252",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. François Jolivet, pour soutenir l’amendement no 1688."
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Nous poursuivons le même objectif que M. Biteau et M. Dive avant lui, mais notre raisonnement ne repose pas sur les mêmes arguments."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Quoique !"
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "L’article 5 bis a été introduit en commission. Faire dépendre d’événements graves la possibilité d’alimenter non seulement des mégabassines, mais aussi des retenues collinaires, ne laisse guère de possibilité aux agriculteurs d’adopter une quelconque stratégie d’irrigation. Des incidents graves seraient nécessaires pour espérer arroser : un tel raisonnement paraît peu compatible avec l’esprit même d’une loi d’urgence.\nPar ailleurs, monsieur le ministre, après avoir assisté à nos débats, je suis peu motivé à l’idée de me lancer dans la réalisation d’une retenue collinaire. Entre la modification du schéma directeur de l’agence de bassin, celle du PTGE, les conclusions du Sage, puis, le cas échéant, l’obtention d’une autorisation, les procédures semblent sans fin.\nJe suis animé par la culture du résultat de l’action publique. Or personne ne s’engage ni sur des volumes ni sur un calendrier de réalisation des retenues collinaires dans nos territoires. Plusieurs experts et membres de bureaux d’études – certains se trouvent dans cette salle –, estiment qu’il faut entre sept et huit ans pour mener à bien un tel projet. Ce délai n’est pas compatible avec une loi d’urgence.\nVous comprendrez donc que le groupe Horizons & indépendants ne peut accepter de faire dépendre des inondations l’alimentation des retenues collinaires."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096259",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Nicolas Turquois, pour soutenir l’amendement no 1853."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "Quand j’ai lu l’amendement voté en commission, je me suis demandé si c’était une blague. Les agriculteurs ne vont pas chercher l’eau dont ils ont besoin au hasard des inondations. La gestion de l’eau suppose de programmer, de planifier et de s’organiser. Elle ne peut pas reposer sur un événement totalement aléatoire.\nJ’ai bien conscience que les inondations vont se multiplier – la multiplication des surfaces imperméabilisées, notamment dans les espaces urbains, n’y est pas pour rien –, mais l’agriculture ne fonctionne pas de cette manière. On n’arrose pas au hasard parce qu’il y a eu une inondation. Il s’agit d’une activité économique qui répond à une logique structurée et organisée ; c’est d’ailleurs la meilleure garantie pour la protection de l’environnement. Je suis donc favorable à la suppression de l’article."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096262",
+      "valeurPtsOdj": "1",
+      "titre": "Suspension et reprise de la séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Manon Meunier, pour soutenir l’amendement no 2029."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "J’ai cru moi aussi que cet article 5 bis était une blague – je crois que le terme est approprié. Au-delà, il peut inciter à jouer à un jeu dangereux, susceptible de produire des effets pervers : faire des inondations des événements dont nous pourrions tirer profit. Or notre objectif est inverse : nous devons bien sûr chercher à les prévenir.\nC’est en ce sens que cet article ressemble à une blague. Nous devons adopter une véritable stratégie de prévention, qui passe par la désartificialisation des sols urbains (Applaudissements sur quelques bancs du groupe LFI-NFP), le développement d’espaces permettant l’évacuation naturelle en amont, et la libération du réseau hydrographique, contraint au fil des années par des aménagements qui aggravent fortement le risque d’inondation.\nLes inondations ne sont pas des opportunités. Elles n’ont donc pas vocation à devenir des occasions favorables, ni pour assurer l’irrigation à long terme, ni pour garantir une alimentation stable des retenues d’eau. Supprimons donc cet article. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission sur ces amendements de suppression ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Cet article a été introduit dans le texte à la suite de l’adoption d’un amendement que j’avais déposé. Madame Meunier, vous trouvez que c’est une blague. Vous, avec vos arguments binaires, vous me bassinez. (« Oh ! » et sourires sur plusieurs bancs des groupes EPR et DR. – Exclamations sur quelques bancs des groupes LFI-NFP et EcoS.)\nEn cas d’inondation majeure rendant toute infiltration impossible, aucune disposition ne permet jusqu’ici d’autoriser des prélèvements dérogatoires dans les ouvrages régulés de stockage et de retenue d’eau. Alors même que ces situations créent paradoxalement des occasions de remplissage exceptionnel, les agriculteurs se trouvent dans l’impossibilité juridique d’en profiter, faute d’un cadre légal adapté.\nLe dispositif proposé est précisément calibré. Il ne crée pas un droit général à déroger aux règles de prélèvements mais une faculté préfectorale strictement encadrée, limitée à la durée de l’épisode et conditionnée à la constatation ministérielle de l’inondation. C’est exactement le type d’outils d’adaptation au changement climatique que ce texte a vocation à introduire.\nLe renvoi à un décret en Conseil d’État pour les modalités d’application n’est pas une faiblesse ; c’est au contraire une garantie de souplesse et d’adaptation aux réalités hydrologiques locales, par nature très diverses d’un bassin à l’autre. J’appelle le gouvernement à s’engager à publier ce décret dans les meilleurs délais.\nJe suis défavorable à ces amendements de suppression."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je ne vous cache pas ma surprise de voir autant de groupes défendre la suppression de l’article 5 bis. L’hiver dernier, nous avons traversé de nombreux épisodes d’une violence extrême. Nous avons vu des territoires ravagés par des crues phénoménales, des cultures définitivement détruites, des arbres déracinés, des animaux emportés, comme ces jeunes taurillons qui ont péri en Camargue."
+        },
+        {
+          "orateur": "Mme Lisa Belluco",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795362",
+          "texte": "Mais cet article n’empêche rien !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "L’idée a d’ailleurs été exprimée spontanément par l’opinion publique : toute cette eau qui nous submerge, ne pourrions-nous pas la prélever, en prélever une petite partie ? Après tout, il tombe chaque année 500 milliards de mètres cubes d’eau sur notre territoire, et l’agriculture n’en prélève qu’environ 2 milliards.\nJe ne comprends donc pas pourquoi vous voulez supprimer cet article, d’autant moins que Mme la rapporteure proposera plus loin un amendement visant à corriger le dispositif. Je vous invite vraiment à reconsidérer votre position, parce que je ne comprends pas la logique qui vous anime."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Eh bien, c’est grave !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Je soutiens les propos de la ministre et de la rapporteure."
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "C’est étonnant !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "La portée de cet article est très limitée. Il ne s’applique qu’aux cas tout à fait exceptionnels d’inondation. Il relève du bon sens : il faut définir des règles spécifiques permettant de retenir une partie du surplus d’eau, à la fois pour limiter les effets de l’inondation et pour éviter, plus tard, d’avoir à pomper cette eau. Il n’y a rien d’autre dans cet article.\nJe veux rassurer mes collègues Turquois et Jolivet : à aucun moment le texte ne définit les modalités de remplissage des retenues d’eau. Il a seulement pour objet de récupérer une partie de l’eau excédentaire, dans une situation tout à fait exceptionnelle. C’est aussi simple et limité que cela."
+        },
+        {
+          "orateur": "M. Loïc Prud’homme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719578",
+          "texte": "Simple et limité, ça vous ressemble bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Philippe Schreck."
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Je suis l’élu d’une circonscription régulièrement confrontée à des inondations violentes, et je viens d’une ville où elles ont malheureusement été mortelles. Il ne s’agit naturellement ni de les souhaiter ni d’en faire une aubaine dont il faudrait profiter.\nToutefois, comme le prévoit le texte, « en cas d’inondation majeure » ou de crue exceptionnelle, devons-nous nous contenter d’assister passivement au phénomène et nous interdire tout prélèvement, même limité ? Quelques semaines plus tard, lors d’un épisode de sécheresse – puisqu’il y a une alternance entre ces deux phénomènes –, il faudra finalement prélever dans des réserves naturelles ou artificielles.\nSoyons réalistes. Bien sûr, des contingences techniques peuvent empêcher de procéder systématiquement à de tels prélèvements. Mais tout stock qui peut être réalisé lors d’événements non souhaités est bon à prendre. Ce principe n’entre pas en contradiction avec les autres plans d’aménagement ou de concertation destinés à prélever l’eau, à remplir les réserves et à organiser l’irrigation. Ce n’est qu’un moyen supplémentaire.\nIl ne doit pas être difficile de prélever une partie minime de l’eau et d’en stocker une quantité résiduelle. Cette méthode peut constituer un appoint utile, qui évitera les prélèvements dans d’autres réserves quand les besoins seront forts. Nous sommes donc opposés à ces amendements de suppression."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Émilie Bonnivard."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "Nous ne pouvons que souscrire aux arguments très pragmatiques de Mme la rapporteure et de Mme la ministre, mais je crois que ces amendements de suppression sont motivés par un besoin de clarification et de précision. Nous pouvons en effet avoir le sentiment que le dispositif proposé exclut les autres modalités de stockage de l’eau.\nL’exposé sommaire de l’amendement de suppression M. Dive précise que « le stockage ne peut raisonnablement être envisagé uniquement en période d’inondation grave ». Cela me semble évident, mais beaucoup d’entre nous expriment simplement le besoin de lever ce doute : peut-on stocker l’eau en dehors des seuls cas d’inondation majeure ?\nMon propos peut sembler élémentaire, mais ces amendements de suppression – sur nos bancs en tout cas – sont fondés, me semble-t-il, sur ce besoin de clarification."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. François Jolivet."
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Dans notre esprit, il n’est pas question de se résoudre à laisser passer l’eau sans la stocker ; seulement, pour pouvoir la stocker, il faut disposer d’ouvrages de stockage."
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Il faut les construire !"
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Pour en disposer, il faut d’abord les autoriser. Or les arguments en faveur de l’article donnent l’impression que ces ouvrages pourront être utilisés si et seulement si une inondation grave survient. M. Cazeneuve, qui soutient la position du gouvernement, a dit qu’ils ne seraient utilisés que pour les crues décennales. Visiblement, personne n’a compris le texte ! (Sourires et exclamations sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Ça, c’est ballot !"
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Peut-être ne l’ai-je pas compris moi-même.\nPar ailleurs, vous rendez-vous compte du message que cet article envoie à la population agricole qui n’a pas d’ouvrage de stockage ? Il y a de quoi se révolter ! Je le dis en regardant un conseiller de la ministre ici présent, qui connaît bien mon département de l’Indre : chez nous, cela pourrait assez facilement pousser à la révolte.\nSoit le gouvernement amende l’article pour le clarifier, soit nous le supprimons. Il y a, de toute façon, des contraintes sanitaires à prendre en considération – les agriculteurs ne souhaiteront pas stocker l’eau à proximité de stations d’épuration qui débordent lors des crues – mais, surtout, pour pouvoir stocker, il faut des ouvrages. Pour cela, il faut des autorisations. (Mme Sandra Marsaud applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Je souhaite m’arrêter, à ce stade du débat, sur une subtilité sémantique – je sais que Mme la ministre les apprécie. Il faut distinguer les crues des inondations.\nUne crue, c’est un excès d’eau qu’on sait parfaitement accueillir, car on a aménagé le territoire pour cela et prévu des zones d’épandage de crue. Lorsqu’une inondation survient, c’est précisément parce qu’il n’a pas été aménagé de zones suffisamment vastes pour retenir les crues. La crue donne alors lieu à une inondation et endommage les zones aménagées par l’homme ; ces dégâts sont causés par de l’eau parfaitement libre, non retenue, qui s’étale et s’infiltre partout où elle trouve un passage.\nNous n’avons pas le savoir-faire technique pour capter l’eau d’une inondation dans des volumes suffisants pour écrêter celle-ci. Nous n’avons pas de système de pompage suffisamment puissant pour faire disparaître une inondation et la rediriger vers des équipements de stockage. Pour remplir des équipements de stockage, il faudrait apprendre à accueillir les crues, à maintenir ces gros volumes d’eau – de plus en plus importants en raison du dérèglement climatique – sur des zones d’épandage suffisamment longtemps pour pouvoir ensuite les prélever. C’est pourquoi l’article n’est pas opérant : il y est question d’inondations, alors qu’il faudrait savoir accueillir les crues. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je demande une brève suspension de séance pour que nous puissions clarifier la formulation de l’article, avant que l’Assemblée ne s’exprime sur les amendements de suppression."
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures cinq, est reprise à vingt-trois heures quinze.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est reprise.\nNous en étions aux amendements de suppression de l’article 5 bis. Je vous indique que l’adoption de ces amendements ne fera tomber que les trois suivants."
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Et alors ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "« Eh alors ? » est de trop. J’apporte simplement cette précision.\nMadame la rapporteure, souhaitez-vous prendre la parole ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Nous en avons parlé et la situation est plus claire maintenant. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)\nÉvidemment, le dispositif ne consistait pas à remplir les espaces de stockage seulement au moment de l’inondation, ce qui a été clarifié.\nJe maintiens mon avis défavorable sur les amendements de suppression."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "C’est inapplicable !"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Je comprends que ce dispositif ne pourra pas s’appliquer partout, pour chaque inondation majeure,…"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Retirez-le, alors !"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "…mais il y a des cas où il pourra s’appliquer. Cela ne révolutionnera pas le stockage, mais il me paraît dommage de se passer de cette possibilité qui dépend d’une dérogation accordée par le préfet et qui est bien encadrée dans sa rédaction."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Ça ne sert à rien, mais faisons-le ! Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Merci, madame la présidente, de nous avoir accordé cette suspension qui a permis de mettre au jour certaines réserves – si j’ose dire (Sourires). Elles portent moins sur le principe – quand l’eau est abondante, la stocker ne pose pas de problème en soi ; c’est même assez satisfaisant pour l’esprit – que sur la qualité de cette eau et la capacité technique à la transporter. (« Ah ! Quand même ! » sur les bancs du groupe LFI-NFP.)\nLes réponses techniques ne sont pas suffisamment abouties pour sécuriser le dispositif.\nMesdames et messieurs les députés, vous avez le choix entre deux possibilités. Soit vous votez la suppression de l’article 5 bis au motif que la pertinence technique n’est pas avérée, soit vous conservez l’article et il poursuivra ultérieurement son parcours au cours duquel il fera l’objet de corrections résultant d’une expertise technique."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "C’est une blague !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il appartient à l’assemblée délibérante de choisir entre ces deux hypothèses."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "En bref, l’avis de la commission reste donc défavorable et le gouvernement s’en remet à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 967, 1032 1360, 1502, 1688, 1853 et 2029 sont adoptés ; en conséquence, l’article 5 bis est supprimé et les amendements suivants à l’article tombent.)\n (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096822",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 5 bis (amendement appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "L’amendement no 1478 de M. François Jolivet, portant article additionnel après l’article 5 bis, est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Il vise à habiliter le pouvoir réglementaire à classer dans le régime de déclaration plutôt que d’autorisation les retenues collinaires individuelles alimentées exclusivement par ruissellement pluvial, déconnectées de tout cours d’eau en période d’étiage et d’une capacité inférieure à un seuil fixé par décret.\nLa nomenclature du régime des installations, ouvrages, travaux et activités (Iota) est définie par décret en Conseil d’État, ce qui est précisément le niveau adéquat pour en modifier les seuils et les régimes. C’est au gouvernement de procéder par voie réglementaire. En outre, les dispositions votées sur l’eau en montagne modifient les objectifs de la politique de l’eau en montagne et non pas les autorisations. L’avis de la commission est donc défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1478 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096832",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5 ter (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je suis saisie de onze amendements, no 1616 et identiques, tendant à supprimer l’article 5 ter.\n La parole est à Mme la ministre, pour soutenir l’amendement no 1616."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Le gouvernement souhaite supprimer cet article. Il résulte de modifications effectuées en commission qui reviennent de façon préjudiciable sur l’équilibre de la gouvernance de l’eau.\nLes comités de bassin sont des instances de gouvernance multipartites, et la répartition entre les collèges assure une représentation équilibrée entre les usagers économiques et non économiques. La loi « biodiversité » de 2016 avait déjà renforcé la part des usagers non économiques en assurant qu’ils représentent la moitié du collège des usagers. Mais nous considérons qu’il est tout à fait légitime que les usagers économiques puissent, eux aussi, être correctement représentés dans les comités de bassin. La modification des équilibres actuels n’est donc ni nécessaire ni souhaitable. Nous voulons revenir à l’équilibre initial.\nJe vous invite donc à voter cet amendement de suppression qui rétablit un équilibre entre les acteurs économiques et les acteurs non économiques, sachant que les acteurs économiques sont déjà sous-représentés par rapport aux acteurs non économiques. Aggraver cette différence me paraît très préjudiciable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur l’amendement n° 1616 et les amendements identiques, je suis saisie par le gouvernement d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Nicole Le Peih, pour soutenir l’amendement no 417."
+        },
+        {
+          "orateur": "Mme Nicole Le Peih",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720342",
+          "texte": "Il vise à supprimer l’article 5 ter qui modifie profondément l’équilibre de la gouvernance de l’eau au sein des comités de bassin. Ma circonscription relève du comité de bassin Loire-Bretagne, qui représente 28 % du territoire français. Depuis plus de vingt ans, notre modèle repose sur un principe simple : associer de manière équilibrée l’ensemble des acteurs concernés, c’est-à-dire les collectivités, bien sûr, l’État, les usagers économiques et non économiques. Cet équilibre est la condition du dialogue, de la coconstruction et de l’acceptabilité des décisions.\nLe texte rompt cet équilibre en augmentant fortement la représentation des usagers non économiques…"
+        },
+        {
+          "orateur": "Mme Anne Stambach-Terrenoir",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793744",
+          "texte": "Quelle horreur ! Des citoyens !"
+        },
+        {
+          "orateur": "Mme Nicole Le Peih",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720342",
+          "texte": "…au détriment des usagers économiques, dont la représentation serait réduite de moitié. C’est une erreur.\nLes entreprises du tourisme, de l’énergie, les industriels, les agriculteurs sont parmi les principaux utilisateurs de la ressource, mais aussi parmi les premiers financeurs de l’agence de l’eau. Réduire leur place, c’est prendre le risque de déconnecter les décisions des réalités économiques et territoriales. Dans un contexte où l’État renforce déjà son rôle dans cette gouvernance, les comités de bassin ne doivent pas être des instances déséquilibrées mais doivent rester des espaces de gouvernance partagée.\nEnfin, après plusieurs réformes successives, une nouvelle modification substantielle créerait de l’instabilité et nuirait à la lisibilité de l’action publique."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096844",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Nous continuons cette série d’amendements identiques. Les amendements nos 432 de M. Bertrand Bouyx, 527 de M. Éric Martineau, 1063 de M. Philippe Schreck, 1185 de Mme Françoise Buffet, 1346 de Mme la rapporteure pour avis, 1955 de M. David Taupiac, 2112 de Mme Christelle Minard, 2118 de Mme Sophie Pantel et 2221 de M. Nicolas Turquois sont défendus.\nMme la ministre et Mme la rapporteure ayant défendu un amendement, nous avons compris que leur avis était favorable."
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "En effet !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Lisa Belluco."
+        },
+        {
+          "orateur": "Mme Lisa Belluco",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795362",
+          "texte": "L’article 5 ter est issu d’un amendement voté en commission du développement durable et de l’aménagement du territoire. Il reprend la proposition no 55 du rapport de la mission d’information sur l’adaptation de la politique de l’eau au défi climatique présenté par MM. Yannick Haury et Vincent Descoeur : « Accroître le nombre de sièges réservés aux usagers non économiques de l’eau et donner un minimum de moyens de fonctionnement autonomes aux comités de bassin sur le plan administratif et financier. »\nJe cite leur argumentation, puisqu’elle est bonne : « Si la composition des comités de bassin favorise le débat et la concertation entre les acteurs de l’eau au niveau des bassins, atteindre une parfaite représentation est difficile, notamment pour les usagers non économiques qui ne sont pas aussi organisés que les filières économiques. Dans leur ouvrage Les politiques de l’eau, MM. Sylvain Barone et Pierre-Louis Mayaux avancent que cette gouvernance relève souvent d’une domination de certains acteurs plutôt que d’un véritable dialogue entre toutes les parties prenantes. » Des chercheurs ont donc constaté que la représentation n’était pas actuellement équilibrée, contrairement à ce que vous soutenez.\nJe reprends la lecture du rapport. MM. Barone et Mayaux « soulignent en particulier le poids des utilisateurs de l’eau les plus riches, donc les acteurs économiques les plus puissants et les mieux organisés, au sein de la construction des politiques de l’eau. Dans ce cadre, il pourrait être nécessaire de renforcer la place des usagers non économiques de l’eau dans les comités de bassin. »\nVoilà l’argumentation de nos collègues Haury et Descoeur, qui me paraît excellente. Après avoir mené de nombreuses auditions dans le cadre de cette mission d’information, ils montrent que la représentation actuelle n’est pas équilibrée. Les usagers économiques de l’eau prennent parfois trop de place.\nL’article 5 ter vise à recréer un équilibre dans les comités de bassin."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix les amendements identiques nos 1616, 417, 432, 527, 1063, 1185, 1346, 1955, 2112, 2118 et 2221."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        119\n        Nombre de suffrages exprimés                117\n        Majorité absolue                        59\n                Pour l’adoption                88\n                Contre                29"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 1616, 417, 432, 527, 1063, 1185, 1346, 1955, 2112, 2118 et 2221 sont adoptés ; en conséquence, l’article 5 ter est supprimé et tous les amendements suivants à l’article tombent.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096855",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 5 ter (amendements appelés par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Nous en venons à des amendements portant article additionnel après l’article 5 ter.\n Nous commençons par deux amendements, nos 1401 et 1402, pouvant être soumis à une discussion commune.\n Sur ces amendements, je suis saisie par le groupe Rassemblement national de demandes de scrutin public.\nLes scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\n La parole est à M. David Magnier, pour soutenir l’amendement no 1401."
+        },
+        {
+          "orateur": "M. David Magnier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841587",
+          "texte": "Par cet amendement, nous abordons le cœur du problème de la crise de l’eau en France, celui de sa gouvernance. Nous proposons de réformer en profondeur la composition des commissions locales de l’eau, les CLE, pour y instaurer une véritable parité en accordant 50 % des sièges aux acteurs économiques des secteurs primaires et secondaires, au premier rang desquels nos agriculteurs.\nCette réforme est une urgence absolue parce que la gestion de l’eau est actuellement entre les mains d’une technocratie d’État et de structures associatives totalement déconnectés des réalités productives et des territoires. Nous en avons l’illustration parfaite avec le déploiement des études hydrologie, milieux, usages, climat (HMUC), particulièrement dans le bassin Loire-Bretagne.\nLe système actuel est d’un arbitraire total. Les instances administratives qui pilotent ces expertises techniques ultracomplexes sont précisément celles qui les valident en bout de course. Elles imposent ensuite des baisses massives et unilatérales des volumes prélevables pour l’irrigation sans aucune étude d’impact économique sur la viabilité de nos fermes. L’administration est à la fois juge et partie, ce que vous disiez, madame la ministre, au sujet du PTGE.\nEn confiant la moitié des sièges aux producteurs et aux industriels locaux, nous mettons fin à ce fonctionnement en vase clos, nous redonnons du poids à ceux qui font vivre nos territoires et ont besoin d’eau pour travailler. Il ne s’agit pas d’opposer l’économie à l’écologie, mais de garantir que les décisions de gestion de l’eau reposent enfin sur une conciliation réelle et équilibrée entre les impératifs environnementaux et la souveraineté alimentaire de notre pays. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095653",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole reste à M. David Magnier, pour soutenir l’amendement no 1402."
+        },
+        {
+          "orateur": "M. David Magnier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841587",
+          "texte": "Il s’agit d’un amendement de repli. Si la majorité refuse de bousculer l’équilibre général des commissions locales de l’eau comme nous venons de le proposer, faisons au moins un pas dans le bon sens en clarifiant la composition du collège des usagers. Notre proposition est mesurée et ne modifie pas le nombre de sièges des élus locaux et de l’État. Nous demandons simplement de sanctuariser 60 % des sièges du collège des usagers au profit de ceux des secteurs primaires et secondaires.\nNous devons cesser de subir une gestion qui nous conduit à regarder nos rivières s’assécher et nos cultures brûler, et qui empile les contraintes administratives. L’eau est aussi un outil de production stratégique pour notre souveraineté alimentaire et industrielle. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "L’Assemblée nationale vient de se prononcer contre toute modification des équilibres au sein des instances de notre système de gouvernance locale de l’eau. Vos amendements tendent à réécrire la composition des CLE pour accorder 50 % des sièges aux seuls acteurs économiques des secteurs primaires et secondaires au détriment des collectivités territoriales et de l’État. Les CLE sont des instances de gouvernance multi-usages. Les déséquilibrer au profit des seuls usagers économiques contredit leur vocation à arbitrer entre tous les usages de l’eau, y compris non-économiques. La composition actuelle équilibre utilement élus locaux, usagers et État. Pour répondre à la préoccupation que vous exprimez, il aurait été plus efficace de voter mon amendement no 1082 sur la commission technique agricole. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Le premier ministre nous a chargés de mener un chantier réglementaire afin d’améliorer la gouvernance de l’eau. Je pense qu’il faut conserver ce qui est déjà prévu par la loi, et étudier quelles modifications réglementaires pourraient apporter plus d’efficacité.\nJe saisis cette occasion pour vous dire, à mon tour, monsieur Magnier, combien le rejet, au début de cette séance, de l’amendement relatif à la constitution des comités techniques agricoles est regrettable. Cet amendement apportait une solution à la préoccupation légitime que vous exprimez en vue de mieux représenter les acteurs économiques, en particulier les agriculteurs, et répondait à une demande de leur part. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Monsieur Magnier, vous avez justifié votre amendement en vous appuyant sur les études HMUC, comme si elles avaient vocation à mettre en péril ou à menacer les agriculteurs. C’est l’exact inverse.\nPriver les commissions locales de l’eau de l’expertise scientifique que peuvent apporter certains de leurs membres revient à menacer l’équilibre socio-économique. Sans ces études HMUC pour évaluer les impacts du dérèglement climatique sur l’hydraulique, sur les usages, sur les milieux et sur le climat, nous ne pourrons pas anticiper, nous projeter ni modéliser la gestion de la ressource en eau à l’avenir. Potentiellement, nous risquons de nous engager dans de mauvaises solutions dont les agriculteurs devront supporter le coût et les conséquences financières, ce qui reviendra à faire peser sur eux un véritable péril économique. S’appuyer sur ces membres des commissions locales de l’eau a donc un effet exactement inverse à celui que vous avez présenté."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. David Magnier."
+        },
+        {
+          "orateur": "M. David Magnier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841587",
+          "texte": "Nous ne souhaitons pas du tout supprimer les HMUC. Nous proposons simplement d’y intégrer les agriculteurs et les industriels locaux, ce qui ne porte en rien préjudice à la position des experts en leur sein.\nVous refusez cet amendement parce qu’il pénaliserait les associations : ce n’est pas le cas – ou peut-être d’un côté. Deux blocs font la pluie et le beau temps dans les commissions locales de l’eau et valident en vase clos des études techniques sans l’avis des agriculteurs et des professionnels, à l’image des HMUC, et décident de couper l’eau à nos agriculteurs. Ils n’ont jamais à subir les conséquences économiques de leurs décisions, eux ne risquent pas la faillite à la fin du mois.\nIl faut penser à nos agriculteurs. En repoussant cet amendement, vous souhaitez les mettre de côté. Nous, nous assumons de vouloir rendre le pouvoir aux producteurs. Qui fait vivre nos territoires locaux aujourd’hui ? Qui remplit les assiettes des Français ? Ce sont nos agriculteurs et nos entreprises locales, pas les administrations de bassin ou les associations subventionnées. (Murmures sur quelques bancs des groupes SOC et EcoS.)\nSi vous voulez rétablir la paix dans nos territoires au sujet de l’eau, il faut replacer le bon sens et l’économie réelle au centre du jeu. Il faut choisir son camp, madame la ministre : soit vous êtes du côté de ceux qui signent des rapports, soit vous êtes du côté de ceux qui produisent et qui nous nourrissent. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Manichéisme !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 1401."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        107\n        Nombre de suffrages exprimés                101\n        Majorité absolue                        51\n                Pour l’adoption                39\n                Contre                62"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1401 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 1402."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        108\n        Nombre de suffrages exprimés                102\n        Majorité absolue                        52\n                Pour l’adoption                42\n                Contre                60"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1402 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095674",
+      "valeurPtsOdj": "1",
+      "titre": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Nicolas Turquois, pour soutenir l’amendement no 1839."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "En préambule, j’aimerais obtenir une explication du service de la séance. J’ai déposé deux amendements identiques à quelques détails près, portant sur le II de l’article L. 212-4 du code de l’environnement. L’un a été examiné après l’article 5, l’autre l’est après l’article 5 ter. Ce classement me semble surprenant."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Nous allons regarder cela et je vous apporterai une réponse."
+        },
+        {
+          "orateur": "M. Nicolas Turquois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722162",
+          "texte": "J’entends l’argument de notre collègue Magnier et, sans aller aussi loin, je suis favorable à un rééquilibrage. Actuellement, les commissions locales de l’eau sont composées à 50 % de représentants des collectivités territoriales, à 25 % au moins de représentants des acteurs économiques et à 25 % au plus de représentants de l’État. Je propose de porter à un tiers la proportion de représentants des acteurs économiques – ce qui laisserait un tiers pour chacun des deux autres collèges.\nLes acteurs économiques se sentent en grande difficulté dans ces commissions locales de l’eau, leurs besoins sont souvent incompris. Rééquilibrer la composition entre l’État stratège, les acteurs de territoire que sont les collectivités locales et les acteurs économiques, grâce à la solution intermédiaire que je propose, aurait du sens."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "La prédominance des collectivités dans les CLE est un choix délibéré du législateur depuis 1992. Elle ancre la gouvernance du Sage dans la représentation démocratique locale. Réduire la part des collectivités affaiblirait cette logique territoriale, sans que le renforcement de la représentation de l’État soit justifié, car l’État dispose d’autres leviers, notamment par l’intermédiaire du préfet coordonnateur de bassin.\nDe plus, la seconde disposition de l’amendement, qui enjoint au gouvernement de mettre en cohérence les articles réglementaires R. 212-29 à R. 212-34 du code de l’environnement, constitue une injonction au pouvoir réglementaire, contraire au principe de séparation des pouvoirs. Le Conseil constitutionnel la censurerait probablement. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 1839."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        112\n        Nombre de suffrages exprimés                108\n        Majorité absolue                        55\n                Pour l’adoption                60\n                Contre                48"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1839 est adopté.)\n (M. Jean-Luc\n             Bourgeaux\n             applaudit.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095687",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2230, repoussé par le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Patricia Maussion, pour soutenir l’amendement no 2230."
+        },
+        {
+          "orateur": "Mme Patricia Maussion",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794262",
+          "texte": "Cet amendement encadre clairement le mode d’élection du président de la CLE, la durée de son mandat et les modalités de son remplacement.\nLe président de la CLE joue un rôle déterminant. Il fixe l’ordre du jour, organise les travaux et peut peser fortement sur le rythme des décisions. Nous voulons que cette fonction essentielle soit encadrée par la loi, et non par des règles trop floues. Il s’agit d’une mesure de clarification de la gouvernance pour éviter les ambiguïtés et mieux sécuriser le fonctionnement de la CLE."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Le principe selon lequel le président de la CLE est élu par et parmi les représentants du collège des collectivités est déjà prévu dans le code de l’environnement. Les modalités précises du scrutin figurent dans les règlements intérieurs de chaque CLE, qui relèvent du pouvoir réglementaire. L’inscription de ces modalités dans la loi n’apporte pas de valeur normative supplémentaire et créerait une rigidité inutile. Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2230, repoussé par le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4095692",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1248 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Lisa Belluco, pour soutenir l’amendement no 1248."
+        },
+        {
+          "orateur": "Mme Lisa Belluco",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795362",
+          "texte": "Il s’agit d’un amendement d’appel au sujet d’un débat que nous avions commencé à mener en commission. Dans les comités de bassin, certaines personnes qui siègent au sein d’un collège peuvent avoir des liens avec d’autres collèges. Typiquement, des élus peuvent également être agriculteurs ou exercer une activité professionnelle liée à un autre collège. Nous proposons de recenser les personnes qui auraient plusieurs rattachements statutaires relatifs aux différents collèges des comités de bassin et de les comptabiliser au titre de ces différents rattachements statutaires afin d’éviter les déséquilibres involontaires dans la composition du comité de bassin.\nJ’ai conscience que la rédaction proposée est imparfaite et peut être améliorée, mais il y a un écueil à éviter. Des déséquilibres souvent involontaires naissent du fait que chacun a plusieurs activités dans la vie. Tout comptabiliser permettrait d’être le plus juste possible."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Votre préoccupation de représentativité équilibrée est légitime, mais la rédaction proposée est en effet techniquement problématique. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je suis extrêmement choquée par cet amendement.\nUn maire agriculteur, lorsqu’il siège ès qualités de maire, est maire. (M. Thierry Benoit applaudit.) Sinon, vous jetez le soupçon sur les élus locaux en sous-entendant qu’ils ne sont jamais complètement maires, mais toujours en partie les représentants de leur origine sociale ou de leur métier. Ce n’est pas possible et je trouve cela extrêmement choquant. Avis totalement défavorable."
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Cyrielle Chatelain."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "J’ai travaillé pendant plus de trois ans dans une métropole, madame la ministre, et une règle simple dominait les délibérations, celle du déport. Un élu, quel que soit son statut ou son métier, court toujours le risque d’être partagé entre des intérêts privés et l’intérêt général, ce qui pourrait altérer sa capacité à délibérer pour le bien commun. Le principe qui prévaut dans nos collectivités, et devrait d’ailleurs s’appliquer au sein même de notre assemblée, est donc le déport. Ces règles sont appliquées très strictement dans les collectivités locales.\nPar exemple, même quand j’avais une présidente d’un EPFL, un établissement public foncier local, elle ne pouvait pas rapporter une délibération en tant que vice-présidente à l’habitat. Ce sont des règles qui s’appliquent à tous nos élus, madame la ministre. Un agriculteur, s’il possède des biens fonciers, peut être personnellement intéressé par les décisions qui seront prises concernant le zonage foncier, par exemple. Il serait donc logique qu’en raison de ce conflit d’intérêts, il se déporte. Ce serait une bonne pratique qui favoriserait un mode de décision transparent et éthique. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jean-Luc Bourgeaux."
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Je vais donc bientôt devoir vous quitter puisque je suis agriculteur. Cela fait près de huit jours que je siège avec vous, alors que je ne devrais pas être là – je suis concerné par ce texte.\nVous me choquez parce que, à vous entendre, je n’aurais pas le droit de participer au débat ni de prendre la parole et je devrais quitter ce lieu. (Exclamations sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Ce n’est pas ce que nous avons dit !"
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Mais si, puisque je délibère !"
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "C’est ce que vous avez dit."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme la présidente de la commission du développement durable et de l’aménagement du territoire."
+        },
+        {
+          "orateur": "Mme Sandrine Le Feur",
+          "fonction": "présidente de la commission du développement durable et de l’aménagement du territoire",
+          "role": null,
+          "idActeur": "PA719412",
+          "texte": "En effet, vous venez de dire que la règle devrait s’appliquer à l’Assemblée nationale. J’en déduis qu’il me faudrait, moi aussi, me déporter et ne pas me prononcer sur ce texte. Je pense que cette doctrine vous poserait problème pour certains sujets."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1248 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096935",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5 quater (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je suis saisie de plusieurs amendements identiques nos 96, 435, 534, 1059, 1186, 1697, 1858 et 2220, qui tendent à supprimer l’article 5 quater.\n La parole est à M. Jean-Luc Bourgeaux, pour soutenir l’amendement no 96."
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Merci madame la présidente de m’autoriser ainsi à rester !\nL’article prévoit de réserver un siège au sein de la gouvernance des agences de l’eau pour un représentant de l’agriculture biologique. En plus d’opposer inutilement et dangereusement agriculture biologique et agriculture conventionnelle, ces dispositions sont antidémocratiques. Les organisations professionnelles agricoles doivent rester libres de désigner leurs représentants. Il est donc proposé de supprimer l’article."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096939",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Cyrielle Chatelain, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Il se fonde sur l’article 70. J’ai été interpellée à deux reprises par des remarques qui m’étaient directement adressées. J’y répondrai brièvement et sans esprit de polémique mais je tiens à clarifier les propos que j’ai tenus sur le déport et la déontologie.\nEn l’espèce, tout tient au périmètre d’action de la collectivité. Un maire qui est aussi propriétaire de terrains dans sa commune se doit de se déporter lors des délibérations relatives à l’urbanisme. Que je sache, nous ne légiférons pas sur la question des terrains. En revanche, je considère que lorsque nous débattons de mesures fiscales, les parlementaires qui sont aussi actionnaires dans une société devraient se déporter. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Votre intervention porte sur le fond et surtout, l’article 70 s’applique lorsque des propos graves ont été prononcés à l’encontre d’un député, ce qui n’est pas le cas : rien n’a dépassé le cadre du débat."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096943",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5 quater (appelé par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Nous poursuivons l’examen des amendements identiques de suppression de l’article.\n Les amendements nos 435 de M. Bertrand Bouyx et 534 de M. Éric Martineau sont défendus.\nLa parole est à M. Philippe Schreck, pour soutenir l’amendement no 1059."
+        },
+        {
+          "orateur": "M. Philippe Schreck",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796050",
+          "texte": "Par des articles ou des amendements, on essaie de toucher ici ou là à la gouvernance de l’eau, mais ce sujet mériterait sans doute d’être étudié de façon plus globale.\nEn l’espèce, il me semble que la désignation des représentants de chaque corporation au sein des comités de bassin relève plutôt du pouvoir réglementaire, puisque l’article D. 213-19-3 du code de l’environnement prévoit expressément que dans chaque comité de bassin, le collège comprend au moins un représentant de l’agriculture biologique, sur proposition de la Fédération nationale d’agriculture biologique des régions de France. Je vous invite par conséquent à supprimer l’article, qui est plutôt satisfait."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096947",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Les amendements identiques nos 1186 de Mme Françoise Buffet et 1697 de M. François Jolivet sont défendus.\nLa parole est à Mme Anne-Sophie Ronceret, pour soutenir l’amendement no 1858."
+        },
+        {
+          "orateur": "Mme Anne-Sophie Ronceret",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841927",
+          "texte": "L’amendement tend à supprimer l’article 5 quater qui prévoit que le conseil d’administration des agences de l’eau est nécessairement composé d’un représentant de l’agriculture biologique.\nLa composition des conseils d’administration des agences de l’eau repose sur une gouvernance décentralisée et démocratique fondée sur un principe d’équilibre entre les collèges permettant d’assurer la représentation des différents usages et enjeux. Mais si on inscrit dans la loi la présence obligatoire d’un représentant particulier, pour une catégorie précise, on risque de créer un déséquilibre entre les différents usagers. C’est pourquoi nous proposons de supprimer l’article afin de laisser aux territoires, dans le respect de la démocratie locale, la capacité de désigner leurs représentants, selon leurs propres enjeux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur ces amendements identiques, je suis saisie par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Patricia Maussion, pour soutenir l’amendement no 2220."
+        },
+        {
+          "orateur": "Mme Patricia Maussion",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794262",
+          "texte": "L’idée est de ne pas inscrire dans la loi une distinction institutionnelle entre les formes d’agriculture qui créerait une hiérarchie implicite. Je vais vous donner un simple exemple : j’ai siégé dans le collège des usagers économiques de l’agence de l’eau Loire-Bretagne pendant plusieurs années, au titre de mon métier d’agricultrice et de mon modèle de production biologique. C’était une demande du préfet coordonnateur et surtout un accord entre usagers. Je vous donne cet exemple pour vous montrer qu’il est possible d’avoir des représentants agricoles avec des modèles de production différents sans l’inscrire dans la loi. Nous sommes donc favorables à la suppression de cet article. (Applaudissements sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": "ministre délégué",
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Le gouvernement souhaite promouvoir la diversité dans les comités de bassin et l’agriculture biologique. Mais nous faisons droit à l’argument évoqué consistant à dire qu’il ne saurait y avoir une seule catégorie d’acteur érigée au niveau de la loi. La composition des conseils d’administration des agences de l’eau doit d’ailleurs refléter les équilibres entre les différents collèges. En matière d’eau, il y a des principes de politique publique nationale mais la démocratie locale reste la démocratie locale et elle doit être traitée au niveau local. Avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Lisa Belluco."
+        },
+        {
+          "orateur": "Mme Lisa Belluco",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795362",
+          "texte": "J’espère ne pas trop vous choquer en disant que l’amendement créant cet article a été adopté en commission du développement durable et de l’aménagement du territoire pour donner une petite place à l’agriculture biologique dans les conseils d’administration des agences de l’eau.\nJ’entends que ce seraient les seuls acteurs nommés par la loi mais pourquoi ne pas laisser la loi définir davantage la composition des conseils d’administration des agences de l’eau ? Là aussi, on constate des déséquilibres ainsi que la surreprésentation de certains intérêts. Tout cela ne va pas dans le sens de l’intérêt général. Nous souhaiterions au moins rétablir un équilibre plus juste, plus représentatif, afin que tous les intérêts des différents agriculteurs, des différentes agricultures, que vous nous enjoignez sans cesse à ne pas opposer, puissent être représentés au sein des conseils d’administration des agences de l’eau et que les décisions soient les plus représentatives et les plus justes possible en n’opposant aucune des agricultures. (Mme Manon Meunier applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Dominique Potier."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Prévoir des catégories, dresser des listes, me laisse toujours un peu dubitatif. Les agences de l’eau, si elles sont bien animées, fonctionnent correctement. Je peux vous donner l’exemple de celle du Rhin-Meuse qui conduit des projets importants, sous l’impulsion de son directeur général et de la présidente du comité de bassin, poste actuellement occupé par ma suppléante. Je ne voudrais donc pas que l’on désespère complètement de notre pays en opposant des catégories, en stigmatisant d’emblée un paysan que l’on soupçonnerait un peu trop vite de raisonner pour sa seule corporation. Ce n’est pas ainsi que cela se passe, dans la vraie vie. Il y a des choses qui marchent.\nJe vais juste vous raconter une histoire, une affaire de redevances, au cours de laquelle des pressions syndicales très violentes s’étaient exercées contre des membres du comité de bassin. L’ensemble des agriculteurs membres de ce comité de bassin ont voté contre l’avis du préfet coordonnateur, c’est-à-dire du préfet de région, lequel avait cédé aux pressions corporatistes. Ils l’ont fait au nom de l’intérêt général, parce qu’ils avaient une culture du bien commun, de l’intérêt réciproque du territoire, du monde paysan. Bio ou pas bio, ils avaient élevé leur conscience éthique dans la responsabilité qui était la leur.\nJe voudrais que, dans notre pays, on ne désespère pas de ces lieux où des hommes et des femmes d’horizons divers sont capables de rechercher l’intérêt général. Plutôt que de faire des catégories ou de stigmatiser le fait que leur profession les exposerait à un conflit d’intérêts, je voudrais leur rendre hommage car leur courage a été plus grand, en l’occurrence, que celui du représentant de l’État. (Applaudissements sur plusieurs bancs des groupes EPR, et DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix les amendements identiques nos 96, 435, 534, 1059, 1186, 1697, 1858 et 2220."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n Nombre de votants 103\n Nombre de suffrages exprimés 102\n Majorité absolue 52\n Pour l’adoption 75\n Contre 27"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 96, 435, 534, 1059, 1186, 1697, 1858 et 2220 sont adoptés ; en conséquence, l’article 5 quater est supprimé.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096966",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5 quinquies (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "L’amendement no 1962 rectifié de M. David Taupiac est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "L’article 5 quinquies prévoit déjà de créer un régime spécifique adapté à l’aspersion antigel, avec une justification a posteriori en lieu et place d’une obligation de mesure volumétrique permanente. Exonérer totalement ces prélèvements de toute déclaration ou autorisation Iota va au-delà de ce que l’article 5 quinquies a retenu et pourrait fragiliser la base égale du contrôle a posteriori lui-même. Le régime adopté en commission est plus équilibré. Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1962 rectifié, repoussé par le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 5 quinquies est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096972",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 5 quinquies (amendements appelés par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Nous en venons à plusieurs amendements portant article additionnel après l’article 5 quinquies.\nL’amendement no 508 de Mme Alix Fruchon est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Nathalie Coggia",
+          "fonction": "rapporteure pour avis",
+          "role": null,
+          "idActeur": "PA795402",
+          "texte": "L’autorisation environnementale unique existe déjà et couvre les ouvrages hydrauliques. Son délai d’instruction est encadré. L’ajout d’une autorisation tacite favorable à l’expiration d’un délai pour des projets susceptibles d’avoir des effets significatifs sur les milieux aquatiques serait contraire au droit européen. D’autre part, le renvoi aux projets d’avenir agricole de l’article 1er comme critère d’éligibilité à ce régime dérogatoire étend la portée de cette présomption bien au-delà de ce que le Conseil constitutionnel tolérerait. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 508 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Manon Bouquin, pour soutenir l’amendement no 962."
+        },
+        {
+          "orateur": "Mme Manon Bouquin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841131",
+          "texte": "Il n’y a pas de souveraineté alimentaire sans eau pour produire. L’eau n’est pas une variable secondaire de l’agriculture, elle conditionne les rendements et la capacité de la France à se nourrir. Refuser de sécuriser l’eau agricole, c’est organiser notre dépendance aux importations.\nLes agriculteurs ont besoin de visibilité et la loi doit reconnaître clairement que l’irrigation est un levier stratégique de résilience alimentaire. C’est pourquoi cet amendement précise les objectifs de gestion de la ressource en eau en intégrant la souveraineté alimentaire. Le code de l’environnement reconnaît déjà les usages essentiels de l’eau, l’alimentation en eau potable et les besoins de la sécurité publique. L’irrigation doit être traitée avec la même clarté stratégique. Ce n’est pas simplement du déclaratif, il faut refléter dans la loi la réalité opérationnelle. Je le répète, sans eau pour l’agriculture, il n’y a pas de souveraineté alimentaire. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 962, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4096983",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Suite de la discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

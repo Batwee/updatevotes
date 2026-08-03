@@ -1,0 +1,2860 @@
+{
+  "uid": "CRSANR5L17S2026O1N200",
+  "seanceRef": "RUANR5L17S2026IDS30438",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2026-04-10",
+  "dateLisible": "vendredi 10 avril 2026",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4059969",
+      "valeurPtsOdj": "1",
+      "titre": "Démission et remplacement d’un député",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Mme la présidente a reçu de M. Emmanuel Grégoire, député de la 7e circonscription de Paris, une lettre l’informant qu’il se démettait de son mandat de député à compter d’aujourd’hui. Acte est donné de cette démission, qui sera notifiée au premier ministre.\nPar une communication du 3 avril 2026, le ministre de l’intérieur a informé Mme la présidente que M. Emmanuel Grégoire serait remplacé jusqu’au renouvellement de l’Assemblée nationale par Mme Dorine Bregman, élue en même temps que lui à cet effet."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4059974",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion, après engagement de la procédure accélérée, d’une proposition de loi adoptée par le Sénat",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi visant à permettre aux salariés de certains établissements et services de travailler le 1er mai (nos 1673, 2335)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4059976",
+      "valeurPtsOdj": "2",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. le ministre du travail et des solidarités."
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre du travail et des solidarités",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "L’initiative de ce texte revient au Sénat : soutenu par le président Hervé Marseille et la sénatrice Annick Billon, il a été adopté le 3 juillet 2025 par la chambre haute.\nSoyons clairs : contrairement à ce que l’on peut entendre, ce texte ne signifie pas la fin du 1er mai dans notre pays."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Si !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "J’ai conscience de la signification sociale et historique de ce jour particulier et de son statut à part dans le code du travail. Vous avez été nombreux à en rappeler l’origine. Le 1er mai, comme jour obligatoirement chômé et donc payé, remonte à l’adoption de la journée de huit heures en avril 1919. C’est une conquête du monde ouvrier, en pleine période d’industrialisation. Il symbolise les grandes avancées sociales visant à encadrer les conditions de travail et à donner aux travailleurs une vie digne."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Eh oui, c’est pour ça qu’on la défend !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Quand on est ministre du travail et des solidarités, on est attaché à cette journée de cohésion,…"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "On ne dirait pas !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…d’autant que les défilés des principales confédérations syndicales du pays qui ont lieu ce jour-là rappellent la vitalité de notre démocratie sociale.\nC’est une fête célébrée dans le monde entier. On parle bien de Journée internationale…"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "De lutte !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…des travailleurs. Dans le contexte géopolitique actuel, soyons sensibles à cette dimension universaliste du 1er mai,…"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Vous n’y croyez pas vous-même !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…porteuse d’espoir pour de nombreux travailleurs, en particulier dans les pays où ils restent confrontés au travail forcé, au travail des enfants, aux mauvaises conditions de travail ou à la négation de leurs droits. Je souhaite donc redire avec force l’attachement du gouvernement au 1er mai, aux valeurs, aux conquêtes sociales, au symbole qu’il véhicule en France et dans le monde. Cet attachement est partagé par une grande majorité de ces bancs."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Il se moque du monde !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "À ceux qui s’inquiètent d’une possible libéralisation du travail le 1er mai, je réponds qu’il ne s’agit pas de l’intention du gouvernement."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Mais oui, c’est ça !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Ce n’est pas non plus celle des sénateurs auteurs de cette proposition de loi…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Mais si, évidemment !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…ni celle des députés qui ont choisi de l’inscrire dans leur journée d’initiative parlementaire."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Vous êtes le camp de la réaction !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Il nous faut trouver un équilibre pour répondre aux inquiétudes des professionnels qui ne comprennent pas pourquoi ce qu’ils ont fait de manière consensuelle pendant des années leur est désormais reproché, comme aux objections des organisations syndicales, qui y voient une remise en cause du caractère férié et chômé du 1er mai. Avec ce texte, vous allez débattre du besoin légitime de clarifier les possibilités d’employer des salariés le 1er mai,…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "C’est déjà très clair !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…exprimées par de nombreux professionnels, dont une majorité d’artisans et de petits commerçants."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Vous êtes la voix du Medef !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Je pense notamment à la réaction des boulangers, l’année dernière, devant des contrôles qui interrogeaient une pratique ancienne et considérée jusqu’alors comme consensuelle et d’usage."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Ce sont eux qui vont en souffrir !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Le texte trouve son équilibre dans le fait de clarifier le droit applicable pour sécuriser des établissements appartenant à des secteurs très limités et répondre ainsi à des besoins du public, s’inscrivant dans la tradition du 1er mai et la continuité de la vie sociale.\nPour que le débat soit le plus apaisé possible, calme et constructif,…"
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Ah non, ce n’est pas possible !"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Il ne fallait pas faire cette proposition, alors !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…il me semble utile d’avoir une photographie claire de l’état du droit et des pratiques en vigueur.\nD’abord, il existe déjà une dérogation permettant à certains employeurs de faire appel à leurs salariés le 1er mai, dès lors que l’activité de leur établissement ne peut être interrompue. Les salariés concernés reçoivent comme contrepartie une rémunération doublée."
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "C’est ça, doublée…"
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Ils ne sont pas tous payés double, ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Il est donc erroné de dire qu’aucun salarié ne travaille le 1er mai. Je pense aux salariés de droit privé qui contribuent à des missions essentielles de service public dans le transport de voyageurs ou dans les établissements sanitaires et médico-sociaux."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Mais soigner des gens, c’est autrement plus important !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "On l’imagine également pour les activités d’hébergement ou de restauration. Tout le monde comprend que, même le 1er mai, il est nécessaire d’assurer la continuité de la vie sociale et économique du pays et de nos services publics. Ce principe a justifié qu’un nombre très restreint de professionnels fassent appel à leurs salariés ce jour-là. Pour la plupart, ce sont des entreprises de proximité, où nos concitoyens vont acheter leur pain ou du muguet.\nDans l’hypothèse où tous les employeurs concernés décideraient de faire travailler leurs salariés ce jour-là et que tous ces salariés seraient volontaires, cela représenterait moins de 2 % des salariés."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Des millions de gens, quoi !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Longtemps, ces professionnels ont bénéficié d’une forme de tolérance consensuelle…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…– je veux insister sur ce point –, tant de la part des représentants des salariés que de celle de l’administration,  qui considérait dans les années 1980 que les établissements bénéficiaient d’une dérogation de fait.\nToutefois, la Cour de cassation a remis en cause cette doctrine en 2006. Elle a précisé qu’il n’existait pas de base légale permettant à des catégories d’établissements de bénéficier d’une dérogation au principe du repos du 1er mai. Le juge a été clair : le 1er mai n’est pas un dimanche, si bien que les règles de dérogation de droit pour le repos dominical ne s’appliquent pas.\nDepuis, artisans et entreprises de proximité, qui employaient des salariés ce jour-là parce que leur activité participe à la continuité de la vie sociale et économique de notre pays, sont placés dans une forme d’insécurité juridique. La justification au cas par cas que permet le code du travail, outre qu’elle ne nécessite pas le recours au volontariat, soulève des questions. Je saisis donc l’incompréhension des employeurs, mais aussi celle des salariés concernés, qui attendent que nous soyons clairs. Si la proposition de loi permet de répondre à cette attente, elle ne changera pas les pratiques passées, d’autant qu’elle impose le consentement du salarié pour les établissements des secteurs visés de manière limitative par le texte. Ce recueil du consentement devra être effectué sur une base annuelle.\nIl appartient au gouvernement de prendre l’engagement, si cette proposition de loi est adoptée, que le décret d’application s’inscrira dans le cadre des critères limitatifs fixés par la loi. Le ministère du travail, dans le décret, veillera à avoir une lecture stricte des secteurs concernés au plus proche des pratiques actuelles."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "La Fnac, ou pas ? Auchan, ou pas ?"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Le gouvernement n’a pas l’intention de permettre aux hypermarchés, par exemple, de faire travailler leurs salariés le 1er mai. Le contenu du décret sera présenté aux partenaires sociaux en amont de la publication et nous ferons le maximum pour avoir un cadre sécurisé d’ici au 1er mai. Cette position rejoint celle des commissions des affaires sociales de l’Assemblée nationale et du Sénat."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Très bien ! C’est clair, au moins !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Pour conclure, le gouvernement n’entend pas revenir sur l’acquis du 1er mai chômé pour l’immense majorité des salariés de notre pays, pas plus que les auteurs de cette proposition de loi."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Ça commence toujours comme ça !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "Ce texte encadre strictement, mais clairement, les conditions dans lesquelles certains établissements et services peuvent, à titre dérogatoire, faire appel à leurs salariés le 1er mai. Il ne s’agit en aucun cas de remettre en cause le caractère férié et chômé de cette journée, mais de reconnaître la spécificité de certaines activités, à l’instar de celles des boulangeries ou des fleuristes. En conséquence, le gouvernement s’en remettra à la sagesse de l’Assemblée nationale pour examiner ce texte de façon apaisée et responsable. Il recommande de le voter de manière conforme…"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "C’est une indication de vote !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…pour accompagner la mise en cohérence de notre droit et donner ainsi un cadre juridique clair et sécurisé pour le 1er mai 2026. J’ai la conviction que ce cadre protège les droits sociaux des travailleurs…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Arrêtez ! C’est n’importe quoi !"
+        },
+        {
+          "orateur": "M. Jean-Pierre Farandou",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA873624",
+          "texte": "…et préserve le symbole que représente la fête des travailleurs dans notre histoire. Ce texte ne signifie en aucun cas la fin du 1er mai et ne constitue pas davantage une attaque délibérée contre les droits sociaux dans notre pays, contrairement à ce que certains ici cherchent à faire croire aux Françaises et aux Français. (Applaudissements sur quelques bancs des groupes DR et HOR.)"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Tous les syndicats sont dehors !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Thibault Bazin, rapporteur de la commission des affaires sociales.\nChers collègues, s’il vous plaît, un peu de calme."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "On accompagne le débat !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Si ce n’est pas pour nous, faites-le pour les personnes qui sont dans le public et n’entendent pas."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Avant d’en venir à l’objet de cette proposition de loi, je voudrais rappeler les conditions particulières dans lesquelles elle est examinée. Elle a d’abord été inscrite à l’ordre du jour de la journée réservée du groupe Droite républicaine, le 22 janvier. Le 14 janvier, la commission des affaires sociales l’a adoptée sans modification, à l’issue de débats riches et respectueux. La journée d’initiative parlementaire du groupe Droite républicaine a cependant été marquée par l’emploi de nombreux moyens de procédure visant à ralentir les débats, dans le seul but d’empêcher l’Assemblée nationale de se prononcer sur plusieurs des textes, si bien que l’examen de cette proposition de loi n’a pas été possible."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Bien sûr, jamais d’obstruction de votre côté, vous êtes blancs comme neige !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je le déplore d’autant plus que l’examen de ce texte s’inscrit dans un calendrier plus contraint à mesure que nous nous approchons de la date du 1er mai. Aussi, je me réjouis que le groupe Ensemble pour la République se soit inscrit dans notre continuité et ait permis l’examen de cette proposition de loi aujourd’hui.\nJe reviens au fond. Parmi les onze jours fériés reconnus par la loi, le 1er mai occupe une place singulière. Il est le seul dont le caractère chômé est inscrit dans la loi. Cette particularité résulte d’une histoire sociale dense, qui exige que nous l’envisagions avec prudence et respect, j’y suis attaché.\nJe voudrais rappeler brièvement l’origine du 1er mai :…"
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "La lutte des classes !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…dès la fin du XIXe siècle, le 1er mai a été accordé comme jour de repos par certaines municipalités qui, selon l’expression de notre collègue Hadrien Clouet dans un ouvrage récent, ont « pavé le chemin de sa reconnaissance légale en tant que jour férié ». (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est à la Libération, dans le prolongement des combats de la Résistance, que cette journée a acquis, à la faveur des lois du 30 avril 1947 et du 29 avril 1948, son statut de jour férié et chômé, caractère qu’elle a conservé depuis. Cela va continuer, nous y tenons.\nDepuis 1947, la loi prévoit une dérogation au chômage du 1er mai dans le cas des établissements et services qui, en raison de la nature de leur activité, ne peuvent interrompre le travail, et précise que les salariés concernés ont droit au doublement de leur rémunération. La portée de cette dérogation est sujette à interprétation car la loi ne mentionne ni les catégories d’établissement qui en relèvent ni les critères en vertu desquels un employeur pourrait s’en prévaloir. Certaines structures paraissent en relever naturellement, à l’instar de celles assurant des missions de service public essentielles, telles que les hôpitaux ou les services de transport publics. Dans d’autres cas, l’appréciation du champ de la dérogation légale peut s’avérer plus délicate, dès lors qu’elle suppose de déterminer quelles activités sont nécessaires à la continuité de la vie sociale.\nSelon une position administrative ancienne, énoncée notamment en 1980 et 1986 par Martine Aubry, les employeurs dont l’activité donne lieu à une dérogation permanente de droit au repos dominical étaient réputés satisfaire à cette condition. Cette interprétation présentait un intérêt pratique, dans la mesure où les dispositions législatives et réglementaires alors en vigueur définissaient une liste des établissements et services concernés. Au sein de certains secteurs, tels que celui des boulangeries et des pâtisseries, le travail des salariés le 1er mai ne soulevait pas de problème, étant même volontaire, compte tenu notamment du doublement de leur rémunération. Il en allait de même des fleuristes et des jardineries qui vendent le muguet que l’on s’échange le 1er mai, comme, au demeurant, des particuliers, également autorisés à en proposer sur la voie publique, sous certaines conditions, en vertu d’une tolérance propre à cette journée."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Certains établissements culturels, en particulier des cinémas, ouvraient aussi ce jour de l’année.\nCette interprétation de la loi a cependant été remise en cause par la Cour de cassation, en particulier à l’occasion d’un arrêt rendu en 2006, dans lequel la Cour a jugé que les entreprises autorisées à accorder le repos hebdomadaire, par roulement, un autre jour que le dimanche ne pouvaient être présumées remplir la condition pour faire travailler des salariés le 1er mai. Autrement dit, l’appréciation de la portée de la dérogation doit se faire au cas par cas, la charge de la preuve reposant sur l’employeur.\nAussi, dans un nombre très limité de cas, à partir de 2023, des employeurs qui ouvraient traditionnellement à cette date et faisaient travailler leurs salariés ont été injustement verbalisés pour ce motif, notamment en Charente, en Vendée et à Paris. En particulier, cinq boulangers vendéens ont fait l’objet d’amendes pour avoir fait travailler des salariés le 1er mai 2024, avant que le tribunal de police de La Roche-sur-Yon ne les relaxe le 25 avril 2025. (Exclamations sur les bancs du groupe LFI-NFP.) Par peur de pareilles procédures, fruit de cette insécurité juridique, beaucoup de commerçants ont préféré fermer, alors qu’ils ouvraient traditionnellement – je pense notamment à nos boulangers de proximité.\nSi ce phénomène paraît marginal, il n’en fragilise pas moins une situation que les employeurs concernés tenaient pour acquise. Au-delà des quelques cas ayant donné lieu au prononcé d’amendes, c’est la situation de l’ensemble des employeurs des secteurs concernés qui est indirectement remise en cause, à rebours d’un usage établi.\nAussi, cette proposition de loi a pour objet,…"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "De casser les droits des travailleurs !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…non pas de remettre en cause le caractère férié et chômé du 1er mai, mais de remédier à l’insécurité juridique actuellement constatée dans certains secteurs d’activité dont les entreprises ouvraient traditionnellement le 1er mai – et uniquement ceux-là. (Applaudissements sur quelques bancs des groupes EPR et DR.) Pour ce faire, elle permet expressément à des entreprises qui, en vertu d’une interprétation longtemps établie de la réglementation, ont pu s’estimer autorisées à faire travailler des salariés à cette date, de continuer d’y procéder, sous réserve de l’accord des intéressés.\nCompte tenu de la signification particulière et de l’importance de la journée du 1er mai, il était nécessaire de limiter strictement la dérogation définie par la proposition de loi à la sécurisation de pratiques ayant cours dans certains secteurs d’activité qui répondent à un objectif de continuité de la vie sociale."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Votre texte détruit la vie sociale !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est précisément ce à quoi nos collègues sénateurs se sont attelés lors de l’examen du texte. Dans sa rédaction initiale, la proposition de loi étendait la dérogation à l’interdiction de faire travailler des salariés le 1er mai à tous les employeurs bénéficiant d’une dérogation permanente de droit au repos dominical, c’est-à-dire aux entreprises et services « dont le fonctionnement ou l’ouverture est rendu nécessaire par les contraintes de la production, de l’activité ou les besoins du public ». À l’initiative de son rapporteur Olivier Henno, la commission des affaires sociales du Sénat a circonscrit le champ de cette dérogation en établissant une liste d’établissements concernés et en conditionnant le travail de salariés le 1er mai au volontariat des intéressés. (Protestations sur les bancs du groupe GDR.)"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Comme pour le travail du dimanche ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Désormais, la proposition de loi vise uniquement à permettre le travail de salariés au sein des commerces de bouche de proximité, tels que les boulangeries, les pâtisseries, les primeurs, les boucheries ou les poissonneries, la formulation excluant, en particulier, que les entreprises de la grande distribution puissent se prévaloir de cette dérogation ;…"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…au sein des établissements assurant à titre principal la vente de fleurs naturelles, soit les fleuristes et les jardineries, qui vendent le muguet que l’on s’offre ce jour ;…"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Ce ne sont pas les fleuristes qui vendent le muguet le 1er mai, c’est le Parti communiste !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…et au sein des établissements du secteur culturel, à savoir les cinémas et les théâtres, dont l’ouverture répond à une aspiration habituelle du public lors d’un jour chômé. (Applaudissements sur les bancs du groupe DR.) La liste des établissements concernés serait définie par un décret en Conseil d’État, dans le respect de ces catégories. Je me suis attaché à en détailler le contenu dans mon rapport afin qu’il soit interprété strictement par le gouvernement et, le cas échéant, par le juge. D’autres secteurs d’activité, à l’instar de celui de l’hôtellerie et de la restauration, pourront continuer de se prévaloir de la dérogation qui figure déjà dans le code du travail.\nCe dispositif équilibré me semble répondre à l’objectif poursuivi : sécuriser juridiquement des pratiques ayant cours au sein d’un nombre limité de secteurs d’activité. Nous pouvons rassurer ceux qui craignent que la dérogation définie par ce texte soit étendue à de nouveaux secteurs d’activité, soit par le décret d’application qu’il prévoit, soit à la faveur d’une future modification de la loi. D’une part, la rédaction adoptée par le Sénat puis par notre commission me paraît suffisamment précise…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…pour écarter tout risque que le pouvoir réglementaire retienne du texte une interprétation contraire à son esprit. D’autre part, loin de montrer une volonté d’étendre cette dérogation, l’examen du texte au Sénat, tant en commission qu’en séance, a témoigné au contraire du souci de la circonscrire autant que nécessaire."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Ça nous rassure énormément !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il n’est pas question de faire travailler des salariés qui ne le faisaient pas traditionnellement, étant donné leur secteur d’activité."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "On connaît la chanson : ça commence comme ça, et après…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "On peut regretter qu’il faille recourir à la loi pour régler des situations qui, jusqu’à une époque récente, n’avaient pas été remises en cause et qui ne l’ont d’ailleurs été que dans un nombre très limité de cas. Il aurait été souhaitable de pouvoir s’en remettre à la négociation collective au sein des branches concernées. Cette intention bute toutefois sur une réalité juridique : en effet, le régime du chômage du 1er mai étant fixé par la loi, les marges de manœuvre laissées à la négociation collective sont limitées."
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "C’est le principe de la loi !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je voudrais conclure mon intervention en rappelant que je me suis opposé tant à la proposition de l’ancien premier ministre François Bayrou de supprimer deux jours fériés qu’à celle consistant à augmenter la durée annuelle du travail de sept heures, à rémunération inchangée, formulée par nos collègues sénateurs lors de l’examen du projet de loi de financement de la sécurité sociale (PLFSS) pour 2025. Cette proposition de loi n’a pas pour objet d’augmenter le temps de travail, qui relève d’un débat politique distinct. Son objet est bien plus modeste et circonscrit : inclure expressément dans le champ d’une dérogation en vigueur depuis 1947 des entreprises qui s’en prévalaient déjà en pratique. Le principe du jour chômé n’est donc pas remis en cause pour les secteurs dont les salariés ne travaillent pas ce jour-là actuellement.\nIl est important que le texte soit adopté rapidement si nous voulons être sûrs que la loi entre en vigueur d’ici au 1er mai prochain, comme le souhaitent et réclament les représentants des secteurs concernés."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Il a raison ! Efficacité !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "La commission des affaires sociales a adopté la proposition de loi sans modification, ce dont je me réjouis. Pour les raisons de fond et de procédure que je viens d’exposer, j’invite l’Assemblée nationale à faire de même. (Applaudissements sur les bancs des groupes EPR, DR et HOR.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Très bien !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060073",
+      "valeurPtsOdj": "2",
+      "titre": "Motion de rejet préalable",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "J’ai reçu de Mme Nicole Dubré-Chirat et des membres du groupe Ensemble pour la République une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement. (Exclamations sur les bancs du groupe LFI-NFP.)\n La parole est à Mme Nicole Dubré-Chirat."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Eh bien alors ? Vous refusez le débat ? Assumez !"
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "La honte !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Quel respect de l’esprit du débat !"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Quand vous nous accuserez d’empêcher le débat, on sortira les violons !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Merci de nous laisser nous exprimer ! (Les exclamations se poursuivent.)\nL’Assemblée nationale examine une proposition de loi visant à permettre aux salariés de certains établissements et services – fleuristes, boulangers, employés du secteur culturel – de travailler le 1er mai. Inscrit à l’agenda de la journée réservée au groupe Droite républicaine le 22 janvier 2026, le texte n’avait pas été examiné faute de temps. Le groupe Ensemble pour la République a donc décidé de le reprendre car il est cohérent avec notre vision du travail."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Le reprendre pour le rejeter aussitôt ! Eh bien, il y a du niveau !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Nous savons que le 1er mai est un symbole dans le paysage social de notre pays : il s’agit de la Journée internationale des travailleurs, jour férié et chômé. Nous respectons les jours fériés du calendrier français. Notre groupe politique, par la voix de son président Gabriel Attal,…"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Il est où ? Il n’est pas là !"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Il arrive !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "S’il vous plaît, chers collègues !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "…a toujours défendu le principe selon lequel le travail est source d’émancipation. Le travail doit rester un choix, sans être une contrainte, et être mieux rémunéré. (Applaudissements sur les bancs du groupe DR.) Le travail du 1er mai s’effectuera sur la base du volontariat des artisans et des salariés."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Voilà Attal ! Il est en retard !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Dans ce contexte, nous avons écrit à 25 000 boulangers et 6 000 fleuristes afin de leur faire part de notre volonté de permettre l’adoption du texte avant le 1er mai prochain. Les retours ont été, dans leur grande majorité, positifs et il faut s’en réjouir. La pétition de soutien que nous avons lancée sur le sujet a par ailleurs recueilli 20 000 signatures à ce jour."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "La honte !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Cette proposition de loi ne remet pas en cause le 1er mai comme jour chômé mais met fin à une insécurité juridique qui pénalise injustement des artisans et des salariés volontaires, les entreprises étant passibles d’une amende de 750 euros par salarié.\nLe débat en commission des affaires sociales a été de grande qualité. Sérieux et apaisé, il a permis l’adoption du texte le 13 janvier. Alors que nous voulions débattre en hémicycle de ce sujet important pour des milliers de commerçants de notre pays, et légiférer en leur faveur, certains groupes politiques ont fait le choix de l’obstruction parlementaire, rendant impossible l’examen du texte dans un délai raisonnable. (Applaudissements sur les bancs des groupes EPR, DR et HOR. – Rires sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "C’est vous qui voulez rejeter votre propre texte !"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "C’est vous qui empêchez le débat !"
+        },
+        {
+          "orateur": "M. Andy Kerbrat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794130",
+          "texte": "Vous ne savez même pas ce que vous faites !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Cette posture traduit une réalité, celle du mépris à l’encontre des boulangers, des fleuristes et de tant d’artisans qui se lèvent tous les matins et qui font la fierté de notre pays. (Applaudissements sur quelques bancs des groupes EPR, DR et HOR. – Protestations sur les bancs du groupe LFI-NFP.) Nous sommes attachés à faire la loi avec rigueur et efficacité, c’est pourquoi nous demandons… (Brouhaha.) Peut-on s’exprimer dans le respect des uns et des autres ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Chers collègues, il y a nous, dans l’hémicycle, mais aussi tous ceux qui nous écoutent – notamment dans les tribunes, où l’on n’entend rien."
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "Et les syndicats qui sont dehors !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Ils sont peut-être en soutien !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Il est impératif de débattre de ce texte, et nécessaire de l’adopter avant le 1er mai prochain ; c’est ce qui avait été décidé."
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "Vous êtes la voix du Medef !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Selon les décisions qui seront prises, nous souhaitons que le texte soit renvoyé devant une commission mixte paritaire (CMP), de manière à permettre son adoption avant le 1er mai. (Mme Mathilde Panot, debout, compte les députés présents.)"
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "C’est un déni de démocratie !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Nous souhaitons un débat, mais nous voulons éviter des discussions sans fin qui rendraient le vote impossible. (Applaudissements sur les bancs des groupes EPR, DR et HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Monsieur le président de la commission, monsieur le ministre, souhaitez-vous intervenir ? Nous allons donc passer aux explications de vote.\nMadame Panot, vous souhaitez faire un rappel au règlement ?"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Puisque vous êtes en train de faire quelque chose de scandaleux – un 49.3 parlementaire –, alors que tous les syndicats sont opposés à ce texte, je demande une suspension de séance. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Elle est de droit, pour cinq minutes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à neuf heures vingt-six, est reprise à neuf heures trente-trois.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nNous en venons aux explications de vote sur la motion de rejet préalable.\n La parole est à M. Stéphane Viry."
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "J’ai demandé à faire un rappel au règlement !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Vous pourrez le faire après l’intervention de M. Viry, à qui j’ai déjà donné la parole. (Protestations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "J’ai brandi le règlement avant que vous ne donniez la parole à M. Viry ! Si vous ne regardez pas, que voulez-vous que j’y fasse ?"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Respectez Mme la présidente !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Monsieur Peu, je vous demande de vous calmer. Vous ne m’avez pas demandé la parole régulièrement."
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Si !"
+        },
+        {
+          "orateur": "Mme Claudia Rouaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342196",
+          "texte": "C’est parce que vous regardez toujours à droite, jamais à gauche, madame la présidente !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Monsieur Peu, vous auriez pu me demander la parole – quitte à crier, comme vous le faites depuis ce matin. (Vives exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Vous devriez avoir honte, madame la présidente !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060123",
+      "valeurPtsOdj": "2",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Cependant, je vous donne la parole pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "Vous êtes trop gentille, madame la présidente !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Je n’ai pas l’habitude de crier, madame la présidente, mais si vous n’êtes pas capable de m’entendre sans ça, alors j’y serai obligé la prochaine fois."
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "Vous passez votre temps à crier !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "Nous assistons à une manœuvre qui vise à nier le Parlement et qui dépasse le simple examen de la proposition de loi. Déposer des amendements et des sous-amendements, débattre d’une proposition de loi, fût-elle aussi inique que celle qui vise à supprimer le 1er mai, c’est la prérogative du Parlement. (Applaudissements sur les bancs du groupe LFI-NFP.) Je demande une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Je suspends la séance pour une durée de deux minutes. (Vives exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "C’est la première demande de droit du groupe GDR !"
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "On s’en souviendra !"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "On veut voter !"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "C’est honteux !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à neuf heures trente-quatre, est reprise à neuf heures trente-sept.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à Mme Cyrielle Chatelain, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Depuis 2023, une constante caractérise les macronistes et la droite : passer en force contre les syndicats, contre le Parlement et contre les travailleurs ! (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR.)"
+        },
+        {
+          "orateur": "M. Mickaël Bouloux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794094",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Vous en faites à nouveau la démonstration avec cette motion de rejet préalable ! C’est une constante que vous voulez détricoter le droit du travail et fragiliser les travailleurs dans leurs relations avec le patronat. C’est l’objectif de cette proposition de loi et vous recourez à une variante du 49.3 ! Je demande une suspension de séance pour une durée de cinq minutes, puisque c’est la première demande de notre groupe et qu’elle est de droit."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Elle sera de deux minutes. (Vives exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Ce n’est pas normal ! La suspension de cinq minutes est de droit !"
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "Bla bla bla !"
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Nous voulons cinq minutes !"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Mme la présidente fait ce qu’elle veut ! C’est comme ça ! Et on ne la remet pas en cause !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à neuf heures trente-huit, est reprise à neuf heures quarante.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à M. Boris Vallaud, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Je veux d’abord saluer la présence de nombreux députés que je n’avais pas vus depuis plusieurs semaines, (Exclamations sur les bancs des groupes EPR, DR, Dem et HOR. – Applaudissements sur les bancs des groupes SOC, LFI-NFP, EcoS et GDR)…"
+        },
+        {
+          "orateur": "Mme Sandra Marsaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719080",
+          "texte": "C’est petit !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "…car ils avaient choisi de profiter de leurs jours chômés et indemnisés pour fuir les débats, témoignant ainsi de leur manque de courage, notamment pendant la période budgétaire."
+        },
+        {
+          "orateur": "M. Gabriel Attal",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Quel est l’article ?"
+        },
+        {
+          "orateur": "Mme Anne Genetet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721024",
+          "texte": "Ce n’est pas un rappel au règlement !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Une fois de plus, nous assistons à une manœuvre dilatoire qui vise à contourner l’Assemblée nationale, à refuser le débat de fond que nous proposions et à nous faire siéger un vendredi, alors que nous étions convenus avec le gouvernement qu’il n’en serait rien. Je demande une suspension de séance pour une durée d’une demi-heure."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Elle sera de deux minutes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à neuf heures quarante-deux, est reprise à neuf heures quarante-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à Mme Cyrielle Chatelain, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Il se fonde sur l’article 58, relatif aux suspensions de séance. Sans remettre en cause la présidence, je voudrais signaler une certaine inégalité de traitement.\nLors des journées d’initiative parlementaire des groupes de gauche, les premières suspensions demandées ont duré dix minutes. Hier, lors de la journée d’initiative parlementaire du groupe Horizons, chaque groupe a eu droit à quatre minutes de suspension de séance.\nVous venez d’accorder cinq minutes de suspension à la présidente Panot,…"
+        },
+        {
+          "orateur": "Mme Marie Lebec",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721852",
+          "texte": "Parce que c’est sa préférée !"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "…puis chaque groupe de gauche s’est vu accorder deux minutes. L’inégalité de traitement me semble donc établie. (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR.)\nIl me semblait important de souligner ces précédents, pour équilibrer l’application du règlement. Elle doit être la même pour tous les groupes et ne pas être partisane."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Merci madame la présidente. J’ai assisté à tous nos débats d’hier : les suspensions ont duré quatre minutes puis deux minutes. (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Par groupe !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Aurélien Saintoul, pour un autre rappel au règlement."
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Merci."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Sur le fondement de quel article ?"
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Je vais donner lecture de l’article 44 de la Constitution."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Ce n’est pas un rappel au règlement !"
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "« Les membres du Parlement et le gouvernement ont le droit d’amendement. Ce droit s’exerce en séance ou en commission selon les conditions fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique. Après l’ouverture du débat, le gouvernement peut s’opposer à l’examen de tout amendement qui n’a pas été antérieurement soumis à la commission. »\nJ’en viens à la disposition la plus importante : « Si le gouvernement le demande, l’assemblée saisie se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par le gouvernement. »\nOr que se passe-t-il ? Ce n’est pas le gouvernement qui décide d’un vote bloqué, mais le groupe parlementaire des macronistes qui y procède, en quelque sorte, avec cette motion de rejet.\nC’est un sabordage parlementaire… (Mme la présidente coupe le micro de l’orateur, lequel est applaudi par les députés des groupes LFI-NFP et quelques députés des groupes SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Ce n’était pas un rappel au règlement, monsieur le député.\nLa parole est à Mme Cyrielle Chatelain pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Sur le fondement de l’article 58. Madame la présidente, vous l’avez dit : hier, chaque groupe a pu obtenir une suspension de quatre minutes puis des suspensions de deux minutes. Le groupe Écologiste et social n’étant pas le groupe Insoumis, nous demandons la suspension de quatre minutes dont nous n’avons pas pu disposer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Elle n’est pas accordée, madame la présidente. (Vives exclamations sur les bancs des groupes LFI-NFP, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Elle est de droit !"
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "La honte !"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Vous ne pouvez pas la refuser ! Vous êtes d’une partialité incroyable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Je vous l’accorde, mais pour deux minutes. Pas quatre minutes ou dix minutes ! On voit bien ce qui est en train de se passer !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à neuf heures quarante-huit, est reprise à neuf heures cinquante et une.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à M. Stéphane Peu, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "J’aurais bien demandé au ministre du travail le nombre d’arrêts maladie et de délégations de vote dans le groupe EPR. Dans l’attente, je vous demande une suspension de séance et de respecter les usages, car ils font partie des règles de notre Parlement, en la fixant à cinq minutes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La suspension de séance est accordée pour deux minutes. (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à neuf heures cinquante-deux, est reprise à neuf heures cinquante-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à M. Boris Vallaud, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Je mesure l’excès de la demande que j’ai formulée plus tôt, celle d’une suspension d’une demi-heure de la séance. Pour cette raison, j’en demande une de trente minutes. (Sourires et applaudissements sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Xavier Breton",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Qu’on lui donne le prix de l’humour politique !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "J’ai bien pris la mesure de votre attente, mais la suspension ne durera que deux minutes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à neuf heures cinquante-six, est reprise à neuf heures cinquante-neuf.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à Mme Sophie Taillé-Polian, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Il se fonde sur l’article 91, alinéa 5, relatif aux motions de rejet préalable."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "La motion de rejet préalable ayant été déposée par les défenseurs du texte, nous sommes bien en présence d’un détournement de procédure qui vise à paralyser l’exercice pourtant constitutionnel du droit d’amendement, que chaque parlementaire devrait s’attacher à défendre plutôt que de chercher à l’amoindrir. (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)\nLe détournement de procédure est clair. Nous demandons donc une réunion du bureau de l’Assemblée nationale pour délibérer sur cette question. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Une réunion ! Une réunion !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Le règlement a été parfaitement respecté.\nLa parole est à M. Bastien Lachaud, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Bastien Lachaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720846",
+          "texte": "Sur le fondement de l’article 100, relatif à l’organisation des débats.\nComme l’ont dit Mme la présidente Chatelain et M. le président Peu, il y a dans cette assemblée des usages."
+        },
+        {
+          "orateur": "Mme Liliana Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719550",
+          "texte": "Allez, ça va !"
+        },
+        {
+          "orateur": "M. Bastien Lachaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720846",
+          "texte": "Or quand un groupe demande une suspension de séance en vertu de l’article 58 du règlement, l’usage veut que la première suspension soit accordée pour une durée de cinq minutes – vous l’avez d’ailleurs accordée ainsi à la présidente de notre groupe, mais pas aux autres groupes, ce dont nous nous étonnons.\nC’est pourquoi, en vertu de l’alinéa 5 de l’article 58, je souhaite que notre assemblée se prononce sur une suspension de séance. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix la demande de suspension de séance."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        178\n        Nombre de suffrages exprimés                178\n        Majorité absolue                        90\n                Pour l’adoption                88\n                Contre                90"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La demande de suspension de séance est rejetée.)\n\n                       (Applaudissements sur les bancs des groupes EPR, DR et HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Mathilde Panot, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Vous avez décidé, madame la présidente, de ne pas donner à tous les groupes le même temps de suspension de séance. Ce n’est pas dans les usages de notre assemblée et cela témoigne d’un déséquilibre dans le traitement des différents groupes – c’est d’ailleurs bien la première fois que le groupe Insoumis sera légèrement avantagé. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)\nJe vous demande donc une deuxième suspension de séance. Je vous rappelle, puisque vous avez tenté de la refuser tout à l’heure à la présidente Chatelain, qu’elle est de droit. (M. Laurent Wauquiez s’exclame.)\nTous les syndicats de notre pays sont opposés à la destruction du droit que représente le 1er mai, arraché dans le sang après plus de cent ans de luttes ! (Les députés du groupe LFI-NFP, ainsi que quelques députés du groupe EcoS, se lèvent pour applaudir.) Il est scandaleux que vous utilisiez encore une fois un 49.3 parlementaire pour détourner… (Mme la présidente coupe le micro de l’oratrice.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à dix heures deux, est reprise à dix heures cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise.\nLa parole est à M. Bastien Lachaud, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Bastien Lachaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720846",
+          "texte": "Je souhaiterais que les collègues qui, surpris tout à l’heure par le vote sur la demande de suspension de séance, n’ont pas pu se prononcer, puissent le faire maintenant. (Applaudissements sur plusieurs bancs du groupe LFI-NFP. – Exclamations sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme Anne Genetet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721024",
+          "texte": "Sur le fondement de quel article ?"
+        },
+        {
+          "orateur": "M. Bastien Lachaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720846",
+          "texte": "Je sais que la règle veut que l’on ne se prononce pas plusieurs fois sur un même objet lorsque l’Assemblée n’a pas changé sa composition. Toutefois, étant donné que vingt collègues sont entrés dans l’hémicycle après le vote, on peut considérer que la composition de l’Assemblée a été modifiée – d’autant plus que le vote s’est joué à deux voix près. Il est indispensable que nous puissions nous prononcer à nouveau. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Sois plus créatif !"
+        },
+        {
+          "orateur": "M. Sébastien Delogu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793464",
+          "texte": "Regardez donc tous les collègues qui sont rentrés !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Monsieur le député, comme vous l’avez indiqué, l’Assemblée vient de rejeter une demande de suspension de séance. Votre nouvelle demande vise manifestement à contourner l’article 58 du règlement en vue de faire obstacle à l’application de l’article 48 de la Constitution. Je ne peux donc pas lui donner une suite favorable. (Applaudissements sur les bancs des groupes RN, EPR et DR. – Exclamations sur les bancs du groupe LFI-NFP.)\nLa parole est à M. Aurélien Saintoul, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Laurent Wauquiez",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267285",
+          "texte": "C’est fini maintenant !"
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Sur le fondement, après l’article 44, de l’article 45 de la Constitution, dont je vais vous donner la lecture."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Il faut cependant que cela ait du sens, monsieur le député !"
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Je m’efforce d’être toujours pertinent. « Tout projet ou proposition de loi est examiné successivement dans les deux assemblées du Parlement en vue de l’adoption d’un texte identique. Sans préjudice de l’application des articles 40 et 41, tout amendement est recevable en première lecture » – évidemment – « dès lors qu’il présente un lien, même indirect, avec le texte déposé ou transmis. » (Exclamations sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "On n’est pas en AG !"
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "J’en viens maintenant au cœur du sujet. « Lorsque, par suite d’un désaccord entre les deux assemblées, un projet ou une proposition de loi »…"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Il ne va pas nous lire toute la Constitution !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Monsieur le député, ce n’est pas un rappel au règlement."
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Si, et c’est au cœur du problème, puisqu’il s’agit du paragraphe de la Constitution consacré aux commissions mixtes paritaires !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Soit, mais cela ne nous fait en aucun cas gagner du temps."
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Il est 10 h 07, la journée est à peine commencée, nous avons tous le temps nécessaire ! (Mme la présidente coupe le micro de l’orateur.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Merci monsieur le député ! (Vives protestations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Laissez-le aller au bout !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060262",
+      "valeurPtsOdj": "2",
+      "titre": "Motion de rejet préalable (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Nous en revenons aux explications de vote. (Applaudissements sur les bancs des groupes EPR et DR. – Les députés du groupe LFI-NFP, quelques députés du groupe SOC, plusieurs députés du groupe EcoS ainsi que les députés du groupe GDR se lèvent et entonnent La Marseillaise.)\nLa parole est à M. Stéphane Viry."
+        },
+        {
+          "orateur": "M. Stéphane Viry (LIOT)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721474",
+          "texte": "En dépit du bruit dans l’hémicycle, nous avons réussi à entendre, dans la présentation du texte, monsieur le ministre et monsieur le rapporteur.\nNous avons également entendu notre collègue Nicole Dubré-Chirat expliquer les raisons de la motion de rejet préalable et nous avons eu connaissance du fait que d’autres collègues voulaient, eux aussi, déposer une motion de rejet.\nJ’en déduis qu’il existe une forme de consensus reconnaissant la nécessité de rejeter ce texte avant tout débat. (Les députés du groupe LFI-NFP, parvenus au premier refrain de La Marseillaise, lèvent le poing.)\nLa seule question qui vaille est celle de la sécurité juridique. Nous savons que des commerces ouvrent partout en France le 1er mai, en recrutant des salariés et en leur permettant de travailler. (Applaudissements sur les bancs des groupes EPR et DR.) Or ces situations ne sont pas traitées de manière identique dans tout le territoire : c’est ce qui m’amène à vouloir une plus grande sécurité juridique et une plus grande clarté pour les parties prenantes de ce contrat, sans pour autant remettre en cause des droits ni reculer sur certaines pratiques.\nComment faire, sachant que nous sommes à vingt jours du 1er mai ? En connaissance de ce délai et en connaissance du droit parlementaire, la meilleure solution est de renvoyer ce texte en commission mixte paritaire pour que, dans l’intérêt de toutes les parties et en respectant le droit en vigueur, il soit possible de légiférer opportunément et de préserver le jour férié du 1er mai tout en sécurisant la situation de celles et ceux qui, dans nos territoires, souhaiteront travailler ce jour-là. (Applaudissements sur les bancs des groupes EPR, DR et HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Édouard Bénard."
+        },
+        {
+          "orateur": "M. Édouard Bénard (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "Nous y voilà ! Afin de satisfaire les exigences et les intérêts économiques de quelques-uns et sous la pression de quelques grandes enseignes, cette proposition de loi soutenue par le gouvernement, marchant main dans la main avec le Rassemblement national, vise à remettre en cause le 1er mai, seul jour férié et chômé de l’année. (Applaudissements sur les bancs du groupe LFI-NFP.)\nContrairement à ce que certains prétendent ici, défendre le 1er mai n’est en rien faire l’apologie de l’oisiveté ou de l’assistanat ; c’est défendre et faire vivre la mémoire collective, la mémoire des travailleurs et celle du syndicalisme – que vous méprisez l’une comme l’autre –, la mémoire du progrès social pour toutes et tous. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS. – Mme Anne-Laure Blin s’exclame.)\nNon, le travail n’a pas besoin d’être libéré ! Depuis 2017, Emmanuel Macron, ses gouvernements et ses soutiens, à droite et à l’extrême droite, ont suffisamment libéralisé et dérégulé le travail : travail le dimanche, travail de soir et de nuit, smicardisation des salariés, réduction des droits syndicaux, reculs de l’âge de la retraite. La seule prison dont souffre aujourd’hui le travail, c’est le carcan ultralibéral dans lequel, avec toute la droite, vous l’avez enfermé ! (Applaudissements sur les bancs des groupes GDR et LFI-NFP, sur quelques bancs du groupe SOC ainsi que sur plusieurs bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Ultralibéral ? En France ?"
+        },
+        {
+          "orateur": "M. Édouard Bénard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "Les gens n’ont pas besoin qu’on les incite à travailler. Tous, en revanche, ont besoin de travailler, tous, ils aspirent à une évolution salariale, à des salaires décents et à des conditions de travail respectueuses de leur santé. Non, cette proposition de loi de loi ne protège pas les petits artisans : elle les livre en pâture, une fois de plus, à la concurrence effrénée des grandes enseignes. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Paul Midy s’exclame.) Non, cette proposition de loi n’est pas ciblée, comme le prétend M. Attal :…"
+        },
+        {
+          "orateur": "M. Gabriel Attal",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Mais si !"
+        },
+        {
+          "orateur": "M. Édouard Bénard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "…elle concernerait au moins 1,4 million de travailleurs. Non, monsieur Attal, il n’y a pas d’urgence juridique : le 1er mai est strictement encadré par le code du travail et doit le demeurer, au nom de la fierté des luttes collectives qui font l’histoire de notre pays.\nEn tant que représentants du peuple, notre devoir est d’entendre les organisations syndicales qui nous appellent, d’une seule et même voix, à ne pas laisser passer ce texte scandaleux, régressif et offensant pour tous les travailleurs."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Vous n’aimez pas les fleurs !"
+        },
+        {
+          "orateur": "M. Édouard Bénard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "Pour contrer votre nouvelle revanche de classe, nous refuserons votre 49.3 parlementaire ! (Applaudissements sur les bancs des groupes GDR et LFI-NFP ainsi que sur plusieurs bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Romain Tonussi."
+        },
+        {
+          "orateur": "M. Romain Tonussi (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840781",
+          "texte": "Cette motion de rejet préalable est une réponse à la logique d’obstruction systématique pratiquée par le bloc de gauche qui, comme à son habitude, refuse par principe tout ce qui pourrait servir l’intérêt des Français. (Exclamations sur les bancs du groupe LFI-NFP.) Dans le contexte actuel, chacun peut voir comment le débat est empêché, parasité et détourné par La France insoumise, qui démontre par là qu’elle n’entend aucunement dialoguer. (Mêmes mouvements.)\nPendant ce temps, les professionnels concernés attendent. Ils ne demandent qu’une chose simple : que nous avancions sur ce texte de bon sens, dans l’intérêt général. Les organisations professionnelles l’ont clairement fait savoir : il faut accélérer, sortir des blocages et permettre une adoption rapide de ce texte attendu sur le terrain, que la gauche, de manière insensée, s’obstine à empêcher. (Mêmes mouvements.)\nPar esprit de responsabilité et en réponse aux attentes des forces vives du pays, le groupe Rassemblement national votera en faveur de la motion de rejet préalable, espérant que le texte soit ainsi adopté le plus rapidement possible. (Applaudissements sur les bancs du groupe RN. – « Honte à vous ! » sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Nicole Dubré-Chirat."
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Nous n’avons pas de leçon de démocratie à recevoir d’un groupe qui a une grande maîtrise et une grande expérience du dépôt des motions de rejet préalables – comme de l’obstruction, au moyen du dépôt d’amendements et de sous-amendements sans lien avec le fond du texte ! (Applaudissements sur les bancs des groupes EPR et DR ainsi que sur quelques bancs du groupe HOR.)\nÀ ceux qui pensent que nous n’avons jamais travaillé, vous tombez mal, j’ai pour ma part travaillé jour et nuit pendant quarante et un ans, samedis, dimanches et jours fériés compris ! (Applaudissements sur les bancs des groupes EPR, DR et HOR. – Exclamations prolongées des groupes LFI-NFP et EcoS.) Nous avons débattu du texte en commission et nous aurions voulu en débattre aujourd’hui dans l’hémicycle… (Applaudissements sur les bancs du groupe EPR. – Les exclamations des députés des groupes LFI-NFP et EcoS s’intensifient en un vacarme qui couvre progressivement la voix de l’oratrice).\nCette proposition de loi est attendue par les artisans boulangers, dont certains sont présents en tribune. Un sondage réalisé cette semaine pour la Confédération des petites et moyennes entreprises (CPME) montre d’ailleurs que non seulement les salariés, mais aussi les artisans et les citoyens en général, y sont favorables ; ils veulent pouvoir faire des achats dans tous les commerces. Seulement vous nous empêchez de débattre, vous êtes des professionnels de l’obstruction !"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est vous qui empêchez le débat !"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Cessez vos manifestations, elles n’ont aucun sens et sont délétères, elles abîment la fonction de député ! (Les députés des groupes EPR et HOR se lèvent et applaudissent. – Applaudissements sur plusieurs bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Hadrien Clouet."
+        },
+        {
+          "orateur": "M. Hadrien Clouet (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Les bourgeois, nous le savons, n’ont jamais accepté le temps libre du peuple ! (Vifs applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs des groupes EcoS et GDR. – Sourires sur plusieurs bancs du groupe SOC.) C’est l’unique raison qui explique pourquoi vous détestez le 1er mai (Protestations sur les bancs du groupe EPR)  : parce qu’il s’agit du jour du mouvement international pour la réduction du temps de travail, celui du mouvement ouvrier, dont nous portons l’insigne – le triangle rouge – au revers de notre veste ! (Applaudissements prolongés sur les bancs du groupe LFI-NFP.)\nVouloir supprimer ce jour qui marque le printemps de notre classe, c’est être l’ennemi de notre classe ! Nous savons qu’à vos yeux, les êtres humains sont des bêtes de somme, bonnes uniquement à turbiner sans répit pour que de grands bourgeois partent en vacances. (Sourires sur plusieurs bancs du groupe SOC.) C’est pourquoi, avec seulement vingt jours d’avance sur la date, vous cherchez à supprimer ce jour chômé et férié depuis 1947 ! Et vous ne le faites pas par le débat parlementaire, mais par le coup de force ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Eddy Casterman",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840075",
+          "texte": "Vous avez abandonné les travailleurs !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Arrête de hurler, toi ! Va donc vendre du muguet si tu veux t’occuper ! (Protestations sur les bancs du groupe RN.) Oui, vous procédez à des coups de force, par des 49.3 parlementaires ! En ce moment se tient devant l’Assemblée nationale une réunion de tous les syndicats du pays : CFDT, CGT, Force ouvrière, CFE-CGC, CFTC, Solidaires, Fédération syndicale unitaire, Unsa, ils sont tous là ! (Les députés des groupes LFI-NFP, EcoS et GDR ainsi que plusieurs députés du groupe SOC se lèvent et applaudissent.) Même la Confédération syndicale internationale vous demande de renoncer à ce texte ; car ils savent, nous savons, que le volontariat que vous évoquez n’existe pas."
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Nous l’avons vu avec le travail le dimanche : qui peut dire non à son patron et refuser de travailler ce jour-là ? Nous pensons aussi aux artisans qui se retrouveront demain en concurrence avec les grandes chaînes. (Applaudissements sur les bancs des groupes LFI-NFP et EcoS.) En réalité, vous vous apprêtez à signer un chèque à Interflora pour liquider les fleuristes, à La Mie Câline pour liquider les boulangers, à Cultura pour liquider les libraires ! (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. le Président de la commission des affaires sociales",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est faux, Cultura ne pourra pas ouvrir !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Je ne sais pas si des actionnaires des grands groupes sont présents dans cet hémicycle,…"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Il y en a !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "…mais ils sont clairement servis ! Nous ne voulons pas de votre motion de rejet ! Tant pis pour vous si vous voulez bosser le 1er mai ! Vous n’avez qu’à vous occuper, vous promener ou passer du temps avec vos enfants ! Quoi qu’il en soit, laissez les gens tranquilles ! (« Bravo ! » et applaudissements sur les bancs du groupe LFI-NFP, dont plusieurs députés se lèvent. – Plusieurs députés des groupes SOC et EcoS applaudissent également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Boris Vallaud."
+        },
+        {
+          "orateur": "M. Boris Vallaud (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Madame la présidente…"
+        },
+        {
+          "orateur": "Plusieurs députés des groupes LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Ne restez pas à votre banc, allez à la tribune !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Bon… (L’orateur se dirige vers la tribune sous les applaudissements de plusieurs députés des groupes LFI-NFP et EcoS. – Exclamations sur plusieurs bancs des groupes RN et EPR. – Sourires sur quelques bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Alexandre Portier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794994",
+          "texte": "Vous obéissez donc à LFI !"
+        },
+        {
+          "orateur": "M. Gabriel Attal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722190",
+          "texte": "Quelle soumission !"
+        },
+        {
+          "orateur": "Mme Edwige Diaz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793928",
+          "texte": "Aux ordres de La France insoumise !"
+        },
+        {
+          "orateur": "Un député du groupe EPR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Soumis aux insoumis !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Me voici à la tribune, cédant à l’aimable insistance de mes amis, comme disaient les radicaux. (Sourires.) D’abord pour dénoncer la méthode, constante, d’un macronisme au crépuscule, au seuil de tirer le bilan accablant d’une politique sociale qui aura massacré les masses pour ne servir les intérêts que de quelques-uns, comme il continue de le faire aujourd’hui. (Applaudissements sur les bancs des groupes SOC et sur quelques bancs du groupe GDR.) Les macronistes ne défendent pas les artisans boulangers de nos bourgs et de nos villages, ils défendent les chaînes, les actionnaires, les dividendes, certainement pas les droits des travailleurs conquis dans la lutte ! (Mêmes mouvements.) Ils achèvent un peu plus nos précieuses conquêtes, acquises depuis si longtemps : le respect des partenaires sociaux, le culte du compromis, la nécessité du dialogue social !\nComment pouvez-vous persister, alors que devant l’Assemblée nationale, l’ensemble des organisations syndicales dénoncent à l’unisson un coup de force, une manigance, des expédients de garçon de bain ? Ce n’est pas souhaitable. Ne sentez-vous pas, dans les profondeurs du pays, sourdre le désir ardent de concorde, de compromis ? (Protestations sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Nous sentons leur désir de liberté !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Vous préférez le passage en force, les manigances de couloir ! (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe EcoS.) Et le gouvernement s’entête avec vous dans la contemplation du désastre !"
+        },
+        {
+          "orateur": "Mme Liliana Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719550",
+          "texte": "Demandez aux boulangers ce qu’ils en pensent !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Votre proposition est inadmissible. Nous aurions aimé disposer de plus de deux minutes pour le dire, alors que les séances de ce matin et de cet après-midi lui étaient réservées. Vous voulez ordonner à chacun de travailler plus, cependant vous ignorez que la moitié des hommes et des femmes en emploi en souffrent ; qu’ils aimeraient d’abord travailler mieux, parce qu’ils aiment leur métier ! Vous ignorez que 20 % des Français travaillent pendant leur temps de loisir ; que 37 % travaillent alors qu’ils sont malades ! Posez-vous la question du bien-être et de la dignité au travail, demandez-vous plutôt comment les Français pourraient bien vivre de leur travail ; n’esquivez pas les vrais débats qui traversent la société ! (« Bravo ! » et applaudissements sur les bancs du groupe SOC.) Ce n’est qu’ainsi que nous pourrons mieux vivre ensemble. Au nom des Françaises et des Français qui respectent le travail et son œuvre, nous nous opposerons à cette motion de rejet. (Applaudissements sur les bancs du groupe SOC ainsi que sur quelques bancs des groupes LFI, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Sylvie Bonnet."
+        },
+        {
+          "orateur": "Mme Sylvie Bonnet (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719968",
+          "texte": "Le groupe Droite républicaine défend et défendra toujours la France qui travaille. (Applaudissements sur les bancs du groupe DR.) Nous prouvons une nouvelle fois que nous agissons concrètement pour lever les entraves des artisans commerçants."
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Pas du tout !"
+        },
+        {
+          "orateur": "Mme Sylvie Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719968",
+          "texte": "L’insécurité juridique rencontrée par les boulangers et les fleuristes le 1er mai est symptomatique de la dérive bureaucratique du pays, au mépris du bon sens et de la volonté même des commerçants."
+        },
+        {
+          "orateur": "Mme Anne-Laure Blin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774954",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Sylvie Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719968",
+          "texte": "Cette situation est incompréhensible, pour les professionnels concernés comme pour les citoyens."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Vous êtes de droite ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme Sylvie Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719968",
+          "texte": "Cette proposition de loi issue du Sénat est équilibrée. Elle permet aux commerçants de certains secteurs bénéficiant de dérogations de travailler ce jour-là, tout en préservant la liberté du salarié de ne pas le faire, si tel est son choix. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. Boris Tavernier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841713",
+          "texte": "Vous savez que c’est faux !"
+        },
+        {
+          "orateur": "Mme Sylvie Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719968",
+          "texte": "Pour empêcher un vote conforme permettant une mise en œuvre du dispositif dès le 1er mai prochain, certains ont lancé un concours Lépine de l’amendement d’obstruction. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)\nNous refusons l’enlisement du débat et l’immobilisme. Le vote de cette motion permettra à la navette de se poursuivre sans perdre de temps. La semaine prochaine, la réunion d’une commission mixte paritaire permettra de soutenir les artisans de nos territoires, et ceux de leurs salariés qui souhaitent travailler le 1er mai. (Applaudissements sur les bancs des groupes DR et EPR.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Vous êtes très nombreux aujourd’hui, alors que vous n’êtes jamais présents, les DR ! Hier par exemple, vous étiez deux !"
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "C’est vous qui ne bossez jamais !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Clémentine Autain."
+        },
+        {
+          "orateur": "Mme Clémentine Autain (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "À quoi reconnaît-on les macronistes ? Ils osent tout : s’en prendre au 1er mai, jour chômé et payé, symbole du mouvement ouvrier et des conquêtes sociales ; et, déposer – sur leur propre texte ! – une motion de rejet préalable, afin d’éviter le débat et que la mobilisation de la gauche et des écologistes empêche l’adoption de cette proposition de loi empruntée au parti LR et soutenue par le RN. Cette manœuvre s’apparente à un 49.3 parlementaire, un coup de force, alors que le sort de 1,5 million de salariés mal payés, pour l’essentiel des femmes, est en jeu.\nC’est aussi l’ouverture d’une brèche : on commence par les fleuristes et les boulangers, puis l’interdiction de travailler deviendra une autorisation pour tout le monde. C’est l’intérêt des grandes surfaces et des chaînes, au détriment des artisans et des petits commerçants, qui est en jeu !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "N’importe quoi, c’est faux ! Les grandes surfaces sont exclues du dispositif proposé."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "C’est un député ciottiste qui le dit le mieux : avec ce texte, se joue en réalité une revanche contre les « gauchos », qui démolissent la « valeur travail ». (M. Eddy Casterman applaudit.) Mais ceux qui détruisent le travail, la valeur « du » travail, ce sont ceux qui réduisent les droits, qui laissent les profits flamber et les salaires baisser. Vous prétendez que les salariés concernés travailleront ce jour-là sur la base du volontariat. Quelle plaisanterie ! Dans quel monde vivez-vous ? Dans le rapport de subordination propre au travail marchandisé, le volontariat est évidemment une plaisanterie. Le rapport salarial est contraint."
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Ils le savent !"
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "texte": "Nous nous opposerons de toutes nos forces à cette manœuvre qui n’a qu’un objectif : imposer un capitalisme sans limite, où seule l’exploitation du travail humain fait loi. Nous défendons quant à nous le droit au repos, le droit à la vie, la réduction du temps de travail – conquête sociale obtenue de haute lutte, chemin qu’il faut continuer d’emprunter –, mais aussi le respect de tous les syndicats qui s’y opposent, sans oublier la fierté qu’exprime cette journée de mobilisation des travailleurs et des travailleuses – car c’est aussi à cela que vous vous attaquez ! (Applaudissements sur les bancs des groupes EcoS ainsi que sur quelques bancs des groupes SOC et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Laurent Croizier pour le groupe Les Démocrates."
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "texte": "Démocrate, c’est vite dit !"
+        },
+        {
+          "orateur": "M. Laurent Croizier (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Nous avons l’occasion d’envoyer un message à la France des territoires, des artisans et des salariés, à laquelle je souhaite m’adresser au nom de mon groupe (Vives exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS)  : nous savons votre rôle quotidien dans la vie du pays, nous savons ce que vous représentez pour la société, pour nos communes, nos quartiers, notre ruralité !"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Vous ne savez rien !"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Je m’adresse aux boulangers, qui ouvrent leur porte avant l’aube pour accueillir leurs premiers clients, aux fleuristes, qui accompagnent nos joies, nos deuils, nos traditions. N’en déplaise à nos collègues de gauche, ce texte encadre strictement l’activité des commerces, qui, à titre dérogatoire, peuvent faire appel à leurs salariés le 1er mai ; il protège les droits sociaux des travailleurs. (Protestations sur les bancs des groupes LFI-NFP et SOC.) Au sein de mon groupe, nous souhaitons débattre de la vie des Français !"
+        },
+        {
+          "orateur": "Un député du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "La preuve, vous êtes tout seul ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Comment prétendre défendre l’augmentation des salaires tout en refusant aux salariés volontaires la possibilité d’être rémunérés double ? Comment pouvez-vous soutenir cette hypocrisie qui voit les grandes chaînes de restauration rapide, elles, ouvrir le 1er mai ?"
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "On a qu’à tout niveler par le bas !"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Nous voulons sécuriser les commerces de proximité, les artisans, les acteurs culturels, ainsi que les salariés qui, chaque jour, font vivre le pays. Le groupe Les Démocrates souhaite, et souhaitera toujours, débattre du quotidien des Français. C’est pourquoi nous ne voterons pas la motion de rejet. (« Ah ! » et applaudissements sur plusieurs bancs des groupes LFI-NFP, EcoS et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Sur la motion de rejet préalable, je suis saisie par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. François Jolivet."
+        },
+        {
+          "orateur": "M. François Jolivet (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Le groupe Horizons & indépendants est favorable à cette motion de rejet."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Alors que les macronistes vous ont laissé tout seuls, hier, pendant votre journée réservée ? Vous n’avez vraiment aucune dignité !"
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Je remercie nos opposants pour leur implication. Nous avons ce débat parce que la doctrine administrative a changé. J’imagine que chacun d’entre vous a déjà pu acheter du pain ou des fleurs un 1er mai, avant que l’inspection du travail ne dresse un procès-verbal à l’encontre du commerçant ?"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Nous, le 1er mai, nous sommes dans la rue, avec les syndicats !"
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "À l’époque, cela ne vous a pas gênés ; aujourd’hui, vous en faites un fanion !\nNous souhaitons quant à nous offrir dès cette année de la sécurité, tant aux employeurs qu’aux salariés. Dans sa présentation, le ministre nous a d’ailleurs rassurés quant à l’existence de sécurités nouvelles pour les salariés, lesquelles n’existaient pas auparavant. Pour toutes ces raisons, nous voterons évidemment en faveur de la motion de rejet. (Applaudissements sur les bancs du groupe HOR ainsi que sur plusieurs bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Antoine Valentin."
+        },
+        {
+          "orateur": "M. Antoine Valentin (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "J’ai honte du spectacle donné par nos collègues de La France insoumise ! (Vives exclamations sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Soumya Bourouaha",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est vous, la honte !"
+        },
+        {
+          "orateur": "M. Antoine Valentin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "Des chefs d’entreprise et des salariés se sont levés tôt ce matin pour travailler, et ils vous voient chanter dans l’hémicycle, demander des suspensions de séance pour vous retrouver à la buvette ! (Applaudissements sur quelques bancs du groupe RN. – Vives protestations sur les bancs du groupe LFI-NFP.) Voilà la réalité !"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Tu es le seul membre de ton groupe présent !"
+        },
+        {
+          "orateur": "M. Antoine Valentin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "texte": "Nous voterons en faveur de cette motion de rejet, pour permettre à ce texte d’être étudié dans des conditions sereines. Il répond à une demande des entreprises et des salariés. Nous n’avons aucune leçon à recevoir de petits-bourgeois, diplômés de Sciences Po, qui rentreront ce soir dans leurs appartements haussmanniens ! (Tollé sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Vous donnez des leçons aux Français qui travaillent, alors que vous les avez trahis ! (Les députés du groupe LFI-NFP se lèvent et entonnent L’Internationale, levant le poing gauche, bientôt rejoints par plusieurs députés des groupes EcoS et GDR, puis par quelques députés du groupe SOC.)\nVous prétendez représenter les syndicats ; nous, nous représentons les salariés, et ils sont majoritairement favorables à ce texte. (Le refrain du chant révolutionnaire résonne dans les travées de gauche.) La « lutte finale », vous la perdrez et vous la perdez dans les urnes ! Ce texte passera, parce que c’est une nécessité pour les Français !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060989",
+      "valeurPtsOdj": "2",
+      "titre": "Demande de vérification du quorum",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Je suis saisie par la présidente du groupe La France insoumise d’une demande, faite en application de l’article 61 du règlement, tendant à vérifier le quorum avant de procéder au vote sur la motion de rejet préalable. (Applaudissements sur plusieurs bancs des groupes SOC et EcoS.)\nConformément à l’alinéa 3 de cet article, je dois vérifier que la majorité des députés du groupe LFI-NFP est effectivement présente dans l’hémicycle. Je demande donc à ces derniers de se lever. (Les députés du groupe LFI-NFP se lèvent.)"
+        },
+        {
+          "orateur": "Mme Géraldine Grangier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793592",
+          "texte": "Vous n’aimez pas la démocratie ! LFI, antidémocratie !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Les députés concernés étant au nombre de trente-neuf, je constate que la majorité des députés du groupe LFI-NFP est présente en séance. Je constate que le quorum n’est pas atteint. Conformément à l’article 61 du règlement, le vote aura lieu dans quinze minutes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à dix heures trente, est reprise à dix heures quarante-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise. Avant la suspension de séance, le vote sur la motion de rejet a été reporté en application de l’article 61, alinéa 4, du règlement.\nJe mets aux voix la motion de rejet préalable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        225\n        Nombre de suffrages exprimés                225\n        Majorité absolue                        113\n                Pour l’adoption                120\n                Contre                105"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La motion de rejet préalable est adoptée.)\n (Applaudissements sur les bancs des groupes EPR, Dem et HOR. – Protestations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Quelques députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Quelle honte ! Remerciez l’extrême droite !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "En conséquence, la proposition de loi est rejetée."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à dix heures cinquante, est reprise à onze heures dix.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060455",
+      "valeurPtsOdj": "3",
+      "titre": "Discussion, après engagement de la procédure accélérée, d’une proposition de loi adoptée par le Sénat",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées (nos 2413, 2578)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060457",
+      "valeurPtsOdj": "3",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Frédéric-Pierre Vos, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Frédéric-Pierre Vos",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841575",
+          "texte": "Tout à l’heure, à plusieurs reprises, les députés des groupes LFI et écologiste se sont livrés à des scènes de tumulte : ils ont notamment entonné des chants révolutionnaires, ce qui a beaucoup troublé les travaux de l’Assemblée nationale. Je rappelle que l’article 70 de notre règlement prévoit des sanctions en pareil cas. Je vous demande donc d’inscrire un rappel à l’ordre sur le procès-verbal de séance, avec leurs noms : ce ne sera pas difficile, puisque les députés concernés vous avaient demandé de les compter – ils étaient trente-neuf."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "C’est vrai que L’Internationale, ça fait mal aux oreilles !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Je prends acte de votre prise de parole. Ces faits seront bien transmis au bureau.\nLa parole est à M. Benjamin Lucas-Lundy, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Sur le fondement de l’article 62 de notre règlement.\nJe ne répondrai pas à la tradition de délation de notre collègue d’extrême droite qui, il y a un instant, appelait à des sanctions. (Applaudissements sur les bancs du groupe EcoS.)\nMadame la présidente, j’interviens parce qu’il s’est passé quelque chose de grave. Un vote a eu lieu ; je ne le remets évidemment pas en cause, pas plus que votre présidence. Ce vote emporte des conséquences importantes et il a été acquis à une faible majorité – une quinzaine de voix, me semble-t-il –, notamment grâce à un certain nombre de délégations de vote effectuées par des collègues du bloc macroniste. Or l’un de ces collègues, dont je tairai le nom – car, contrairement à notre cher collègue, je ne pratique pas la délation –, est inscrit comme votant, alors qu’il n’était pas présent. Il vient de publier sur les réseaux sociaux une photo qui ressemble à un moment de détente, de villégiature, sur le Vieux-Port de Marseille.\nMadame la présidente, nous demandons que le bureau soit saisi afin d’étudier la fiabilité et la validité de ces délégations de vote. Il ne faudrait pas que l’on ait ainsi, sous la pression de M. Attal, trafiqué ou truqué un vote de l’Assemblée nationale et, par la manœuvre, obtenu un passage en force par la fraude. (Applaudissements sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "L’ordonnance de 1958 régit aussi les délégations de vote ; les services de l’Assemblée les examinent scrupuleusement. Nous transmettrons ces éléments au bureau."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060577",
+      "valeurPtsOdj": "3",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme la ministre déléguée chargée de l’intelligence artificielle et du numérique."
+        },
+        {
+          "orateur": "Mme Anne Le Hénanff",
+          "fonction": "ministre déléguée chargée de l’intelligence artificielle et du numérique",
+          "role": null,
+          "idActeur": "PA794426",
+          "texte": "La présente proposition de loi s’inscrit dans une dynamique que le gouvernement assume et promeut : celle de la simplification du droit, de la modernisation de l’action publique et de la justice.\nLe texte répond à des attentes anciennes du monde économique et des professions du droit, auxquelles il nous faut rapidement répondre en instaurant une procédure simplifiée de recouvrement des créances commerciales incontestées.\nJe souhaite remercier les sénateurs qui ont adopté à l’unanimité le texte le 29 janvier dernier, démontrant ainsi le caractère consensuel des dispositions prévues, et en particulier le sénateur François Patriat, à l’initiative de cette proposition de loi à laquelle le gouvernement apporte un soutien clair et sincère.\nL’objectif est simple : faciliter le recouvrement des créances impayées mais incontestées en instaurant une procédure rapide, déjudiciarisée et sécurisée qui permette la délivrance d’un titre exécutoire sans mobilisation inutile du juge. Il s’agit de répondre à une difficulté bien identifiée du monde économique, à savoir les retards de paiement et les impayés qui fragilisent la trésorerie des entreprises, en particulier les très petites, petites et moyennes entreprises (TPE-PME), et qui constituent l’un des facteurs récurrents de défaillance économique.\nIl s’agit également de répondre à une attente ancienne de plusieurs professionnels du droit, notamment les commissaires de justice, qui ont souligné les limites pratiques de la procédure d’injonction de payer, jugée trop lente, comme de la procédure simplifiée de recouvrement des petites créances, qui reste peu utilisée.\nLa proposition de loi apporte une réponse ciblée, pragmatique et proportionnée à ces constats. Elle comporte, à mes yeux, trois enjeux majeurs.\nLe premier est économique. Les impayés commerciaux, qui représentent une perte de trésorerie évaluée à 15 milliards d’euros en 2024, ont des conséquences très concrètes sur la vie des entreprises : tensions de trésorerie, ralentissement de l’investissement ou encore fragilisation de l’emploi.\nDans un contexte économique encore marqué par des incertitudes, offrir aux entreprises un outil de recouvrement plus rapide et plus efficace, lorsqu’il n’existe aucune contestation des créances, est un levier de sécurisation de l’activité. Ce texte contribue ainsi à l’amélioration du climat des affaires, à la prévisibilité des relations commerciales et à la confiance entre les acteurs économiques.\nLe deuxième enjeu est celui de la modernisation de la justice. Il ne s’agit pas de dessaisir la justice de ses missions essentielles, mais de réserver l’intervention du juge aux situations où elle est réellement nécessaire, c’est-à-dire là où il existe un litige, une contestation ou une difficulté d’interprétation. C’est un retour au bon sens posé par l’adage de minimis non curat praetor –  pour le dire avec les mots d’aujourd’hui : on ne dérange pas le juge pour des broutilles.\nLorsque la créance est incontestée et que le débiteur ne s’y oppose pas, on a du mal à comprendre pourquoi les acteurs économiques se voient imposer un parcours procédural lent et lourd, lequel contribue à l’embolisation notre justice, qui doit pourtant être un service public plus performant au service des justiciables.\nLe troisième et dernier enjeu est celui de la sécurité juridique. Cette simplification ne peut se concevoir sans garanties solides. La procédure proposée doit être respectueuse des droits de chacun et clairement encadrée dans ses conditions comme dans ses effets. Sur ce point, le travail de la commission des lois a été déterminant ; je tiens à le saluer. La version votée par le Sénat permet plusieurs évolutions majeures, telles que le resserrement du champ d’application aux créances ayant fait l’objet d’une facturation entre commerçants, qui permet de limiter la procédure à des créances objectivables et aisément vérifiables, compatibles avec un contrôle rapide et déjudiciarisé.\nNotons également la simplification du schéma procédural, avec la suppression du circuit – inutilement complexe et coûteux – de délivrance du titre exécutoire par le commissaire de justice en cas d’accord entre les parties, ainsi que la clarification du rôle du greffier, dont le contrôle est désormais strictement limité à la vérification de la régularité de la procédure.\nCes évolutions traduisent une volonté commune : aller vite et soutenir nos entreprises tout en restant juste. Le gouvernement considère que cette proposition de loi constitue une avancée utile, pragmatique et équilibrée. Elle répond à un besoin économique réel, s’inscrit dans une démarche assumée de modernisation de la justice et repose sur des garanties juridiques solides. Nous restons donc très favorables à cette initiative sénatoriale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Charles Sitzenstuhl, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "À l’issue d’une longue semaine importante pour l’Alsace, ma région, je suis heureux de vous présenter une proposition de loi issue du Sénat, où elle a été déposée par François Patriat et rapportée par Thani Mohamed Soilihi.\nCe texte vise à sécuriser les relations commerciales dans un contexte de hausse des défaillances d’entreprises. Il répond à une demande des entreprises qui travaillent, livrent un bien, fournissent des services ou des prestations, mais qui, hélas, ne sont pas payées.\nPrès de 30 % des entreprises règlent leurs fournisseurs au-delà des délais légaux. Ces retards de paiement représentent un manque à gagner considérable : jusqu’à 15 milliards d’euros pour la trésorerie de nos entreprises, notamment les TPE. Ils ne sont pas anodins ; ils augmentent de 25 % le risque de défaillance et participent directement à la fragilisation de l’économie française.\nDans une immense majorité des cas, la dette n’est pas contestée ; elle est simplement ignorée par l’entreprise. Selon les organisations professionnelles que j’ai interrogées, 90 % des débiteurs sont bien solvables et ne contestent pas leurs dettes. Ils font simplement preuve d’une inertie qui joue en leur faveur. Le droit actuel oblige trop souvent le créancier à engager des procédures longues, coûteuses et disproportionnées. Il implique de mobiliser le juge même en l’absence de litige, c’est-à-dire même lorsque le débiteur ne remet en cause ni le principe ni le montant de la créance.\nEn l’état du droit, quand une entreprise ne souhaite pas saisir le juge face à un impayé ou à un retard de paiement, elle n’a accès qu’à deux procédures dites simplifiées. La première, pour les petites créances de moins de 5 000 euros, a été mise en place en 2015 par la loi Macron, mais elle demeure peu utilisée car elle s’avère assez lourde, contraignante et inefficace face au silence du débiteur.\nLa deuxième procédure est l’injonction de payer. Bien qu’utile et largement répandue avec environ 139 000 demandes par an, elle suppose toujours une intervention judiciaire, pour des sommes de quelques milliers d’euros seulement.\nLa procédure proposée dans ce texte ne vise pas à remplacer l’injonction de payer du tribunal de commerce, mais constitue une offre complémentaire aux voies de recouvrement existantes.\nDans les conditions actuelles, les créanciers renoncent fréquemment à recouvrer les sommes qui leur sont dues pour ne pas nuire à la relation avec le partenaire ou pour éviter des procédures judiciaires lourdes. Les organisations professionnelles indiquent que de nombreuses entreprises doivent recourir à l’affacturage ou à des crédits à court terme pour gérer leurs difficultés de trésorerie, ce qui représente un coût.\nCette proposition de loi crée un outil reposant sur une idée simple : lorsqu’une créance est incontestée, il faut pouvoir la recouvrer sans passer systématiquement par le juge, dont l’intervention alourdit et allonge la procédure. Pour cela, nous proposons de créer une procédure rapide, de quelques semaines seulement, et sécurisée.\nLors d’une première phase amiable – et j’insiste sur ce point pour lever les doutes exprimés en commission –, une sommation est adressée par le créancier au débiteur par l’intermédiaire d’un commissaire de justice, appelé huissier de justice dans le langage courant. En cas de silence du débiteur, l’absence de contestation sera désormais présumée. C’est là l’avancée importante de ce texte. Un procès-verbal est alors dressé par le commissaire de justice, qui demande à un greffier du tribunal de commerce de lui conférer force exécutoire après vérification de la régularité de la procédure. La formule exécutoire est une mention officielle apposée par le greffe sur un acte, lui conférant la même force qu’un jugement. Elle permet d’engager immédiatement des mesures d’exécution forcée, comme des saisies sur compte bancaire. Autrement dit, le débiteur ne pourra plus s’abriter derrière son silence pour s’abstenir d’honorer sa dette. Il aura le choix de contester la créance ou de trouver un compromis avec le créancier.\nCette réforme repose sur trois piliers essentiels. Le premier est l’efficacité : en supprimant le passage systématique devant le juge pour des créances non contestées, nous inciterons les entreprises à recouvrer les créances le plus tôt possible, augmentant ainsi les chances de recouvrement.\nLe deuxième pilier est la sécurité juridique. La procédure est strictement encadrée, car elle est mise en œuvre par le commissaire de justice et contrôlée par le greffier. Ces conditions précises garantissent les droits de chacun. Pour rassurer les membres de la commission des lois ayant émis des doutes sur ce point, je confirme que le débiteur pourra contester la créance à tout moment ; cette contestation mettra fin à la procédure simplifiée pour revenir dans le cadre de la procédure judiciaire. Les droits de chacune des parties sont donc bien préservés.\nEnfin, le troisième pilier est l’équité, puisque les frais de procédure seront désormais à la charge du débiteur et plus du créancier.\nPour toutes ces raisons, après l’adoption par la commission des lois il y a quelques jours, je vous invite à voter pour ce texte en séance publique."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060676",
+      "valeurPtsOdj": "3",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Dans la discussion générale, la parole est à M. Antoine Villedieu."
+        },
+        {
+          "orateur": "M. Antoine Villedieu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794946",
+          "texte": "Une entreprise qui travaille doit être payée. C’est simple, c’est la base de toute économie. Et pourtant, en France, ce principe élémentaire est aujourd’hui fragilisé. Des milliers d’entreprises attendent leur dû, parfois des semaines, parfois des mois, parfois jusqu’à la faillite. Les retards de paiement sont un poison lent pour notre économie. Pas moins de 15 milliards d’euros de trésorerie manquent chaque année à nos entreprises ; un simple retard de paiement augmente de 25 % le risque de défaillance.\nCe ne sont pas seulement des chiffres ; ce sont des réalités humaines : des artisans qui avancent les frais, des commerçants qui attendent une rentrée d’argent qui ne vient pas, des PME qui absorbent, encaissent, repoussent, jusqu’au point de rupture. Un impayé, c’est une facture qui ne rentre pas et une trésorerie qui se tend ; c’est parfois une entreprise qui tombe.\nAlors, posons une question simple : quand une dette est reconnue, pourquoi n’est-elle pas payée ? Pourquoi, dans notre pays, faut-il encore se battre, relancer, insister, pour obtenir ce qui est simplement dû ? Parce que les procédures sont trop longues, trop complexes, trop coûteuses, et parce qu’au fond, ce système crée un déséquilibre : il décourage ceux qui attendent d’être payés et il laisse du temps à ceux qui ne veulent pas le faire.\nCe texte vient corriger ce déséquilibre, et il le fait avec une idée simple : remettre du bon sens dans le droit. Il vise un cas précis : les créances commerciales incontestées, autrement dit, des dettes qui existent, qui sont dues, et qui ne sont pas contestées. Dans ces situations, il n’y a pas de débat juridique de fond ni de litige réel ; il n’y a qu’un paiement qui n’intervient pas. Le principe doit être clair et assumé : quand il y a un litige, il faut un juge, mais quand il n’y en a pas, il faut payer.\nC’est exactement ce que permet cette proposition de loi, en instaurant une procédure plus simple, plus rapide, plus lisible. Déjudiciarisée dans sa première phase, confiée au commissaire de justice, elle permet d’engager rapidement la démarche. La sécurisation juridique intervient ensuite, avec l’intervention du greffe du tribunal de commerce pour délivrer un titre exécutoire. Autrement dit, on accélère sans fragiliser, on simplifie sans affaiblir les garanties.\nCe texte ne remplace pas les outils existants : il ne supprime pas le rôle du juge, il ne contourne pas le droit. Il vient compléter l’existant en apportant une réponse adaptée à une situation insatisfaisante. En effet, les entreprises sont souvent prises en étau entre des délais de paiement qui s’allongent, des procédures qui traînent, un accès au crédit incertain, et un recours croissant à des solutions comme l’affacturage, qui traduisent une financiarisation excessive de la gestion des créances. Ce n’est ni sain, ni équilibré, ni durable.\nCe texte réintroduit de la fluidité et redonne du temps aux entreprises. Au-delà de la technique et des procédures, il renvoie à une question plus profonde. Une économie ne fonctionne que si la parole donnée a encore une valeur. Si un contrat peut être ignoré, si une facture peut être repoussée indéfiniment, c’est la confiance elle-même qui recule. Sans confiance, il n’y a pas d’économie durable. Une facture due ne doit pas devenir une négociation permanente, elle ne doit pas dépendre du rapport de force, ni devenir une variable d’ajustement. Elle doit être payée, point. C’est une nécessité économique, mais aussi une question morale.\nEn distinguant clairement la créance contestée, qui relève du juge, de la créance incontestée, qui relève de l’exécution, ce texte remet de la cohérence et du bon sens dans notre droit. Il protège ceux qui travaillent, il responsabilise ceux qui paient en retard, et il sécurise les relations commerciales. C’est un texte attendu et utile. Dans le contexte économique que nous connaissons, toute mesure qui permet de soutenir la trésorerie des entreprises, de prévenir des défaillances, et de restaurer la confiance, mérite d’être soutenue.\nC’est pourquoi le groupe Rassemblement national soutiendra cette proposition de loi ; dans notre pays, travailler doit encore vouloir dire être payé."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Denis Masséglia."
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Nous examinons aujourd’hui en séance publique une proposition de loi qui, adoptée en commission, fait l’objet d’un large consensus. Ce texte, qui vise à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées, porte une ambition très simple, mais profondément juste : permettre à une entreprise d’être payée pour une prestation qu’elle a réalisée, une facture qu’elle a émise, une créance que personne ne conteste – car voilà la réalité à laquelle nous devons répondre.\nSelon les données publiées par la Banque de France, en 2024, 64 % des entreprises déclaraient subir des difficultés liées aux retards de paiement. Ces retards représentent un manque à gagner estimé à 15 milliards d’euros pour les seules PME. Pas moins de 25 % des défaillances d’entreprises leur seraient directement imputables. Ce ne sont pas de simples chiffres : ce sont des emplois menacés, des investissements abandonnés, des entreprises fragilisées dans nos circonscriptions.\nFace à cela, le droit actuel oblige les créanciers à s’engager dans des procédures longues, formalistes et coûteuses, souvent dissuasives pour les TPE-PME, alors même que le montant moyen des créances concernées est compris entre 6 000 et 9 000 euros. Autrement dit, le coût de la démarche judiciaire conduit trop souvent les entreprises à renoncer purement et simplement à recouvrir ce qui leur est dû. La présente proposition de loi tente de répondre à cette situation inacceptable.\nLe mécanisme qu’elle introduit repose sur un principe de bon sens : lorsqu’une créance commerciale est incontestée – le débiteur ne la remet pas en cause –, il doit être possible de la recouvrer sans passer systématiquement par le juge. Concrètement, la procédure est confiée aux commissaires de justice, pour des créances commerciales à caractère contractuel ou statutaire, entre professionnels, sans plafond de montant, et sans contestation de la part du débiteur. Elle vise un traitement en environ un mois.\nÀ chaque étape, les droits du débiteur sont pleinement préservés : la moindre contestation entraîne l’arrêt immédiat de la procédure et le renvoi au juge. En l’absence de contestation, un procès-verbal est transmis au greffe du tribunal de commerce, qui vérifie l’existence du lien contractuel avant de délivrer le titre exécutoire. Nous simplifions, mais jamais au détriment de l’État de droit.\nCe modèle a fait ses preuves. En Belgique, un dispositif comparable a permis de recouvrer des centaines de millions d’euros de créances tout en désencombrant significativement les juridictions commerciales. Cette proposition de loi s’inscrit dans cette même logique : recentrer nos tribunaux sur les litiges véritablement complexes, pour lesquels l’intervention du juge est indispensable.\nMes chers collègues, notre groupe a soutenu ce texte en commission ; nous le faisons avec la même conviction en séance publique. Soutenir nos entrepreneurs, c’est leur donner des outils efficaces pour faire respecter leurs droits ; c’est protéger la valeur travail, la confiance contractuelle, et le bon fonctionnement de notre économie.\nNotre groupe appelle à un vote conforme, afin que ce texte puisse entrer en vigueur sans délai et bénéficier rapidement aux entreprises qui en ont vraiment besoin. Le groupe Ensemble pour la République votera pour cette proposition de loi. (M. le rapporteur applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Jean-François Coulomme."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "À l’abri d’un titre technocratique, « proposition de loi visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées », vous nous présentez à la va-vite, en catimini, bien sûr, sans aucune étude d’impact, une proposition de loi qui bouleverse les procédures de recouvrement des créances, au mépris de la justice et des entreprises. In fine, elle menace d’aggraver encore la situation économique de notre pays, particulièrement pour les TPE-PME et pour toutes les entreprises les plus fragiles, de renforcer les inégalités économiques, et de faire reculer, encore un peu plus, l’État de droit auquel vous vous dites pourtant attachés.\nRevenons tout d’abord à la situation économique de notre pays. Les défaillances d’entreprises atteignent des records : elles ont dépassé les 68 000 en 2025. C’est votre bilan, celui de dix ans de pouvoir d’Emmanuel Macron, qu’il faudra sanctionner dans les urnes l’année prochaine (Applaudissements sur les bancs du groupe LFI-NFP), celui de dix ans de politique de l’offre, d’austérité budgétaire et de libéralisation – dix ans dont il est urgent pour les entreprises et les salariés que nous tournions la page.\nLa Banque de France indique aussi que les retards de paiement augmentent de 25 % la probabilité de défaillance d’une entreprise et que plus les retards sont longs, plus cette probabilité augmente. C’est par ce constat que vous justifiez votre proposition de loi, mais il s’agit d’une manœuvre, qui ne répond en rien au problème et aggravera la situation.\nAgir de façon juste et efficace pour réduire les retards de paiement appelle notamment un renforcement des contrôles de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), pour que les grands groupes, qui en ont parfaitement les moyens, paient leurs clients, notamment les TPE-PME, en temps et en heure, et que cessent les retards de paiement injustifiés de ceux qui versent des milliards de dividendes, mais rechignent à faire le nécessaire pour respecter les délais et payer leurs créances auprès des fournisseurs et sous-traitants, en particulier les TPE-PME. Ces dernières ne disposent pas nécessairement du rapport de force nécessaire au respect de leurs droits, à la sécurité de leur trésorerie et à la pérennité de leur activité et de celle de leurs salariés. Selon la Banque de France, plus d’une grande entreprise sur deux règle ses fournisseurs plus de soixante jours après l’échéance contractuelle. Comment le comprendre ?\nPour renforcer les contrôles de la DGCCRF, dont les missions se multiplient dans tous les sens, notamment avec l’essor de l’e-commerce, il faudrait ne pas reconduire les ineptes politiques d’austérité budgétaire qui sont les vôtres, projet de loi de finances après projet de loi de finances. Il faudrait défendre un renforcement très net des moyens de la DGCCRF. À défaut d’en avoir l’ambition, et de défendre ainsi nos entreprises, nos salariés et l’activité économique de notre pays, vous nous présentez cette proposition de loi, qui nous inquiète considérablement.\nAujourd’hui, en règle générale, la procédure de recouvrement des créances prévoit que le créancier doit obtenir une décision judiciaire – une injonction de payer – afin d’obtenir le recouvrement de sa créance. Cette intervention judiciaire est une garantie essentielle de notre système de recouvrement de créances, que vous voulez pourtant faire disparaître. Vous proposez ainsi d’instaurer une nouvelle procédure de recouvrement des créances commerciales, en déjudiciarisant la procédure, afin de permettre aux entreprises créancières d’obtenir un titre exécutoire sans recours préalable au juge, par l’intervention successive d’un commissaire de justice et, éventuellement, d’un greffier du tribunal de commerce.\nJe ne suis pas le seul à vous alerter ; si vous ne souhaitez pas entendre La France insoumise, entendez au moins l’alerte du Conseil national des barreaux, dont l’assemblée générale a voté, le 9 février, un rapport s’opposant fermement à cette proposition de loi. D’après le CNB, celle-ci présente des risques juridiques majeurs, notamment l’atteinte aux droits de la défense et à l’accès au juge. Il interroge même très sérieusement la constitutionnalité de votre proposition. Il nous alerte sur le risque majeur d’un possible détournement de la procédure à des fins de blanchiment : sans contrôle juridictionnel préalable sur la réalité du contrat, des acteurs pourraient fabriquer de fausses créances, reconnaissances de dettes ou contrats fictifs par exemple, pour donner une apparence de légalité à des flux financiers frauduleux.\nMonsieur le rapporteur, la gravité de ces alertes appelle de la retenue. Le remède que vous entendez faire passer est pire que le mal. Nous vous invitons, pour nos entreprises, pour nos salariés, pour notre État de droit, à retirer votre texte ; à défaut, nous nous y opposerons et voterons résolument contre. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "N’ayez pas peur !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Elie Califer."
+        },
+        {
+          "orateur": "M. Elie Califer",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795762",
+          "texte": "Nous examinons aujourd’hui un texte qui a le mérite d’aborder un sujet concret, au cœur des préoccupations du quotidien de nombre de nos concitoyens, et absolument crucial pour notre tissu économique : le recouvrement des créances commerciales incontestées.\nDerrière ce sujet de prime abord technique, il y a une réalité parfois brutale : celle des petites et moyennes entreprises, et plus encore des microentreprises, qui subissent de plein fouet les retards de paiement. En 2024, ceux-ci ont représenté 15 milliards d’euros de pertes de trésorerie, dont 4 milliards pour les seules microentreprises. Ce manque à gagner est loin d’être anecdotique : il constitue l’une des premières causes de défaillance des entreprises – et je rappelle que notre pays a connu 68 000 défaillances en 2024. La Banque de France souligne que les retards de paiement augmentent de 25 % la probabilité de défaillance et jusqu’à 40 % lorsque le retard dépasse un mois. Autrement dit, derrière chaque facture impayée, il peut y avoir une entreprise qui vacille et des parcours entrepreneuriaux et professionnels brisés.\nDans ce contexte, il est évident que la situation actuelle n’est pas acceptable en l’état. Trop souvent, les grandes entreprises, et parfois même les acheteurs publics, utilisent les délais de paiement comme levier de trésorerie au détriment des plus petites structures. Ce déséquilibre est profondément injuste.\nLa proposition de loi soumise à notre examen vise à corriger certaines limites de la procédure actuelle d’injonction de payer. Malgré les simplifications introduites en 2015, cette procédure reste imparfaite. Elle présente deux défauts majeurs : d’une part, elle s’interrompt en cas de silence du débiteur, ce qui est paradoxalement fréquent ; d’autre part, elle ne permet pas toujours de lier efficacement le contentieux, renvoyant les parties vers une nouvelle procédure au fond, toujours plus longue et plus coûteuse pour le créancier.\nLe texte propose une nouvelle voie : en l’absence de réponse après une sommation de payer, dans un délai encadré, la créance pourra être reconnue comme liquide et exigible, permettant à un commissaire de justice d’émettre un titre exécutoire. Sur le principe, cette évolution peut sembler utile. Elle répond à une attente réelle du terrain et notamment des professionnels du recouvrement, qui soutiennent ce texte.\nMais il faut aussi en voir les limites. Tout d’abord, cette procédure reste dépendante d’une intervention du greffe du tribunal de commerce. Or, nous le savons tous, nos juridictions sont soumises à de fortes tensions multifactorielles. Le manque de moyens humains, de magistrats comme de greffiers, constitue déjà un frein au bon fonctionnement de la justice économique. Ajouter une nouvelle procédure sans résoudre cette contrainte structurelle risque d’en limiter fortement l’efficacité. En outre, cette réforme soulève une question de lisibilité. Nous ajoutons une procédure supplémentaire à un système déjà complexe sans résoudre le problème de fond du non-respect des délais de paiement.\nLe véritable enjeu est là : aucune procédure, aussi ingénieuse soit-elle, ne remplacera une politique efficace de prévention et de contrôle. Cela suppose notamment de renforcer les moyens de la DGCCRF, afin de mieux faire respecter les délais de paiement et sanctionner les abus. Cela suppose également de s’attaquer plus frontalement aux pratiques de certaines grandes entreprises qui font peser sur leurs fournisseurs les contraintes de leur propre gestion de trésorerie.\nCette proposition de loi apporte une réponse nécessaire mais partielle à un problème réel. Ce texte peut dès lors constituer un outil supplémentaire, mais il ne saurait être une solution suffisante. Si nous voulons réellement protéger nos TPE et PME, nous devons aller plus loin : simplifier, certes, mais aussi contrôler davantage et, surtout, rééquilibrer les rapports de force économiques. C’est à cette condition que nous pourrons lutter efficacement contre les défaillances d’entreprises et soutenir durablement notre économie.\nDans l’attente de ces avancées que nous appelons de nos vœux, le groupe Socialistes et apparentés soutiendra cette proposition de loi."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Merci."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Nicolas Tryzna."
+        },
+        {
+          "orateur": "M. Nicolas Tryzna",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842121",
+          "texte": "Le groupe de la Droite républicaine votera en faveur de cette proposition de loi. Nous le ferons avec conviction, parce que ce texte répond à une réalité économique trop souvent minimisée, mais bien connue dans nos territoires : celle des retards de paiement et des créances impayées qui fragilisent chaque jour des milliers d’entreprises.\nDerrière ces retards, il n’y a pas seulement des lignes comptables. Il y a des artisans, des PME, des sous-traitants qui vivent de leur trésorerie et dont l’équilibre repose parfois sur quelques factures en attente. Lorsqu’une créance n’est pas payée, ce sont des salaires qui sont menacés, des investissements qui sont reportés et, parfois, des entreprises qui disparaissent.\nLes chiffres sont connus : des dizaines de milliards d’euros de trésorerie sont immobilisés chaque année et près d’un quart des défaillances d’entreprises sont directement liées aux retards de paiement. Dans un contexte économique déjà très tendu, marqué par la fin des dispositifs exceptionnels et par un ralentissement de la croissance, nous ne pouvons pas rester spectateurs.\nCette proposition de loi va donc dans le bon sens. Elle apporte une réponse pragmatique en instaurant une procédure simplifiée de recouvrement pour les créances commerciales incontestées. Lorsqu’il n’y a pas de litige réel, lorsqu’il n’y a pas de contestation, il n’est pas normal que les entreprises soient contraintes d’attendre des mois, parfois plus d’un an, pour obtenir un titre exécutoire.\nCe texte permet de raccourcir ces délais, en confiant au commissaire de justice un rôle central, tout en maintenant des garanties essentielles pour le débiteur, notamment la possibilité de contester dans un délai clairement défini. Il ne s’agit donc pas de contourner la justice, mais de la rendre plus efficace, plus proportionnée et plus adaptée aux réalités économiques. Mobiliser un tribunal pendant des mois pour une créance qui n’est pas contestée, ce n’est pas une bonne utilisation des moyens publics. Pendant ce temps, d’autres contentieux bien réels attendent d’être jugés. En simplifiant cette procédure, nous faisons donc un double choix : celui de l’efficacité économique et celui d’une meilleure organisation de notre justice.\nAu-delà, ce texte tient compte d’un enjeu plus large, celui de la compétitivité de notre économie. Dans de nombreux pays européens, les délais de paiement sont plus courts et mieux respectés et les procédures sont plus rapides. La France ne peut pas rester à la traîne, au risque de pénaliser ses entreprises et ses chaînes de sous-traitance. Garantir un recouvrement plus rapide, c’est renforcer la confiance entre acteurs économiques, sécuriser les échanges et soutenir l’investissement.\nLa Droite républicaine défend une ligne claire : soutenir l’économie productive, protéger ceux qui travaillent et lever les obstacles inutiles qui freinent l’activité. Cette proposition de loi s’inscrit pleinement dans cette logique. Elle est équilibrée, utile et attendue par le monde économique. C’est pourquoi nous la voterons."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Merci."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Arnaud Bonnet."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "texte": "Selon le rapport 2024 de l’Observatoire des délais de paiement, le retard moyen de paiement des créances commerciales est de 13,6 jours. Ce chiffre est en dégradation par rapport à l’année précédente et se situe à un niveau supérieur à la moyenne européenne.\nNous sommes d’accord : la nécessité d’adopter un texte sur ce sujet est majeure. Mis bout à bout, ces retards ont des conséquences économiques majeures sur les relations commerciales, ils fragilisent directement la trésorerie des entreprises, ils mobilisent des montants considérables et font subir aux entreprises une situation de tension financière à peine supportable, qui peut aboutir à des défaillances.\nLe groupe Écologiste et social partage l’objectif affiché de cette proposition de loi de réduire les délais de paiement, parfois bien supérieurs à soixante jours, qui asphyxient quotidiennement nos entreprises, en particulier les plus fragiles. Une entreprise ne devrait pas être mise en danger du fait qu’elle n’est pas payée en temps et en heure.\nToutefois, cette proposition de loi, sous couvert de simplifier le recouvrement des créances commerciales incontestées, risque de créer plus de déséquilibres qu’elle n’en résout – ce dont vous ne tenez pas compte – et évite un débat de fond nécessaire sur l’état de notre justice civile et commerciale, qui est sous-dotée et fragilisée. Les petites entreprises renoncent souvent à entamer une procédure judiciaire, faute de moyens internes, humains comme financiers, mais aussi en raison de la lenteur de la procédure. La fragilisation de la justice entraîne des situations de non-droit et de forts déséquilibres entre les grandes entreprises et les petites. Or ces déséquilibres seront maintenus si la proposition de loi est adoptée en l’état.\nNous ne pouvons pas nous satisfaire d’un traitement égal de l’ensemble des entreprises, car, dans les faits, les entreprises ne sont pas égales : leurs moyens les opposent. Une attention particulière doit être portée aux très petites, petites et moyennes entreprises. Il faudrait restreindre l’application de cette proposition de loi à ces dernières.\nNous ne pouvons pas nous satisfaire de la seule prise en compte du champ des relations commerciales. Il ne faut pas oublier les secteurs civil, agricole, libéral, associatif et de l’économie sociale et solidaire (ESS).\nEn raison des enjeux posés par l’inégalité entre les entreprises, nous ne pouvons pas non plus nous satisfaire de l’absence d’un outil de suivi permettant de mesurer la portée du dispositif et de s’assurer que la situation se résorbe progressivement. Il y va de l’intérêt général.\nNous vous rejoignons dans la lutte contre les impayés, mais nous refusons une réforme faite en catimini – le faible nombre de députés présents l’atteste – qui profiterait principalement aux grands groupes. La justice économique ne se décrète pas : elle se construit avec équité et avec les moyens appropriés. Nous restons donc très critiques.\nNous attendons que le gouvernement indique au cours du débat les dispositions réglementaires à venir pour protéger réellement les très petites, petites et moyennes entreprises et pour prévenir les risques de blanchiment d’argent que ce texte comporte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Éric Martineau."
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Nous le savons, et les acteurs économiques nous le rappellent sans cesse, les retards de paiement ne sont pas de simples incidents de trésorerie. Ils impactent lourdement la santé financière de nos petites et moyennes entreprises, freinent leur capacité d’autofinancement et menacent à terme leur rentabilité.\nEn 2024, la situation s’est significativement dégradée avec 68 000 défaillances d’entreprises, soit une hausse de 10 % en un an. Certes, ce triste record s’explique en partie par l’extinction des dispositifs de soutien exceptionnel et par le ralentissement économique de l’année passée, mais il révèle surtout une réalité préoccupante, celle de la dégradation structurelle de la trésorerie de nos petites entreprises, trop souvent asphyxiées par les impayés.\nFace à ce constat, ce texte, issu d’une initiative sénatoriale, apporte une réponse dont la première vertu est l’efficacité opérationnelle. Trop souvent, l’accumulation de négligences ou de retards administratifs finit par avoir des conséquences dramatiques sur la viabilité des structures les plus fragiles. Cette réforme propose en son cœur d’instaurer une procédure déjudiciarisée pouvant être déclenchée par le créancier auprès d’un commissaire de justice. En cas d’accord du débiteur sur l’existence de la dette et sur les modalités de paiement, le greffier du tribunal de commerce pourra déclarer exécutoire le procès-verbal de non-contestation. C’est un gain de temps et d’énergie pour tous les acteurs. Le Sénat a fort justement précisé le périmètre de ces créances : elles doivent présenter un caractère certain, liquide et exigible. C’est une garantie juridique indispensable.\nPar souci de lisibilité, ce dispositif deviendra l’unique procédure de référence pour les créances commerciales. Il remplace le mécanisme existant pour les créances inférieures à 5 000 euros, qui a montré ses limites et reste sous-utilisé. En effet, il permet au débiteur, par un simple silence d’un mois, de paralyser la délivrance du titre exécutoire. En supprimant ce plafond de montant et en simplifiant la procédure, nous apportons une clarification attendue. Je tiens également à préciser que ce dispositif n’entrave en rien l’accès au juge ni le concours d’un avocat. Un refus simple du débiteur suffit à interrompre la procédure simplifiée pour ouvrir la voie aux recours juridictionnels classiques.\nDe plus, le texte prévoit un délai de contestation protecteur d’un mois et huit jours suivant la sommation de payer, avant de caractériser la non-contestation.\nCe texte ne saurait prétendre résoudre à lui seul l’ensemble des difficultés structurelles de nos entreprises. Toutefois, il apporte une réponse concrète à un obstacle récurrent : l’enlisement de créances qui ne sont pas discutées sur le fond, mais qui restent impayées par défaut de procédure agile.\nEn simplifiant ces démarches, nous sécurisons les relations contractuelles et nous redonnons de la visibilité aux chefs d’entreprise dans leur gestion quotidienne. Pour toutes ces raisons de bon sens technique et économique, le groupe Les Démocrates votera en faveur de ce texte."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Merci !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. François Gernigon."
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "À première vue technique, cette proposition de loi touche à une réalité très concrète de la vie de nos entreprises : selon l’Observatoire des délais de paiement de la Banque de France, près d’un tiers des entreprises règlent leurs fournisseurs plus de soixante jours après l’échéance contractuelle.\nCe chiffre doit nous alerter. Nous pourrions le relativiser s’il n’entraînait pas des conséquences aussi graves. Mais la Banque de France nous apprend que les retards de paiement augmentent de 25 % la probabilité de défaillance d’une entreprise. Concrètement, cela signifie que les défauts et retards de paiement figurent parmi les premières causes évitables des faillites des entreprises françaises.\nCet enjeu est d’autant plus crucial que, dans le contexte économique de forte incertitude qui est le nôtre, les faillites d’entreprises se multiplient. Entre le 1er septembre 2024 et le 31 août 2025, la France a ainsi enregistré plus de 67 000 défaillances d’entreprises, soit plus de 8 000 de plus que la moyenne de la décennie précédente.\nLa présente proposition de loi, à laquelle le groupe Horizons & indépendants apporte son entier soutien, vise à répondre à ce constat. Nous soutenons aussi bien la démarche de ce texte que l’objectif autour duquel il a été construit : ne représenter ni une ingérence dans la vie de nos entreprises ni une entrave au fonctionnement de l’économie de marché ; ne pas ajouter de nouvelles contraintes à la charge qui pèse déjà sur nos acteurs économiques.\nCe texte offre donc simplement un cadre juridique adapté – une procédure simplifiée de recouvrement des créances commerciales incontestées –, pour que les entreprises disposent d’un outil efficace, rapide et proportionné pour faire valoir leurs droits. Il y va de la sécurité juridique et de la nécessaire stabilité pour ceux qui entreprennent, investissent et prennent des risques.\nPour conclure, notre groupe tient à saluer la qualité des travaux conduits par nos collègues sénateurs, qui ont permis de sécuriser ce texte sur les plans juridique et opérationnel. C’est pourquoi le groupe Horizons & indépendants votera en faveur de cette proposition de loi, avec la conviction qu’un droit commercial solide n’est pas un frein à l’économie, mais l’une de ses conditions."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Merci !"
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "La parole est à Mme Soumya Bourouaha."
+        },
+        {
+          "orateur": "Mme Soumya Bourouaha",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720838",
+          "texte": "Nous examinons une proposition de loi sur le recouvrement des créances commerciales incontestées. Un sujet de procédure en apparence, mais ce texte touche véritablement à l’équilibre même de nos relations économiques. Derrière ces créances dites « incontestées », se cache en effet une réalité très concrète : celle de milliers de petites entreprises, de TPE et de PME, qui attendent d’être payées, parfois des semaines, voire des mois – des retards de paiement qui constituent un problème majeur pour la trésorerie et la stabilité de ces entreprises.\nSelon un sondage de la Compagnie française d’assurance pour le commerce extérieur, 86 % des entreprises ont subi des retards de paiement en 2025 – un phénomène en progression par rapport aux années précédentes. Ces retards représentent un encours de trésorerie immobilisée estimé à environ 15 milliards d’euros, pesant quasi exclusivement sur les PME et les TPE, qui disposent des marges financières les plus faibles. Mais ce ne sont pas les petites entreprises qui sont responsables de cette situation. Bien au contraire, ce sont elles qui la subissent.\nLa Banque de France le montre : les retards les plus longs sont le fait des grands donneurs d’ordre. Ce sont les acteurs les plus puissants qui imposent leurs délais, leurs conditions et leur tempo. Face à eux, les PME sont trop souvent contraintes de s’adapter, de subir ou de renoncer. Ainsi, 50 % des grandes entreprises règlent encore leurs fournisseurs au-delà du délai légal de soixante jours.\nNous sommes donc en présence d’un déséquilibre structurel. Cette situation traduit une faiblesse dans l’application de la loi : les contrôles sont insuffisants et les sanctions trop limitées. Le cadre juridique existe, mais il manque d’efficacité dans son application.\nC’est dans ce contexte que s’inscrit la proposition de loi qui nous est soumise et qui vise à simplifier le recouvrement des créances commerciales incontestées. L’objectif annoncé est louable : accélérer les procédures et faciliter le paiement des créances.\nCependant, le texte soulève plusieurs problèmes de fond. Il transfère une partie importante du traitement du contentieux vers le commissaire de justice, en réduisant le rôle du juge. Ce changement revient à déjudiciariser un domaine qui concerne directement la sécurité économique des entreprises.\nEn autorisant le commissaire de justice à délivrer un titre exécutoire sans contrôle préalable du juge, on diminue une garantie essentielle du droit : la vérification juridictionnelle avant l’exécution forcée – étape qui ne constitue pas une étape de pure procédure, mais bien un mécanisme de protection pour le débiteur et pour le créancier.\nCe déplacement du contrôle public vers un acteur privé transforme la nature du processus. Il risque de fragiliser les petites entreprises en les renvoyant vers une procédure plus coûteuse, moins protectrice et reposant davantage sur des acteurs privés.\nAu lieu de renforcer les obligations des donneurs d’ordre, le texte alourdit la responsabilité du créancier et ne contraint pas les acteurs dominants à respecter les délais légaux. On cherche à simplifier la procédure de recouvrement, mais on ne s’attaque pas à la source du problème : le non-respect régulier des délais de paiement.\nCe texte ne corrige pas les retards de paiement ; pire, il renforce leur institutionnalisation, au prix, en outre, d’un affaiblissement du contrôle juridictionnel. C’est une double impasse.\nEn se focalisant sur l’efficacité procédurale, cette proposition de loi détourne le débat des leviers réellement structurants : le renforcement des sanctions contre les retards de paiement, l’effectivité des contrôles administratifs, la protection accrue des sous-traitants et la responsabilisation des grands donneurs d’ordre. Elle substitue une logique de gestion des impayés à une politique de transformation des rapports économiques.\nLe contrôle du juge avant l’exécution forcée n’est pas une formalité : c’est une garantie fondamentale qui protège contre l’arbitraire, sécurise les procédures et garantit l’équilibre entre les parties. En l’affaiblissant, on prend un risque pour les droits de la défense, pour l’accès au juge et, plus largement, pour l’équilibre de notre État de droit.\nLa logique économique du texte est elle aussi problématique. Au fond, cette proposition de loi entérine une situation. Elle part du constat que les retards de paiement existent, qu’ils sont massifs et structurels ; mais, au lieu de chercher à les réduire, elle organise leur gestion. Elle crée un cadre dans lequel on pourra recouvrer plus rapidement des créances, sans jamais remettre en cause les pratiques qui produisent ces impayés.\nCe texte ne change pas le rapport de force ; il ne protège pas les PME, mais leur offre simplement un palliatif technique, tout en entérinant un modèle économique qui organise leur vulnérabilité. Loin de constituer une réponse structurelle à un problème identifié de longue date, cette proposition de loi entérine une situation qui voit 5 milliards d’euros de trésorerie manquer chaque année aux PME, et dans laquelle le non-respect de la loi devient un paramètre ordinaire de fonctionnement de l’économie française. C’est pourquoi, en l’état, notre groupe ne votera pas cette proposition de loi."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La discussion générale est close.\nLa parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Il me semble utile de répondre rapidement aux craintes exprimées lors de la discussion générale. Je remercie d’abord les groupes – majoritaires – qui soutiendront ce texte. Je me satisfais en outre du constat partagé par l’unanimité de cette assemblée : les délais de paiement constituent un problème sérieux.\nÀ cet égard, je remercie les groupes qui ont formulé des critiques ou des doutes d’avoir néanmoins reconnu que la situation actuelle n’est pas satisfaisante, et que les chiffres transmis par l’Observatoire des délais de paiement de la Banque de France sont préoccupants. Je rappelle simplement ce chiffre : les retards de paiement augmentent de près de 25 % le risque de défaillance des entreprises ; quelle que soit notre sensibilité politique, personne ne peut se satisfaire d’une telle situation.\nDes groupes de gauche ont souligné le risque d’accentuer la dissymétrie entre les grandes et les petites entreprises. Nous pensons exactement l’inverse : c’est la situation actuelle qui entretient cette dissymétrie. En effet, de nombreuses PME et TPE hésitent à engager des procédures, parce que la voie principale reste la voie judiciaire : longue, coûteuse, lourde, et souvent dissuasive en raison de son caractère public. L’exemple évoqué en commission par notre collègue Arnaud Bonnet – celui de Disney – illustre parfaitement cette réalité.\nEncourager le recours à des solutions amiables nous semble au contraire de nature à rééquilibrer les rapports entre les acteurs économiques.\nNotre collègue communiste a raison sur un point : cette proposition de loi ne réglera pas à elle seule le problème à la racine, car les causes des retards de paiement tiennent à des mécanismes économiques profonds. Je suis néanmoins convaincu qu’elle contribuera à améliorer l’équilibre entre entreprises, et qu’elle incitera aussi les grands groupes à privilégier les procédures de règlement amiable avec les PME. Je rappelle d’ailleurs un point essentiel : nous parlons ici de créances non contestées.\nJ’en viens à la seconde critique, relative à la présence du juge. Si celui-ci s’efface dans la procédure proposée, c’est précisément parce qu’il s’agit de créances reconnues. En revanche, dès lors qu’un différend oppose les deux parties, la procédure classique majoritairement utilisée aujourd’hui – à savoir la voie judiciaire de droit commun – s’applique pleinement.\nD’une certaine manière, cette proposition de loi crée donc une troisième voie ; celle-ci ne supprime en aucun cas la procédure de droit commun, qui demeure la procédure judiciaire classique.\nNous avons la conviction que ce texte permettra de régler de nombreuses situations et de réduire un encours très élevé, de l’ordre de 15 milliards d’euros pour les seules créances non contestées. J’espère avoir dissipé les inquiétudes qui ont pu s’exprimer, et je vous invite à voter conforme ce texte dans quelques instants."
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "texte": "Excellent !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060880",
+      "valeurPtsOdj": "3",
+      "titre": "Discussion des articles",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "J’appelle maintenant, dans le texte de la commission, les articles de la proposition de loi.\nJe suis saisie de plusieurs demandes de scrutin public : sur l’amendement no 1, par le groupe Écologiste et social ; sur l’ensemble de la proposition de loi, par les groupes Ensemble pour la République et La France insoumise-Nouveau Front populaire.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4060883",
+      "valeurPtsOdj": "3",
+      "titre": "Article 1er",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Arnaud Bonnet, pour soutenir l’amendement no 2."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "texte": "Il vise à éclairer nos débats. Les retards de paiement constituent un phénomène structurel et documenté de l’économie française, dont les effets dépassent largement le seul champ des relations commerciales. Les contrôles de la DGCCRF révèlent une prévalence élevée des anomalies : lors de certaines campagnes récentes, près de 40 % des entreprises contrôlées étaient en infraction.\nDans ce contexte, le présent amendement vise à demander un rapport au gouvernement afin de mesurer précisément l’ensemble du phénomène des impayés dans la sphère économique élargie et à éclairer le Parlement sur les adaptations possibles du droit.\nPar ailleurs, si une réforme des procédures de recouvrement peut être envisagée, elle ne saurait faire l’économie d’une analyse des capacités effectives de l’État à faire respecter le droit existant en matière de délais de paiement. Au-delà de la mesure des retards, l’enjeu réside dans la capacité des administrations à contrôler, prévenir et sanctionner les pratiques illicites, mais aussi à accompagner les secteurs économiques les plus fragiles face à des partenaires bien plus puissants."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Avis défavorable. Cette demande de rapport est un amendement de réécriture globale de l’article, son adoption rendrait donc le texte inopérant. Je tiens aussi à rappeler, pour rassurer les collègues qui craignent pour les TPE-PME, que l’Union des entreprises de proximité (U2P), qui les représente, soutient le texte. Elle considère que « le dispositif est un atout énorme du point de vue des plus petites entreprises créancières ». J’espère que cet avis des premiers concernés pourra vous rassurer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Anne Le Hénanff",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA794426",
+          "texte": "Je suis d’accord avec M. le rapporteur : l’adoption de votre amendement aurait pour effet d’écraser ce texte tant attendu. De plus, le Parlement peut s’appuyer sur l’article 24 de la Constitution pour contrôler l’action du gouvernement et évaluer les politiques publiques. Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4061074",
+      "valeurPtsOdj": "3",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "La parole est à M. Arnaud Bonnet, pour soutenir l’amendement no 1."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "texte": "Nous proposons de réserver le dispositif de délivrance de titres exécutoires par les commissaires de justice aux seules petites et moyennes entreprises, afin d’éviter qu’il ne soit principalement mobilisé par de grandes entreprises au détriment de leurs partenaires économiques, notamment les plus fragiles. Ce ciblage permettrait de mieux répondre à l’objectif affiché de réduction des délais de paiement, qui affectent prioritairement la trésorerie des PME, tout en limitant les risques d’un déséquilibre accru dans les relations économiques, dans un contexte où les grandes entreprises disposent déjà d’outils juridiques et financiers robustes pour recouvrer leurs créances."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Défavorable, pour les mêmes raisons."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Anne Le Hénanff",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA794426",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’amendement no 1."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        51\n        Nombre de suffrages exprimés                48\n        Majorité absolue                        25\n                Pour l’adoption                16\n                Contre                32"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 1er est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4061085",
+      "valeurPtsOdj": "3",
+      "titre": "Articles 2 et 3",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les articles 2 et 3 sont successivement adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4061087",
+      "valeurPtsOdj": "3",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        55\n        Nombre de suffrages exprimés                55\n        Majorité absolue                        28\n                Pour l’adoption                41\n                Contre                14"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La proposition de loi est adoptée.)\n (M. le rapporteur applaudit.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4061093",
+      "valeurPtsOdj": "4",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795270",
+          "texte": "Prochaine séance, lundi 13 avril, à seize heures :\n Discussion du projet de loi, adopté par le Sénat, après engagement de la procédure accélérée, relatif à la restitution de biens culturels provenant d’États qui, du fait d’une appropriation illicite, en ont été privés.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à douze heures vingt.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

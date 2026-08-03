@@ -1,0 +1,1992 @@
+{
+  "uid": "CRSANR5L17S2025O1N091",
+  "seanceRef": "RUANR5L17S2025IDS28969",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-02-04",
+  "dateLisible": "mardi 04 février 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3617754",
+      "valeurPtsOdj": "1",
+      "titre": "Questions au gouvernement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "L’ordre du jour appelle les questions au gouvernement."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617756",
+      "valeurPtsOdj": "1",
+      "titre": "Calendrier des réformes",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Paul Christophe."
+        },
+        {
+          "orateur": "M. Paul Christophe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642868",
+          "texte": "Après des mois de débats et une tentative échouée du fait d’une censure irresponsable votée par certains groupes parlementaires – une première depuis soixante-deux ans –, la France s’est enfin dotée d’un budget. Ce budget a un prix ; il nous coûtera en effet 8 milliards de plus que celui proposé par Michel Barnier.\nLe groupe Horizons & indépendants, défendant ardemment une certaine rigueur budgétaire, espérait bien sûr davantage d’économies afin de garantir une trajectoire financière soutenable pour notre pays et les générations futures. Mais l’urgence était de donner de la visibilité à nos entreprises, de rassurer les collectivités territoriales et d’apporter des certitudes aux Françaises et aux Français, alors que le chômage est en hausse. La conjoncture économique se tend : c’est une réalité qu’il nous est impossible de nier face à la nette augmentation des plans de licenciement et des faillites d’entreprises.\nEn dehors de l’indispensable vote d’un budget, quelles réformes structurelles ambitionnez-vous de lancer, monsieur le premier ministre, dans les semaines ou – espérons-nous – les mois à venir pour sauvegarder notre protection sociale et convaincre les entreprises et nos partenaires qu’investir et innover en France est un projet d’avenir ? Même dans les pires tempêtes, nous croyons au cœur battant de la France. Nous croyons en la force de son économie, en l’esprit dynamique de ses entreprises et en l’engagement indéfectible de ses travailleurs qui veulent une France grande et fière d’elle.\nComment entendez-vous répondre à ces attentes ? (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le premier ministre, chargé de la planification écologique et énergétique."
+        },
+        {
+          "orateur": "M. François Bayrou",
+          "fonction": "premier ministre, chargé de la planification écologique et énergétique",
+          "role": null,
+          "idActeur": "PA410",
+          "texte": "Vous avez commencé en affirmant que nous avions un budget ; attendons demain pour que cette assertion ne soit plus discutable. (Sourires.) Vous avez raison de signaler que cette étape initiale qui s’achèvera, je l’espère, avec l’adoption du projet de loi de financement de la sécurité sociale,…"
+        },
+        {
+          "orateur": "Mme Anna Pic",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794270",
+          "texte": "Et le 49.3 ?"
+        },
+        {
+          "orateur": "M. François Bayrou",
+          "fonction": "premier ministre",
+          "role": null,
+          "idActeur": "PA410",
+          "texte": "…au terme d’une succession de motions de censure dont vous connaissez tous la mécanique, ne constitue que le début du travail que nous avons à accomplir. J’ai utilisé l’image peut-être exagérée de l’Himalaya, chaîne de montagnes de 2 000 kilomètres qui compte dix sommets de plus de 8 000 mètres."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il y a des crevasses aussi ! (Sourires.)"
+        },
+        {
+          "orateur": "M. François Bayrou",
+          "fonction": "premier ministre",
+          "role": null,
+          "idActeur": "PA410",
+          "texte": "Vous avez raison, il y a des crevasses. Nous devons accomplir un immense travail pour retrouver le climat de confiance dont vous avez parlé, monsieur le président Christophe. Pour le recréer, nous devons proposer une stratégie pour les très grands sujets qui vont de l’éducation nationale à la santé – je n’en dresserai pas la liste exhaustive – en passant par la réforme de l’État, par laquelle je commencerai.\nDès le lendemain de l’adoption du budget, je demanderai à chacun des ministres et des départements ministériels de lancer l’analyse en profondeur qui partira non pas des moyens, comme on le fait habituellement, mais des missions de l’État."
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "Voilà une bonne méthode !"
+        },
+        {
+          "orateur": "M. François Bayrou",
+          "fonction": "premier ministre",
+          "role": null,
+          "idActeur": "PA410",
+          "texte": "Ces missions sont-elles accomplies, bien accomplies ? La répartition des missions avec les collectivités locales est-elle bonne ? L’allocation des moyens est-elle juste et pertinente ? Ce travail en profondeur sur l’action de l’État est l’un des premiers que nous avons à conduire. Je vous rassure, ce ne sera pas le seul : tous les domaines que nous avons identifiés comme étant en difficulté dans notre pays seront examinés un par un dès le lendemain de l’adoption du budget. (Applaudissements sur les bancs du groupe Dem ainsi que sur plusieurs bancs des groupes EPR et HOR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617771",
+      "valeurPtsOdj": "1",
+      "titre": "Lutte contre la délinquance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Julien Limongi."
+        },
+        {
+          "orateur": "M. Julien Limongi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841873",
+          "texte": "Issu des campagnes de Seine-et-Marne, aux confins de l’Île-de-France, j’ai grandi au cœur de cette France périphérique où j’ai été élu pour défendre mes concitoyens. J’ai vu, année après année, nos territoires se transformer sous l’effet d’une immigration massive et incontrôlée,…"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "On dirait du Bayrou ou du Retailleau !"
+        },
+        {
+          "orateur": "M. Julien Limongi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841873",
+          "texte": "…qui apporte son lot d’insécurité et de bouleversements culturels. D’abord cantonnée aux grandes agglomérations, cette insécurité s’est étendue partout, jusque dans nos villages, pendant que l’État, gouvernement après gouvernement, restait passif. J’ai vu, dans les transports franciliens, les agressions, les rackets et les incivilités se multiplier. J’ai vu, comme surveillant scolaire, une violence inouïe gangrener nos lycées, opposant des bandes de racailles issues des petites cités de nos campagnes, de La Ferté-Gaucher et de Coulommiers."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Voilà ce que c’est de parler de « submersion migratoire » ! Quelle honte ! (Vives protestations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Julien Limongi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841873",
+          "texte": "Tout ce que j’ai vu, tout ce que le Rassemblement national, Marine Le Pen et Jordan Bardella ont dénoncé depuis tant d’années, est encore confirmé par les chiffres publiés par le ministre de l’intérieur. En huit ans, le nombre d’actes de violence a explosé : 2 200 tentatives d’homicide ont été recensées en 2016, 4 300 en 2024. Nous sommes passés de 214 000 coups et blessures volontaires à presque 340 000, de 52 000 violences sexuelles à 122 000. Que vous le vouliez ou non, les ressortissants étrangers sont jusqu’à cinq fois plus représentés que le reste de la population dans les faits de délinquance. (Applaudissements sur les bancs des groupes RN et UDR. – Protestations sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme Zahia Hamdane",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841947",
+          "texte": "Ben voyons !"
+        },
+        {
+          "orateur": "M. Julien Limongi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841873",
+          "texte": "Alors que la France devient un coupe-gorge, nous le disons avec force aux Français, avec tout notre cœur de patriote : il n’y a pas de fatalité si on fait preuve de courage et de volonté.\nNous refusons que notre destin soit celui espéré par Jean-Luc Mélenchon,…"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Horrible !"
+        },
+        {
+          "orateur": "M. Julien Limongi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841873",
+          "texte": "...qui ose parler de « grand remplacement » de nos campagnes, applaudissant la submersion migratoire qui ravage notre pays.\nMonsieur Retailleau, jusqu’ici, vous êtes le ministre de la parole et des promesses sans lendemain. Cesserez-vous de parler pour agir enfin ? (Les députés du groupe RN se lèvent et applaudissent. – Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre auprès du ministre d’État, ministre de l’intérieur."
+        },
+        {
+          "orateur": "M. François-Noël Buffet",
+          "fonction": "ministre auprès du ministre d’État, ministre de l’intérieur",
+          "role": null,
+          "idActeur": "PA303997",
+          "texte": "Je voudrais, autant que faire se peut, vous convaincre de la détermination absolue du gouvernement à lutter contre la délinquance sous toutes ses formes.\nIl n’y a pas, sur ce point, je crois…"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Dénoncez donc le lien avec l’immigration ! (Vives protestations sur les bancs des groupes RN, DR et UDR.)"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "Apportez une tisane à Mme Panot !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Madame Panot, laissez le ministre répondre, s’il vous plaît."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "C’est une honte !"
+        },
+        {
+          "orateur": "M. François-Noël Buffet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA303997",
+          "texte": "Je disais donc qu’il y a une volonté déterminée du gouvernement d’agir. Sur le fond, deux indicateurs clés nous préoccupent. D’une part, on compte parmi les auteurs de violence et parmi les victimes des mineurs de plus en plus jeunes. D’autre part, les faits de récidive et de réitération des actes sont de plus en plus nombreux. La criminalité liée au trafic de stupéfiants et aux activités qui le nourrissent, que vous n’avez pas mentionnée explicitement, contribue évidemment à l’évolution de la délinquance, en particulier à sa présence dans les différents territoires. Plus aucun phénomène de violence n’est limité aux grandes agglomérations.\nLe gouvernement n’a pas seulement exprimé sa volonté, il a accompli des actes, qui sont de nature budgétaire. Dans la loi de programmation du ministère de l’intérieur, il est prévu que le budget pour 2025 augmente de 800 millions d’euros par rapport à 2024. Notre espoir est que ce budget soit adopté demain."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Vous êtes les paillassons de l’extrême droite ! (Vives protestations sur les bancs des groupes RN, DR et UDR.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Une petite inscription au procès-verbal ne ferait pas de mal…"
+        },
+        {
+          "orateur": "M. François-Noël Buffet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA303997",
+          "texte": "Deux propositions de loi sont en cours d’examen : celle qu’a déposée M. Attal, qui vise à restaurer l’autorité de la justice à l’égard des mineurs délinquants et de leurs parents, et celle sur laquelle le Sénat doit voter cet après-midi même, avant qu’elle soit débattue à l’Assemblée, qui vise à sortir la France du piège du narcotrafic. Il n’y a pas de limites : tous les outils sont nécessaires, les moyens budgétaires sont sur la table. Soyez convaincus de notre détermination absolue. (Applaudissements sur quelques bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Julien Limongi."
+        },
+        {
+          "orateur": "M. Julien Limongi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841873",
+          "texte": "Il n’y a aucune réduction des dépenses dans les budgets liés à l’immigration, ce qui est problématique. (Applaudissements sur les bancs du groupe RN.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617797",
+      "valeurPtsOdj": "1",
+      "titre": "Indemnisation suite aux inondations en Ille-et-Vilaine",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Mathilde Hignet."
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Au nom du groupe parlementaire La France insoumise, j’adresse notre soutien à nos concitoyens et concitoyennes sinistrés par les inondations de ces derniers jours en Ille-et-Vilaine. (Les députés du groupe LFI-NFP se lèvent et applaudissent. – Applaudissements sur les bancs des groupes SOC, EcoS et GDR, ainsi que sur plusieurs bancs des groupes EPR et Dem.)\nIl y a quelques jours, M. Retailleau est venu dans le pays de Redon en déclarant vouloir faire obstacle aux « charognards, […] qui profitent de la souffrance des uns et des autres ». Alors, je me suis dit qu’enfin le gouvernement allait s’attaquer aux compagnies d’assurance qui s’empressent d’augmenter leurs primes sans être à la hauteur pour indemniser les sinistrés. (Applaudissements sur plusieurs bancs du groupe LFI-NFP ainsi que sur quelques bancs du groupe GDR.)\nL’enquête récente de l’Union nationale de l’agriculture française et de 60 millions de consommateurs est édifiante : dommages minimisés, experts sous pression, guerre d’usure, délais interminables. Les véritables charognards sont les grands assureurs du CAC40 qui se font de l’argent sur le dos des sinistrés et des collectivités. (Applaudissements sur les bancs des groupes LFI-NFP et GDR. – M. Jean-Claude Raux applaudit également.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Pourvu qu’elle n’ait pas d’accident de voiture, ça ne serait pas remboursé ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "À Guipry-Messac, fortement touchée par les inondations, la commune a dû attendre le dernier moment pour trouver une assurance l’année dernière, et la prime a explosé. Face aux crises climatiques, qui peut croire que le système assurantiel actuel réglera quoi que ce soit ? Le PDG d’Axa a reconnu en mai 2024 qu’un monde à + 4 degrés n’est pas assurable."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "C’est quoi, votre compagnie d’assurances ? Vous n’êtes pas assurée, peut-être ?"
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Monsieur le premier ministre, allez-vous contraindre les assurances pour permettre aux sinistrés de se reconstruire et aux communes d’aller de l’avant ? Avec quels moyens supplémentaires les collectivités touchées, déjà étranglées par votre austérité, feront-elles face à ces dépenses exceptionnelles ? (Applaudissements sur les bancs du groupe LFI-NFP. – M. Jean-Claude Raux applaudit également.)\nIl y a près de deux mois, Mayotte subissait un cyclone d’une ampleur terrible. Les inondations en Ille-et-Vilaine nous rappellent à présent les inondations du Nord de la France l’an dernier.\nPendant ce temps, vous imposez par 49.3 une coupe budgétaire sans précédent sur l’écologie. (Applaudissements sur les bancs du groupe LFI-NFP.) Vous poussez le pays droit dans le mur, alors que le rapport Pisani-Mahfouz chiffre à 65 milliards d’euros les besoins annuels pour la transition écologique. (« C’est fini ! Au revoir ! » sur les bancs du groupe RN.)\nMonsieur le premier ministre, avez-vous réellement conscience de la situation ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche."
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": "ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche",
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Permettez-moi tout d’abord de dire, au nom de l’ensemble du gouvernement, notre soutien entier aux sinistrés de Bretagne, auxquels vont toutes nos pensées. (Applaudissements sur plusieurs bancs des groupes EPR et Dem.) Nous nous sommes rendus en Bretagne avec Bruno Retailleau, ministre de l’intérieur, et Françoise Gatel, ministre chargée de la ruralité, qui est très attachée à ce territoire, comme vous le savez, et qui tenait absolument à être présente aux côtés des sinistrés. Nous voulions remercier toutes les forces de secours qui se sont mobilisées sans relâche pour venir en aide aux sinistrés et nous sommes également résolus à agir pour l’après : il faut réparer, reconstruire et faire en sorte que ce type d’incidents ne se reproduise plus avec le même impact."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Et la transition écologique ?"
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Tandis que vous caressez l’idée de censurer le gouvernement, en l’empêchant d’agir, que vous nous avez empêchés de disposer d’un budget nécessaire pour – prenons un exemple concret – déployer les infrastructures qui permettent de défendre les Françaises et les Français contre les inondations, nous, nous sommes au travail.\nNous menons des actions concrètes pour améliorer la protection des Français, dans le cadre du plan national d’adaptation au changement climatique. Par exemple, nous investissons pour rehausser une digue ou faciliter l’écoulement de l’eau, et nous renforçons les budgets alloués à l’adaptation au changement climatique. Je tiens à remercier ceux qui, sur ces bancs, ont travaillé sur le budget de l’État. Sans forcément soutenir la politique du gouvernement, ils ont à cœur de protéger les Français et savent bien que, sans budget, nous ne pouvons pas avancer. Ce n’est pas un chèque en blanc, nous l’avons compris."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "C’est comme ça que vous les protégez ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Un peu de silence, s’il vous plaît. Nous n’entendons pas bien la réponse de la ministre."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617861",
+      "valeurPtsOdj": "1",
+      "titre": "Augmentation des droits de douane",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Françoise Buffet."
+        },
+        {
+          "orateur": "Mme Françoise Buffet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794798",
+          "texte": "Ma question s’adresse au ministre de l’Europe et des affaires étrangères.\nÀ peine installé à la Maison-Blanche et fidèle à ses promesses de campagne, Donald Trump a imposé une hausse des droits de douane sur les importations en provenance du Canada, du Mexique et de la Chine. Ce matin même, il semble avoir temporairement renoncé à cette augmentation à l’égard du Mexique et du Canada. Sa prochaine cible serait l’Europe.\nPourtant, l’Union européenne est le premier partenaire commercial des États-Unis et nos économies sont profondément interconnectées. En 2023, le commerce transatlantique de biens et de services a dépassé les 1 500 milliards d’euros, avec un excédent de l’ordre de 50 milliards en faveur de notre continent. Nous importons principalement du gaz, du pétrole et des services numériques, tandis que nous exportons des biens aéronautiques, du vin et des médicaments. Si ces échanges étaient freinés, cela entraînerait non seulement un choc économique, mais aussi une rupture géopolitique. Bien entendu, nous devons répondre sur le plan économique en Européens ; mais face à un président américain qui privilégie la confrontation, la simple défense de nos intérêts ne saurait suffire : nous devrons aussi nouer de nouvelles alliances.\nMa question est donc la suivante : quelles réponses concrètes l’Union européenne est-elle prête à adopter si Donald Trump mettait ses menaces à exécution ? Quelles nouvelles alliances économiques et politiques devons-nous explorer, afin de trouver de nouveaux marchés et de réduire notre dépendance aux États-Unis ? Nous devons bâtir un équilibre mondial plus stable et plus souverain : quelles initiatives comptez-vous prendre en ce sens ? (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre de l’Europe et des affaires étrangères."
+        },
+        {
+          "orateur": "M. Jean-Noël Barrot",
+          "fonction": "ministre de l’Europe et des affaires étrangères",
+          "role": null,
+          "idActeur": "PA721836",
+          "texte": "Face à l’éventualité de la hausse des droits de douane américains, il faut d’abord garder notre sang-froid en rappelant, comme vous l’avez fait, qu’il n’y a aucun déséquilibre commercial dans notre relation avec les États-Unis. Il est vrai que ces derniers achètent plus de voitures et de spiritueux en Europe que nous n’en achetons chez eux, mais cette situation est compensée par l’excédent américain en matière de services et d’investissements. Il n’y a donc rien à rééquilibrer.\nEnsuite, souvenons-nous que la dernière fois que les États-Unis se sont lancés dans une guerre commerciale, en 2018, cela leur a coûté très cher – environ 200 euros par habitant, avec un coût supérieur dans les comtés républicains par rapport aux comtés démocrates. Je peux vous affirmer, sereinement mais fermement, que si l’Europe devait être visée par des droits de douane, elle répliquerait sans aucune hésitation.\nEnfin, vous avez raison de souligner l’importance d’établir sans attendre de nouveaux partenariats, afin de permettre à nos entreprises de trouver d’autres débouchés, dans l’éventualité d’un bras de fer commercial avec les États-Unis. C’est pourquoi l’Union européenne a récemment repris contact avec le Mexique, lui aussi concerné par la hausse des droits de douane américains ; il en sera de même prochainement avec l’Inde. Grâce à notre diplomatie économique, qui fête son dixième anniversaire, et à Business France, qui accompagne environ 13 000 entreprises chaque année, nous aidons les entreprises françaises à développer leurs capacités de production et de vente partout dans le monde – en Amérique du Nord, mais aussi dans l’Indo-Pacifique, en Asie centrale, en Afrique et en Amérique latine. (Applaudissements sur quelques bancs des groupes EPR et Dem.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617871",
+      "valeurPtsOdj": "1",
+      "titre": "Avenir de la Nouvelle-Calédonie",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Emmanuel Tjibaou."
+        },
+        {
+          "orateur": "M. Emmanuel Tjibaou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842299",
+          "texte": "Ma question porte sur les discussions à venir sur la sortie de l’accord de Nouméa. Inscrit au cœur de la Constitution française, cet accord demeure la matrice politique et institutionnelle qui régit la Nouvelle-Calédonie. Il est le fruit d’un long processus, initié en 1983 à Nainville-les-Roches, où la société kanak a choisi de faire socle commun avec l’ensemble des victimes de l’histoire, mais aussi avec tous ceux qui s’inscrivent dans une volonté de construire une identité propre à notre pays. (Applaudissements sur quelques bancs des groupes GDR et LFI-NFP.)\nDans la continuité de cet engagement historique, les accords de Matignon-Oudinot ont posé les fondations d’une paix durable, en amorçant une démarche d’émancipation politique, sociale et économique, à travers la provincialisation et l’accès progressif de nos compatriotes ultramarins aux responsabilités. L’accord de Nouméa a ensuite scellé une matrice institutionnelle sui generis – unique en son genre –, reconnue par la communauté internationale. Marque de l’exception démocratique française, cet accord est un acte de courage politique auquel l’État s’est tenu avec constance, malgré les nombreux défis.\nAujourd’hui, nous interpellons l’État sur la nécessité de poursuivre dans cette voie. Nous savons que la relation entre la Nouvelle-Calédonie et la France, après l’accord de Nouméa, soulève des interrogations ; c’est ensemble que nous devons bâtir ce nouvel équilibre. Nous entendons les analyses de nos partenaires loyalistes, mais après quarante ans d’histoire politique commune, nous ne sommes pas prêts à revenir en arrière. Nous redoutons que la vision proposée par certains, qui prônent un fédéralisme interne exacerbé, finisse par institutionnaliser une fracture territoriale et ethnique. Si nous acceptions une telle trajectoire, l’État contribuerait à créer un apartheid assumé, où Nouméa serait pensée en dehors du reste du pays. (M. Nicolas Sansu applaudit.) Imaginez Paris dissociée de la France pour des raisons ethniques. Dans une démocratie comme la France, pays des droits de l’homme, cela serait inconcevable. À l’aube des discussions engagées sur l’avenir institutionnel de la Nouvelle-Calédonie, pouvez-vous partager auprès de nos compatriotes et de la représentation nationale leur postulat de départ ? (Applaudissements sur les bancs du groupe GDR et sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre d’État, ministre des outre-mer."
+        },
+        {
+          "orateur": "M. Manuel Valls",
+          "fonction": "ministre d’État, ministre des outre-mer",
+          "role": null,
+          "idActeur": "PA267622",
+          "texte": "Aujourd’hui même, à la demande du premier ministre, j’ai entamé des discussions bilatérales avec tous les partenaires politiques de la Nouvelle-Calédonie. Vous serez reçu jeudi par la présidente de l’Assemblée et le président du Sénat.\nNous sommes face à un moment décisif, historique : l’économie de la Nouvelle-Calédonie est à terre. Estimés à 15 % du PIB, soit plus de 2 milliards d’euros, les dégâts liés aux violences et aux destructions de mai 2024 sont considérables. Avec 37 000 Calédoniens plongés dans le chômage, l’avenir est donc très incertain. L’État soutient – et continuera de le faire – la reconstruction économique, qui nécessitera des réformes profondes.\nLa Nouvelle-Calédonie est meurtrie. Le sang a de nouveau coulé. Les fractures, qui sont profondes, paraissent même irréductibles. J’ai le sentiment d’un terrible retour en arrière, en entendant parler de nouveau de racisme et de guerre civile. Seul le dialogue permettra de reconstruire un projet commun et partagé. (Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR. – Assentiment sur les bancs du groupe GDR.)"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Manuel Valls",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA267622",
+          "texte": "Les accords de Matignon et de Nouméa, avec la perspective du processus de décolonisation, sont bien le socle de nos discussions – et si vous me permettez l’expression, ils sont même mon ADN. Nous ne devons rien oublier de Michel Rocard et de Lionel Jospin, de Jacques Lafleur et de Jean-Marie Tjibaou. Comme eux, il nous faudra être inventifs, ambitieux et courageux, afin de bâtir un compromis, de sortir de toutes les positions radicales et de proposer un projet commun pour la Nouvelle-Calédonie, sa jeunesse, la concorde et la paix. Croyez-moi, comme il vous l’a dit dans sa lettre, c’est la mission que m’a confiée le premier ministre. L’État prendra sa responsabilité et j’invite chacun à être à la hauteur des siennes. (Applaudissements sur les bancs des groupes EPR et Dem ainsi que sur quelques bancs du groupe GDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617882",
+      "valeurPtsOdj": "1",
+      "titre": "Politique de sécurité",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Guillaume Lepers."
+        },
+        {
+          "orateur": "M. Guillaume Lepers",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA695512",
+          "texte": "Ma question s’adresse à M. le ministre de l’intérieur. Avec Laurent Wauquiez et les députés de la Droite républicaine, nous avons fait de la restauration de l’ordre dans la rue et à nos frontières une priorité. (Exclamations sur quelques bancs du groupe RN.) Sur ces sujets, vous savez pouvoir compter sur notre plein et entier soutien.\nEn matière de sécurité, les sujets ne manquent pas : violences faites aux femmes, délinquance du quotidien, banditisme, narcotrafic et filières de l’immigration illégale, auxquels s’ajoute la menace terroriste qui perdure. Je tiens à rendre hommage aux forces de l’ordre qui s’engagent quotidiennement, avec acharnement, pour garantir la sécurité des Français. (Applaudissements sur les bancs du groupe DR ainsi que sur quelques bancs des groupes RN et Dem.)\nCependant, dans l’exercice de leurs missions, nos policiers et gendarmes restent confrontés à un manque de moyens évident. Dans ma circonscription, la zone police de Villeneuve-sur-Lot, qui fait pourtant la même superficie que Paris intra-muros, ne compte la nuit que deux équipages pour répondre aux appels de police secours. La gendarmerie n’est pas en reste : il manque ainsi quatre gendarmes par rapport à l’effectif théorique de la petite communauté de brigades de Sainte-Livrade-sur-Lot.\nAlors que le projet de loi de finances pour 2025 prévoyait initialement la livraison de 3 000 véhicules, ainsi que la création de 500 emplois en gendarmerie et de 376 postes de policiers aux frontières, les forces de l’ordre n’obtiendraient finalement que la moitié des véhicules et le seul remplacement des départs. Aujourd’hui, les policiers manifestent devant l’Assemblée nationale, afin qu’on leur garantisse les moyens promis dans la loi d’orientation et de programmation du ministère de l’intérieur, c’est-à-dire un total de 15 milliards d’euros d’investissement d’ici 2027.\nMa question est donc la suivante : pouvez-vous confirmer à la représentation nationale que vous allez bien donner à nos personnels les moyens de rétablir l’ordre dans nos villes, dans nos villages et à nos frontières ? (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Laurent Wauquiez",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267285",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre auprès du ministre d’État, ministre de l’intérieur."
+        },
+        {
+          "orateur": "M. François-Noël Buffet",
+          "fonction": "ministre auprès du ministre d’État, ministre de l’intérieur",
+          "role": null,
+          "idActeur": "PA303997",
+          "texte": "Ma réponse pourrait être très courte : oui, la Lopmi et l’objectif d’investissement de 15 milliards d’euros d’ici 2027 seront respectés, de même que l’engagement de 800 millions supplémentaires dans le budget pour 2025."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Quel budget ?"
+        },
+        {
+          "orateur": "M. François-Noël Buffet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA303997",
+          "texte": "Ce budget maintient à la fois les capacités opérationnelles de l’ensemble des personnels et les moyens de l’immobilier. Il n’y a donc pas de difficultés. Vous évoquiez en particulier le rassemblement d’un important syndicat de police : le budget de la police nationale sera en hausse de 250 millions d’euros par rapport à l’année dernière, grâce à cette loi de finances dont nous attendons l’approbation par votre assemblée, le plus tôt possible. Sans cette dernière, nous aurons du mal à tenir les engagements pris pour que nos personnels puissent remplir leur mission, c’est-à-dire assurer la sécurité de notre territoire et de tous les Français. Ce matin, le ministre d’État Bruno Retailleau s’est rendu auprès des manifestants pour leur confirmer ces engagements et leur annoncer le règlement prochain de la prime promise à l’occasion des Jeux olympiques. Il faut donc voter ce budget…"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Chiche ! Mettez-le donc au vote…"
+        },
+        {
+          "orateur": "M. François-Noël Buffet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA303997",
+          "texte": "…dont la France, nos forces de police et notre sécurité ont besoin, au quotidien et pour l’avenir. (Applaudissements sur les bancs des groupes EPR, DR et Dem.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Excellent !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617898",
+      "valeurPtsOdj": "1",
+      "titre": "Politique industrielle",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Pierre Pribetich."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Ma question s’adresse à M. le premier ministre. L’année 2024 a été dramatique pour nos entreprises, en conséquence des politiques industrielles menées par Emmanuel Macron et ses gouvernements. Ces derniers, qui manquent cruellement d’ambition, d’investissements et d’audace, se réfugient derrière une pseudo-compétitivité pour faire des cadeaux fiscaux."
+        },
+        {
+          "orateur": "Plusieurs députés du groupe EPR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est faux ! Et le CICE ?"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Les plans de licenciements ont explosé en 2024 et vont s’intensifier en 2025, avec plus de 300 000 emplois menacés.\nLa troisième circonscription de la Côte-d’Or, que j’ai l’honneur de représenter, vient de connaître plusieurs annonces de fermeture de sites industriels : à Longvic, plus de 200 emplois sont menacés par la fermeture de l’usine Tetra Pak ; à Quetigny, c’est le site de production de Boiron qui va fermer ; à Genlis, 150 emplois sont concernés par la fermeture de l’entreprise PPG-La Seigneurie ; sans oublier le sort des 550 emplois de l’équipementier automobile JTEKT de Chevigny-Saint-Sauveur.\nMonsieur le premier ministre, l’usine PPG-La Seigneurie a touché plus de 12,5 millions d’euros d’aides publiques pour la recherche et le développement depuis 2017 et présente un résultat net en 2023 de 50 millions de bénéfices. Le groupe PPG a, quant à lui, versé 600 millions de dollars de dividendes à ses actionnaires. Est-il normal que l’État, qui a versé des fonds publics, n’exige rien, laisse faire, laisse notre tissu industriel se déliter ? Quand allez-vous, dans de telles circonstances, demander la restitution de ces deniers publics, qui pourraient financer l’accompagnement et la reconversion industrielle des territoires (Applaudissements sur les bancs du groupe SOC) et repenser l’attribution des fonds publics, en les subordonnant au respect de critères sociaux et environnementaux ?\nPeut-on enfin espérer de l’audace pour projeter la France dans une politique industrielle digne du XXIe siècle, avec un plan massif de relocalisation… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur. – Les députés du groupe SOC applaudissent ce dernier.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique."
+        },
+        {
+          "orateur": "M. Éric Lombard",
+          "fonction": "ministre de l’économie, des finances et de la souveraineté industrielle et numérique",
+          "role": null,
+          "idActeur": "PA855045",
+          "texte": "La bataille pour l’industrie est une bataille qui nous occupe."
+        },
+        {
+          "orateur": "M. Sébastien Chenu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "texte": "On reste en famille ! On fait un bond dans le temps !"
+        },
+        {
+          "orateur": "M. Éric Lombard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA855045",
+          "texte": "Mon collègue Marc Ferracci est d’ailleurs en ce moment même à Varsovie, avec nos collègues européens, car le premier front de cette bataille, c’est l’Union européenne. La question industrielle figure à l’agenda de la nouvelle Commission : il s’agit précisément de donner aux vingt-sept États de l’Union des armes pour faire face à la concurrence qui s’intensifie, et dans laquelle l’industrie joue un rôle clé.\nL’industrie joue un rôle clé pour l’emploi, mais aussi pour la transition écologique. J’y insiste, car c’est l’industrie verte qui va nous permettre à la fois de ramener l’emploi dans nos territoires, de faire face à la concurrence internationale et de verdir notre économie, ce qui est un de nos objectifs stratégiques. (MM. Jimmy Pahun et Pascal Lecamp applaudissent.)\nCette bataille est très dure : il y a ce qui se joue aux frontières de l’Union européenne, mais aussi ce qui se joue dans nos territoires. C’est pour cela que nous nous sommes engagés, avec le premier ministre, dans une politique énergétique dynamique. Nous allons, par le biais de la politique tarifaire d’EDF, faire en sorte que le prix de l’énergie soit compétitif dans nos territoires. Nous avons engagé 1,7 milliard pour la décarbonation de l’industrie et protégé les allègements de charges dont bénéficient les entreprises, notamment industrielles. Il est vrai, hélas, que cette bataille pour l’industrie connaît aussi des échecs et que des usines ferment.\nVous avez mentionné la papeterie Tetra Pak, à Longvic, dont la fermeture a été annoncée il y a un mois. Les élus locaux sont mobilisés, avec l’État, pour trouver un repreneur et, si nous n’en trouvons pas, pour accompagner les salariés de cette entreprise, comme nous le faisons avec toutes les entreprises en difficulté. Vous pouvez compter sur nous pour être à vos côtés dans cette bataille."
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Quel défaitisme !"
+        },
+        {
+          "orateur": "M. Éric Lombard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA855045",
+          "texte": "Il n’y a aucun défaitisme. Nous avons créé 500 usines en France depuis 2016 et nous allons continuer. (Applaudissements sur quelques bancs des groupes EPR et Dem.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617972",
+      "valeurPtsOdj": "1",
+      "titre": "Dispositif zéro artificialisation nette",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Philippe Lottiaux."
+        },
+        {
+          "orateur": "M. Philippe Lottiaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795974",
+          "texte": "Monsieur le ministre de l’aménagement du territoire et de la décentralisation, avec les ZFE, qui organisent la ségrégation dans l’accès aux villes, et les DPE, qui entraînent la sortie de milliers de logements du marché de la location, le ZAN complète la trilogie de l’écologie punitive qui plonge notre pays dans la crise. En effet, derrière une bonne intention de façade, le dispositif ZAN s’avère technocratique, inadapté et inapplicable.\nTechnocratique, d’abord, car il relève d’une démarche que l’Association des maires de France a qualifiée, dans son enquête sur le sujet, de « descendante », « arithmétique » et « inadaptée sur le terrain et inefficace à tous points de vue ». Technocratique aussi car, comme le souligne un rapport sénatorial, « les collectivités se heurtent à une logique comptable et statique qui échoue à prendre en compte les choix et priorités du développement local ».\nInadapté ensuite car, à l’heure de la nécessaire démétropolisation, le dispositif favorise les métropoles, responsables de la majorité de l’étalement urbain et de la densification, au détriment de la ruralité, où la densification est souvent un concept vide de sens. Inadapté, car il accroît la crise du logement, amenant les maires ruraux à bloquer tout projet nouveau et renchérissant le foncier.\nInapplicable, enfin, car il bloque tout projet de réindustrialisation, empêchant la mise à disposition du foncier nécessaire, tant pour les usines que pour les logements du personnel. Inapplicable, car il soumet les maires, pourtant garants des équilibres de leur territoire, aux injonctions ministérielles ou régionales, signe d’un manque de confiance coupable dans nos élus locaux.\nLe ZAN, aujourd’hui, c’est zéro artificialisation nette ; demain, ce sera zéro activité nouvelle ; et, après-demain, ce sera zones abandonnées par la nation. (Applaudissements sur les bancs du groupe RN et sur quelques bancs du groupe UDR.)"
+        },
+        {
+          "orateur": "M. Philippe Ballard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794562",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Philippe Lottiaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795974",
+          "texte": "Il nécessitera d’ailleurs de modifier l’intitulé de votre ministère, en y supprimant l’aménagement du territoire, puisqu’il n’y aura plus rien à aménager.\nMonsieur le ministre, « errare humanum est, perseverare diabolicum »."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "M. Lottiaux a fait du latin en cinquième…"
+        },
+        {
+          "orateur": "M. Philippe Lottiaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795974",
+          "texte": "Prévoyez-vous de suspendre et de remettre à plat cette mesure ruralicide, autour d’un objectif de sobriété foncière que nous ne contestons pas, mais qui doit s’appuyer sur le dialogue avec les élus municipaux, la prise en compte du développement local et des délais réalistes ? (Applaudissements sur les bancs du groupe RN et sur quelques bancs du groupe UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre de l’aménagement du territoire et de la décentralisation."
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Et du respect du RN !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre de l’aménagement du territoire et de la décentralisation",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Vous avez évoqué deux sujets qui font actuellement l’objet d’un débat au Sénat. Le premier, c’est la qualité de l’air, que les zones à faibles émissions ont vocation à préserver, car assurer la propreté de l’air, c’est protéger les populations. Il importe également, et c’est le deuxième sujet que vous avez évoqué, de promouvoir la sobriété foncière. Les députés et les élus ont pris conscience de cette nécessité, que vous ne niez pas. Je l’ai dit, nous débattons actuellement de ces questions au Sénat et les décisions qui seront prises visent plusieurs objectifs.\nLe premier, c’est de faciliter l’application de cette zone d’artificialisation… (Exclamations et sourires sur les bancs du groupe RN). Je voulais évidemment dire : cet objectif zéro artificialisation nette."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Ce n’est pas facile à prononcer, le ZAN !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "C’est vrai, et c’est pourquoi nous allons désormais compter en Enaf : c’est plus facile et les élus demandent que l’on réfléchisse en termes d’espaces naturels, agricoles et forestiers.\nNous allons accorder des délais pour l’entrée en application du ZAN et je propose que l’examen à mi-parcours ait lieu non pas en 2032, mais en 2034. (Exclamations sur les bancs du groupe RN.) Je sais que ces décisions correspondent aux attentes des élus locaux."
+        },
+        {
+          "orateur": "M. Yoann Gillet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793832",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Enfin, il est nécessaire de donner davantage de souplesse aux établissements publics de coopération intercommunale pour qu’ils puissent gérer au plus près la réalité de cet objectif zéro artificialisation nette. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Personne n’y comprend rien !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3617994",
+      "valeurPtsOdj": "1",
+      "titre": "Inondations et adaptation au changement climatique",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Sandrine Le Feur."
+        },
+        {
+          "orateur": "Mme Sandrine Le Feur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719412",
+          "texte": "Madame la ministre de la transition écologique, les inondations en Ille-et-Vilaine, qui ont frappé des milliers d’habitants, ne seront malheureusement pas les seules cette année. Le groupe Ensemble pour la République, ma collègue Christine Le Nabour, députée d’Ille-et-Vilaine, et moi-même avons une pensée pour les familles touchées et pour les secouristes mobilisés sans relâche.\nEn Bretagne comme partout en France, les citoyens nous font part d’un sentiment d’épuisement. La crise climatique dépasse les frontières géographiques, sociales et politiques. Aucun Français n’est à l’abri.\nÀ chaque inondation, incendie ou tempête, l’État réagit en urgence : reconnaissance accélérée de l’état de catastrophe naturelle, aide aux communes, déploiement des secours. C’est indispensable, mais ce n’est pas suffisant. Ce qui manque, c’est une véritable politique d’adaptation climatique. Comme le dit le proverbe, « mieux vaut prévenir que guérir ». Pourquoi ce principe de bon sens n’est-il pas appliqué à l’écologie ? Ces catastrophes naturelles n’ont rien de naturel. (Mme Dominique Voynet applaudit.) Elles sont le résultat direct de nos choix en matière de politique environnementale, d’urbanisation et de lutte contre le dérèglement climatique.\nL’artificialisation des terres aggrave les risques d’inondation, tandis que le réchauffement climatique accentue la fréquence et l’intensité des épisodes extrêmes."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Sandrine Le Feur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719412",
+          "texte": "Nous devons anticiper, ne pas nous contenter de réagir, et surtout éviter de subir. La résilience de nos territoires, la protection des sols et le maintien de l’objectif zéro artificialisation nette sont des leviers essentiels. (MM. Dominique Potier et Erwan Balanant applaudissent.)\nMadame la ministre, quelles mesures concrètes comptez-vous prendre pour que l’adaptation climatique devienne une priorité régalienne, au même titre que la sécurité ou la justice, puisqu’elle touche à la raison d’être de l’État, qui est de protéger les citoyens ? (Applaudissements sur les bancs des groupes EPR et sur quelques bancs des groupes HOR et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche."
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": "ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche",
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Je veux d’abord redire mon soutien à nos compatriotes victimes des récentes intempéries. Vous êtes impliquée sur le territoire et vous avez été à l’écoute de vos administrés,…"
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Cette lèche permanente…"
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "…vous savez donc combien les conséquences de ces intempéries sont lourdes et fragilisent nos concitoyens.\nAu-delà des dégâts matériels, ces événements climatiques portent atteinte à ce qui fait une vie, aux souvenirs, et ils vont parfois jusqu’à remettre en cause la transmission du patrimoine, qui se trouve réduit à zéro.\nVous avez raison de rappeler que ces inondations sont la preuve flagrante des effets du réchauffement climatique. L’année dernière, les agents de Vigicrues (MM. Laurent Jacobelli et Julien Odoul sourient) ont été mobilisés un jour sur quatre en cellule de crise, vingt-quatre heures sur vingt-quatre. Un jour sur quatre : c’est deux fois plus qu’en 2006, année de création de Vigicrues. (« Ah ! » sur plusieurs bancs du groupe RN.)\nLe dérèglement climatique, vous avez raison de le dire, est un enjeu majeur de sécurité pour nos concitoyens. Pour nous protéger de cette menace, nous avons une méthode et deux leviers. La méthode, c’est la planification écologique, et elle avance. Le premier levier, c’est la baisse de nos émissions de gaz à effet de serre : elle était de 5,8 % en 2023, elle se poursuit et nous devons continuer d’être au rendez-vous. Le deuxième levier, c’est le plan national d’adaptation au changement climatique et les moyens que nous mettons derrière ce plan : je rappelle que le fonds Barnier a été augmenté de plus de 30 %, alors même que nous faisons des efforts considérables en matière de finances publiques."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Très bien, Michel Barnier !"
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Ce plan permettra de renforcer nos outils de prévision des aléas climatiques et d’adapter nos infrastructures."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Pas du tout !"
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA759832",
+          "texte": "Et je répète que l’objectif ZAN est la meilleure réponse aux inondations. Il est important… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de Mme la ministre. – Les députés du groupe EPR applaudissent cette dernière.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il faut avoir été élu local pour comprendre le ZAN !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618015",
+      "valeurPtsOdj": "1",
+      "titre": "Défi démographique",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Joël Bruneau."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "Madame la ministre du travail, de la santé, des solidarités et des familles, s’il est vrai que la prévision est un art difficile, surtout quand il s’agit de l’avenir, il est tout de même un sujet qui permet de se projeter sans risque d’erreur : c’est la démographie.\nAu-delà de tous les défis que notre pays doit relever, il en est un qui influence toutes nos politiques et dont on ne parle que trop rarement, même si c’est un peu l’éléphant au milieu de la pièce."
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "L’immigration !"
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "Je veux évidemment parler du défi démographique.\nLe nombre de naissances historiquement bas de 2024, le plus faible depuis 1945, devrait nous interpeller, sur tous les bancs de notre assemblée, et nous amener à anticiper les conséquences du vieillissement accéléré de la population. Vous me pardonnerez une lapalissade : les enfants qui ne sont pas nés en 2024 n’auront pas 20 ans en 2044.\nCet état de fait pose bien entendu la question de la politique familiale et du soutien apporté aux parents, mais pas seulement. Il pose, plus globalement, celle de la pérennité de notre système de protection sociale, financé en grande partie par les actifs, dont il est certain que la proportion dans la population va diminuer. C’est tout le financement viable et durable de la retraite qui est en jeu – je rappelle, à toutes fins utiles, que depuis 1980, si le nombre des retraités a été multiplié par 3, celui des actifs ne l’a été que par 1,25 –,…"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "…c’est aussi l’avenir du financement de l’assurance maladie, et que dire de celui de la dépendance, dont on parle depuis vingt ans, sans avoir réellement ni décidé ni agi !\nJ’ai bien conscience que la situation politique ne prédispose pas aux réformes structurelles. Elles sont pourtant incontournables.\nMadame la ministre, ne serait-il pas temps de regarder en face la réalité du vieillissement de la population française ? Pourquoi le gouvernement n’engage-t-il pas dès maintenant une réflexion transpartisane associant tous les acteurs – partenaires sociaux, collectivités locales, mutuelles, entre autres ? Ce travail pourrait au moins faciliter une prise de conscience collective et, pourquoi pas – soyons optimistes ! – un partage du constat et l’amorce de réformes structurelles. (Applaudissements sur les bancs du groupe LIOT et sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre du travail, de la santé, des solidarités et des familles."
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre du travail, de la santé, des solidarités et des familles",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Chaque jour, 2 000 Français fêtent leurs 60 ans : votre question permet à notre assemblée de souhaiter un bon anniversaire à ceux dont c’est aujourd’hui le cas,…"
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "Bon anniversaire ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "…et dont l’espérance de vie est d’au moins vingt-cinq ans. En raison de la baisse du taux de fécondité, le même jour verra naître 1 860 enfants. Vous venez de le rappeler, cette diminution des naissances suscite un triple défi : démographique, épidémiologique – le professeur Bruno Vellas, ex-président de l’International Association of Gerontology and Geriatrics, a exposé les conditions du bien vieillir, lequel peut se définir comme la capacité de faire à tout âge ce que l’on souhaite, d’où le besoin d’un accompagnement –, enfin technologique, avec l’arrivée de l’intelligence artificielle. Nous étions ce matin plusieurs membres du gouvernement au centre régional de lutte contre le cancer Gustave-Roussy : nous y avons vu combien les procédures médicales, techniques, apporteront de réponses.\nVous nous appelez à nous saisir de ce sujet de manière transpartisane : vous avez tout à fait raison. Le premier ministre et moi commençons à travailler sur le sujet du virage démographique, de la transformation de notre société, en partant aussi bien de l’infertilité que de ce qui concerne les tout-petits, et en allant jusqu’au grand âge, à l’accompagnement des seniors. C’est ainsi que nous pourvoirons au futur du modèle social, mais aussi aux aspirations des Français. (Applaudissements sur quelques bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618160",
+      "valeurPtsOdj": "1",
+      "titre": "Causes environnementales des cancers",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Aujourd’hui, 4 février, est la Journée mondiale contre le cancer : je tiens donc à commencer mon propos par un message de solidarité, de soutien, à ses victimes, ainsi qu’aux familles qui affrontent cette terrible épreuve. (Applaudissements sur divers bancs.)\nBien sûr, nous devons améliorer la prise en charge des cancers, accroître les moyens mis à la disposition de la recherche, pour renforcer les espoirs de rémission. Bien sûr, il nous faut soutenir davantage les familles – même si ces évidences n’apparaissent guère comme telles dans les derniers textes budgétaires. Surtout, nous devons tout faire pour éviter l’apparition de cette maladie ! Or, dans ma circonscription, sur la plaine d’Aunis, on constate une surincidence des cancers pédiatriques, aux causes très probablement environnementales. Quelle épreuve, pour un enfant, est pire que de débuter sa vie par un bras de fer avec la maladie ? Quelle épreuve plus terrible, pour des parents, que de devoir accompagner leur enfant dans ce combat ?\nIl importe que nous nous attaquions aux causes, que nous affirmions enfin notre volonté d’en finir avec ces cancers, dont l’issue reste trop souvent tragique. (Applaudissements sur plusieurs bancs des groupes EcoS, LFI-NFP, SOC et GDR.) À contresens de cette ambition, de cet espoir, certains sénateurs entendent prolonger l’utilisation de pesticides réputés dangereux (Mêmes mouvements) au détriment de notre santé et de celle de nos enfants : l’histoire les jugera. Au contraire, des groupes mutualistes, déjà confrontés au retentissant scandale de l’amiante, ont fait publier ce matin une tribune où ils demandent au gouvernement d’accélérer la suppression des pesticides, à l’origine de pathologies de plus en plus nombreuses. Ils considèrent, à juste titre, qu’anticipation et prévention constituent les armes les plus efficaces. Monsieur le premier ministre, quand prendrez-vous au sérieux les causes environnementales d’émergence de cancers ? (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre du travail, de la santé, des solidarités et des familles. (Mme Sophia Chikirou s’exclame, suscitant des protestations sur les bancs des groupes EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre du travail, de la santé, des solidarités et des familles",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Je souhaiterais m’associer à l’hommage par lequel vous avez entamé votre intervention, et l’adresser également à tous les soignants qui accompagnent nos concitoyens atteints d’un cancer. Vous avez insisté sur les cancers pédiatriques : on ne peut que souscrire à vos propos.\nQuant à la prévention, par ses multiples aspects, elle concerne tous les membres du gouvernement. L’une de ses composantes essentielles est la recherche : ce matin, le ministre chargé de la recherche et moi nous entretenions avec des biologistes, des mathématiciens, des médecins. Des établissements tels que Gustave-Roussy donnent à notre pays la capacité de suivre des cohortes qui, demain, seront à l’origine de réponses très concrètes,…"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Et les pesticides ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "…de perspectives intéressantes de rémission."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "texte": "Nous parlons des pesticides, madame la ministre !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Madame Chikirou, s’il vous plaît !"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Il importe donc de concilier prévention, évolution des modes de vie et analyse des systèmes de production : la combinaison de ces approches nous permettra, grâce à une mobilisation transpartisane, de répondre aux attentes des familles françaises et d’accompagner les soignants, qui méritent, encore une fois, toute notre considération. (Applaudissements sur quelques bancs des groupes EPR et Dem. – Exclamations sur quelques bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618173",
+      "valeurPtsOdj": "1",
+      "titre": "Part collective du pass culture",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Florence Herouin-Léautey."
+        },
+        {
+          "orateur": "Mme Florence Herouin-Léautey",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841813",
+          "texte": "J’étais hier à quelques pas de cet hémicycle, devant nos bâtiments, où s’étaient réunis des professionnels du spectacle vivant…"
+        },
+        {
+          "orateur": "M. Pierre Henriet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722070",
+          "texte": "Pas besoin de sortir de l’hémicycle pour en rencontrer… (Sourires.)"
+        },
+        {
+          "orateur": "Mme Florence Herouin-Léautey",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841813",
+          "texte": "Je les ai trouvés désabusés, comme beaucoup d’entre nous, à la suite de la nouvelle annoncée jeudi non par le ministère, mais par la société Pass culture : la part collective du pass est gelée.\nCette mesure porte un coup d’arrêt brutal à des milliers de projets d’éducation artistique et culturelle, véritables ponts vers la culture. Priver une génération d’élèves de cette voie d’accès aux spectacles, aux musées, à la pratique musicale et théâtrale, non seulement constitue une erreur, mais sape la promesse républicaine que porte l’école publique : l’égalité des chances par un accès universel à tout ce qui ouvre et éveille l’esprit.\nNotre devoir consiste à nous assurer que la culture qui transforme, éduque, émancipe, reste accessible à tous. Il convient donc que notre engagement soit absolu : si nous cessons de soutenir les enseignants et le secteur culturel, si l’État se contente de distribuer des chèques, la culture, réduite à un acte de consommation, n’aura plus aucun sens. (Applaudissements sur les bancs du groupe SOC ainsi que sur quelques bancs des groupes EcoS et GDR.) Quel message entendez-vous envoyer aux artistes, aux compagnies, aux intermittents du spectacle, en faisant stopper net les projets de classe ou d’établissement, parfois en cité éducative, et continuant de déverser l’argent à flots sur la part individuelle du pass ?\nÀ l’heure où nous parlons, madame la ministre de l’éducation, des dizaines de milliers de projets pédagogiques sont suspendus à votre décision ; des centaines de milliers d’intermittents sidérés, en colère ; autant d’enseignants, dans tous les collèges et lycées de France, de nouveau en butte au mépris de l’institution. Quand comptez-vous réactiver la part collective du pass culture ? (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre d’État de l’éducation nationale, de l’enseignement supérieur et de la recherche."
+        },
+        {
+          "orateur": "Mme Élisabeth Borne",
+          "fonction": "ministre d’État, ministre de l’éducation nationale, de l’enseignement supérieur et de la recherche",
+          "role": null,
+          "idActeur": "PA717161",
+          "texte": "Depuis son élargissement en 2022, le pass culture connaît un succès incontestable, que nous pouvons tous saluer – y compris ceux qui ne l’avaient pas défendu au départ. (Applaudissements sur plusieurs bancs des groupes EPR et Dem.) L’an passé, 80 % des élèves du secondaire ont poussé la porte d’un théâtre, d’un musée, d’un lieu de mémoire, grâce à ce dispositif. Pour l’année scolaire en cours, la quasi-totalité des collèges et lycées sont engagés, près de 4 millions d’élèves concernés et 160 000 actions culturelles financées."
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "Ce serait bien de dire aussi que le budget prévoit des créations de postes pour le pass culture !"
+        },
+        {
+          "orateur": "Mme Élisabeth Borne",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA717161",
+          "texte": "Il faut à présent conforter ce succès, mais aussi évaluer le dispositif afin d’en garantir l’équité et l’efficacité : tel est l’objet de la mission que je viens de confier à l’inspection générale de mon ministère.\nEntre 2022 et 2024, les crédits inscrits dans les lois de finances sont en effet passés de moins de 20 millions d’euros à plus de 60 millions, le coût réel atteignant l’an dernier 97 millions. Pour 2025, nous avions prévu 72 millions, soit une hausse de 10 millions ; or, depuis le début de l’année, les réservations ont flambé au point d’absorber en quelques semaines près de 50 millions, les deux tiers de ce budget. Le ministère a donc dû suspendre la plateforme. Je tiens à vous rassurer : les établissements qui auraient engagé des activités sans pouvoir en concrétiser le financement seront en mesure de les mener à bien. La plateforme rouvrira dans les prochains jours ; les projets validés ou ayant fait l’objet d’une préréservation seront financés."
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "Oui à la fête de L’Humanité, non au Puy du Fou ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme Élisabeth Borne",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA717161",
+          "texte": "Mon engagement est clair : permettre à chaque lycéen, à chaque collégien, d’accéder à la culture. (Applaudissements sur plusieurs bancs des groupes EPR et Dem.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618186",
+      "valeurPtsOdj": "1",
+      "titre": "Suspension du service civique",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Josy Poueyto."
+        },
+        {
+          "orateur": "Mme Josy Poueyto",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720720",
+          "texte": "Ma question s’adresse à Mme la ministre chargée des comptes publics. Contrairement à ce que certains, ici, s’efforcent de nous faire croire, l’absence de budget a de réelles conséquences sur l’activité : la suspension du service civique nous le rappelle, tout comme elle nous rappelle la censure du précédent gouvernement. Sur le site Elisa, un encadré avertit désormais qu’« à compter du 1er février 2025, et jusqu’à l’adoption de la loi de finances pour 2025, aucun nouveau contrat ne pourra être signé ». Sans budget, la machine est grippée.\nDeux exceptions sont prévues : d’une part, « les jeunes qui commencent une mission à l’international pourront le faire » ; d’autre part, « les missions de service civique prévues à Mayotte se dérouleront normalement ». Au total, environ 5 000 jeunes ne relevant d’aucun de ces deux cas de figure se demandent si leur projet reste viable. Nous savons tous à quel point le service civique est important, non seulement en tant qu’expression de la volonté d’engagement de la jeunesse, qu’il faut saluer et encourager, mais en tant que levier d’insertion pour ceux qui sont éloignés de l’emploi.\nJe le répète, censurer un gouvernement en raison d’un projet de loi de finances, priver la France de budget, ne va pas sans conséquences ! (Approbation sur plusieurs bancs du groupe Dem.) Notre pays a besoin d’un budget ! Ceux qui croient cet enjeu accessoire se trompent. Les Français ne nous demandent pas d’être irresponsables ! Alors que le budget se trouve une nouvelle fois sous le coup d’une motion de censure, que pouvez-vous dire à la représentation nationale, madame la ministre, afin de rassurer les jeunes qui attendent aux portes du service civique, dans une incertitude à la fois inconfortable et intolérable au sein d’un pays comme le nôtre ? (Applaudissements sur plusieurs bancs des groupes Dem et EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre chargée des comptes publics."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre chargée des comptes publics",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Je vous remercie de votre question, d’abord parce que nous savons quelle est en effet l’incertitude de nombre de jeunes, parents, entrepreneurs, associations, ensuite parce que nous assistons ces derniers jours à une instrumentalisation du sujet :…"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "De la part du gouvernement !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…certains, sur ces bancs, tendant à faire croire que le problème n’est pas dû à l’absence de budget, mais à un plan dissimulé du gouvernement visant à remettre en cause l’ambition du service civique."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Je l’affirme devant vous, il n’existe aucun plan de cet ordre : le gouvernement constate comme tout le monde que le défaut de budget suscite des contraintes. Nous en sommes donc réduits à mettre en pause les nouveaux contrats, mais nous nous devons d’honorer ceux qui ont été passés et de répondre aux urgences, notamment à Mayotte. Je remercie d’ailleurs la ministre Marie Barsacq de l’attention qu’elle porte aux situations individuelles.\nLe pays tourne au ralenti,…"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "C’est vous qui l’avez mis au ralenti !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…pour que cela cesse, il nous faut nous mettre d’accord – je salue au passage l’accord en commission mixte paritaire conclu au sujet du budget de la sécurité sociale, preuve que les gens responsables, engagés, parviennent à des compromis.\nLes crédits prévus pour le service civique s’élèvent à 580 millions d’euros ; cela représente 150 000 contrats, le même nombre qu’en 2024. Je me tourne, pour le redire, vers la gauche de l’hémicycle : sans budget, le pays est à l’arrêt ! (« Eh oui ! » et applaudissements sur plusieurs bancs des groupes EPR et Dem.) Où en sont le recrutement des greffiers, la création de places dans les Ehpad, les mesures de soutien aux agriculteurs, ou aux 18 millions de Français dont les impôts risquent d’augmenter ? À l’arrêt !"
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Quel mensonge !"
+        },
+        {
+          "orateur": "M. Jean-Claude Raux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794154",
+          "texte": "C’est trop facile !"
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est vous qui êtes à l’arrêt !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Notre responsabilité collective est immense : dans un pays sans budget, les jeunes qui souhaitent s’engager au service de grandes causes restent dans l’expectative. Je le répète, nous devons remercier ceux qui, en toute responsabilité, ont élaboré un compromis ! (Applaudissements sur les bancs des groupes EPR et Dem.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618252",
+      "valeurPtsOdj": "1",
+      "titre": "Réforme des microcrèches",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Emeric Salmon."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Hier, une large mobilisation – dite crèches mortes – des professionnels de la petite enfance et des parents a conduit à la fermeture symbolique de nombreuses crèches en France, en signe de protestation contre une réforme absurde, imposée sans concertation.\nJe me suis rendu à la microcrèche Câlins Doudou de Saint-Sauveur, en Haute-Saône, dans ma circonscription, où j’ai échangé avec les professionnels et les parents, inquiets face à l’impact désastreux du projet de décret en cours d’examen au Conseil d’État.\nCe texte menace directement l’avenir de la petite enfance : 15 000 professionnels risquent d’être licenciés en raison de l’interdiction faite aux titulaires d’un CAP petite enfance d’exercer, ce qui pourrait entraîner la disparition de 80 000 places d’accueil et la fermeture de 6 500 crèches, alors même qu’il existe une grave pénurie de professionnels qualifiés…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "…et qu’il est impossible de remplacer les titulaires du CAP par des diplômés d’État d’ici à la fin de l’année 2025.\nLes professionnels sont conscients que l’encadrement des enfants doit être assuré par des personnels diplômés et ne s’opposent pas à la création de nouveaux diplômes. Toutefois, ils demandent une concertation sur le processus de déploiement de la réforme, le report de la date butoir d’application de ce décret insensé, la fixation d’un calendrier réaliste et la formation urgente des professionnels.\nAlors que les familles françaises peinent déjà à trouver des solutions de garde – c’est un euphémisme –, comment justifier, madame la ministre du travail, de la santé, des solidarités et des familles, une telle réforme, qui aggraverait encore la situation, en particulier dans les zones rurales ? Entendrez-vous enfin l’appel des professionnels et des familles et accepterez-vous de suspendre cette réforme injuste et inapplicable ? (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre du travail, de la santé, des solidarités et des familles."
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre du travail, de la santé, des solidarités et des familles",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Je vous remercie de votre question. Nous nous rejoignons sans doute sur un point : personne n’a rien de plus précieux à confier à la garde d’autrui que ses enfants. À ce titre, j’adresse aux professionnels la reconnaissance du gouvernement pour leur engagement.\nNotre objectif est très simple : nous voulons que les normes d’encadrement appliquées dans les microcrèches soient les mêmes que celles en vigueur dans les crèches de petite taille. Car c’est bien ce dont il s’agit, alors que plusieurs rapports – de l’Inspection générale des affaires sociales en 2023 et de cette même administration conjointement avec l’Inspection générale des finances en 2023-2024 – ont souligné que les conditions dérogatoires d’encadrement prévues dans les microcrèches étaient insuffisantes pour garantir une bonne qualité de l’accueil. Que diriez-vous si le gouvernement ne respectait pas, comme il se doit, les fruits de ces études ?\nIl n’est aucunement question d’abandonner les microcrèches. C’est tellement vrai, d’ailleurs, que l’État finance le complément de libre choix du mode de garde et qu’il accorde des crédits d’impôt aux entreprises qui réservent des berceaux. Nous travaillons au service des familles et des professionnels.\nEn revanche, nous souhaitons que les professionnels des microcrèches soient titulaires des mêmes formations que ceux exerçant dans les crèches de petite taille."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Je pèse donc mes mots : il n’est pas question de faire le moindre chantage ni de licencier qui que ce soit, puisque le décret ne concernera que les recrutements à partir du 1er janvier 2026, date d’application de la réforme. J’ai lu, comme vous, la lettre-circulaire qui a été diffusée et j’ai pris la peine de saisir les associations d’élus pour les rassurer : la réforme concerne bien, j’y insiste, les personnels à recruter à partir du 1er janvier 2026. (Applaudissements sur quelques bancs du groupe Dem. – Mme Céline Hervieu applaudit aussi.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Emeric Salmon."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "J’entends votre réponse. Les professionnels, dont l’inquiétude est grande, resteront attentifs à l’application de la réforme et j’espère qu’ils seront très rapidement rassurés. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Avec plaisir !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618272",
+      "valeurPtsOdj": "1",
+      "titre": "Situation des Kurdes en Syrie",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme Danielle Simonnet."
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Dans le cimetière des martyrs de Kobané tués par Daech, puis par la Turquie ou par les milices financées par cette dernière, Maya et Beritan m’ont montré la tombe de leur amie, tuée au barrage de Tichrine, la semaine dernière. Bachar al-Assad est tombé mais la guerre continue.\nAvec une délégation du Nouveau Front populaire, nous nous sommes rendus à Kobané, à l’occasion des dix ans de la libération de la ville. La communauté internationale tout entière saluait alors le courage des Kurdes qui avaient vaincu Daech. Nous voulons briser le silence de cette même communauté internationale, alors que des milices islamistes payées par la Turquie attaquent le barrage de Tichrine défendu par les forces armées et les populations civiles – en particulier des femmes. La Turquie d’Erdo?an doit cesser ces offensives qui sont contraires au droit international et remettent en cause les frontières de la Syrie. Il faut exiger une no-fly zone, un cessez-le-feu et des sanctions.\nLes dirigeants que nous avons rencontrés considèrent que la France est l’un des pays qui les a le mieux soutenus, mais ils craignent désormais d’être abandonnés.\nDans le même temps, le nouveau gouvernement syrien demande aux groupes armés – YPG, YPJ et FDS – de rendre les armes, alors même qu’ils font face aux attaques turques. De plus, les déclarations de ce même gouvernement, qui considère que les femmes n’ont pas à faire partie de l’armée et doivent rester à la maison, font craindre de terribles reculs pour les droits des femmes.\nLe président de la République française a annoncé la tenue d’une conférence sur la Syrie le 13 février. L’administration autonome du Nord-Est de la Syrie sera-t-elle bien conviée ? La France soutiendra-t-elle, sans ingérence, leurs revendications pour une Syrie unifiée, indépendante de la Turquie, qui respecte l’autonomie de chaque région, en particulier du Rojava ? Son contrat social, basé sur la participation démocratique de toutes les communautés – kurdes, arabes, syriaques –, l’égalité entre les hommes et les femmes et leur implication démocratique dans toutes les sphères de la société et de l’armée, est une chance pour toute la Syrie, pour un processus constituant à construire.\nNous avons tant à apprendre de leur construction politique, démocratique et féministe ! N’oublions pas leur slogan : « Jin, Jiyan, Azadî » – Femme, vie, liberté. (Applaudissements sur les bancs du groupe EcoS, ainsi que sur plusieurs bancs des groupes LFI-NFP, SOC et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre de l’Europe et des affaires étrangères."
+        },
+        {
+          "orateur": "M. Jean-Noël Barrot",
+          "fonction": "ministre de l’Europe et des affaires étrangères",
+          "role": null,
+          "idActeur": "PA721836",
+          "texte": "Je vous remercie d’avoir rendu hommage aux Kurdes. Ce sont des alliés fidèles, des frères d’armes, et nous ne les abandonnerons pas. (Applaudissements sur quelques bancs des groupes SOC, EcoS et Dem. – M. Stéphane Peu applaudit aussi.)\nVotre question me donne l’occasion de rappeler à quel point ce qui s’est joué en Syrie ces treize dernières années a eu des retombées très directes sur le quotidien de nos compatriotes. En effet, la répression sanglante organisée par Bachar al-Assad contre son propre peuple a eu comme conséquence la résurgence du risque terroriste islamiste de Daech, que nous avons combattu inlassablement aux côtés de nos alliés kurdes.\nAlors que depuis le 8 décembre un nouvel espoir renaît en Syrie, il va de soi que les Kurdes doivent pouvoir participer pleinement à la réappropriation de leur nation et à la citoyenneté nouvelle qui s’imposera dans ce pays. (M. Olivier Faure applaudit.)\nC’est pourquoi, dès les premières heures, nous avons appelé les autorités turques, ainsi que les nouvelles autorités de transition à Damas, à un cessez-le-feu à Kobané, pour éviter que les Kurdes ne soient soumis à une pression insoutenable, en plus du chaos qui risquait inévitablement de surgir après la chute du régime de Bachar al-Assad. Rappelons que dans le Nord-Est du pays, ce sont les Kurdes qui, en plus de combattre Daech, ont gardé courageusement les prisons dans lesquelles sont détenus actuellement plusieurs dizaines de milliers de combattants terroristes, ainsi que leurs familles.\nC’est aussi pourquoi nous avons facilité la médiation entre le général Mazloum – avec qui j’ai échangé avant même de me rendre à Damas – et la Turquie, ainsi qu’avec l’autorité de transition. Plus récemment, nous avons également facilité la médiation entre les Kurdes de Syrie et les Kurdes d’Irak, afin qu’ils se renforcent mutuellement.\nEnfin, je vous confirme que les Kurdes seront bien présents à la conférence organisée le 13 février à Paris, qui vise à faire entendre nos exigences pour cette transition. (Applaudissements sur plusieurs bancs des groupes SOC, EcoS, Dem et GDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618287",
+      "valeurPtsOdj": "1",
+      "titre": "Relations entre la France et l’Algérie",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Olivier Fayssat."
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "Depuis des mois, l’Algérie crache sur la France. Après avoir enfermé Boualem Sansal, après avoir engagé des influenceurs pour semer le chaos, après avoir renvoyé ces agents de haine à la France après leur expulsion, l’État voyou algérien a de nouveau, ces dernières heures, renvoyé un Algérien sous obligation de quitter le territoire français, que la France avait expulsé.\nLa dictature algérienne et son président insultent désormais les responsables politiques Éric Ciotti, Marine Le Pen et Jordan Bardella. Combien de temps cette humiliation durera-t-elle, monsieur le ministre des affaires étrangères ? Ces personnalités reçoivent quotidiennement des menaces – notamment de mort – de la part des réseaux algériens. Chaque semaine nous vous interrogeons sur les mesures prises contre la voyoucratie algérienne. La France doit prendre son indépendance du diktat moral de l’Algérie ! Le ministre de l’intérieur lui-même est menacé par le dictateur algérien ! Combien de temps baisserez-vous, baisserons-nous, la tête ? Jusqu’où accepterez-vous l’ingérence d’une dictature qui oublie ce qu’elle doit à la France : réseau routier, irrigation, voies ferrées, ponts, écoles, hôpitaux et ports marchands ? (Applaudissements sur les bancs des groupes UDR et RN. – Exclamations sur plusieurs bancs du groupe LFI-NFP.)\nLa France est-elle endettée envers l’Algérie au point de devoir s’offrir comme un buffet à volonté, dans lequel un État qui n’a que mépris pour notre pays peut se servir ou cracher comme bon lui semble ? (Nouvelles exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "texte": "Quelle provocation !"
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "Le divorce est consommé depuis plus de soixante ans."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "texte": "Et l’amitié entre les peuples ?"
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "Mettons fin à la pension mémorielle des accords de 1968. Nous vous le demandons encore une fois : sortirez-vous de l’accord de 1968 ? Augmenterez-vous les droits de douane ? (M. Carlos Martens Bilongo s’exclame.) Révoquerez-vous les visas des officiels algériens notamment ? Mettrez-vous un frein à l’aide au développement ? Boualem Sansal est toujours prisonnier. L’Algérie continue chaque jour d’insulter la France ! Les ministères de la parole ne suffisent plus. Agissez ! Demain, les fatwas remplaceront les influenceurs et il sera trop tard ! (Applaudissements sur les bancs des groupes UDR et RN. – Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. le ministre de l’Europe et des affaires étrangères."
+        },
+        {
+          "orateur": "M. Jean-Noël Barrot",
+          "fonction": "ministre de l’Europe et des affaires étrangères",
+          "role": null,
+          "idActeur": "PA721836",
+          "texte": "Les menaces de mort sont inacceptables, d’où qu’elles viennent et quelle que soit la personne visée. Nous les condamnons avec la plus grande fermeté. (Applaudissements sur quelques bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. Emmanuel Mandon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794114",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Jean-Noël Barrot",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721836",
+          "texte": "Nous abordons la relation entre la France et l’Algérie, comme avec tous les autres pays, avec lucidité et sans aucune naïveté. Notre seule boussole est l’intérêt des Français. Or quel est-il ? C’est d’abord la maîtrise des flux migratoires et la réadmission des étrangers en situation irrégulière. (Rires sur plusieurs bancs des groupes RN et UDR.) C’est, ensuite, la coopération économique entre les entreprises françaises et algériennes. C’est également la coopération en matière de sécurité et de renseignement – car oui, nous avons besoin que nos services communiquent les uns avec les autres."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est essentiel !"
+        },
+        {
+          "orateur": "M. Jean-Noël Barrot",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721836",
+          "texte": "C’est donc en tenant compte de ces exigences et de ces conditions que nous avons négocié, pied à pied, la déclaration d’Alger de 2022, qui fixe les termes de notre partenariat avec l’Algérie."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "La situation a beaucoup évolué depuis 2022 !"
+        },
+        {
+          "orateur": "M. Jean-Noël Barrot",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721836",
+          "texte": "Toutefois, pour coopérer, il faut être deux. Les déclarations que vous avez rappelées, la détention sans fondement de notre compatriote Boualem Sansal ou encore le refus de réintégrer des Algériens expulsés par la France ne sont clairement pas acceptables et contraires à l’esprit de la déclaration de 2022. (« Et alors ? Que fait-on ? » sur plusieurs bancs du groupe RN.) Alors oui, nous sommes prêts à prendre des mesures fortes, il n’y a aucune difficulté ! (« Ah ! » sur de nombreux bancs des groupes RN et UDR.) Nous sommes prêts. Cependant, il faut que ce dialogue réponde à nos exigences."
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Ils dialoguent en nous insultant !"
+        },
+        {
+          "orateur": "M. Jean-Noël Barrot",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721836",
+          "texte": "J’ai lu, dans l’entretien du président Tebboune, qu’il y était prêt également. (Exclamations sur plusieurs bancs des groupes RN et UDR.) Si c’est bien le cas, nous le ferons, avec comme seule boussole l’intérêt des Français. (Applaudissements sur quelques bancs des groupes EPR et Dem. – Exclamations sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Olivier Fayssat."
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "J’en déduis que les accords de 1968 ne seront pas dénoncés. (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Et c’est une bonne chose !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618307",
+      "valeurPtsOdj": "1",
+      "titre": "Budget de la France",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à M. Aurélien Le Coq."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Ces dernières heures, macronistes et socialistes répètent en cadence qu’il faut un budget à la France, en essayant de répandre la panique dans le pays. Pourquoi de tels mensonges ? La France a déjà un budget ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP. – Exclamations sur quelques bancs du groupe EPR.) Oui, la France a un budget. Depuis l’adoption de la loi spéciale, c’est le budget de l’année 2024 qui s’applique et la totalité de ses crédits peut être utilisée dès maintenant ! (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "La loi spéciale n’est pas un budget ! Tu n’as rien compris !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Pourquoi une telle manipulation ? Ne serait-ce pas plutôt pour éviter la censure à tout prix, garder vos places et poursuivre votre politique au service des plus riches ?"
+        },
+        {
+          "orateur": "M. Nicolas Forissier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1327",
+          "texte": "On a trouvé un expert !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Mais il y a pire que vos mensonges ! Vous organisez un véritable sabotage de l’appareil d’État ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Vous avez décidé de mettre l’État au chômage technique afin d’exercer votre odieux chantage !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "N’importe quoi !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "En effet, comment votre manœuvre fonctionne-t-elle ? Vous paralysez l’État, en empêchant les fonctionnaires d’utiliser l’argent qui est disponible depuis le vote de l’Assemblée nationale ! Vous imposez, depuis le 1er janvier, un budget d’austérité qui n’a pas été voté ! Il s’agit d’un nouveau coup de force démocratique, d’un nouvel abus de pouvoir ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "C’est d’une nullité ! On peut s’opposer sans dire n’importe quoi !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est caricatural !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Et qui en paie le prix ? Les Français ! Vous sacrifiez les services civiques, grâce à une circulaire qui empêche la signature de tout nouveau contrat, alors que les crédits existent !"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Vous sacrifiez les lycées, en empêchant les proviseurs d’accéder au pass culture, alors que les crédits existent ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Il en va de même pour les collectivités locales qui attendent leurs dotations, pour les associations qui attendent leurs subventions, ou encore pour les universités qui attendent de connaître leur budget. Pourtant, les crédits existent pour tout cela ! Vous organisez sciemment le chaos : c’est vous qui désorganisez l’État et non pas la censure ! (Mêmes mouvements.)\nLe budget qui s’applique actuellement est meilleur que le projet de loi de finances proposé par M. Bayrou ! Si la censure était adoptée, reconnaissez, madame la ministre chargée des comptes publics, que 9 milliards d’euros supplémentaires seraient disponibles pour les services publics ! (Les députés du groupe LFI-NFP se lèvent et applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "La parole est à Mme la ministre chargée des comptes publics."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre chargée des comptes publics",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Dans quel monde vivez-vous, monsieur le député ? (Protestations sur les bancs du groupe LFI-NFP. – Applaudissements sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "M. Le Coq habite à Villeneuve-Saint-Georges !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Dans quel monde vivent M. Coquerel, qui qualifie le compromis que nous mettons sur la table de « chantage », et M. Mélenchon, qui considère les auteurs de ce compromis comme des coupables ? (Exclamations continues sur les bancs du groupe LFI-NFP.) Nous ne vivons pas dans le même ! Vous vivez dans un monde enchanté, un monde d’enfumage où l’on peut faire croire aux Français qu’un pays comme le nôtre peut vivre sans budget.\nJe veux souligner que la loi spéciale n’est pas un budget mais un régime de service minimum – je parle sous l’autorité du premier ministre (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Revoyez vos dossiers !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Dans le pays qui est le nôtre, les patrons de PME ne savent pas où ils vont (Applaudissements sur quelques bancs des groupes EPR et Dem. – Exclamations sur les bancs du groupe LFI-NFP), les agriculteurs ignorent quel soutien leur sera apporté et 18 millions de Français verraient leurs impôts augmenter en l’absence de budget."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Mais il y a un budget !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Dans le monde où vous vivez, bloquer le pays ne serait qu’une péripétie politique. Dans le monde où nous vivons, bloquer le pays est un acte irresponsable :…"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "C’est vous qui bloquez le pays avec vos circulaires scandaleuses ! Retirez-les !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…c’est faire croire aux Français que nous pouvons agir sans cadre. D’après la Constitution, la loi spéciale est un cadre minimum, qui n’autorise ni les nouvelles subventions,…"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…ni les nouveaux investissements."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Ce n’est marqué nulle part ! Vous inventez !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Avec la loi spéciale, les engagements des lois de programmation des ministères de la défense, de l’intérieur et de la justice ne peuvent être tenus ! (Approbation sur les bancs du groupe EPR. – Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Un député du groupe DR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est la vérité !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Les Français veulent vivre dans un pays où nous pouvons nous opposer les uns aux autres sans tout bloquer (Exclamations sur les bancs du groupe LFI-NFP) et où on leur donne de la prévisibilité pour s’engager."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721908",
+          "texte": "Merci, madame la ministre !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Nous ne vivons pas dans le même monde, monsieur le député. Une chose est sûre : pour ce qui nous concerne, le monde dans lequel nous voulons vivre est celui du compromis responsable. (Applaudissements sur les bancs des groupes EPR, DR et Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721908",
+          "texte": "Nous avons terminé les questions au gouvernement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à seize heures quinze, est reprise à seize heures trente, sous la présidence de M. Roland Lescure.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618044",
+      "valeurPtsOdj": "2",
+      "titre": "Commission mixte paritaire",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, de la proposition de loi visant à interdire les dispositifs électroniques de vapotage à usage unique (no 849).\nQu’il soit unique ou non, je rappelle que leur usage est proscrit dans l’enceinte de l’Assemblée nationale ! (Sourires.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618046",
+      "valeurPtsOdj": "2",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Michel Lauzzana, rapporteur de la commission mixte paritaire."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": "rapporteur de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Enfin, nous y voilà ! L’interdiction des cigarettes électroniques jetables, dites puffs, va devenir une réalité en France. Tel est l’objet de la proposition de loi que je vous invite à adopter définitivement aujourd’hui. Enfin, car ces produits ont envahi le marché français, en particulier nos écoles et nos collèges, alors que leurs dangers sont multiples, d’abord sanitaires : ces dispositifs contiennent le plus souvent de la nicotine, substance aux effets psychotropes et hautement addictifs. Ils constituent aussi un danger pour notre jeunesse : l’Académie nationale de médecine qualifie les puffs de « piège sournois pour les enfants et les adolescents », piège dissimulé par leur goût acidulé, leur packaging coloré et leur promotion ludique sur les réseaux sociaux. Enfin, les puffs représentent un danger environnemental car elles sont composées de plastique et de piles au lithium. Au Royaume-Uni, plus de 1,3 million de puffs sont jetées chaque semaine. Ces produits constituent donc un triple fléau : sanitaire, social et environnemental.\nJ’ai mené le combat en faveur de leur interdiction avec Francesca Pasquini, ancienne députée écologiste, que je tiens à remercier pour son engagement et son travail. Ce texte est un exemple de dépassement politique au service de la santé de notre jeunesse et j’en suis fier. Je remercie les présidents de nos deux groupes parlementaires qui ont travaillé en bonne intelligence.\nLa procédure a été longue et sinueuse. Après une adoption à l’unanimité à l’Assemblée nationale et au Sénat, puis une première commission mixte paritaire (CMP) conclusive en mars 2024, il nous a fallu observer un délai de six mois pour que la Commission européenne valide cette interdiction, conformément aux directives de 2014 sur les produits du tabac et produits connexes, et de 2015 sur la réglementation de la commercialisation. La Commission européenne a approuvé notre texte en y intégrant des limites : l’interdiction ne s’applique ni aux puffs fabriquées en France et destinées aux marchés étrangers, ni aux cigarettes électroniques rechargeables avec une batterie non remplaçable, non commercialisées en France aujourd’hui.\nNous avons tiré les conséquences de cette décision lors d’une seconde CMP, qui s’est tenue le 23 janvier dernier au Sénat et qui fut également l’occasion d’adopter une mesure de coordination relative aux compétences des agents de la concurrence, de la consommation et de la répression des fraudes. Je remercie à ce titre le sénateur et rapporteur Khalifé Khalifé, ainsi que tous nos collègues du Parlement qui ont permis d’aboutir à un texte conclusif.\nIl était temps d’aboutir, car les stratégies commerciales des industries du tabac sont bien moins lentes à se développer que le temps législatif. Pendant que nous légiférions, de nouveaux produits ont émergé. Je pense notamment aux sachets de nicotine – je vous remercie, monsieur le ministre chargé de la santé et de l’accès aux soins, d’avoir annoncé leur interdiction prochaine à la suite de notre interpellation. Notre approche transpartisane doit se poursuivre avec de nouvelles mesures fortes pour protéger la santé de nos jeunes. Je pense, par exemple, à la nécessité de prévoir une autorisation préalable à toute mise sur le marché de produits nicotiniques, à la généralisation du paquet neutre à tous les produits du tabac et du vapotage, ou encore au renforcement des contrôles sur la vente aux mineurs.\nToutes ces mesures, dont certaines sont inscrites dans le programme national de lutte contre le tabac 2023-2027 – présenté par notre ancien ministre et désormais collègue Aurélien Rousseau –, doivent être débattues et appliquées. Elles répondent à notre engagement collectif de créer une génération sans tabac d’ici à 2032. Ainsi, en cette Journée mondiale contre le cancer – cause qui me tient particulièrement à cœur –, je vous invite à envoyer un signal fort à l’industrie du tabac et à conclure ce beau travail transpartisan : votons, à l’unanimité, pour l’interdiction des puffs. (Applaudissements sur les bancs des groupes EPR, SOC, Dem, HOR et LIOT.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. le ministre chargé de la santé et de l’accès aux soins."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre chargé de la santé et de l’accès aux soins",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je suis très heureux de vous retrouver aujourd’hui pour la lecture des conclusions de la commission mixte paritaire, qui marque la dernière étape de la navette de ce texte visant à interdire les cigarettes électroniques jetables ou à usage unique, plus connues sous le nom de puffs. L’aboutissement de cette proposition de loi fait honneur au travail parlementaire et révèle ce qu’il a de meilleur. Je commencerai donc par saluer l’esprit transpartisan qui nous a conduits jusqu’ici et qui a également prévalu au Sénat, permettant, en mars 2024, l’adoption unanime de ce texte cosigné par 166 députés appartenant à huit groupes parlementaires différents.\nJe salue bien évidemment Michel Lauzzana et notre ancienne collègue Francesca Pasquini – peut-être présente dans les tribunes –, tous deux à l’origine de la proposition de loi, mais je pense aussi à l’ensemble des députés qui se sont investis dans ce combat et que je ne pourrai pas tous citer – parmi bien d’autres, ce sont Stéphane Viry, Karl Olive, Paul Christophe et Arthur Delaporte. Je rends aussi hommage à mes prédécesseurs, François Braun, Aurélien Rousseau – à l’initiative du texte – et Geneviève Darrieussecq, qui ont toujours soutenu cette mesure. C’est bien la preuve que, lorsqu’il s’agit de légiférer sur des produits ou des comportements qui nuisent à notre jeunesse, à notre santé ou à notre environnement, nous savons nous retrouver au-delà des clivages politiques, pour avancer ensemble.\nCette mobilisation collective n’a pas fléchi durant un processus législatif qui aura duré, en tout, plus de deux ans. C’est long, je le concède, mais il fallait notamment passer par l’étape de la notification à la Commission européenne et recueillir son feu vert pour assurer la sécurité juridique et l’applicabilité du texte. C’est chose faite depuis le 25 septembre dernier et nous voyons désormais le bout du chemin. La loi sera promulguée quelques semaines après son passage au Sénat, le 12 février prochain. Quand il y a de belles victoires, il faut s’en réjouir, et nous pouvons nous féliciter de cette mesure importante.\nElle est importante, en premier lieu, car elle constitue une étape supplémentaire vers l’émergence d’une génération débarrassée du tabac, soit un objectif central du programme national de lutte contre le tabac promu par mon ministère. En cette Journée mondiale de lutte contre le cancer, j’ai eu le plaisir de coprésider ce matin le comité national de suivi de la stratégie décennale de lutte contre le cancer, avec mon collègue ministre chargé de l’enseignement supérieur et de la recherche. Nous y avons réaffirmé l’engagement du gouvernement.\nIl s’agit bien de lutter contre les addictions et le tabagisme, et surtout de diminuer le chiffre terrible des 200 morts par jour causés par le tabac. Il y a encore assez peu de temps, ce combat ciblait exclusivement ou presque la cigarette. Des années de politiques publiques volontaristes ont porté leurs fruits, puisque l’usage du tabac est aujourd’hui en nette baisse chez les jeunes – le ministre chargé de l’enseignement supérieur et de la recherche souhaite d’ailleurs poursuivre la politique du campus sans tabac. C’est une tendance positive et réjouissante, mais les usages évoluent et les pratiques et les produits se sont multipliés, au premier rang desquels la puff.\nBon marché, accessible et prête à consommer, elle cible les jeunes à grand renfort de marketing, notamment sur les réseaux sociaux. Elle attire l’œil avec ses emballages colorés et ses couleurs vives. Ses arômes sucrés aux connotations ludiques sont sans équivoque quant à la population cible. Dans le haut du classement des goûts de puff que l’on peut consulter sur internet, on trouve ice tea fresh, crème glacée fraise, cola, sans oublier les incontournables bubble-gum et barbapapa. Comme l’a rappelé l’Académie nationale de médecine, il s’agit là d’un « piège particulièrement sournois pour les enfants et les adolescents ».\nSuivant une évolution contraire à celle de la cigarette, la puff a très vite gagné une popularité inquiétante jusque chez les très jeunes, malgré son interdiction aux mineurs. Chez les 13-16 ans, 15 % l’avaient déjà essayée en 2023, selon la deuxième édition de l’étude de l’Alliance contre le tabac (ACT) consacrée à ce sujet – un chiffre en augmentation, puisqu’ils n’étaient que 10 % l’année précédente. La puff n’est pourtant ni un moindre mal, ni un outil de sevrage. Son taux de nicotine pouvant s’élever jusqu’à 20 milligrammes par millilitre ouvre la voie à une forte dépendance. C’est d’ailleurs ce qu’a souligné le Haut Conseil de la santé publique (HCSP) dans un avis relatif aux cigarettes électroniques publié en 2021. Elle crée également une accoutumance au geste de fumer. La même étude de l’ACT pointe que parmi les adolescents l’ayant expérimentée, près de la moitié – 47 % – ont commencé leur initiation à la nicotine avec ce dispositif.\nTous ces éléments contribuent à faire de la puff une passerelle facilitée vers le tabagisme. Certains pays nous ont précédés pour l’interdire. Je suis heureux que nous rejoignions désormais prochainement nos voisins belges. De l’autre côté du globe, la Nouvelle-Zélande a aussi franchi le pas et l’Allemagne, le Royaume-Uni ou encore l’Irlande s’acheminent vers sa proscription.\nAu-delà de l’aspect sanitaire, la cigarette électronique jetable est un véritable fléau environnemental, en parfaite contradiction avec l’esprit de la loi antigaspillage du 10 février 2020 et de toutes les initiatives pour en finir avec la surconsommation de matières premières et l’usage unique. Constituées de plastique, d’une batterie au lithium et de sels de nicotine contenant des traces métaux lourds, les puffs constituent un nouveau déchet extrêmement complexe, mal collecté et difficilement recyclable. Ses composants peuvent polluer les sols et les eaux jusqu’aux nappes phréatiques, et représentent aussi un risque pour la biodiversité. En bref, il s’agit de véritables petites bombes environnementales.\nC’est sur ce double fondement que les e-cigarettes à usage unique ont déjà été interdites dans un territoire de la République, la Nouvelle-Calédonie, depuis avril 2022, et c’est pour l’ensemble de ces raisons que le gouvernement a toujours soutenu et continue de soutenir avec conviction l’interdiction de ces produits. Je serai personnellement attentif à ce que cette interdiction soit scrupuleusement respectée et que la contrebande éventuelle soit sanctionnée.\nJe me réjouis de cette première étape importante qui doit nous enthousiasmer quant à notre capacité collective à progresser efficacement, sans pour autant diminuer notre vigilance. Les industriels et les fabricants redoublent d’inventivité et d’imagination pour proposer toujours plus de nouveaux produits, à un rythme soutenu : nous ne devons pas nous laisser doubler. En tant que ministre et en tant que médecin, je crois au principe de précaution face à cette valse de dispositifs novateurs, parce que je refuse de prendre le moindre risque, même potentiel, pour la santé de la population et de notre jeunesse.\nC’est pourquoi je veux continuer d’avancer avec vous, notamment au sujet des sachets de nicotine ou du protoxyde d’azote, dont votre assemblée a récemment voté l’interdiction de la vente aux particuliers. C’est à nous, gouvernement, et à vous, parlementaires, de garder une longueur d’avance. Je sais que je peux compter sur vous, avec l’appui essentiel des associations, véritables vigies, souvent les premières à nous alerter face à des phénomènes émergents. (Applaudissements sur les bancs des groupes EPR, SOC, DR, EcoS, Dem et HOR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618068",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "Dans la discussion générale, la parole est à M. Cyrille Isaac-Sibille."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "En 1945, nos prédécesseurs ont fait une promesse à nos concitoyens : « Quels que soient vos comportements de santé, nous vous soignerons. » Cet engagement a fondé notre système de protection sociale. Aujourd’hui, notre responsabilité ne se limite plus au soin. Notre devoir est également de permettre à chacun, notamment aux jeunes, de vivre longtemps en bonne santé. Cela implique de donner à nos concitoyens les clés pour adopter des comportements favorables à la santé afin de prévenir les maladies évitables."
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "C’est dans cette logique que nous avons progressivement renforcé la prévention en matière de santé, s’agissant notamment des produits sources d’addiction : durcissement de la taxe soda afin que les industriels sucrent moins leurs produits ; vote récent de l’interdiction de la vente des capsules de protoxyde d’azote aux particuliers ; réglementation future pour les sachets de nicotine ; encadrement futur – je l’espère – de la publicité de l’alcool par les influenceurs. Petit à petit, nous avançons.\nIl nous faut désormais donner à nos concitoyens une vision d’ensemble et privilégier une approche globale en matière de prévention – éducation, santé, urbanisme, alimentation, sport – pour créer des environnements favorables à la santé. Aujourd’hui, nous renforçons cette dynamique en interdisant les cigarettes électroniques à usage unique, ces fameuses puffs que l’on retrouve partout, en particulier dans les mains des adolescents. C’est un pas dans la bonne direction. Certains prétendent que ces dispositifs favoriseraient le sevrage tabagique et qu’ils seraient un moyen de réduire la consommation de cigarettes classiques, aux côtés des alternatives rechargeables. Cet argument est largement relayé par l’industrie du tabac. Mais la réalité est tout autre."
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Loin d’aider les fumeurs à arrêter, les puffs créent une nouvelle génération d’addicts à la nicotine. Il suffit d’observer ce qui se passe dans les lycées et collèges : 15 % des adolescents ont déjà utilisé une puff, et parmi eux, 47 % ont été initiés à la nicotine par ces cigarettes électroniques jetables. On ne parle plus de sevrage, mais d’initiation ! Que dire de la puff 9k, qui contient l’équivalent de dix-huit paquets de cigarettes ? C’est une porte d’entrée vers la dépendance, dès le plus jeune âge. Le succès de ce produit ne doit rien au hasard. Tout est conçu pour séduire les jeunes : un marketing agressif, des packagings colorés et des arômes sucrés.\nNous ne le répéterons jamais assez, un cancer sur trois est lié au tabagisme. Derrière ces chiffres, il y a des vies, des familles touchées.\nAu-delà de l’enjeu sanitaire, il y a la question écologique. Ces produits, à usage unique et non biodégradables, contiennent des substances toxiques pour la santé et pour l’environnement. Les batteries au lithium et les conducteurs en cuivre devraient passer par une filière de traitement spécifique, mais, faute de collecte adaptée, finissent bien souvent dans la nature ou dans les déchets ménagers.\nC’est pourquoi cette proposition de loi est nécessaire. Je tiens à saluer le travail transpartisan qui a permis d’aboutir à ce texte. Dans cette période politique souvent marquée par les divisions, lorsque l’intérêt général est en jeu, nous savons nous rassembler.\nNéanmoins, combien de fois notre assemblée se réunira-t-elle pour interdire le dernier produit à la mode mis sur le marché ? Après les puffs, quel sera le prochain produit destiné à attirer les jeunes vers l’addiction ? Il est grand temps que nous changions de logique. Au lieu de courir derrière les nouveaux produits nocifs, il faut poser enfin un cadre solide, fondé sur un système d’autorisation stricte dans lequel seuls les produits ayant prouvé leur utilité seraient mis sur le marché. C’est cette réflexion que nous devons mener, car l’interdiction des puffs, même s’il s’agit d’une victoire, ne suffira pas.\nLe groupe Les Démocrates votera résolument pour cette interdiction, mais appelle à un véritable changement de paradigme. Il est temps de reprendre la main sur la régulation des produits du tabac et de la nicotine. Plutôt que de réagir à chaque nouveau produit, il est temps d’instaurer un cadre durable pour protéger nos concitoyens, surtout les plus jeunes. (Applaudissements sur plusieurs bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. François Gernigon."
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Nous examinons un texte attendu, un texte de santé publique et de responsabilité environnementale. Cette proposition de loi vise à interdire les dispositifs de vapotage à usage unique, plus connus sous le nom de puffs. Leur interdiction est justifiée par la nécessité sanitaire, l’exigence écologique et notre responsabilité vis-à-vis de la jeunesse.\nNous ne parlons pas ici de la cigarette électronique dans son ensemble, mais bien de ces dispositifs à usage unique, spécifiquement conçus pour attirer les plus jeunes. Leur marketing est explicite : arômes sucrés, couleurs vives, présence massive sur les réseaux sociaux. Ce n’est pas un hasard si, en 2022, 13 % des adolescents de 13 à 16 ans avaient déjà essayé ces puffs et si, dans près d’un tiers des cas, il s’agissait de leur première exposition à la nicotine. Sachant que la dépendance à la nicotine s’installe rapidement et qu’elle est particulièrement forte chez les plus jeunes, nous ne pouvons pas ignorer ce phénomène.\nSur le plan environnemental, ces dispositifs représentent également une aberration. Chaque année, nous adoptons des mesures pour réduire la production de déchets et mieux gérer nos ressources. Pourtant, ces cigarettes électroniques sont conçues pour être jetées après usage, alors même qu’elles contiennent une batterie au lithium, qui, par nature, devrait être rechargeable. Des millions de ces produits finissent ainsi dans la nature, générant une pollution supplémentaire que nous devons limiter.\nCette interdiction aurait dû être mise en œuvre plus tôt : son examen a été retardé par la dissolution puis par la censure du gouvernement Barnier. Pendant ce temps, la consommation s’est poursuivie et les impacts sur la jeunesse et sur l’environnement se sont amplifiés. D’autres pays ont déjà pris des mesures en ce sens ; la France ne peut rester en retrait. Nous devons répondre à l’inquiétude des parents, aux alertes des professionnels de santé et aux signalements des personnels éducatifs, qui constatent la banalisation de ces produits. L’interdiction des puffs ne réglera pas à elle seule le problème du tabagisme et de l’addiction à la nicotine, mais c’est une étape nécessaire. C’est pourquoi le groupe Horizons & indépendants votera en faveur de ce texte. (Applaudissements sur les bancs du groupe HOR et sur plusieurs bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Stéphane Viry."
+        },
+        {
+          "orateur": "M. Stéphane Viry",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721474",
+          "texte": "Nous sommes appelés à nous prononcer sur les conclusions de la commission mixte paritaire au sujet d’une proposition de loi essentielle à la protection de la santé publique et de l’environnement : l’interdiction des dispositifs électroniques de vapotage à usage unique, communément appelés puffs. Cette mesure vise un double objectif, sanitaire et écologique, et s’inscrit pleinement dans nos engagements en matière de lutte contre le tabagisme.\nSoyons clairs, ces gadgets n’ont rien d’inoffensif. Ils ne sont ni un outil de sevrage tabagique ni une alternative crédible à la cigarette. Ce sont des pièges à addiction, des bonbons à la nicotine destinés à séduire les jeunes. Les chiffres sont édifiants : en 2022, 13 % des adolescents de 13 à 16 ans avaient déjà consommé de tels produits et dans 28 % des cas, il s’agissait de leur première exposition à la nicotine. Le marketing agressif, les saveurs sucrées et l’apparente innocuité de ces produits en font une porte d’entrée dangereuse vers la dépendance. L’industrie du tabac a changé de visage, mais son objectif reste le même : créer une nouvelle génération de dépendants. Il est de notre responsabilité d’employer notre pouvoir de législateur pour mettre un terme à ce projet.\nL’impact environnemental de ces dispositifs est tout aussi préoccupant. Produits jetables par essence, ils génèrent des déchets plastiques et électroniques non recyclables, contenant du lithium et d’autres substances polluantes. Chaque puff abandonnée est une source de pollution supplémentaire, à rebours de nos engagements en matière de protection de la biodiversité et de réduction des déchets toxiques.\nLe parcours du texte a débuté à l’Assemblée nationale en 2023 ; il avait alors été adopté. Nous arrivons désormais au terme de la navette parlementaire, qui a permis d’enrichir le texte et d’anticiper l’évolution rapide du marché du vapotage. Toutefois, nous devons dire franchement les choses : l’Europe nous freine. La décision de la Commission européenne de limiter l’interdiction au seul marché français est un non-sens. Nous ne devons pas nous laisser dicter notre politique de santé publique par l’Union européenne. Cette contrainte doit nous inciter à poursuivre notre engagement au niveau européen, notamment dans le cadre de la révision, ouverte en février 2023, de la directive de 2014 sur les produits du tabac.\nL’adoption de ce nouveau texte complétera l’arsenal législatif visant à protéger les jeunes des addictions. La proposition de loi procède du même esprit que celle, votée la semaine dernière, visant à restreindre la vente de protoxyde d’azote aux professionnels et à renforcer les actions de prévention des consommations détournées. Face à la multiplication des addictions auxquelles notre jeunesse est confrontée, nous devons nous montrer à la hauteur en renforçant notre arsenal législatif.\nPar ailleurs, nous avons entendu les préoccupations des buralistes et tenons à les rassurer : cette interdiction ne vise pas à les fragiliser. Au contraire, il s’agit de préserver un commerce responsable et de lutter contre des pratiques qui échappent aux contrôles et aux réglementations strictes en matière de distribution de nicotine.\nAdopter cette proposition de loi, c’est choisir la santé contre le cynisme industriel, la protection de notre jeunesse contre l’inaction, l’écologie contre le laisser-faire. C’est pourquoi le groupe Libertés, indépendants, outre-mer et territoires votera sans hésitation le texte. (Applaudissements sur les bancs du groupe LIOT et sur plusieurs bancs des groupes EPR et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Depuis leur apparition en France en 2021, les dispositifs électroniques de vapotage à usage unique, appelés couramment puffs, ont maintes fois suscité la réprobation de l’Observatoire français des drogues et des tendances addictives (OFDT), du Comité national contre le tabagisme (CNCT), de l’Alliance contre le tabac ou encore de l’Académie nationale de médecine. Une tribune signée par une vingtaine de médecins, tabacologues et militants écologistes, parue dans Le Monde le 30 avril 2023, dénonçait ainsi le « fléau environnemental et sanitaire » que représentent ces cigarettes électroniques à usage unique.\nSpécifiquement élaborées pour être attirantes pour les adolescents, avec un emballage attractif, des saveurs sucrées et fruitées et un prix relativement faible, disponibles chez les buralistes mais également en grande distribution et sur internet, les puffs ont rapidement séduit un public jeune et insuffisamment conscient de leurs effets de dépendance tant à la nicotine qu’à la gestuelle du fumeur. Il a ainsi été démontré que les puffs constituent une porte d’entrée vers le vapotage durable et le tabac.\nDu point de vue environnemental, la situation n’est pas meilleure : plastique, lithium, métaux lourds... Les composants non biodégradables et non recyclables des vapoteuses jetables ont un effet négatif certain sur l’environnement. Ils polluent particulièrement l’eau et les sols.\nIl est bon que les députés décident de réagir de manière appropriée aux alertes lancées par les différentes études en santé publique et en matière environnementale. C’est un signal fort après l’examen, la semaine dernière, de la proposition de loi visant à interdire l’usage détourné du protoxyde d’azote. Les députés communistes et ultramarins du groupe de la Gauche démocrate et républicaine voteront donc cette proposition de loi.\nToutefois, l’interdiction que nous nous apprêtons à voter ne doit pas nous conduire à délaisser d’autres difficultés. Je pense au rôle des réseaux sociaux, qui contribuent très largement à la promotion de ce type de dispositifs auprès des jeunes. Je pense aussi à la place stratégique qu’occupent les cigarettes électroniques jetables pour les industriels du secteur du tabac ; ainsi, la société Philip Morris aspire à réaliser 50 % de son chiffre d’affaires de 2025 au moyen de produits sans fumée. Ces dispositifs sont non seulement un moyen de contrer la baisse des ventes de cigarettes traditionnelles dans de nombreux pays occidentaux, mais ils constituent aussi un levier de promotion pour le tabac lui-même. Ainsi, British American Tobacco aurait, selon une enquête du Guardian publiée en 2021, dépensé plus de 1 milliard d’euros pour promouvoir ses produits sans tabac sur les réseaux sociaux. Enfin, il est crucial de bâtir une politique de prévention des addictions et d’accompagnement des personnes concernées, qu’il s’agisse de l’addiction au tabac, aux jeux en ligne ou plus largement aux écrans.\nSi le législateur doit intervenir pour interdire des dispositifs dont le danger est avéré, il doit aussi agir pour mieux encadrer les logiques marchandes peu soucieuses de la santé publique et de l’environnement et pour améliorer la prévention et la réparation. (Applaudissements sur plusieurs bancs des groupes EPR et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Olivier Fayssat."
+        },
+        {
+          "orateur": "M. Olivier Fayssat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "La mesure qui nous occupe relève du bon sens, car la prolifération des cigarettes électroniques jetables pose une série de problèmes concrets, tant environnementaux que sanitaires. Ce texte ne relève ni d’un réflexe idéologique ni d’un excès de précaution : il répond à des constats factuels, largement partagés indépendamment des sensibilités politiques.\nChaque année, plus de 20 millions de puffs sont jetées en France. Ces objets cumulent plusieurs sources de pollution : un plastique non recyclable qui finit sur les trottoirs ou dans les rivières, des batteries au lithium dont le recyclage est complexe et qui sont dangereuses si elles ne sont pas correctement traitées, des substances chimiques qui s’infiltrent dans les sols et les cours d’eau. Alors que nous faisons des efforts considérables pour réduire les déchets inutiles et pour améliorer la gestion des composants électroniques, laisser ces millions de dispositifs jetables s’accumuler serait un contresens.\nEn effet, contrairement à d’autres dispositifs électroniques qui répondent à un besoin précis, les puffs n’apportent aucun bénéfice particulier, que ce soit en matière de santé, d’innovation ou d’usage social. Il ne s’agit ni d’un produit de première nécessité ni d’un outil répondant à une demande légitime, mais d’un objet conçu uniquement pour être jeté après quelques minutes d’utilisation. Dans un contexte où nous cherchons à rationaliser nos modes de consommation, à limiter les déchets inutiles et à encourager des pratiques plus responsables, il est difficile de justifier la présence de tels articles sur le marché, d’autant que leur interdiction ne privera personne d’un usage essentiel et ne créera aucune contrainte insurmontable.\nEn interdisant les puffs, nous ne freinons aucun progrès, nous ne limitons aucune liberté fondamentale, nous ne compliquons pas la vie des consommateurs. Nous ne faisons que supprimer un produit superflu.\nLes rapporteurs ont rappelé que d’autres pays avaient déjà pris leurs responsabilités : le Royaume-Uni envisage des restrictions et la Belgique a interdit ces produits, dont l’Union européenne s’inquiète de la prolifération. Il serait illogique que la France ne prenne pas les mêmes dispositions.\nLes puffs sont conçues pour être attractives. Avec un design coloré, des arômes sucrés et des formats ludiques, elles trouvent rapidement leur public, notamment chez les plus jeunes. Les chiffres sont sans appel : 47 % des adolescents qui essayent la puff n’avaient jamais consommé de nicotine auparavant ; à 17 ans, 30,7 % des jeunes ont déjà utilisé une cigarette électronique et 15 % des 13-16 ans ont déjà testé une puff. Leur usage précoce est un fait avéré. Or ces produits, souvent très fortement dosés, favorisent une accoutumance rapide.\nLa réglementation interdit déjà la vente aux mineurs, mais, dans les faits, les puffs restent largement accessibles, que ce soit en magasin, en ligne ou sur des canaux plus difficiles à contrôler. Mieux encadrer leur distribution aurait été une tâche complexe et aléatoire. L’interdiction est donc la réponse la plus efficace pour mettre un terme à cette diffusion incontrôlée.\nNous avons déjà pris des mesures pour lutter contre la prolifération des déchets électroniques, limiter la consommation d’objets en plastique à usage unique et mieux encadrer l’utilisation des batteries au lithium. Il serait paradoxal de ne pas agir sur un produit qui combine ces trois problèmes.\nLa proposition de loi s’inscrit donc dans une continuité logique. Elle constitue une réponse claire à une dérive identifiée et permet d’anticiper des conséquences plus lourdes à l’avenir. L’interdiction des puffs est non un geste symbolique ou une posture de principe mais une décision fondée sur des réalités environnementales et sanitaires incontestables. Elle s’inscrit dans une approche pragmatique, soucieuse de préserver notre environnement ainsi que nos rues et de protéger les jeunes contre des produits dont l’usage se banalise trop rapidement. C’est pourquoi le groupe UDR votera en sa faveur. (Applaudissements sur les bancs des groupes UDR et RN. – M. Karl Olive applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Emmanuel Taché de la Pagerie."
+        },
+        {
+          "orateur": "M. Emmanuel Taché de la Pagerie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793382",
+          "texte": "Je serai bref car de nombreux collègues ont déjà rappelé le consensus que la proposition de loi a suscité, que ce soit en commission des affaires sociales, au cours des réunions des deux commissions mixtes paritaires ou en séance à l’Assemblée et au Sénat.\nNous examinons un texte portant sur un enjeu sanitaire et environnemental majeur : l’interdiction des cigarettes électroniques jetables, appelées puffs. Si, comme je le présume, il est adopté, la France deviendra le second État européen, après la Belgique, à interdire la commercialisation de ces dispositifs sur son territoire.\nCette mesure est indispensable car 15 % des adolescents de 13 à 16 ans ont déjà testé les puffs, qui offrent leur premier contact avec la nicotine à près de la moitié de leurs jeunes utilisateurs. Le danger est donc réel. Une seule puff peut contenir autant de nicotine que plusieurs paquets de cigarettes. Cela accroît le risque d’addiction, un phénomène dont nous connaissons les dangers.\nLe groupe Rassemblement national votera en faveur de la proposition de loi, qui s’inscrit dans une volonté de protéger la jeunesse et de lutter contre une production irresponsable de déchets particulièrement polluants. Nous regrettons toutefois que l’Union européenne – ainsi que cela a été souligné – ait pu constituer un frein à l’amplitude de la mesure de santé publique que représente l’interdiction des puffs. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Karl Olive."
+        },
+        {
+          "orateur": "M. Karl Olive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795722",
+          "texte": "Selon une formule célèbre prêtée à Bismarck, « la politique est l’art de rendre possible ce qui est nécessaire ». Après trois années de travail, de combats et d’obstacles, nous voici enfin réunis pour voter l’interdiction des cigarettes électroniques à usage unique, ces fameuses puffs qui empoisonnent notre jeunesse et notre environnement.\nLes aléas de la vie politique nous ont fait perdre un temps précieux sur un sujet pourtant vital : la santé de nos concitoyens et, plus particulièrement, de nos enfants. La dissolution a emporté avec elle le mandat de nos collègues Francesca Pasquini, écologiste, et Bruno Studer, du bloc central, avec qui j’avais mené le combat contre les puffs, aux côtés de M. le rapporteur, Michel Lauzzana. Toutefois, leur engagement n’a pas été vain. Je tiens à les citer et à les féliciter car le texte dont nous débattons est le fruit de leur travail et de leur détermination. De même, je salue le soutien que nous avait apporté notre collègue Aurélien Rousseau lorsqu’il était ministre de la santé.\nCette proposition de loi transpartisane est une preuve que, lorsque nous dépassons les postures et les querelles stériles, nous savons nous rassembler autour d’un objectif commun : protéger nos concitoyens. Elle honore le Parlement, notre engagement collectif et le principe même du service public.\nOn ne peut être éternellement jeune, mais on peut mourir jeune. Ces mots, que Serge Gainsbourg aurait pu chanter, prennent un sens tragique lorsqu’on parle de tabagisme. En effet, derrière le vernis coloré et parfumé des puffs se cache la réalité implacable de la dépendance et de la mort prématurée. En cette Journée mondiale de lutte contre le cancer, comment ne pas rappeler que le tabac tue en France 75 000 personnes chaque année, soit 200 morts par jour, l’équivalent d’un crash aérien quotidien dont les victimes seraient nos proches, nos amis, nos enfants ?"
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Karl Olive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795722",
+          "texte": "Mon frère est parti trop tôt, à 46 ans. J’ai vu de mes propres yeux ce que signifie être dévoré de l’intérieur par cette industrie cynique. C’est pourquoi je mène ce combat de toutes mes forces. C’est pourquoi, à toutes celles et à tous ceux qui ont perdu un être cher à cause du tabac, je dis : nous pensons à vous, nous nous battons pour vous. (M. le rapporteur et M. Aurélien Rousseau applaudissent.)\nLes puffs ne sont pas des gadgets inoffensifs. Elles forment une nouvelle porte d’entrée vers la nicotine et le tabac, un piège tendu aux plus jeunes. Colorées, sucrées, accessibles, omniprésentes sur les réseaux sociaux, elles sont pensées pour séduire les adolescents. Nous voyons des collégiens, parfois même des écoliers – j’en ai été témoin –, vapoter devant leur établissement scolaire, à la terrasse des cafés, dans les parcs. Est-ce cela que nous voulons pour notre jeunesse ?\nLe cerveau des adolescents est particulièrement vulnérable. La nicotine altère leur mémoire, leur concentration et leurs capacités d’apprentissage. Elle est à l’origine d’un empoisonnement insidieux qui enferme des générations entières dans la dépendance et les pousse progressivement vers la tabagie classique. La santé publique doit primer sur le profit des industriels.\nEn plus d’être une menace pour la santé, les puffs sont aussi un non-sens écologique. Un million d’unités sont jetées chaque semaine en France. Ces bâtonnets jetables, bourrés de plastique, de lithium et de produits chimiques, finissent dans la nature, sur nos plages, dans nos rivières. Alors que nous interdisons les sacs en plastique, que nous traquons les mégots, que nous prônons la sobriété écologique, nous laissons se répandre ces déchets toxiques et non recyclables. Il s’agit d’une incohérence que nous devons corriger.\nL’interdiction des puffs n’est qu’une première étape. En effet, les cigarettiers ne manquent pas d’imagination pour continuer à piéger les jeunes. Déjà, d’autres produits comme les sachets de nicotine, les snuffs ou le tabac à chiquer arrivent sur le marché. Derrière ces termes obscurs se cachent de nouvelles manœuvres pour habituer nos enfants à la nicotine avant de les conduire à la cigarette. Ne nous y trompons pas : l’industrie du tabac est une industrie de la mort.\nNous devons aller plus loin pour renforcer le contrôle de l’âge des acheteurs, encadrer la vente en ligne et traquer les dérives. Les règles européennes nous imposent de n’avancer que progressivement, mais nous ne lâcherons rien. Nous continuerons à nous battre, avec détermination et dans un esprit transpartisan, car notre objectif est clair : une génération sans tabac d’ici 2032.\nL’interdiction que nous allons adopter n’est ni une mesure hygiéniste ni une atteinte aux libertés. Elle témoigne d’un choix de civilisation, elle constitue une réponse à une industrie qui tue avant même de rendre malade. Elle porte un message adressé à nos enfants : nous refusons que vous soyez les prochaines victimes d’un commerce cynique et impitoyable. Le groupe Ensemble pour la République, que j’ai l’honneur de représenter, votera en sa faveur avec fierté et conviction, parce qu’une vie sauvée vaut tous les combats. (Applaudissements sur les bancs du groupe EPR. – M. Aurélien Rousseau applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Carlos Martens Bilongo."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "texte": "Je veux d’abord avoir une pensée pour notre ancienne collègue Francesca Pasquini, qui est à l’origine du texte soumis à notre vote.\nAlors que notre ambition est de voir la première génération sans tabac, comment pouvons-nous tolérer que des objets aux conséquences aussi graves que celles des puffs soient laissés entre les mains de nos enfants ? L’interdiction de la consommation et de la vente de ces dispositifs électroniques à usage unique est une urgence absolue. L’industrie du tabac redouble d’ingéniosité pour attirer les plus jeunes et les initier au tabagisme. Les puffs, au marketing agressif et à l’apparence ludique avec leurs couleurs et leurs arômes, sont vendues à bas prix tandis que leur composition intègre des substances douteuses, voire alarmantes.\nChauffés, le propylène glycol et le glycérol qu’elles contiennent libèrent des substances très toxiques. On retrouve également dans les puffs des nitrosamines et du formaldéhyde, reconnus comme cancérigènes, ainsi que des métaux lourds comme le plomb et le nickel, susceptibles d’endommager les poumons et le système nerveux.\nNous ne pouvons pas fermer les yeux face à ce produit dangereux pour la santé publique. Les chiffres sont accablants : en 2022, 13 % des jeunes de 13 à 16 ans avaient déjà utilisé une puff et, pour 28 % d’entre eux, il s’agissait de leur première consommation de nicotine. Pire encore, ils sont 17 % à s’être tournés ensuite vers d’autres produits du tabac. Huit adolescents sur dix ont déjà vu quelqu’un utiliser une cigarette électronique jetable.\nCe sont les jeunes qui parlent le mieux de la puff. Voilà ce que m’indique Yannis Atik, un collégien de troisième : « La puff est partout. Des élèves de ma classe en utilisent depuis trois ans. Ils sont totalement accros, les filles comme les garçons. Moi, je ne fume pas parce que mes parents me l’interdisent et parce que je joue au football. Je n’aime pas la cigarette et je ne suis pas influençable. » Ce témoignage édifiant doit nous alerter.\nAlors que la consommation de tabac a fortement diminué au cours des cinquante dernières années, l’essor des puffs menace d’inverser cette tendance. L’Académie de médecine a d’ailleurs expliqué que la popularité des e-cigarettes chez les jeunes risque de freiner, voire d’annihiler, les progrès accomplis.\nLe rôle des réseaux sociaux dans le phénomène des puffs est dangereux. De nombreuses célébrités, influenceurs ou acteurs, font leur promotion sur Snapchat ou TikTok, voire à la télévision. Dans ce contexte, comment expliquer aux jeunes que fumer ne les rendra ni plus cool ni plus stylés ?\nPar ailleurs, un test mené par UFC-Que choisir révèle que 75 % des buralistes vendent ces produits à des collégiens. Ce constat est inacceptable. Plus nous tardons à agir, plus le problème s’aggrave. Alors que les premières puffs contenaient 600 bouffées, certaines en proposent désormais jusqu’à 100 000 ! Je vous livre un autre témoignage, celui de Linda Ayari, née en 2003 : « La puff est vendue partout sur Snapchat. Vous envoyez un message et vous êtes livré cinq minutes plus tard. »\nCette escalade est dangereuse car la nicotine, une substance considérée comme une drogue dure par les professionnels de santé, engendre une dépendance qui affecte directement le développement du cerveau des jeunes. Les conséquences neurologiques sont importantes. La nicotine stimule la libération de dopamine, procurant un bien-être artificiel et temporaire. Chez les adolescents, elle altère le développement cérébral et augmente les risques de troubles de l’humeur et d’impulsivité.\nLe problème est également écologique car les puffs finissent souvent jetées dans la nature, contribuant aux pollutions plastique et électronique. En 2024, la production mondiale de puffs jetables a englouti 90 tonnes de lithium, de quoi fabriquer plus de 33 000 batteries pour véhicule électrique. Ce gaspillage est inacceptable.\nLe marché du vapotage, gangrené par des pratiques illégales et synonyme d’aggravation de la pollution, génère en France un chiffre d’affaires annuel de 1,2 milliard d’euros, dont environ 150 millions pour les puffs.\nMonsieur le ministre, en cette Journée mondiale de lutte contre le cancer, je vous demande de faire tout votre possible pour que les décrets d’application de cette future loi soient pris quelques semaines, voire quelques jours, après sa promulgation. (Sourires sur les bancs du groupe RN.) Il y va de la santé des jeunes générations. (M. le rapporteur et M. Aurélien Rousseau applaudissent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à Mme Océane Godard."
+        },
+        {
+          "orateur": "Mme Océane Godard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840939",
+          "texte": "C’est en conscience et avec responsabilité (« Ah ! » sur les bancs du groupe RN) que le groupe socialiste soutient la version adoptée par la commission mixte paritaire de la proposition de loi visant à interdire les dispositifs électroniques de vapotage à usage unique, aussi appelés puffs. Il s’agit d’une réponse nécessaire à une double urgence, sanitaire et écologique. Je voudrais à cet égard exprimer ma reconnaissance à mon collègue Aurélien Rousseau, qui, le 4 décembre 2023, siégeait en tant que ministre sur le banc du gouvernement et avait soutenu l’interdiction des puffs.\nLa CMP a adapté la proposition de loi à l’avis que la Commission européenne a rendu le 25 septembre. Elle a précisé que la détention de dispositifs électroniques de vapotage était interdite et que l’interdiction valait pour les dispositifs non rechargeables en liquide. Elle a supprimé l’interdiction de fabrication en France et a renforcé le rôle des inspecteurs de la concurrence, de la consommation et de la répression des fraudes dans l’application de la loi.\nParlons de santé publique. Si la cigarette électronique a été présentée comme un outil de potentielle réduction des risques pour les fumeurs adultes, nous ne pouvons ignorer que les puffs ont envahi le marché en séduisant un public qui est tout autre : les adolescents et les jeunes adultes.\nLes chiffres parlent d’eux-mêmes : selon une étude de l’Alliance contre le tabac, en 2022, 13 % des 13-16 ans avaient déjà expérimenté la puff. Ce produit est souvent aromatisé avec un goût sucré ou fruité et arbore une couleur attrayante ; il fait penser à un gadget plutôt qu’à un produit contenant de la nicotine. Design, marketing et facilité d’accès en ont fait une redoutable porte d’entrée vers l’addiction. Nous ne pouvons accepter qu’un quart des adolescents de 13 à 16 ans disent qu’il est facile d’acheter une puff, alors que l’on sait que ce produit est conçu pour les séduire. Saveurs sucrées, couleurs flashy, marketing ciblé : tout est pensé pour pousser nos enfants dans l’engrenage de la dépendance.\nLa nicotine a des effets délétères sur le cerveau en développement des jeunes : c’est scientifiquement prouvé, c’est objectif. Elle altère la concentration, accroît l’anxiété, peut susciter une dépendance rapide. Plusieurs études montrent que les jeunes qui commencent par vapoter sont susceptibles de se tourner par la suite vers la cigarette classique.\nAu-delà de la question sanitaire, les cigarettes électroniques jetables sont un non-sens écologique. Elles sont composées de plastique non recyclable, de batteries au lithium, de métaux rares. Pourtant, elles sont conçues pour être jetées après seulement quelques centaines de bouffées. Chaque jour, des milliers de ces dispositifs finissent dans les rues, dans les cours de collège ou de lycée, dans les rivières, sur les plages, dans les océans. Alors que le réchauffement climatique, loin d’être un fantasme ou un complot, est bien réel, tolérer la prolifération de ces objets à usage unique est paradoxal, inacceptable et irresponsable.\nNous ne sommes pas naïfs. Pour l’industrie du tabac, les adolescents d’aujourd’hui sont les consommateurs de demain. Elle investit massivement dans le marché du vapotage, avec des tactiques similaires à celles du passé : séduire les jeunes, minimiser les risques, retarder toute régulation. Certains diront qu’interdire un produit, c’est risquer de créer un marché noir, priver les fumeurs d’une alternative. Soyons clairs : la proposition de loi ne remet pas en cause le vapotage dans son ensemble ; elle s’attaque aux produits jetables, nocifs pour la santé.\nCette proposition de loi ne serait pas complète si nous ne nous attachions pas à la prévention et à l’éducation sur les dangers du vapotage chez les jeunes. Assurons-nous que d’autres solutions responsables existent pour les adultes qui utilisent la cigarette électronique comme un outil de sortie du tabagisme. L’objectif du texte est d’agir en amont, pour éviter qu’une nouvelle génération ne tombe dans la dépendance à la nicotine. C’est une mesure de protection, fondée sur la science et sur les conséquences avérées sur les vies.\nL’ensemble des groupes ont voté pour ce texte consensuel en commission des affaires sociales. Preuve que la santé publique et la protection de l’environnement priment. L’interdiction des puffs est une étape nécessaire et responsable. Le groupe socialiste votera pour. (Applaudissements sur plusieurs bancs des groupes SOC, EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Sur le texte de la commission mixte paritaire, je suis saisi par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Sylvie Dezarnaud."
+        },
+        {
+          "orateur": "Mme Sylvie Dezarnaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794042",
+          "texte": "Nous arrivons au terme du long cheminement de la proposition de loi visant à interdire les dispositifs électroniques de vapotage à usage unique, communément appelés puffs. Les puffs sont moins chères que les cigarettes électroniques classiques ; elles sont colorées et souvent acidulées. Arrivées en France en 2021, elles sont conçues, par leur goût et leur marketing, pour séduire une clientèle jeune, voire très jeune – on parle ici de collégiens.\nPour la santé publique, les puffs sont une aberration. Elles contiennent des sels de nicotine et enferment les jeunes, dès le collège, dans une addiction qui les poussera plus tard à consommer du tabac. C’est en quelque sorte un produit d’appel pour la cigarette.\nLe recours aux sels de nicotine n’est pas anodin. Leur utilisation est plus facile et a moins d’effets indésirables que la nicotine traditionnelle extraite des plants de tabac. Certains des effets négatifs de la cigarette classique, comme l’irritation et la toux, ne se font pas ressentir.\nCette facilité à vapoter s’inscrit dans un contexte où l’utilisation de cigarettes électroniques par les collégiens et lycéens est en progression, malgré l’interdiction de vente aux mineurs dans notre pays. Une étude de novembre 2023 d’Alliance contre le tabac révélait que 15 % des adolescents avaient déjà utilisé une puff et que 47 % d’entre eux avaient commencé leur initiation à la nicotine avec ce dispositif. Comment ne pas s’alarmer de cette véritable bombe à retardement sanitaire ? Nous ne pouvons pas, d’un côté, nous mobiliser pour débarrasser les Français du tabagisme, de l’autre, laisser apparaître des générations de jeunes préaccros qui seront les fumeurs de demain.\nLes puffs sont également néfastes du point de vue environnemental. Jetées très rapidement après leur utilisation, elles contiennent des batteries au lithium et du plastique. Dans le monde dans lequel nous vivons, et que nous laisserons à nos enfants et à nos petits-enfants, ce n’est pas acceptable.\nLe législateur devait donc agir. Je salue le travail transpartisan que le Parlement a entrepris depuis 2022, avec le soutien du groupe Droite républicaine. Ce travail a été possible grâce au volontarisme du gouvernement, notamment du ministre chargé de la santé et de l’accès aux soins, Yannick Neuder, que je salue amicalement."
+        },
+        {
+          "orateur": "M. Vincent Jeanbrun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842117",
+          "texte": "Un excellent ministre !"
+        },
+        {
+          "orateur": "Mme Sylvie Dezarnaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794042",
+          "texte": "Dans un esprit constructif, au-delà des clivages traditionnels, nous sommes sur le point d’acter l’interdiction des puffs après une commission mixte paritaire conclusive et un avis favorable de la Commission européenne.\nLa CMP a bien pris en compte les évolutions technologiques possibles, qui auraient rendu caduque la définition initiale. La rédaction retenue – « dispositifs électroniques de vapotage […] préremplis avec un liquide et ne pouvant être remplis à nouveau, qu’ils disposent ou non d’une batterie rechargeable » – est plus cohérente et permettra une bonne application de la loi.\nLa mise en vente, la vente, la distribution ou l’offre gratuite de puffs seront interdites, sous peine d’une amende de 100 000 euros et de 200 000 euros en cas de récidive. J’espère que cette sanction sera suffisamment dissuasive pour limiter les contournements et le trafic. Les agents de la concurrence, de la consommation et de la répression des fraudes seront chargés de constater l’infraction.\nDepuis le 1er janvier 2025, la Belgique applique déjà une telle interdiction. Nous deviendrons donc le deuxième pays de l’Union européenne à adopter une telle loi, et nous nous en félicitons.\nPour l’ensemble de ces raisons, pour la santé de nos enfants et petits-enfants, le groupe Droite républicaine votera en faveur de ce texte. En protégeant nos enfants, nous protégeons notre avenir. C’est ce que nous ferons, je l’espère, à l’unanimité aujourd’hui. (Applaudissements sur les bancs du groupe DR et sur plusieurs bancs des groupes EPR et Dem. – M. Aurélien Rousseau applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721134",
+          "texte": "La parole est à M. Nicolas Bonnet."
+        },
+        {
+          "orateur": "M. Nicolas Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841507",
+          "texte": "Je prends la parole, au nom du groupe Écologiste et social, sur un sujet qui me tient particulièrement à cœur : la lutte contre le tabagisme sous toutes ses formes. Je prends la parole ou plutôt je reprends la parole et le travail de ma collègue Francesca Pasquini, députée écologiste des Hauts-de-Seine de 2022 à 2024, qui fut à l’origine de la proposition de loi. Si les puffs sont interdites à l’issue de notre vote, c’est en grande partie grâce à son travail. Je tiens à la remercier sincèrement. (Applaudissements sur les bancs du groupe EcoS et GDR ainsi que sur plusieurs bancs des groupes EPR, SOC et DR.) Je tiens également à remercier les associations Alliance contre le tabac, notamment son président Loïc Josseran, et Surfrider, qui l’ont accompagnée.\nAvant de parler du fond, j’aimerais m’attarder sur la forme. Dans le contexte parlementaire actuel, il est rare de voir une démarche transpartisane aller à son terme. Déposée en novembre 2022 par Francesca Pasquini, rapidement soutenue par Michel Lauzzana, Bruno Studer et Karl Olive, cosignée par 168 députés issus de huit groupes politiques, puis inscrite à l’ordre du jour d’une semaine de l’Assemblée, cette proposition de loi est un exemple réussi d’une démarche transpartisane. J’invite celles et ceux qui m’écoutent à s’en inspirer aussi souvent que possible pour obtenir des avancées sur des sujets dépassant les clivages – et ils sont plus nombreux qu’on ne veut le croire.\nQuoi de plus consensuel que l’interdiction des puffs ? Ces cigarettes électroniques jetables à usage unique sont apparues en France en 2021. Elles ne sont rien d’autre qu’un scandale sanitaire et une aberration écologique, une énième trouvaille de l’industrie du tabac pour créer de nouveaux consommateurs, toujours plus jeunes. La puff n’est rien d’autre qu’un nom cool donné à la cigarette pour enfants. Le nier serait malhonnête : les puffs sont pensées pour cela. Par leurs emballages, colorés, attractifs, semblables à ceux des bonbons, par leurs goûts variés, sucrés ou fruités – saveur cookie, fraise, banane ou marshmallow –, par leur facilité d’accès, dans des points de vente non réglementés, en magasin ou sur internet, tout a été pensé dans un seul objectif : s’adresser aux mineurs, aux ados, aux collégiens, s’adresser à un âge où les premières habitudes de fumeur apparaissent, où l’on est le plus vulnérable.\nSi les puffs ne contiennent pas de tabac, elles contiennent le plus souvent de la nicotine et leur nocivité pour la santé est avérée. De plus, elles contribuent à normaliser le geste de fumer.\nCertes, les fabricants nous expliquent que la vente des puffs est interdite aux mineurs. En théorie, c’est vrai. En pratique, une étude conduite à la demande de l’Alliance contre le tabac a montré qu’en 2023, 15 % des 13 à 16 ans en avaient déjà utilisé et conclu que la puff est de plus en plus la porte d’entrée des ados dans la nicotine et le tabac.\nLes puffs sont également une aberration écologique : cigarette électronique à usage unique, cigarette jetable, elles sont la matérialisation parfaite de l’objet éphémère que l’on jette après l’avoir consommé. Elles sont principalement composées de plastique et de métaux lourds, comme le lithium ou le plomb. Elles sont très rarement recyclées ; on les retrouve par terre, dans les rues ou dans la nature. Elles se décomposent lentement, polluant ainsi pendant plusieurs siècles les cours d’eau, la faune et la flore.\nUn scandale sanitaire qui menace les plus jeunes, doublé d’une aberration écologique : ces deux raisons suffisent à justifier l’interdiction des puffs, instaurée par l’article unique de la proposition de loi.\nPermettez-moi pour conclure d’évoquer l’horizon dessiné par ce texte : la sortie du tabagisme et, plus généralement, des produits nocifs pour la santé et pour l’environnement. La France compte 12 millions de fumeurs quotidiens. Le tabac reste la première cause de mortalité évitable, avec 75 000 décès par an. Six fumeurs quotidiens sur dix souhaiteraient arrêter. Il ne faut jamais oublier que le tabac est une addiction. L’addiction, ce n’est pas seulement une personne et un produit ; c’est la rencontre entre une personne, un produit et un contexte socioculturel.\nLa présente proposition de loi doit nous conduire à mener une réflexion générale sur la place du tabac dans notre société, ainsi que sur celle de l’alcool et de toutes les drogues. Nous devons réfléchir à la place de l’addiction dans notre société consumériste, qui crée des besoins artificiels, débouchant sur un cercle vicieux faisant alterner frustration et satisfaction. Le tabac n’en est qu’un exemple parmi tant d’autres, parmi trop d’autres.\nLe groupe Écologiste et social votera pour la proposition de loi. (Applaudissements sur plusieurs bancs des groupes EcoS, EPR et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "La discussion générale est close."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618242",
+      "valeurPtsOdj": "2",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Je mets aux voix l’ensemble de la proposition de loi, compte tenu du texte de la commission mixte paritaire."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        163\n        Nombre de suffrages exprimés                163\n        Majorité absolue                        82\n                Pour l’adoption                163\n                Contre                0"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’ensemble de la proposition de loi est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3618248",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA721134",
+          "texte": "Prochaine séance, demain, à quatorze heures :\n Questions au gouvernement ;\nà quinze heures trente :\n Discussions et votes sur deux motions de censure déposées en application de l’article 49, alinéa 3, de la Constitution ;\n Suite de la discussion, en nouvelle lecture, du projet de loi de financement de la sécurité sociale pour 2025.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à dix-sept heures trente.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

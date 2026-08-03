@@ -1,0 +1,2993 @@
+{
+  "uid": "CRSANR5L17S2025E1N010",
+  "seanceRef": "RUANR5L17S2025IDS29609",
+  "sessionRef": "SCR5A2025E1",
+  "date": "2025-07-08",
+  "dateLisible": "mardi 08 juillet 2025",
+  "session": "Première session extraordinaire 2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3838787",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la proposition de loi portant création d’un statut de l’élu local (nos 136, 1603 deuxième rectification)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3838849",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Nous en venons aux articles 4, 3 et 27, examinés par priorité."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3838791",
+      "valeurPtsOdj": "1",
+      "titre": "Article 4 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’amendement no 382 de M. Bruno Bilde est défendu.\nLa parole est à M. Didier Le Gac, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le ministre de l’aménagement du territoire et de la décentralisation, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre de l’aménagement du territoire et de la décentralisation",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 382 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3838800",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 862 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le ministre, pour soutenir l’amendement no 862."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Il vise à supprimer l’alinéa 8 de l’article, qui prévoit la remise au gouvernement d’un rapport relatif aux coûts supportés par les communes pour des missions exercées par les maires au nom de l’État. Dès lors qu’il est très complexe de déterminer quelles sont ces missions, la mesure apparaît peu opérante.\nEn outre, la remise d’un rapport complexifierait les relations et ne constituerait pas une réponse concrète aux difficultés éventuellement rencontrées sur le terrain. Elle risquerait de prolonger artificiellement des débats bien documentés, alors que des dispositifs de soutien financier existent déjà. Dans ce contexte, la demande de rapport semble particulièrement inopportune sur le fond et infondée juridiquement. Sa suppression permettrait de recentrer le texte sur les dispositions utiles et opérationnelles."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Favorable. Je ne suis pas sûr que ce rapport nous apprendrait quelque chose de neuf à propos des coûts supportés par les communes pour les missions exercées par les maires au nom de l’État. Ces coûts sont connus, il existe déjà des rapports sur ce sujet. Je préfère laisser le soin à la délégation aux collectivités territoriales et à la décentralisation, présidée par mon cher collègue Stéphane Delautrette, de travailler, si elle l’estime utile, plus avant sur cette question – ce qu’elle fait déjà au demeurant."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Pour notre part, nous sommes favorables au maintien de ce rapport. Vous affirmez que la situation est documentée : peut-être pourriez-vous alors nous communiquer les éléments, notamment les chiffres, dont vous disposez sur les missions exercées par les maires pour le compte de l’État ?\nCette demande de rapport n’est pas anodine : un tel travail permettrait de distinguer ce qui relève de la politique publique menée par la collectivité locale et ce qui ressort des missions de l’État, par exemple la tenue des registres d’état civil ou encore, pour les communes concernées, l’organisation de la production des titres d’identité. Il serait dommage de se passer de ces informations. S’il existe déjà des rapports traitant des coûts relatifs aux missions exercées par les maires pour le compte de l’État, je vous demande de nous les communiquer. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je le répète, des dispositifs de soutien financier existent déjà pour accompagner les communes dans l’exercice de ces missions. On peut citer la dotation particulière relative aux conditions d’exercice des mandats locaux, d’un montant de 123 millions – vous pouvez le noter – qui bénéficie aux petites communes sous une forme libre d’emploi, notamment via une part « socle » couvrant les charges liées au mandat d’élu. De même, la dotation titres sécurisés, destinée à soutenir les communes dans la délivrance des titres d’identité, que vous avez évoquée, a été significativement renforcée – vous auriez pu le signaler –, passant de 55 millions en 2022 à 100 millions en 2024. Dans ces conditions, nous n’avons pas besoin de rapport."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "De manière exceptionnelle, je donne de nouveau la parole à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Vous avez raison : la production des titres sécurisés a été mieux prise en compte. C’est heureux car avec les dispositifs dits « modernes » de fabrication, les coûts ont considérablement augmenté. Je vous remercie de nous avoir donné le montant des enveloppes allouées. Pouvez-vous à présent nous préciser quelle part des coûts supportés par les communes est couverte par ces dotations ?"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Très bonne question ! (M. le ministre fait signe qu’il ne souhaite pas reprendre la parole.) Et très mauvais réponse !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 862 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3838856",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 457, accepté par le gouvernement, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’amendement no 457 de MM. les rapporteurs est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 457, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 4, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3838820",
+      "valeurPtsOdj": "1",
+      "titre": "Article 3 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Emmanuel Duplessy."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Il s’agit d’un article important, qui prévoit une majoration de la durée d’assurance retraite d’un trimestre par mandat complet pour l’ensemble des élus locaux. Cette disposition nous semble de nature à valoriser l’engagement des élus et le temps qu’ils consacrent à leur mandat. Le temps qu’ils donnent à leur vie publique et à leur vie citoyenne est autant de temps ôté à leur carrière professionnelle. Dans la même logique que les indemnités, il convient de compléter les droits sociaux des élus pour rendre leurs fonctions toujours plus attractives, notamment à l’échelle locale. Je regrette une nouvelle fois que des amendements visent à proposer un texte moins-disant que la version du Sénat."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Cet élément nous paraît tout à fait déterminant lorsqu’on parle du statut de l’élu. Je suis assez convaincue – et c’est d’ailleurs ce que révèle l’étude menée par le Centre de recherches politiques de Sciences Po (Cevipof), en partenariat avec l’Association des maires de France et des présidents d’intercommunalité (AMF) – que, lorsque l’on s’engage pour exercer un mandat local, on ne regarde pas forcément le montant des indemnités.\nEn revanche, il est certain qu’on étudie l’impact que cet engagement est susceptible d’avoir à moyen, voire à long terme, en fonction de l’âge que l’on a. Il est fondamental de compenser l’impact du mandat sur les droits à la retraite – parce que son exercice conduira à travailler moins ou à arrêter de travailler – pas forcément, on l’a bien compris, en termes de montant de pension mais en termes de durée de cotisation. Accorder un trimestre supplémentaire est donc très important.\nLe gouvernement souhaite supprimer cette disposition en raison de son caractère prétendument exorbitant. Mais enfin, certains d’entre nous ont été élus locaux, et non des moindres : nous savons le sacrifice que cela représente en tempspar rapport à un travail salarié classique ! L’attribution d’un trimestre supplémentaire n’est pas exorbitante et nous semble au contraire tout à fait naturelle."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Marie-José Allemand."
+        },
+        {
+          "orateur": "Mme Marie-José Allemand",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840665",
+          "texte": "Je rejoins mes collègues. L’investissement des élus locaux est très important et il est tout à fait naturel qu’ils puissent bénéficier de trimestres supplémentaires au regard de cet engagement. Les élus ne comptent pas leur temps, surtout dans les petites communes. L’article va dans le bon sens. (M.  Philippe Brun applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements nos 865 et identiques, par les groupes La France insoumise-Nouveau Front populaire et Écologiste et social ; sur l’amendement no 717, par le groupe Écologiste et social.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe suis saisi de trois amendements identiques, nos 865, 515 et 716, tendant à supprimer l’article 3.\nLa parole est à Mme la ministre chargée du travail et de l’emploi, pour soutenir l’amendement no 865."
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre chargée du travail et de l’emploi",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "L’article 3 vise à créer, au bénéfice des élus locaux, une majoration de durée d’assurance d’un trimestre par mandat dans la limite de huit sur l’ensemble de la carrière. Si j’entends ce qui a été dit au sujet de l’investissement en temps très important de nos élus, je veux toutefois rappeler que cette mesure paraît exorbitante du droit commun en ce qu’elle rompt le lien contributif entre droits et cotisations, sur lequel est fondé notre système de retraites."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "En attribuant des trimestres de retraite aux élus locaux sans contrepartie de financement, cet article créerait une nouvelle charge qui aggraverait le déficit de notre système de retraites de plus de 45 millions par an et nous éloignerait de l’objectif de retour à l’équilibre. Plus grave, alors même que nous demandons des efforts importants aux Français pour rééquilibrer notre système de retraites – dont le déficit devrait s’élever à 6,6 milliards en 2030 – cette disposition conduirait à faire financer par la solidarité nationale, notamment les jeunes générations, des droits supplémentaires pour une catégorie spécifique de la population. C’est inacceptable !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Très juste !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Sur le fond, ce dispositif n’apparaît pas bien conçu pour répondre à la question de l’impact de l’engagement en tant qu’élu local sur la pension de retraite. En effet, cet engagement n’induit pas la perte de trimestres de retraite. D’une part, selon les règles en vigueur, quatre trimestres de retraite sont acquis par an dès lors qu’une personne travaille au moins 600 heures annuelles, rémunérées au smic, ce qui correspond à un travail à temps partiel de 12 heures par semaine.\nD’autre part, les élus locaux perçoivent une indemnité soumise à des cotisations sociales leur ouvrant déjà des droits à la retraite. Enfin, la loi du 14 avril 2023 leur a ouvert la possibilité de cotiser volontairement à l’assurance vieillesse si l’indemnité n’est pas d’un montant suffisant pour y être obligatoirement soumis ainsi que d’effectuer des versements pour la retraite au titre des périodes de mandat."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "L’engagement dans la vie locale peut en revanche déboucher sur un niveau de pension moins important si l’élu s’est mis à temps partiel ou s’il a eu une progression de carrière moins importante. C’est un vrai problème – vous le savez mieux que quiconque. Or l’article 3 ne le résout pas. Il permet à un élu qui n’a pas tous ses trimestres de partir à la retraite à taux plein avec un peu d’avance. En revanche, pour un élu à la carrière complète, l’article 3 n’apportera aucune avancée – ni amélioration du niveau de pension ni anticipation du départ à la retraite.\nC’est pourquoi le gouvernement est favorable à la suppression de l’article 3 qui crée une charge nouvelle, injustifiée et exceptionnelle,…"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "…qui rompt avec le principe contributif sur lequel repose fondamentalement notre système de retraites.\nAfin de remédier au problème du niveau de pension des élus locaux, le gouvernement a élaboré des propositions et des mesures alternatives. Toutefois, celles-ci n’ont pas recueilli l’adhésion des rapporteurs ni des associations d’élus. C’est pourquoi nous vous proposons, par cet amendement, de supprimer l’article 3. (M. Mathieu Lefèvre applaudit.)"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "« Applaudissements nourris ! »"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Mathieu Lefèvre, pour soutenir l’amendement no 515."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Nos comptes publics brûlent et l’Assemblée nationale regarde ailleurs. (« Oh » et exclamations sur plusieurs bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "La faute à qui ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Cette mesure représenterait une dépense publique supplémentaire. Or notre système de retraites… (Les exclamations se poursuivent sur plusieurs bancs des groupes SOC et EcoS.) Chers collègues, souffrez que l’on vous parle de nos comptes publics à l’heure où le déficit de l’assurance vieillesse… (Mêmes mouvements.) Est-il possible de se respecter et d’écouter les arguments de chacun ?"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "3 300 milliards de dette !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Le déficit public de la branche vieillesse s’élèvera à près de 7 milliards à l’horizon 2030."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "La faute à qui ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Or nous allons l’aggraver avec cet article qui n’a fait l’objet d’aucune étude d’impact et qui vise à créer un dispositif d’une grande complexité administrative, à rebours de tout ce qu’il faut faire en la matière et alors même que certains, parmi vous, sont favorables à la simplification de nos systèmes de retraite, et même à leur convergence. Cela n’a absolument aucun sens."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Vous avez raison : supprimons les retraites de tous les élus, même des députés ! Vous retournerez travailler dans le privé !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Par ailleurs, il n’y a pas, comme je l’entends sur certains bancs, d’un côté, ceux qui défendraient les élus locaux, et, de l’autre, ceux qui ne les défendraient pas (« Si ! » sur plusieurs bancs des groupes LFI-NFP et SOC.) En revanche, il y a, parmi nous, ceux qui ont le sens de l’intérêt général,…"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Oui, nous !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "…qui savent que chaque euro compte dans un pays qui connaît un endettement de 3 300 milliards d’euros et qui ne veulent pas laisser la facture de votre incurie aux générations suivantes.\nPar ailleurs, que direz-vous aux conseillers municipaux « de base » – si j’ose dire ? Que seuls les conseillers municipaux délégués et les adjoints peuvent bénéficier d’une bonification de leur système de retraite parce que l’engagement des autres est moindre ? Vous voulez introduire des inégalités de traitement absolument insupportables."
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Monsieur le président, les deux minutes sont écoulées !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Je lis et écoute les préconisations du Conseil d’orientation des retraites. Je suis également attentif aux propos de Mme la ministre qui a très justement expliqué qu’il fallait limiter les dispositifs dérogatoires et non contributifs. C’est le sens de l’histoire depuis 2003.\nIl faut évidemment supprimer cet article."
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "On remercie le Mozart de la finance !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3838625",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne Bergantz, pour soutenir l’amendement no 716."
+        },
+        {
+          "orateur": "Mme Anne Bergantz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA805166",
+          "texte": "J’abonde dans le sens des propos qui viennent d’être tenus. On pourrait rapprocher ce dispositif de celui qui avait été instauré pour les sapeurs-pompiers volontaires. Cependant, la situation de ces derniers n’est pas comparable à celle des élus locaux qui, je le rappelle, perçoivent une indemnité de fonction soumise à des cotisations sociales, leur ouvrant des droits à la retraite dans des régimes de base et complémentaires.\nPar ailleurs, comme l’a dit Mme la ministre, la loi du 14 avril 2023 a déjà renforcé les droits des élus en leur donnant la possibilité de cotiser volontairement à l’assurance vieillesse ou de racheter des périodes de mandat.\nDans un tel contexte, il nous semble que ce bonus créerait un avantage statutaire qui ne serait corrélé ni à une pénibilité ni à une interruption de carrière."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "En tant que rapporteur, j’ai bien sûr entendu le point de vue des membres de la commission des lois, qui se sont montrés très attachés à cette disposition introduite par le Sénat.\nCependant, à titre personnel, j’aimerais revenir sur certains points. Je suis d’autant plus à l’aise pour le faire que lors de la discussion générale, j’ai expliqué que, si je comprenais la volonté du Sénat de reconnaître l’engagement des élus en leur accordant un trimestre de retraite pour chaque mandat effectué, je regrettais qu’une telle mesure s’applique uniformément à l’ensemble des élus, y compris à ceux qui ont continué à valider normalement leurs trimestres au titre de leur activité professionnelle.\nCeux qui, ici, ont été des élus locaux le savent bien : occuper une telle fonction n’empêche pas d’acquérir des trimestres de retraite. Il est même très peu probable qu’un élu local n’ait pas acquis tous ses trimestres à cause de son mandat. Vous connaissez la règle en matière de cotisations : il faut un revenu égal à 150 heures rémunérées au smic pour valider un trimestre. Par conséquent, un assuré valide quatre trimestres si sa rémunération atteint 600 heures payées au smic.\nPour qu’un élu n’acquière que trois trimestres par an au lieu de quatre, il faudrait que la charge de travail de son mandat le conduise à réduire son temps de travail à moins de 12 heures par semaine. Autrement dit, pour qu’il perde un trimestre, il faudrait qu’il travaille à temps partiel et ne fasse pas plus qu’un tiers-temps.\nParmi les maires des communes de moins de 3 500 habitants – tout de même 90 % des communes ! –, très peu décident de travailler à temps partiel pour une durée inférieure à un tiers-temps. L’ensemble des élus continuent donc de percevoir, tout à fait normalement, leurs droits à la retraite.\nPar ailleurs, je n’ai jamais entendu un maire me dire qu’il souhaitait un trimestre supplémentaire pour sa retraite. En revanche, j’ai souvent entendu des maires expliquer qu’ils auraient aimé que le montant de leur pension soit plus élevé."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Ça revient au même !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Or l’article 3 ne règle absolument pas ce problème.\nEn définitive, il n’apporte aucune solution : il ne permet aux élus ni de partir plus tôt, puisque la bonification est d’un trimestre par mandat, ni de bénéficier d’une meilleure pension.\nJ’ai bien compris que les sénateurs souhaitaient faire plaisir aux élus locaux…"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "…en introduisant cette disposition. Toutefois, pour être franc, sa portée sera surtout symbolique puisqu’elle concernera très peu d’élus.\nEn tant que rapporteur, je prends acte des arguments de la commission en faveur de cette mesure mais, à titre personnel, je soutiens ces amendements de suppression. Je proposerai d’ailleurs tout à l’heure un amendement de repli."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Violette Spillebout."
+        },
+        {
+          "orateur": "Mme Violette Spillebout",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794486",
+          "texte": "J’entends vos arguments. Cependant, je rappelle que nous avons mené, il y a un an et demi, au nom de la délégation aux collectivités territoriales et à la décentralisation, avec mon corapporteur Sébastien Jumel et plusieurs députés ici présents, un travail collectif qui a abouti à un rapport, adopté à l’unanimité.\nDans le cadre de cette mission d’information, au cours de laquelle nous avons mené de nombreuses auditions, il nous est apparu que le statut de l’élu local, qu’il faut créer, et son régime, que nous devons renforcer, comportaient des similitudes avec ceux des sapeurs-pompiers volontaires. C’est pourquoi nous avons proposé de reconnaître l’engagement des élus locaux au service de l’intérêt général comme on l’avait fait pour les sapeurs-pompiers.\nNotre proposition no 58, votée à l’unanimité, prévoit une bonification des trimestres de retraite, calquée sur le dispositif créé par la loi de financement rectificative de la sécurité sociale du 14 avril 2023, lequel permet aux sapeurs-pompiers ayant effectué dix années de service, continu ou non, de valider des trimestres de retraite supplémentaires.\nJe rappelle que ce sont des associations d’élus, en l’occurrence l’AMRF, l’Association des maires ruraux de France, et l’APVF, l’Association des petites villes de France, qui ont souhaité que le régime des maires s’aligne sur celui des sapeurs-pompiers volontaires. Car nombre de maires, d’adjoints et de conseillers délégués doivent travailler à temps – très – partiel, tandis que ceux qui sont à temps plein voient parfois leur carrière freinée et les possibilités de promotion s’éloigner parce qu’ils consacrent beaucoup de temps à leur mandat d’élu et ne s’engagent pas de la même façon dans leur vie professionnelle.\nVous l’aurez remarqué, les positions au sein du groupe Ensemble pour la République sont divergentes. Il est vrai que, dans la période actuelle, il est difficile de financer une telle mesure. Cependant, la reconnaissance des élus est au cœur de cette proposition de loi qui chemine depuis le Sénat, où elle a été votée à l’unanimité, jusqu’à l’Assemblée, où nous l’examinons cette semaine – avant une adoption définitive, je l’espère, en septembre, avant les élections municipales.\nMon collègue Sébastien Huygue, responsable de texte, et moi-même nous prononcerons contre ces amendements de suppression mais les membres du groupe conservent leur liberté de vote. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Marina Ferrari."
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795120",
+          "texte": "Je soutiens ces amendements de suppression. Alors que nous demandons aux Français de faire beaucoup d’efforts, une telle mesure me semble préjudiciable. Je crains que nous ne mettions une cible dans le dos de nos élus en les faisant encore passer pour des nantis. (« Oh ! » sur plusieurs bancs des groupes SOC et EcoS.)\nMadame Martin, vous avez expliqué tout à l’heure qu’un élu local ne cotisait pas. C’est faux et vous le savez très bien, puisque vous-même avez été adjointe au maire de Grenoble.\nPar ailleurs, les élus ont droit au Carel (complément d’assurance retraite des élus locaux) et au Fonpel ( fonds de pension des élus locaux), des dispositifs complémentaires très intéressants puisque la collectivité abonde 100 % de leur contribution.\nNos élus locaux bénéficient donc tout de même de certains avantages en matière de retraite."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "C’est très courageux, Marina ! Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Nicole Dubré-Chirat."
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Une majoration de durée d’assurance retraite d’un trimestre par mandat effectué, dans la limite de huit sur l’ensemble de la carrière, c’est à la fois peu et beaucoup.\nSi un tel dispositif a été mis en place pour compenser l’impact sur la carrière de l’engagement des sapeurs-pompiers volontaires dans le cadre de la réforme des retraites – une mesure, au passage, qui n’est toujours pas appliquée alors qu’elle a été votée il y a plus de trois ans –, la situation des élus locaux n’est pas comparable.\nL’élu local perçoit une indemnité soumise à des cotisations sociales, qui lui ouvre des droits à la retraite. En outre, il peut, depuis la réforme des retraites, cotiser volontairement à l’assurance vieillesse si l’indemnité n’est pas d’un montant suffisant pour y être obligatoirement soumis, et effectuer des versements pour la retraite au titre des périodes de mandat.\nUne telle disposition semble difficilement conciliable avec l’objectif de baisse de la dépense publique et de réduction de la dette – 3 300 milliards en 2024. Notre régime de retraite est déficitaire. Les dépenses de la branche vieillesse sont évaluées à 300 milliards d’euros et son solde est négatif – à hauteur de 3 milliards d’euros. Il faut faire preuve de logique.\nPar ailleurs, je ne pense pas qu’une telle mesure incitera les élus à s’engager davantage. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Tout d’abord, si vous n’arrivez pas à résoudre les problèmes qui se posent en matière budgétaire, si vous rencontrez trop de difficultés, confiez-nous les clés et vous verrez qu’une fois aux affaires (Exclamations sur plusieurs bancs des groupes RN, EPR, DR et HOR)…"
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Vous tiendrez trois mois !"
+        },
+        {
+          "orateur": "M. Pierre Meurin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793852",
+          "texte": "Surtout pas ! Ce serait un cauchemar !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "…nous vous proposerons, avec Éric Coquerel, un budget reposant sur davantage de recettes fiscales, ce qui nous permettra de faire autre chose que votre politique d’austérité (Applaudissements sur plusieurs bancs du groupe LFI-NFP) et de chasser le vent de misère que vous avez fait souffler et qui règne sur le pays.\nEnsuite, je partage l’idée selon laquelle la situation de certains élus locaux est comparable à celle des pompiers : comme eux, ils sont capables de répondre aux urgences, quelles qu’elles soient et à tout moment.\nJ’entends parler de retraite complémentaire, de retraite par capitalisation. Cela suppose forcément un moindre revenu pour les personnes concernées. On peut donc s’interroger, d’autant plus que ce n’est pas ce dont il est question avec cette mesure. Je rappelle en effet que l’article prévoit que l’élu local bénéficie, en tant que membre de l’exécutif, d’un trimestre par mandat complet, rien de plus. Ce n’est pas absolument extraordinaire !\nMme la ministre a expliqué que les propositions alternatives n’avaient pas donné satisfaction aux associations d’élus. J’en conclus que ces dispositifs ne fonctionnaient pas. Tenons-nous en donc à celui qui est prévu par l’article. Comme l’a dit Mme Spillebout, il est souhaité, plébiscité par les associations d’élus locaux, en particulier ceux qui sont concernés par ces questions. Ensuite, nous étudierons vos propositions."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Bien des choses ont été dites. Dans le prolongement des propos de notre collègue Violette Spillebout, je veux rappeler que les travaux de la délégation aux collectivités territoriales et à la décentralisation ont été menés sous la législature précédente dans le cadre d’une mission d’information sur le statut de l’élu local qui lui avait été confiée ainsi qu’à Sébastien Jumel. Ces travaux ont jeté la lumière sur la question de la retraite des élus locaux et conduit à une proposition bien mieux-disante que celle qui nous arrive du Sénat.\nDe quoi parle-t-on exactement ? Notre proposition de loi est censée susciter des vocations pour l’engagement local (M. Mathieu Lefèvre s’exclame) et non créer des privilèges pour les élus locaux qui, de toute façon, n’en veulent pas. Ils demandent que leur engagement en faveur de la société, de la République et de nos concitoyens soit reconnu.\nSavez-vous combien de temps un maire consacre en moyenne chaque semaine au service du contribuable ? (Exclamations sur quelques bancs du groupe HOR.) Trente-quatre heures ! C’est déjà un temps plein et nombreux sont les élus, dans les petites communes, qui conjuguent cet engagement avec une activité professionnelle parce que leurs indemnités de fonction ne leur permettent pas de compenser leur perte de revenu ! (Applaudissements sur plusieurs bancs des groupes SOC, LFI-NFP, EcoS et GDR. – Mme Violette Spillebout applaudit également.) Et il faudrait s’abstenir de reconnaître cet engagement car il ne serait pas possible de leur attribuer des trimestres supplémentaires, comme nous l’avons fait pour les sapeurs-pompiers, au motif que leur situation ne serait pas comparable à celle de ces derniers et que cela coûterait trop cher ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Qui va payer ?"
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Combien le remplacement par des fonctionnaires de ces élus, qu’on peut qualifier de bénévoles, coûterait-il à la société ?"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Quelle idée vous faites-vous de l’engagement ?"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Je pense que les antennes de Bercy frémiraient à cette pensée : cela coûterait beaucoup plus cher que la mesure prévue par l’article. Vous aurez compris que je suis très opposé à sa suppression ! (Applaudissements sur plusieurs bancs des groupes SOC, LFI-NFP, EcoS et GDR.)\nVous dites que les élus locaux ne sont pas comparables aux pompiers. Comparaison n’est certes pas raison mais je rappelle tout de même que les élus locaux sont bien souvent les pompiers qui agissent en lieu et place de l’État ! Comment aurions-nous géré la crise sanitaire sans le travail des élus locaux sur le terrain ? (Applaudissements sur les bancs des groupes SOC, RN, LFI-NFP, EcoS et GDR. – Mme Violette Spillebout applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Didier Le Gac, rapporteur."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Les avis de mon corapporteur Stéphane Delautrette ne divergent guère des miens – je salue encore une fois la manière dont nous avons travaillé, en coconstruction et en étroite collaboration –, mais, sur le sujet de la retraite des élus locaux, nous ne sommes pas d’accord.\nBien évidemment, nous estimons tous deux qu’il faut mieux reconnaître ces derniers, et que la revalorisation des retraites est un levier. Pour l’actionner, Stéphane Delautrette et d’autres commissaires considèrent qu’il faut jouer sur le facteur temps et ajouter un trimestre ; je pense pour ma part qu’il faut travailler sur le montant plutôt que sur la durée."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Il faut jouer sur les deux, mon capitaine !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Encore une fois, l’ajout de ce trimestre ne bénéficiera de toute façon pas à beaucoup d’élus puisque la plupart d’entre eux font plus qu’un tiers-temps.\nPlusieurs d’entre vous ont évoqué les sapeurs-pompiers. Il est vrai que nous avons voté en 2023 une loi qui leur octroie des trimestres de retraite supplémentaires. J’appelle cependant votre attention sur le fait que le décret afférent n’a jamais été pris !"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Eh oui, mais c’est un problème, ça ! Respectons le Parlement !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Cela montre à quel point il est difficile d’aborder ce sujet ! Je ne voudrais pas que nous votions une mesure ce soir et que, dans trois ans, le décret d’application n’ait toujours pas été pris."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix les amendements identiques nos 865, 515 et 716."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        167\n        Nombre de suffrages exprimés                162\n        Majorité absolue                        82\n                Pour l’adoption                32\n                Contre                130"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 865, 515 et 716 ne sont pas adoptés.)\n(Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.\n            – M. Stéphane Delautrette,\n             rapporteur,\n             applaudit\n            également.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839053",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Anne Bergantz, pour soutenir l’amendement no 717."
+        },
+        {
+          "orateur": "Mme Anne Bergantz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA805166",
+          "texte": "Cet amendement de repli tend à supprimer le dispositif du trimestre bonus, qui ne semble pas justifié, tout en préservant le II., qui permet de neutraliser l’effet de seuil dans le régime des non-salariés agricoles, pour les élus percevant une pension au titre d’un mandat. Cela pourrait constituer un ajustement technique pertinent, évitant que l’exercice d’un mandat local n’aboutisse à une perte de pension dans le régime agricole. Le maintien du II. permettrait de traiter une problématique spécifique sans introduire de régime de faveur général, ce qui assurerait un équilibre juste et ciblé."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Avis défavorable. Cet amendement supprime tout simplement la majoration de trimestre prévue à l’article 3. Or je ne suis pas favorable à cette suppression pure et simple. J’aurais préféré que nous disposions de plus de temps pour réfléchir à d’autres dispositifs, à des solutions alternatives touchant au montant des pensions plutôt qu’à la durée de cotisation. Je souhaite que nous avancions dans ce sens."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Avis favorable. Comme je l’ai expliqué, l’article 3 prévoit une mesure exorbitante du droit commun en ce qu’elle rompt le lien contributif entre droits et cotisation, sur lequel est fondé notre système de retraites. Il crée en outre une charge nouvelle de 45 millions d’euros par an, qui aggrave le déficit du système de retraites. Il conduit également à faire financer par la solidarité nationale des droits supplémentaires pour une catégorie spécifique de la population, fût-elle élue. Enfin, cet article ne paraît pas bien conçu pour traiter de l’impact de l’engagement en tant qu’élu local sur la pension des élus locaux. C’est pourquoi je suis favorable à sa suppression, même partielle."
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Mêmes causes, mêmes effets ! Nous sommes évidemment opposés à cet amendement de suppression. Il faut quand même assumer d’employer le terme d’exorbitante pour qualifier une mesure qui consiste à attribuer aux élus locaux un trimestre supplémentaire – un seul ! – par mandat exécutif complet !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Eh bien oui !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "De surcroît, vous affirmez qu’il s’agit d’une catégorie spécifique. C’est vrai, mais c’est surtout une catégorie particulière ! Il faut avoir en tête ce que vivent les élus locaux, en particulier dans les communes de plus petite taille. À votre avis, quand le toit d’une école fuit, qui monte dessus pour voir s’il est possible de remettre les tuiles en place ? C’est comme ça que ça se passe ! Je pense d’ailleurs que vous le savez parfaitement, car je ne peux pas concevoir qu’un ou une ministre de la République l’ignore.\nIl n’y a donc rien d’exorbitant dans cette mesure ! Nous ne parlons pas de n’importe quelle catégorie spécifique, mais bien des élus locaux !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Je peux comprendre qu’on ait envie de soutenir les maires par des mesures d’accompagnement et de lutter contre le risque de manquer de candidats. En revanche, je ne comprends pas cette mesure très discriminatoire : pourquoi accorderait-on des trimestres supplémentaires de retraite aux maires et non aux présidents d’association ? (« Oui, très bonne idée ! » sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Eux aussi donnent beaucoup de leur temps pour nos concitoyens et ils ne sont pas payés ! Pourquoi n’en accorderait-on pas aux volontaires du Secours populaire ? (Applaudissements nourris et sourires sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Ils consacrent également un temps considérable aux autres !\nOn a bien compris votre stratagème ! Vous voulez ouvrir une boîte de Pandore : des trimestres de retraite pour tout le monde ! Et qui va payer ? On voit bien ce que vous voulez faire !\nEnsuite, cette mesure est très inégalitaire, car la grande majorité des maires sont déjà à la retraite. Quel sens y a-t-il à leur proposer des trimestres de retraite ? Vous voulez par ailleurs octroyer ces trimestres sans considération du travail des élus, dont certains travaillent à temps plein, d’autres à tiers-temps, d’autres encore à mi-temps ou bien une fois par semaine. Franchement, bien que cette mesure procède d’un bon sentiment, elle ne tient pas la route car elle ne bénéficie pas à égalité à l’ensemble de nos concitoyens !"
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "Picsou !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 717."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        176\n        Nombre de suffrages exprimés                172\n        Majorité absolue                        87\n                Pour l’adoption                37\n                Contre                135"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 717 n’est pas adopté.)\n(Applaudissements sur quelques bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839073",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 866 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Didier Le Gac, rapporteur, pour soutenir l’amendement no 866."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "On peut parler d’un amendement de repli. L’intention qui sous-tend l’article est certes louable mais je propose ici un dispositif plus ciblé, fondé sur l’équité et la réalité des parcours professionnels. Il s’agit de réserver cette majoration d’un trimestre par mandat aux seuls élus qui, du fait de leur engagement, n’ont pas pu valider l’intégralité de leurs trimestres dans le régime général. Il s’agit donc d’instaurer un mécanisme correctif destiné à combler les trous dans la carrière et non à créer un avantage forfaitaire supplémentaire qui serait systématiquement accordé à tous les élus, y compris à ceux qui auraient déjà cotisé à taux plein. Cette majoration ne pourra pas conduire à valider plus de quatre trimestres par an, afin de garantir la cohérence du dispositif."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "C’est la règle : on ne peut pas avoir plus de quatre trimestres par an !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Je vous propose donc de réserver ce trimestre supplémentaire aux élus qui n’ont pas pu cotiser, notamment à ceux qui ont définitivement ou totalement suspendu leur activité professionnelle."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Nous sommes défavorables à l’article 3, pour les raisons déjà évoquées. Mesdames et messieurs les députés, vous venez de choisir de conserver cet article."
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "Oui, nous sommes souverains !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Votre amendement, monsieur le rapporteur, semble représenter une solution de compromis en ce qu’il prévoit de limiter l’attribution de trimestres de retraite supplémentaires aux élus dont les carrières sont incomplètes. Il s’agit d’une position conforme à la justice sociale eu égard aux carrières hachées de certains de nos élus locaux.\nPuisque l’article 3 est maintenu en l’état, je vous invite à adopter cet amendement, qui prévoit une mesure d’équité – une valeur à laquelle je sais que vous êtes attachés."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Paul Christophe."
+        },
+        {
+          "orateur": "M. Paul Christophe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642868",
+          "texte": "Cet amendement du rapporteur met bien en lumière les limites de la discussion que nous venons d’avoir. J’ai été maire et je sais que, lorsqu’on s’engage, on ne le fait pas forcément pour percevoir une indemnité – je vous prie de le croire ! – et moins encore une pension de retraite ! On s’engage parce qu’on nourrit un projet, une envie de servir les autres. Franchement, si vous croyez que le petit bonus que l’article prévoit d’accorder aux élus suscitera des vocations, vous vous trompez.\nOn ne peut pas valider deux fois le même trimestre de retraite. Notre collègue Pribetich l’a dit."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Oui, c’est la règle !"
+        },
+        {
+          "orateur": "M. Paul Christophe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642868",
+          "texte": "En effet ! Voilà qui limite considérablement la portée de votre ambition ! Au fond, M. Le Gac ne fait que rappeler la réalité des choses : cette grande avancée que vous mettez sur la table se bornera à apporter un complément à celui ou à celle qui n’aurait pas validé l’intégralité de ses trimestres."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Eh oui, voilà !"
+        },
+        {
+          "orateur": "M. Paul Christophe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642868",
+          "texte": "Je vous prie de croire que le gain qui en résultera ne sera pas loin de zéro ! Il faut prendre la mesure de ce que nous sommes en train d’examiner : ce n’est ni le grand soir, ni une évolution magique et ce n’est pas ce qui suscitera des vocations ! Pour y parvenir, il y a bien d’autres choses à faire, comme simplifier le rôle du mandat – cela renvoie aux travaux que nous avons menés précédemment.\nIl ne faut pas se payer de mots. Cette révolution n’en est pas une. Arthur Delaporte et moi avons déjà été confrontés à la même situation lors de nos travaux sur les TUC, les travaux d’utilité collective, et il y aura, ici aussi, un distinguo à faire entre trimestre validé et trimestre cotisé. On est en train d’agiter un leurre, et cela me paraît extrêmement dangereux. (Applaudissements sur les bancs des groupes HOR et LIOT ainsi que sur plusieurs bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Emmanuel Duplessy."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Rassurez-vous, collègue : personne ne prétend révolutionner la démocratie locale et les droits des élus locaux avec ce texte. On essaie seulement d’améliorer leur environnement à petits pas.\nMais il y a tout de même des arguments que j’ai du mal à saisir. On nous dit que l’article est mal rédigé et qu’il concernera de toute façon très peu de personnes, et pourtant le rapporteur Le Gac propose de cibler encore plus précisément les élus concernés. Je ne vois pas bien l’intérêt de restreindre encore un dispositif qui ne concernait déjà quasiment personne. Et puis, on nous dit à la fois que le dispositif ne sert à rien, ne concerne personne ou presque, n’apporte aucun nouveau droit, aucun trimestre supplémentaire, aucune bonification de retraite, et qu’il va coûter un bras. (M. Damien Girard applaudit.) Je constate d’ailleurs que Mme la ministre évoquait il y a encore un quart d’heure un coût de 60 millions, qui n’est plus maintenant que de 45 millions."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Elle n’en sait rien !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Peut-être que dans cinq minutes, ce seront 30 millions… et dans une heure, 2 millions. (Applaudissements sur plusieurs bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Vous aurez compris que je ne partage pas la position de mon corapporteur, pour une raison évidente : ce qui s’appliquera, c’est la règle. Pourquoi, dès lors, vouloir créer une catégorie spéciale et se perdre dans des détails, sachant que, de toute façon, la disposition ne s’appliquera que si les conditions requises sont réunies et qu’elle ne concernera que certains élus ?\nCe texte de loi, c’est un ensemble de mesures pour lever les freins à l’engagement local ; il faut donc le voir comme un ensemble de dispositions de nature à inviter nos concitoyens à s’engager dans la vie locale. Il est évident que la bonification des trimestres n’apportera rien à un élu qui serait déjà retraité,…"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Les trois quarts d’entre eux."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "…pas plus que le remboursement des frais de garde d’enfant n’apporte quelque chose à la personne qui n’a pas d’enfant (Applaudissements sur plusieurs bancs des groupes SOC et EcoS) ou la prise en charge des frais liés au handicap à quelqu’un qui n’est pas en situation de handicap. Ce sont toutes ces mesures, mises bout à bout, qui doivent pouvoir répondre à un maximum de situations. Il faut donc voir le texte dans son ensemble et surtout ne pas l’aborder de manière morcelée, en disant qu’il n’apportera pas d’amélioration. Je suis évidemment très opposé à toute mesure qui réduirait ce que contient la proposition de loi du Sénat en ce domaine. (Applaudissements sur les bancs des groupes SOC et EcoS. – M. Édouard Bénard applaudit également.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 866 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Vous votez comme le RN ! (Vives exclamations sur de nombreux bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": null,
+          "texte": "Et cet après-midi, ça s’est passé comment ? !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 3 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839421",
+      "valeurPtsOdj": "1",
+      "titre": "Article 27 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Sur l’amendement no 509, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme la ministre, pour soutenir l’amendement no 864 rectifié, qui fait l’objet d’un sous-amendement."
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Cet amendement de réécriture de l’article 27 prévoit un dispositif alternatif à la prise en compte des indemnités de fonction dans le calcul de l’allocation de retour à l’emploi (ARE), par le versement d’une allocation mensuelle forfaitaire, ainsi que la suppression de l’assimilation des périodes d’exercice du mandat à du temps de travail effectif pour le calcul des droits liés à l’ancienneté.\nJ’évoquerai d’abord le dispositif alternatif à l’allocation de retour à l’emploi. Je tiens au préalable à rappeler que l’ensemble des partenaires sociaux, organisations patronales comme syndicales, qui gèrent de manière paritaire le régime d’assurance chômage, nous ont alertés collectivement par un courrier sur l’impact qu’aurait une telle mesure sur les finances de l’Unedic, dont les dernières prévisions financières sont préoccupantes : les années 2025 et 2026 devraient se conclure respectivement par un solde déficitaire de 300 millions et de 400 millions d’euros, sachant que la dette de l’Unedic s’élève à 60 milliards, son plus haut niveau historique.\nLa mesure proposée à l’article 27 crée en outre, comme celle prévue à l’article 3, une rupture historique avec un principe fondateur en permettant le versement de droits sociaux sans contribution. En effet, les indemnités versées aux élus ne font pas l’objet de cotisations à l’assurance chômage.\nDe plus, opérationnellement, il ne faut pas se raconter d’histoires : France Travail a confirmé son incapacité technique à mettre en œuvre cette mesure en 2026, ce qui la rend inutile pour les élus qui perdraient leur mandat.\nEnfin, les partenaires sociaux, qui gèrent le régime de manière paritaire, n’ont pas été consultés sur la mesure.\nPour toutes ces raisons, le gouvernement ne peut qu’être défavorable à la rédaction actuelle de l’article 27. Mais comme il partage l’objectif d’améliorer la situation des élus qui n’ont pas droit à l’allocation différentielle de fin de mandat (ADFM), il propose par cet amendement un dispositif alternatif – une allocation forfaitaire versée par le même fonds qui gère l’ADFM.\nJ’en viens à la suppression de l’assimilation des périodes de suspension du contrat de travail des élus à du temps de travail effectif pour le calcul des droits liés à l’indemnité. Je rappelle que le texte apporte déjà des garanties significatives pour les élus qui exercent une activité salariée. Ces garanties constituant des contraintes importantes pour les entreprises, le gouvernement est attentif à préserver l’équilibre ainsi obtenu. L’enfer étant pavé de bonnes intentions, des entreprises pourraient renoncer à embaucher des titulaires de mandats électoraux, ce qui est précisément l’inverse de l’objectif recherché. En l’espèce, imposer aux entreprises de prendre en compte six années, voire douze années supplémentaires, pour le calcul des indemnités de licenciement paraît disproportionné."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme Astrid Panosyan-Bouvet",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795050",
+          "texte": "Je précise que le gouvernement est favorable au sous-amendement qui va suivre."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Didier Le Gac, rapporteur, pour soutenir le sous-amendement no 870 et donner l’avis de la commission sur l’amendement."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Le sous-amendement, cosigné par Stéphane Delautrette, est rédactionnel.\nComme l’a rappelé Stéphane Delautrette, ce texte contient plusieurs mesures visant à simplifier, à conforter et à encourager le mandat d’élu, parmi lesquelles le fait de pouvoir bénéficier de l’allocation de retour à l’emploi. Les élus locaux qui ont cessé toute activité professionnelle ont droit à l’ADFM – qu’on abordera à l’article 26 –, un très bon dispositif qui leur permet de percevoir une allocation pendant un an pour compenser leur perte de revenus.\nL’article 27 concerne les élus locaux qui n’auraient pas complètement cessé leur activité professionnelle et qui perdraient leur emploi dans l’année suivant la fin de leur mandat ainsi que les droits au chômage afférents.\nDans la rédaction du Sénat, la perte de revenus serait compensée par l’assurance chômage, alors même que leur situation n’a pas donné lieu à cotisations. Ce serait créer un précédent quelque peu fâcheux ; comme l’a rappelé Mme la ministre, l’ensemble des organisations patronales et syndicales représentatives, qui gèrent paritairement notre système d’assurance chômage, ont unanimement indiqué que ce serait de nature à creuser davantage son déficit et à mettre en péril le modèle assurantiel.\nPour cette raison, il semble préférable aux deux rapporteurs d’adopter l’amendement gouvernemental. Celui-ci prévoit que la compensation soit financée par le fonds AFDM et non par l’assurance chômage."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "J’insiste sur l’importance de cet article, qui traite de la question de la fin du mandat et du retour à l’emploi des élus locaux qui, pour des raisons diverses – démission, refus de se représenter ou perte des élections –, sont amenés à revenir dans la vie active.\nNous avons été cependant sensibles à l’interpellation des organisations syndicales et patronales sur le fait qu’il ne fallait pas faire peser cette mesure sur le budget de l’assurance chômage. Le gouvernement a bien voulu en discuter pour trouver la solution de financement ici proposée et permettre ainsi l’accompagnement des élus en sortie de mandat. Nous soutenons sa proposition."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Violette Spillebout."
+        },
+        {
+          "orateur": "Mme Violette Spillebout",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794486",
+          "texte": "S’agissant de la reconversion après le mandat, il faut tout de même avouer que le dispositif actuel ne fonctionne pas. Les travaux que nous avons menés à l’Assemblée nationale montrent que le bilan d’activité de ce fonds d’allocation différentielle de fin de mandat n’est pas satisfaisant : ainsi en 2021, sur une année pleine, seulement 172 dossiers d’élus ont été traités pour un peu moins de 1 million d’euros versés, et il est chaque année largement excédentaire – près de 2 millions d’excédent la même année.\nMême si nous allons voter l’amendement gouvernemental ainsi sous-amendé, j’insiste sur l’importance de l’implication de France Travail, madame la ministre. Au cours de nos travaux, nous avons fait une comparaison avec ce qui existait dans le privé : en cas de licenciement économique, le contrat de sécurisation professionnelle, établi entre l’entreprise, France Travail et le salarié, permet à celui-ci de bénéficier non seulement d’une allocation mais aussi d’un bilan de compétences et d’un accompagnement par des conseillers de France Travail.\nLes élus ne peuvent pas bénéficier d’un tel contrat gagnant-gagnant. Il nous semblait que l’article 3, qui reconnaît le temps passé à s’engager pour l’intérêt général en accordant des droits supplémentaires à la retraite pourrait se traduire aussi ici par des droits au chômage. C’est un des éléments d’un dispositif qui devrait être pensé plus largement. Si France Travail s’occupait aussi des anciens élus qui veulent à un moment se reconvertir, ce pourrait être une plus-value pour eux. C’est une piste à explorer."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "On voit bien que cette discussion rejoint les positions que le groupe Horizons & indépendants a défendues et ce qu’il pense de cette proposition de loi : elle va dans le bon sens, mais si elle créait réellement un statut de l’élu, il n’y aurait pas une telle discussion, on ne se poserait pas toutes ces questions ! (Mme Élisa Martin applaudit.) Le vrai problème est là."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Si nous avions créé un vrai statut de l’élu, ces aménagements – sur le principe desquels nous sommes d’accord – n’auraient pas lieu d’être. Nous aurions traité de la retraite, de la fin du mandat et éventuellement de la mutuelle. Nous aurons apporté des améliorations avec ce texte, mais nous n’aurons toujours pas créé un statut de l’élu local. (Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 870 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 864 rectifié,\n             sous-amendé, est adopté ; en conséquence, l’article est ainsi rédigé et l’amendement no 509 tombe.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839570",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 1er  bis",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Nous en venons à l’amendement no 712, portant article additionnel après l’article 1er  bis.\nSur cet amendement, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n La parole est à Mme Anne Bergantz, pour le soutenir."
+        },
+        {
+          "orateur": "Mme Anne Bergantz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA805166",
+          "texte": "Il concerne les maires des villes de plus de 100 000 habitants. L’article L. 2123-23 du code général des collectivités territoriales rend possible, hors enveloppe globale, une majoration de 40 % des indemnités de ces maires, soit une indemnisation à 203 % de l’indice ou encore 8 344 euros mensuels. Si tant est qu’elle soit pertinente, il nous semble que cette majoration devrait rester dans l’enveloppe globale maximale. Tel est l’objet de l’amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "J’avoue que j’ignorais l’existence de cette possibilité de majoration de 40 %, particulièrement élevée. S’il le souhaite, le conseil municipal d’une ville de plus de 100 000 habitants peut prendre une délibération majorant de 40 % au plus l’indemnité du maire. Cette disposition ne me semble pas complètement justifiée mais, puisque le texte vise à favoriser le statut de l’élu, je m’en remets à la sagesse de l’Assemblée sur cet amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "La demande que la majoration de l’indemnité du maire d’une ville de plus de 100 000 habitants soit comprise dans l’enveloppe indemnitaire globale est déjà satisfaite dans l’état actuel du droit. Je suggère donc le retrait de l’amendement. À défaut, mon avis sera défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Sébastien Huyghe."
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Nous discutons d’un texte censé favoriser les élus, leur créer un statut et rendre attractif l’engagement politique au service de nos concitoyens. Dans ce cadre, je suis surpris que l’on propose la suppression d’un dispositif qui, s’il n’est pas souvent employé, est à la disposition des élus et permet une majoration de l’indemnité du maire dans les grandes villes, où la sujétion est importante. Nous serons donc défavorables à cet amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 712."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        176\n        Nombre de suffrages exprimés                172\n        Majorité absolue                        87\n                Pour l’adoption                93\n                Contre                79"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 712 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839584",
+      "valeurPtsOdj": "1",
+      "titre": "Article 2",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Sur les amendements nos 22 rectifié, 800 et identiques, 871 et 755, je suis saisi par le groupe Rassemblement national de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Josiane Corneloup, pour soutenir l’amendement no 22 rectifié."
+        },
+        {
+          "orateur": "Mme Josiane Corneloup",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722390",
+          "texte": "Étendre à l’ensemble des exécutifs locaux la disposition qui fixe par défaut les indemnités de fonction des maires au maximum légal participe à la reconnaissance de leur engagement. Mais il convient de considérer les incidences d’une telle disposition sur l’indemnisation des conseillers municipaux, simples ou délégués, ainsi que sur le positionnement du maire.\nEn effet, si le conseil municipal élit le nombre maximal d’adjoints, les conseillers municipaux simples et délégués, qui ne disposent pas d’indemnités en propre dans les communes de moins de 100 000 habitants, ne percevront rien – la totalité de l’enveloppe indemnitaire aura été consommée. Cela pose une difficulté, en particulier pour les conseillers municipaux délégués, qui bénéficient d’un droit à indemnités de fonction dès lors qu’ils sont titulaires d’une délégation du maire.\nPar ailleurs, conférer au maire seul la responsabilité de proposer au conseil municipal la réduction des indemnités de fonction des adjoints pourrait engendrer des tensions au moment du renouvellement général. Le maire ne serait donc pas incité à recourir à la mesure, de crainte d’être isolé de sa propre majorité.\nL’amendement vise donc à supprimer l’extension de la disposition aux adjoints, afin de permettre l’indemnisation des conseillers municipaux simples ou délégués et de faciliter les discussions lors de l’adoption des délibérations indemnitaires."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "L’amendement est satisfait, puisque nous avons supprimé en commission le principe visé ; par ailleurs, les alinéas mentionnés dans l’amendement ne sont plus les bons. Retrait et, à défaut, avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 22 rectifié est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de cinq amendements, nos 800, 454, 713, 871 et 755, pouvant être soumis à une discussion commune.\n Les amendements nos 800, 454 et 713 sont identiques.\n La parole est à M. le ministre, pour soutenir l’amendement no 800."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Hier soir, le gouvernement a défendu, avec M. le rapporteur Le Gac ainsi qu’avec les groupes Modem et LR, un amendement pour revaloriser, de façon ciblée et progressive, les indemnités de fonction des maires des communes de moins de 20 000 habitants. Cette mesure, fruit d’un gros travail, répondait selon nous aux attentes exprimées par les élus locaux eux-mêmes et par de nombreux députés en commission des lois. Je rappelle que son coût est de 41 millions d’euros.\nOr vous avez adopté un autre amendement, qui abaisse la revalorisation des indemnités de fonction des maires en la cantonnant à l’équivalent de 2 points d’indice. L’article 1er tel que vous l’avez adopté est moins-disant pour les plus petites communes et coûte 34 millions d’euros.\nDans un souci de reconnaissance des élus de proximité, je suis convaincu que l’article 2, qui concerne les adjoints, doit être en quelque sorte le miroir de l’article 1er. Dans ces conditions, je vous soumets deux options. Soit vous voulez confirmer le vote d’hier, et vous pouvez alors voter l’amendement no 871 des rapporteurs, pour aligner les articles 1er et 2 en prenant comme référence le point d’indice pour les maires et pour les adjoints. Soit vous me suivez dans ma volonté de privilégier les petites communes et vous adoptez les amendements nos 800 et identiques. Il faudrait alors revoter sur l’article 1er afin que les dispositions pour les maires soient les mêmes que celles prévues pour les adjoints.\nJe mets ces deux options sur la table et m’en remets entièrement à la sagesse de l’Assemblée pour trancher. Il vous appartient de confirmer votre vote d’hier ou de le modifier. Le gouvernement respectera bien évidemment la décision de la représentation nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839599",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Les amendements identiques nos 454 de M. le rapporteur Le Gac et 713 de Mme Blandine Brocard sont défendus.\nLa parole est à M. Didier Le Gac, rapporteur, pour soutenir l’amendement no 871."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Il reprend le contenu de l’amendement no 652 de Mme Brocard, qu’elle a retiré et qui proposait une revalorisation des indemnités maximales des adjoints similaire à celle votée pour les maires hier soir. Concrètement, il prévoit une hausse de 1 point d’indice par strate, qui aboutirait à une augmentation limitée à 1,38 % dans les plus grandes communes et portée à 10 % dans les plus petites.\nIl y a un peu de confusion et je vais essayer de reprendre de la manière la plus claire possible. Dans le texte qu’ils nous ont transmis, les sénateurs proposaient une augmentation linéaire de 10 % pour l’ensemble des élus, quelle que soit la taille de la commune. À l’invitation des membres de la commission des lois, mon collègue corapporteur et moi-même avons revu la copie, d’une part parce qu’une hausse de 10 % était excessive et pouvait constituer un mauvais signal, d’autre part, pour moduler cette augmentation selon la taille des communes.\nHier soir, peut-être en raison d’une confusion, l’amendement que nous avions déposé en ce sens a été rejeté. C’est l’amendement no 647 de Mme Brocard qui a été adopté en lieu et place : lui aussi tend à moduler la hausse, mais pas selon les mêmes modalités ; il est plutôt défavorable aux petites communes et prévoit une augmentation pour les maires des communes de plus de 100 000 habitants, ce qui n’était pas le souhait de nombre d’entre vous.\nNous avons donc ce soir deux propositions. D’une part, celle de M. le ministre qui, par le biais de son amendement, vise à revenir à la proposition que nous avions faite hier soir et qui n’a pas été choisie. Et, d’autre part, la mienne qui, dans un souci de cohérence, vise à faire adopter pour les adjoints les mêmes dispositions que celles décidées hier soir pour les maires. Sinon, nous en arriverions à une situation un peu kafkaïenne où les différents membres d’un exécutif municipal n’auraient pas tous la même augmentation."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839605",
+      "valeurPtsOdj": "1",
+      "titre": "Suspension et reprise de la séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Jean-Pierre Bataille, pour soutenir l’amendement no 755."
+        },
+        {
+          "orateur": "M. Jean-Pierre Bataille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267763",
+          "texte": "Comme pour les maires hier, je propose une augmentation de l’indemnité des adjoints de 10 %, mais seulement dans les communes de moins de 20 000 habitants. Si l’amendement du gouvernement était adopté, je retirerais le mien."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Dans cette hypothèse, il tomberait.\nQuel est l’avis de la commission sur les amendements nos 800 et identiques et 755 ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Avis défavorable sur l’amendement no 755, qui vise à maintenir l’augmentation de 10 % pour les seules communes de moins de 20 000 habitants : nous n’en voyons pas bien la cohérence.\n Avis favorable, en revanche, sur l’amendement no 800 du gouvernement et les amendements identiques."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Je souhaite apporter quelques éléments de clarification. Après le vote d’hier soir, pour avoir un texte propre, si je puis dire, il faut que les dispositions décidées pour les maires s’appliquent aussi aux adjoints. L’amendement adopté hier l’a été contre l’avis des rapporteurs. Toutefois, dans un souci de respect de ce qui a été voté, nous avons déposé l’amendement no 871 qui, par effet de miroir, vise à appliquer aux adjoints les règles décidées pour les maires. Cela ne signifie pas que nous cautionnions ou soutenions la mesure prise hier soir mais que nous vous engageons, si vous souhaitez confirmer votre vote, à adopter cet amendement, pour clore le débat sur les indemnités des maires et des adjoints.\nToutefois, je pense que nous avons tout intérêt à privilégier une mesure à 41 millions d’euros plutôt que l’amendement adopté hier, qui ne porte que sur 35 millions et qui est moins favorable aux élus locaux, d’autant que la navette parlementaire pourrait aboutir à des dispositions encore plus favorables. Comme M. le ministre, nous vous invitons à adopter les amendements no 800 et identiques, qui sont les miroirs de la proposition initiale d’hier soir. C’est une étape nécessaire avant d’envisager une seconde délibération sur l’article 1er."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je remercie les rapporteurs pour leurs explications.\nÀ l’article 1er, le gouvernement a proposé – l’idée était d’ailleurs issue des travaux de la commission – de moduler l’augmentation suivant une progressivité inverse : 8 % d’augmentation pour les élus des communes de moins de 500 habitants ; 6 % jusqu’à 3 500 habitants ; 4 % jusqu’à 20 000 habitants. De telles augmentations représentaient un effort de 41 millions d’euros.\nHier, Mme Brocard a retiré son amendement après que j’ai donné mon avis, mais cet amendement a été repris et adopté. L’article 1er, dans sa nouvelle version, ne prévoit plus une augmentation uniforme de 10 %, pas plus qu’une augmentation dégressive de 8 %, 6 % ou 4 %, mais une augmentation dégressive équivalente à 2 points d’indice, soit un peu moins que ce que nous proposions.\nIl s’agit aujourd’hui d’aligner les dispositions relatives aux adjoints sur celles des maires, comme par un effet miroir. Si vous choisissez de garder la référence aux 2 points d’indice – c’est un peu moins bien, mais ça aurait le mérite d’exister –, il faudra conserver les modifications introduites à l’article 1er et modifier l’article 2 en conséquence ; si vous considérez que la proposition d’augmentation dégressive de 8 %, 6 % et 4 % issue du rapport de la commission, un peu plus favorable, notamment pour les maires des petites communes, doit être introduite à l’article 2, il faudra alors procéder à une seconde délibération sur l’article 1er. La décision vous appartient."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Nous arrivons à un moment crucial de nos débats. Je vous propose de raisonner un peu différemment et de considérer ce que vous souhaitez mobiliser, monsieur le ministre. Vous êtes prêt à accepter que l’augmentation de l’indemnité des élus locaux coûte jusqu’à 41 millions d’euros – étant entendu qu’il s’agit de l’argent des collectivités. Or, hier soir, nous avons voté une augmentation qui diffère tant par sa distribution entre les strates que par son volume total – 34 millions, auxquels nous préférons évidemment les 41 millions ! Tel est le premier point d’accord.\nNous conviendrons ensuite que cette augmentation s’opère suivant un effet miroir, comme vous dites, – je crois même que c’est ce que prévoit la loi – entre l’indemnité des maires et celle des adjoints et qu’elle ne doit concerner que les communes ne comptant pas plus de 20 000 habitants.\nNous avons toutefois une idée un peu différente à vous soumettre au sujet de votre proposition : pour les communes les plus modestes en taille, celles de moins de 500 habitants, nous souhaiterions porter l’augmentation au niveau proposé par le Sénat, soit 10 %. Cela augmenterait mécaniquement l’enveloppe totale d’un montant que j’ignore, mais tel que l’enveloppe excéderait forcément les 41 millions d’euros – il ne s’agirait pas de n’augmenter que de 1 % le montant pour les communes de 20 000 habitants.\nPuisque vous nous proposez de revoter sur l’indemnité des maires, peut-être pouvons-nous prendre un peu plus de temps pour faire converger les deux propositions, celle concernant les maires et celle concernant les adjoints, afin de permettre l’augmentation de 10 % dans les communes de moins de 500 habitants."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Merci !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Si vous le voulez bien, monsieur le président, vu l’importance du sujet, nous pourrions entendre la réponse de M. le ministre, puis suspendre la séance."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je précise que j’ai proposé deux voies, et non une troisième."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Et moi, je vous en propose une !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Sébastien Huyghe."
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Depuis le début de ce débat, il a été reconnu sur tous les bancs que des sujétions particulières pesaient sur les élus des plus petites communes, maires et adjoints, qui ne sont pas accompagnés par des fonctionnaires territoriaux aussi nombreux que les élus de plus grandes villes et que, de ce fait, une certaine revalorisation de leurs indemnités était nécessaire. Ce qui a été voté hier est donc en contradiction avec ce qui a été dit sur tous les bancs, puisqu’il s’agit d’augmenter le montant pour toutes les communes, indépendamment de leur nombre d’habitants.\nL’amendement du gouvernement permettrait donc de revenir à la logique qui était celle de tous les orateurs : augmenter de manière plus importante les indemnités des élus des plus petites communes, puis diminuer cette augmentation strate par strate jusqu’aux communes de 20 000 habitants. En toute logique, cette proposition élaborée entre la réunion de la commission des lois et la séance publique aurait dû rencontrer l’assentiment sur l’ensemble des bancs, notamment de la part de membres de ladite commission.\nLe groupe Ensemble pour la République votera donc en faveur de l’amendement no 800 du gouvernement, de façon à revenir à ce dispositif des plus logiques, qui avait été étudié en profondeur."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Blandine Brocard."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Je crois que nous retrouvons sur deux principes essentiels, qui doivent guider nos débats ce soir et auraient déjà dû le faire hier : le premier, c’est d’utiliser correctement les finances de notre pays ; le second, de valoriser vraiment l’engagement des maires et des élus des plus petites communes.\nHier, j’ai présenté un amendement d’appel ou de réflexion, qui nous avait déjà guidés lors de nos débats en commission. Bien que je l’aie retiré, il a été adopté par la force du jeu parlementaire.\nCe soir, – les rapporteurs et le ministre l’ont souligné – il faut que chacun prenne ses responsabilités, sachant qu’un parallélisme entre la revalorisation de l’indemnité des maires et celle des adjoints est indispensable et que nous nous accordons tous sur leur dégressivité. Pour ma part, je ne vois aucun inconvénient à ce que les indemnités des maires des plus petites strates soient davantage revalorisées que celles des maires des communes de moins de 20 000 habitants. Si nous souhaitons reprendre les dispositions sur lesquelles nous nous étions mis d’accord précédemment, il faudra que nous acceptions de procéder à une seconde délibération sur l’article 1er, la première ne s’étant pas déroulée comme prévu.\nÉtant l’auteure de l’amendement no 647, qui a été adopté hier soir, je me permets de souligner que je ne suis aucunement opposée à ce que nous remettions les choses à plat, dès lors que la dépense totale est moindre que celle prévue par le texte du Sénat et que la revalorisation est dégressive.\nEncore une fois, je suis tout à fait partante pour adopter le dispositif sur lequel nous nous étions mis d’accord, mais cela implique de revoter pour modifier ce que nous avons voté hier."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Joël Bruneau."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "Je soutiens l’amendement présenté par le gouvernement. Je sais bien que dans ce pays, on a la passion de l’égalité, mais de fait, les sujétions d’un maire de petite commune n’ont rien à voir avec celles d’un maire d’une commune de plus de 100 000 habitants – je l’ai été –, ce qui ne signifie pas, évidemment, que ce dernier n’ait rien à faire. Il est donc justifié que la revalorisation soit progressive et qu’elle s’arrête à la strate des villes de moins de 20 000 habitants."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "En outre, il serait peut-être assez malvenu d’augmenter le point d’indice des élus, alors qu’on sait pertinemment – on peut souhaiter le contraire, mais soyons lucides – qu’il n’y aura pas d’augmentation du point d’indice de l’ensemble de la fonction publique pendant quelque temps, je le crains."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Emmanuel Duplessy."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Je veux redire notre attachement à l’idée de progressivité, mais aussi à une augmentation de 10 % en faveur des élus des petites communes. C’est la raison pour laquelle le groupe Écologiste et social n’a soutenu aucun amendement modifiant un article qui prévoyait une augmentation de 10 % pour les élus de toutes les communes. En effet, toutes les rédactions proposées étaient moins-disantes, non seulement pour les élus des grandes collectivités territoriales, mais aussi pour ceux des petites.\nLa question qui se pose aujourd’hui est donc la suivante : y a-t-il une majorité en faveur d’une augmentation de 10 % dans les communes de moins de 3 500 habitants ? Les seuils que vous proposez pour les communes plus importantes nous conviennent, mais notre groupe reste très attaché à l’augmentation de 10 % pour ces hussards de la République, qui animent la démocratie locale dans nos villages et nos territoires ruraux.\nNous ne voulons pas voter par défaut, simplement parce qu’hier a été adopté un amendement contraire à l’expression de l’ensemble des groupes, et laisser raboter l’ambition d’une revalorisation de 10 % en faveur des petites communes. Il est possible de trouver une voie garantissant à la fois une telle augmentation et le parallélisme des formes entre les maires et leurs adjoints, au prix d’une seconde délibération sur l’article 1er.\nL’amendement du gouvernement est certes moins mauvais que ce qui a été adopté hier, mais il reste moins bon que ce que proposaient les sénateurs, notamment pour les petites communes. À cet égard, je suis déçu par la position de fermeté du gouvernement, consistant à dire : je vous propose deux voies ; si aucune ne vous va, tant pis, nous allons dans le mur. Je crois au contraire qu’un accord peut être trouvé, qui soit plus favorable tout en assurant la cohérence entre les augmentations prévues par les deux articles. Je demanderais bien une suspension de séance pour ce faire. (Exclamations sur plusieurs bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Les rapporteurs et plusieurs d’entre vous me demandent de suspendre.\n La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures cinquante-cinq, est reprise à vingt-trois heures quinze.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La séance est reprise.\nLa parole est à M. Didier Le Gac, rapporteur, pour soutenir le sous-amendement no 874 à l’amendement no 800, qui vient d’être déposé."
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Vous l’avez constaté, les différents groupes, les rapporteurs et le gouvernement ont pu échanger lors de l’interruption de séance. Nous vous proposons donc ce sous-amendement, qui tend à fixer le taux de revalorisation de l’indemnité de fonction des adjoints au maire de la façon suivante : dans les communes de moins de 500 habitants et de 500 à 1 000 habitants, il atteindra 10 % ;… (Applaudissements sur les bancs des groupes LFI-NFP et EcoS. – Mme Martine Froger applaudit également.)"
+        },
+        {
+          "orateur": "M. Yoann Gillet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793832",
+          "texte": "Une petite pièce !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "…il sera de 8 % dans les communes de 1 000 à 3 500 habitants, de 6 % dans les communes de 3 500 à 10 000 habitants et de 4 % dans les communes de 10 000 à 20 000 habitants."
+        },
+        {
+          "orateur": "M. Frédéric Boccaletti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796042",
+          "texte": "Vous donnez l’aumône !"
+        },
+        {
+          "orateur": "M. Yoann Gillet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793832",
+          "texte": "Vous laissez des pourboires !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Aucune augmentation des indemnités de fonction des adjoints aux maires des communes plus peuplées n’est prévue : nous avons bien tenu compte du souhait exprimé par les uns et les autres à ce sujet. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)\nSi le sous-amendement no 874 était adopté, nous devrions bien entendu voter à la fin de l’examen du texte une répartition semblable de l’augmentation de l’indemnité de fonction des maires, afin d’assurer la concordance des mesures prévues par la loi."
+        },
+        {
+          "orateur": "M. Yoann Gillet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793832",
+          "texte": "C’est honteux !"
+        },
+        {
+          "orateur": "M. Frédéric Boccaletti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796042",
+          "texte": "C’est ridicule, franchement !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je remercie les députés et les rapporteurs et m’en remets à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": "M. Frédéric Boccaletti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796042",
+          "texte": "Vous devriez avoir honte de votre proposition !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Marie-Agnès Poussier-Winsback."
+        },
+        {
+          "orateur": "Mme Marie-Agnès Poussier-Winsback",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Je m’étonne. J’ai l’impression que nos débats sont complètement hors sol. Ma circonscription compte 124 communes et je n’ai jamais rencontré de maire dont le problème était la faiblesse de ses indemnités de fonction. Jamais ! (Applaudissements sur les bancs des groupes EPR, DR et Dem. – M. Élie Califer applaudit également.)\nEn revanche, les maires nous demandent d’arrêter de les enquiquiner et de ne plus voter des lois qui complexifient leur tâche."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Marie-Agnès Poussier-Winsback",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795270",
+          "texte": "Alors que nous devrons trouver 40 milliards d’euros d’économies, nous donnons l’impression de vouloir augmenter l’indemnité des élus locaux : je ne le comprends pas. (Exclamations sur les bancs des groupes LFI-NFP et EcoS ainsi que sur quelques bancs du groupe SOC.)\nPeu importe que vous soyez d’accord, je ne fais que dire ce que je pense et que j’entends dans ma circonscription. Il n’en va peut-être pas de même chez vous, mais chez moi, c’est comme cela que ça se passe. (Applaudissements sur les bancs des groupes HOR et DR.)"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "C’est votre budget, il faut assumer !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Sur le sous-amendement no 874, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n Si vous en êtes d’accord, je vous propose de voter immédiatement ? (Assentiment.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix le sous-amendement no 874."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        151\n        Nombre de suffrages exprimés                139\n        Majorité absolue                        70\n                Pour l’adoption                129\n                Contre                10"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 874 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix les amendements identiques nos 800, 454 et 713, tels qu’ils ont été sous-amendés."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        154\n        Nombre de suffrages exprimés                143\n        Majorité absolue                        72\n                Pour l’adoption                136\n                Contre                7"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 800, 454 et 713, sous-amendés, sont adoptés ; en conséquence, les amendements nos  871 et 755 tombent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Sur les amendements nos 478, 455, 855 et 780, je suis saisi par le groupe Rassemblement national de demandes de scrutin public.\nSur l’amendement n° 496, je suis saisi par les groupes Rassemblement national et La France insoumise-Nouveau Front populaire de demandes de scrutin public.\nSur l’article 2, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Joël Bruneau, pour soutenir l’amendement no 478."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "Élu local, j’ai découvert qu’un maire qui souhaiterait faire passer le nombre d’adjoints de vingt et un à douze verra diminuer l’enveloppe indemnitaire mise à sa disposition. Cela n’est pas très vertueux et contraint le choix du maire qui voudrait s’entourer de quelques conseillers municipaux délégués. En définitive, le système actuel incite à désigner le plus grand nombre d’adjoints possible.\nJe propose donc que les maires puissent librement répartir l’enveloppe indemnitaire globale entre adjoints et conseillers municipaux délégués. (Mme Josiane Corneloup applaudit.)"
+        },
+        {
+          "orateur": "M. Vincent Jeanbrun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842117",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Il est défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. Frédéric Boccaletti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796042",
+          "texte": "Peut-on au moins entendre vos arguments ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 478."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        156\n        Nombre de suffrages exprimés                143\n        Majorité absolue                        72\n                Pour l’adoption                94\n                Contre                49"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 478 est adopté ; en conséquence, les amendements n°455 et 855 tombent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’amendement no 780 de Mme Brigitte Barèges est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 780."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        153\n        Nombre de suffrages exprimés                151\n        Majorité absolue                        76\n                Pour l’adoption                50\n                Contre                101"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 780 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839196",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin, pour soutenir l’amendement no 496."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Nous souhaitons supprimer la disposition qui prévoit que l’indemnité de fonction soit automatiquement fixée au plafond maximal, afin d’éviter des problèmes de répartition, au préjudice, par exemple, des conseillers délégués. Par parallélisme des formes, une telle disposition devrait s’appliquer aux exécutifs départementaux, régionaux et métropolitains, ainsi qu’à Paris, à Lyon et à Marseille."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Il est défavorable, mais moins sur le fond que sur la forme. Votre amendement tend à supprimer les alinéas 7 à 76 de l’article 2, c’est-à-dire presque tous. Nous aurions préféré que l’amendement no 855 du gouvernement, qui est tombé il y a quelques instants, soit adopté."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 496."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        143\n        Nombre de suffrages exprimés                133\n        Majorité absolue                        67\n                Pour l’adoption                12\n                Contre                121"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 496 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’article 2, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        149\n        Nombre de suffrages exprimés                149\n        Majorité absolue                        75\n                Pour l’adoption                149\n                Contre                0"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 2, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839210",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 2",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Nous en venons à l’amendement n° 479 portant article additionnel après l’article 2, amendement sur lequel je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Joël Bruneau, pour le soutenir."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "Il tend à donner aux communes la possibilité, déjà offerte aux conseils régionaux et départementaux, de prévoir dans leur règlement intérieur des incitations à la présence, c’est-à-dire une sanction financière à l’encontre des élus indemnisés peu assidus."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Il est défavorable.\nD’abord, le texte vise à encourager les élus et pas le contraire : sa philosophie n’est pas de les sanctionner."
+        },
+        {
+          "orateur": "M. Vincent Jeanbrun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842117",
+          "texte": "Il faut rémunérer ceux qui bossent !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Ensuite, l’amendement est satisfait puisque le code général des collectivités territoriales prévoit déjà la modulation, dans des conditions fixées par le règlement intérieur, des indemnités de fonction que les conseils municipaux allouent à leurs membres en fonction de leur participation effective."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Avis défavorable.\nIl faut laisser à chaque conseil municipal la liberté de définir ses propres règles de fonctionnement et arrêter de vouloir tout rigidifier. (Mme Blandine Brocard applaudit.)"
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Joël Bruneau."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "texte": "S’il est satisfait, je retire mon amendement. (Exclamations sur plusieurs bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Vincent Jeanbrun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842117",
+          "texte": "Cet amendement n’est pas satisfait !"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Je le reprends !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "L’amendement no 479, retiré par M. Joël Bruneau, est repris par Mme Justine Gruet."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Oh non !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je le mets donc aux voix."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        151\n        Nombre de suffrages exprimés                149\n        Majorité absolue                        75\n                Pour l’adoption                12\n                Contre                137"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 479 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839232",
+      "valeurPtsOdj": "1",
+      "titre": "Article 2  bis",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 2 bis est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839334",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 2  bis",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Sur les amendements nos 715 et 484 et identique, portant article additionnel après l’article 2  bis, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Blandine Brocard, pour soutenir l’amendement no 715."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Si l’enveloppe indemnitaire globale est, d’une part, déterminée par le nombre maximal théorique d’adjoints et qu’elle peut, d’autre part, être utilisée pour verser une indemnité aux conseillers municipaux, nous risquons de contrevenir aux règles de parité.\nActuellement, la loi impose une liste par alternance de sexe pour l’élection des adjoints au sein des conseils municipaux et prévoit également que l’enveloppe indemnitaire globale est déterminée par le nombre effectif d’adjoints en poste. Un exécutif local qui pourrait prétendre à six adjoints mais n’en aurait, comme cela peut arriver, que quatre, deux hommes et deux femmes, indemnisés au maximum, ne peut donc pas piocher dans cette enveloppe pour indemniser des conseillers municipaux délégués.\nS’il était adopté, le présent texte lui donnerait la possibilité d’utiliser un montant équivalent aux indemnités de deux adjoints théoriques supplémentaires, mais sans la moindre obligation de parité. Nous pourrions donc nous retrouver dans la situation suivante : un maire, qui ne disposerait que d’un seul adjoint – le minimum autorisé – de sexe masculin, pourrait donner délégation à cinq conseillers municipaux de sexe masculin, indemnisés au même taux qu’un adjoint !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Défavorable. (« Oh ! » sur plusieurs bancs du groupe Dem.) J’imagine mal un maire chercher à contourner ainsi la parité, en faisant en sorte qu’un seul adjoint soit élu par le conseil municipal afin de réserver le versement d’indemnités de fonction à des conseillers délégués hommes plutôt qu’à des adjointes femmes élues sur la liste !"
+        },
+        {
+          "orateur": "M. Christophe Blanchet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Ce n’est pas impossible !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Une telle situation, si je peux me permettre, me paraît un peu tirée par les cheveux…"
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Oh !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "La disposition que vous proposez risque en outre de complexifier et de rigidifier davantage la répartition de l’enveloppe indemnitaire globale…"
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Certainement pas !"
+        },
+        {
+          "orateur": "M. Emmanuel Mandon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794114",
+          "texte": "Non, de l’encadrer !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "…en limitant le pouvoir d’appréciation de l’organe délibérant."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Je ne suis pas d’accord, monsieur le rapporteur. De telles situations peuvent se produire : lorsque l’enveloppe indemnitaire globale n’est pas complètement consommée parce que les adjoints sont moins indemnisés, le montant restant peut servir à indemniser des conseillers délégués. Il faut donc voter l’amendement de Mme Brocard afin d’éviter le contournement des règles de parité. Nous sommes à 1 000 % favorables à sa proposition. On ne peut pas prévoir la possibilité d’indemniser ces conseillers – quelle que soit leur délégation – sans que ne s’imposent à eux les mêmes règles d’alternance entre un homme et une femme. Il faut absolument que ce soit le cas !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Blandine Brocard."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Pardonnez-moi, monsieur le rapporteur, mais mon exemple n’était absolument pas théorique : je ne nommerai pas le maire de ma connaissance qui a procédé ainsi…"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Un élu de droite sans doute ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Je sais bien que l’immense majorité des maires ne sont pas dans son cas. Il est néanmoins nécessaire d’ajuster le dispositif si l’on veut prévenir la possibilité de le contourner. Pourquoi, sinon, voter des lois sur la parité ? Je dois avouer que je n’étais pas très partisane de l’instauration de la parité dans les communes de moins de 1 000 habitants, mais tâchons d’éviter les biais lorsque des cas pratiques se présentent à nous ; il serait très regrettable de ne pas tout faire pour que les choses se passent bien. Il ne s’agit certainement pas d’imposer des contraintes supplémentaires ! (Applaudissements sur plusieurs bancs des groupes Dem et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 715."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        145\n        Nombre de suffrages exprimés                132\n        Majorité absolue                        67\n                Pour l’adoption                61\n                Contre                71"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 715 n’est pas adopté.)\n (Soupirs sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Ils ne se sont pas mouillés !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Nous en venons aux deux amendements identiques, nos 484 et 524.\n La parole est à M. Emmanuel Duplessy, pour soutenir l’amendement no 484."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Depuis la loi « engagement et proximité » de 2019, toutes les collectivités territoriales doivent établir un état présentant l’ensemble des indemnités de toutes natures perçues par les élus siégeant au sein de leur conseil – il faudrait d’ailleurs en tenir compte lorsque nous débattons de leur écrêtement, au lieu de s’en tenir uniquement aux principales indemnités.\nLa loi de 2019 n’a cependant pas précisé les modalités de la publicité de cet état annuel des indemnités. Comment nos concitoyens peuvent-ils en avoir connaissance ? (M. Emmanuel Taché de la Pagerie fait mine de pleurer.) Dans un souci de transparence, l’amendement, corédigé avec les associations de lutte contre la corruption, en particulier Anticor et Transparency International, tend à ce que le gouvernement prenne un décret pour définir les conditions dans lesquelles ces informations sont rendues publiques."
+        },
+        {
+          "orateur": "M. Emmanuel Taché de la Pagerie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793382",
+          "texte": "Ouin ouin !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Une telle mesure ne créerait pas une nouvelle obligation ; elle permettrait simplement de garantir la publicité des informations fournies par les élus."
+        },
+        {
+          "orateur": "M. Emmanuel Taché de la Pagerie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793382",
+          "texte": "C’est poussif !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839365",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Carlos Martens Bilongo, pour soutenir l’amendement no 524."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "texte": "Dans le même esprit, il vise à prévoir la publication de cet état annuel en open data, afin que l’ensemble des indemnités perçues par les conseillers – y compris par ceux auxquels sont confiées des missions satellites dans d’autres organismes –, puissent être communiquées à nos concitoyens. L’amendement a été rédigé par l’antenne française de Transparency International."
+        },
+        {
+          "orateur": "M. Emmanuel Taché de la Pagerie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793382",
+          "texte": "C’est l’Assemblée nationale des lobbys !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "Je ne comprends pas bien vos amendements : cet état annuel est communiqué chaque année aux conseillers avant l’examen du budget de leur collectivité. Puisqu’il fait l’objet d’une délibération et d’un vote, il est donc évidemment public !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "En matière d’indemnités, vous le savez bien, rien n’est gardé secret, tout est complètement transparent."
+        },
+        {
+          "orateur": "M. Tristan Lahais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841223",
+          "texte": "Couci-couça !"
+        },
+        {
+          "orateur": "M. Didier Le Gac",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA719404",
+          "texte": "À supposer que cet état ne soit pas disponible, il serait très facile à n’importe quel citoyen de saisir la Commission d’accès aux documents administratifs (Cada) pour l’obtenir. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Même avis. Le populisme n’est pas loin ! Les données sont publiques ; elles sont rendues publiques et, croyez-moi, la presse en fait ses gorges chaudes ! Il est tout à fait possible de connaître les indemnités de chacun."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Emmanuel Duplessy."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Passons sur le fait que l’on vient de suggérer que nous serions populistes parce que nous rappelons une exigence de transparence… Le fait est que l’indemnité principale perçue au titre d’un mandat local de conseiller municipal est facilement accessible – je vous l’accorde – car elle fait l’objet d’une délibération du conseil, au début, voire en cours de mandat si nécessaire. Il est en revanche beaucoup plus compliqué de faire la transparence sur les jetons de présence, sur les indemnités liées aux représentations dans telle société publique locale (SPL), telle société d’économie mixte (SEM) ou tel organisme : ces informations demeurent inaccessibles à nos concitoyens. Tout l’objet de l’amendement est de leur permettre de retrouver facilement l’ensemble des émargements des élus, il n’y a rien de populiste là-dedans !"
+        },
+        {
+          "orateur": "M. Vincent Jeanbrun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842117",
+          "texte": "Votre amendement est satisfait ! Ne vous déclarez-vous pas auprès de la HATVP ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il souffre peut-être de phobie administrative, lui aussi !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Le populisme consiste plutôt à soupçonner en permanence nos concitoyens d’être incapables de comprendre les informations disponibles. La transparence ne fait pas de mal ; au contraire, elle favorise la confiance et la compréhension."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Sylvain Berrios."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Ces amendements sont satisfaits ! Il est obligatoire d’annexer au budget primitif de sa ville l’intégralité des rémunérations des élus. (Protestations sur plusieurs bancs du groupe EcoS.) Si vous aviez dirigé un exécutif local, vous le sauriez !"
+        },
+        {
+          "orateur": "M. Vincent Jeanbrun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842117",
+          "texte": "Eh oui, ils sont hors-sol !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix les amendements identiques nos 484 et 524."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        154\n        Nombre de suffrages exprimés                150\n        Majorité absolue                        76\n                Pour l’adoption                36\n                Contre                114"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 484 et 524 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839389",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements nos 412, 730, et 731 rectifié, par le groupe Rassemblement national ; sur l’amendement no 458, par les groupes Rassemblement national et Socialistes et apparentés.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLes amendements nos 412 et 730 peuvent être soumis à une discussion commune.\n La parole est à M. Patrick Hetzel, pour soutenir l’amendement no 412."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Il vise à supprimer les alinéas 5 à 7. L’alinéa 5 vise à élargir la prise en charge des frais spécifiques liés au handicap des élus municipaux. Or une lecture attentive du texte montre qu’une telle disposition entraînerait en réalité à une double prise en charge, par la commune et par l’EPCI, l’établissement de coopération intercommunale. Il convient donc de la supprimer.\nL’article 5 crée également, pour les communes de moins 3 500 habitants, une nouvelle majoration de la DPEL, la dotation particulière relative aux conditions d’exercice des mandats locaux, afin de compenser le montant de la prise en charge des frais de transport, rendue obligatoire par le présent texte. Or puisque cette compensation de l’État est financée à enveloppe constante, cela pourrait affecter les autres majorations existantes, au détriment des communes qui y sont éligibles. C’est pourquoi il faut aussi supprimer les alinéas 6 et 7."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Blandine Brocard, pour soutenir l’amendement no 730."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Pour notre part, nous demandons uniquement la suppression des alinéas 6 et 7. Le raisonnement est néanmoins le même et je vous rejoins, cher Patrick Hetzel : la DPEL étant une enveloppe fixe et fermée, les mesures prévues pourraient se révéler contre-productives, en particulier pour les petites communes pour lesquelles elle a été créée – ces petites communes dont nous parlons beaucoup depuis le début de la discussion. Afin de s’assurer que le remboursement des frais de déplacement ne se fera pas au détriment, par exemple, de la formation ou de la protection fonctionnelle, nous proposons d’aligner le régime des communes de moins de 3 500 habitants sur celui des autres communes."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission sur ces deux amendements ?"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Les deux amendements ont un point commun : ils tendent à supprimer l’obligation de rembourser les frais de déplacement des élus dans les communes de moins de 3 500 habitants.\nL’objectif de la proposition de loi, je le rappelle, est de lever les freins à l’engagement local. Le fait d’engager des frais pour exercer son mandat constitue l’un de ces freins. L’élu local – y compris dans les petites communes que vous évoquez, où le montant des indemnités, en dépit des revalorisations prévues par le texte, sont loin de couvrir toutes les dépenses liées à l’exercice d’un mandat – devrait-il puiser dans ses ressources propres ? Il ne paraît pas déraisonnable de rembourser les frais de déplacement de ces élus.\nEnsuite, pourquoi parlez-vous de la DPEL comme d’une enveloppe fermée ? Il n’est écrit nulle part dans le texte qu’elle ne pourra pas évoluer – tout l’objet de nos discussions avec le gouvernement est d’ailleurs de faire en sorte que les mesures que nous voterons puissent être compensées ; en l’occurrence, pour les petites communes, cela passera par la DPEL, laquelle devra évidemment être revalorisée. Pour preuve : les mesures envisagées sont décalées dans le temps afin, précisément, de favoriser cette évolution.\nMonsieur Hetzel, vous proposez en outre de supprimer la prise en charge des frais spécifiques des élus locaux en situation de handicap. J’avoue ne pas comprendre votre intention. Il me semble au contraire que l’ambition de lever les freins à l’engagement local des personnes en situation de handicap passe impérativement par la prise en charge de leurs frais spécifiques. Je suis donc défavorable aux deux amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Je suis favorable à l’amendement no 412 de M. Hetzel car il vise à supprimer, avec l’alinéa 5, la prise en charge par la commune des frais spécifiques engagés par les élus en situation de handicap pour prendre part à des réunions de groupements de collectivités territoriales dont la commune est membre. Or ces frais sont déjà pris en charge par les EPCI. On ne peut donc qu’être d’accord pour supprimer ce doublon. Il ne s’agit évidemment pas de supprimer les remboursements pour les élus en situation de handicap : il faut bien lire le texte !\nJe suis également favorable à l’amendement de Mme Brocard, qui vise à supprimer les alinéas 6 et 7. L’article 4 étendant la DPEL aux communes de moins de 3 500 habitants, il n’est pas nécessaire d’instaurer ici un tel dispositif de remboursement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Violette Spillebout."
+        },
+        {
+          "orateur": "Mme Violette Spillebout",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794486",
+          "texte": "Pour notre part, nous serons plutôt favorables au maintien de cette disposition. En effet, en travaillant sur le sujet des élus en situation de handicap, nous nous sommes aperçus que ceux qui avaient déclaré leur handicap – certains handicaps n’étant pas visibles – n’étaient pas plus de 200 sur l’ensemble du territoire ; c’est très peu. En outre, la plupart de ces élus n’utilisent que très faiblement les dispositifs de remboursement des frais de déplacement.\nNous avons avancé sur ce point au cours de l’examen du texte au Sénat et en commission des lois, puisque nous avons élargi les dispositifs de prise en charge des frais liés à l’aménagement du poste de travail, qui inclut le lieu d’exercice du mandat mais aussi le domicile. Nous avons aussi élargi ces remboursements aux frais engagés lors des réunions préparatoires aux conseils municipaux.\nCependant, nous avons remarqué que le remboursement des frais de déplacement pouvait rencontrer des limites : par exemple, certaines réunions non officielles, dans le cadre de l’EPCI, ne seraient pas prises en compte. C’est pourquoi nous préférons maintenir ce dispositif. Nous n’imaginons pas qu’un élu puisse demander deux fois le remboursement de ses frais. En revanche, si les déplacements ne relèvent pas du strict cadre municipal, ils pourront être pris en charge par l’EPCI. Cela méritera sans doute d’y réfléchir lors de l’élaboration des décrets d’application. Nous voterons donc contre ces amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Nous partageons à 100 % ce qui vient d’être dit. Cependant, un doute m’assaille : est-ce bien dans cette partie que le texte traite de l’aménagement du poste de travail des élus en situation de handicap ? Je me trompe peut-être."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Cela vient après !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "En tout état de cause, nous partageons la position qui vient d’être exprimée : maintenons les dispositifs tels qu’ils figurent dans l’article, nous verrons bien ensuite ce qu’il en est."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Il ne faut pas laisser penser qu’on ne rembourserait pas les frais de déplacement des élus en situation de handicap. Cet article traite de la DPEL. En revanche, pour répondre à l’interrogation de Mme Martin, tout ce qui concerne l’adaptation de l’environnement de travail sera examiné à l’article 13."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Ah, d’accord !"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Vous créez ici un doublon qui ne me paraît pas utile : il n’existe aujourd’hui aucun cas dans lequel un élu en situation de handicap ne pourrait pas faire rembourser ses frais de déplacement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Je souhaite interroger le président de la délégation aux collectivités territoriales et à la décentralisation car je ne suis pas sûr d’avoir compris son propos. Nous venons de voter à l’article 2, avec un large consensus, une augmentation du plafond des indemnités des élus – chaque conseil municipal conservant la possibilité d’augmenter ou non la rémunération de ses membres, en fonction de l’état des finances de la commune, de la volonté des élus et des mandats qui leur ont été confiés. Or vous déclarez à présent que nous avons certes augmenté le plafond, mais que vous avez demandé pour cela une augmentation de la DPEL et que c’est donc l’État qui paiera. Ce n’est pas du tout la même chose ! Pourriez-vous dissiper cette confusion ?\nNous n’avons pas voté une augmentation de la DPEL ; pourtant, vous avez déclaré être en négociation pour que l’augmentation que nous avons votée soit payée par la DPEL. Ce n’est pas ce que nous avons décidé et, si tel était le cas, je changerais mon vote ! Il faudra donc peut-être voter à nouveau en fonction de votre réponse."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Je vous reconnais bien là : vous cherchez toujours à embrouiller les esprits ! (Exclamations et sourires sur plusieurs bancs des groupes EPR et DR.) La question qui est posée est celle de la prise en charge, par la DPEL, des frais de déplacement des élus. Ce que ne dit pas M. le ministre dans l’avis qu’il donne sur l’amendement de M. Hetzel, c’est que ce dernier tend à supprimer les alinéas 5 à 7, pas uniquement l’alinéa 5 ; il vise donc à supprimer la disposition qui permet la prise en charge, par la DPEL, dans les communes de moins de 3 500 habitants, des frais de déplacement des élus. Or c’est bien ce que nous défendons dans cet article : que les frais de déplacement des élus puissent être couverts par la DPEL pour les communes de moins de 3 500 habitants, en considérant qu’il est normal que l’État accompagne ces communes de moindre taille dans la prise en charge de ces frais."
+        },
+        {
+          "orateur": "Mme Stella Dupont",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643175",
+          "texte": "Très clair !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Catherine Hervieu."
+        },
+        {
+          "orateur": "Mme Catherine Hervieu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840947",
+          "texte": "Tout d’abord, parmi les nombreux amendements déposés, une grande partie a été déclarée irrecevable au titre de l’article 40 de la Constitution. Or les amendements que nous examinons ont été déclarés recevables. Cela suggère donc que des possibilités financières existent, comme vient de le dire M. le rapporteur.\nEnsuite, il faut rappeler que cet article fait partie de l’ensemble des dispositifs qui facilitent l’engagement des citoyens et des citoyennes dans le mandat d’élu local, en élargissant leur palette sociologique. Nous avons entendu tout à l’heure que la plupart des élus locaux et des maires étaient des retraités, sous-entendant qu’ils n’avaient pas besoin d’être accompagnés financièrement. Au contraire, nous voulons que ce texte, qui crée un statut de l’élu local facilitant l’engagement, permette aussi que la société soit représentée de la façon la plus large possible parmi les élus locaux : des jeunes, des étudiants, des personnes en situation de handicap, des femmes, des salariés, des riches comme des pauvres.\nL’article 5 facilite cet engagement de telle sorte qu’une représentation de l’ensemble de notre société soit favorisée à tous les échelons institutionnels."
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Éclairant !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 412."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        149\n        Nombre de suffrages exprimés                119\n        Majorité absolue                        60\n                Pour l’adoption                32\n                Contre                87"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 412 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 730."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        152\n        Nombre de suffrages exprimés                146\n        Majorité absolue                        74\n                Pour l’adoption                39\n                Contre                107"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 730 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839484",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur, pour soutenir l’amendement no 458."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Il s’agit d’un amendement de coordination pour l’outre-mer."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 458."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        151\n        Nombre de suffrages exprimés                149\n        Majorité absolue                        75\n                Pour l’adoption                144\n                Contre                5"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 458 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839492",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Blandine Brocard, pour soutenir l’amendement no 731 rectifié."
+        },
+        {
+          "orateur": "Mme Blandine Brocard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721336",
+          "texte": "Le remboursement des frais de transport des élus est évidemment souhaitable mais l’usage rigoureux des deniers publics impose, au minimum, que ces déplacements soient indispensables. Or nous savons bien que de nombreuses réunions d’instances ou de comités consultatifs proposent des outils de visioconférence ou d’audioconférence. Dans certains cas, ces outils doivent être privilégiés, pour éviter toute dérive et tout automatisme dans le remboursement des frais de transport."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Par cet amendement, vous entendez restreindre le remboursement des frais de transport aux seuls cas dans lesquels la présence de l’élu est nécessaire."
+        },
+        {
+          "orateur": "M. Christophe Blanchet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Ce n’est pas ce qu’elle a dit !"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Cependant, comment définit-on le caractère nécessaire de la présence d’un élu ? Qui l’apprécie et selon quels critères ? Les élus, me semble-t-il, ne se déplacent guère que lorsque leur présence est nécessaire ; je n’ai jamais vu un élu courir après les déplacements au prétexte qu’il pourrait en être défrayé. Beaucoup d’entre eux cherchent, au contraire, à réduire leurs déplacements pour se rendre uniquement là où c’est indispensable.\nNous aurons l’occasion d’aborder la question du recours à la visioconférence à l’article 7. Certaines dispositions visent à permettre ce recours pour les réunions qui ne sont pas délibératives. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. François Rebsamen",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA415496",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Élisa Martin."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Nous ne soutiendrons pas cet amendement qui laisse une part trop grande à l’appréciation subjective. En effet, le « caractère nécessaire de la présence physique de l’élu » paraît tout à fait aléatoire.\nDe surcroît, j’appelle votre attention, même si nous aurons l’occasion d’en discuter plus tard, sur le fait qu’il est tout de même bien mieux de pouvoir échanger directement, sans passer par la visioconférence. Si j’avais envie de blaguer, comme il est 23 h 57 et que cela m’arrive parfois,…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Non, s’il vous plaît, pas de blague ! C’est un travail sérieux !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "…je vous dirais : allez, hop, tous en visio dans l’hémicycle ! (Protestations sur plusieurs bancs des groupes EPR, DR et Dem.)\nÉvaluer la nécessité de la présence physique d’un élu est trop subjectif. Ou alors, cela demande d’entrer dans d’autres considérations, comme à l’article 7, où l’on juge que la présence physique est obligatoire pour le conseil municipal et pour les commissions municipales examinant les délibérations. Mais pourquoi ne le serait-elle pas aussi pour les groupes de travail ?"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Dans deux minutes, le carrosse de Cendrillon s’en va !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Frédéric Petit."
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Sans aller jusqu’à nous réunir en visioconférence, madame Martin, nous pourrions tout de même moderniser notre travail, à l’Assemblée, afin de ne plus être obligés, entre autres, d’être à trois endroits à la fois – cela dit pour répondre à votre plaisanterie, car je n’y crois par trop !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Ils ont un hologramme, eux ! Jean-Luc, reviens ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Je suis inquiet d’une confusion que je perçois dans vos propos, monsieur le rapporteur : ma collègue ne demande pas que les remboursements des frais soient revus à la baisse, mais qu’il y ait moins de frais."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Et qu’ils soient justifiés !"
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Une telle confusion indique de votre part, monsieur le rapporteur, une sorte de réflexe…"
+        },
+        {
+          "orateur": "Mme Alexandra Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793342",
+          "texte": "Mais comment évaluer la nécessité d’un déplacement ?"
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "C’est une autre question ! Je m’adressais toutefois au rapporteur, qui prétendait que l’amendement de ma collègue visait à diminuer les remboursements de frais, quand il tendait, en réalité, à réduire les frais eux-mêmes – ce qui nous concerne tous."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’amendement no 731 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        155\n        Nombre de suffrages exprimés                150\n        Majorité absolue                        76\n                Pour l’adoption                13\n                Contre                137"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 731 rectifié n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 5, amendé, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3839525",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Prochaine séance, demain, à quinze heures :\n Discussion, sur le rapport de la commission mixte paritaire, du projet de loi de programmation pour la refondation de Mayotte ;\n Discussion, sur le rapport de la commission mixte paritaire, du projet de loi organique relatif au département-région de Mayotte ;\nSuite de la discussion de la proposition de loi portant création d’un statut de l’élu local.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

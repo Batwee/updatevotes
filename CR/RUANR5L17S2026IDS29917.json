@@ -1,0 +1,2048 @@
+{
+  "uid": "CRSANR5L17S2026O1N056",
+  "seanceRef": "RUANR5L17S2026IDS29917",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2025-11-17",
+  "dateLisible": "lundi 17 novembre 2025",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3922693",
+      "valeurPtsOdj": "1",
+      "titre": "Projet de loi de finances de fin de gestion pour 2025",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "L’ordre du jour appelle la discussion, après engagement de la procédure accélérée, du projet de loi de finances de fin de gestion pour 2025 (nos 2068, 2078)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3922696",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Ce rappel au règlement est relatif à la bonne tenue de nos débats, même s’il s’agit d’une information concernant le projet de loi de finances (PLF). J’ai pensé opportun de vous la communiquer tout de suite puisque nous ne discuterons pas de ce texte avant demain. Comme je l’avais dit, j’ai écrit au ministre chargé des relations avec le parlement pour lui demander si, au cas où nous n’aurions pas fini l’examen de la partie recettes du PLF avant dimanche, minuit, le gouvernement, puisqu’il en a le pouvoir, accepterait de prolonger notre discussion de vingt-quatre heures afin que nous ayons le temps de terminer l’examen des amendements.\nDans sa réponse, le ministre indique qu’« à aucun moment […], il n’a été question de différer le vote sur la première partie au-delà du délai de quarante jours dévolu à l’Assemblée nationale par l’article 47 de la Constitution pour l’examen du PLF ». Selon le ministre, « il n’y a donc aucune raison d’imaginer que le vote sur la première partie du PLF ne puisse se tenir dans les délais, c’est-à-dire avant le dimanche 23 novembre à minuit ». Il explique que si le vote était différé, le Sénat se trouverait dans une situation telle que des contraintes trop fortes pèseraient sur lui.\nL’examen de la première partie du PLF s’achèvera donc bien dimanche à minuit. Voilà du moins une réponse claire – que l’on a tardé à obtenir s’agissant du PLFSS.\nLe ministre explique que pour examiner le PLF pour 2025, l’Assemblée nationale a siégé pendant soixante-quinze heures et note que cette fois, les débats en séance ont déjà duré plus de quatre-vingt-cinq heures. Les débats ont été moins longs l’an dernier sans doute parce que les bancs, notamment ceux des groupes gouvernementaux, étaient moins remplis du fait de l’usage attendu du 49.3 et parce que les députés des groupes qui soutenaient théoriquement le gouvernement avaient déposé, comme c’est l’usage, moins d’amendements.\nLe ministre remarque aussi que le Sénat n’a pas eu connaissance, au cours de la deuxième quinzaine du mois de novembre, du contenu de la première partie du PLF sur laquelle il est appelé à se prononcer. Il note que ce fait est rare et contribue à expliquer pourquoi il est impossible de dépasser le délai. Je tiens à dire que si le Sénat se trouve dans cette situation, ce n’est pas l’Assemblée qui en est responsable : c’est aussi dû au fait que l’examen du projet de loi de finances a commencé avec deux semaines de retard.\nChacun est désormais informé des délais dans lesquels nous devons achever l’examen de ce texte."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Et on a fermé les séances du week-end !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3922706",
+      "valeurPtsOdj": "1",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme la ministre de l’action et des comptes publics."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre de l’action et des comptes publics",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Le projet de loi de finances de fin de gestion (PLFG) pour 2025 est le dernier jalon dans l’exécution de la loi de finances pour 2025, adoptée le 14 février à l’issue – on s’en souvient – d’un compromis parlementaire. Ce texte technique retrace les principaux événements survenus en cours de gestion et prévoit d’ajuster la répartition de certains crédits pour répondre aux imprévus auxquels nous ferons face d’ici la fin de l’année. Ces imprévus correspondent à la réalité de la vie et doivent nous amener à nous ajuster.\nLe PLFG n’a pas d’autre objectif que de garantir avec précision et en toute transparence la bonne exécution de la dépense. Il est essentiel de poser ce jalon pour respecter la cible de déficit fixée en février à 5,4 % du PIB. Je dis d’emblée qu’il ne contient aucune dépense ni aucune économie supplémentaire. Il ne contient rien que vous ne connaissiez déjà, puisqu’il permet, surtout, de tenir les objectifs fixés par les parlementaires l’hiver dernier.\nLes cinq principales ouvertures de crédit prévues par ce PLFG ne visent qu’à éviter d’éventuelles impasses pendant les dernières semaines de 2025, dans cinq domaines. Il s’agit premièrement de l’allocation aux adultes handicapés (AAH)…"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…et de la prime d’activité, dont la dynamique, un peu plus allante que nous ne l’avions anticipé, requiert l’ouverture de 450 millions d’euros de crédits afin de garantir les versements attendus par les allocataires au mois de décembre.\nS’agissant de l’hébergement d’urgence, 119 millions seront déboursés pour que les 203 000 places d’hébergement dont nous disposons restent ouvertes jusqu’à la fin de l’année.\nLa mission Sécurités reçoit 190 millions pour répondre aux besoins de protection supplémentaires que les populations de Mayotte et de Nouvelle-Calédonie ont exprimés et pour tenir compte du coût des incendies de grande ampleur qui ont frappé notre pays cet été. Une ouverture de 45 millions, sur le programme Conditions de vie outre-mer, permettra de faire face aux dépenses exceptionnelles occasionnées par le passage du cyclone Chido à Mayotte et celles causées par le cyclone Garance à La Réunion.\nUne autre ouverture concerne la mission Défense, à hauteur de 349 millions. Il s’agit, dans le contexte international que vous savez, de financer des surcoûts opérationnels et de concourir à l’accélération de l’effort de réarmement souhaité par le président de la République.\nEnfin, la cinquième ouverture vise à garantir le respect de nos engagements contractuels en matière de production d’énergies renouvelables, à hauteur de 1,1 milliard.\nCes ouvertures n’aggravent pas le déficit puisqu’elles sont gagées, la quasi-totalité par des annulations dans la réserve de précaution qui, depuis cette année, permet de couvrir les besoins d’ouverture au niveau interministériel. Seuls 100 millions sont annulés au-delà de la réserve. J’insiste sur ce point : il ne s’agit pas de faire des économies supplémentaires mais bien de procéder à des ajustements de trésorerie ou, dans certains cas, de prendre en compte certains retards d’investissement.\nPour entrer dans le détail, les principales annulations brutes portent sur les missions où les plus fortes sous-consommations ont été observées. Autrement dit, là où l’on annule, c’est là où l’on n’a pas dépensé. C’est en particulier le cas s’agissant de la mission Travail, emploi et administration des ministères sociaux, où l’annulation, à hauteur de 800 millions, correspond à la moitié de la réserve, ce qui veut dire que l’autre moitié sert bien à financer des politiques publiques.\nD’autres annulations sont prévues dans la mission Investir pour la France de 2030, à hauteur de 1,6 milliard, pour ajuster la trésorerie à la réalité des dépenses. Autrement dit, sans cette annulation, les opérateurs de France 2030 auraient terminé l’année 2025 en disposant de plus de 5 milliards d’euros de trésorerie ; avec cette annulation, leur trésorerie de fin d’année sera de l’ordre de 3,5 milliards.\nJe vous indique, pour être exhaustive, qu’en dehors du périmètre des dépenses de l’État, des annulations interviennent également pour tenir compte des dernières prévisions relatives à des programmes portant des crédits évaluatifs. Je pense notamment à l’annulation de 3 ,2 milliards dans la mission Remboursements et dégrèvements, en cohérence avec la dernière prévision de recettes fiscales nettes, ainsi qu’à l’annulation, à hauteur de 2,9 milliards, dans le programme 117, Charge de la dette et trésorerie de l’État, qui résulte de la diminution des taux directeurs de la Banque centrale européenne (BCE) – qui a affecté nos taux courts à la baisse – et du contexte international financier – les taux à dix ans sont moins élevés que nous ne l’avions anticipé.\nEn résumé, il n’y aura aucune coupe, ni dans les budgets des ministères ni dans les prestations."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Elles ont été faites avant !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Ce sont des mesures techniques, qui permettent d’appliquer des principes de bonne gestion. À elles seules, elles devraient nous permettre d’atteindre la cible de dépenses inscrite dans la loi de finances initiale (LFI) et, surtout, de tenir de nouveau la cible de déficit. Après plusieurs années de crise et de dérive – caractérisées, on le sait, par des recettes fiscales bien en deçà des prévisions, du fait d’une élasticité très faible –, nous sommes, en 2025, en passe de tenir l’objectif fixé.\nÉvidemment, je ne me rejouis pas que le déficit public atteigne 5,4 % du PIB. Néanmoins, nous pouvons nous féliciter collectivement que, cette année, l’objectif fixé ait été tenu, alors que le déficit public atteignait 5,8 % du PIB en 2024. Il le fallait pour croire nous-mêmes en notre capacité à ramener le déficit à 3 % en 2029, c’est-à-dire à un niveau tel que notre dette, mesurée en pourcentage du PIB, cessera d’augmenter."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il était temps !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Nous devons ce bon résultat à notre vigilance collective : nous avons tenu la dépense. Je dis bien « nous » puisque, depuis le début de l’année, je vous ai associés – à l’époque avec Éric Lombard – en vous communiquant systématiquement l’ensemble des données que nous recevions s’agissant tant des recettes que des dépenses. Cela nous permet aujourd’hui d’obtenir un alignement des dépenses de l’État avec le niveau prévu par la LFI.\nDans le même temps, l’économie française est demeurée résiliente – je ne dis pas flamboyante, mais résiliente –, avec 0,7 % de croissance, des recettes fiscales en ligne avec la cible retenue en début d’année et de bonnes performances de l’impôt sur le revenu (IR) et de l’impôt sur les sociétés (IS), qui compensent la dégradation des recettes de la taxe sur la valeur ajoutée.\nComme l’a rappelé le premier ministre à de nombreuses reprises, le gouvernement s’est placé et se place plus que jamais au service du Parlement. Le gouvernement a proposé, le Parlement a disposé et le gouvernement a appliqué.\nCe résultat est un gage de crédibilité pour nous tous, vis-à-vis des Français, de nos partenaires européens et internationaux et de nos créanciers. Dans un monde instable, il faut des points de stabilité ; tenir un objectif de déficit constitue indéniablement un point de stabilité. Cela montre que quand on trouve un compromis parlementaire, le gouvernement sait le faire respecter. Mesdames et messieurs les députés, alors que vous cherchez un compromis pour 2026, le gouvernement peut sérieusement affirmer qu’il devra, et qu’il pourra, l’appliquer.\nAprès deux années marquées par l’augmentation de notre déficit, nous avons décidé de changer de méthode."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il était temps ! Tout ça parce que Macron a cramé la caisse ! Il est temps qu’il parte, celui-là !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Éric Lombard et moi-même vous avons présenté en mars un plan d’action pour améliorer le pilotage des finances publiques, les prévisions, les outils de suivi de l’exécution et surtout la transparence de cette dernière. En avril et en juin, lors des rendez-vous dits comités d’alerte, nous vous avons présenté, à vous parlementaires, mais aussi aux élus locaux, aux organisations syndicales et patronales et à l’ensemble des acteurs impliqués, les dernières évolutions de nos comptes publics. Lors de ces réunions, où nous avons dit là où nous en étions et ce que nous devions faire pour tenir le cap, nous avons aussi pris des décisions, pour contrôler la dépense, annuler certains crédits fin avril, lancer un surgel en septembre pour renforcer la réserve de précaution.\nUne réserve de précaution permet à un pays de ne dépenser que si les circonstances le permettent."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Si on a de l’argent, surtout !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "C’est de la bonne gestion : cela évite au déficit de déraper. Je souhaite que ces comités d’alerte, qui ont été un outil précieux, soient reconduits l’an prochain.\nCe texte permet d’apporter les derniers ajustements à une exécution 2025 conduite avec vigilance et anticipation, mais pas seulement. En l’adoptant, vous poseriez la première pierre sur laquelle seront bâtis le bon fonctionnement, la bonne exécution et la bonne maîtrise des comptes publics en 2026. Vous cherchez aujourd’hui un nouveau compromis ; entériner le respect du précédent est une étape importante. Je répondrai à toutes vos questions pour que ce texte puisse recevoir votre validation. (Applaudissements sur plusieurs bancs du groupe EPR et sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Philippe Juvin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Nous entamons ce soir l’examen du projet de loi de fin de gestion pour 2025. Avant de voter pour ou contre ce texte, il faut planter le décor. De quoi parlons-nous ? S’agit-il de juger de la bonne ou de la mauvaise gestion du gouvernement au cours de l’exercice budgétaire de 2025 ? Non, évidemment. Pour cela, il y aura le projet de loi d’approbation des comptes au printemps. S’agit-il de peser sur les choix budgétaires 2026 ? Non, évidemment. Pour cela, il y a le projet de loi de finances pour 2026, qui nous occupe depuis un mois. S’agit-il de nous positionner sur la funeste suspension de la réforme des retraites ? Non, nous le ferons lors du vote final sur le projet de loi de financement de la sécurité sociale, après la réunion de la commission mixte paritaire. S’agit-il alors de dire stop à la pression fiscale, de baisser enfin les taxes et les impôts sous lesquels nous étouffons ? Non plus. C’est l’objet du débat que nous continuerons de mener ensemble ici cette semaine. S’agit-il de baisser, comme cela est indispensable, la dépense publique ? Pas plus, puisqu’il faudra d’abord terminer nos travaux en commission des finances mercredi avant de nous attaquer à cette question centrale de la dépense, plus probablement en commission mixte paritaire."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Autant dire que ce débat ne sert à rien !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "De quoi s’agit-il alors ? Il s’agit tout bonnement d’ajustements techniques, en fin d’année, des crédits votés pour tenir compte des dernières informations macroéconomiques et des besoins apparus en cours de gestion. Rien de plus.\nLes recettes ne sont pas modifiées ; les dépenses, elles, sont ajustées – à la marge – pour tenir l’objectif de déficit qui, j’y reviendrai, est tenu, et pour couvrir les dépenses obligatoires apparues en cours de gestion : au-delà des dépenses contraintes telles que la charge de la dette de l’État, je pense à la couverture des charges du service public de l’énergie, aux dépenses sociales – prime d’activité, allocation aux adultes handicapés et hébergement d’urgence –, aux besoins des territoires ultramarins, à la prise en compte d’une saison malheureusement très inédite en matière de feux de forêt mais aussi à la solde des militaires et à quelques financements manquants pour les instituts de formation en soins infirmiers – IFSI –, particulièrement en Corse.\nLe projet de loi de finances de fin de gestion, formellement, c’est tout cela et rien que cela : des ajustements.\nJe sais que certains diront qu’ils sont mécontents de l’évolution des débats budgétaires et qu’ils veulent le manifester. À ceux-là, je répondrai que je comprends leurs inquiétudes. Oui, je le répète : nous devrions baisser la dépense publique tout en rationalisant nos dépenses, ne pas augmenter nos taxes et nos impôts, et même essayer de les baisser, tout faire pour favoriser l’activité, ce qui nous permettra de collecter plus de richesses à distribuer, de redonner de la liberté aux acteurs pour qu’ils créent, inventent, innovent. Oui, deux fois oui, je regrette comme vous que l’effort structurel de 2025 provienne exclusivement de hausses d’impôt et pas d’une baisse des dépenses !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "On nous avait promis l’inverse !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Celles-ci continueront d’augmenter de 45 milliards d’euros cette année, dont 27 milliards pour la sphère sociale. Pire, avec ce que nous avons déjà voté lors du projet de loi de finances pour l’année prochaine, nous risquons de subir, suite à cette frénésie fiscale, une augmentation de plus de 2 points des prélèvements obligatoires…"
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "À cause du déficit !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…dans un pays qui en est déjà le champion du monde. Notre incapacité chronique à baisser la dépense publique est manifeste ; en témoigne l’examen en commission de la seconde partie du projet de loi de finances, au cours duquel la quasi-totalité des missions ont vu leurs dépenses non pas diminuer, mais augmenter – sans parler des cas où elles n’ont pas été adoptées."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Parce que les besoins augmentent !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Soyons clairs : les Français ne pourront supporter éternellement un modèle où les dépenses progressent plus vite – 1,7 % en volume – que le PIB et où on augmente les prélèvements obligatoires de 0,8 % pour n’obtenir qu’une baisse de 0,4 % de l’endettement. Cependant, je vous le dis, mes chers collègues : ce projet de loi n’est pas le bon véhicule pour défendre avec moi ces priorités du sérieux budgétaire. Oui, nous devons avoir une colonne vertébrale aussi en matière budgétaire, et je sais que vous êtes nombreux à en être pourvus ici : il s’agit de dépenser moins, de dépenser mieux, de travailler plus et de simplifier. Toutefois, ce n’est pas dans ce projet de loi que cela se joue."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Où alors ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "En effet, au-delà du caractère indispensable du vote d’aujourd’hui pour l’AAH, Mayotte, la Nouvelle- Calédonie ou encore les universités, voter pour le projet qui nous réunit ce soir, c’est envoyer un signal de responsabilité au monde qui scrute la situation politique en France. Si ce projet de loi de fin de gestion a des défauts, il a au moins une vertu, capitale pour ceux qui nous regardent, inquiets : il acte la réduction du déficit à la fin de 2025.\nLe déficit est passé de 5,8 % à 5,4 % du PIB de 2024 à 2025, nous avons tenu le cap et atteint la cible fixée par la loi de finances pour 2025. Et c’est une nouveauté. Malgré tous les nuages, c’est un bon résultat. Convenons que les bonnes nouvelles ne sont pas si fréquentes qu’on puisse ne pas les relever."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Alors, tout va bien !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "En votant pour ce projet de loi, vous montrerez à nos voisins que la France parvient à réduire son déficit. À défaut d’obtenir tous les résultats souhaités, nous pouvons au moins rassurer le monde qui nous regarde. Dans une période où l’ombre d’une crise obligataire plane et où la confiance des marchés est fragile, nous ne pouvons rejeter un texte qui prend acte de la réduction du déficit, ce serait un mauvais signal.\n The Economist écrit cette semaine que « Le pays le plus vulnérable est la France. Elle combine une dette publique élevée, un déficit important et des impôts élevés, laissant peu d’espace pour augmenter encore les taxes sans nuire à la croissance. Les tentatives de réduire les dépenses ont échoué. Le pays se débat avec un budget insoluble. »"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "C’est le bilan Macron !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Voilà ce qu’écrit la presse internationale, voilà comment nos partenaires et nos investisseurs nous voient. Ce n’est pas très agréable à lire, mais c’est la réalité. Ce qui se joue aujourd’hui, c’est la question de l’image que nous donnons à l’extérieur. J’ai vécu la crise grecque comme député européen, et qu’est-ce qui a presque failli tuer la Grèce ?"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "La Troïka !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Son déficit ? Son absence d’appareil de production ? Son incapacité à réduire la dépense ? Non. Je ne compare pas la situation de la Grèce à l’époque et la nôtre, mais ce qui a failli tuer la tuer, ce fut le regard des autres :…"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Le regard de la droite !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…les Grecs allaient-ils parvenir à trouver des voies menant à des solutions ? Le voulaient-ils même ? Le jour où on a compris qu’il y avait des gens responsables, des adultes dans ce pays, alors que la discussion partait dans tous les sens, la confiance est revenue et l’espoir avec. Il y avait un parlement avec des hommes et des femmes, de droite et de gauche, pour s’accorder, et même si c’était sur peu, cela a compté !\nVous avez donc aujourd’hui une responsabilité personnelle. Pas votre groupe : chacun d’entre vous. Et si vous ne votez pas ce projet de loi de fin de gestion pour Mayotte, pour la Calédonie ou pour nos militaires,…"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Le chantage, ça va !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…faites-le pour envoyer un signal, un message, sans évidemment aucun cocorico : grâce aux parlementaires, le pays est administré ; nous préférons faire nos choix nous-mêmes plutôt que les laisser faire par ceux qui nous prêtent.\nJe vous le dis en tant que rapporteur général, vous devez profiter de ce vote pour dire à l’Europe que oui, nous avons réduit le déficit, que oui, la France est administrée, que oui, nous sommes une assemblée bien décidée, malgré ses déchirements, à s’accorder sur l’essentiel.\nC’est en effet le principal résultat de ce PLFG : nous sommes parvenus à réduire le déficit de 0,4 %. C’était notre objectif ; nous l’avons rempli. C’est peu trouverez-vous, mais, en réalité, c’est beaucoup ! (Applaudissements sur plusieurs bancs des groupes EPR, DR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Ce texte est un aveu, l’aveu d’un gouvernement qui s’est égaré en poursuivant un mirage. Je parle ici du mirage de la politique de l’offre. Il est de plus en plus lointain, de plus en plus vacillant, mais force est de constater que le gouvernement persiste dans cette traversée du désert.\nJe parle d’un mirage lointain et vacillant car les hypothèses macroéconomiques du gouvernement pour 2025 ont été massivement contredites par la réalité :…"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "…les investissements sont inférieurs de 0,6 point aux prévisions gouvernementales, la croissance inférieure de 0,2 point, la consommation des ménages de 0,6 point, les exportations de 2,1 points et l’inflation de 0,3 point. C’est à se demander ce qui a été correctement prévu !\nJe pense toutefois qu’il y a une explication. Aucun mensonge frontal du gouvernement selon moi, mais une illusion coupable sur les effets de sa politique, la même illusion qui a été mise à jour lors des travaux de la commission d’enquête que j’ai présidée, la même illusion qui a conduit à sacrifier 2 points de PIB de recettes aux très riches et aux multinationales, alourdissant profondément la dette publique – une augmentation de 11 points depuis 2017.\nC’est la même illusion qui tait la pauvreté, les inégalités, les logements insalubres et mal chauffés, les morts au travail et les besoins médicaux non satisfaits, bien que tous augmentent en France de manière unique en Europe selon de multiples données Eurostat ; la même illusion qui conduit Emmanuel Macron à ânonner qu’il a développé les investissements, l’industrie et l’emploi, alors que la France traverse une crise industrielle rarement vue, avec au premier semestre plus de fermetures que d’ouvertures d’usine et, depuis la dissolution,  444 plans sociaux !\nEt pourtant, le président de la République plastronne avec une IA cache-misère, qui n’est au fond qu’une illusion artificielle.\nLors des manifestations pour le climat, on entendait scander que la fin du monde et la fin du mois, c’était le même combat. Or ce projet de loi de fin de gestion révèle l’incapacité des exécutifs macronistes à répondre à l’une comme à l’autre."
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "La politique menée par le gouvernement empêche de garantir aux ménages qu’ils arriveront sans dommages à la fin du mois. Elle nuit au pouvoir d’achat et donc à la consommation populaire. La perte de recettes de TVA devrait être de 5 milliards d’euros pour l’État en 2025. C’est colossal. Je rappelle qu’à force de recourir à l’affectation de TVA comme palliatif à tout, notamment aux baisses de cotisations, 25 % de son produit est aujourd’hui affecté à la sécurité sociale et 27 % aux collectivités. Ainsi, quand les recettes de la TVA baissent, c’est tout l’édifice budgétaire qui est mis en péril par effet de contamination.\nDe même, la politique menée par le gouvernement empêche de répondre aux besoins climatiques de la population. Et il est même pris en flagrant déni de réalité : le budget Bayrou prévoyait de baisser cette année de 66,3 millions d’euros les moyens de la sécurité civile, soit une baisse de 7,5 points, autant de moyens supprimés pour les pompiers et la lutte contre les mégafeux ; mais finalement, cette loi de fin de gestion propose d’ouvrir 120,4 millions d’euros de crédits sur ce poste de dépenses.\nLe gouvernement s’est heurté au mur de la réalité. Il y a des dépenses incompressibles car elles répondent à des besoins ! Il s’agirait donc de faire preuve de raison et de ne pas prétendre baisser des budgets qui ne suffisent déjà pas – je note d’ailleurs que la ministre m’a donné raison sur ce point lors de son audition en commission.\nPlus globalement, voter cette loi de fin de gestion, c’est couper davantage dans les missions les plus touchées par les coupes du budget Bayrou en février, puis par les coupes décrétées en avril. (M. Aurélien Le Coq, M. René Pilato et Mme Ségolène Amiot applaudissent.) Les parlementaires qui voteront pour ce texte et donc pour ces annulations de crédits approuveront une baisse totale de 3,8 milliards d’euros sur le travail et l’emploi, mais aussi une baisse de 1,8 milliard sur l’aide publique au développement, de 872 millions dans l’agriculture ou encore de 523 millions pour les associations et pour le sport.\nPour conclure, je tiens à répondre aux arguments selon lesquels il n’y aurait pas de sens à rejeter un projet de loi de fin de gestion car il ne ferait au fond que raturer d’un simple trait de plume des budgets qui n’auraient pas été consommés. Mais s’ils n’ont pas été consommés, c’est parce qu’ils ont été gelés par anticipation."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Mais non, pas du tout !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Entre un gel en avril, puis un surgel en septembre, le gouvernement a mis en réserve 4,2 milliards d’euros. Les services publics concernés n’ont pas choisi de ne pas dépenser cet argent, au contraire : ils en ont été sciemment empêchés. Ce texte n’est donc pas technique, mais bien politique. Il appartient en tout cas à chaque député, souverainement, de voter pour ou contre. Aucun texte n’échappe à ce principe, ni celui-ci ni un autre. Pour ma part, je voterai contre ce projet de loi de finances de fin de gestion, tel qu’il est aujourd’hui proposé. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3923506",
+      "valeurPtsOdj": "1",
+      "titre": "Motion de rejet préalable",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "J’ai reçu de Mme Mathilde Panot et des membres du groupe La France insoumise-Nouveau Front populaire une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement.\n La parole est à M. Aurélien Le Coq."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Motion défendue !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "L’heure est venue pour nous de dresser le bilan du désastre économique et budgétaire infligé par la Macronie au pays. Ce projet de loi de finances de fin de gestion – barbarisme destiné à déguiser un plan d’austérité de fin d’année – est la présentation la plus pure de votre échec. (Applaudissements sur les bancs du groupe LFI-NFP.) En effet, contrairement à ce qu’ont affirmé M. le rapporteur général et Mme la ministre, en France, tout ne va pas pour le mieux dans le meilleur des mondes possibles. Les entreprises ferment, le chômage augmente, la pauvreté explose. Le pays paie cher le prix de vos coupes budgétaires.\nEn 2024, déjà, vous aviez gratifié les Français d’une saignée démesurée – 16 milliards d’euros de coupes au moment du budget, 10 milliards d’annulations en cours de route et 6,4 milliards d’austérité comme cadeau de fin d’année –, qui a eu pour conséquences le saccage des services publics et l’effondrement de la croissance. Les brillants esprits de la Macronie l’avaient annoncée à 1,4 %, mais la réalité l’a ramenée à 1 % et le déficit a explosé. Chapeau l’artiste !"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Le pire n’est pas que vous ayez échoué, c’est que vous recommenciez. (Applaudissements sur les bancs du groupe LFI-NFP.) Vous êtes devenus de véritables professionnels de l’austérité. En 2025, la note est encore plus salée, avec 23,5 milliards d’euros de coupes du budget Bayrou avalisé par le Parti socialiste et le Rassemblement national, qui ont refusé de censurer. Contrairement aux affirmations de Mme la ministre, ce budget n’a pas fait l’objet d’un compromis. Il a été imposé par 49.3 contre la représentation nationale et le vote des Français. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Votre disque est rayé !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "À ces 23 milliards se sont ajoutés 3 milliards en avril. Vous revenez devant nous avec vos 10 milliards de coupes budgétaires de Noël, permises cette fois par la version automne-hiver de l’accord Faure-Macron. Bilan d’une nouvelle année d’illégitimité : 36,9 milliards d’euros de coupes ! En conséquence, la croissance que vous annonciez en 2024 s’est évaporée. Vous souvenez-vous que dans votre « plan de stabilité », vous écriviez qu’elle devait être « portée par l’accélération de la consommation des ménages » et atteindre 1,4 % ? En réalité, divisée par deux, elle s’écroule à 0,7 %. Chapeau l’artiste !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "On dirait que cela vous fait plaisir !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Peut-être était-il un peu présomptueux d’utiliser les mots « plan » et « stabilité » pour qualifier un projet macroniste. Et ce n’est pas terminé ! Les vampires de l’économie que vous êtes continueront à sucer le sang des Français jusqu’à la dernière goutte, puisque vous offrez 40 milliards d’euros de saignée de plus pour l’an prochain – une manière bien à vous de souhaiter la bonne année. Et, comme d’habitude, les plus précaires en feront les frais. La conséquence directe de vos politiques est l’explosion de la pauvreté : plus de 10 millions de pauvres, 350 000 de plus en un an, un record.\nVous venez maintenant pleurer en constatant qu’il manque 5 milliards d’euros de TVA dans les caisses de l’État. Pourtant, quand les Français arrivent à peine à manger, quand ils ont la boule au ventre en entrant dans un supermarché, quand la consultation de leur compte bancaire est devenue une source d’angoisse, quand ils vivent dans la peur d’être licenciés, il ne faut pas s’étonner qu’ils arrêtent de consommer. Malheureusement, la tendance va se poursuivre : l’Observatoire français des conjonctures économiques (OFCE) annonce que la consommation devrait encore baisser de 0,4 % en 2026.\nJe vous entends déjà, madame la ministre, nous dire, pleine d’arrogance, que nous aurions mal compris, que, si la TVA baisse, il y a dans votre tableur Excel une augmentation des recettes. N’avez-vous pas parlé d’« élasticité » ? En effet, il existe une petite augmentation des recettes. Mais d’où vient-elle ? Elle est pour près de la moitié due à l’explosion des taxes sur le gaz et l’électricité, qui pèsent toujours davantage sur les plus précaires (Applaudissements sur les bancs du groupe LFI-NFP), à tel point que, cet hiver encore, des millions de Français renonceront à se chauffer."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il ne faut pas exagérer…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Il y a un miracle, toutefois, et toutes les baisses de dépenses n’alourdissent pas le fardeau des Français : 3 milliards de crédits annulés concernent la charge de la dette. (Mêmes mouvements.) N’est-ce pas étrange, puisque la dette nous a été présentée comme étant hors de contrôle ? À moins que cela ait dissimulé un nouveau mensonge. Vous qui justifiez toutes vos décisions par le prétexte de la dette, seriez-vous insincères ? Si nous réclamons plus de profs dans les écoles, on nous répond que nous sommes fous et qu’il faut réduire la dette. Plus de soignants à l’hôpital ? Malheureux, n’y pensez pas : nous creuserions la dette ! De l’argent pour la transition écologique ? Insensés que vous êtes : nous sommes étouffés par la dette. La dette, la dette, la dette, ne cessez-vous de répéter !\nPourtant nous apprenons aujourd’hui que vous avez surestimé son coût de 3 milliards d’euros. Tout cela ne serait-il finalement qu’un prétexte pour couper toujours plus dans les dépenses et en finir avec la puissance de l’action publique, au bénéfice du secteur privé ? Je n’ose l’imaginer."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Quel comédien !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Répéter des mensonges n’en fait pas une vérité. Non, la dette n’est pas le premier problème de notre budget ! La charge de la dette, c’est-à-dire ce que nous devons payer chaque année, est moins importante aujourd’hui qu’au début des années 2000. Elle représente environ 2 % du PIB, contre 3 % il y a vingt-cinq ans. (Applaudissements sur les bancs du groupe LFI-NFP.) En revanche, s’il y a une dépense qui a explosé et à laquelle vous refusez absolument de toucher, ce sont les niches fiscales. Vous offrez chaque année un Noël doré aux grandes entreprises et aux plus riches. Les remboursements et dégrèvements, comme on les appelle, s’élèvent à 137 milliards d’euros, en hausse de 40 % depuis que Macron est arrivé au pouvoir."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Vous pourriez désigner autrement le président de la République !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Ils constituent le premier budget de l’État, devant l’éducation, la justice ou la défense. Les milliardaires nous coûtent trop cher ! (Applaudissements sur les bancs du groupe LFI-NFP.)\nVous allez récupérer 6 milliards d’euros de crédits grâce à la baisse de la charge de la dette et à celle des remboursements et dégrèvements. Formidable ! Mais plutôt qu’utiliser cet argent pour aider les Français, en fanatiques des coupes budgétaires, vous préférez continuer la saignée, avec 4,3 milliards de sacrifices supplémentaires. Dans le détail, cela donne 800 millions en moins pour le travail et l’emploi ; 180 millions en moins pour l’économie, au moment où le chômage repart à la hausse et où le nombre d’entreprises qui ferment bat des records ; 250 millions en moins pour la recherche et l’enseignement supérieur – vous avez montré pendant l’examen du PLF qu’à vos yeux, la recherche ne vaut que lorsqu’elle permet de rémunérer des actionnaires – ; 255 millions de moins pour l’agriculture et l’alimentation, alors que le taux des suicides d’agriculteurs n’a jamais été aussi haut…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Cela n’a rien à voir !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "…, preuve du cynisme de votre double discours mortifère ; 132 millions de moins pour la culture ; 168 millions de moins pour l’enseignement scolaire, après les 480 millions de baisse de Noël dernier – les enseignants qui galèrent à gérer des classes surchargées dans des établissements tombant en ruine vous remercient – ; 100 millions de moins pour la justice, après 700 millions de baisse l’an passé, alors que les tribunaux sont engorgés – si quelque chose s’accélère, c’est le délabrement de la justice et non les délais de traitement, comme vous l’aviez pourtant annoncé.\nIl y a encore 182 millions de moins pour le sport, la jeunesse et la vie associative – le sport, qui devait être la grande cause nationale du président de la République, est, comme le reste, sacrifié sur l’autel de l’austérité – ; 1 million de moins pour l’égalité entre les femmes et les hommes. Enfin, les plus mal logés devront faire avec 57 millions en moins pour l’aide à l’accès au logement, 160 millions en moins pour l’amélioration de l’habitat et 27 millions en moins pour les quartiers populaires.\nSi chacun de ces chiffres est un nouveau couteau planté dans le dos des Français, le pire est sans doute le suivant : 1,6 milliard d’euros de moins pour France 2030. Vous signez la mise à mort de l’industrie française. Madame la ministre, vous avez dit que les crédits de ce plan étaient sous-exécutés. Comment osez-vous ! Comment arrivez-vous à ne pas dépenser l’argent disponible pour soutenir l’industrie, alors que sa part dans le PIB est passée sous les 10 %, une première depuis 1945, et que 108 usines ont fermé en 2025 ? (Applaudissements sur les bancs du groupe LFI-NFP.)\nDans le Nord, à Dunkerque, chez ArcelorMittal, 3 200 ouvriers vivent dans la peur que leur site ferme. Comme Hollande à Florange et comme Sarkozy à Gandrange, vous vous apprêtez à abandonner les métallurgistes. (Mêmes mouvements.) Derrière ces 3 200 salariés, il y a 15 000 emplois directs ou indirects car, dans le Dunkerquois, une famille sur cinq vit d’Arcelor. Je demande solennellement si, dans cette annulation de 1,6 milliard, figurent les 850 millions qui étaient destinés à la décarbonation du site d’ArcelorMittal à Dunkerque et au maintien de ces emplois. (Mêmes mouvements.) Sont en jeu la vie de milliers de familles et la souveraineté industrielle de la France.\nSi, plutôt que de produire en France, le voyou Mittal préfère délocaliser après avoir empoché les centaines de millions d’euros d’aides publiques que vous lui avez versées, il ne restera qu’une solution : la nationalisation. (Mêmes mouvements.) Elle coûterait de 4 à 5 milliards d’euros, quand vous annulez 6 milliards de charge de la dette et de remboursements et dégrèvements. Cela devrait vous plaire, à vous qui aimez toujours placer des plus en face des moins. L’argent est là. Qu’attendez-vous ?\nEn Macronie, il manque beaucoup de choses, mais jamais de cynisme."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Vous, vous manquez de sens économique !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Ainsi, vous coupez 10 milliards d’euros de crédits ici mais vous vous félicitez d’en ouvrir 3 milliards là. Vous ouvrez 1 milliard de crédits pour l’écologie. Macron aurait-il en fin compris ? Non : une fois de plus, ce n’est qu’un signe de duplicité. Il n’y aura pas 1 centime de plus pour la transition écologique. Le gouvernement ayant été incapable d’anticiper l’évolution du prix de l’électricité, il doit compenser. Avec 2 milliards supprimés cette année, qui pourrait croire que vous vous préoccupez de la bifurcation écologique ?\nComble du cynisme, votre texte organise un chantage immonde. Comme chaque année, vous avez sous-évalué les sommes nécessaires à la solidarité avec les plus démunis, de telle sorte que des places d’hébergement d’urgence manquent partout. Vous les avez volontairement sous-financées. Vous proposez de maintenir les 203 000 places actuelles, alors que le pays compte désormais plus de 350 000 personnes sans domicile fixe. Le froid gagne le pays et plus de 4 000 enfants sont à la rue. Votre cynisme n’a d’égale que votre inhumanité. Chaque nuit, vous laissez sciemment des dizaines de milliers de personnes dormir dehors."
+        },
+        {
+          "orateur": "Mme Andrée Taurinya",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794106",
+          "texte": "Exactement ! Il a raison !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "En 2017, le futur président de la République, alors candidat, avait promis qu’avant la fin de l’année, plus personne n’aurait à le faire. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Alma Dufour se lève pour applaudir.) Or, chaque soir, des dizaines de milliers de personnes y sont contraintes. Il n’existe pas de plus odieux chantage que le vôtre sur ce texte : vous demandez de choisir entre le maintien de l’hébergement d’urgence et les moyens pour nos enfants à l’école.\nEn réalité, vous vous en moquez. N’essayez pas de vous donner pas bonne conscience ! Depuis que la Macronie est installée, 4 352 personnes sont mortes de la rue. C’est votre responsabilité."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Comment pouvez-vous vous regarder en face après avoir débité de telles inepties ?"
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "Il a sans doute répété tout le week-end…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Ici comme ailleurs, vous passez en force, empêchant le Parlement de travailler. On ne peut rien faire de votre texte, à part y ajouter toujours plus de coupes budgétaires. Si vous respectiez la représentation nationale, vous auriez déposé un projet de loi de finances rectificative qui aurait permis de lever des recettes et d’engager des dépenses. (Applaudissements sur les bancs du groupe LFI-NFP.)\nMais en Macronie, le Parlement, comme le peuple qu’il représente, est méprisé, écrasé, bâillonné. Vous êtes devenus les experts de l’autoritarisme institutionnel ! Vous renoncez au 49.3 pour les débats budgétaires ? – Il n’y a guère que la direction socialiste pour croire qu’il s’agit d’une véritable avancée. Vous dégainez aussitôt le 47.1 pour empêcher l’Assemblée nationale de voter le budget de la sécurité sociale. Et vous vous apprêtez à recommencer sur le budget de l’État !"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Il y croit !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "L’Assemblée adopte des amendements ? Le premier ministre annonce à la presse qu’ils ne s’appliqueront jamais."
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Défendu !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Le seul projet de loi de fin de gestion que nous adopterons est celui qui mettra un terme au quinquennat d’Emmanuel Macron. (Les députés du groupe LFI-NFP se lèvent et applaudissent. – Vives exclamations sur les bancs des groupes EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Sur motion de rejet préalable, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Plutôt que sur certains mots que vous avez eus – votre champ lexical relève de votre liberté, monsieur le député (« Ah ! » sur plusieurs bancs du groupe LFI-NFP) –, je vais revenir sur le fond de votre intervention.\nIl aurait été un peu étrange, alors que le déficit s’établit à 5,4 % du PIB comme prévu, que le gouvernement se dise, un 15 novembre : Nous allons lever de nouveaux impôts pour six semaines, afin de financer de nouvelles dépenses. (Mme Sabine Thillaye et M. Pascal Lecamp applaudissent.)\nCe n’est pas le choix que nous faisons. Depuis la modification de la loi organique, défendue à l’époque par Laurent Saint-Martin, nous avons la possibilité de déposer des projets de loi de finances de fin de gestion qui ne comportent pas de dispositions fiscales. Dans le pays qui présente le plus haut niveau d’imposition de tous les pays voisins ou comparables, il est sain que tout texte budgétaire ne consiste pas avant tout à lever plus d’impôts, mais que l’effort se concentre plutôt sur les dépenses. J’en viens à trois remarques sur le fond.\nNon, monsieur le député, nous ne pouvons pas dire que la menace de la dette aurait disparu. Au 31 décembre de cette année, si vous adoptez le PLFG tel qu’il est présenté aujourd’hui, nous augmenterons notre dette de 158 milliards d’euros."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "C’est la charge de la dette qui compte !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "J’énonce ce chiffre avec gravité, parce que je n’en tire aucune fierté."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Il n’y a pas de quoi !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "La seule chose qui s’est effectivement produite, monsieur Le Coq, c’est qu’en 2025, la charge d’intérêt a baissé de 2,9 milliards d’euros,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "C’est cela qui compte !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…de sorte qu’au lieu d’augmenter la dette de 161 milliards, nous l’augmentons de 158 milliards d’euros. On ne peut donc pas dire qu’il ne s’agirait pas d’une menace, quand notre stock de dette augmente de 158 milliards d’euros pour l’année 2025."
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "Belle austérité !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Que la charge d’intérêt ait été in fine inférieure à nos prévisions de 2,9 milliards, on devrait s’en réjouir,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "C’est ce que je viens de dire !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…mais sans sarcasmes ni illusions, puisque nous continuons d’alourdir le fardeau que devront supporter les générations futures, qui paieront, non pour rembourser la dette, mais pour en financer les intérêts.\nDeuxièmement, je n’ai pas dit que France 2030 avait été en sous-exécution, mais que nous opérions un changement de pratique budgétaire. Jusqu’à présent, lorsque France 2030 lançait un appel à projets, l’ensemble de l’appel à projets était transféré en crédits budgétaires – parfois 2, 3 ou 4 milliards – à un opérateur – l’Agence de la transition écologique (Ademe), la Banque publique d’investissement (BPIFrance) – qui les dépensaient sur une période de deux, trois, quatre, voire cinq ans. Ainsi, sans la disposition que nous présentons, les fameux opérateurs auraient fini l’année avec plus de 5 milliards d’euros de trésorerie.\nDans un monde où nous sommes contraints budgétairement, nous avons décidé qu’ils finiraient l’année, non avec 5 milliards, mais 3,5 milliards d’euros de trésorerie excédentaire, somme largement suffisante pour couvrir leurs engagements en 2025 et en 2026. Il me semble de bonne gestion, quand les temps sont aux contraintes budgétaires, d’ajuster au mieux les crédits budgétaires aux besoins. (M. Aurélien Le Coq s’exclame.)\nIl est vrai que 20 milliards d’euros du programme n’ont pas encore été alloués."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Donc il a raison !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Ils devront l’être d’ici à 2030 et ils le seront à certaines initiatives, dont je sais que vous les soutiendrez, qu’elles concernent la décarbonation ou le soutien à plusieurs sites industriels. (M. Aurélien Le Coq proteste.) Nous avons déjà engagé 34 milliards, mais engager cette somme ne revient pas à la payer – c’est toute la différence, monsieur le député.\nJe veux enfin revenir sur le fond idéologique de votre intervention. En fait, vous ne croyez pas que la dette soit un problème, pas plus que vous ne pensez que le problème tienne à notre dépense publique. Au fond, vous pensez toujours que notre problème, ce sont les recettes. (Applaudissements sur les bancs du groupe LFI-NFP.)\nJ’entends bien votre point de vue, mais je tiens à vous dire qu’en 2025, le taux de prélèvement obligatoire est de 43,6 % de notre PIB, à comparer à son taux – 44 % – en 2019, avant l’épidémie de covid. Or, à cette époque, le déficit était inférieur à 3 % et la sécurité sociale à l’équilibre – tout cela avec un taux de prélèvement obligatoire de 44 %."
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "CQFD !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Pour terminer mon intervention, je souhaite faire part de trois chiffres à la représentation nationale. Entre fin 2023 et fin 2025, la dépense totale de l’État et de ses opérateurs – ce qui inclut la charge des intérêts de la dette et le budget de la défense – est stable, baissant même de 0,1 point en volume."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Et il y a bien un problème : on l’a vu à l’école ou à l’hôpital !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Pendant la même période, celle des collectivités locales a augmenté de 3 % et celle de la sécurité sociale de 5 % – je parle sous le contrôle du rapporteur général du budget de la sécurité sociale. Cela signifie que l’État sait maîtriser ses dépenses,…"
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Vous l’avez mis à l’os !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…y compris la charge d’intérêt, que celles des collectivités suivent à peu près la croissance nominale et qu’en revanche, les dépenses de sécurité sociale augmentent beaucoup plus vite que la croissance. M. le rapporteur général Bazin le sait : en 2025 un objectif national de dépenses d’assurance maladie (Ondam) en hausse de 3,4 % a été adopté,…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Avec les voix des socialistes !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…quand la croissance du PIB nominal ne s’élève qu’à 1,7 %. Autrement dit, en 2025, notre dépense d’assurance maladie a crû deux fois plus vite que notre économie."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Et nos besoins ?"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Il me semble essentiel de poser le bon diagnostic : la dépense qui augmente le plus rapidement dans notre pays est la dépense sociale. Celle des collectivités suit à peu près la croissance du PIB, alors que l’État fait des efforts.\nJe conclurai en vous indiquant un dernier chiffre : en 2025, les crédits ministériels, hors défense, sont inférieurs de 4 milliards d’euros à ceux de 2024. L’État a donc fourni l’effort le plus important de réduction de ses dépenses de fonctionnement depuis près de vingt-cinq ans. Vu l’ampleur des efforts consentis, personne ici ne peut prétendre que nous n’aurions pas tenu les objectifs du compromis parlementaire ni contenu le déficit et la dépense publique qui étaient sous l’autorité du premier ministre et du gouvernement. (Exclamations sur les bancs du groupe LFI-NFP.) Il reste une dépense publique que nous avons le plus grand mal à encadrer, c’est celle de la sphère sociale. Je tenais à être la plus claire et la plus transparente possible avec vous.\nJe vous demande donc, mesdames et messieurs les députés, de ne pas adopter cette motion de rejet, parce que si nous rejetons le PLFG dès à présent, sans débat, c’est que nous ne voulons pas examiner ce qu’a été la gestion d’un pays qui a tenu ses objectifs."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Quels objectifs ?"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Or, dans un monde instable, avoir été capables de tenir ces 5,4 % contribue de manière importante à notre crédibilité collective. (Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Mme la ministre cherche à gagner du temps."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Nous en venons aux explications de vote.\nLa parole est à M. Jean-Philippe Tanguy."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Madame la ministre, je dois dire qu’il est très difficile pour le groupe Rassemblement national de résister à la tentation de voter en faveur de cette motion de rejet. Vous êtes tous tellement vaniteux, en Macronie."
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "C’est l’hôpital qui se fout de la charité !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Vous restez tellement sûrs de vous malgré l’état catastrophique des finances publiques que vous présentez aux Français. Vous avez tout simplement ruiné la France, chers collègues, mais vous êtes toujours contents de vous !\nCela dit, pour briguer votre propre réélection après un tel bilan, il fallait déjà être complètement à côté de la plaque,…"
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "Si nous siégeons ici, c’est que nous sommes un certain nombre à avoir battu des candidats de votre parti !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "…ce qui ne vaut pas que pour les élections : vous l’êtes encore dans l’exercice de votre mandat ici même, à vous satisfaire de vos résultats catastrophiques avec une arrogance incroyable, qui ne connaît aucune limite. (Applaudissements sur les bancs du groupe RN.)\nNéanmoins, chers collègues, il faut examiner certains sujets de fond : après avoir perdu 60 milliards d’euros de recettes, vous avez perdu 10 milliards de TVA en route."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Arrêtez, on a compris : ça ne sert à rien, votre cirque !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Nous n’avons pas manqué d’alerter votre prédécesseur et de lui expliquer qu’il surestimait les recettes de TVA. La semaine dernière encore, en commission, vous prétendiez ne pas être au courant et chercher des solutions. Vous avez bien perdu 10 milliards de recettes de TVA, mais ce n’est pas votre faute – ce n’est jamais votre faute !\nEh bien, nous voulons aller sur le fond de ce texte, nous voulons des explications,…"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Non, vous voulez surtout éviter de voter sur le budget !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "…car, comme la ruine de la France, ces 10 milliards de TVA perdus sont votre faute, celle de votre majorité. Ils sont le résultat de la politique que vous menez contre les consommateurs, contre le pouvoir d’achat, contre les commerçants, contre le tissu économique de la France. (M. Patrick Hetzel s’exclame.)\nPar conséquent, malgré la tentation de vous renvoyer à vos études, nous irons voir ce que vous cachez encore aux Français. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Le groupe Ensemble pour la République votera évidemment contre cette motion de rejet et appelle l’ensemble des collègues à la rejeter, et ce, pour au moins deux raisons.\nJ’ai entendu les oraisons des deux députés LFI. Depuis ce week-end, vous avez recommencé votre théâtre habituel : vous expliquez que vous souhaitez aller au bout de l’examen budgétaire, tout en multipliant les rappels au règlement. Et ce soir, comme par magie, vous nous présentez une motion de rejet pour arrêter nos débats."
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est pour gagner du temps !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Oui, bien sûr, pour gagner du temps.\nOn commence à connaître. C’est chaque année le même cinéma : vous prétendez vouloir aller au bout des débats, puis vous déposez motion de rejet sur motion de rejet !"
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Désolé, ça s’appelle la démocratie !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Nous ne souscrivons pas à de tels effets de manche.\nDeuxième raison, de fond : le collègue Le Coq a beaucoup parlé d’austérité, mais dans quel monde vivez-vous ?"
+        },
+        {
+          "orateur": "M. Christophe Bex",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793772",
+          "texte": "Et vous ?"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "L’austérité n’existe pas dans notre pays et elle n’est pas près d’exister – nous vous le répéterons sans relâche. (Exclamations sur les bancs du groupe LFI-NFP.) Si vous ne nous croyez pas, reportez-vous aux tableaux de chiffres. Ce que montre ce PLFG, c’est, malheureusement, qu’entre 2024 et 2025 la dépense publique continue de croître : de 1,2 % pour l’État, de 1,2 % pour les collectivités locales et de 2,3 % pour la sécurité sociale. Si l’austérité signifie que la dépense publique continue d’augmenter de 1,7 %, je vous confirme que nous ne vivons pas dans le même monde, chers collègues Insoumis. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Christophe Bex",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793772",
+          "texte": "C’est clair !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Rejetons cette motion et passons à l’examen du texte ! (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Marianne Maximi."
+        },
+        {
+          "orateur": "Mme Marianne Maximi (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Depuis des semaines, le gouvernement nous fait perdre du temps sur l’examen du budget. Vous avez déposé le texte avec deux semaines de retard. Vous avez abusé des suspensions de séance et vous êtes allés jusqu’à fermer arbitrairement l’Assemblée nationale le week-end dernier, alors que les élus s’étaient organisés pour siéger et avancer. (Applaudissements sur les bancs du groupe LFI-NFP.) Où a-t-on vu une démocratie qui ferme les portes du Parlement pour arranger les affaires du gouvernement ? C’est complètement inédit. (Mêmes mouvements.) Vous avez multiplié les interventions à rallonge, les négociations de couloir, loin des caméras et des députés, mais surtout loin des citoyens et des citoyennes, que nous représentons et qui nous regardent. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Nous savons que tout cela prépare un nouveau passage en force. Que ce soit par un 49.3, par ordonnances ou par loi spéciale, l’objectif reste le même : que l’Assemblée nationale se soumette à l’austérité.\nMais vous n’aurez jamais notre consentement pour adopter un tel budget, vous le savez."
+        },
+        {
+          "orateur": "M. François Cormier-Bouligeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719118",
+          "texte": "On s’en fiche !"
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Ce projet de loi de finances de fin de gestion s’inscrit parfaitement dans la logique que je viens de décrire avec 10 milliards de coupes supplémentaires ! Encore une fois, tout le monde y passe : 131 millions d’euros de moins pour l’école ; 800 millions de moins pour le travail ; 250 millions de moins pour l’enseignement supérieur, notamment pour la vie scolaire, censée aider les publics en difficulté. Les collectivités locales passent aussi à la caisse : les coupes budgétaires touchent même leurs dotations dédiées à l’investissement.\nCe projet de loi de finances de fin de gestion n’est en fait qu’une magouille de plus, qui consiste à annuler sans véritable débat des milliards d’euros de crédits, comme vous l’aviez déjà fait par décret en février dernier. (Applaudissements sur les bancs du groupe LFI-NFP.) C’est simple : dès qu’il y a un outil labellisé « austérité autoritaire » dans la Constitution, vous le trouvez et vous l’utilisez. Vous êtes en somme des constitutionnalistes de l’autoritarisme. (Mêmes mouvements.) Vous entraînez tout le monde dans une fuite en avant qui abîme la démocratie même.\nNous sommes contre ce texte : nous voterons donc en faveur de cette motion de rejet, non pour éviter le débat mais pour défendre nos idées, évidemment opposées à vos pratiques austéritaires. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Nicolas Sansu applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Philippe Brun."
+        },
+        {
+          "orateur": "M. Philippe Brun (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Les socialistes ont la conviction chevillée au corps (Rires sur plusieurs bancs du groupe LFI-NFP) que ce Parlement doit exercer l’ensemble de ses prérogatives, qui, chers collègues qui comme nous croyez à la VIe République, compte le contrôle de l’exécution budgétaire, au moins aussi important que l’autorisation budgétaire. (Exclamations et rires sur les bancs du groupe LFI-NFP.) Rien ne serait pire que le Parlement se refuse aujourd’hui, si ce n’est à faire le procès, du moins à contrôler la mauvaise gestion de nos comptes publics depuis le début de l’année.\nC’est ainsi que le groupe socialiste, article par article, ligne par ligne (Applaudissements sur quelques bancs du groupe SOC), demandera des comptes au gouvernement sur la gestion de l’an passé. Nous lui demanderons pourquoi ce texte présente 4,2 milliards d’euros d’annulations de crédits après les 3,51 milliards déjà consentis le 25 avril, et pourquoi plus de 1,1 milliard est à nouveau dépensé pour la charge de service public de l’énergie, sans que cela n’ait été prévu. Nous interrogerons également le gouvernement sur cette crise de la consommation qui a conduit à une baisse de 10 milliards des recettes de TVA. Tout cela, nous le ferons car nous croyons au Parlement : il ne devrait pas être un théâtre d’ombres. Voilà pourquoi nous voterons contre la motion de rejet. (Applaudissements sur les bancs du groupe SOC. – MM. Pascal Lecamp et Charles Sitzenstuhl applaudissent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Marie-Christine Dalloz."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Nous ne savons plus comment expliquer à la France insoumise que même si certaines lignes budgétaires sont ouvertes, il n’est pas obligatoire de dépenser les crédits en question si on n’a pas besoin de les consommer. C’est pourtant une logique assez simple, que même un enfant de primaire pourrait comprendre."
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "Mépris bourgeois !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Oui, les crédits ont été ouverts, mais il ne vous aura pas échappé que nous sommes déjà dans la deuxième moitié du mois novembre et que, d’ici à la fin de l’année, les crédits supprimés dans les missions citées par M. le député Le Coq ne seront pas utilisés. S’ils ne le sont pas et si on prend en considération le déficit budgétaire, leur annulation est une mesure de gestion. (Exclamations sur les bancs du groupe LFI-NFP.)\nPour autant, madame la ministre, nous aurions vraiment souhaité que le niveau des prélèvements baisse car encore trop de fiscalité pèse sur l’ensemble de nos concitoyens,…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "…quoi qu’en pensent les députés du groupe LFI, pour lesquels il faudrait toujours plus d’impôts et toujours plus de dépenses."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "D’impôts sur les riches !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Nous pensons plutôt qu’il faut moins d’impôts et moins de dépenses : vous auriez pu accentuer les efforts pour réduire les dépenses dans la sphère de l’État."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Nous voulons une France en meilleur état !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Je crois sincèrement que voter cette motion de rejet serait le pire service à rendre à notre pays. Le rapporteur général du budget l’a montré tout à l’heure en présentant les conséquences d’un tel rejet. En responsabilité, nous refusons donc naturellement de voter en faveur de cette motion de rejet qui n’a aucun sens. S’ils avaient géré des collectivités locales, les collègues du groupe LFI sauraient que les crédits n’ont pas besoin d’être tous dépensés ! (Applaudissements sur les bancs des groupes EPR et DR. – Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Eva Sas."
+        },
+        {
+          "orateur": "Mme Eva Sas (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "texte": "Le groupe Écologiste et social s’abstiendra sur cette motion de rejet préalable."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "texte": "Bien que nous ne soutenions pas ce projet de loi de finances de fin de gestion, reflet de votre politique libérale qui sacrifie les services publics, nous souhaitons débattre à la fois des propositions d’ouverture de crédits pour l’hébergement d’urgence, l’AAH, et les énergies renouvelables, et des annulations prévues par le gouvernement.\nNous tenons en effet à examiner – et surtout à rétablir – certains crédits supprimés pour les reporter. Je pense notamment aux crédits du programme 135, qui comporte l’outil MaPrimeRénov’, essentiel pour lutter contre la précarité énergétique. Nous devons trouver des solutions pour éviter la sous-consommation récurrente de ces crédits et améliorer la mise en œuvre de ce dispositif.\nNous souhaitons aussi particulièrement revenir sur le programme 209 Solidarité à l’égard des pays en voie de développement, sur lequel mon collègue M. Karim Ben Cheikh a déposé un amendement. Supprimer ces crédits reviendrait en effet à affaiblir l’aide multilatérale française ainsi que nos contributions aux organisations internationales, mais surtout à priver les populations les plus vulnérables d’un soutien vital. Ce serait d’autant plus incohérent que la France vient de réaffirmer publiquement ses engagements.\nJe rappelle les mots du président de la République, ce mardi 11 novembre, pour annoncer le renforcement de 100 millions d’euros de l’aide humanitaire pour Gaza en 2025 : « La France contribuera une nouvelle fois à hauteur de 100 millions à la réponse humanitaire pour 2025. Des livraisons de fret humanitaire d’urgence seront effectuées pour livrer plusieurs centaines de tonnes de compléments alimentaires, notamment pour les enfants, ainsi que des médicaments et des équipements médicaux. » Dans ce contexte, supprimer les crédits du programme 209 est incompréhensible et contradictoire : nous attendons des réponses de la part du gouvernement sur ce point."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Jean-Paul Mattei."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Le discours de M. Le Coq tout à l’heure m’a presque donné envie de vous offrir deux minutes de silence. (Sourires sur les bancs du groupe Dem. – Exclamations sur les bancs du groupe LFI-NFP.)\nPlus sérieusement, nous avons envie de débattre et nous sommes donc contre cette motion de rejet préalable. Je constate d’ailleurs, monsieur Le Coq, que vous aussi avez envie de débattre : vous avez déposé près de 30 % des amendements sur ce texte ! (Applaudissements sur les bancs des groupes EPR et Dem, et sur quelques bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Erwan Balanant",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719558",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Je vous propose donc d’avancer et d’aborder le fond des sujets plutôt que de balayer d’un revers de main cette possibilité de discussion."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Félicie Gérard."
+        },
+        {
+          "orateur": "Mme Félicie Gérard (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "texte": "Nous examinons ce soir une motion de rejet du PLFG pour 2025 déposée par le groupe La France insoumise. Par définition, une motion de rejet consiste à refuser le débat. Nous ne sommes donc plus à une contradiction près : depuis des semaines, La France insoumise nous dit craindre que l’Assemblée nationale ne puisse aller au terme de la discussion et voter sur le projet de loi de finances – mais là, elle refuse purement et simplement le débat."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Ça s’appelle un vote !"
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "texte": "Le projet de loi de finances de fin de gestion n’a pourtant rien d’anecdotique : il adapte les crédits aux réalités de l’exécution budgétaire et sécurise les dépenses indispensables à la continuité de l’action publique. Rejeter ce texte d’office, c’est prendre le risque de laisser des dizaines de dispositifs sans cadre budgétaire et ainsi d’aggraver notre déficit. Votre motion de rejet ne propose pas de solution alternative. Le groupe Horizons & indépendants votera donc tout simplement contre. (Applaudissements sur les bancs des groupes HOR et EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson (LIOT)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Mes chers collègues, est-il bien raisonnable de voter une telle motion de rejet préalable ?"
+        },
+        {
+          "orateur": "Quelques députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Eh bien non ! Souhaitez-vous réellement ne pas ouvrir les crédits pour financer la prime d’activité, les crédits – d’ailleurs insuffisants – de l’AAH et les 115 millions qui servent à maintenir l’hébergement d’urgence ? D’ailleurs, madame la ministre, il en faudrait là aussi plutôt 250 millions."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Ça, c’est du chantage !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Que davantage de gens soient à la rue, que des handicapés ne se voient pas verser leur allocation, est-ce bien ce que vous voulez ? Ce n’est pas raisonnable. (Applaudissements sur les bancs du groupe LIOT.)"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Charles…"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Je rappelle qu’aucune nouvelle dépense n’est créée par ce texte, qui ne sert qu’à ajuster des crédits pour faire face aux obligations de l’État. Mes chers collègues, repoussons donc cette motion de rejet préalable. (Applaudissements sur les bancs du groupe LIOT.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Nous devons nous prononcer sur le PLFG pour 2025 et, en cohérence avec notre position sur le PLF pour 2025 et sur la motion de censure afférente, nous nous y opposerons.\nPour la troisième année consécutive, les recettes ont été largement surestimées – en premier lieu les recettes de TVA, dont 10 milliards manquent à l’appel à cause de la baisse invisible de la consommation, qui résulte elle-même de votre politique d’austérité et devrait remettre en question vos modèles de calcul.\nOutre ces approximations, vous présentez, quoi qu’on en dise, un texte de rabotage : si 3 milliards d’euros de crédits sont ouverts, 4,2 milliards sont annulés pour la recherche, l’enseignement, le programme dédié au travail, l’agriculture, l’écologie, les collectivités. Ne faites donc pas de chantage (Applaudissements sur les bancs du groupe LFI-NFP) à l’hébergement d’urgence et à l’AAH, alors que ce sont les politiques publiques menées depuis 2017 qui créent la précarité et la misère. (Mêmes mouvements.) Ces crédits-là ont d’ailleurs été supprimés et gelés par deux fois !\nAinsi, ce n’est pas parce que les deux années précédentes ont été particulièrement noires que la relative stabilité de l’exercice budgétaire est remarquable. En réalité, il révèle à nouveau les errements d’une politique budgétaire et monétaire inefficace. Aussi, pour respecter la parole donnée par le NFP lors des élections de 2024 sur un chemin budgétaire et monétaire différent, il est nécessaire d’adopter cette motion de rejet. Elle permet de rappeler que ce chemin existe et de ne tromper personne sur notre appartenance ou non à l’opposition au gouvernement. (Applaudissements sur les bancs du groupe LFI-NFP.) La fonction essentielle des textes budgétaires est en effet de permettre de clarifier la position des uns et des autres.\nEn outre, le vote de la motion nous fera gagner le temps qui nous permettra d’achever notre examen de la première partie du PLF. (Applaudissements sur les bancs du groupe LFI-NFP.) Pour paraphraser Lénine à Brest-Litovsk ( Vives exclamations sur les bancs du groupe RN), il faut céder de l’espace du PLFG pour gagner du temps pour le PLF. (Applaudissements sur les bancs du groupe LFI-NFP dont plusieurs députés se lèvent.)"
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Quelle référence !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Collègues d’extrême gauche, je ne comprends pas cette motion. Tout au long du week-end, vous avez critiqué mon collègue Jean-Philippe Tanguy qui, pour préserver la santé des collaborateurs parlementaires et des personnels de l’Assemblée (Mme Élisa Martin mime un joueur de violon), a demandé une pause dans l’examen du PLF. Or, ce soir, vous déposez cette motion de rejet préalable pour aller vous coucher plus tôt ! C’est incompréhensible. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Dans quel monde vivez-vous ? On travaille ensuite !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "S’il vous plaît, arrêtez de vociférer ! Il serait intéressant d’aller jusqu’au bout de l’examen du PLFG car il présente des chiffres étonnants. Comme l’a indiqué Jean-Philippe Tanguy, il comporte notamment cette importante erreur de prévision de TVA. Madame la ministre, vous réitérez ces prévisions dans le PLF pour 2026, ce qui signifie que nous aurons à nouveau cette discussion l’an prochain car vous surestimez la consommation de ménages exsangues, cela parce que l’État leur prend déjà beaucoup trop. On peut aussi constater dans ce texte que les entreprises sont prélevées de plus de 5 milliards supplémentaires d’IS alors qu’elles sont tout aussi exsangues.\nIl importe donc d’aller au bout de ce débat, d’amender ce texte comme il doit l’être, et, le cas échéant, de le voter ou non. En somme, il faut travailler : collègues d’extrême gauche, au travail ! (Applaudissements sur plusieurs bancs du groupe UDR. – Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Il n’y a pas d’extrême gauche !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Madame la ministre, je vous réponds sur deux points. Souffrez d’abord, chers collègues, que le PLFG soit un texte politique ! (Applaudissements sur les bancs du groupe LFI-NFP.) Comme son nom l’indique, celui-ci révèle votre gestion du budget – avec laquelle on peut être en désaccord.\nMadame la ministre, il m’a semblé tout à l’heure que vous nous reprochiez d’être de ceux qui estiment que le problème de la dette est avant tout celui de la perte de recettes. Oui, nous le pensons. (Applaudissements sur les bancs du groupe LFI-NFP.) C’est d’ailleurs la réalité, et vous le savez. Contrairement à ce que vous déclarez, les dépenses publiques n’ont pas augmenté depuis 2017 par rapport au PIB. Inutile de me faire signe que non, madame la ministre : elles n’ont pas augmenté et les recettes ont diminué.\nLe calcul est dès lors assez simple : si les recettes n’avaient pas diminué depuis 2017, nous n’aurions pas une dette à hauteur de 115 % du PIB mais seulement à hauteur de 100 % (Applaudissements sur les bancs du groupe LFI-NFP)  ; la situation en serait donc changée.\nSouffrez ensuite – alors que vous avez mené cette politique au nom de résultats économiques – que nous dressions votre bilan ! Vous n’avez pas répondu à ce sujet. Pour résumer, votre investissement est en deçà de vos prévisions, tout comme votre croissance. Plus grave, la consommation des ménages, qui sous-tend pour moitié l’économie française, est également en deçà de vos prévisions, ce qui explique votre échec en matière de recettes de TVA. Vous cherchez pourtant une explication à cet échec partout, sauf dans la consommation des ménages ! Je vous épargne l’évocation de votre bilan industriel, que j’ai déjà abordé.\nPar ailleurs, il faut cesser, chers collègues, de nous dire que les crédits annulés du projet de loi de finances de fin de gestion le sont parce qu’ils n’ont pas été dépensés. Sur les 10 milliards d’euros mis en question depuis l’adoption du PLF pour 2025, 8 milliards ont été annulés dès avril, ce qui révèle que ces gels et ces annulations étaient planifiés.\nJe vais vous dire concrètement ce qui se passe. En Seine-Saint-Denis, tous les étés, des sommes d’argent sont dévolues aux associations pour que les mômes partent en vacances. Cette année, au lieu de l’être en juin, ce qui aurait permis aux associations d’anticiper son utilisation, cet argent a été libéré fin juillet-début août. Il va de soi que dans ce cas, il y a moins d’argent dépensé ! Vous avez organisé sciemment cette situation (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Vous devriez avoir honte !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "C’est votre nouvelle manière de gérer les budgets. Vous vous prononcez – puisque nous ne votons pas – sur une baisse de 30 milliards de la dépense publique, mais la réduction s’élève finalement à 40 milliards, c’est-à-dire un quart de plus ! À la fin de l’année, les budgets se retrouvent totalement transformés ; excusez-moi mais c’est insincère ! Voilà deux ans que ça dure ; la dernière fois, en 2024, 10 milliards ont été annulés dès janvier. Ce n’est pas acceptable ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Je n’avais pas prévu de reprendre la parole mais il y a deux éléments factuels que je ne peux pas laisser passer avant le vote. (Exclamations sur les bancs du groupe LFI-NFP.) M. le président Coquerel nous dit que la croissance est inférieure à notre prévision."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "C’est une certitude !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est factuel !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Nous avons bâti le budget sur une prévision de croissance de 0,9 %,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Non, sur 1,4 % !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…puis nous avons ajusté à 0,7 %. Or le taux de croissance – qui est un acquis de croissance, obtenu même si la croissance était nulle au quatrième trimestre – est déjà à 0,8 % ;…"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…bien que l’inflation soit un peu inférieure et la croissance un peu supérieure aux prévisions, nous restons prudents dans ce projet de loi de fin de gestion. Je ne peux donc pas laisser dire qu’il y a eu un décalage entre la croissance observée et nos prévisions.\nEnsuite, je veux expliquer ce que sont ces 10 milliards d’annulations. En France, la Cour des comptes demande que nous mettions des éléments de crédit en réserve et elle surveille notre niveau de mise en réserve. Depuis quelques années – c’est encore le cas en 2025 –, nous avons mis en réserve 5,5 % des crédits hors masse salariale et 0,5 % des crédits de masse salariale. Cette réserve de précaution sert à faire face aux aléas et elle n’est dépensée que si les conditions le permettent. François Hollande, avec son gouvernement de l’époque,…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Il n’est pas là !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…avait, dès la fin de l’année 2012, relevé le taux de mise en réserve à 8 %. La Cour des comptes dénonçait alors le fait qu’un taux si élevé donne au gouvernement la capacité de faire des économies que le Parlement ne peut pas contrôler. Elle considère à l’inverse que le taux actuel de 5,5 % est adapté aux aléas du monde dans lequel nous vivons – je ne vais pas vous faire la liste de ceux que nous avons connus depuis deux, trois ou cinq ans, mais il semble utile que nous disposions d’une marge de manœuvre.\nOr les annulations auxquelles nous procédons ont lieu à 98 % au sein de cette réserve ; autrement dit, en 2025 – à l’exception de 100 millions d’euros –, nous n’annulons que la réserve de précaution. En début d’année 2025, j’ai pris la décision, validée par le premier ministre François Bayrou, de rendre la réserve réellement interministérielle, et ce pour la première fois de notre histoire budgétaire.\nPrécédemment, la réserve était bizarrement constituée, puisque les ministères à grand budget et petits aléas – celui de l’éducation nationale, par exemple – faisaient beaucoup de réserve, tandis que les ministères à petit budget mais forts aléas – comme celui des outre-mer – en avaient peu. Nous avons rendu cette réserve interministérielle et ce faisant, nous avons tenu le budget. Il n’y a donc pas de coupes en dehors de la réserve ; il faut que tout le monde le comprenne bien parce que vous donnez l’impression que nous avons annulé des crédits que vous avez votés, alors que nous n’avons fait qu’utiliser nos outils de précaution. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "C’est incroyable !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Je mets aux voix la motion de rejet préalable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        304\n        Nombre de suffrages exprimés                216\n        Majorité absolue                        109\n                Pour l’adoption                47\n                Contre                169"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La motion de rejet préalable n’est pas adoptée.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3923036",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Dans la discussion générale, la parole est à M. Jean-Philippe Tanguy."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Pour comprendre la catastrophe budgétaire actuelle, il faut remonter aux heures glorieuses du macronisme triomphant. À l’époque, toute la caste politico-médiatique avait totalement perdu la tête : elle présentait Emmanuel Macron comme Jupiter, un demi-dieu vivant, un virtuose, un Mozart – je ne vais pas vous refaire la propagande, madame la ministre, vous la connaissez par cœur et peut-être même y avez-vous cru.\nFace à ce délire total, une femme avait dit la vérité aux Français, une femme avait tenu bon : c’était Marine Le Pen. (Applaudissements sur les bancs du groupe RN.) Et voilà que vous revenez, madame la ministre, plus loyale à Emmanuel Macron que jamais – c’est une denrée rare, d’ailleurs, en ces temps crépusculaires où les félons pullulent –, pour jouer votre meilleur rôle : celui de Mme Loyale. Vous le jouez dans ce cirque qu’est devenue la discussion budgétaire, où vous animez un spectacle qui vise à faire croire que les députés ont un véritable pouvoir."
+        },
+        {
+          "orateur": "M. Emmanuel Mandon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794114",
+          "texte": "Vous n’êtes pas le dernier à jouer !"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Arrête un peu !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Notre seul pouvoir, pourtant, c’est l’espérance de stopper votre magouille géante vers les ordonnances ou une loi spéciale, magouille permise grâce à la trahison des socialistes et à la soumission totale des Républicains. En réalité, vous êtes revenue activement en Macronie pour liquider les basses œuvres fiscales, financières et budgétaires du macronisme.\nC’est ce que vous faites avec ce texte : vous revenez sur les lieux du premier crime budgétaire. Voyageons un peu dans le temps, madame de Montchalin : nous sommes le 24 octobre 2017, vous êtes alors députée et vous votez la loi de programmation des finances publiques pour les années 2018 à 2022. Vous trouvez alors une dette héritée des socialistes et des Républicains, c’est vrai, qui s’élève à 97 % du PIB. C’était déjà énorme mais les Français ne savaient pas que vous pouviez faire pire. (Sourires sur les bancs du groupe RN.)\nVous promettez alors de la porter à 91 % du PIB en 2022 ; elle sera en réalité à 112 % du PIB, soit 20 points de différence et une facture totale, pour la France, de 1 200 milliards d’euros ! Oui, 1 200 milliards entre ce que vous aviez promis aux Français et la facture que vous leur présentez. En 2017, vous trouvez par ailleurs un déficit public de tout juste 3 %, que vous promettez de porter à 0,3 % ; il sera finalement de 4,3 % en 2022 – une erreur, une paille à 120 milliards d’euros également ! Bref, madame de Montchalin, je sais déjà ce que vous allez répondre : vous n’êtes responsable de rien,…"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Je n’ai jamais dit ça."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "…ni vous ni l’ensemble des macronistes, car vous n’êtes jamais responsables de rien. Mais depuis le départ, vous êtes collectivement, collègues macronistes, responsables de tout ! (Applaudissements sur les bancs des groupes RN et UDR.) Vous êtes responsables de la ruine de la France ; toutes vos promesses n’étaient que des mensonges et des illusions.\nVotre fameuse politique de l’offre ne consistait qu’à offrir à la prédation d’intérêts étrangers les entreprises et les marchés français. Votre politique fiscale ne consistait qu’à faire payer aux classes moyennes et populaires vos cadeaux fiscaux aux lobbys qui vous avaient fait élire, sous l’autorité de supérieurs hiérarchiques dont vous nous parlez sans cesse, madame la ministre : les commissaires européens.\nTout était déjà là en 2017, mais vous mentiez encore en 2023. Je pense à Mme Borne, qui est partie, ayant sans doute honte de ses résultats – je la comprends (Sourires sur les bancs du groupe RN) –, non sans avoir expliqué à qui veut l’entendre qu’elle n’a pas de leçons de finances publiques à recevoir, alors qu’il lui en faudrait quelques-unes. Vous avez continué à mentir, donc, dans un étrange mélange d’incompétence et d’arrogance. Vous avez couvert, à l’aide de multiples 49.3 et d’une dissolution, la ruine totale des comptes de la France, ruine que vous aviez pourtant consciencieusement provoquée. Dette, déficit, dépenses publiques : vous ne respectez jamais les objectifs que vos propres députés votent ici même avant de les enfreindre immédiatement.\nLes députés qui vous soutiennent avaient promis un déficit à 3,7 % en 2025. Vous êtes à 5,4 % ! Encore un léger dérapage. M. Le Maire avait dit qu’il était à l’euro près, mais on sait désormais que vous êtes à 120 milliards d’euros près ! (Applaudissements sur quelques bancs du groupe RN.) Ce déficit reste l’un des pires de la Ve République ; et pourtant, aucune des nombreuses excuses dont vous usez pour vous dédouaner n’est recevable.\nEn matière de TVA, vous avez perdu 10 milliards par rapport à vos prévisions ; quant aux dépenses publiques, que vous prétendiez maîtriser, elles continuent d’augmenter tant en valeur qu’en volume. En réalité, comme l’a démontré le Haut Conseil des finances publiques (HCFP), vous n’arrivez à baisser modestement le déficit – de 0,4 point – qu’en levant toujours plus d’impôts. Ce n’est pas votre génie ni votre compétence, madame la ministre, qui vous permettent de limiter le déficit cette année : vous avez créé encore davantage d’impôts et c’est définitivement par ce seul levier que vous agissez.\nJamais le Rassemblement national ne se taira sur le mal que vous avez fait, que vous faites et que vous continuerez à faire à la France tant que nous, avec Marine Le Pen et Jordan Bardella, ne vous aurons pas remplacés à la tête de l’État. Français, tenez bon : on arrive ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Le groupe Ensemble pour la République soutiendra bien entendu ce projet de loi de finances de fin de gestion pour 2025, qui procède à des ajustements de fin d’année du budget adopté en janvier dernier. Nous comptons sur l’attitude responsable des partis de gouvernement pour que ce texte indispensable au bouclage de l’exercice budgétaire puisse être adopté. Un rejet écornerait une fois encore la crédibilité de notre pays, notamment face à nos partenaires européens.\nIl y a une bonne nouvelle dans ce PLFG : la baisse du déficit est respectée puisqu’il s’élève à 5,4 % du PIB. Ce niveau de déficit, hors période de crise, reste cependant tout à fait excessif et ne permet pas de stabiliser la dette. Celle-ci continue de croître pour s’établir à 116 % du PIB. Ce doit être un motif de grande préoccupation pour chacun d’entre nous puisque cela signifie que la France n’a plus de marges de manœuvre budgétaires, ce qui nous obligera à poursuivre, avec vigueur, la baisse du déficit au cours des prochaines années.\nAutre mauvaise nouvelle, la promesse d’un effort budgétaire reposant à 70 % sur les baisses de dépenses en 2025 ne s’est pas réalisée. Selon le Haut Conseil des finances publiques, 100 % de l’effort structurel pour 2025 repose sur des hausses d’impôts, donc sur la fiscalité. Je sais que cet automne, nous devons faire des compromis – j’en ai moi-même fait un certain nombre depuis un mois –, mais les compromis nécessaires à la stabilité républicaine n’effaceront pas la réalité. La réalité, c’est que, contrairement aux cris de certains, il n’y a pas d’austérité en France : il n’y a aucune austérité en France !\nLes données sont implacables. Les dépenses publiques sont en augmentation pour la troisième année d’affilée. Dans son bulletin de juillet-août 2025, la Banque de France confirme que la France se distingue par le plus haut niveau de dépense publique observé au sein de la zone euro et par une augmentation plus rapide, en la matière, que ses principaux voisins. À l’inverse des fantasmes de certains, les premiers postes de dépense ne sont pas les aides aux entreprises : ce sont les prestations sociales, notamment les retraites et la santé, qui contribuent pour deux tiers à l’écart de dépense entre la France et la moyenne de la zone euro – ensuite viennent les aides aux entreprises, le logement et l’éducation.\nLa vraie question est donc la suivante : pourquoi, alors qu’un pays comme la France dépense plus que ses voisins en matière d’éducation, le niveau des élèves français est-il en chute libre, et pourquoi, alors qu’il dépense plus en matière de logement, les Français ont-ils autant de mal à se loger à prix abordable ?\nCe texte montre que les hausses d’impôt des gouvernements Barnier et Bayrou ont paré à l’urgence – c’était salutaire – mais n’ont en rien réglé les problèmes budgétaires de notre pays à long terme. La France doit regarder la vérité en face : le problème, ce n’est pas la fiscalité ; c’est le niveau trop élevé de la dépense publique. En 1995, la France n’était que cinquième de la zone euro en la matière ; elle est désormais première.\nAlors oui, l’ivresse fiscale est de retour dans notre pays depuis une bonne année, mais elle ne résoudra rien. 2025 aura été un budget imparfait ; 2026 le sera encore, nous le savons tous. C’est probablement en 2027, lors du grand débat présidentiel, que nous aurons enfin à trancher les grandes questions qui se posent à nous – dépense publique, organisation de l’État et des collectivités territoriales, dépenses de sécurité sociale, retraites et j’en passe.\nLa course effrénée à l’impôt et à la dépense est une impasse. Sans prise de conscience, c’est l’enlisement économique qui attend notre pays de façon inéluctable. Après une décennie de baisse du chômage et de retour de la confiance des investisseurs étrangers dans l’économie française, ne dilapidons pas ce bilan. N’en déplaise à certains, la politique de l’offre a brisé la fatalité du chômage qui avait plombé notre pays pendant une vingtaine d’années. Tâchons d’éviter que la fatalité du matraquage fiscal ne lui succède. (Applaudissements sur les bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Claire Lejeune."
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "Ce gouvernement a finalement la même fonction que l’orchestre du Titanic : peu importe que le capitaine ait déjà foncé sur l’iceberg, que le paquebot pique déjà vers le fond, que partout l’on crie et cherche à s’échapper, l’orchestre du Mozart de la finance joue, imperturbable, les mêmes fausses notes sur les mêmes vieux instruments désaccordés. (Applaudissements sur les bancs du groupe LFI-NFP.) Le dernier disque rayé de l’année, voilà ce qu’est ce PLFG.\nNous assistons au troisième et dernier mouvement d’un concerto bien rodé. Le premier mouvement consistait à bricoler un gouvernement macronisant, en prenant appui un jour à gauche, un jour à droite, pourvu que tous les participants soient prêts à jouer l’accord, toujours dissonant, du compromis. Le deuxième mouvement se composait quant à lui d’un budget entériné par 49.3, actant une première grande saignée dans les budgets des ministères, imposée en février dernier à hauteur de 23,5 milliards d’euros. Arrive le troisième mouvement : un document dit de fin de gestion, qui vient encore rogner les dépenses çà et là.\nDepuis 2023, il est cependant une variante notable. De 2017 à 2022, nous avions le droit à des projets de loi de finances rectificative, qui permettaient de débattre des recettes ; ce n’est plus le cas depuis 2023, avec la nouvelle formule du PLFG. Qu’a-t-il bien pu se passer entre 2022 et 2023 ? Je vous le donne en mille : vous avez perdu votre majorité. (Mêmes mouvements.) Quel bel esprit démocratique, quelle belle preuve de sincérité et de respect des députés que de supprimer la possibilité du débat dès que vous ne pouvez plus contrôler l’Assemblée ! La Macronie en est ainsi réduite à inventer des documents soi-disant techniques pour entériner ses biais idéologiques. Notre impossibilité à proposer des recettes dit assez votre idée de la bonne gestion. Dans votre esprit, si des ajustements sont nécessaires, cela ne peut passer que par des coupes dans les dépenses, soit des économies sur le dos des services publics, donc sur le dos de tous les Français, sans distinction.\nFaites preuve d’un minimum de décence et de sincérité ! Ne prétendez pas que ce texte est un document neutre, technique, qui ne présenterait que des faits. L’introduction du PLFG en lieu et place du PLFR est en soi une preuve de votre insincérité et de votre mépris pour la démocratie.\nPar ailleurs, comme tous les mauvais artistes, vous vous répétez. Ce texte réitère, entérine et aggrave la politique qui est la vôtre. Simultanément, il en démontre tout l’échec. La tromperie concerne d’abord les recettes de TVA puisque, dans ce document, vous constatez 5 milliards de recettes en moins par rapport à ce que vous aviez prévu : 5 milliards qui manquent, cela indique déjà une spirale récessionniste que le budget de cette année va encore aggraver, mais que vous persistez à nier. Ce montant ne correspond pas seulement à l’épargne dite de prudence de ceux qui s’inquiéteraient de la situation géopolitique ou de l’instabilité politique que vous avez créée. Non, il correspond aussi et surtout à des privations douloureuses au regard de besoins essentiels : remplir le frigo, payer son loyer, payer le bus ou le RER pour aller travailler ou étudier ; derrière ce chiffre froid, il y a les mille calculs de ceux qui, devant les étals de supermarché, reposent le second paquet de pâtes, qui se privent de sorties pour pouvoir dîner, ou de dîner pour pouvoir sortir. (Mêmes mouvements.) Derrière ces milliards, il y a le quotidien des Français ; de ceux qui, à cause de vous, ne pourront même plus utiliser le découvert bancaire pour s’en sortir et finir le mois."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Arrêtez avec ça !"
+        },
+        {
+          "orateur": "Mme Claire Lejeune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842029",
+          "texte": "La tromperie porte également sur la charge de la dette, que vous avez gonflée pour nourrir votre récit de la grande catastrophe, et que vous revoyez finalement à la baisse dans ce PLFG – pas de quelques millions, de 2,9 milliards ! Pour faire des erreurs de cette ampleur, il faut être soit mauvais, soit de mauvaise foi. Dans votre cas, je dirai les deux. (Mêmes mouvements.)\nMais la plus grande tromperie consiste à laisser croire que nous aurions quasiment 5 milliards de marges de manœuvre sur les budgets des ministères ; 5 milliards que l’on pourrait donc supprimer sans incidence, alors que partout s’expriment des besoins et des urgences. Or ces annulations de crédits mis en réserve ne représentent pas un tas d’or dormant dans les coffres de ministères : ils correspondent à des politiques publiques potentielles qui n’auront pas été mises en œuvre cette année, sciemment. S’il reste des crédits, il faut s’organiser pour les utiliser et abonder les budgets des politiques publiques sous-financées, certainement pas les supprimer ! La liste des annulations est longue – on est loin des clopinettes : citons les politiques d’accès et de retour à l’emploi, pour presque 1 milliard d’euros, alors même que le chômage repart à la hausse.\nPlus personne n’écoute votre orchestre du Titanic. Vous jouez bide sur bide sans vous remettre en question. « Il y a encore une mer à traverser pour que le prince se taise », écrivait Aimé Césaire. Nous le ferons partir et se taire. Alors le peuple pourra à nouveau décider. (Applaudissements sur les bancs du groupe LFI-NFP, dont plusieurs députés se lèvent et continuent d’applaudir.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Philippe Brun."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "On a déjà entendu Sitzenstuhl, pas besoin d’écouter encore un macroniste. (M. Louis Boyard quitte l’hémicycle, suivi d’autres députés du groupe La France insoumise-Nouveau Front populaire.)"
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Je ne partage pas les propos des orateurs qui qualifient ce texte d’uniquement technique, comme s’il s’agissait de la photographie d’un compte de gestion, une illustration de la dérive, plus ou moins conséquente et plus ou moins maîtrisée de nos dépenses et de nos recettes.\nLes 4,2 milliards d’euros d’annulations supplémentaires de crédits prévues par le présent PLFG, qui viennent après 3,051 milliards annulés par décret le 25 avril, sont avant tout le symptôme d’une économie française qui décroche. Sauf qu’elle ne décroche pas pour tout le monde. Derrière les 10 milliards de baisse des recettes de la TVA par rapport aux prévisions, il y a des millions de Français qui ne parviennent plus à survivre, qui se privent, du fait des augmentations des prix des biens alimentaires – 7 % de hausse sur les confitures, 10 % sur les boissons non alcoolisées, 9 % sur les confiseries –, des augmentations des prix de l’énergie, du logement. Ces Français ne parviennent plus à suivre et à rattraper l’explosion des prix des denrées alimentaires, laquelle a atteint 18 % ces trois dernières années. Dans le même temps, une autre France ne souffre pas autant – les chiffres de ce texte en témoignent également –, celle dont l’épargne augmente, pour atteindre 18 % de son revenu disponible brut, celle qui paye davantage d’impôt sur la fortune immobilière (IFI), dont le produit augmente. Cette France va mieux tandis que l’autre souffre.\nLa photographie offerte par ce PLFG montre ainsi un pays qui déconsomme – au dernier trimestre, la consommation a encore baissé de 1 % – et un État qui ne parvient pas à maîtriser ses comptes. J’apprécie la phrase de Pierre Mendès France, qui fut député de Louviers, situé dans la circonscription que j’ai l’honneur de représenter : « Les comptes en désordre sont la marque des nations qui s’abandonnent. » Le moins que l’on puisse dire est que la dépense publique dont vous vous faites fort d’assurer la maîtrise, madame la ministre, ne l’est plus. Vous prévoyez notamment 1,1 milliard d’euros de crédits supplémentaires pour la mission Écologie, développement et mobilité, soit les dépenses des services publics de l’énergie, sans que l’on comprenne pourquoi vous ne l’aviez pas prévue. Rendez-vous compte : la France, à l’image de pays peu développés, a dû fermer en juillet son guichet d’aide à la rénovation énergétique, MaPrimeRénov’, car elle n’était pas capable de lutter contre les dossiers frauduleux !\nLa dépense n’est pas maîtrisée faute d’outils efficaces et de moyens de lutter contre la fraude, mais les recettes ne le sont pas davantage. L’an dernier, l’ancien ministre de l’économie Le Maire s’est trouvé au cœur d’un scandale démocratique – disons qu’il en a fait les frais, prenant sans doute sur lui-même une responsabilité collective –, après la découverte d’un trou de 40 milliards par rapport aux prévisions initiales. Rien ne prouve que ce scandale ne pourrait pas se reproduire aujourd’hui. Les estimations fausses de recettes de TVA montrent bien que nos logiciels n’ont pas été mis à jour, que l’élasticité des recettes par rapport à la croissance reste surévaluée, bref qu’il y a quelque chose qui cloche, quand on observe l’évolution de la consommation et des inégalités, dans les ordinateurs de Bercy.\nCe PLFG montre surtout ce qu’est devenue la politique économique du gouvernement. Le ministre de l’économie parle uniquement de finances publiques, plus jamais d’investissement ! Il apparaît clairement dans ce texte que la France est un pays dont l’État n’investit plus. Sur les presque 500 milliards d’euros de dépenses, seuls 23 milliards sont consacrés à l’investissement ; tout le reste relève des dépenses de fonctionnement. Dans ce contexte, vous nous demandez encore d’annuler 1,6 milliard d’euros de crédits de la mission Investir pour la France de 2030.\nEnfin, ce projet de loi de finances de fin de gestion ravive une blessure démocratique, celle d’un budget adopté fin février qui, dès le 25 avril, a connu des annulations de crédits à hauteur de 3 milliards sans aucun contrôle ni association du Parlement. Si bien que nous sommes aujourd’hui réduits à devoir discuter des annulations décidées en avril dernier auxquelles nous n’avons pas participé. Le contrôle de l’exécution est pourtant au moins aussi important que le contrôle de l’autorisation. Pour toutes ces raisons, les socialistes ne pourront pas soutenir ce texte."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "« Et donc nous nous abstiendrons »."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Au cours de son examen, nous demanderons au gouvernement des précisions quant à l’exécution des crédits. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Nicolas Ray."
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "texte": "Le PLFG, en apparence technique, nous livre plusieurs signaux utiles sur la trajectoire de nos finances publiques, comme autant d’éléments à prendre en compte au moment où nous décidons, dans cet hémicycle, des grands choix politiques et budgétaires pour 2026.\nParmi ces signaux, certains sont positifs, d’autres beaucoup moins. Parmi les positifs, citons la cible de déficit, fixée à 5,4 % du PIB en loi de finances, en passe d’être tenue. Bien que le déficit reste encore beaucoup trop élevé à notre goût, au sein du groupe Droite républicaine, nous pouvons néanmoins nous réjouir collectivement de ne pas renouer avec les dérapages de ces dernières années.\nParmi les signaux négatifs, citons le fait que la réduction du déficit s’opère exclusivement, comme l’a rappelé le Haut Conseil des finances publiques, par une hausse des prélèvements obligatoires : en un an, le taux de prélèvement obligatoire a augmenté de 1 point – c’est considérable ! –, passant de 42,8 % à 43,6 %, soit 4 points de plus que la moyenne européenne. Notre pays est celui qui prélève le plus et dépense le plus ; cela ne peut pas constituer un modèle de redressement et de bonne gestion budgétaire. Citons également la poursuite de la hausse des dépenses publiques : en 2025, nous dépenserons 45 milliards de plus qu’en 2024. La loi de finances initiale de février 2025 prévoyait une hausse, en volume, de 1,2 % ; elle s’établirait finalement à 1,7 %. Pour le seul périmètre des administrations centrales, la prévision était de 0,6 % ; elle sera de 1,2 % – soit deux fois plus.\nVous avez fait des efforts pour maîtriser les dépenses en procédant à des annulations et à des gels de crédits, madame la ministre. Je ne le nie pas. Toutefois, ces efforts ne seront malheureusement pas suffisants pour compenser les hausses de dépenses imprévues, par exemple celles des dépenses d’hébergement, de l’ordre de 100 millions, celles dédiées à la revalorisation de la prime d’activité, à hauteur de 300 millions, et surtout celles, de 1,1 milliard, pour financer les énergies renouvelables à la suite de la baisse des prix du marché. Nous remarquons par ailleurs que plus de la moitié des annulations contenues dans ce projet de loi ne sont pas des économies, mais la conséquence du constat d’une moindre charge de la dette, du fait de la baisse des taux d’intérêt, et de remboursements d’impôt moins importants que prévu.\nLe texte relève des erreurs de prévisions en loi de finances initiale, notamment sur les recettes fiscales : 10 milliards d’euros de recettes de TVA vont manquer par rapport aux prévisions. Fort heureusement, ce montant sera compensé par de meilleures rentrées de l’impôt sur le revenu et de l’impôt sur les sociétés. Rappelons cependant que de tels écarts par rapport aux prévisions ont conduit en 2023 et en 2024 à un dérapage sans précédent des finances publiques. Cela a fait l’objet d’une commission d’enquête, à l’occasion de laquelle le gouvernement s’est engagé à résoudre les dysfonctionnements. Les erreurs de prévision touchent aussi aux dépenses, notamment au prélèvement sur recette de l’État au profit des collectivités – le transfert de l’impôt collecté par l’État pour ces dernières – dont la hausse s’établit à 900 millions d’euros – dont 600 millions pour le fonds de compensation pour la TVA.\nNous sommes un peu surpris de la mauvaise prévision du montant du FCTVA, qui est remboursé par l’État aux collectivités territoriales compte tenu de leurs dépenses d’investissement. Nous aurions dû anticiper cette évolution, prévisible et logique dans une dernière année de mandat des conseils municipaux marquée par un fort investissement.\nNous regrettons également la décision de réduire de 30 millions d’euros les recettes des chambres de commerce et d’industrie. Comment peut-on imposer, six semaines avant la fin de l’année, un tel coup de rabot à ces structures qui ont besoin de terminer l’année dans de bonnes conditions ? Des amendements, déposés notamment par notre collègue Véronique Louwagie, proposeront des corrections à cet égard.\nNous résumerons la gestion de l’année 2025 simplement : une augmentation significative des prélèvements obligatoires et la poursuite de la hausse des dépenses. Madame la ministre, vous connaissez les convictions du groupe Droite républicaine ; elles n’ont pas changé. Nous pensons que le redressement budgétaire doit suivre le chemin inverse : des économies sur la dépense publique pour cesser d’augmenter les impôts sur les entreprises et les Français. (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Eva Sas."
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "texte": "J’aurais préféré que nous examinions un projet de loi de finances rectificative, qui nous aurait permis de décider de nouvelles recettes fiscales, plutôt qu’un PLFG, qui n’autorise que des transferts ou des réductions de dépenses.\nSi ce PLFG vous permet de diminuer le déficit de 8 milliards d’euros, ce n’est pas grâce à de nouvelles recettes, mais par des coupes budgétaires à hauteur de 4,4 milliards d’euros et par le dynamisme de l’impôt sur les sociétés. Dans le même temps, la TVA plonge : 5 milliards d’euros de moins au regard des prévisions et 1 milliard de moins par rapport à l’année dernière. Cet écart doit nous conduire à nous interroger et surtout à vous interroger, madame la ministre, car il reflète la baisse du pouvoir d’achat des Français, de plus en plus en proie à des difficultés financières.\nPour expliquer cette baisse de la TVA, vous évoquez les petits colis importés. Sous-valorisés et parfois indûment déclarés comme des envois destinés à des particuliers, ils échappent aux droits de douane et donnent lieu à des fraudes à la TVA. C’est vrai, il y a de la fraude ; on peut d’ailleurs s’étonner du réveil tardif du gouvernement, qui vient seulement de lancer une mission d’urgence à ce sujet. Toutefois, cela ne saurait expliquer l’intégralité des écarts dans les recettes de la TVA. Je tiens à rappeler que cela fait trois ans de suite que le gouvernement se trompe sur les prévisions de la TVA ; il serait temps qu’il se questionne quant aux conséquences de sa politique sur le pouvoir d’achat des ménages.\nSelon l’Insee, sept ménages sur dix limitent leurs dépenses et plus d’un tiers le font simplement pour boucler leur budget. Cela ne s’arrangera pas en 2026 : selon l’OFCE, le revenu réel moyen baisserait encore de 0,4 point, du fait des destructions d’emplois, de la stagnation des salaires réels et de la revalorisation incertaine des prestations sociales. Les classes moyennes sont à la peine et les classes populaires sombrent. Ainsi, le taux de pauvreté a atteint 15,4 % en 2023, son plus haut niveau depuis qu’il est mesuré.\nPendant ce temps, le gouvernement laisse perdurer une sous-budgétisation structurelle et chronique de l’hébergement d’urgence. Comme chaque année, on bricole avec des redéploiements de fin de gestion, afin de trouver les crédits nécessaires pour finir l’année. Cette gestion absurde et court-termiste fragilise les acteurs associatifs et compromet la stabilité du parc d’hébergement. Les besoins, eux, explosent : en août 2025, 6 738 personnes sont restées sans solution après avoir appelé le 115, dont une majorité de familles avec enfants. Selon l’Unicef et la Fédération des acteurs de la solidarité (FAS), 2 159 enfants se trouvaient sans hébergement à la rentrée 2024, dont 503 âgés de moins de 3 ans – et 38 enfants sont morts à la rue en 2024. Ces chiffres sont effrayants. C’est pourquoi nous demandons avec force des crédits à la hauteur des besoins, stables chaque année, ainsi que l’ouverture de 10 000 places supplémentaires. Surtout, nous demandons qu’une politique globale de lutte contre le sans-abrisme soit conduite, ce qui implique de soutenir les enfants de l’aide sociale à l’enfance (ASE) lorsqu’ils deviennent majeurs, de prendre en charge les personnes atteintes de troubles psychiatriques et de régulariser les sans-papiers, qui ne demandent qu’une chose : travailler et pouvoir se loger dignement dans notre pays.\nDernier point essentiel concernant ce PLFG, déjà évoqué par mon collègue Karim Ben Cheikh : le président de la République a annoncé, le 11 novembre, une aide humanitaire supplémentaire de 100 millions d’euros pour Gaza en 2025. Cet engagement ne peut être financé par de simples redéploiements : il faut absolument maintenir les crédits non dépensés de la mission Action extérieure de l’État pour assurer l’engagement rapide de l’aide annoncée. Nous déposerons un amendement pour supprimer ces annulations de crédits et permettre que l’aide humanitaire pour Gaza soit débloquée, dès 2025 et comme annoncé.\nPour conclure, ce PLFG est le reflet de la politique menée depuis huit ans. Les 5,4 % de déficit public sont le résultat de votre politique de baisses d’impôt massives : 62 milliards de moins dans les caisses de l’État tous les ans, que vous essayez désormais cyniquement de faire payer aux plus pauvres en remettant en cause les prestations sociales et le financement des services publics. Pour cette raison, le groupe Écologiste et social ne pourra soutenir ce projet de loi de fin de gestion, mais déterminera sa position de vote finale au vu des débats parlementaires. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Emmanuel Mandon."
+        },
+        {
+          "orateur": "M. Emmanuel Mandon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794114",
+          "texte": "Permettez-moi tout d’abord de saluer, avec une certaine satisfaction, la cohérence retrouvée des données constatées et des hypothèses retenues pour la construction du projet de loi de finances pour 2025. L’évolution des données économiques permet de contenir à 5,4 % le déficit du solde public. Les prévisions de recettes et de dépenses, tant de l’État que des collectivités territoriales, n’ont pas été significativement remises en cause. La maîtrise accrue des dépenses de l’État et la bonne tenue des recettes fiscales sont autant de facteurs positifs. Par ailleurs, je me félicite qu’on n’ait pas connu, en 2025, les errements de prévisions de recettes qui avaient suscité la légitime inquiétude du Parlement par le passé.\nTous ces faits sont autant de signes encourageants, qui montrent que la situation budgétaire peut-être contrôlée. À condition, bien entendu, qu’on sache garder le cap de la raison, de la responsabilité et des compromis constructifs que nous appelons de nos vœux et auxquels nous travaillons. Il faut dégager des moyens pour les missions régaliennes sans perdre de vue la solidarité et l’équité, notamment par une plus juste répartition de la charge de l’impôt, tout en n’oubliant pas l’exigence de modération dans la dépense publique.\nPour y réussir, une certaine continuité est nécessaire. La situation inverse n’irait pas sans graves inconvénients. L’année dernière, j’avais insisté sur le fait que le projet de loi de fin de gestion ne constituait qu’une photographie de la situation budgétaire à la fin de l’année. Le débat en commission a cependant rappelé qu’en France, tout est politique, même les ajustements techniques. Cependant, un usage extensif des procédures réglementaires de modification des dotations budgétaires ne peut qu’atténuer la pertinence de ce constat, et risque d’affaiblir la portée des choix arrêtés par le Parlement en début d’exercice. Le vote du projet de loi de fin de gestion ne saurait combler cet écart.\nPour être juste dans l’appréciation des enjeux, je voudrais aussi mentionner les effets de rupture consécutifs au vote de la censure l’année dernière. Madame la ministre, vous avez évoqué son impact sur le rendement de la contribution différentielle sur les hauts revenus (CDHR). Est-ce la seule conséquence directe et significative de la censure sur la réalisation des prévisions de recettes ou sur l’exécution des autorisations de dépenses pour 2025 ?\nLa nécessité de la continuité s’impose aussi à l’article 2, qui prévoit notamment une première réduction du plafond des taxes affectées aux chambres de commerce et d’industrie, avant la mesure de plus grande ampleur insérée dans le projet de loi de finances pour 2026. Je suis opposé à cette disposition. D’abord, parce que la modification qu’elle induit est proposée quelques mois seulement après la définition, en accord avec l’État, de la trajectoire budgétaire des chambres de commerce. Ensuite, parce qu’il n’est pas raisonnable de bouleverser, quelques semaines avant la fin de l’exercice, l’équilibre de ces instances dans leur gestion de l’année 2025. Enfin, plus largement, parce que les chambres de commerce et d’industrie jouent un rôle essentiel dans l’animation économique des territoires et que la mesure proposée, tant pour 2025 que pour 2026, ne leur permettrait plus de remplir ce rôle. Le gouvernement ne devrait pas persister dans cette voie.\nEnfin, en tant que rapporteur spécial de la mission Relations avec les collectivités territoriales, je ne peux manquer de relever le dynamisme particulier des dépenses de ces collectivités. Cependant, j’ai reçu comme beaucoup de nombreux témoignages d’élus locaux qui m’ont fait part de leurs vives inquiétudes devant cette évolution dont les causes échappent pour une large part à leur contrôle. Ces élus ne veulent pas être les victimes collatérales d’une décentralisation dont la conduite plutôt erratique leur cause de grandes difficultés. La ministre chargée de l’aménagement du territoire ne vient-elle pas elle-même de reconnaître que l’organisation des collectivités et des finances locales était devenue illisible ? Soyons-en conscients – la tâche est immense.\nSous le bénéfice de ces observations, le groupe Les Démocrates votera en faveur de ce texte. (Applaudissements sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "C’est du Modem, c’est solide !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à Mme Félicie Gérard."
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "texte": "Le projet de loi de finances de fin de gestion pour 2025 est un texte technique ; il n’en demeure pas moins essentiel puisqu’il permet de contrôler l’exécution du budget en cours et de s’assurer que les engagements pris sont tenus.\nL’objectif de déficit était fixé à 5,4 % pour 2025. Le groupe Horizons & indépendants l’avait souligné en février lors de l’adoption de la loi de finances initiale : cet objectif n’était pas assez ambitieux. Néanmoins, il permet d’amorcer une reprise en main de nos comptes publics. Cet objectif doit donc impérativement être préservé et ne pourra l’être qu’à la condition d’adopter ce texte.\nCe projet de loi est nécessaire car il permet de couvrir les dépenses obligatoires intervenues en cours d’année. C’est par exemple le cas de l’allocation aux adultes handicapés, des dépenses de sécurité civile ou encore de la solde de nos militaires. Toutes ces dépenses ne peuvent être supprimées et, en cette fin d’année, nous devons procéder à des ajustements budgétaires pour assurer leur financement. Cela doit se faire par des redéploiements internes et des annulations de crédits – si bien qu’au total, nous ne dépensons pas davantage.\nC’est assez rare pour le souligner : le niveau de déficit fixé par la loi de finances initiale a été respecté, malgré un contexte économique instable. C’est le signe d’une exécution budgétaire plus maîtrisée que les années précédentes,…"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Ce n’était pas difficile !"
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "texte": "…notamment grâce à des surgels budgétaires et à un pilotage des dépenses de l’État plus resserré tout au long de l’année. Cependant, nous l’avons rappelé lors de l’examen en commission : cette stabilité du déficit ne doit surtout pas nous conduire à relâcher nos efforts de maîtrise des comptes publics."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Ce n’est pas comme si Édouard Philippe avait cramé la caisse !"
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "texte": "Le respect de la trajectoire fixée par la loi de finances repose en partie sur des facteurs conjoncturels, tels qu’une dynamique favorable des recettes fiscales. Or rien ne garantit que ces conditions favorables se maintiendront. Rien ne garantit non plus que cette assemblée poursuivra l’effort de réduction du déficit en 2026 : le vote de dizaines de milliards d’euros de dépenses supplémentaires, lors de l’examen du budget en commission des finances, n’est pas de nature à rassurer sur le sérieux du texte qui résultera de nos travaux. Nous demeurons donc dans une zone de risque budgétaire : la moindre variation de taux, la moindre dégradation de la conjoncture économique, la moindre instabilité politique nouvelle induite par nos votes aggravera le déficit.\nLe groupe Horizons & indépendants, mes chers collègues, n’a de cesse de le répéter : le sérieux budgétaire et la trajectoire de réduction de la dette ainsi que du déficit ne sont pas négociables. L’objectif de réduction de la dette et du déficit fixé en loi de finances pour 2025, pour insuffisant qu’il nous soit apparu, a néanmoins été tenu. Notre groupe votera donc en faveur du PLFG pour 2025. (Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Le PLFG pour 2025 traduit une exécution budgétaire en apparence maîtrisée, avec un déficit public se tenant en dessous des 5,4 % du PIB. Cette baisse de 0,4 point, par rapport à l’année précédente, s’explique par une nouvelle hausse, considérable, des prélèvements obligatoires – ils ont augmenté de 0,8 point de PIB – et par une baisse de 0,2 point de PIB des dépenses publiques.\nCette amélioration n’a cependant rien de structurel. Elle repose, tout au contraire, sur des facteurs conjoncturels, des recettes fragiles et des économies aléatoires.\nLe gouvernement se félicite d’une bonne gestion mais les chiffres nous invitent à la prudence. La baisse de 2,9 milliards de la charge de la dette explique, à elle seule, plus du tiers de l’amélioration du solde – grâce à la détente des taux, qui n’est que le fruit d’une décision de la Banque centrale européenne. C’est une économie de constatation. À cela s’ajoutent plusieurs produits exceptionnels : 1,6 milliard d’amendes, le reversement de 364 millions par Natixis et les 200 millions issus de la Caisse des dépôts. Tout cela, ensemble, représente 5,1 milliards – soit l’essentiel de l’amélioration de 8 milliards affichée. Il ne reste que 2,8 milliards d’ajustements réels, correspondant à des ouvertures et des annulations de crédit dont l’effet net sur la dépense est limité.\nLa situation des recettes fiscales, elle, est bien moins flatteuse qu’il n’y paraît. La TVA, dont les encaissements bruts ont atteint 148,9 milliards fin octobre, progresse moins vite qu’on ne l’attendait : elle stagne, en réalité, par rapport à 2024 où elle atteignait, à la même date, 149,8 milliards. Le prolongement de cette trajectoire conduirait à des recettes de fin d’année d’environ 100 milliards, contre les 101,4 milliards prévus en loi de finance initiale pour 2025. Ce manque à gagner de près de 5 milliards traduit un net ralentissement de la consommation des ménages qui devrait n’augmenter que de 0,3 % en volume et de 1,3 % en valeur.\nLes accises sur l’énergie suivent la même évolution : les encaissements de la taxe intérieure sur la consommation finale d’électricité (TICFE) atteignaient 13,7 milliards d’euros fin octobre – inférieurs de 0,3 milliard à ceux de 2024 à la même date. Le produit final, à ce rythme, atteindra difficilement les 16,5 milliards prévus dans la loi de finances initiale. Vous avez prévu une hausse de 200 millions dans ce PLFG, quand nous en aurons plutôt à constater une baisse de 0,4 milliard, voire de 0,5 milliard.\nLes recettes cumulées de l’impôt net sur le revenu s’élèvent, fin octobre, à près de 67 milliards d’euros, soit une hausse de 5,3 milliards par rapport à 2024 – près de 9 % de mieux. Cela confirme la hausse annoncée de 400 millions par rapport à vos prévisions initiales. Si cette tendance venait à perdurer, le produit final serait à peu près conforme aux prévisions – même si la croissance de la masse salariale, en hausse de 4 % par rapport à 2024, elle, y est inférieure.\nL’impôt sur les sociétés constitue quant à lui un grand mystère. Ses encaissements nets se montent à 42,4 milliards d’euros fin octobre, en hausse de 4 % par rapport à 2024 à la même date. Vous les anticipez à 58,2 milliards pour la fin d’année, soit 5,2 milliards de mieux par rapport à loi de finances initiale. Au vu des acomptes déjà perçus, cependant, la hausse effective serait plutôt de 2 milliards, signe d’une activité moins soutenue que prévu.\nLa CEHR – contribution exceptionnelle sur les hauts revenus –, prévue à 2 milliards dans la loi de finances initiales, est revue à la baisse à 1,4 milliard dans ce PLFG.\nLa hausse exceptionnelle de l’impôt sur les sociétés, évaluée à 8 milliards, est considérée comme légèrement sous-évaluée de 0,1 milliard – attendons néanmoins la liquidation pour nous prononcer.\nCes évolutions confirment l’extrême fragilité de la trajectoire budgétaire : les recettes progressent moins vite que prévu et l’amélioration du solde repose davantage sur des effets conjoncturels que sur un redressement durable.\nVenons-en maintenant aux dépenses. Les ouvertures répondent à des nécessités de financement : 1,1 milliard pour le service public de l’énergie du fait de la chute des prix de l’électricité ; 300 millions pour la défense ; 775 millions pour les politiques sociales dont 120 millions pour l’hébergement d’urgence, quand il en faudrait à peu près le double pour maintenir le nombre de places.\nLes annulations, d’un autre côté, ne traduisent pas de véritables économies : 800 millions sur la mission Travail et emploi ; 250 millions sur la mission Recherche et enseignement supérieur ; 1,6 milliard sur Investir pour la France de 2030.\nCe texte, et ce sera ma dernière observation, illustre les limites de la procédure budgétaire. Si le groupe LIOT reconnaît que le gouvernement a évité la dérive qu’ont connue les finances publiques en 2024, nous continuons d’en appeler à une approche différente.\nPour toutes ces raisons, fidèle à sa ligne de rigueur et de lucidité, et si le PLFG devait rester en l’état, notre groupe s’abstiendra sur ce texte."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Le PLFG que nous examinons aujourd’hui révèle, une fois de plus, les impasses d’une stratégie budgétaire inefficace – stratégie qui a conduit, en cette fin d’année, à un nombre record de défaillances d’entreprises et de suppressions d’emplois. L’observation de l’évolution de la TVA suffit à mesurer toute l’ampleur de cet échec : véritable couteau suisse de nos politiques publiques, la TVA est devenue la variable d’ajustement de toutes les exonérations, de tous les cadeaux fiscaux et de toutes les niches, que votre majorité refuse obstinément de remettre en cause. En conséquence, ses recettes seront en 2025 inférieures de 5 milliards aux prévisions, pour l’État, et de 10 milliards, au total. Pour la troisième année consécutive, un écart majeur apparaît ainsi entre les prévisions et la réalité : 7 milliards en 2023 et 14 milliards en 2024. Vous affichez pourtant un optimisme fiscal déconcertant pour 2026, en anticipant une hausse de 12,2 milliards des recettes nettes de la TVA.\nLes ouvertures de crédit dont vous vous prévalez, elles, ne sont qu’un trompe-l’œil. Elles font suite aux gels, aux surgels et aux annulations d’avril et de septembre. Lors de l’examen du dernier budget, nos amendements visant à renforcer l’hébergement d’urgence ont été écartés, alors même que les expulsions locatives atteignent un nouveau record – conséquence de la loi scélérate portée par un ancien ministre, aujourd’hui député et applaudi par l’extrême droite. Nous avons également refusé le gel de l’AAH que votre budget prévoyait pour 2026.\nLes mesures d’économie du PLF et du PLFSS auront de nouveau pour effet de restreindre mécaniquement l’activité économique et, avec elle, l’assiette des impôts – le PLF pour 2026 prévoit un ajustement de 30 milliards d’euros reposant, pour les deux tiers, sur la réduction des dépenses publiques. Seules la contribution à l’Union européenne, la charge de la dette et la défense voient leurs crédits progresser significativement.\nLes collectivités locales et territoriales sont les autres victimes des PLF successifs. Alors qu’elles subissent un effet de ciseau du fait de la progression des dépenses et de la baisse des recettes, ce PLFG, qui entérine les suppressions de crédits durant ces gels et surgels, leur est très défavorable. Dans le PLF et le PLFSS pour 2026, la facture est plus lourde encore, puisque les collectivités seront mises à contribution à hauteur de 7,6 milliards d’euros. Ces efforts qu’on leur impose sont sans rapport avec leurs besoins et avec leurs capacités financières.\nPour justifier ces coupes au détriment des apprentis et des services publics, ces coupes qui mettent de si nombreuses personnes en difficulté, vous brandissez les 3 500 milliards d’euros de dette publique, dette que vous avez vous-même creusée de 1 000 milliards depuis 2017."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Cette dette est devenue une rente privée garantie : ce que les plus riches ne payent pas en impôt, ils le prêtent à un État qu’ils contribuent à appauvrir tout en percevant des intérêts. Elle est également devenue une arme de sidération massive, servant à verrouiller le débat démocratique en ne proposant pas d’autre horizon que celui de la baisse des dépenses publiques.\nIl n’est pourtant de fatalité que celle que vous entretenez. La situation actuelle découle d’un mode de financement public qui doit être profondément repensé et progressivement démantelé. Depuis la réforme dont M. Strauss-Kahn a été à l’initiative, l’État recourt massivement aux obligations indexées sur l’inflation, y compris lorsque, à la fin des années 2010, les taux étaient négatifs. Alors que l’échelle mobile des salaires a été abandonnée depuis 1983, ce sont désormais nos créanciers, et non les travailleurs, qui bénéficient d’une garantie automatique de maintien de leur pouvoir d’achat.\nLa définanciarisation maîtrisée est pourtant une alternative à ce mur de la dette financiarisée. Nous pouvons réduire notre dépendance au marché mondialisé en orientant davantage l’épargne nationale, qui dépasse les 6 400 milliards d’euros, vers des produits souverains : livret dédié à la transition énergétique, obligations vertes, titres finançant la rénovation thermique ou les infrastructures publiques. C’est de cette manière que nous pourrons relancer l’investissement public tout en répondant à l’urgence écologique.\nNous proposons, dans le même esprit, de recréer un circuit du Trésor sous une forme modernisée : émissions de bons du Trésor accessibles directement aux ménages, taux administrés et obligation faite aux banques d’allouer une part minimale de leurs actifs à l’achat de titres publics. Les placements dans la dette d’État ne sont pas improductifs ; ils stabilisent, au contraire, nos financements publics, ils sécurisent l’épargne et réduisent notre exposition aux marchés spéculatifs.\nIl existe d’autres chemins, chers collègues, que ceux que vous nous présentez. Nous n’adopterons pas un texte enfermant la France dans un schéma qui a échoué, un schéma porteur d’inégalités et de divisions entre nos concitoyens. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Si ce PLFG ne se contente que d’enregistrer les faits, ces faits sont accablants. Il vient acter, une fois de plus, votre incapacité criante à redresser les comptes de la nation. Le gouvernement se félicite de pouvoir maintenir, conformément à la loi de finances initiale pour 2025, une prévision de déficit public à 5,4 % du PIB. Très bien – mais à quel prix ? Et, surtout, pour quel résultat ?\nCette stabilisation, en réalité, n’a rien d’un succès. Elle provient exclusivement des recettes exceptionnelles : les 5,2 milliards d’euros d’impôt sur les sociétés effacent péniblement la perte de 5 milliards sur les recettes de la TVA, symbole d’une consommation en berne et d’une confiance qui se délite.\nCette baisse de la TVA ne fait que révéler votre insincérité. La surévaluation systématique des prévisions de recettes sur la TVA – le PLF pour 2026 en donne encore un exemple – vous permet de camoufler le déficit réel et le surendettement auquel vous soumettez le pays.\nLa baisse des recettes de la TVA est également le symbole d’une consommation atone : les Français sont si pressurés – entre les prélèvements de taxes, de charges et d’impôts – que le peu d’actifs que vous leur laissez ne leur permet tout simplement pas de vivre."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Oh ! Il a du mal à vivre !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Les recettes de l’impôt sur les sociétés augmentent de 5 milliards – 5 milliards de plus prélevés sur des entreprises déjà exsangues. On devrait compter, d’ici à la fin de l’année, 69 000 faillites : autant de familles ruinées, encore plus de salariés au chômage et des pans entiers de l’économie qui tombent en lambeaux. Quelle ironie…"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Quelle ironie, en effet !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "…que de voir que les taxes, en dépit de ce constat, vont encore augmenter et provoquer plus de drames encore. Tout cela parce que vous n’avez pas le courage de baisser les dépenses ! Cette hausse de 5 milliards témoigne de ce que vous voulez prendre toujours plus à ceux qui créent les richesses dans notre pays. (Mme Mathilde Feld s’exclame.) Avec le budget pour 2026, vous sacrifiez les entreprises sur l’autel de votre lâcheté.\nCe déficit de 5,4 % du PIB n’est finalement pas maîtrisé – il est subi. Il s’écarte de 1,7 point de ce que le gouvernement avait lui-même inscrit dans la loi de programmation des finances publiques pour 2025. D’ici à 2027, il faudra ajouter 450 milliards de dette supplémentaire au passif du macronisme – et c’est ce que vous appelez la maîtrise des grands équilibres !\nLe PLFG confirme par ailleurs le niveau de la dette publique, à 116 % du PIB – soit le niveau record atteint durant la crise sanitaire, alors que l’économie était à l’arrêt. En 2025, la crise ne résulte plus de circonstances exceptionnelles ; c’est une crise structurelle du pilotage budgétaire.\nCette dérive isole la France au sein de l’Europe. L’Espagne a réduit sa dette, l’Allemagne l’a ramenée à 64 % de son PIB et nos taux souverains dépassent maintenant ceux de l’Italie – situation impensable il y a encore quelques années. La charge de la dette est progressivement devenue l’un des premiers budgets de l’État. Cette spirale continuera tant que rien ne sera fait pour réduire les dépenses structurelles.\nLe gouvernement aime à répéter qu’il maîtrise la dépense mais les chiffres le contredisent. Ce texte révèle la lâcheté de vos choix passés. La dépense publique atteint 56,8 % du PIB, soit 1 687 milliards d’euros, pour une hausse en volume de 1,7 %, hausse supérieure à notre croissance potentielle. Aucun effort structurel, autrement dit, n’a été entrepris. Le solde structurel reste figé à 5,1 % et prouve que vous n’avez pas compris la nécessité de corriger ces déséquilibres profonds sans vous en remettre à des coups de pouce conjoncturels.\nLe PLFG montre également que, derrière les recettes exceptionnelles, rien n’a été consolidé. Alors que la France entre dans un cycle inédit de contraintes budgétaires, alors que les nouvelles règles de gestion devraient nous imposer une trajectoire crédible de réduction de la dette et alors que la charge des intérêts explose, nous ne pouvons pas nous satisfaire d’une politique déficitaire et des seules bonnes surprises de l’impôt sur les sociétés.\nCette stratégie nous mène droit dans le mur : nous avons besoin d’une politique de finances publiques qui établit la confiance, lutte contre la dépense inefficiente, sécurise les recettes sans matraquer les contribuables et stabilise durablement la dette. Le texte reflète votre lâcheté et votre incapacité à replacer la France dans une trajectoire soutenable. Pour toutes ces raisons, notre groupe votera contre le projet de loi de finances de fin de gestion."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "La discussion générale est close.\nLa parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Vous remontez loin dans les projets de loi de fin de gestion et de fin d’année présentés dans cet hémicycle depuis 2017. C’est légitime, vous avez la liberté de le faire, mais cela présente une difficulté. En effet, ce texte n’est pas le bilan du macronisme ni du quinquennat…"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "C’est du macronisme !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…mais d’une année budgétaire très particulière. Il s’agit du projet de loi de finances de fin de gestion d’un projet de loi de finances qui n’est devenu une loi de finances initiale que le 14 février, après six semaines de services. Pour la première fois, le texte budgétaire en application n’a pas été choisi par un gouvernement qui détiendrait la majorité absolue ou qui aurait opté pour le 49.3 : il est issu des travaux d’une commission mixte paritaire conclusive."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "49.3 ! Vous faites fort !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Certes, mais sur la base non pas d’un texte du gouvernement mais d’une CMP conclusive ! Je le rappelle pour qu’on n’oublie pas d’où on vient ni ce qu’on a fait. Je ne tire bien sûr aucune satisfaction du texte que je vous présente : je ne dirai pas qu’un déficit de 5,4 % est formidable, que la France a résolu son problème de finances publiques, que la dette n’augmente plus. Cette réponse serait évidemment inadaptée."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Arrêtez de nous prendre pour des imbéciles ! Il faut arrêter de se moquer du monde !"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Vous nous prenez pour des idiots !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Ça s’appelle de la provocation ! Plus de milliardaires, plus de morts sur les brancards, plus de jeunes qui vont mal… On fait le bilan !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "S’il vous plaît ! Vous n’avez pas la parole, cher collègue !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Après cinq années de crise dont plus personne ne veut se souvenir… (M. Jean-Philippe Tanguy s’exclame.) Monsieur Tanguy, on ne peut pas dire que le covid soit un événement ponctuel. (Protestations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Oh, les excuses bidon !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Le covid a entraîné une chute inégalée du PIB ; des secteurs entiers de l’économie ont été à l’arrêt pendant des mois. De ce fait, 20 milliards d’euros supplémentaires ont été injectés dans notre système de santé."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Mensonges à répétition ! Avec 20 milliards de plus !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Nous ne pouvons pas faire comme si le covid n’avait pas existé. Tous les pays d’Europe ont connu une hausse de leur dette publique pendant cette période. Vous n’aimez pas non plus que l’on vous rappelle que l’augmentation de nos dépenses résulte largement de la politique que nous avons menée pour lutter contre l’inflation et contre la crise énergétique qui a suivi l’invasion russe en Ukraine."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "C’est le principe, il faut anticiper. Il se passera toujours quelque chose. Allez gouverner le pays des Bisounours !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Quand le chèque énergie et le soutien aux entreprises ont été votés, mesdames et messieurs les députés, vous étiez les premiers à demander que le gouvernement en fasse davantage. (M. Jean-Philippe Tanguy s’exclame.) Si, monsieur Tanguy ! Vous évoquez les archives de 2017, je parlerai de celles de 2022-2023."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Vous répétez toujours la même chose !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Ce texte n’affirme pas que le niveau de déficit est parfait,…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Chut !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…que nous sommes très heureux d’être arrivés au bon endroit et que nous n’avons plus d’efforts à faire. Ce texte signifie que vous avez trouvé un compromis parlementaire sur 5,4 % de déficit…"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…et que le gouvernement s’est mis en ordre de marche pour le faire respecter. Cela ne s’est pas fait par magie, mais avec une grande méthode, dont l’un des éléments consistait à vous rendre compte du budget. Lorsque j’étais parlementaire, je trouvais en effet extrêmement frustrante, et même désolante, l’absence d’information claire et complète, en temps réel, après le vote d’un budget. Nous vous avons non seulement fourni les données sur l’exécution budgétaire de l’État, mais également sur celle des collectivités et de la sécurité sociale, bref, sur l’ensemble de la dépense publique. Pourquoi ? Quand on ne le fait pas, les décisions de gestion ne sont pas partagées (Protestations) et des doutes subsistent sur notre engagement budgétaire.\nDeuxième point (Protestations sur les bancs des députés LFI-NFP et EcoS)  : j’ai été interrogée sur l’enjeu des 100 millions d’euros annoncés pour Gaza par le président de la République. Monsieur le député Ben Cheikh, je réponds à l’une de vos préoccupations. Ces 100 millions répondent à une urgence humanitaire absolue, pour soutenir l’accès à l’alimentation, le soutien aux femmes et aux enfants de moins de 5 ans, le développement de services néonataux, dans les maternités d’urgence notamment, et la reconstitution des stocks d’eau et de nourriture. Cette somme doit être décaissée par la France d’ici la fin de l’année. Je vous dis solennellement que j’ai de nouveau fait le point…"
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "texte": "Moi aussi !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…aujourd’hui avec mes équipes et celle du ministère de l’Europe et des affaires étrangères :…"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Vous allez nous donner toute la liste pour nous faire perdre encore plus de temps !"
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "texte": "Vous lui posez la question, elle répond !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…80 millions proviennent des fonds d’aide humanitaire et 20 millions seront décaissés par l’Agence française de développement. Je vous confirme que l’ouverture de crédits supplémentaires n’est pas nécessaire, car nous pouvons financer cette aide d’ici la fin de l’année. Lorsqu’un président de la République s’engage à injecter 100 millions d’euros dans le système humanitaire pour Gaza, il tient sa parole. Une résolution vient d’être adoptée au Conseil de sécurité de l’ONU pour qu’une force internationale protège les populations sur place. La parole du gouvernement sera tenue et les fonds engagés. Je suis à votre disposition pour que vous veniez contrôler sur pièces et sur place le décaissement des fonds dans les temps – M. le rapporteur général pourra s’en charger. Heureusement que nous n’avons pas besoin d’ouvrir en urgence des crédits en fin d’année chaque fois qu’un président de la République s’engage :…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Il s’est engagé à tellement de choses !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…nous avons les fonds pour le faire. Les annulations de crédit portent sur le programme 209, qui ne concerne pas les crédits à déployer – aide humanitaire et programmes de l’Agence française de développement."
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "texte": "Les seuls crédits pour l’aide humanitaire sont ceux du programme 209 !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Je ne souhaite pas que subsiste le moindre doute de la représentation nationale sur la parole de la France."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Obstruction des ministres !"
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "texte": "Écoutez !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Je conclurai sur une correction à apporter dans la partie informative du tableau, car les crédits ouverts au titre des services votés ont été écrasés par le PLF : il ne s’agit donc pas d’ouvertures au sens strict. L’un des encaissements exceptionnels de l’année sera également corrigé. Il concerne un contentieux de l’État sur plusieurs centaines de millions d’euros. Nous avons corrigé les montants précis pour qu’ils apparaissent dans les recettes non fiscales. L’encaissement de fin d’année de Natixis se fera en deux temps, et sera l’objet d’un amendement du gouvernement, très transparent. Par erreur, 366 millions ont ainsi été ajoutés dans ces tableaux.\nIl serait dommageable que les débats au sujet de ce texte technique consistent à faire de la mauvaise politique. Dans le cadre du PLF pour 2026, vous avez toute latitude pour proposer des mesures sur les recettes et des mesures d’économie. Mais ce n’est pas le 15 novembre que nous allons révolutionner notre gestion budgétaire, introduire de nouvelles recettes et surtout ouvrir des crédits, alors qu’ils ont été positionnés au bon endroit dans les bons ministères pour faire face aux différentes crises."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Ce n’est pas le moment en avril, ce n’est pas le moment en septembre…"
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Vous êtes en train de diluer !"
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "texte": "Et vous, on vous a écoutée combien de temps ?"
+        },
+        {
+          "orateur": "Un député du groupe Horizons",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Un peu de respect !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "Les ouvertures de crédits, sans annulation, que vous demandez auraient pour effet direct d’augmenter le déficit. Ce serait assez cocasse…"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "C’est extrêmement long !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…qu’après un an de gestion méthodique, des ouvertures de crédit non gagées augmentent le déficit. (Protestations. – Mme la ministre se retient de rire.) Vous me faites rire, car j’ai réussi à répondre, malgré vos protestations, à l’ensemble de vos interventions avant la suspension. Si vous ouvrez des crédits sans engager en face des annulations,…"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "C’est bon, on a compris, merci !"
+        },
+        {
+          "orateur": "Mme Amélie de Montchalin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA721670",
+          "texte": "…tous vos amendements augmenteront le déficit. Je ne souhaite pas que cela soit le cas dans les débats à venir. (Applaudissements sur les bancs des groupes EPR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Pendant les cinq minutes restantes, je propose de commencer l’examen de l’article liminaire, avec les deux premiers orateurs. La parole est d’abord à M. le rapporteur général. (Exclamations.)"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Monsieur le président, je souhaitais informer l’Assemblée nationale que, vendredi dernier, j’ai saisi Mme la ministre d’une question…"
+        },
+        {
+          "orateur": "Une députée du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est vraiment méprisant !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…sur la répartition des transferts entre les dépenses affectées à l’État et ses opérateurs, aux collectivités territoriales et leurs opérateurs, et à la sécurité sociale. L’identification très claire des transferts entre ces trois secteurs est absolument fondamentale pour bien comprendre la structure et l’architecture générale du projet de loi de fin de gestion. J’ai donc saisi le gouvernement vendredi dernier et, ce soir, la direction du Trésor,…"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "C’est insupportable !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…en l’absence de réponse précise. Je tiendrai la représentation nationale au courant des réponses. (Protestations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "texte": "Il vaut mieux remettre à demain l’examen des articles. (Protestations sur plusieurs bancs des groupes LFI-NFP, EcoS et GDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3924101",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "texte": "Prochaine séance, demain, à quinze heures :\n Questions au gouvernement ;\n Suite de la discussion du projet de loi de finances de fin de gestion pour 2025 ;\n Suite de la discussion de la première partie du projet de loi de finances pour 2026.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-trois heures cinquante-cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

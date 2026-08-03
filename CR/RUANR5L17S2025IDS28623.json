@@ -1,0 +1,3329 @@
+{
+  "uid": "CRSANR5L17S2025O1N036",
+  "seanceRef": "RUANR5L17S2025IDS28623",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2024-11-05",
+  "dateLisible": "mardi 05 novembre 2024",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3554245",
+      "valeurPtsOdj": "1",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2025",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "L’ordre du jour appelle la suite de la discussion du projet de loi de financement de la sécurité sociale pour 2025 (nos 325, 487, 480)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554247",
+      "valeurPtsOdj": "1",
+      "titre": "Troisième partie (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Cet après-midi, l’Assemblée a poursuivi l’examen des articles de la troisième partie, s’arrêtant à l’amendement no 1812 portant article additionnel après l’article 18."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554249",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 18 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je suis saisie de deux amendements, nos 1812 et 2298, pouvant être soumis à une discussion commune.\n La parole est à M. Christophe Bentz, pour soutenir l’amendement no 1812, qui fait l’objet d’un scrutin public déjà annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Cet amendement est issu de la fusion de deux amendements examinés en commission. J’avais retiré l’un d’eux après une discussion avec le rapporteur général.\nNous proposons d’accroître l’activité des établissements de santé au service des patients et du soin, en les débarrassant de leur surcharge administrative. Le groupe Rassemblement national a une position assez critique sur les agences régionales de santé (ARS), puisque nous souhaitons les supprimer. Il s’agit ici de limiter la proportion des effectifs non soignants dans les ARS et les établissements de santé.\nJe crois que le rapporteur général de la commission des affaires sociales partage cette ambition de simplification administrative. C’est donc une forme d’amendement issu de la commission, un amendement de synthèse. Il n’est pas péremptoire, il fixe un objectif de réduction en plafonnant à 10 % la part du personnel non soignant."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554252",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Philippe Vigier, pour soutenir l’amendement no 2298."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "En comparant la situation des hôpitaux de l’Union européenne, j’ai constaté qu’en France, le personnel administratif comptait pour 31 % du total, contre 21 % en Allemagne. Dans un cadre financier contraint comme le nôtre, il faut que les moyens déployés aillent à l’augmentation du nombre de soignants. Par cet amendement, qui est une forme d’amendement d’appel pour contribuer à la restructuration du système de santé, nous proposons de rééquilibrer la répartition des effectifs en faveur du personnel soignant.\nTout ne doit pas partir du haut, de la direction générale de l’hôpital – qu’il s’agisse d’un centre hospitalier universitaire (CHU), d’un centre hospitalier général (CHG) ou d’un centre hospitalier régional (CHR). Il faut déconcentrer et responsabiliser les services. De nombreuses fonctions support ont été créées, qui sont utiles sur le plan opérationnel, mais nous pouvons faire confiance aux acteurs et associer les professionnels de santé à la gestion des services, par le biais de contrats d’objectifs et de moyens (COM), par exemple. L’Assistance publique-Hôpitaux de Paris (AP-HP) fonctionnait de la sorte, il y a trente-cinq ans. Depuis, nous avons connu un changement complet de paradigme.\nL’amendement du collègue qui s’est exprimé avant moi va beaucoup plus loin que le mien, en visant un plafond de 10 % qui sera difficile à respecter."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "C’est un objectif !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Si nous parvenions à ne pas dépasser 25 % de personnel non soignant, l’effort serait déjà absolument considérable. Nous devrions tous y réfléchir."
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Excellent amendement qui complète celui de M. Bentz !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. le rapporteur général de la commission des affaires sociales pour donner l’avis de la commission sur ces deux amendements."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Nous dénonçons tous l’excès de bureaucratie dans les hôpitaux. Il faut toutefois faire attention aux comparaisons internationales : nous n’avons pas tous la même définition du « personnel administratif » au sein de l’Organisation de coopération et de développement économiques (OCDE). Je ne m’engagerai pas dans une bataille de chiffres, mais pour faire fonctionner un hôpital, il faut ajouter au personnel soignant – aides-soignants, infirmiers, médecins – des secrétaires médicaux, des brancardiers, et tous les métiers de la maintenance, à l’instar du personnel d’entretien ; ces catégories représentent une proportion beaucoup plus mince de personnel non soignant, entre 8 et 12 %, selon la taille des structures. En tenant compte des fonctions support – direction des ressources humaines, direction de la stratégie –, on s’approche de votre chiffre.\nTout en étant d’accord sur le diagnostic, je ne suis pas convaincu par ces propositions qui risquent d’ajouter de la tension à la tension. Il faut surtout diminuer la contrainte administrative qui pèse sur le personnel non soignant. Ne stigmatisons pas les personnels administratifs, qui travaillent ! On leur demande sans doute trop de tâches, de même que les centrales demandent trop aux ARS, lesquelles demandent beaucoup trop aux hôpitaux, et ainsi de suite. Débureaucratiser et simplifier est un objectif louable, à condition d’en finir avec les demandes excessives de données administratives, tant au niveau des centrales que des ARS et des structures elles-mêmes. Si l’on ne fait pas ce travail et qu’on diminue les moyens, on créera d’autant plus de tensions. Ce n’est pas ce que l’on cherche.\nRestructurons les établissements hospitaliers en donnant plus de responsabilités aux services. L’Agence nationale d’appui à la performance des établissements de santé et médico-sociaux (Anap) avait entamé des travaux sur le sujet, interrompus par la crise du covid. J’encourage l’Anap à reprendre le chantier des discussions avec les chefs de pôle et les chefs de service afin de supprimer tout ce qui est inutile. Je n’ai plus les chiffres des études en tête, mais il me semble que seule une petite partie des documents envoyés aux ARS peut être exploitée. Trop d’information tue l’information !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Trop d’impôt tue l’impôt !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "C’est un peu ce qui se passe ici : nous demandons tout un tas de rapports que nous ne sommes pas sûrs d’obtenir, et que nous n’examinons pas toujours. Je partage le constat, mais il faudrait une réforme structurelle. Je vous demande donc de retirer vos amendements. À défaut, mon avis sera défavorable."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Tout ça pour ça…"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme la ministre de la santé et de l’accès aux soins, pour donner l’avis du Gouvernement."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre de la santé et de l’accès aux soins",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Sur 100 personnes travaillant dans un hôpital, 70, voire un peu plus, sont des soignants : 13 médecins, 60 infirmiers et aides-soignants. Sur les 30 personnes restantes, une vingtaine remplit des fonctions support : les brancardiers, par exemple. Pour ma part, je ne saurais pas travailler dans un hôpital dépourvu de brancardiers ou, pour une structure par essence très technique, de personnels de maintenance. J’ignore aussi comment pourrait fonctionner un service sans les secrétaires médicales, qui transmettent les comptes rendus, notamment. Or ces métiers comptent pour environ 20 % de l’ensemble. La part du personnel administratif est donc de 10 %, monsieur Bentz : l’épure tracée par votre amendement correspond à la situation actuelle.\nQuant au souhait de Philippe Vigier de plafonner la part de ce personnel à 25 %, il est toujours possible de l’envisager, mais l’utilité des brancardiers, des secrétaires médicales ou des agents administratifs ne fait pas de doute.\nJe rejoins les propos du rapporteur général : nous avons vraiment besoin d’alléger la charge de travail administratif, de coordonner différemment les tâches entre les ARS et les hôpitaux. Il ne faut pas raisonner en nombre de personnes, il faut envisager différemment les missions.\nPar ailleurs, dans les 10 %, je ne compte pas le personnel administratif au contact du public, tout aussi utile pour l’accueil ou les consultations externes, par exemple."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Il va falloir avancer, là !"
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Dix minutes pour un seul amendement !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est honteux."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Bref, la quantité de personnel administratif n’est pas en cause – chacun a son utilité –, ce sont les tâches qu’il faut revoir. Je suis donc défavorable à ces deux amendements."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Chers collègues qui vous impatientez, vous estimez peut-être que le fonctionnement des hôpitaux ne mérite pas notre attention ; ce n’est pas notre cas ! Ces personnels qui font tourner la boutique au quotidien et qui s’occupent des patients tout au long de l’année méritent plus de respect."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Il se donne en spectacle !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "J’ai précisé qu’il s’agissait d’un amendement d’appel et j’ai entendu les excellents arguments du rapporteur Neuder ; il les avait déjà exposés en commission.\nJe ne prendrai qu’un exemple : un jour, dans un petit hôpital que je connais bien, situé dans un territoire qui me fait confiance depuis quelques années, nous avons décidé de faire des arthroscopies en ambulatoire. Nous imaginions que l’administration suivrait. Or il a fallu deux ans pour commander des arthroscopes ! Quand on sait comment fonctionnent les administrations centrales des hôpitaux, comme celles des ministères en général, on ne doute pas qu’il y a matière à débureaucratiser, à décloisonner ! Faisons confiance aux soignants, ils sont découragés par ces procédures infernales et dévastatrices !"
+        },
+        {
+          "orateur": "Mme Béatrice Bellay",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842211",
+          "texte": "Arrêtez-le, madame la présidente !"
+        },
+        {
+          "orateur": "M. Arthur Delaporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793394",
+          "texte": "Limitez les prises de parole à une minute !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "J’y reviendrai fréquemment. Je rappelle qu’il y a 1,2 million de fonctionnaires hospitaliers en France. Ce n’est pas un détail. Je maintiens donc mon amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Monsieur Bentz, maintenez-vous le vôtre ?"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Absolument. Le collègue Vigier, le rapporteur général, la ministre et moi-même partageons le même constat… Mon groupe ne fait que proposer une piste pour sortir de cette situation de suradministration dont tout le monde se plaint, les ARS comme les établissements, les soignants comme les élus locaux qui travaillent avec eux.\nMonsieur le rapporteur, vous l’avez souligné, le cœur du problème, c’est l’excès de bureaucratie. Philippe Vigier ne dit pas autre chose : la bureaucratie nuit au fonctionnement des services et n’optimise en rien le temps médical. L’ensemble du personnel soignant réclame une simplification, un allégement du fonctionnement administratif des établissements. Fixons-nous un cap, celui de la réduction des effectifs administratifs au profit des métiers du soin."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Monsieur Vigier, le problème que vous avez rencontré avec l’arthroscopie relève de la délégation de gestion ; ce n’est pas la même chose."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Vous viendrez me voir !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "La loi HPST de 2009 l’indique bien : les directeurs d’hôpitaux peuvent, dans le cadre des contrats de pôle, recourir à la délégation de gestion. Les outils existent mais ils sont peu employés, j’espère qu’ils le seront davantage.\nMonsieur Bentz, je partage votre constat, mais il faut lancer une réforme structurelle pour diminuer le reporting administratif…"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "On l’attend !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "…plutôt que diminuer les moyens correspondants. Une fois que les tâches administratives seront réduites, nous pourrons transformer les postes afférents en postes de soignants. Faire l’inverse, c’est un peu démago !"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Si le constat est bon, ce n’est pas démago !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Ne serions-nous pas un peu jacobins dans notre approche, en décidant depuis Paris et dans la loi qu’il faudrait tel pourcentage maximum d’effectifs administratifs dans les établissements de santé ? Leurs responsabilités, l’étendue de leurs activités et leur rôle sont différents selon le territoire. Comment voulez-vous comparer la proportion de personnel administratif d’un CHU qui compte 100 000 agents – comme à l’AP-HP – avec celle de l’hôpital de Chaumont qui en compte beaucoup moins…"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Je vous le confirme !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "…et qui ne comporte pas les mêmes spécialités ni les mêmes fonctions d’enseignement et de recherche ? Comment comparer la charge administrative d’un hôpital qui gère lui-même sa restauration collective avec celle d’un établissement qui la délègue au secteur privé ?\nComment peut-on adopter une démarche aussi jacobine ? Nous avons choisi, comme en témoignent plusieurs textes votés sous les précédentes législatures, de faire confiance aux acteurs territoriaux – en l’espèce, aux communautés médicales – pour qu’ils puissent s’organiser différemment ; pourquoi leur imposerions-nous à présent des normes nationales ?\nJe comprends que l’on déplore l’excès de bureaucratie. Mais pour avoir été ministre quelques mois, je sais que cet excès est davantage le fait des administrations centrales ou des ARS que des administrations hospitalières elles-mêmes. Ces amendements manifestent une défiance à l’égard des hospitaliers, en présupposant qu’ils seraient par nature trop bureaucratiques. Or ce n’est pas le cas – faisons confiance aux acteurs de terrain !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je mets aux voix l’amendement no 1812."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        223\n        Nombre de suffrages exprimés                207\n        Majorité absolue                        104\n                Pour l’adoption                71\n                Contre                136"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1812 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2298 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554299",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1212 est adopté ; en conséquence, l’amendement n° 1904 tombe.)\n\n            (Protestations sur plusieurs bancs des groupes DR et HOR\n            ainsi que\n            sur les bancs des commissions et du Gouvernement.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je suis saisie de deux amendements, nos 1212 et 1904, pouvant être soumis à une discussion commune.\nL’amendement no 1212 de M. Hadrien Clouet est défendu.\nLa parole est à M. Guillaume Garot, pour soutenir l’amendement no 1904."
+        },
+        {
+          "orateur": "M. Guillaume Garot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA333285",
+          "texte": "Il est issu du groupe de travail transpartisan sur les déserts médicaux (Applaudissements sur les bancs des groupes SOC et LFI-NFP) et concerne les praticiens à diplôme hors Union européenne (Padhue). Les Padhue exercent en France sans être reconnus comme les médecins français et sans bénéficier du même niveau de rémunération. Pourtant, ce sont eux qui tiennent à bout de bras l’hôpital, ne comptant pas leurs heures…"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Parce que les autres médecins comptent leurs heures ? C’est caricatural !"
+        },
+        {
+          "orateur": "M. Guillaume Garot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA333285",
+          "texte": "…quels que soient leur service et leur spécialité. Heureusement – je le dis à l’attention des députés d’extrême droite – qu’ils sont là pour maintenir l’hôpital public debout ! (Applaudissements sur les bancs des groupes SOC et EcoS.)\nNombre d’entre eux sont engagés dans un parcours de validation des acquis de l’expérience (VAE), long et exigeant, qui s’apparente parfois davantage à un concours qu’à un examen. Ainsi, nous ne reconnaissons à leur juste valeur ni leur compétence ni leur contribution au système de santé français.\nNous proposons d’étendre à l’ensemble du territoire national le dispositif qui s’applique en Guyane, où les Padhue sont autorisés par l’ARS à exercer au même titre que les médecins de nationalité française. (Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Sur les amendements nos 1725, 1728 et 2179, je suis saisie par le groupe Horizons & indépendants de demandes de scrutin public.\nLes scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Disons-le d’emblée : sans les Padhue, bon nombre de nos hôpitaux ne fonctionneraient pas. Le recrutement des Padhue est essentiel à la continuité du service public de santé. Ce que propose l’amendement de M. Garot, qui n’a pas pu être examiné en commission, ne me pose pas de problème de principe. Cependant, ma seule boussole est de savoir si le Padhue est compétent ou non."
+        },
+        {
+          "orateur": "M. Guillaume Garot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA333285",
+          "texte": "On est bien d’accord !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Quand je recrute des Padhue, mon inquiétude n’est pas de savoir d’où ils viennent ni combien de temps ils resteront, mais s’ils sont compétents pour soigner correctement les patients. Je suis favorable à ce que les Padhue passent les épreuves de vérification des connaissances (EVC) et qu’on puisse les garder dans les services pour qu’ils poursuivent leur parcours de formation. Vous souhaitez apporter une solution au manque de médecins mais il convient de s’assurer que les personnels visés sont compétents, avant d’étendre le dispositif d’autorisation par le préfet."
+        },
+        {
+          "orateur": "M. Arthur Delaporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793394",
+          "texte": "Mais ils exercent déjà en France !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je souhaite que l’on régularise les Padhue en se fondant sur leur niveau de compétence, ce qui n’est pas le cas – sauf erreur de ma part – dans ces amendements. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Nous avons tous besoin des Padhue ; nous sommes attentifs à l’évolution de leur statut et, comme l’a souligné le rapporteur général, de leurs compétences.\nL’amendement de M. Garot tend à pérenniser le dispositif dérogatoire en vigueur dans les territoires d’outre-mer et à l’étendre à l’ensemble des Padhue souhaitant exercer dans l’Hexagone. Ce dispositif répond aux besoins spécifiques de certains territoires ultramarins – la Guyane, la Guadeloupe, la Martinique, Mayotte et Saint-Pierre-et-Miquelon – en permettant aux Padhue d’obtenir une autorisation de plein exercice après accord du directeur général de l’ARS. Cette autorisation d’exercice est circonscrite à un établissement et temporaire. L’objectif est d’attendre que les efforts de formation et d’universitarisation engagés lors des précédentes législatures portent leurs fruits.\nDans le droit commun, le Padhue doit passer un concours, les EVC, et suivre un parcours de consolidation des compétences (PCC), encadré par un praticien senior, afin d’acquérir une autorisation d’exercice, sur avis d’une commission nationale.\nSi les modalités sont différentes, c’est que les effets ne sont pas les mêmes. Dans le cadre du dispositif que vous proposez d’étendre, le Padhue n’acquiert qu’une autorisation temporaire alors que, dans la procédure de droit commun, l’autorisation qui lui est délivrée est définitive.\nSi le concours dédié est nécessaire pour garantir la sécurité des soins, comme le soulignait le rapporteur général, il faut néanmoins apporter des ajustements. La loi Valletoux de 2023 a supprimé le rang de classement afin d’offrir aux praticiens lauréats de plus grandes chances d’exercer là où ils le souhaitent. Nous entendons poursuivre les efforts destinés à simplifier la procédure de droit commun tout en veillant à la qualité des professionnels disposant d’une autorisation d’exercice. Avis défavorable. (Mme Louise Morel applaudit.)"
+        },
+        {
+          "orateur": "M. Guillaume Garot",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Oh non !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Un peu plus de 10 000 Padhue exercent dans les hôpitaux français de métropole et d’outre-mer. Nous avons longtemps tardé à organiser les concours qui, dans le cadre de la VAE, permettent aux Padhue d’être rémunérés convenablement. Les autres, disons-le clairement, sont des mercenaires."
+        },
+        {
+          "orateur": "M. Guillaume Garot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA333285",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Sur les 10 000 Padhue, environ 2 800 avaient le niveau suffisant et ont été régularisés. Nous devrions, madame la ministre, instaurer un programme de formation complémentaire et de VAE pour les Padhue qui restent, sans attendre deux à quatre ans, en organisant des EVC tous les six mois.\nQuant au pouvoir dérogatoire, il faudrait que la ou le ministre de la santé puisse en disposer en lien étroit avec les préfets, pour répondre aux situations d’urgence, comme cela a été fait à Mayotte sous l’autorité d’Aurélien Rousseau. La dérogation doit donc être réservée à des circonstances particulières ; il ne faut pas en faire, monsieur Garot, une mesure de portée générale. Comme l’a souligné le rapporteur général, la qualité doit être au rendez-vous."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Jean-Philippe Nilor."
+        },
+        {
+          "orateur": "M. Jean-Philippe Nilor",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610654",
+          "texte": "Madame la ministre, je suis prêt à me laisser convaincre par vos arguments. Cependant, je n’entends pas le même son de cloche en écoutant M. Vigier ou M. le rapporteur général. Lorsque ces derniers insistent sur l’importance de la compétence, signifient-ils que les autorisations délivrées dans les dits outre-mer ont fait fi du niveau de compétence des praticiens ? (Applaudissements sur les bancs du groupe LFI-NFP. – Mmes Béatrice Bellay et Dieynaba Diop applaudissent également.) Y a-t-il une santé à géométrie variable, low cost en outre-mer et plus exigeante en métropole ? À vous entendre, la question se pose ! (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Fabien Di Filippo."
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Ce qui importe, ce n’est pas tant de faciliter la délivrance des autorisations d’exercice par les EVC ou de différencier les procédures en fonction des territoires – si un problème devait survenir, vous auriez du mal à expliquer aux personnes de la ruralité qu’on met moins d’exigence dans les soins qui leur sont apportés – que de sortir certains Padhue de la précarité administrative dans laquelle ils sont plongés.\nAlors qu’ils ont passé le concours et réussi les EVC, ils sont laissés dans un parcours de consolidation trop long – parfois plus de deux ans –, alors qu’un an d’exercice suffit pour déterminer s’ils ont ou non le niveau requis. Il faut réduire cette durée de consolidation pour les intégrer plus rapidement dans le système de soins."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Ce n’est en rien mon propos que de dire que les médecins, en fonction des différentes zones géographiques, seraient plus ou moins compétents. On pourrait avoir le même raisonnement en comparant les zones métropolitaines avec les zones rurales. Ce que je veux dire, pour dissiper tout malentendu, c’est que le parcours de régularisation – un terme que je n’aime pas – des Padhue doit être identique sur tout le territoire national, qu’il s’agisse de la métropole ou des territoires d’outre-mer. C’est leur niveau de compétence, pas leur origine géographique ou le lieu où ils ont étudié, qui doit nous faire confier nos proches à ces médecins."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Il est vrai que le parcours de validation est long et tend à ralentir l’intégration de ces praticiens dans les hôpitaux : nous travaillons à le moduler. Il faut cependant le faire d’une manière qui ne soit pas trop systématique, en l’ajustant aux différentes situations. Certains Padhue, avant de passer les EVC, ont travaillé depuis des années dans le même service : ils pourraient ainsi être évalués par leurs pairs."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Il ne se passe rien depuis deux ans !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1212 est adopté ; en conséquence, l’amendement n° 1904 tombe.)\n\n            (Protestations sur plusieurs bancs des groupes DR et HOR\n            ainsi que\n            sur les bancs des commissions et du Gouvernement.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554464",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. François Gernigon, pour soutenir l’amendement no 1725."
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Des plateformes numériques se sont développées en France pour fournir, contre rémunération, des arrêts de travail en ligne. Cette pratique soulève des préoccupations en matière de santé publique et d’éthique. Certaines d’entre elles délivrent ainsi un arrêt maladie en quelques minutes, sur le fondement d’un simple questionnaire en ligne, sans véritable consultation médicale. Ces plateformes, souvent hébergées à l’étranger et faisant appel à des médecins exerçant hors de France, contournent la pratique médicale habituelle.\nL’amendement vise à les interdire. Il prévoit aussi qu’un médecin exerçant son activité à l’étranger ne peut prescrire ou renouveler un arrêt de travail par télémédecine."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "J’avais déjà demandé la parole avant que notre collègue Gernigon, à qui je présente mes excuses, ne présente son amendement. Notre hémicycle est divisé approximativement en trois tiers : sur l’amendement précédent, un tiers a voté l’amendement et deux tiers ont voté contre. (Applaudissements sur plusieurs bancs des groupes EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Et pourtant, madame la présidente, vous avez annoncé que l’amendement no 1212 était adopté. Ce n’est pas ce que j’ai pu voir en me retournant. Je demande donc un nouveau vote. (Applaudissements sur plusieurs bancs des groupes RN, EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "La seconde délibération est de droit quand elle est demandée par le président de la commission !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je pense être mieux placée que vous, monsieur le président, pour voir l’hémicycle. (Applaudissements sur les bancs du groupe LFI-NFP, dont plusieurs députés se lèvent, ainsi que sur les bancs des groupes SOC et EcoS. – Protestations sur les bancs des groupes DR et HOR.) Je considère l’amendement adopté.\nLa parole est à M. le rapporteur général, pour donner l’avis de la commission sur l’amendement no 1725."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Je demande un nouveau vote, comme le permet le règlement de l’Assemblée ! (Marques d’approbation sur les bancs des groupes DR et HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je n’ai pas entendu – à cause du brouhaha. Pouvez-vous répéter ?"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Je vous prie de m’excuser, madame la présidente. Je ne remets pas du tout en cause votre présidence. (Vives protestations sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Mais si !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Non : il peut y avoir des fautes d’inattention."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Vous remettez en cause ma présidence."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Vous avez peut-être voulu aller vite."
+        },
+        {
+          "orateur": "M. Sébastien Delogu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793464",
+          "texte": "Regardez vos bancs : ils sont vides !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je ne reviendrai pas sur le vote. (Plusieurs députés des groupes RN, DR et HOR font claquer leur pupitre en signe de protestation.)"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Quand j’ai demandé un nouveau vote hier, certains d’entre vous en étaient contents. Comme le règlement le permet, je demanderai un nouveau vote ce soir."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "C’est quoi cette bordélisation ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission sur l’amendement no 1725 de M. Gernigon ? (M. Sylvain Berrios fait signe qu’il demande la parole pour un rappel au règlement.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554484",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Sylvain Berrios, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Je le fonde sur l’article 100 de notre règlement, sur le bon déroulement des débats. Le président de la commission vous demande un nouveau scrutin. Pouvez-vous garantir, madame la présidente, le résultat du vote ? (Exclamations sur les bancs des groupes LFI-NFP et SOC.) Y a-t-il ici quelqu’un qui soit capable de le garantir ? Nous sommes tous des parlementaires, et si vous êtes présidente ce soir, notre vision, comme celle du président Valletoux, vaut la vôtre. Vous vous devez de nous accorder ce deuxième vote. (Applaudissements sur les bancs des groupes HOR et RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Philippe Vigier, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Sur le fondement de son article 101. Je rappelle à tout le monde qu’un président de commission peut demander un second scrutin. C’est de droit. Vous le savez tous, pour connaître parfaitement le règlement."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Incroyable !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Madame la présidente, tout à l’heure, plusieurs votes ont été tangents : à chaque fois, la présidence a demandé des scrutins publics, qui ont permis de trancher la question dans la sérénité."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Manuel Bompard, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Sur le fondement de l’article 100, sur la bonne tenue de nos débats.\nJ’observe qu’il y a des amendements qui vous conduisent à remettre immédiatement en cause la présidence de cette assemblée : ce sont les amendements qui concernent les médecins étrangers venus en France aider à soigner nos concitoyens. (Applaudissements sur les bancs du groupe LFI-NFP, dont les députés se lèvent, ainsi que sur les bancs des groupes SOC et EcoS.)\nCher collègue Valletoux, vous avez posé une question d’arithmétique : vous ne comprenez pas le résultat du vote, étant donné qu’il y a trois blocs d’égale importance. Je vais donc vous donner quelques éléments d’explication. Seulement 20 à 30 % de vos députés sont mobilisés chez vous quand, de notre côté, 60 à 70 % des députés sont présents. (Applaudissements sur les bancs du groupe LFI-NFP dont les députés sont restés débout. – Les députés du groupe SOC se lèvent et applaudissent.) Vous ne pouvez vous en prendre qu’à vous-mêmes si vous perdez les votes ! Nous sommes prêts à siéger jusqu’au bout de la nuit, s’il le faut, pour achever l’examen du projet de loi de financement de la sécurité sociale (PLFSS). Cessez donc vos manœuvres dilatoires, et arrêtez de remettre en cause la présidence ! (Applaudissements sur les bancs du groupe LFI-NFP. – M. Hervé de Lépinau s’exclame.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je répète, avant de donner la parole pour d’autres rappels au règlement, que, de là où je me trouve, et contrairement à vous, je vois tout l’hémicycle. Le vote est acquis. Si, par ailleurs, vous avez besoin d’être rassurés sur ma façon de compter, vous pouvez demander des scrutins publics. (Applaudissements sur les bancs du groupe LFI-NFP.)\nLa parole est à Mme Stéphanie Rist, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Sur le fondement de l’article 100, relatif au déroulement de nos débats. On se rend compte, avec cette dernière prise de parole, que vous ne voulez pas qu’on avance dans le débat sur la santé. Depuis cet après-midi, vous ne voulez pas parler de santé. (Protestations sur les bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je rappelle une dernière fois la règle : le vote, proclamé par le président de la séance, est acquis et ne peut pas être remis en cause.\nLa parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Hier, dans ce même débat sur le PLFSS, j’ai demandé, sans faire polémique, un nouveau vote sur la taxe soda. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Le vote à main levée avait été rapide et n’avait été contesté par aucun groupe. Mais le scrutin public a montré que l’appréciation initiale de la présidence était erronée."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "La seconde délibération a eu lieu bien plus tard !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Il n’est pas honnête de présenter les choses comme vous le faites, monsieur Bompard, par glissements sémantiques, en disant que le problème viendrait de ce que le vote concerne les Padhue."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "C’est inadmissible de dire cela !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Laissez-moi vous rappeler une chose : le sort des Padhue a été réglé par une proposition de loi que j’ai présentée l’année dernière, que votre groupe n’a pas votée. (Applaudissements sur les bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Cette question, je la règle, tandis que vous, vous ne la regardez pas. (Protestations sur les bancs du groupe LFI-NFP.)\nCette affaire pourrait être réglée très rapidement. Quand j’ai demandé hier un nouveau vote sur la taxe soda, il a fallu deux minutes à la présidence pour constater que le nouveau vote était de droit et l’organiser. Cette polémique que vous créez est idiote. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Mais c’est vous qui ne cessez de prendre la parole !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "N’ayant pas de doute, je ne remettrai pas aux voix cet amendement. (Applaudissements sur les bancs du groupe LFI-NFP. – Protestations sur les bancs des groupes EPR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Pardon, mais c’est de droit !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554514",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 18 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je demande à nouveau, sur l’amendement no 1725, l’avis de la commission. (M. le rapporteur général reste assis aux bancs des commissions.)\nPas d’avis du rapporteur, donc. Quel est l’avis du Gouvernement ? (Mme la ministre reste assise au banc du Gouvernement. – M. Thibault Bazin fait signe qu’il demande un rappel au règlement tandis que des députés du groupe DR protestent vivement et font claquer leur pupitre.)\nPas d’avis non plus.\nJe mets aux voix l’amendement no 1725."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)\n\n          (Tumulte dans l’hémicycle.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "À la demande de M. le président de la commission, je suspends la séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures dix, est reprise à vingt-deux heures quinze.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La séance est reprise.\nJe n’ai pas pu donner les résultats du scrutin public sur l’amendement no 1725 avant la suspension. (Exclamations vives et prolongées sur les bancs des groupes EPR, DR, Dem et HOR.)\nLes voici :\n        Nombre de votants                        251\n        Nombre de suffrages exprimés                250\n        Majorité absolue                        126\n                Pour l’adoption                109\n                Contre                141"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1725 n’est pas adopté)\n (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Nous n’avons pas pu voter !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Nous allons reprendre la discussion. La parole est à M. François Gernigon, pour soutenir l’amendement no 1728. (Tumulte. – Plusieurs députés brandissent le règlement.)"
+        },
+        {
+          "orateur": "Plusieurs députés des groupes EPR, DR et Dem",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le rappel au règlement est de droit !"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "C’est scandaleux ! La présidence doit être impartiale !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554917",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La polémique sur le vote des amendements précédents a donné lieu à un début de tumulte. Depuis ce moment, vous remettez en cause la présidence. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs des groupes SOC et EcoS – Exclamations sur les bancs des groupes EPR, DR, Dem et HOR, ainsi que sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Oui !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554919",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je ne l’accepte pas."
+        },
+        {
+          "orateur": "Mme Michèle Martinez",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794770",
+          "texte": "Il y a des règles !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "La présidence doit appliquer les règles !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554923",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Vous savez bien que, lorsque nous avons un doute sur un vote à main levée, nous procédons à un scrutin public. Il y en a d’ailleurs eu à foison récemment mais cette fois, ce n’était pas nécessaire car il n’y avait aucun doute.\nLa parole est à M. François Gernigon."
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Le montant des dépenses de la sécurité sociale liées aux arrêts de travail dépasse les 15 milliards par an… (MM. Sylvain Berrios, Pierre Cazeneuve et Thibault Bazin, ainsi que Mme Stéphanie Rist brandissent le règlement.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Chers collègues, j’ai bien noté vos demandes de rappels au règlement mais je vous donnerai la parole une fois que M. Gernigon aura terminé son intervention. (Vives protestations sur les bancs des groupes EPR, DR, Dem, HOR et sur plusieurs bancs du groupe RN.) Vous perturbez la séance, vous remettez en cause ma présidence. Je demande aux députés qui sont debout de s’asseoir. Je souhaite que nous poursuivions la discussion dans de bonnes conditions. (Plusieurs députés demandent une suspension de séance.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554927",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Pierre Cazeneuve, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Il se fonde sur l’article 100. Nous ne remettons pas en cause votre présidence. Je rappelle simplement que le vote sur l’amendement no 1212 a fait l’objet de plusieurs contestations et que le président de la commission a demandé qu’il soit procédé à une seconde délibération.\nPendant la suspension, nous avons eu des discussions avec l’ensemble des présidents de groupe, le rapporteur général et Mme la ministre. Il en est ressorti que cette seconde délibération pourrait avoir lieu à la fin de l’examen de l’article ou avant le vote de la troisième partie. (Protestations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Nous ne nous sommes jamais mis d’accord sur ce point !"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Sur l’amendement no 1725 de notre collègue Gernigon, tout est allé très vite. Nous n’avons pas entendu les avis. (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Il n’y a pas eu d’avis !"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Je reconnais en toute humilité que, encore occupé à contester le vote précédent, je ne les ai pas entendus et je n’ai pas rejoint ma place pour voter.\nTout ce que nous vous demandons, madame la présidente – encore une fois sans remettre en cause votre présidence –, c’est de revenir à l’amendement précédent qui a été présenté dans un chahut…"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Que je n’ai pas causé ! Que certains ici ont causé !"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "…trop important pour nous permettre d’avoir un débat éclairé. Le scrutin sur l’amendement précédent a été chaotique puisque nous n’avons pas eu les avis et que plusieurs députés n’ont pas voté. Cette demande collective n’a rien de dramatique."
+        },
+        {
+          "orateur": "M. Pieyre-Alexandre Anglade",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721158",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Je le répète, nous ne remettons pas en cause la présidence. Par ailleurs, nous ne souhaitons pas revenir sur la question de la seconde délibération."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "S’agissant des avis, je les ai demandés à deux reprises à M. le rapporteur et à Mme la ministre mais ils n’ont pas souhaité les donner – dans le cadre de la remise en cause de la présidence. (Exclamations sur plusieurs bancs des groupes EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Ça ne va pas !"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Ce n’est pas sérieux !"
+        },
+        {
+          "orateur": "M. Antoine Vermorel-Marques",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794118",
+          "texte": "Cela figurera dans le compte rendu !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je le répète : un vote acquis, tel que proclamé par le président de séance, ne peut être remis en cause. (Applaudissements sur les bancs des groupes LFI-NFP, EcoS et SOC.)\nLa parole est à M. Gernigon."
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Je demande une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures vingt, est reprise à vingt-deux heures vingt-cinq.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554951",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 18 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La séance est reprise.\nNous ne revoterons pas sur l’amendement no 1725. Certes, nous avons connu un moment de tumulte au moment du scrutin, si bien que certains collègues n’ont pu rejoindre à temps leur place. À présent que le calme est revenu, nous pourrons procéder aux prochains scrutins publics de façon sereine.\nLa parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Peut-être n’ai-je pas été très clair tout à l’heure, j’essaierai de l’être cette fois. Je précise bien que je ne souhaite pas créer d’incident de procédure. Je demande simplement, par parallélisme des formes après le vote d’hier sur l’amendement relatif à la taxe sur les sodas, que nous puissions, le moment venu – pas tout de suite mais peut-être en fin de séance – procéder à une seconde délibération sur les amendements de M. Clouet et de M. Garot, comme j’en ai le droit en tant que président de commission. (Exclamations sur plusieurs bancs du groupe LFI-NFP.) Cela est laissé à votre appréciation, madame la présidente."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Votre demande est entendue. Il sera possible de procéder à une seconde délibération à la fin de l’examen de cette partie, sous réserve que les débats avancent assez vite pour que nous y arrivions – ce qui est un peu aléatoire pour l’instant. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Très bien ! Examinons la troisième partie et nous revoterons demain à six heures du matin !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. François Gernigon pour reprendre la défense de son amendement no 1728."
+        },
+        {
+          "orateur": "M. François Gernigon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794234",
+          "texte": "Le montant des dépenses de la sécurité sociale liées aux arrêts de travail dépasse les 15 milliards par an – dont une grande part concerne les arrêts de courte durée. En effet, les arrêts de moins de sept jours représentent 40 % des indemnités journalières versées, une part qui ne cesse de croître.\nCet amendement vise à limiter à un seul jour la durée maximale des arrêts de travail prescrits ou renouvelés par télémédecine. Cela permettrait de mieux contrôler les coûts en réduisant le risque de prescriptions excessives ou injustifiées. Cela inciterait les patients à consulter en présentiel pour des arrêts plus longs, garantissant ainsi un diagnostic plus rigoureux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Madame la présidente, si vous n’acceptez pas que l’on remette en cause la présidence – ce que je comprends tout à fait –, je n’accepte pas, pour ma part, que vous affirmiez que le rapporteur général a refusé de donner l’avis de la commission. Je le dis sans aucune volonté de polémiquer. (M. Sylvain Berrios applaudit.)\nL’avis était favorable sur le no 1725, comme il l’est sur le no 1728."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Le Gouvernement partage vos préoccupations, monsieur Gernigon : nous devons maîtriser les dépenses liées aux arrêts de travail, qui sont en hausse exponentielle, et lutter contre la fraude. Depuis le 1er janvier 2024, si le prescripteur n’est pas le médecin traitant ou la sage-femme référente, la durée maximale des arrêts de travail prescrits ou renouvelés dans le cadre d’une téléconsultation est de trois jours."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Il n’y a pas assez de médecins traitants !"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "L’assurance maladie a par ailleurs renforcé le contrôle de ces prescriptions et intente des actions en justice afin de faire fermer les sites internet proposant de délivrer des arrêts de travail frauduleux.\nNous souhaitons concilier la maîtrise des dépenses et l’impératif d’accès aux soins : il convient de ne pas trop restreindre la possibilité de prescrire un arrêt de travail dans le cadre d’une téléconsultation, au risque de mettre en difficulté des patients à la situation particulière, notamment dans certains territoires. La limitation à un jour de la durée des arrêts de travail prescrits en téléconsultation est trop restrictive. Je vous demande de retirer votre amendement, à défaut de quoi j’y serai défavorable."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554993",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Jean-Philippe Tanguy, pour un rappel au règlement. (Exclamations sur plusieurs bancs des autres groupes.)"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Il se fonde sur l’article 101, qui porte sur les secondes délibérations.\nJe m’étonne d’avoir à faire ce rappel au règlement : le petit tumulte grotesque qui vient d’être organisé pour perdre du temps était dépourvu de sens, car pour obtenir une seconde délibération, il faut parvenir à la fin du texte !"
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Non, ce n’est pas nécessaire !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Vous êtes pris à votre propre piège, puisque vous avez tout fait pour que ce soit impossible (Applaudissements sur les bancs du groupe RN. – M. Marc Pena applaudit également) – ce piège que vous avez tendu sur le dos des institutions se retourne contre votre cynisme. Non contents d’avoir saboté l’examen du texte par votre absence, vous avez organisé un tumulte permanent : vous refusez que nous parlions des retraites, des problèmes qui intéressent les Français (Exclamations sur les bancs du groupe EPR. – Applaudissements sur les bancs du groupe RN). Vous laissez la gauche saccager le texte puis vous pleurnichez sur les conséquences de votre inconséquence !\nVous donnez dans l’antiparlementarisme bas de gamme (Protestations sur les bancs du groupe EPR), en laissant croire que l’Assemblée, élue par les Français, serait moins raisonnable que le Sénat, élu par les élus locaux. C’est une honte ! Vous faisiez l’inverse lors du premier mandat : vous insultiez les sénateurs et les élus locaux, car le pouvoir était ici. Vous ne respectez le pouvoir que lorsque vous le détenez – vous méprisez le pouvoir des Français ! (Applaudissements prolongés sur les bancs des groupes RN, dont quelques députés se lèvent, et sur les bancs du groupe UDR. – Exclamations prolongées sur les bancs du groupe EPR et sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Ce n’est pas un rappel au règlement !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Il n’y a donc que le Rassemblement national pour défendre le seul pouvoir qui existe ici : le pouvoir du peuple ! (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Merci, monsieur Tanguy. Il faut rester dans le cadre du rappel au règlement."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555002",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 18 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Je reviendrai au fond, sans répondre aux provocations qui visent à créer du tumulte alors que nous discutons du budget de la sécurité sociale – une discussion importante. (Exclamations sur plusieurs bancs des groupes LFI-NFP et SOC.)\nLes sites délivrant des arrêts de travail frauduleux en quelques minutes et contre une vingtaine d’euros, sans qu’il soit nécessaire de passer par une consultation médicale, se développent de façon scandaleuse. La dénonciation de ces sites devrait tous nous rassembler. Il faudrait pouvoir bloquer au plus vite ces plateformes – arret-maladie.24com, stop-travail.com – et empêcher que de nouvelles soient créées."
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Il en existe neuf !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "L’accès à ces sites illégaux – mes chers collègues, cela devrait vous intéresser – permet d’obtenir…"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "C’est sans rapport avec l’objet de l’amendement !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Si, vous allez voir pourquoi. Ces arrêts frauduleux sont prescrits dans le cadre d’une téléconsultation. L’existence de plateformes illégales est donc un problème : en 2022, la sécurité sociale a perdu 5 millions d’euros à cause de ces abus. Nous devons mener un combat déterminé contre ces dérives frauduleuses et limiter la possibilité de prescrire des arrêts de travail longs sans consultation. C’est la combinaison de ces amendements…"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Cher collègue, il faut conclure ; nous essayons de limiter les interventions à une minute."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…qui doit permettre de donner des moyens à la protection sociale – c’est une question de justice sociale. (Applaudissements sur plusieurs bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Stéphanie Rist."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je suis contre cet amendement."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Si l’on veut que les téléconsultations soient utiles,…"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Elles le sont !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "…elles doivent pouvoir servir, entre autres, à délivrer des arrêts de travail. La LFSS pour 2024 limite déjà à trois jours la durée d’un arrêt de travail prescrit dans le cadre d’une téléconsultation. On sait qu’une angine nécessite un arrêt de travail de deux jours. Certes, il faut s’efforcer de diminuer le nombre d’arrêts de travail, mais réduire à un jour la durée de ceux délivrés dans le cadre d’une téléconsultation est une mesure qui me paraît vaine, voire inutile."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Il faut que la durée soit au minimum de deux jours, préférablement trois. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je suis saisie de plusieurs demandes de scrutin public : sur l’amendement no 2179, par le groupe Horizons & indépendants ; sur les amendements nos 2233 et 230, par le groupe Socialistes et apparentés ; sur l’amendement no 2159, par le groupe Ensemble pour la République ; sur l’amendement no 2210, par le groupe La France insoumise-Nouveau Front populaire.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe mets aux voix l’amendement no 1728."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        301\n        Nombre de suffrages exprimés                297\n        Majorité absolue                        149\n                Pour l’adoption                150\n                Contre                147"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1728 est adopté.)\n (Applaudissements sur les bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Mince !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Félicie Gérard, pour soutenir l’amendement no 2179."
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "texte": "La loi permet aux médecins traitants et aux sages-femmes référentes de prescrire et de renouveler un arrêt de travail de plus de trois jours lors d’un acte de télémédecine. Si cette possibilité semble justifiée s’agissant des renouvellements, il est nécessaire que le professionnel de santé examine le patient quand il s’agit d’une première prescription.\nDans la lignée de l’amendement précédent, nous proposons de limiter aux seuls renouvellements la possibilité pour les médecins traitants et les sages-femmes référentes de prescrire des arrêts de plus de trois jours dans le cadre d’une téléconsultation. (Applaudissements sur plusieurs bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "À mon avis, il serait préférable d’examiner le patient pour renouveler un arrêt. Mais la télémédecine a un intérêt, surtout quand elle est bien faite, c’est-à-dire accompagnée par un professionnel, un infirmier par exemple, qui peut décrire les symptômes au médecin. Dans les zones rurales ou de désertification médicale, où les patients n’ont pas accès à un médecin, elle est nécessaire.\nLa mesure que vous proposez entraverait encore l’accès aux soins."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Vous venez d’adopter un amendement qui réduit à un jour la durée d’un arrêt de travail délivré en téléconsultation ; le besoin de le renouveler arrivera donc très vite. Vous souhaitez en plus limiter les arrêts de travail délivrés à distance par les médecins traitants aux seuls renouvellements. Tout cela me paraît compliqué et de nature à empoisonner la vie de certains patients. Oui, nous devons lutter contre les dérives et les fraudes, mais n’allons pas compliquer les choses pour les habitants des territoires où la télémédecine est un moyen, parfois le seul, d’accéder à un médecin. Avis défavorable. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Pierre Cazeneuve."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Ces amendements nous mettent quelque peu mal à l’aise. Il faut évidemment lutter contre la fraude et les abus, monsieur Bazin. Les sites que vous avez évoqués sont insupportables, et nous devons mener une action déterminée contre les abus en matière d’arrêts de travail, notamment quand ils sont délivrés dans le cadre d’une téléconsultation.\nVotre proposition revient cependant à créer un fossé entre la télémédecine et la médecine plus classique."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Or, dans les zones rurales, les déserts médicaux, mais aussi les zones très denses, il est difficile d’avoir accès à un médecin. Dans ce contexte, la télémédecine est un outil formidable, qui permet d’améliorer l’accès aux soins et de multiplier l’offre. En limitant le dispositif, on crée une distinction entre la médecine et la télémédecine, ce qui n’est pas dans l’air du temps. La télémédecine est une évolution positive, car elle permet d’étendre la couverture des soins ; il faut évidemment l’encadrer et lutter contre toutes les fraudes…"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Merci, monsieur le député ; il faut conclure."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Il faut mener une action déterminée contre toutes les fraudes, notamment contre les faux certificats, en particulier les arrêts de travail. N’érigeons cependant pas de barrière entre les deux modes de consultation – ce serait aller dans la mauvaise direction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Jean-Paul Lecoq."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Il faut punir les bonnes personnes : les plateformes qui trichent, et non les malades ! (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR. – M. Thibault Bazin applaudit également.)"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Nous ne devons pas nous tromper d’adversaire ; il faut mener les bonnes batailles. La télémédecine est très utile, notamment pour renouveler les ordonnances. Beaucoup – peut-être certains parmi vous – sont contraints de prendre un traitement à vie, comme les anticoagulants. Dans ce cas, le renouvellement de la prescription se fait tous les six mois. Passer par la télémédecine pour obtenir l’ordonnance doit être possible – il n’est pas nécessaire d’être ausculté puisque le traitement reste le même.\nComme vous, je trouve préférable que les gens soient reçus en cabinet quand ils pensent souffrir d’une bronchite, ce qui peut cacher quelque chose de plus grave – pas quand ils ont besoin de faire renouveler une ordonnance pour un traitement à vie. Il ne faut pas tout mélanger !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je mets aux voix l’amendement no 2179."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        305\n        Nombre de suffrages exprimés                303\n        Majorité absolue                        152\n                Pour l’adoption                139\n                Contre                164"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2179 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555051",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 2233."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Nous proposons de réformer le service du contrôle médical de l’assurance maladie. Cette proposition fait suite à un rapport de l’Inspection générale des affaires sociales (Igas), qui pointait des difficultés dans le fonctionnement actuel.\nIl s’agit de mettre fin à la séparation entre les agents du service du contrôle médical d’une part et ceux des caisses primaires d’assurance maladie (CPAM) d’autre part, sur le modèle de la Mutualité sociale agricole (MSA), qui fonctionne. Cela permettra de renforcer les synergies internes à l’assurance maladie et d’améliorer à la fois la qualité des prestations et l’accompagnement dont bénéficient les professionnels de santé.\nJ’ai entendu les inquiétudes exprimées par les médecins-conseils. J’ai été attentive à ce que l’indépendance des médecins exerçant au sein de l’assurance maladie soit préservée – c’est essentiel. Nous créerons un poste de directeur médical auprès du directeur de la caisse primaire d’assurance maladie."
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Un poste de plus !"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Ce rôle existe déjà, mais ils travailleront désormais ensemble.\nJ’ai demandé à ce que soit prévue une phase transitoire, qui coure jusqu’en 2027, pour accompagner au mieux les évolutions des contrats de travail. Je suivrai avec une grande attention le respect de ces paramètres."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Cet amendement m’incite à m’interroger, sur la forme comme sur le fond. Sur le fond, j’entends parfaitement votre souci d’efficience et votre souhait d’intégrer les personnels concernés au sein des caisses primaires d’assurance maladie, afin de garantir une meilleure efficacité dans les territoires et d’éviter la remontée de données à Montreuil. Plusieurs sujets me posent cependant problème et j’aimerais écouter les débats avant de donner mon avis.\nTout d’abord, sur la forme, déposer un amendement de cette importance quinze minutes avant l’expiration du délai de dépôt en rend l’estimation un peu compliquée, permettez-moi de le dire ! (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) J’aurais apprécié que la commission puisse en discuter.\nLe deuxième sujet concerne l’indépendance médicale vis-à-vis d’un directeur de CPAM. Je ne doute pas du bien-fondé de votre amendement ; néanmoins, tant sur la forme que sur le fond, vous voudriez instiller le doute que vous ne vous y prendriez pas autrement ! Je veux bien, au bénéfice du doute, contribuer à améliorer l’efficacité du système. Toutefois, j’attends de votre part un engagement de revoyure ou d’expertise, au nom de l’ensemble des médecins de l’assurance maladie. Il y a aussi un enjeu d’attractivité : il faut offrir aux médecins qui exerceront dans les CPAM des filières attractives et garantir leur indépendance de décision. (Mme Dominique Voynet applaudit.)"
+        },
+        {
+          "orateur": "M. Pierre Cordier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718850",
+          "texte": "Très bien, monsieur Neuder !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je suis donc écartelé entre la nécessité d’efficacité sur le terrain et la revendication légitime que ces praticiens restent indépendants. C’est pourquoi, si c’est possible, j’aimerais écouter les débats avant de me prononcer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Je partage l’avis du rapporteur général sur les amendements déposés au dernier moment. En l’espèce, il faut prendre celui-ci avec précaution car il est loin d’être anodin ; il est même dangereux et sournois ! En effet, par cet amendement, vous voulez démanteler le service du contrôle médical, en intégrant les personnels, dont les médecins, à la CPAM. De ce fait, celle-ci deviendra juge et partie."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "À ceux qui le contestent, permettez-moi de rappeler une décision du Conseil d’État rendue en 2010, concernant l’indépendance des médecins-conseils vis-à-vis des CPAM : « Les praticiens-conseils appartiennent à un corps autonome […], dont les conditions de nomination et d’avancement des membres garantissent leur indépendance à l’égard des caisses de sécurité sociale ». Par conséquent, toute atteinte à cette indépendance fragilisera les droits des assurés et la crédibilité des praticiens-conseils, notamment dans le cadre des recours engagés contre des tiers pour lesquels leur impartialité est essentielle afin que leurs attestations soient recevables devant les tribunaux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Paul-André Colombani."
+        },
+        {
+          "orateur": "M. Paul-André Colombani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719286",
+          "texte": "Je rejoins le rapporteur sur la forme : cet amendement aurait dû être déposé plus tôt, afin d’être examiné par la commission.\nEn revanche, je ne suis pas particulièrement inquiet pour ce qui est de l’indépendance, car cette disposition ne vise qu’à reproduire le modèle déjà existant dans la mutualité sociale agricole – si je ne me trompe pas.\nIl demeure que l’amendement, tel qu’il est rédigé, laisse planer un doute important : comment cette mesure sera-t-elle appliquée dans les territoires qui partagent une même direction, comme c’est le cas en Corse et dans la région Provence-Alpes-Côte d’Azur (Paca) ? J’ai failli sous-amender votre amendement. Cependant, si vous pouvez nous assurer, par un engagement clair pris au banc, que les patients corses ne seront pas obligés d’être contrôlés par des médecins marseillais et vice-versa, j’en serais satisfait."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Je m’opposerai à l’amendement, essentiellement pour des raisons de forme et par respect pour le travail parlementaire. Nous ne pouvons pas engager une réforme systémique d’une telle importance à partir d’un simple amendement, que vous déposez de surcroît au dernier moment. Faute d’avoir été intégré au PLFSS initial, le dispositif que vous proposez n’a pu faire l’objet d’aucune étude d’impact. (M. Arnaud Simion applaudit.)\nVous avez précisé que ce plan de transformation faisait suite à un rapport de l’Igas, remis le 17 mai 2024. Le scénario retenu dans votre amendement est l’un des quatre proposés dans ce rapport, les autres n’allant pas jusqu’à l’intégration totale du service du contrôle médical, et donc jusqu’à sa disparition. Ne serait-ce que par respect pour le travail parlementaire et puisqu’il n’y a pas une urgence impérieuse, vous auriez au moins pu, si vous êtes convaincue du bien-fondé de votre décision, approfondir le dialogue social et engager une concertation avec les organisations. Le 3 octobre dernier, le service du contrôle médical a fait grève – grève très largement suivie !\nSur le fond, s’il est bien un principe qui a fait ses preuves dans le mode de fonctionnement des médecins-conseils, c’est celui de la séparation des pouvoirs. Le contrôleur ne doit pas être le payeur. En plaçant les médecins-conseils sous l’autorité hiérarchique immédiate des directeurs des CPAM, vous accentuerez la pression exercée sur eux, au moment même où vous voulez revenir très largement sur le paiement des indemnités journalières et des arrêts de travail. (Applaudissements sur plusieurs bancs des groupes SOC, LFI-NFP, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Nous soutiendrons l’amendement du Gouvernement pour une raison simple : nous ne nous arrêtons pas à la forme, mais au fond. Le directeur médical est un médecin – je le précise à Yannick Neuder qui est également médecin. Il y a donc une parfaite étanchéité entre l’administration et l’avis du médecin, dont j’imagine qu’il ne se laissera pas influencer par un quelconque agent administratif, fut-il le directeur.\nEn revanche, le fait d’intégrer dans le pool de la CPAM à la fois les contrôleurs et les administratifs permettra de lutter contre certaines dérives, que vous avez souvent condamnées par le passé. Pour ceux qui n’ont rien à se reprocher, il n’y a aucun problème. En outre, cela permettra des simplifications administratives au quotidien.\nEnfin, s’agissant de l’attractivité des métiers, je suis persuadé qu’elle en sera au contraire renforcée parce que tout sera décloisonné. (Applaudissements sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Hendrik Davi."
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Nous sommes totalement opposés à votre amendement qui vise à rattacher le service du contrôle médical aux caisses primaires d’assurance maladie. Actuellement, ce service est indépendant et c’est normal, puisque les praticiens-conseils doivent rendre leur avis médical en toute impartialité. Par ailleurs, les données médicales doivent rester confidentielles. Ce sont deux points très importants.\nMême si cela n’a pas été évoqué, leur indépendance est remise en question, à mon avis, pour faire des économies. En réalité, le Gouvernement souhaite moins rembourser les indemnités versées au titre des arrêts de travail,…"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Pour les arrêts frauduleux seulement !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "…des maladies professionnelles et des affections de longue durée (ALD). Tout cela est cohérent : vous menez une grande bataille contre les arrêts de travail. C’est pourquoi, au détour d’un amendement déposé en séance, sans avis de la commission – ce qui est quand même un comble ! –, vous décidez de placer ce service sous contrôle des caisses d’assurance maladie, qui deviendront ainsi juge et partie. Les praticiens-conseils devront rendre leur décision non plus en fonction d’une logique médicale, mais bien d’une logique comptable – voilà le risque.\nTrès sincèrement, si les arrêts de travail augmentent, c’est que la société est malade : elle est malade de la productivité au travail, des heures supplémentaires, du management et des conditions de travail qui se dégradent depuis la suppression des comités d’hygiène, de sécurité et des conditions de travail (CHSCT)."
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "On ne peut pas dire que les conditions de travail se dégradent !"
+        },
+        {
+          "orateur": "M. Hendrik Davi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793452",
+          "texte": "Ce n’est pas en cassant le thermomètre que vous arrangerez les choses. En octobre dernier, d’ailleurs, les agents se sont mis en grève contre le démantèlement de leur service. C’est pourquoi nous voterons contre l’amendement. (Applaudissements sur plusieurs bancs des groupes EcoS et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Stéphanie Rist."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Je trouve que vous voyez toujours le mauvais côté de la pièce."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "À trop regarder à gauche, on a une vision déformée !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "On vous connaît, on est habitués !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "J’ai été alertée il y a quelques semaines, comme nombre d’entre vous, par les médecins de ces services de la sécurité sociale et je me suis adressée à la caisse d’assurance maladie pour obtenir des renseignements, avant que cet amendement soit présenté. Ce dernier présente aussi des avantages pour les administrés, puisqu’il permettra une meilleure coordination entre les services médicaux et administratifs, donc un meilleur accompagnement des patients pour leurs prestations.\nEnsuite, en ce qui concerne la garantie d’indépendance des médecins vis-à-vis de la caisse primaire d’assurance maladie – c’est une vraie question –, permettez-moi de souligner qu’à l’heure actuelle les services du contrôle médical ne sont pas des entités complètement indépendantes. Néanmoins, comme plusieurs d’entre vous l’ont rappelé, les médecins sont, de toute façon, indépendants, du fait de leurs obligations déontologiques. Par conséquent, ils le resteront et il n’y a pas lieu de crier au loup ! Le présent amendement permettra non seulement de lutter plus efficacement contre la fraude,…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Oh là là !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "…mais aussi de mieux accompagner les administrés qui se plaignent souvent de ne pas obtenir de réponses de l’assurance maladie."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Sarah Legrain."
+        },
+        {
+          "orateur": "Mme Sarah Legrain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791824",
+          "texte": "Il est vraiment déraisonnable de discuter d’un amendement déposé à la dernière minute par le Gouvernement, alors qu’il n’y a pas eu de débat sur le sujet. Nous avons été alertés par les médecins et les syndicats sur le fait qu’une grève massive avait été décidée à l’annonce de ce projet présenté par le directeur de la CPAM (Applaudissements sur plusieurs bancs du groupe LFI-NFP), projet rejeté localement parce qu’il a été considéré comme portant atteinte à leur indépendance et à la raison d’être du service du contrôle médical. En effet, vous ne pouvez pas demander à un service du contrôle médical de rendre un avis sur les accidents du travail, les invalidités et les arrêts et, en même temps, le placer sous l’autorité de la CPAM, ce qui le met en position d’être juge et partie."
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "La CPAM fait déjà des contrôles !"
+        },
+        {
+          "orateur": "Mme Sarah Legrain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791824",
+          "texte": "Les personnels et les organisations syndicales se sont mobilisés contre cette réforme, dans l’intérêt de toutes et de tous, afin de défendre notre système de protection,…"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Ce n’est pas un système de protection ! C’est autre chose !"
+        },
+        {
+          "orateur": "Mme Sarah Legrain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791824",
+          "texte": "…et ils ont aujourd’hui l’impression que le Gouvernement fait du sale boulot, en introduisant cette mesure par voie d’amendement. C’est pourquoi nous voterons contre."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Le sujet a été identifié par un rapport de l’Igas. La Cour des comptes a évoqué la nécessité de renforcer les contrôles, en raison d’abus importants. Ce sont d’ailleurs près de 114 millions d’euros qui pourraient être collectés grâce à cette mesure. Par conséquent, l’objectif est bon. La question, c’est de savoir comment l’atteindre, en évitant les écueils. Il faut s’assurer que le directeur médical, sous l’autorité duquel seront placés les praticiens, garantisse bien leur indépendance, notamment en cas de contentieux ; le risque serait de perdre les indus que l’on cherche à récupérer. Il faut donc réduire au maximum les risques quand on intente un recours contre des tiers devant le tribunal. C’est pourquoi il importe de sécuriser juridiquement le recrutement des praticiens-conseils et de bien réfléchir à l’autorité sous laquelle il convient de les placer.\nLa deuxième question concerne l’organisation elle-même. Actuellement, le service du contrôle médical est implanté au niveau régional ; vous voulez l’intégrer à la CPAM. Aurons-nous les compétences, à ce niveau, pour le faire ? Pouvez-vous nous rassurer sur ce point, madame la ministre ? Dans l’exposé sommaire, il est précisé qu’ils « pourront être recrutés par […] ou… ». Qui les recrutera ? La manière dont ils seront recrutés peut aussi induire un lien hiérarchique. Il faut donc garantir leur indépendance. Sous cette réserve, nous soutiendrons l’amendement, parce que nous sommes favorables à tout ce qui permettra de lutter contre les fraudes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Je vais essayer d’apporter quelques précisions, en espérant qu’elles suffiront à vous rassurer. Contrairement aux CPAM, les services du contrôle médical ne sont pas des entités indépendantes, ce qui n’a jamais remis en cause l’indépendance professionnelle des praticiens-conseils. Les personnels du service du contrôle médical sont actuellement employés par la Cnam (Caisse nationale de l’assurance maladie), placés sous l’autorité de son directeur général, et le service du contrôle médical fait l’objet d’un pilotage national.\nL’indépendance des praticiens-conseils de l’assurance maladie, mais aussi le secret médical auquel ils sont soumis, sont bien entendu garantis par le droit, quel que soit le lieu d’exercice, à travers les obligations déontologiques des médecins, des pharmaciens et des chirurgiens-dentistes. Le projet de réforme n’aura donc aucune conséquence sur l’indépendance des praticiens du service médical, qui conserveront leur identité, en tant que corps national. La convention collective nationale des praticiens-conseils du régime général de sécurité sociale perdurera, ainsi que la gestion nationale de ce corps, nécessaire pour garantir une homogénéité et une capacité à agir sur l’ensemble du territoire.\nPar ailleurs, le rattachement des personnels médicaux fera l’objet d’une concertation dans le cadre du projet de transformation et les modalités relatives à la nomination des praticiens-conseils seront précisées par décret. En outre, le projet prévoit des mesures spécifiques pour garantir l’indépendance professionnelle des praticiens-conseils et le secret médical. La Cnam sera garante de l’indépendance technique – les médecins-conseils directeurs médicaux de la Cnam seront nommés par le directeur général de la Cnam."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "On ne peut pas garantir l’indépendance !"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Un comité de suivi du secret médical et de l’indépendance technique des praticiens-conseils sera créé. Nous avons bordé les choses au maximum pour préserver l’indépendance et le statut de ces praticiens (M. Philippe Vigier applaudit) mais aussi pour favoriser la collaboration sur les sujets qui nous préoccupent tous, notamment la fraude, qui reste un problème majeur."
+        },
+        {
+          "orateur": "M. Arthur Delaporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793394",
+          "texte": "C’est l’obsession de la droite !"
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "C’est la chasse aux gens !"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Jusqu’en 2027, nous devrons être très attentifs à la façon dont cette réforme sera appliquée. Je m’engage d’autant plus à l’être qu’en tant que médecin, le secret médical et l’indépendance sont des principes qui me tiennent particulièrement à cœur."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "On ne sait pas ce que c’est que l’indépendance technique !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Monsieur Neuder, pourriez-vous nous donner à présent votre avis ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "J’aurais souhaité que ce sujet soit abordé en commission. Cela n’a pas été possible et nous le regrettons tous."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "C’est inadmissible !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "La ministre nous a assuré que des mesures seraient prises pour garantir le respect de l’indépendance et du secret médical. C’est un engagement pris au banc et il me semble que nous pouvons nous y fier – sans cela, toute parole au banc serait dénuée de valeur."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Nous avons eu quelques expériences malheureuses."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Dans ces conditions, je m’en remets à la sagesse de l’Assemblée. (Applaudissements sur quelques bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Ah ! Progrès du rapporteur général !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je mets aux voix l’amendement no 2233."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        334\n        Nombre de suffrages exprimés                235\n        Majorité absolue                        118\n                Pour l’adoption                86\n                Contre                149"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2233 n’est pas adopté.)\n (Applaudissements sur les bancs des groupes LFI-NFP, SOC et GDR. – M. Philippe Vigier, se tournant vers les bancs du groupe RN, s’exclame : « Bravo ! Vous soutenez les fraudeurs ! »)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554767",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 551 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "L’amendement no 551 de M. Corentin Le Fur est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Elsa Faucillon."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Je m’oppose à l’amendement de M. Le Fur, qui vise à faire basculer des milliers de personnes qui font vivre notre société de la protection universelle maladie (Puma) vers l’aide médicale de l’État (AME). M. Le Fur n’a pas précisé dans l’exposé sommaire qu’il faisait partie de ceux qui souhaitent raboter l’AME, voire la supprimer. Cette proposition, outre son caractère inhumain, pourrait conduire à dégrader, jusqu’à les rendre désastreuses, les conditions sanitaires dans lesquelles vivent ces personnes. (M. Arthur Delaporte applaudit.)\nIl a également omis de rappeler combien les conditions d’accueil des personnes désireuses de renouveler leurs titres de séjour, dans les services publics des préfectures, étaient déplorables. La plupart du temps, il leur est impossible d’obtenir un rendez-vous ou ne serait-ce même qu’un récépissé ou une attestation de dépôt de leur demande (Applaudissements sur les bancs du groupe SOC.) Comment veut-il, dans ces conditions, que la mesure qu’il propose puisse s’appliquer ? Et il ose dire que son amendement relève du bon sens ? Il est dans un déni de réalité. En vérité, c’est bien à une rupture des soins pour des milliers de personnes que conduirait l’adoption de l’amendement. (Applaudissements sur les bancs du groupe GDR et sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 551 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554776",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Jérôme Guedj, pour soutenir l’amendement no 230."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Par cet amendement, nous offrons au Parlement la possibilité de se prononcer sur une mesure qui figure dans le PLFSS mais qui sera introduite par la voie réglementaire : l’augmentation du ticket modérateur applicable aux consultations de médecins généralistes et de sages-femmes. Le Gouvernement compte économiser 1,1 milliard sur le dos des assurés sociaux, au mépris du principe d’universalité de notre système d’assurance maladie. L’amendement vise donc à inscrire dans le code de la sécurité sociale que le cumul de la participation forfaitaire, dont le montant est passé de 1 à 2 euros, et du ticket modérateur ne peut représenter plus de 30 % des frais d’une consultation de médecine générale.\nC’est le seul moyen que nous avons trouvé de nous opposer au décret que le Gouvernement entend prendre dans quelques semaines ou dans quelques mois pour abaisser de 70 % à 60 % le niveau de remboursement de la consultation en médecine générale. Il fait payer à tous les assurés sociaux, y compris ceux qui bénéficient d’une mutuelle puisque les tarifs augmenteront de 8 % à 10 %, les conséquences de sa politique, quitte à altérer l’accès aux soins. (Applaudissements sur plusieurs bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Il y a toujours quelqu’un qui paye !"
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Si vous êtes défavorables à l’augmentation du ticket modérateur, il est essentiel de voter pour l’amendement. Sinon, le Gouvernement prendra un décret."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Avis défavorable. Vous proposez de limiter le cumul entre la participation forfaitaire et le ticket modérateur à 30 % pour les frais de consultation de médecine générale. Une telle décision relève du pouvoir réglementaire mais compte tenu de la progression du nombre de personnes en ALD et de l’écart qui se creuse entre la part prise en charge par l’assurance maladie complémentaire et l’assurance maladie obligatoire, il me semblerait difficile de ne pas augmenter le ticket modérateur.\nL’objectif national de dépenses d’assurance maladie (Ondam) a été fixé en tablant sur une économie de 1,1 milliard, qui pourrait en effet provenir de la hausse de 10 points du ticket modérateur. Je le répète, je tiens à ce que nous puissions débattre des différentes pistes de solutions pour limiter au maximum cette augmentation, tant je suis consciente des conséquences qu’une telle mesure emporterait pour nos concitoyens.\nJe suis toujours très attentive à la protection des plus fragiles."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Damien Maudet."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "En soutenant cet amendement, nous nous opposons aux choix de société que nous propose ce gouvernement. Deux possibilités s’offraient à nous pour équilibrer le budget de la sécurité sociale. La première option était de s’en prendre aux Français, de dérembourser les soins et de les faire payer pour avoir accès à la santé."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Mauvais choix !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "La deuxième était de faire contribuer les plus fortunés, d’aller chercher l’argent là où il est, pour financer notre protection sociale – que ceux qui se gavent, partagent. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Le Gouvernement a choisi, plutôt que de s’en prendre à ceux qui ont déjà beaucoup, d’augmenter le ticket modérateur, de dérembourser les consultations médicales pour économiser 1 milliard sur le dos des Français qui ont besoin de voir leur médecin. Par cet amendement, nous vous empêcherons de vous en prendre à eux. Revenez à la raison : cessez de vous en prendre aux Français – ils sont déjà nombreux à renoncer aux soins ! Allez plutôt chercher l’argent là où il se trouve, c’est-à-dire chez ceux pour lesquels on ne peut pas proposer la plus petite taxe sans que vous poussiez des cris d’orfraie ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je mets aux voix l’amendement no 230."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        311\n        Nombre de suffrages exprimés                308\n        Majorité absolue                        155\n                Pour l’adoption                230\n                Contre                78"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 230 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554796",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Stéphanie Rist, pour soutenir l’amendement no 2159."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Depuis le début, nous aurions dû parler davantage de la transition démographique. C’est l’enjeu majeur auquel nous sommes confrontés et qui se trouve au cœur de la problématique du financement des retraites et de notre protection sociale."
+        },
+        {
+          "orateur": "M. Fabrice Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA718838",
+          "texte": "La démographie, c’est l’avenir du pays !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Le dispositif des ALD n’a pas été modifié depuis 1986. En 2021, 13,7 millions de personnes étaient reconnues en ALD, soit 20 % de la population, et le coût des ALD dépasse les 12 milliards. Plusieurs rapports récents, dont une revue de dépenses de l’Igas et de l’Inspection générale des finances (IGF) de juin 2024, ont évoqué la nécessité de réformer le dispositif. Cet amendement vise à introduire deux niveaux de reconnaissance en ALD : le premier ne reconnaîtrait qu’une partie des affections actuellement reconnues comme des ALD tandis que le deuxième prendrait en compte toutes les affections actuellement reconnues comme des ALD. Il est important d’adopter l’amendement, non pas pour supprimer le dispositif des ALD, mais au contraire pour le préserver, en veillant à sa juste utilisation. (Marques d’approbation sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Le poids que représentent les ALD sur la branche maladie de la sécurité sociale est une question importante. Je ne partage pas complètement la philosophie de l’amendement. Certes, il vous a été inspiré par la lecture de la revue de dépenses de l’IGF et de l’Igas, mais je préférerais que nous raisonnions en termes de stock et de flux. Je ne nie pas le poids du stock – en l’occurrence, les patients en ALD – sur le financement de l’assurance maladie, mais j’ose croire que, grâce à des mesures de prévention, en nous appuyant éventuellement sur un Ondam réservé à la prévention et sur des études médico-économiques, nous pourrions limiter le nombre d’entrées en ALD.\nOn ne peut pas se permettre de décider du sort des personnes en ALD au détour d’un simple amendement. Je ne dis pas que la question ne mérite pas d’être posée mais il ne me semble pas correct de l’aborder sous le seul angle budgétaire. Même si je comprends votre point de vue, je pense que nous devons d’abord prendre soin de nos concitoyens. On peut s’autoriser à penser que les médecins qui ont pris la décision de faire entrer des patients dans le dispositif ALD avaient de bonnes raisons de le faire. Nous pouvons bien sûr revoir certains points, comme la réévaluation des ALD au fil du temps pour que la durée du régime ne soit pas illimitée, mais plutôt que de créer deux niveaux, je préférerais que l’on définisse une vraie politique de prévention dans le cadre d’une loi pluriannuelle de programmation pour la santé afin de limiter le recours au dispositif ALD. Les patients en ALD devraient, par exemple, avoir systématiquement accès aux campagnes de vaccination pour être le moins malades possible. Je comprends votre préoccupation mais je ne partage pas la philosophie de l’amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Le rapport de l’Igas et de l’IGF identifie des pistes d’évolution en matière d’ALD. Je suis prête à étudier la question, mais nous devons prendre le temps d’examiner toutes les propositions avant de décider d’en retenir certaines et de les appliquer. Votre amendement reprend l’une des pistes identifiées dans le rapport, qui consiste à distinguer deux niveaux de prise en charge afin de centrer le dispositif sur les patients qui en ont le plus besoin.\nJe souhaite que l’on attende les résultats des travaux approfondis menés par l’administration et la Haute Autorité de santé au sujet des recommandations contenues dans le rapport de l’Igas et de l’IGF, avant de prendre des mesures définitives. Votre amendement me semble donc prématuré. En outre, gardons toujours en tête que la solidarité nationale s’adresse d’abord aux plus malades et à ceux qui en ont le plus besoin. Demande de retrait ou, à défaut, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Une fois n’est pas coutume, je partage l’avis du rapporteur et de Mme la ministre. Cet amendement semble vouloir créer une ALD low cost. Pourquoi le faudrait-il ? Si un patient relève d’une ALD, c’est qu’il a des problèmes de santé ! C’est une évidence ! (Applaudissements sur quelques bancs du groupe SOC. – Mme Martine Froger applaudit également.) L’ALD sert à limiter le reste à charge – ce qui n’est pas toujours le cas d’ailleurs, comme l’étude de l’Igas l’a montré – et à éviter le renoncement aux soins. Il faut donc maintenir ce dispositif, même si l’on peut toujours le faire évoluer, notamment pour encourager la prévention. Ne cherchez pas à faire des économies sur l’ALD, ce serait franchement cynique !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "L’amendement de Stéphanie Rist permet de poser clairement le problème de l’ALD. Depuis sept ans, le nombre d’ALD supplémentaires est de 300 000 chaque année, pour un total de 13 millions de personnes reconnues en affection de longue durée."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Et alors ? C’est qu’il y a des raisons !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Le rapporteur l’a dit lui-même : cette évolution consacre l’échec de la politique de prévention. Celle-ci aurait mérité un débat plus long que les vingt minutes que nous lui avons consacrées."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Ce n’est pas faute d’avoir fait des propositions en la matière !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Par ailleurs, une personne qui guérit d’un cancer doit-elle toujours bénéficier d’une reconnaissance en ALD ? La réponse est non."
+        },
+        {
+          "orateur": "M. Pouria Amirshahi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610968",
+          "texte": "Mais ce n’est pas le cas justement !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Or les ALD représentent 72 % des dépenses de santé. On peut regretter que l’enveloppe soit contrainte, mais traiter ce sujet permettrait de réaliser des économies et de rendre la dépense plus efficiente. À ce propos, j’ai été surpris et déçu de constater il y a un instant que nos collègues du groupe Rassemblement national n’ont pas voté un amendement qui visait à lutter contre les fraudes. Eux que je croyais spécialistes en la matière ! (Applaudissements sur quelques bancs du groupe Dem. – Exclamations sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Joëlle Mélin."
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "L’idée de Mme Rist, qui est évoquée depuis longtemps, est fort intéressante. (Sourires sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Tout arrive !"
+        },
+        {
+          "orateur": "Mme Joëlle Mélin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793354",
+          "texte": "Oui, profitez-en ! Créer un double niveau de reconnaissance permettrait par exemple de mieux prendre en compte l’hypertension artérielle, qui a été retirée de la liste des ALD alors qu’elle aurait pu faire l’objet de la prévention dans le cadre d’un bilan annuel régulier, sans engager de fortes dépenses. Nous voterons donc cet amendement, qui ouvre une piste très intéressante. (Applaudissements sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Pierre Cazeneuve."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Je soutiens l’amendement de Mme Rist qui traite d’un sujet dont nous avons beaucoup parlé lors de la discussion de la proposition de loi de M. Peytavie visant à reconnaître et protéger la santé menstruelle et gynécologique dans le monde du travail – s’agissant notamment des règles douloureuses et de l’endométriose. La reconnaissance en ALD est un système très protecteur qui permet aux malades une meilleure prise en charge et un remboursement plus élevé de leurs soins, ainsi qu’une simplification de leur quotidien. En revanche, ce dispositif laisse de côté un grand nombre d’affections mensuelles ou récurrentes qui n’ont pas vocation à bénéficier d’avantages aussi puissants que ceux qu’offre la reconnaissance en ALD dans le cas d’un cancer ou d’autres maladies extrêmement graves.\nLa distinction proposée par cet amendement permettrait de simplifier le quotidien de millions de patients qui souffrent, parfois durant toute leur vie, de telles pathologies chroniques qui ne sont pas suffisamment graves pour être reconnues comme des ALD. J’espère donc que nous serons nombreux à voter en faveur de cet excellent amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je souscris aux propos de M. Vigier : quand le régime de l’ALD relève d’une pathologie néoplasique cancéreuse, il doit pouvoir être suspendu en cas de rémission, selon le même principe que le droit à l’oubli."
+        },
+        {
+          "orateur": "M. Jean-Pierre Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607090",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Mais qu’en est-il alors des maladies chroniques, par exemple des insuffisances cardiaques ou rénales, dont nous avions évoqué le stade terminal lors du débat sur la fin de vie ?"
+        },
+        {
+          "orateur": "Une députée du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Si ces dernières ne sont pas reconnues en ALD, qui aura les moyens de payer la dialyse ?"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Ce n’est pas ce que nous avons dit !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Soyons-y attentifs : bon nombre de maladies chroniques n’ont malheureusement pas d’issue thérapeutique, si bien que les patients décèdent de leur maladie chronique en relevant d’une ALD et à un âge avancé, au moment où les soins sont les plus coûteux, compte tenu du niveau du reste à charge et du prix des mutuelles. Gardons-nous donc de la fausse bonne idée qui consisterait à sortir les maladies chroniques des ALD, surtout lorsqu’elles sont avancées et que les patients ont pris de l’âge."
+        },
+        {
+          "orateur": "M. Pouria Amirshahi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610968",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Enfin, l’exemple de l’hypertension artérielle, évoqué par Mme Mélin, est excellent.\nSi l’on traitait les 17 millions de patients potentiels qui s’ignorent, on éliminerait 80 % des 150 000 accidents vasculaires cérébraux. Des mesures de prévention diminueraient à la fois la morbi-mortalité des patients et le montant des indemnités journalières, puisque les patients pourraient continuer à travailler et participeraient ainsi à la productivité du pays – évitant par là même une perte de PIB. Les études médico-économiques démontreraient donc – j’en suis certain – l’intérêt de réaliser des dépistages systématiques plusieurs fois par an auprès de tous les patients."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je mets aux voix l’amendement no 2159."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        300\n        Nombre de suffrages exprimés                247\n        Majorité absolue                        124\n                Pour l’adoption                111\n                Contre                136"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2159 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Élise Leboucher."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Je dispose de la délégation de la présidente de notre groupe. À ce titre, je demande une suspension de séance, le temps de débattre avec les présidents des autres groupes des modalités de la suite de nos débats."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La suspension est de droit."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures vingt-cinq, est reprise à vingt-trois heures trente.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554847",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Hadrien Clouet, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Il se fonde sur l’article 50, alinéa 5, relatif à la durée de nos débats. Le groupe La France insoumise-Nouveau Front populaire, et il me semble qu’il n’est pas le seul, souhaite que nous allions enfin au bout de ce projet de loi. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.) Il reste quelques dizaines – peu de centaines – d’amendements."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Il ment ! Il reste 450 amendements !"
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "Cela fait 45 dizaines, quand même !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Il est possible de les examiner si tout le monde travaille sérieusement. Notre groupe, comme les autres groupes de gauche, a retiré presque tous ses amendements. Nous avons fait tout le nécessaire pour aller au bout.\nL’article 50, alinéa 5, du règlement permet à un président de groupe de demander de prolonger la séance. À ce titre, les parlementaires sont consultés sans débat et peuvent demander de poursuivre l’examen du texte.\nIl n’y a pas de raison de s’arrêter là. Il est vingt-trois heures trente ; dans quelques heures, nous en aurons fini et nous pourrons dire aux Français que nous avons débattu jusqu’au bout pour les hôpitaux, pour les retraites (Applaudissements prolongés sur les bancs du groupe LFI-NFP, dont les députés se lèvent, et sur plusieurs bancs du groupe EcoS), pour les invalides, pour les accidentés du travail, pour tous les services publics menacés par ce projet de loi. Nous pourrons envoyer au Sénat un texte voté par la représentation nationale ! (Les députés du groupe LFI-NFP continuent d’applaudir debout. – Applaudissements sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Boris Vallaud, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Comme celui de M. Clouet, il se fonde sur l’article 50, alinéa 5. En tant que président de groupe, je demande que la séance soit prolongée pour terminer l’examen du PLFSS. (Applaudissements et « Bravo ! » sur les bancs des groupes SOC, LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Un député du groupe HOR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Il reste 450 amendements !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Le règlement prévoit cette possibilité et l’Assemblée nationale s’honorerait d’y faire droit, car nous parlons d’un budget dont le montant est plus élevé que celui de l’État. Voilà maintenant trois ans que nous n’avons plus voté le financement de la sécurité sociale. (Applaudissements sur quelques bancs des groupes SOC, LFI-NFP, EcoS et GDR.) Nous sommes là pour cela."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Mme Borne est absente, on peut y aller !"
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Chacun prendra la mesure de la nécessité d’aller au bout de cette discussion, puisque le règlement nous y autorise. J’ajoute que les quinze jours constitutionnellement dévolus au Sénat pour débattre n’en seraient pas entamés. Faisons donc au mieux notre travail de législateurs et de parlementaires, qui consiste en premier lieu à consentir à l’impôt et aux prélèvements sociaux. (Applaudissements sur les bancs des groupes SOC, LFI-NFP, EcoS, LIOT et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Philippe Vigier, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Je le fonde sur l’article 100 relatif à l’organisation des débats, que chacun connaît par cœur. (Sourires.) Je parle au nom du groupe Les Démocrates, mais je pense que d’autres groupes se retrouveront dans mes propos. À chaque fois qu’il a fallu être présent en commission ou en séance pour avancer dans l’examen du texte, nous l’avons été. (Rires et exclamations sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. Emmanuel Mandon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794114",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "On ne peut pas dire que notre groupe, qui a déposé 119 amendements – je regarde Jérôme Guedj, car je sais combien il en a lui-même déposé – ait ralenti les débats.\nPar ailleurs, j’ai entendu la demande de M. Clouet, mais il reste 420 amendements. Même en allant jusqu’à six heures du matin,…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Cela se fait ! Il faut pousser un peu, c’est tout !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "…étant donné notre rythme moyen d’examen d’amendements, je ne crois pas une seule seconde que nous pourrons finir. (Exclamations sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "Essayons !"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Il se défile !"
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Madame la ministre, il appartient au Gouvernement de nous dire si la règle des vingt jours inscrite à l’article 47-1 de la Constitution sera appliquée à minuit ou si, comme le prévoit le règlement de l’Assemblée nationale, la voie de la prolongation peut être empruntée. Il serait souhaitable que le Gouvernement nous éclaire. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Pierre Cazeneuve, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "L’article 50, alinéa 5, de notre règlement intérieur est très clair : la prolongation de la séance n’est envisageable que s’il est possible d’achever l’examen du texte. (« Oui » et exclamations sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Il reste 450 amendements ; or depuis trois jours, nous avançons au rythme de quinze amendements à l’heure. Personne ici ne peut en conscience affirmer que nous sommes capables de finir."
+        },
+        {
+          "orateur": "M. Emmanuel Mandon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794114",
+          "texte": "Et vous le savez très bien !"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "À moins que vous vouliez que nous nous couchions à six heures du matin… (« Oui » et applaudissements sur plusieurs bancs du groupe LFI-NFP.) Je n’ai aucun problème pour le faire ! Nous pourrons suivre l’élection présidentielle américaine, c’est une soirée passionnante. Si vous avez besoin de quelqu’un pour défendre chacun des amendements du PLFSS, je serai là. (Plusieurs députés du groupe LFI-NFP, en souriant, se lèvent pour applaudir.) Mais nous ne le finirons pas. Le charabia et les gesticulations par lesquels vous cherchez une fois de plus à bordéliser notre assemblée n’impressionnent personne. (Exclamations vives et prolongées sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "C’est toi le charabia !"
+        },
+        {
+          "orateur": "M. Pierre Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795864",
+          "texte": "Encore une fois, l’article 50, alinéa 5, est très clair. Soyons raisonnables : nous n’avons pas prolongé de séance depuis deux ans et demi, nous n’allons pas commencer maintenant. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Laurent Panifous, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Il se fonde sur l’article 100. Je m’avoue surpris qu’il y ait un débat quant à la possibilité de prolonger la séance et qu’il n’existe pas de règle stricte immédiatement compréhensible par tous. Je trouve assez étonnant que nous nous demandions s’il faut ou non appliquer un article de la Constitution.\nComme député, bien sûr, je ne saurais m’opposer à la prolongation des débats. (Applaudissements sur les bancs du groupe LIOT et sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Si quelqu’un possède l’autorité nécessaire pour prendre cette décision, c’est le Gouvernement. En tant que député, je resterai là jusqu’au bout. (Mêmes mouvements. – Plusieurs députés du groupe LFI-NFP, criant « Bravo », se lèvent pour applaudir.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Christophe Bentz, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Il se fonde sur l’article 50, alinéa 5, relatif aux séances prolongées. Nous avons la chance, contrairement aux deux années précédentes, de pouvoir examiner jusqu’au bout le PLFSS sans 49.3. Nous sommes ravis que la représentation nationale puisse débattre et sommes naturellement prêts à aller jusqu’au terme de l’examen.\nChers collègues du bloc central, vous affirmez que nous ne pourrons pas finir car il reste 430 amendements. Il suffit d’en retirer la plupart ! (Applaudissements sur plusieurs bancs du groupe RN.) Depuis plusieurs jours, vous ralentissez délibérément les débats pour ne pas aller au bout.\nEnfin, le groupe Rassemblement national réitère sa demande, déjà exprimée à plusieurs reprises au cours des derniers jours, que l’article 23 relatif au gel des pensions de retraite fasse l’objet d’un examen prioritaire. Je m’adresse en cela au Gouvernement et à la commission, qui peuvent recourir à cette procédure. (« Bravo » et applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "J’ai bien pris note des demandes de prolongation de la séance au-delà de minuit. Il est vingt-trois heures trente-cinq. Par conséquent, cette question ne se pose pas encore. Nous pourrons y revenir en temps voulu, s’il y a lieu, et interroger alors le Gouvernement."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554885",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 18 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Brigitte Liso, pour soutenir l’amendement no 2210, qui fait l’objet de plusieurs sous-amendements."
+        },
+        {
+          "orateur": "Mme Brigitte Liso",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720446",
+          "texte": "Cet amendement déposé par Mme Aurore Bergé a trait aux cures thermales qui, bien que reconnues pour leur utilité dans le traitement de certaines pathologies, représentent pour l’assurance maladie un coût important, de l’ordre de 200 millions d’euros, rien que pour l’année 2023.\nL’amendement vise à réduire le taux de remboursement pour les pathologies chroniques non invalidantes, tout en maintenant une couverture adéquate pour les affections graves nécessitant une cure thermale en complément d’un traitement médical. L’avis médical préalable permettra d’assurer que seules les cures médicalement justifiées seront remboursées, limitant ainsi les prescriptions de complaisance.\nEn somme, il s’agit de requérir un avis scientifique pour juger de la pertinence du remboursement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Yannick Monnet, pour soutenir le sous-amendement no 2452."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Vous avez décidément l’obsession de faire des économies sur la santé des Français. En l’occurrence, vous voulez rembourser moins bien les cures thermales, alors que leurs bienfaits sont reconnus.\nPar ce sous-amendement, nous proposons que l’encadrement par l’association française pour la recherche thermale (Afreth) et l’assurance maladie soit maintenu. Il vise à préciser que si un moindre remboursement devait être envisagé, il ne pourrait l’être qu’après avoir recueilli l’avis opposable de l’Afreth et après consultation de l’assurance maladie.\nJe rappelle que la médecine thermale et les établissements qui dispensent ces soins sont engagés depuis plus de vingt ans dans un travail constant d’évaluation. La cure thermale est une approche sérieuse aux bienfaits avérés, qui concerne pas moins de 460 000 patients."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Les Romains l’avaient déjà compris !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555238",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je suis saisie de deux sous-amendements identiques, nos 2414 et 2429.\nLa parole est à M. Boris Vallaud, pour soutenir le sous-amendement no 2414."
+        },
+        {
+          "orateur": "M. Boris Vallaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719930",
+          "texte": "Je défendrai du même coup le sous-amendement no 2415.\nJe demande à ma collègue de bien mesurer les conséquences qu’aurait l’adoption de son amendement. Voilà vingt ans que le thermalisme, dans le cadre d’une convention avec l’assurance maladie, travaille à évaluer le service médical rendu (SMR) par la cure thermale. Pour 80 % des prescriptions médicales pour une cure thermale, le SMR a été démontré. Il demeure 20 % de cas sur lesquels un travail méthodologique est en cours. Je rappelle que ce travail d’évaluation du SMR vaut tout autant pour les médicaments et pour les dispositifs médicaux que pour les cures thermales. Vingt-deux publications ont déjà paru dans des revues scientifiques et neuf autres doivent être publiées. Bref, l’assurance maladie et le thermalisme travaillent ensemble pour garantir le service médical rendu.\nL’adoption de cet amendement aurait des conséquences fâcheuses pour les 420 000 patients par an qui se voient prescrire une cure et pour toute la filière économique associée, notamment active dans le département des Landes où je suis élu (« Ah ! » sur plusieurs bancs des groupes EPR et DR) ainsi que la ministre de la santé. (Mme Brigitte Liso s’exclame.) Oui, madame, je me suis posé la question du service médical rendu, j’y ai travaillé, et c’est sur ce terrain que je vous réponds. Encore une fois, il est évalué dans le cadre d’une convention avec l’assurance maladie, dont je ne suis pas plus actionnaire que vous. (Applaudissements sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Tous les Français en sont actionnaires !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3554900",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Danielle Brulebois, pour soutenir le sous-amendement no 2429."
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "Je soutiens également le thermalisme, dont les bienfaits ne sont plus à prouver. De nombreuses études démontrent les vertus curatives et préventives des soins thermaux et de l’accompagnement du curiste tel qu’il est pratiqué.\nIl serait donc bien dommage de ne pas s’appuyer sur ce service médical rendu, qui est évalué tous les ans par l’assurance maladie…"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Il faut accélérer les débats ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme Danielle Brulebois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719890",
+          "texte": "…grâce aux travaux de l’Association française pour la recherche thermale. L’amendement vise à rendre obligatoire la consultation des acteurs du secteur des cures thermales et de l’assurance maladie avant d’envisager une baisse du taux de remboursement, et à rendre cette baisse facultative. Le thermalisme s’adresse à onze familles de pathologies, ou orientations thérapeutiques – beaucoup plus que celles qui sont mentionnées dans l’amendement no 2210. Il serait dommage de priver nos concitoyens du service rendu par le thermalisme."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555130",
+      "valeurPtsOdj": "1",
+      "titre": "(Le sous-amendement no 2452 est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Le sous-amendement no 2415 de M. Boris Vallaud est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Il y a plusieurs sous-amendements ; il faut faire attention à leurs subtilités et à leurs différences. Nous parlons des cures thermales. Les avis peuvent différer en fonction de la situation géographique de chacun (Sourires) ; on peut l’entendre."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Châteauneuf-du-Pape ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "En effet, au-delà de la cure thermale et du service médical rendu ou non, il existe toute une économie liée au thermalisme dans certains territoires. Ce soir, à vingt-trois heures cinquante, d’un coup de baguette magique, par un amendement, mettre en péril des métiers qu’on peut identifier comme étant en lien avec les cures thermales, dans l’hôtellerie, la restauration et plus généralement dans le secteur touristique, peut certes se discuter, car tout peut se discuter. Néanmoins, revenir sur ce remboursement sous la forme d’un amendement me semble un peu brutal.\nLes sous-amendements me paraissent aller dans le bon sens en insistant sur le service médical rendu. Ainsi, les sous-amendements nos 2414 et 2415 de M. Vallaud… (« Ah ! » sur les bancs du groupe DR et HOR.) Ce n’est pas pour faire perdre du temps, mais je ne sais plus quelle est la différence entre ces deux sous-amendements. (Exclamations sur quelques bancs des groupes RN, EPR, SOC et DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "S’il vous plaît, soyez un peu indulgents !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Ce n’est pas assez clair, monsieur Vallaud. Je veux bien essayer de regarder, mais je m’y perds. Je donne un avis de sagesse sur les sous-amendements nos 2414 et 2415. (M. Jean-François Rousset applaudit.)\nNous demandons à tout le monde de réaliser des économies, aussi pouvons-nous évoquer ce sujet, néanmoins il faut faire attention aux décisions que nous adoptons, en prenant en considération toute la filière économique derrière les cures. Ce n’est pas bien légiférer que de le faire dans la précipitation sur des questions qui nécessitent concertation. (Exclamations sur les bancs des groupes EPR et DR.) Quand la rédaction d’un texte est mal ficelée, on nous demande des études d’impact. De même, il faudrait une étude d’impact pour évaluer les conséquences de l’adoption de l’amendement no 2210 et de la réduction du remboursement des cures thermales, afin d’apprécier leurs effets sur l’ensemble du secteur, mais nous n’en disposons pas.\nL’avis sur l’amendement no 2210 est donc défavorable.\nJe m’en remets également à la sagesse de l’Assemblée sur le sous-amendement no 2452 de M. Monnet."
+        },
+        {
+          "orateur": "M. Gabriel Attal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722190",
+          "texte": "Et sur celui de Mme Brulebois ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "De même, je donne un avis de sagesse sur le sous-amendement no 2429 de Mme Brulebois, qui est identique au sous-amendement no 2414."
+        },
+        {
+          "orateur": "Un député du groupe DR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est le dernier mot !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Avis défavorable sur l’amendement no 2210 et sur tous les sous-amendements – ça ira plus vite. (Exclamations sur les bancs du groupe EPR.) Madame Bergé – c’est le nom de la première signataire, mais je crois qu’elle n’est pas là –, il me paraît très ennuyeux de caractériser « les pathologies chroniques non invalidantes ». Je suis désolée, mais il y a des pathologies chroniques, par exemple des infections oto-rhino-laryngologiques (ORL) chroniques pour lesquelles des gens prennent des antibiotiques durant tout l’hiver ; cela ne les empêche pas forcément d’aller travailler mais, sans être totalement invalidant, cela les gêne dans leur vie courante. Avec des cures thermales, il arrive qu’ils se portent beaucoup mieux et prennent beaucoup moins d’antibiotiques."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "C’est aussi une économie pour la sécurité sociale. Je remercie M. Vallaud d’avoir mentionné les études conduites par le thermalisme et par des organismes indépendants sur l’intérêt médical des cures thermales. (Applaudissements sur plusieurs bancs du groupe SOC.) Je suis désolée d’entendre parler de prescriptions de complaisance. Les cures thermales ne sont pas de la thalassothérapie. (Mme Isabelle Santiago applaudit.) Ce sont des soins médicaux quotidiens pour que les gens aillent mieux pendant tout le reste de l’année. Je parle non de l’intérêt territorial, car je pense que ce n’est pas forcément ce que nous devons examiner ici, mais du service médical rendu. Les cures thermales sont utiles à la santé de nos concitoyens. (Mme Michèle Martinez applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Jean-Philippe Tanguy."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Quelle honte ! Il y a 14 millions de retraités qui attendent de savoir ce que l’Assemblée nationale pense du gel de leurs pensions, qui attendent dans l’angoisse de savoir de quoi ils vont devoir se priver à cause des décisions que vous avez annoncées, et vous les méprisez ! (Exclamations sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Ça n’a rien à voir avec l’amendement !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Vous n’avez même pas le courage de vouloir parler d’eux, et nous avons passé dix minutes sur un amendement bidon d’une députée qui n’est même pas là, qui discute avec sa propre majorité. (Applaudissements sur les bancs des groupes RN et UDR. – Mme la présidente coupe le micro de l’orateur.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "L’intervention ne porte pas sur le fond de l’amendement, vous le savez. Vous devez faire un rappel au règlement pour intervenir de cette manière."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 2452 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les sous-amendements identiques nos 2414 et 2429 sont adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 2415 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Je mets aux voix l’amendement no 2210."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        287\n        Nombre de suffrages exprimés                279\n        Majorité absolue                        140\n                Pour l’adoption                18\n                Contre                261"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2210 n’est pas adopté.)\n (Exclamations sur quelques bancs des groupes LFI-NFP et SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555160",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à M. Manuel Bompard, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Manuel Bompard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793444",
+          "texte": "Sur le fondement de l’article 50, alinéa 5, sur la prolongation éventuelle de nos débats. Nous avons eu un premier échange à ce sujet : une majorité des groupes qui se sont exprimés représentant la majorité des parlementaires de cette assemblée souhaite manifestement prolonger les débats sur le projet de loi de financement de la sécurité sociale (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR) avec pour objectif d’aller au terme des débats cette nuit.\nMadame la présidente, en vertu de l’article 50, alinéa 5, est-il possible de demander l’avis de l’Assemblée nationale pour savoir si oui ou non il y a une majorité pour prolonger les débats ? Ensuite, le Gouvernement sera interrogé sur le sujet, donnera sa conclusion et assumera sa responsabilité : soit il permettra au débat de se poursuivre puisque l’Assemblée l’aura demandé, soit il mettra un terme aux débats, mais tout le monde aura compris que c’est le Gouvernement qui ne veut pas que nous continuions cette discussion. (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "C’est l’arroseur arrosé ! C’est vous qui empêchez le débat !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "J’ai bien entendu votre rappel au règlement, qui est similaire à celui que vous avez fait il y a quinze minutes. Il est vingt-trois heures cinquante-cinq ; Mme la ministre chargée des relations avec le Parlement est arrivée. Il conviendra à minuit de lui demander de répondre à votre intervention."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555166",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 18 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Il n’est pas encore minuit, nous pouvons entamer l’examen d’amendements en discussion commune, puisque chacun veut avancer dans le débat.\n Je suis saisie de neuf amendements, nos 460, 757, 1618, 459, 667, 1127, 1663, 1963 et 2280, pouvant être soumis à une discussion commune.\n Les amendements nos 460, 757 et 1618, d’une part, et les amendements nos 459, 667, 1127, 1663, 1963 et 2280, d’autre part, sont identiques.\n La parole est à M. Thibault Bazin, pour soutenir l’amendement no 460."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Nous voulons examiner ces amendements. Tous les groupes ont exposé leur position en commission sur les différents articles, de sorte que les positions de chaque groupe sont connues, y compris sur l’article 23, n’en déplaise à M. Tanguy. Ainsi avons-nous clairement déclaré que nous souhaitions revoir l’article 23 sur le problème de la revalorisation des retraites, et que nous demandons au Gouvernement des correctifs, tout en tenant la trajectoire budgétaire.\nJe défends à présent l’amendement no 460. Nous avons besoin d’une trajectoire claire, transparente, lisible à cinq ans des objectifs. L’élaboration d’une trajectoire pluriannuelle est l’un des combats menés par Jérôme Guedj depuis longtemps. Cette question va de pair avec la régulation des dépenses de l’assurance maladie et avec la fixation des tarifs et des prix sur un horizon pluriannuel. Le premier protocole de pluriannualité pour trois ans entre les fédérations hospitalières et le ministère de la santé, signé par Agnès Buzyn, a couvert la période entre 2020 et 2022. Nous vous proposons de renouveler ce protocole afin d’avoir une vision pluriannuelle des ressources : un tel protocole est très attendu par les fédérations hospitalières. Je le dis devant l’ancien président de la Fédération hospitalière de France (FHF), mais c’est partagé par toutes les fédérations hospitalières."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555170",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Cyrielle Chatelain, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "J’ai bien entendu votre conclusion, par laquelle vous demandez à la ministre des relations avec le Parlement de s’exprimer. Tout en respectant votre décision, je souhaiterais vous rappeler qu’au titre de l’article 50, alinéa 5, c’est bien l’Assemblée qui peut décider de la prolongation de la séance sur la demande d’un président de groupe."
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Ce n’est pas une AG étudiante !"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "En tant que présidente du groupe Écologiste et social, je vous demande donc que cette assemblée, de manière souveraine, puisse se prononcer par un vote sur la prolongation de la séance. (Applaudissements sur les bancs du groupe EcoS ainsi que sur quelques bancs du groupe LFI-NFP.) Il reviendra ensuite au Gouvernement, si la décision était prise de prolonger la séance, de donner son avis. Ce vote me semble essentiel : il y a des sujets très importants à discuter ; nous devons aller au bout de l’examen du projet de loi de financement de la sécurité sociale. L’Assemblée doit enfin pouvoir voter un PLFSS, ce qu’elle n’a pas fait depuis trois ans. (Applaudissements sur les bancs du groupe EcoS ainsi que sur plusieurs bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme Stéphanie Rist, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Comme l’a dit mon collègue Pierre Cazeneuve, il reste énormément d’amendements : plus de 400. (Vives exclamations sur les bancs des groupes RN et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Retirez-les !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Si tous les groupes retirent leurs amendements, il n’y aura plus de débat ! Je reprends : au rythme où nous allons, nous finirions demain matin ou midi."
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Nous voulons aller jusqu’au bout !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720066",
+          "texte": "Ce n’est pas un problème pour nous : nous sommes là, bien réveillés, et nous avons travaillé le budget. Que ce soit donc clair pour tout le monde : vous jouez à faire croire que vous avez envie de continuer, contrairement à nous qui voudrions arrêter. Ce n’est pas le cas : j’ai très envie d’aller jusqu’au bout mais ce n’est pas réaliste. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Vos demandes de prolongation de séance sont fondées sur le règlement de notre assemblée. Or dans la hiérarchie des normes, la Constitution est au-dessus des règlements."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "C’est du b.a.-ba !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Je laisse le Gouvernement s’exprimer à ce sujet."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555327",
+      "valeurPtsOdj": "2",
+      "titre": "Application de l’article 47-1 de la Constitution",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "La parole est à Mme la ministre déléguée chargée des relations avec le Parlement."
+        },
+        {
+          "orateur": "Mme Nathalie Delattre",
+          "fonction": "ministre déléguée chargée des relations avec le Parlement",
+          "role": null,
+          "idActeur": "PA736235",
+          "texte": "À l’issue des travaux conduits aujourd’hui en séance publique, nous arrivons au terme du temps d’examen programmé pour la discussion du projet de loi de financement de la sécurité sociale pour 2025."
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Nathalie Delattre",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA736235",
+          "texte": "L’article 47-1 de la Constitution prévoit un délai de vingt jours, dans lequel l’Assemblée nationale doit se prononcer en première lecture, après le dépôt du projet de loi. Ce délai expire ce soir.\nSi le Gouvernement a été pleinement attentif au respect des droits de votre assemblée, en lui laissant un temps suffisant pour examiner dans les meilleures conditions possibles ce texte, nous ne pouvons accepter de prolonger ce délai sans réduire le temps d’examen dont le Sénat doit disposer pour le PLFSS, et sans non plus mettre en danger l’examen du projet de loi de finances pour 2025, pour lequel il reste environ 1 500 amendements à examiner. Nous devons en reprendre la discussion au plus vite. (Vives exclamations sur les bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est honteux !"
+        },
+        {
+          "orateur": "Mme Nathalie Delattre",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA736235",
+          "texte": "Par conséquent, en application de l’article 47-1 de la Constitution et de l’article L.O. 111-7 du code de la sécurité sociale, l’Assemblée nationale n’ayant pas émis de vote en première lecture sur l’ensemble du projet de loi dans ce délai de vingt jours, …"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Dehors ! (Vives exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Nathalie Delattre",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA736235",
+          "texte": "…le Gouvernement décide de saisir le Sénat du texte qu’il a initialement présenté, modifié par un certain nombre d’amendements votés par votre assemblée et que le Gouvernement acceptera de retenir. (Vives exclamations sur les bancs des groupes RN, LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Lamentable !"
+        },
+        {
+          "orateur": "Mme Nathalie Delattre",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA736235",
+          "texte": "Le Gouvernement contactera M. le président et M. le rapporteur général de la commission des affaires sociales, mais aussi Mmes et MM. les présidents des groupes politiques, afin de définir le plus rapidement possible le périmètre de ces amendements. (Huées sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR. – Claquements de pupitres sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Vous ne respectez jamais la démocratie !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "texte": "Il est pris acte que la discussion du projet de loi de financement de la sécurité sociale pour 2025 ne peut se poursuivre. La demande de prolongation du débat au-delà de minuit est donc sans objet."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3555302",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "texte": "Prochaine séance à 14 heures :\n Questions au Gouvernement ;\nDiscussion de la proposition de loi organique sur le report du renouvellement général du Congrès et des assemblées de province de la Nouvelle-Calédonie ;\n Suite de la discussion de la première partie du projet de loi de finances pour 2025.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée, le mercredi 6 novembre 2024, à zéro heure cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "uid": "CRSANR5L17S2025O1N234",
+  "seanceRef": "RUANR5L17S2025IDS29541",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-06-11",
+  "dateLisible": "mercredi 11 juin 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3787808",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion d’une proposition de résolution européenne",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de résolution européenne de M. Thierry Sother et plusieurs de ses collègues appelant à la régulation des réseaux sociaux face aux ingérences étrangères (nos 876, 1159, 1276)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3787810",
+      "valeurPtsOdj": "1",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Laurent Lhardit, rapporteur de la commission des affaires économiques."
+        },
+        {
+          "orateur": "M. Laurent Lhardit",
+          "fonction": "rapporteur de la commission des affaires économiques",
+          "role": null,
+          "idActeur": "PA840765",
+          "texte": "Nous examinons ce soir une proposition de résolution européenne qui appelle à renforcer la régulation des réseaux sociaux face à la multiplication des menaces, notamment des tentatives d’ingérence étrangère. Je remercie évidemment Thierry Sother, auteur du texte, et Jérémie Iordanoff pour leurs travaux en tant que corapporteurs de la commission des affaires européennes.\nJe rappelle pour commencer que la législation européenne régulant les contenus en ligne repose sur des valeurs partagées par tous les pays de l’Union européenne. À ce titre, l’exercice de la liberté d’expression est borné tant par le respect des droits fondamentaux – qui proscrivent l’incitation à la haine et la diffamation – que par la nécessité de préserver l’ordre public.\nFace à la prolifération des fausses informations sur les réseaux sociaux, cette proposition de résolution européenne demande à l’Union européenne de renforcer son action en matière de régulation des services numériques. Le règlement sur les services numériques (DSA) et celui sur les marchés numériques (DMA), tous deux adoptés en 2022, ont doté l’Union d’un arsenal juridique spécifique pour réguler les plateformes en ligne, pour endiguer la prolifération de contenus illicites et la désinformation et pour lutter contre le pouvoir économique excessif des contrôleurs d’accès en situation de quasi-monopole.\nDésormais, le temps presse. Récemment, de nombreuses ingérences étrangères ont porté atteinte à la démocratie. Le dernier cas documenté concerne la Roumanie, où la Cour constitutionnelle a dû annuler l’élection présidentielle à la suite de manœuvres massives sur TikTok visant à favoriser le candidat prorusse.\nFace à cette urgence, nous devons être particulièrement vigilants car la vie démocratique des pays de l’Union se poursuit, et chacun de ces pays peut craindre aujourd’hui de voir ses processus électoraux faussés ou manipulés par tous ceux qui ont un intérêt à les déstabiliser. Au-delà des cyberattaques, des campagnes de désinformation ont visé à influencer l’opinion publique. Or, pour l’instant, la Commission européenne n’a pas fait la preuve de sa capacité à les endiguer en recourant aux outils du DSA.\nLes inquiétudes sont d’autant plus fortes que le propriétaire du réseau X, par exemple, est devenu le soutien d’orientations politiques hostiles aux valeurs de l’Union européenne et qu’il utilise aujourd’hui son réseau social comme instrument d’influence, en l’absence – ou peu s’en faut – de modération. Sous couvert de liberté d’expression, il détourne les principes de la régulation européenne, censure les discours légitimes, laisse proliférer les faux comptes qui les discréditent, tout en offrant une tribune à des propos haineux, antisémites, racistes ou encore homophobes.\nDes enquêtes ont certes été ouvertes pour manquements au DSA, mais elles avancent lentement. Les réticences à agir contre les grandes plateformes sont incompréhensibles, en tout cas au vu de l’urgence.\nL’Europe doit donc réagir ; elle ne doit pas faire regretter à ses États membres, en particulier à la France, de lui avoir confié leur protection dans des domaines qui deviennent cruciaux pour préserver l’équilibre de nos démocraties, pour protéger non seulement nos enfants – qui s’éduquent en partie au contact de ces plateformes –, mais aussi, de manière générale, l’ensemble des citoyens européens – qui s’informent sur ces réseaux. Il est inconcevable que nos démocraties acceptent plus longtemps de voir leurs citoyens manipulés par des stratégies d’influence ou, plus simplement, par des stratégies purement commerciales qui assoient les revenus sur la conflictualisation permanente, la mise en doute des évidences et la promotion des vérités alternatives.\nLa présente résolution appelle donc à une mobilisation immédiate des instruments dont dispose l’Union, au premier rang desquels le DSA et le DMA, pour protéger nos démocraties, leurs enfants et tous leurs citoyens, et pour défendre notre souveraineté. (Applaudissements sur les bancs des commissions. – M. Jacques Oberti applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Jérémie Iordanoff, au nom de la commission des affaires européennes."
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Les réseaux sociaux sont devenus autre chose qu’un lieu de débat marginal ou secondaire. Les plateformes numériques sont aujourd’hui, de fait, une pièce maîtresse dans le jeu politique. Elles sont une place centrale et permanente du débat public. Là se dessine l’avenir de notre société. Or cet espace n’est ni neutre ni transparent, et certains acteurs s’en servent pour nous déstabiliser.\nSi Thierry Sother et moi avons déposé une proposition de résolution européenne, c’est parce que c’est au niveau européen que les plateformes sont régulées, ou plutôt qu’elles devraient l’être. Il y a bel et bien des procédures en cours, mais elles sont trop timides et trop lentes. Personne ne sait réellement où en sont les choses. Nous sommes dans le brouillard et, pendant que nous discutons ici, des acteurs privés et des puissances étrangères redessinent, à bas bruit, les contours de notre débat public.\nIl y a peu, Elon Musk, alors qu’il était encore un proche du président des États-Unis, est intervenu personnellement dans le débat électoral en Allemagne pour soutenir le parti d’extrême droite Alternative für Deutschland (AFD)."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Et ?"
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Cette ingérence a été largement propagée sur X, sa propre plateforme. En Roumanie, une campagne de désinformation a été identifiée sur TikTok en plein cœur de la présidentielle."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Foutaises !"
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Des partages massifs de contenus antioccidentaux ont tenté de saper la confiance dans l’Union européenne et l’Otan, afin de favoriser, une fois encore, un candidat d’extrême droite et prorusse.\nCes campagnes sont conçues pour les algorithmes. Elles utilisent des formats courts, émotionnels, viraux, et ancrent dans les esprits de nos concitoyens, en particulier les plus jeunes, des récits hostiles à nos valeurs démocratiques.\nSelon un rapport établi par le service de vigilance et de protection contre les ingérences numériques étrangères (Viginum) – je tiens à saluer ici l’utilité de ce service et la qualité de son travail –, cette opération s’inscrivait dans une stratégie de manipulation « aisément reproductible » et exportable dans d’autres pays européens, notamment en période électorale. En somme, personne n’est à l’abri.\nAlors que le droit européen tarde à s’appliquer, certaines plateformes s’autorisent à réintégrer des comptes bannis pour discours haineux, à démanteler des équipes de modération et à ignorer les autorités de régulation. L’absence de réaction ferme et rapide de la France comme de l’Europe est, je dois le dire, choquante.\nÀ l’échelle européenne, le DSA et le DMA ont posé les fondations d’une régulation, mais ces outils sont peu adaptés à l’ampleur et à la nature de la menace. Face à des campagnes ciblées, rapides et coordonnées, ils ne suffisent plus. À l’approche des municipales de 2026, de la présidentielle de 2027 et des législatives qui suivront très probablement celle-ci, allons-nous laisser les Russes et les Américains dicter notre débat public ? Allons-nous laisser quelques seigneurs de la tech déterminer le cours des choses ?\nUne action immédiate de protection est nécessaire. À moyen terme, nous devons créer les conditions de développement de plateformes européennes. Nous sommes aujourd’hui captifs des solutions américaines et chinoises. Il y a un enjeu de souveraineté que l’on ne peut plus ignorer. Pour que de nouveaux acteurs puissent émerger, il faudra imposer l’interopérabilité des plateformes, car permettre aux utilisateurs de partir avec leurs communautés est la seule manière de casser les monopoles existants.\nIl faudra aussi revoir le statut juridique de ces plateformes. Elles ne sont peut-être pas des médias traditionnels, mais arrêtons de croire qu’elles ne sont que de simples hébergeurs. Elles orientent, structurent et hiérarchisent les contenus. Un algorithme, c’est une ligne éditoriale.\nIl conviendrait aussi de réfléchir au rôle que pourrait jouer l’Autorité de régulation de la communication audiovisuelle et numérique (Arcom). Actuellement, sur ces sujets, elle donne le sentiment de botter en touche. Mais, en cas de carence du niveau européen, la France peut et doit agir.\nNe rien faire, c’est accepter que la démocratie se dissolve dans le bruit et la manipulation. L’Union européenne doit appliquer avec diligence et fermeté le DSA et le DMA. Elle doit aussi se doter d’un outil de gestion de crise. À défaut, il faudra prendre des mesures au niveau national.\nNous sommes attaqués par les nouveaux impérialismes – russe, chinois, américain. Nous devons sortir d’une forme de naïveté et de passivité. Il faut prendre au sérieux toutes les tentatives de déstabilisation. Le temps joue contre nous. (Applaudissements sur les bancs du groupe EcoS et sur les bancs des commissions. – M. Jacques Oberti applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la ministre déléguée chargée du tourisme."
+        },
+        {
+          "orateur": "Mme Nathalie Delattre",
+          "fonction": "ministre déléguée chargée du tourisme",
+          "role": null,
+          "idActeur": "PA736235",
+          "texte": "Je tiens tout d’abord à saluer le travail des corapporteurs de la proposition de résolution européenne et celui des commissions. La régulation des géants du numérique est un combat crucial pour notre modèle démocratique, l’Europe et la France étant en première ligne dans ce combat.\nCes dernières années, un cadre juridique commun à tous les États membres a été établi pour renforcer la protection des citoyens européens et de leurs droits fondamentaux en ligne, grâce à l’adoption de plusieurs grands textes européens. Je pense bien sûr au DSA et au DMA, mais aussi à des textes plus récents, comme le règlement sur la publicité politique. Ce règlement, qui établit des règles harmonisées en matière de transparence de la publicité à caractère politique et d’utilisation des techniques de ciblage et d’amplification de diffusion de ces contenus, entrera progressivement en application cette année. Vous le savez, la France a été un fer de lance dans l’élaboration de ces textes, tout particulièrement du DSA, adopté sous la présidence française de l’Union européenne.\nLe DSA a fait entrer les grandes plateformes en ligne dans l’ère de la responsabilité. Ces acteurs sont désormais soumis à de fortes exigences de transparence, s’agissant des publicités qu’ils diffusent, des systèmes de recommandation qu’ils utilisent et des décisions de modération qu’ils prennent. Surtout, ils doivent prendre des mesures proactives pour évaluer, prévenir et limiter les risques systémiques que leurs services font peser sur les utilisateurs, en particulier en matière de propagation de contenus trompeurs et mensongers qui risquent d’altérer la capacité de nos concitoyens à prendre des décisions libres et éclairées, donc de nature à déstabiliser in fine nos processus démocratiques.\nConcrètement, les très grandes plateformes, comme Instagram, X ou TikTok, doivent adapter la conception et le fonctionnement de leurs interfaces et de leurs algorithmes pour éviter qu’ils ne fassent l’objet de manipulations intentionnelles et coordonnées de la part d’acteurs malveillants. Elles ont aussi pour obligation de marquer de manière bien visible les contenus générés ou manipulés par l’intelligence artificielle, qui pourraient apparaître à tort comme authentiques ou dignes de foi et tromper les utilisateurs. Si elles ne le font pas, elles s’exposent à de lourdes sanctions financières, dont le montant peut atteindre jusqu’à 6 % de leur chiffre d’affaires mondial.\nLes autorités françaises sont très attentives à la mise en œuvre et au respect effectifs de ces obligations, essentielles pour la protection de nos concitoyens et de nos démocraties. À ce titre, le gouvernement se félicite de l’ouverture de procédures d’enquête par la Commission européenne. Les autorités françaises l’ont rappelé à plusieurs reprises : il est essentiel que la Commission aille au bout de ses enquêtes pour garantir une application rigoureuse, pleine et entière du DSA.\nDans le cadre des discussions relatives au bouclier démocratique européen, la France a appelé la Commission à utiliser tous les outils à sa disposition pour contrôler et faire respecter les obligations des plateformes en matière de lutte contre la manipulation de l’information, en particulier en période électorale. Dès que l’urgence l’impose, la Commission doit faire usage de ses pouvoirs d’injonction et prendre des mesures provisoires pour protéger le scrutin en cours et prévenir tout préjudice grave.\nEnfin, la garantie de l’intégrité de nos processus démocratiques repose sur une coopération et une coordination efficaces entre l’Union et les États membres.\nAu niveau européen, nous devons renforcer cette coordination dans le cadre du réseau d’alerte européen (RAS) pour échanger en temps réel sur les opérations de manipulation de l’information et organiser la riposte.\nNous devons également renforcer les capacités institutionnelles et opérationnelles de chacun des États membres en matière de lutte contre les ingérences étrangères. Dans ce domaine, la France se tient à la disposition de ses partenaires pour contribuer au partage de bonnes pratiques sur la base de l’expertise de Viginum et de celle du ministère des affaires étrangères. Afin de s’assurer que les mesures idoines soient prises au bon niveau, chaque État membre doit conserver une véritable capacité à agir dans des situations d’urgence pour protéger les scrutins organisés sur son territoire.\nSeule une action rapide, cohérente et concertée nous permettra d’affirmer notre souveraineté numérique et de préserver nos valeurs démocratiques.\nSi nous partageons la philosophie du texte et la volonté ferme que le droit européen s’applique de manière stricte aux plateformes, certaines dispositions de la présente résolution nous semblent problématiques. C’est notamment le cas, à l’alinéa 33, de la mesure visant à imposer aux propriétaires des plateformes numériques de céder à un tiers les parts de capital correspondant à leurs activités européennes. Une telle disposition pose des difficultés majeures à la fois parce qu’elle ne semble pas entrer dans le champ d’application du DSA et parce que la charte des droits fondamentaux de l’Union européenne prévoit une protection du droit de propriété et une indemnisation lorsqu’il lui est porté atteinte. L’UE devrait donc non seulement racheter les parts desdites plateformes mais aussi compenser l’atténuation du droit de propriété."
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Nathalie Delattre",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA736235",
+          "texte": "Dès lors, en l’état du texte, même s’il partage les objectifs des auteurs de la proposition de résolution européenne (PPRE), le gouvernement ne peut que s’en remettre à la sagesse de l’Assemblée.\nNéanmoins, vous pouvez compter sur son engagement afin que le droit européen s’applique pleinement aux plateformes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Thierry Sother, suppléant M. Pieyre-Alexandre Anglade, président de la commission des affaires européennes."
+        },
+        {
+          "orateur": "M. Thierry Sother",
+          "fonction": "suppléant M. Pieyre-Alexandre Anglade, président de la commission des affaires européennes",
+          "role": null,
+          "idActeur": "PA841681",
+          "texte": "Les réseaux sociaux sont au cœur du débat démocratique. Parlementaires, membres du gouvernement mais aussi journalistes et citoyens les utilisent chaque jour pour informer, débattre, mobiliser. Trois Français sur quatre y sont présents ; un sur deux s’y informe.\nPourtant, ces plateformes sont devenues l’un des principaux vecteurs de désinformation et d’ingérence étrangères dans nos démocraties comme les récentes élections roumaines l’ont montré : l’activation de comptes dormants, la mobilisation d’influenceurs, la génération de millions de vues sur TikTok au profit d’un candidat prorusse ont permis de propulser en quelques semaines un inconnu au second tour sans réelle campagne, sans contrôle, sans règles. Une telle opération est capable de submerger un débat public et de simuler un immense mouvement de foule.\nMalheureusement le cas le plus emblématique mais sans doute aussi le plus préoccupant vient des États-Unis. Il a un nom, Elon Musk, et désormais un bras armé, la plateforme X, anciennement Twitter. Musk a transformé ce réseau en un outil personnel d’influence idéologique. Il y diffuse ses obsessions politiques, manipule les algorithmes à son avantage et soutient activement les forces réactionnaires en Europe. Il conduit un combat culturel et idéologique en faveur d’une internationale réactionnaire à l’échelle mondiale. En Allemagne, en France et ailleurs, il a propulsé des figures de l’extrême droite en multipliant les like, les partages, les interactions qui deviennent des amplificateurs automatiques. Avec 220 millions d’abonnés, Musk fait de n’importe quel extrémiste un phénomène viral ; il est un produit dopant au service des contrevérités et des fake news.\nPourtant, le DSA attribue à la plateforme la mission de contrôler les informations mises en ligne. C’est un peu comme si nous confiions au conducteur d’une puissante voiture, par exemple celui d’un modèle proche de celle conçue par Musk, le soin de contrôler les règles de limitation de vitesse alors qu’il s’en affranchirait lui-même.\nLoin d’être encadré, ce réseau social repose sur une logique algorithmique opaque où la conflictualité et la désinformation sont naturellement favorisées. Les contenus que propose l’application aux utilisateurs sont jusqu’à 50 % plus toxiques en moyenne qu’ailleurs, en vertu d’une logique qui peut s’expliquer par la volonté, soit de susciter l’engagement par la violence, soit d’influencer les comportements électoraux.\nSi nos textes imposent des obligations aux plateformes, les rapports illustrent leurs défaillances en la matière. Insuffisance de modération des contenus illicites, présence de robots, absence de transparence algorithmique, circulation fréquente de fake news et manipulation des systèmes de recommandation : les lacunes des plateformes sont autant de fragilités qui offrent des points d’entrées aux puissances étrangères.\nCela a été rappelé, le DSA prévoit des sanctions, notamment financières, mais, si la Commission européenne a bien lancé des enquêtes, elle tarde à les conclure.\nL’objectif de cette PPRE est de réaffirmer la nécessité d’utiliser entièrement nos outils de régulation des réseaux sociaux et de prendre les sanctions nécessaires. Dix-huit mois après l’entrée en vigueur du DSA, de la douzaine d’enquêtes lancées, aucune n’a été menée à son terme. Au-delà de la lenteur de ces enquêtes, qui pose question, nous pouvons déplorer une carence de la Commission en la matière. Nous ne pouvons nous satisfaire du seul fait que les enquêtes se poursuivent et qu’un dialogue contradictoire ait lieu : il faut des échéances et des actes. Dans ce domaine, c’est d’un principe de précaution dont nous avons besoin.\nJe tiens à remercier mon collègue Jérémie Iordanoff qui a défendu cette PPRE avec moi en commission des affaires européennes, mon collègue Laurent Lhardit qui a repris le travail en commission des affaires économiques et le président Anglade qui m’a confié ce soir son temps de parole.\nCette résolution a été votée à l’unanimité en commissions des affaires européennes et économiques. Un seul camp, un seul, s’y est opposé dans l’hémicycle. Il se présente comme le camp des patriotes mais il est silencieux quand le Kremlin ou Washington agissent pour influencer les démocraties."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Vous racontez n’importe quoi !"
+        },
+        {
+          "orateur": "M. Thierry Sother",
+          "fonction": "suppléant M. Pieyre-Alexandre Anglade, président de la commission des affaires européennes",
+          "role": null,
+          "idActeur": "PA841681",
+          "texte": "Les mêmes crieront à la censure et à la violation de la liberté d’expression mais où est la liberté d’expression quand des équipes russes ou des milliardaires américains écrasent artificiellement le débat ? Où est le libre arbitre quand des algorithmes manipulés décident à votre place de ce que vous lisez ?\nVoter cette résolution, c’est rappeler à la Commission européenne qu’il faut agir pour refuser que les résultats de nos élections soient dictés par les intérêts de plateformes privées ou d’États étrangers."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ayez confiance dans les peuples !"
+        },
+        {
+          "orateur": "M. Thierry Sother",
+          "fonction": "suppléant M. Pieyre-Alexandre Anglade, président de la commission des affaires européennes",
+          "role": null,
+          "idActeur": "PA841681",
+          "texte": "C’est affirmer que les Français doivent pouvoir choisir leurs représentants seuls, librement, dans un espace public loyal et c’est exiger que les outils que nous avons créés et votés – le DSA, les sanctions et les règles qu’il prévoit – soient enfin utilisés ; non dans un futur vague mais maintenant. (Applaudissements sur les bancs des commissions et sur ceux du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ils n’ont pas confiance dans les peuples !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3788277",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Nous en venons à la discussion générale.\nLa parole est à Mme Marietta Karamanli."
+        },
+        {
+          "orateur": "Mme Marietta Karamanli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335054",
+          "texte": "La proposition de résolution européenne de nos collègues Thierry Sother et Jérémie Iordanoff, qui vise à accélérer la mise en œuvre…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "…de la censure !"
+        },
+        {
+          "orateur": "Mme Marietta Karamanli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335054",
+          "texte": "…et l’application de dispositifs européens assurant la régulation des plateformes numériques, est très importante.\nLa commission des affaires européennes a eu plusieurs fois l’occasion d’aborder le sujet de la réglementation des plateformes numériques et de leur nécessaire régulation. Parce qu’elles diffusent des contenus, la question des responsabilités qui leur incombent pour faire respecter les droits de propriété intellectuelle et protéger les droits des citoyens est un vaste sujet. Les plateformes peuvent constituer un moyen de privatiser un nombre significatif de services – c’est-à-dire de les faire passer sous le contrôle de grandes entreprises privées – et ce, hors de toute régulation.\nLa responsabilité des plateformes dans la formation de l’opinion est aussi devenue une question politique et démocratique. L’insuffisance de modération, l’absence de lutte contre les fausses nouvelles, la création de réflexes par la répétition d’images et de sollicitations quasi automatisées sont très inquiétantes.\nL’un des considérants de la proposition évoque la menace grave que les ingérences étrangères font peser sur la souveraineté nationale et européenne et la logique de guerre hybride dans laquelle elles s’inscrivent pour affaiblir l’Union européenne : une réponse coordonnée des États membres est indispensable.\nLes constats d’ingérence sont désormais bien documentés – cela a été rappelé. Depuis plusieurs années, les cyberattaques et les manipulations par les réseaux sociaux visent à formater et à fabriquer l’opinion : c’est ni plus ni moins de la propagande. J’utilise à dessein ce terme, qui vient du latin propagare et signifie littéralement « ce qui doit être propagé ».\nJ’ajoute que les modalités de la diversion sont nombreuses, aussi infinies que l’imagination : ingérence dans les processus électoraux, financement et cocooning – si vous me permettez l’expression – de responsables ou d’influenceurs pour les conditionner en faveur des prises de position des forces ou des régimes déstabilisateurs, cyberattaques ou encore manipulations d’images ou d’histoires fausses pour qu’elles apparaissent crédibles."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Vous êtes dure avec M. Pigasse !"
+        },
+        {
+          "orateur": "Mme Marietta Karamanli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335054",
+          "texte": "Il faut s’attacher à répondre à ces dangers en utilisant différents outils et en les calibrant aux menaces possibles ou existantes.\nSi nous pouvons être inquiets, nous ne sommes pas découragés : nous appelons les autorités de l’Union européenne et le gouvernement français à accélérer l’application des textes déjà adoptés, c’est-à-dire le DSA et le DMA. La France a joué un rôle significatif dans leur adoption avant qu’ils ne fassent l’objet d’un accord entre les colégislateurs, sous présidence française du Conseil.\nLe DSA et le DMA marquent la volonté de l’Union européenne de contrer la toute-puissance des grands acteurs, majoritairement extra-européens, qui dominent l’économie numérique et qui échouent, ou rechignent, à mettre un terme aux dérives en ligne de certains internautes.\nLe règlement sur les services numériques poursuit un objectif d’apparence simple, mais ô combien complexe en pratique : rendre illégal en ligne ce qui est illégal hors ligne. Le texte oblige les fournisseurs à prendre des mesures supplémentaires pour lutter contre les contenus illicites et préjudiciables : haine en ligne, pédopornographie ou désinformation.\nLe DMA vise à renforcer la possibilité de remettre en cause les positions dominantes acquises par les géants du numérique.\nMa première observation est que ces instruments, complexes, sont à la main de la Commission et offrent des possibilités sans toujours garantir l’effectivité des droits créés. L’approche européenne consistant à privilégier une régulation ex ante et asymétrique, c’est-à-dire proportionnée à la taille des acteurs, est la bonne.\nLors de leur examen par notre commission, nous avions fait plusieurs suggestions pour améliorer ces dispositifs.\nEn ma qualité de rapporteure de notre commission, j’avais proposé que plusieurs États membres saisissent la Commission pour ouvrir une enquête de marché sur le réseau X, toujours absent de la liste des contrôleurs d’accès malgré l’importance de sa taille et ses effets de réseau, étant observé au surplus que le DMA prévoit des critères qualitatifs auxquels X ne répond pas. La Commission l’a fait.\nPour contraindre les grandes sociétés du numérique et les plateformes, qui occupent une position déjà oligopolistique sur différents marchés et dans nos vies, à respecter le droit, il convient, comme le propose la résolution, de hâter le pas, de dresser un bilan des procédures et des enquêtes lancées mais aussi d’utiliser les outils réglementaires techniques et fiscaux disponibles.\nEn bref, il s’agit d’appliquer résolument et sans délai le règlement européen en usant des pouvoirs, non seulement d’investigation mais aussi de sanction qu’il ouvre en cas de non-conformité ou de manquement avéré d’une grande plateforme numérique.\nNous voterons bien sûr avec détermination cette indispensable proposition de résolution. (Applaudissements sur les bancs des groupes SOC, LFI-NFP et EcoS ainsi que sur ceux des commissions.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Josiane Corneloup."
+        },
+        {
+          "orateur": "Mme Josiane Corneloup",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722390",
+          "texte": "Alors que l’Europe est confrontée à une recrudescence des ingérences étrangères, la proposition de résolution européenne que nous examinons met en lumière l’urgence, au regard des principes démocratiques, d’assurer l’application intégrale du règlement sur les services numériques adopté en 2022 par le Parlement européen et le Conseil.\nLes grandes plateformes numériques occupent une place centrale dans nos sociétés. En 2024, plus de 82 % des Européens, soit près de 370 millions de personnes, utilisaient régulièrement les réseaux sociaux. Parmi ceux-ci, des plateformes comme Facebook, Instagram, TikTok ou X comptent chacune entre 50 et 150 millions d’utilisateurs actifs mensuels en Europe. Cette omniprésence leur confère un pouvoir d’influence considérable sur la formation de l’opinion publique, les comportements d’achat et même les choix électoraux. Selon une étude de l’European digital media observatory, près de 40 % des Européens déclarent s’informer principalement via les réseaux sociaux ; chiffre qui monte à 60 % chez les moins de 35 ans.\nCette dépendance accrue aux plateformes numériques rend l’Union européenne particulièrement vulnérable aux campagnes de désinformation et aux manipulations orchestrées par des acteurs étrangers. Les tentatives d’ingérence se multiplient : selon le rapport 2023 de l’Agence européenne de cybersécurité (Aesri), le nombre de campagnes de désinformation d’origine étrangère détectées a augmenté de 30 % entre 2022 et 2023. Lors des élections européennes de 2019, plus de 600 réseaux de comptes suspects ont été identifiés, principalement liés à la Russie et à la Chine. En 2024, à l’approche des élections européennes, la Commission européenne a recensé plus de 1 200 incidents de désinformation avérée sur les plateformes numériques.\nFace à ces défis, l’Union européenne a adopté le règlement sur les services numériques et celui sur les marchés numériques, qui imposent de nouvelles obligations aux grandes plateformes. Le DSA prévoit notamment des sanctions pouvant aller jusqu’à 6 % du chiffre d’affaires mondial en cas de manquements graves. Cependant, plusieurs aspects de cette proposition de résolution européenne suscitent des réserves. Il n’est pas acceptable de cibler une seule plateforme, comme X, alors que d’autres acteurs majeurs sont tout autant concernés. Par exemple, TikTok compte plus de 125 millions d’utilisateurs actifs mensuels en Europe, et Facebook plus de 250 millions, ce qui montre que le phénomène dépasse largement le cas d’une seule entreprise.\nPar ailleurs, la proposition de forcer la cession de parts de capital de certaines plateformes, proportionnellement à leur activité en Europe, n’entre pas dans le champ du DSA et soulève d’importantes questions juridiques et économiques. Selon la Charte des droits fondamentaux de l’Union européenne, le droit de propriété est garanti, et toute expropriation doit donner lieu à une indemnisation adéquate. Si l’Union devait racheter des parts de grandes entreprises du numérique, le coût pourrait se chiffrer en dizaines de milliards d’euros, ce qui serait difficilement justifiable et potentiellement contre-productif.\nNous saluons l’initiative de cette proposition de résolution, mais considérons que, dans sa forme actuelle, elle comporte des risques juridiques et économiques majeurs. C’est pourquoi, en l’état, le groupe Droite républicaine choisira de s’abstenir lors du vote sur ce texte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Sophie Taillé-Polian."
+        },
+        {
+          "orateur": "Mme Sophie Taillé-Polian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA736201",
+          "texte": "Je tiens d’abord à remercier chaleureusement Thierry Sother et Jérémie Iordanoff pour cette initiative qui porte sur un sujet majeur pour nos démocraties. La position de l’Union européenne doit être ferme face aux plateformes pour contraindre et sanctionner les récalcitrants, dans l’intérêt des sociétés démocratiques et des citoyens européens. Le groupe Écologiste et social partage la conviction qu’il est nécessaire d’appliquer pleinement et concrètement le règlement européen sur les services numériques.\nLors de son allocution aux Françaises et aux Français au mois de mars, Emmanuel Macron entendait préparer les esprits à un effort budgétaire pour financer le réarmement de notre pays, dans un contexte de menace russe accrue envers le continent européen depuis la guerre en Ukraine. La commission européenne a lancé un plan pour réarmer l’Europe, qui vise à soutenir l’Ukraine et à assurer la défense de l’Union européenne. Nous avons également tenu dans l’hémicycle un débat sur le réarmement. Selon le groupe Écologiste et social, il est primordial que ce débat ne se limite pas à la question du réarmement militaire. Nous devons en effet construire une stratégie de défense complète et cohérente. Dans nos sociétés démocratiques, elle doit inclure une politique offensive d’affirmation de la liberté d’expression, conjuguée au non moins important droit des citoyennes et des citoyens à accéder à une information fiable et indépendante de toute ingérence étrangère ou de tout intérêt privé.\nDans ce contexte, les plateformes numériques se sont révélées être de puissants vecteurs d’ingérences étrangères et d’attaques contre la souveraineté des États européens. Nous nous souvenons tous que, début décembre, la justice roumaine a annulé un scrutin électoral en cours à cause des ingérences notamment sur la plateforme TikTok. Pareille influence d’une plateforme sur le résultat d’une élection conduisant à son annulation est sans précédent dans l’histoire des démocraties européennes. Selon Viginum, la Roumanie est, après la Géorgie et la Moldavie, « le troisième pays touché par des manipulations d’ampleur en contexte électoral ».\nVladimir Poutine n’est pas le seul à utiliser les plateformes à son profit. Les ingérences du milliardaire américain Elon Musk dans les élections nationales britanniques et allemandes sont tout aussi inquiétantes. Non seulement il y a soutenu des candidats d’extrême droite, mais son action s’est accompagnée de tentatives de déstabilisation des opinions publiques nationales par le biais de la plateforme X qu’il a récemment rachetée. L’arrivée au pouvoir de Donald Trump aux États-Unis marque un tournant, par les attaques en règle menées contre l’Union européenne et son règlement sur les services numériques. Chacun se souvient du discours du vice-président Vance, à Munich. En se ralliant à Donald Trump dès son élection, Mark Zuckerberg dénonce la prétendue censure dont serait victime son groupe Meta de la part de l’Union européenne, mettant fin à la politique de fact checking du groupe.\nLe fait que les géants des plateformes Musk et Zuckerberg aient été les premiers soutiens de la politique de M. Trump n’est pas anodin. Non seulement ils assument leur franche opposition aux politiques européennes de régulation et ont supprimé toute forme de modération de leurs contenus, mais ils favorisent la visibilité des contenus de leurs amis politiques et propagent sciemment la désinformation. Ils n’ont certes que la liberté d’expression à la bouche, mais leurs algorithmes de recommandation font tout l’inverse en tuant le pluralisme.\nCes nouvelles formes d’ingérence étrangère représentent une menace sérieuse sur la souveraineté politique des États membres de l’Union européenne autant qu’elles fragilisent le débat public dans nos sociétés. Nous regrettons donc que Mme von der Leyen n’affirme pas avec plus de force la défense de l’Union européenne dans cette guerre culturelle. Le DSA doit être immédiatement et totalement déployé. Plusieurs enquêtes sont en cours contre les plateformes, mais aucune sanction n’a pour l’heure été prononcée, notamment contre X, malgré les menaces répétées. Nous devons nous assurer que toutes les enquêtes iront bien à leur terme pour aboutir à des sanctions proportionnées mais fortes.\nLa réflexion sur la régulation des plateformes appelle à notre sens de nouvelles avancées législatives. Bien entendu, il faut favoriser avant tout la transparence, mais nous ne devons pas nous contenter uniquement de transparence. Nous devons aussi réguler davantage pour que les algorithmes assurent une meilleure visibilité du contenu journalistique afin de lutter contre la désinformation et contraindre les plateformes à financer le modèle économique des médias et les droits sociaux notamment des journalistes, en accomplissant des avancées nouvelles sur les droits voisins. Une stratégie de défense à l’échelle européenne doit prendre en considération les enjeux informationnels et préserver des services publics de l’audiovisuel forts dans les pays de l’Union européenne. (Applaudissements sur les bancs des groupes EcoS et LIOT ainsi que sur les bancs des commissions. – Mme Chantal Jourdan applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Frédéric Petit."
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Nous examinons ce soir une proposition de résolution européenne dont ses auteurs disent qu’elle vise à renforcer la régulation des réseaux sociaux face aux ingérences étrangères.\nLe groupe Les Démocrates salue le travail accompli et l’engagement pris. Il partage pleinement le constat d’un risque accru, grave et structurant. L’Union européenne est la cible de campagnes de désinformation massives, souvent orchestrées par des puissances étrangères, qui menacent les processus démocratiques. Vous savez que la septième circonscription des Français à l’étranger, qui comprend notamment la Roumanie et l’Allemagne, est très concernée. Tout ce qui s’y est passé récemment est au cœur de mon travail, de façon presque quotidienne, dans les pays que j’ai cités et dans d’autres.\nJe voudrais remettre la situation présente en perspective grâce à deux remarques que je fais souvent lors des réunions publiques auxquelles je participe, dans lesquelles ce sujet est très souvent évoqué. D’abord, entre l’invention de l’imprimerie et la loi sur la liberté de la presse, quatre siècles se sont écoulés. Pendant quatre siècles, l’imprimerie était aux ordres de l’Église, du roi ou d’autres instances que les lecteurs n’identifiaient pas toujours avant que la loi de 1881 instaure la liberté de la presse.\nEnsuite, en tant que démocrate, je rappelle souvent que le premier adversaire de la démocratie n’était pas l’autocratie, car le tyran était un outil de la démocratie dans la démocratie athénienne, mais l’ okhlos, c’est-à-dire la foule."
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Historiquement, vous êtes à côté de la plaque, mais ce n’est pas grave !"
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Je ne sais pas si nous serions tous d’accord sur ce point, mais la foule n’est pas le peuple. La foule, et la foule numérique, est dangereuse. L’ochlocratie était le premier adversaire de la démocratie."
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Vous n’êtes pas au point sur l’histoire grecque ! (Sourires sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Frédéric Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721182",
+          "texte": "Nous pourrons en discuter tout à l’heure. Je pense que Socrate a été tué par la foule, et non par le peuple. Ai-je le droit de faire un rappel au règlement pour mise en cause personnelle ? (Sourires.)\nLa proposition de résolution insiste sur l’urgence de déployer l’ensemble des outils créés par le DSA pour permettre à la Commission européenne de protéger les droits fondamentaux. C’est essentiel mais – j’insiste sur ce point – nous ne pouvons pas ignorer les nombreuses difficultés que pose ce texte dans sa rédaction actuelle.\nD’abord, au sujet des enquêtes en cours, notamment celle qui vise la plateforme X qui a été évoquée, les parlementaires ne doivent pas s’ingérer dans une affaire judiciaire ou même demander à la justice d’aller plus vite, car ce n’est pas notre travail et surtout c’est contraire à la séparation des pouvoirs sur laquelle reposent les démocraties. S’immiscer dans leur déroulement serait juridiquement fragile.\nEnsuite, plusieurs orateurs ont mentionné les problèmes que pose la cession obligatoire de parts de capital.\nEnfin, madame la ministre, vous avez rappelé que la citoyenneté éclairée doit être libre. Vous savez que Marc Sangnier soutenait qu’elle devait avant tout être responsable. Au cours de la campagne européenne, j’ai été très gêné par les actions sur les réseaux de Musk qui prétendaient éclairer les citoyens, cependant je l’ai été tout autant par une phrase très souvent répétée par un candidat, si vous me permettez de m’exprimer en anglais : I will fix it, « Je vais m’en occuper ». Cette phrase constituait pour moi la négation de la responsabilité. En réalité, le citoyen redevient citoyen le lendemain de l’élection. La responsabilité des corps intermédiaires et le fait que les citoyens doivent aussi s’engager en choisissant comment s’informer me semble parfois dangereusement oublié.\nNous devons être fermes pour faire respecter nos principes, exigeants quant à l’application du droit. Le groupe Démocrates est pleinement engagé dans cette voie – je vous rappelle que c’est en partie à son initiative qu’ont été instaurés les droits voisins. Cependant, la construction d’une souveraineté numérique européenne ne peut se faire que dans le respect du droit européen et avec une méthode rigoureuse, sans quoi nous nous affaiblirons nous-mêmes.\nEn l’état, malgré les intentions louables de ses auteurs, que nous partageons, cette proposition de résolution présente selon nous trop de fragilités. C’est pourquoi les députés du groupe Les Démocrates voteront contre ce texte, tout en réaffirmant leur détermination à défendre un espace numérique sûr, transparent et respectueux de nos valeurs."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Isabelle Rauch."
+        },
+        {
+          "orateur": "Mme Isabelle Rauch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720552",
+          "texte": "La proposition de résolution européenne que nous examinons est essentielle. Elle vise à renforcer la régulation des réseaux sociaux face aux ingérences étrangères. Jamais ce sujet n’a été aussi pressant. Les réseaux sociaux sont devenus des infrastructures de communication incontournables. Il ne s’agit plus seulement d’hébergeurs techniques, mais de véritables carrefours de l’information, capables d’influencer l’opinion publique, de structurer les débats et même de déstabiliser nos institutions démocratiques.\nLe groupe Horizons & indépendants s’est toujours engagé pour une régulation numérique à la hauteur des enjeux. Nous avons été à l’initiative de la loi visant à instaurer une majorité numérique à 15 ans. Nous avons soutenu ici les différents textes visant à prévenir les ingérences étrangères parce que nous savons que protéger nos concitoyens en ligne, c’est défendre notre démocratie.\nCette résolution s’appuie sur des constats préoccupants. Les rapports parlementaires et les travaux des commissions d’enquête l’ont montré : les ingérences étrangères sont une réalité et elles touchent de plus en plus les espaces numériques. Elles se traduisent par des campagnes de désinformation coordonnées, des manipulations d’algorithmes, des tentatives pour fausser nos scrutins. Le cas de l’élection présidentielle roumaine annulée après une vague de désinformation doit nous alerter. Ce qui s’est passé là-bas pourrait à l’avenir se produire ici et nous ne pouvons pas l’accepter. La Commission européenne doit agir avec fermeté. Elle doit appliquer pleinement le règlement sur les services numériques. En effet, certaines très grandes plateformes, notamment américaines, disposent d’un pouvoir considérable sur la circulation de l’information et se retrouvent au cœur de nos démocraties. Il est temps qu’elles assument pleinement leurs responsabilités.\nNous ne pouvons plus laisser des acteurs extra-européens imposer leurs règles, au mépris des lois du continent et des droits fondamentaux de nos concitoyens. La démocratie ne se brade pas sur un fil d’actualité ou dans un tweet. Elle se défend.\nJe veux insister sur un autre point, essentiel à nos yeux. Réguler les plateformes, ce n’est pas brider la liberté d’expression. Bien au contraire, c’est permettre un débat public apaisé, protégé des manipulations et des campagnes de désinformation. La liberté d’expression n’est pas un chèque en blanc pour la haine ou pour l’ingérence. Elle est le socle de notre démocratie, mais elle suppose des règles, un cadre et une responsabilité partagée.\nCe texte rappelle également la nécessité de construire une véritable souveraineté numérique européenne. C’est un combat que nous devons mener avec force : développer nos propres plateformes, nos propres infrastructures, pour ne plus dépendre des géants américains ou chinois. Oui, mes chers collègues, l’Europe doit prendre son destin numérique en main.\nJe veux saluer la cohérence de ce texte avec les positions que nous défendons, dans cette assemblée et à l’échelon européen. Nous avons soutenu le DSA, le DMA, le règlement sur l’intelligence artificielle. Nous avons toujours dit oui à l’innovation, oui à la liberté, mais non à la loi de la jungle et aux tentatives de déstabilisation orchestrées depuis l’étranger.\nAlors il est temps de passer à l’action. Il est temps de dire aux plateformes numériques : « Vous êtes des acteurs incontournables du débat public. Vous avez des droits, mais aussi des devoirs. »\nPour toutes ces raisons, le groupe Horizons & indépendants votera en faveur de cette proposition de résolution européenne, parce qu’il est de notre responsabilité, en tant qu’élus de la nation, de protéger nos concitoyens, de défendre notre souveraineté et de garantir l’intégrité de nos processus démocratiques. (Applaudissements sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Laurent Mazaury."
+        },
+        {
+          "orateur": "M. Laurent Mazaury",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "La Commission européenne estime que 57 % des utilisateurs des réseaux sociaux dans l’Union européenne privilégient ce canal pour recueillir de l’information. Or les plateformes numériques sont particulièrement propices à la diffusion de fausses informations et constituent donc un parfait vecteur pour les ingérences étrangères. Elles permettent, du fait même de leur modèle, un déploiement massif des informations corrompues, notamment parce qu’il est possible d’y utiliser des trolls. Mais nos médias traditionnels ne sont pas non plus épargnés : en témoignent par exemple les interventions hebdomadaires, sur une chaîne dite d’information, de Xenia Fedorova, qui était la dirigeante de la chaîne russe RT France jusqu’à sa fermeture.\nLes réseaux sociaux et internet peuvent également être le relais de chaînes sanctionnées, notamment pour désinformation. Aujourd’hui encore, des plateformes IPTV – la télévision sur un réseau utilisant le protocole internet – proposent d’accéder en streaming à de nombreuses chaînes relais de la propagande russe, qui ont pourtant été sanctionnées.\nPire : alors qu’auparavant, des pays étrangers exploitaient les failles de régulation des plateformes numériques, désormais, certaines plateformes deviennent elles-mêmes sciemment biaisées. C’est en particulier le cas de X : sous l’influence d’Elon Musk, cette plateforme met désormais en avant, au moyen de ses mystérieux algorithmes, des contenus extrémistes voire complotistes et assume ouvertement un soutien aux politiques des mouvances présentant les mêmes caractéristiques en Europe. Cette influence a pour objet de manipuler l’opinion publique, fausser le débat public, déstabiliser nos institutions et nos démocraties. Un événement récent l’illustre : les ingérences numériques qui ont marqué l’élection présidentielle en Roumanie en 2024."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ce n’est pas sûr !"
+        },
+        {
+          "orateur": "M. Laurent Mazaury",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "Face à ces menaces, l’Arcom joue un rôle essentiel dans l’application du DSA. Toutefois, ses moyens d’action restent très insuffisants face à l’ampleur des défis. Je reviens sur les différentes sanctions européennes prises à l’encontre de certains médias russes : par exemple, RT France a certes été suspendue par l’Arcom, mais la nouvelle version de la chaîne, émise depuis Moscou sous le nom de RT en français, est facilement disponible sur internet, en flux continu, en passant par différentes pages ou comptes TikTok – il ne faut que quelques secondes pour y accéder. Il est donc impératif de soutenir, voire de motiver l’Arcom dans ses missions, car il y va de notre sécurité et de notre souveraineté nationales.\nSi les missions de l’Arcom mais aussi de Viginum sont fondamentales et nous protègent, elles ne peuvent cependant répondre seules aux attaques informationnelles que nous subissons. Il est en effet indispensable que nous formions mieux tous nos concitoyens, dont les plus jeunes, à la reconnaissance de fausses informations et de toutes les manipulations numériques."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Eh ben dites donc !"
+        },
+        {
+          "orateur": "M. Laurent Mazaury",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "Au niveau européen, il faut renforcer le pouvoir de coercition. La Commission européenne dispose de moyens conséquents de contrôle et de sanction que nous avons votés. Le marché européen étant le plus grand marché du monde, notre pouvoir de contrainte est important, notamment vis-à-vis des États-Unis. N’ayons pas peur d’agir !\nPour en revenir à la proposition de résolution européenne que nous étudions aujourd’hui, je souhaite effectivement insister avec force et vigueur sur le fait que la Commission européenne ne peut avoir la main qui tremble quand elle doit sanctionner et qu’elle doit appliquer fermement le règlement 2022/2065. C’est ce que demande l’alinéa 26 et j’y souscris pleinement.\nConcernant l’alinéa 21, je suis réservé quant à l’emploi dans sa rédaction du terme « vulnérabilité ». Il est évident que nos démocraties doivent, contrairement à un État autoritaire, agir dans le respect total des droits fondamentaux de tous et que la protection de la liberté d’expression et des règles du marché empêche un interventionnisme fort de la part des pouvoirs publics. Cependant, je considère que les garde-fous qui servent à protéger nos valeurs fondamentales ne constituent pas des vulnérabilités, mais des fondements solides qui nous permettent de vivre ensemble, et que le rejet de ces valeurs et les lâches attaques qu’elles subissent de la part des États autoritaires sont la preuve de la faiblesse de ces derniers.\nEnfin, il devient de plus en plus urgent de développer des plateformes souveraines, nos propres plateformes, au sein de notre Union européenne, comme le demande le dernier alinéa de la présente proposition de résolution, auquel nous souscrivons également pleinement.\nParce que la lutte contre les ingérences étrangères est une urgence absolue, dans un contexte où différentes élections majeures vont bientôt être organisées sur notre territoire, et parce que notre liberté est à ce prix, le groupe LIOT votera en faveur de ce texte. (Applaudissements sur les bancs des commissions. – Mme Isabelle Rauch applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Émeline K/Bidi."
+        },
+        {
+          "orateur": "Mme Émeline K/Bidi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795998",
+          "texte": "Plus de 50 millions de nos concitoyens utilisent régulièrement les réseaux sociaux et 69 % des jeunes âgés de 11 à 24 ans utilisent quotidiennement Instagram et TikTok. Cet usage ne se limite pas à des fins de communication ou de loisir : plus de la moitié d’entre eux recourent aux réseaux sociaux comme à des moteurs de recherche. La confiance dans la fiabilité de l’information publiée est inversement proportionnelle au niveau d’études et à la catégorie socioprofessionnelle des usagers. Ainsi, 42 % des jeunes ouvriers et des jeunes scolarisés en réseau d’éducation prioritaire (REP) font confiance à TikTok et Instagram sur les sujets d’actualité contre 33 % en moyenne pour l’ensemble de cette classe d’âge.\nLes plateformes numériques, majoritairement détenues par des puissances étrangères, structurent aujourd’hui l’espace public en ligne ainsi que la manière dont nos concitoyens, en particulier nos jeunes, appréhendent la réalité. Nous le savons : les réseaux sociaux ne sont pas neutres. Bien au contraire, ils sont le terrain d’affrontements d’intérêts privés et d’ingérences étrangères. Du Royaume-Uni à la Roumanie en passant par les États-Unis et l’Allemagne, toutes les élections récentes ont subi les effets d’opérations d’influence étrangères et de manipulations des comportements des électeurs sur les réseaux sociaux. Elon Musk en constitue la meilleure illustration : patron de X et ancien soutien du président Donald Trump, il avait ouvertement fait campagne en faveur de l’extrême droite en Allemagne et au Royaume-Uni. En Roumanie, la victoire du candidat Georgescu au premier tour de l’élection présidentielle a mis en évidence la capacité des réseaux sociaux comme TikTok à influencer les résultats des élections.\nMais les ingérences étrangères sont également le résultat de la construction d’algorithmes de recommandation de contenus qui favorisent des sentiments négatifs comme la haine ou la colère. De fait, les résultats des études scientifiques démontrent que les algorithmes des réseaux sociaux amplifient la diffusion de contenus des profils de droite et d’extrême droite parce qu’en suscitant ces émotions négatives, ils augmentent le taux d’engagement des utilisateurs. Ainsi, une étude de l’ONG Global Witness a démontré que l’extrême droite allemande était surreprésentée sur TikTok dans les contenus offerts aux usagers sans affiliation partisane.\nParallèlement, sous prétexte de défendre la liberté d’expression des usagers, les politiques de modération des contenus en ligne ont été largement abandonnées par les principales plateformes. Afin de mieux encadrer l’économie numérique, de réguler l’espace public en ligne et de protéger nos concitoyens, l’Union européenne a instauré il y a deux ans le DMA et le DSA. Cette proposition de résolution européenne vise ainsi à faire appliquer pleinement le cadre normatif européen en matière de plateformes numériques, afin de garantir l’indépendance de la France et de l’Union européenne en matière de choix démocratiques.\nÀ la lumière du cas de la plateforme X et du rôle politique assumé par son propriétaire dans l’administration américaine, elle appelle la Commission européenne à prendre toute décision utile visant à imposer aux propriétaires des plateformes de céder les parts de capital qu’ils détiennent dans celles-ci à un tiers n’étant pas placé en situation de conflit d’intérêts.\nCette proposition de résolution européenne appelle également la Commission à élaborer une stratégie de développement des plateformes et infrastructures numériques souveraines au sein de l’Union.\nChers collègues, nous ne pourrons pas récupérer notre souveraineté en matière numérique et combattre les ingérences étrangères dans notre vie démocratique sans nous attaquer au monopole des grandes plateformes. C’est seulement dans la mesure où nous avancerons vers le développement de plateformes numériques européennes, encadrées par des normes strictes et soumises au contrôle de nos peuples, que nous pourrons avoir la pleine maîtrise de nos données personnelles et l’assurance de l’utilisation d’algorithmes transparents qui ne privilégient pas la maximisation des bénéfices privés au détriment du débat démocratique.\nC’est pourquoi le groupe GDR votera cette proposition de résolution. (Applaudissements sur les bancs des commissions. – MM. Laurent Mazaury et Jacques Oberti applaudissent également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Alexandre Allegret-Pilot."
+        },
+        {
+          "orateur": "M. Alexandre Allegret-Pilot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841067",
+          "texte": "Le texte que nous examinons souligne bien l’importance qu’ont prise les réseaux sociaux dans nos régimes démocratiques. Dans ce contexte, le DSA est un outil qui peut s’avérer utile : face à la profusion de propos outranciers, les plateformes doivent s’imposer une véritable modération de leurs contenus, telle que l’impose le droit européen. Le DSA prévoit aussi que les très grandes plateformes, comme X et TikTok, évaluent les risques que pourraient poser leurs systèmes de recommandation. En ce sens, éclaircir l’impact des grandes plateformes sur notre vie démocratique apparaît bienvenu. Ainsi, les dispositions du texte appelant à une stricte application du DSA et à ce que la Commission européenne fasse usage de ses pouvoirs d’enquête vont dans le bon sens.\nCependant, le texte propose aussi de contraindre les détenteurs de capitaux des plateformes en Europe à céder leurs parts à des personnes qui ne seraient pas, je cite, « placé[es] en situation de conflit d’intérêts », sans préciser les critères de cette obligation, et surtout d’octroyer à la Commission le pouvoir de distinguer arbitrairement qui serait en conflit d’intérêts de qui ne le serait pas.\nIl s’agit d’une proposition disproportionnée et liberticide, qui porterait atteinte au droit fondamental à la propriété privée, dont je rappelle qu’il est protégé par notre Constitution. Cette disposition contrevient aussi au droit primaire européen, en particulier à la charte des droits fondamentaux de l’Union européenne, qui protège la liberté d’entreprise et le droit de propriété. Alors que vous envisagez de protéger la démocratie d’une prétendue ingérence américaine, vous proposez un outil juridique autoritaire, comme si la fin justifiait les moyens.\nEn outre, la proposition est particulièrement lacunaire et témoigne d’un véritable biais idéologique : en effet, quand la droite nationale enregistre des scores inédits, vous préférez dénoncer des ingérences. Plutôt que de reconnaître la victoire culturelle des idées nationales, vous préférez affirmer de manière péremptoire que ces résultats résultent de manipulations. En d’autres termes, là où la gauche perd, elle dénonce les ingérences, appelle à annuler les élections et invite le régulateur européen à destituer les actionnaires des entreprises du numérique. J’aimerais rappeler ici qu’il y a deux semaines, les Polonais ont porté le leader de la droite conservatrice au pouvoir et qu’en septembre dernier, les Autrichiens ont voté largement en faveur des partis de droite libérale, conservatrice et nationale.\nLe texte emploie évidemment une notion d’ingérence à géométrie variable. Vous vous émouvez du soutien de l’administration américaine à certains candidats en Europe, soutenant qu’il s’agit d’une ingérence. En parallèle, vous oubliez sciemment que Barack Obama avait soutenu publiquement Emmanuel Macron en 2017 (Applaudissements sur les bancs du groupe RN)  ; qu’en 2022, à trois jours du second tour, trois chefs d’État européens en fonction, en l’occurrence allemand, espagnol et portugais, avaient même publié une tribune dans Le Monde, appelant à voter contre Marine Le Pen. (« Ben tiens ! » sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "J’aurais fait la même chose !"
+        },
+        {
+          "orateur": "M. Alexandre Allegret-Pilot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841067",
+          "texte": "Enfin, que dire du soutien public et affiché que Jean-Luc Mélenchon a toujours reçu du dictateur vénézuélien Nicolás Maduro et du dictateur bolivien Evo Morales ?"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Là, ça va !"
+        },
+        {
+          "orateur": "M. Alexandre Allegret-Pilot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841067",
+          "texte": "Tel est votre biais idéologique : quand la droite se soutient elle-même, vous parlez d’ingérence. Quand c’est la gauche et l’extrême gauche, vous appelez cela un geste sympathique ou, pire, un pseudo-front républicain ! On commence à être habitué !\nEt vous préférez partir encore en croisade contre l’administration américaine et contester la légitimité du président Donald Trump, pourtant élu avec 2 millions de voix d’avance – j’ai bien dit 2 millions de voix.\nCe texte ne saurait donc obtenir notre soutien, puisqu’il passe à côté de l’essentiel : qu’en est-il des ingérences étrangères qui s’attaquent véritablement à la France et à ses intérêts vitaux ? Pas un mot sur l’Azerbaïdjan qui appelle à la rébellion contre la République dans nos territoires d’outre-mer : à travers les réseaux sociaux, le régime de Bakou a largement contribué à mettre de l’huile sur le feu en Nouvelle-Calédonie, avec un succès inquiétant. Pas un mot non plus sur l’Algérie qui, avec son armée d’influenceurs, menace directement l’ordre public et la sécurité de nos compatriotes : l’influenceur Zazou Youssef a appelé ses 400 000 abonnés sur TikTok à tirer sur les personnes manifestant contre le régime de Tebboune en France, l’influenceur Imadtintin – ou Imad Tintin, comme dirait Hergé – a appelé à brûler, tuer et violer tout individu s’opposant au régime d’Alger en France, et il y en a tant d’autres.\nBien qu’elle contienne des propositions nécessaires à la régulation des plateformes, le caractère liberticide de certaines des dispositions de cette proposition de résolution ainsi que son orientation idéologique la rendent inacceptable. En conséquence, le groupe UDR s’abstiendra. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Robert Le Bourgeois."
+        },
+        {
+          "orateur": "M. Robert Le Bourgeois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841837",
+          "texte": "Quel honneur, après bientôt un an de mandat, d’assister ce soir à cette œuvre de salut public !"
+        },
+        {
+          "orateur": "M. Laurent Lhardit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA840765",
+          "texte": "Ah !"
+        },
+        {
+          "orateur": "M. Robert Le Bourgeois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841837",
+          "texte": "Dans une union presque parfaite, socialistes et écologistes s’attachent ainsi à tenter de faire taire tout ce qui pourrait s’apparenter à une menace sur leur hégémonie culturelle. Et de quelle manière ? Par le biais d’une proposition de résolution européenne, sorte de bouteille à la mer lancée dans un océan d’initiatives sans lendemain. La belle affaire ! Les Français sont victimes d’insécurité, leur pouvoir d’achat est en berne, notre industrie en crise et l’action publique de moins en moins efficace, mais la gauche, elle, s’inquiète de la modération de X, qu’elle a quittée en meute il y a quelques semaines.\nVenons-en au sujet. En commission des affaires économiques, monsieur le rapporteur Lhardit, vous m’avez répondu en citant le président du Rassemblement national. J’aurais espéré qu’en pourfendeur des fake news, vous ne tronqueriez pas la citation. Je vais donc la rétablir ce soir en citant Jordan Bardella : « Jamais la liberté d’expression ne doit être entravée : la controverse est toujours préférable à la censure, et les excès de la liberté aux dérives de l’arbitraire. » Or c’est précisément la pente sur laquelle vous souhaitez nous entraîner : dérives de l’arbitraire quand vous fustigez X qui, avec ses « notes de la communauté », a pourtant intégré un système collaboratif analogue à celui du site Wikipédia que vous chérissez ; dérives de l’arbitraire encore quand vous partez à la chasse aux milliardaires qui mettraient leur argent au service d’une vision politique que vous ne partagez pas, sans condamner d’autres milliardaires qui à gauche, agissent ainsi depuis des années et assument, comme le banquier Matthieu Pigasse,…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Robert Le Bourgeois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841837",
+          "texte": "…d’enrôler dans ce combat les médias qu’ils contrôlent ; dérives de l’arbitraire, enfin, quand vous applaudissez l’annulation dans des conditions troubles d’une élection en Roumanie, sans vous émouvoir de l’ingérence d’élus français dans ce même scrutin, au seul motif que le résultat vous était insupportable ! Aussi, avant que vous ne le censuriez, permettez-moi de citer Georges Bernanos : « Qui ne défend la liberté de penser que pour soi-même est déjà disposé à la trahir. Il ne s’agit pas de savoir si cette liberté rend les hommes heureux ou si même elle les rend moraux. […] Il me suffit qu’elle rende l’homme plus homme. » Voilà bien tout ce qui constitue le caractère stérile de ce texte. En plus de n’avoir qu’une portée symbolique qui, disons-le, ne passera pas les portes de cet hémicycle, il apporte une réponse techno à une donnée incontournable de l’existence humaine : la liberté.\nCe qui vous importe, c’est, primo, d’éviter les ingérences – sur ce point, nous sommes d’accord ; deuzio, d’éviter que les réseaux sociaux puissent être instrumentalisés par les fortunes qui les financent – là aussi, nous sommes d’accord ; tertio, que ces réseaux et leur fonctionnement ne faussent pas l’appréciation de la vérité – nous sommes toujours d’accord. Mais force est d’admettre que trente-cinq alinéas et une foule de rapport cités ne vous auront pas permis d’apporter une seule réponse au problème que vous soulevez. Car l’application effective du DSA, qui a le mérite de s’attaquer aux Gafam, ne changera malheureusement pas la donne : en réalité, au pouvoir d’entreprises étrangères défendant des intérêts particuliers, cette proposition de résolution substitue celui d’une Commission européenne omnipotente qui ne défend ni les peuples ni leurs intérêts. Le risque de votre posture, c’est une surenchère normative qui ne sait qu’encadrer et interdire, et qui finira par annihiler la responsabilité et la liberté des citoyens que vous prétendez défendre.\nLe groupe Rassemblement national en appelle, lui, à un peu plus d’humilité. Les propositions inopérantes et moralisatrices comme celles que nous examinons ce soir sont inutiles."
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Vous ne proposez rien !"
+        },
+        {
+          "orateur": "M. Robert Le Bourgeois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841837",
+          "texte": "En revanche, que l’on se pose la question de l’accès aux réseaux sociaux des plus jeunes, c’est parfaitement légitime. Nous l’avions d’ailleurs évoquée dès 2022, en alertant cependant sur la nécessité de ne pas confier aux Gafam la responsabilité de stocker des données sensibles. À cet égard, que l’on menace X de lui imposer le contrôle d’âge en raison de la diffusion de contenus pornographiques et que l’on s’inquiète de la santé mentale des jeunes ou de la chute du niveau scolaire et du lien que cela peut avoir avec la surexposition aux écrans, c’est aussi parfaitement légitime. Mais reconnaissons que le principe abêtissant du scrolling infini, par exemple, a sans doute fait bien plus de mal à nos jeunes et à nos sociétés que la mise en avant algorithmique du profil d’Elon Musk.\nVous pouvez bien adopter toutes les postures : si, à la fin, les outils que vous voulez encadrer sont mis entre les mains d’individus que l’école n’est plus capable d’instruire, tout cela n’aura servi à rien ! Si vous souhaitez des hommes et des peuples libres, armés face au détournement de la vérité et aux manipulations diverses, employez-vous alors à en faire des hommes et des peuples libres ! Rien d’autre ! Ne gaspillez plus notre temps, le temps du Parlement, à élaborer des déclarations, des directives et des législations qui au mieux seront creuses, au pire liberticides. Vous l’avez compris : le Rassemblement national ne soutiendra pas ce texte. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Stéphane Vojetta."
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Alors ?"
+        },
+        {
+          "orateur": "M. Laurent Lhardit",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA840765",
+          "texte": "On veut savoir !"
+        },
+        {
+          "orateur": "M. Stéphane Vojetta",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721170",
+          "texte": "Les grandes plateformes numériques ont pris une place prépondérante dans nos relations humaines et dans notre rapport au monde. Elles influent sur nos choix de vie et de consommation, et sur nos orientations démocratiques ; elles pèsent sur notre santé mentale et sur celle de nos enfants. Ces plateformes, elles sont californiennes, chinoises ou russes. Jamais la France ni même l’Europe n’ont été capables de faire émerger des solutions alternatives. Pourquoi ? C’est que pour créer un Amazon ou un Facebook européen, il aurait fallu avoir une vision à long terme et y mettre les moyens. Nous y avons échoué collectivement et la régulation des grandes plateformes numériques devient donc essentielle. Car si nous leur avons ouvert en grand les portes de notre continent, nous ne devons pas pour autant leur céder notre libre arbitre, notre souveraineté.\nFace à des mastodontes dont la capitalisation boursière cumulée rivalise avec le PIB de l’Union européenne, c’est à l’échelle de l’Europe que la régulation doit se faire, parce qu’une action concertée est nécessaire pour fixer les règles d’accès à notre marché commun, mais aussi parce que ces plateformes comptent sur le morcellement de la régulation européenne, espérant diviser pour mieux régner. Notre message est simple : les peuples européens votent et leurs élus légifèrent ; l’Europe définit par conséquent les règles du jeu chez elle et il est temps que ces règles s’appliquent. C’est une condition pour préserver nos démocraties, nos valeurs et notre capacité à agir collectivement dans l’espace informationnel, et tout simplement l’utilité de se déplacer pour aller voter.\nMais pour faire appliquer les lois, il faudra nous montrer fermes, et plus encore après avoir entendu Mark Zuckerberg se réjouir de l’élection de Trump en espérant qu’il réduirait la facture des amendes européennes, ou encore le vice-président Vance conditionner le financement de l’Otan par les USA au respect d’une prétendue liberté d’expression. Mais non, monsieur Zuckerberg, en Europe, les règles sont claires, le DSA s’applique et ici, comme dirait l’autre, si tu casses, tu payes. (Exclamations sur les bancs du groupe RN.)\nQuant à vous, monsieur Vance, sachez qu’en Europe, la liberté d’expression, ce n’est pas la liberté de manipuler notre débat public à coups d’algorithmes ni de laisser la Russie s’ingérer dans les élections en y achetant des influenceurs ou des politiciens, que ce soit en Roumanie, en France ou ailleurs. Pour rappel, les abus lors de l’élection roumaine auraient conduit à l’annulation du scrutin en France pour infraction à la loi électorale et à la loi « influenceurs ». Monsieur Vance, la liberté d’expression est réservée aux humains, pas aux bots, pas à ceux qui ambitionnent la subversion de nos démocraties européennes. Pour ce qui est de M. Musk, qui continue à manipuler ses algorithmes mais n’est apparemment plus en odeur de sainteté à la Maison-Blanche, allons au bout des enquêtes et sanctionnons sa plateforme X si celle-ci s’est rendue coupable d’infractions !\nEnfin, au risque de m’éloigner de la question des ingérences, je souligne que la liberté d’expression ne consiste pas à laisser des enfants de 10 ans regarder des doubles pénétrations, des bukkake, des viols ou des égorgements. Chers collègues, si l’usage de ces termes à la tribune de l’Assemblée nationale vous choque, alors imaginez la réaction d’un enfant de 10 ans quand il découvre les images de ces pratiques sur le téléphone d’un camarade de classe. Les drames successifs qui frappent notre nation témoignent de ce délabrement sociétal. Et derrière la corrélation entre l’usage des réseaux sociaux et la dégradation de la santé mentale des jeunes filles, derrière la corrélation entre l’usage des réseaux sociaux et la violence de certains jeunes hommes, il y a sans doute aussi un lien de causalité.\nJ’ai eu il y a quelques jours une conversation avec ma fille qui se plaignait que j’aie réduit son temps d’usage sur Instagram alors qu’elle venait de subir le détournement malveillant d’un contenu qu’elle y avait partagé : ma réponse n’a pas été celle d’un parlementaire, mais celle d’un père un peu démuni, qui tente de lutter avec les moyens du bord. Je lui ai dit : « Pour moi, le fait que tu sois sur les réseaux sociaux, c’est comme savoir que tu jongles avec des couteaux. Je sais que plus tu y passeras de temps, plus tu risqueras de te couper. »\nOui, réfléchissons collectivement à une interdiction des réseaux sociaux avant l’âge de 15 ans, qui est une recommandation de la commission d’experts sur l’impact de l’exposition des jeunes aux écrans. Les plateformes ont la possibilité technique de vérifier l’âge : alors, imposons-leur cette obligation – nous pouvons le faire. Comme le suggérait hier le président de la République, laissons quelques mois à la Commission européenne pour se mobiliser. Sinon, on commencera en France, car on ne peut plus attendre ! Rappelez-vous la loi « influenceurs » : elle avait d’abord suscité une forte résistance de la Commission européenne, mais ses auteurs Arthur Delaporte et moi-même avions résisté, avec le soutien du gouvernement, et permis à ce texte non seulement d’être largement appliqué sur nos réseaux en France, mais aussi d’inspirer nos voisins espagnols, italiens, danois et belges, qui ont imité notre texte. Au point que la Commission européenne a désormais annoncé son intention de répliquer la loi française au niveau de l’Union. Tant mieux.\nDemain, s’agissant de la vérification de l’âge et de l’interdiction des réseaux pour les moins de 15 ans, soyons à nouveau des influenceurs législatifs. Et je le dis au gouvernement : qu’il force l’Europe à agir et nous le soutiendrons. Le groupe EPR votera évidemment ce texte. (Applaudissements sur les bancs des groupes EPR et LIOT. – M. Thierry Sother, suppléant M. Pieyre-Alexandre Anglade, président de la commission des affaires européennes, ainsi que M. Jérémie Iordanoff applaudissent également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Aurélien Saintoul."
+        },
+        {
+          "orateur": "M. Aurélien Saintoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795982",
+          "texte": "Par cette proposition de résolution européenne, notre assemblée s’apprête à exhorter les institutions européennes à mettre en œuvre les règles qu’elles ont elles-mêmes édictées. Ce n’est pas mal, mais enfin, vous conviendrez avec moi que cette démarche a quelque chose de timoré et peut-être même d’un peu dérisoire, qui devrait nous interpeller. Car il s’agit de souveraineté, en l’occurrence de lutte contre les ingérences auxquelles les grandes plateformes ont prêté évidemment leurs concours ces dernières années, à supposer qu’elles ne les aient pas volontairement organisées.\nPour tenter de juguler le phénomène, l’Union européenne a adopté un Digital Services Act, c’est-à-dire un règlement sur les services numériques. À la bonne heure ! Il constitue certes une avancée non négligeable, comme en son temps le RGPD, le règlement général sur la protection des données, dans le domaine de la protection de la vie privée, mais est-ce à dire qu’il n’y aurait plus rien à faire qu’à attendre l’action bienfaisante de l’Union européenne ? Évidemment non ! Confier à Bruxelles le soin de garantir notre souveraineté, c’est un contresens et en réalité un signe d’abandon. Pourquoi attendre des années de procédures pour que peut-être, un jour, les X, les Meta, les Alphabet fassent l’objet d’une sanction dont le montant impressionnera, c’est sûr, mais ne réparera nullement le mal qui aura été fait. Voilà des années qu’on sait que dans le domaine du numérique, bien mal acquis profite toujours et que les acteurs en situation de monopole ou d’oligopole n’ont que faire d’une amende qui vient des années après leur forfait, comme une espèce de confirmation de leur suprématie et de leur irresponsabilité.\nIl faut en réalité assumer que la confrontation avec ces acteurs se passe désormais sur le terrain politique. Ils s’arrogent des prérogatives de la souveraineté, contestent celles des États et celles des peuples, et les milliardaires qui les dirigent utilisent ces prérogatives au service de leur agenda politique et économique, bafouant le principe minimal de la vie démocratique selon lequel un homme égale une voix. La riposte ne peut donc se situer exclusivement sur le terrain de la procédure judiciaire. C’est pourquoi nous vous avions proposé une commission d’enquête sur la dépendance de notre pays aux géants de la tech afin d’en faire défiler les dirigeants devant la représentation nationale et d’obtenir d’eux qu’ils fassent la transparence sur leurs procédures, sur leurs choix et sur leurs algorithmes, en somme sur les ingrédients qui entrent dans la composition des produits qu’ils vendent aux Français, comme doit le faire n’importe quel marchand de soupe, et comme ils se refusent pourtant à le faire, eux.\nIl faut une vision et du courage politique pour mettre ces acteurs dans l’incapacité de nuire, en engageant un rapport de force sérieux et, au besoin, en les démantelant. Vous connaissez tous l’exemple du Brésil, qui a suspendu X au motif que son fonctionnement contrevenait au droit brésilien. Forts de 22 millions d’utilisateurs, M. Musk et ses séides s’imaginaient que l’État brésilien n’assumerait pas sa responsabilité. Or ce dernier l’a fait sans faillir et, en quelques semaines, les dirigeants de X en étaient venus à de meilleurs sentiments. Faut-il donc vraiment redouter d’engager un bras de fer avec des entreprises qui, somme toute, peuvent être remplacées, ne fournissent pas un service d’importance vitale et n’ont pas grande envie de renoncer à un marché de millions d’utilisateurs ? X en a 17,5 millions en France, ce qui est le même ordre de grandeur qu’au Brésil. Espérons que le président Lula ait profité de sa venue pour éclairer la lanterne de son homologue français sur ce sujet. Si tel n’était pas le cas, c’est avec Jean-Luc Mélenchon que nous ferions le travail.\nOutre ce rapport de force, il faut une stratégie globale qui nous sorte de la dépendance aux grands acteurs du numérique. Or, en la matière, rien de sérieux n’a été fait depuis huit ans qu’Emmanuel Macron est à l’Élysée, à part peut-être s’ouvrir en grand aux fonds des Émirats arabes unis, ce qui – vous en conviendrez – n’a rien de très rassurant pour notre indépendance.\nDernièrement, le premier ministre a inventé le conclave social pour éviter d’être censuré. Au lieu de cette supercherie, je lui recommande d’organiser plutôt le conclave numérique dont nous avons besoin : enfermer dans une même pièce les quelques acteurs crédibles du secteur afin de mettre sur pied la stratégie qui fait tant défaut pour développer les infrastructures, les réseaux et les systèmes nécessaires pour traiter l’immense quantité de données que la France génère chaque jour et qu’elle laisse administrer par des acteurs voraces et malveillants. Au lieu de cela, le « startupisme » qui domine induit l’État à arroser le sable des petits acteurs innovants et à laisser démanteler les géants français. Atos, dont la nationalisation partielle est en réalité un abandon global, est le dernier exemple en date de cette tendance.\nPendant des années, on nous a bercés avec la fable selon laquelle Musk, Altman, Zuckerberg ou Thiel ne faisaient pas de politique. Il fallait évidemment être russe ou chinois pour être malveillant. C’était une vaste blague : en réalité, il n’y a pas de gentils dans cette cour de récréation, tous en ont après notre goûter et nous ferions bien de ne pas trop compter sur l’Union européenne pour nous sauver. Une France qui marche ira toujours plus loin qu’une Europe qui lambine. (Mme Sophie Taillé-Polian applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La discussion générale est close.\nSur la proposition de résolution, je suis saisie par le groupe Horizons & indépendants et par la commission des affaires économiques d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Jérémie Iordanoff, au nom de la commission des affaires européennes."
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Je remercie l’ensemble des orateurs qui ont pris la peine d’étudier le sujet et d’émettre des arguments de fond. Notre discussion a été utile, car elle a permis de voir en un regard qui sont les patriotes en carton-pâte, ceux qui soutiennent Elon Musk, Donald Trump et Vladimir Poutine, et qui se préoccupe de l’intérêt des Français, de la démocratie en Europe et de la souveraineté de ses peuples."
+        },
+        {
+          "orateur": "M. Robert Le Bourgeois",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841837",
+          "texte": "Dans tes rêves !"
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Je veux répondre à des questions techniques qui ont été soulevées. Les alinéas de la proposition de résolution évoquant l’obligation qui pourrait être faite aux plateformes de céder une part de leur capital ont été attaqués. Or, dans certaines situations de récidive, le DMA prévoit une telle disposition. Nous sommes très soucieux de ne pas déroger au droit européen, mais ce mécanisme y existe. Il permet la vente d’unités, d’actifs, de droits de propriété intellectuelle ou de marques. La proposition n’est donc pas farfelue. Le DSA aussi permet d’engager un rapport de force avec les plateformes qui ne respecteraient pas leurs obligations.\nD’autre part, contrairement à ce qu’a déclaré Mme Corneloup, la proposition de résolution vise toutes les plateformes sans cibler l’une plus qu’une autre. Toutefois, X présente une particularité : son propriétaire s’en sert pour diffuser une idéologie. Sur les plateformes qui appartiennent à Meta ou sur TikTok, ce sont des acteurs extérieurs qui utilisent les algorithmes pour diffuser leurs idées. Les choses sont différentes quand c’est le propriétaire d’une plateforme qui fait de même et quand, de plus, il est lié à un pouvoir politique. En l’occurrence, c’est avec Donald Trump, mais la situation serait la même si c’était avec Vladimir Poutine ou un autre dirigeant. Dans ce cas, le risque est qu’un État tiers vienne interférer dans une discussion nationale ou européenne, ce qui rendrait pertinente la solution de la cession des activités. Cette solution signifie non que l’Union européenne achète l’entreprise ou exproprie son propriétaire, mais qu’elle oblige l’opérateur à trouver un repreneur. C’est quelque chose de tout à fait raisonnable, qui existe dans le droit commercial.\nJ’espère que la discussion ne s’arrêtera pas ce soir et aux portes de l’hémicycle, que le débat débordera, qu’il aura lieu dans d’autres pays. Nous devons avancer à l’échelle française et à l’échelle européenne. J’espère, monsieur Petit, que nous n’attendrons pas quatre siècles pour agir car, dans quatre siècles, il sera trop tard. (Applaudissements sur les bancs des groupes SOC, EcoS et LIOT.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Thierry Sother, suppléant M.Pieyre-Alexandre Anglade, président de la commission des affaires européennes."
+        },
+        {
+          "orateur": "M. Thierry Sother",
+          "fonction": "suppléant M. Pieyre-Alexandre Anglade, président de la commission des affaires européennes",
+          "role": null,
+          "idActeur": "PA841681",
+          "texte": "Je veux remercier mes collègues pour le débat que nous venons d’avoir. Je partage pleinement les propos de M. le rapporteur Iordanoff sur la question essentielle de la cession des parts. Ce soir, il a été question des débuts de l’imprimerie, mais il n’est pas forcément utile de remonter si loin. En 1986, nos prédécesseurs ont mis un garde-fou dans la loi relative à la liberté de la communication. Ainsi, le capital d’une chaîne de télévision française ne peut être détenu à plus de 20 % par un propriétaire étranger. Des mesures de cet ordre sont à étudier au niveau européen. C’est le sens de la proposition de résolution, qui appelle la Commission européenne à intégrer une possible cession des parts dans une évolution prochaine du DSA.\nLe problème n’est pas que tel ou tel soutienne une formation politique ou un candidat."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "C’était pourtant le fil rouge de votre discours !"
+        },
+        {
+          "orateur": "M. Thierry Sother",
+          "fonction": "suppléant M. Pieyre-Alexandre Anglade, président de la commission des affaires européennes",
+          "role": null,
+          "idActeur": "PA841681",
+          "texte": "Le problème commence quand une personne suivie par 220 millions d’autres sur une plateforme peut choisir sciemment de mettre en avant telle ou telle information sans que le processus soit transparent et sans que les destinataires en aient conscience. L’utilisateur d’une plateforme a un ami invisible, l’algorithme, derrière lequel il ne sait pas qui se trouve. Il ignore qui choisit l’information qu’il voit. Là est le problème qu’il nous faudra régler. Les Européens doivent pouvoir prendre leurs décisions seuls. Notre devoir de parlementaires est d’empêcher qu’un prochain scrutin, en Europe voire en France, fasse l’objet d’une déstabilisation. Nous ne pouvons le permettre. (Applaudissements sur les bancs des groupes SOC, EcoS et LIOT ainsi que sur quelques bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3788461",
+      "valeurPtsOdj": "1",
+      "titre": "Vote sur l’article unique",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’article unique de la proposition de résolution."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        60\n        Nombre de suffrages exprimés                44\n        Majorité absolue                        23\n                Pour l’adoption                41\n                Contre                3"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article unique est adopté, ainsi que l’ensemble de la proposition de résolution.)\n (Applaudissements sur les bancs des groupes EPR, SOC, EcoS et LIOT.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3788467",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Débat sur le bilan de la mise en œuvre de la politique nationale relative aux droits des personnes handicapées.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-deux heures cinquante-cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

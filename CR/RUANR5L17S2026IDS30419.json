@@ -1,0 +1,3301 @@
+{
+  "uid": "CRSANR5L17S2026O1N186",
+  "seanceRef": "RUANR5L17S2026IDS30419",
+  "sessionRef": "SCR5A2026O1",
+  "date": "2026-03-30",
+  "dateLisible": "lundi 30 mars 2026",
+  "session": "Session ordinaire 2025 -2026",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4048213",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’un projet de loi",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "L’ordre du jour appelle la discussion du projet de loi relatif à la lutte contre les fraudes sociales et fiscales (nos 2115, 2250 rectifié)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048215",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Cet après-midi, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant à l’article 9  bis."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048217",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 bis",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur l’amendement no 561, je suis saisie par les groupes Ensemble pour la République et La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nL’amendement no 561, tendant à supprimer l’article 9  bis, de Mme Mathilde Feld est défendu.\nLa parole est à M. Daniel Labaronne, rapporteur pour avis de la commission des finances, de l’économie générale et du contrôle budgétaire, à laquelle la commission des affaires sociales a délégué l’examen des articles 1er, 1er  bis, 3 à 3  ter, 9, 9  bis, 14, 15, 18 à 20  quater et 23 à 23  ter, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je suis défavorable à l’amendement, pour les raisons que j’ai déjà développées en commission."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre de l’action et des comptes publics, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre de l’action et des comptes publics",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 561."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        29\n        Nombre de suffrages exprimés                29\n        Majorité absolue                        15\n                Pour l’adoption                8\n                Contre                21"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 561 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9  bis est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur les amendements nos 647, 93 et identique suivant, je suis saisie par le groupe La France insoumise-Nouveau Front populaire de demandes de scrutins publics.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048230",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 9 bis",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Nous en venons à des amendements portant article additionnel après l’article 9  bis.\nLa parole est à M. Laurent Baumel, pour soutenir l’amendement no 107, qui fait l’objet des sous-amendements nos 1127 et 1128."
+        },
+        {
+          "orateur": "M. Laurent Baumel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606793",
+          "texte": "Cet amendement, déposé par notre collègue Pirès Beaune, vise à rendre obligatoire la création d’un registre recensant les œuvres d’art, objets de collection et antiquités dès lors que leur valeur excède 50 000 euros. Cette mesure participerait à la lutte contre certaines formes de fraude fiscale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Mathilde Feld, pour soutenir le sous-amendement no 1127."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Nous sommes évidemment favorables à la création d’un tel registre. Cette mesure, qui va dans le bon sens, permettrait à l’administration d’obtenir une meilleure information sur le patrimoine des personnes et d’appliquer enfin une taxation au plus proche de la réalité.\nComme la création du registre pourrait procurer un surcroît de travail à la DGFIP – direction générale des finances publiques –, nous en profitons pour souligner la nécessité d’augmenter ses moyens.\nLe sous-amendement no 1127 tend à abaisser de 50 000 à 18 600 euros le seuil au-delà duquel la déclaration des œuvres d’art, objets de collection et antiquités serait obligatoire. Ce montant correspond au seuil de pauvreté : on peut justifier de le retenir en raison de sa valeur symbolique."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048237",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Théo Bernhardt, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Il se fonde sur l’article 44 de la Constitution. Il semblerait que plusieurs sous-amendements aient été déposés depuis la reprise de nos débats et je souhaite savoir si le gouvernement compte les laisser dans la discussion, sachant que certains semblent être inspirés par une volonté d’obstruction."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "texte": "C’est un droit des parlementaires !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048241",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 9 bis (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard, pour soutenir le sous-amendement no 1128, à l’amendement no 107."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Nous déposons des sous-amendements, qui, comme celui que je m’apprête à défendre, sont des amendements de fond."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Je n’ai pas dit que tous vos sous-amendements contribuaient à l’obstruction des débats."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Comprenez notre solitude dans ce débat : nous sommes seuls à défendre des amendements et à donner un certain nombre d’arguments.\nSi je suis content que vous ayez vu la lumière, je vous invite à présent à assumer vos votes et à essayer de prendre part à la discussion."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Oh ! Un peu de respect !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Deux nouveaux éléments viennent d’entrer en compte dans nos débats. D’abord, une nouvelle fuite de données, cette fois-ci du ministère de l’intérieur – une administration censée être protégée. Elle fait écho à nos débats précédents, lors desquels nous expliquions qu’un transfert de données entre administrations pourrait occasionner des fuites massives.\nEnsuite, je viens de voir une communication du premier ministre, Sébastien Lecornu, qui nous annonce que le projet de loi relatif à la lutte contre les fraudes sociales et fiscales rapportera 1,5 milliard d’euros.\nPuisque le ministre des comptes publics est au banc du gouvernement, peut-il détailler le calcul de ce chiffre, qui nous paraît assez peu réaliste ? Deux semaines de débats pour 1,5 milliard d’euros ? Laissez-moi deux secondes de débats sur la taxe sur les superprofits, vous verrez comme je suis capable de faire rentrer des sous !\nNous nous intéressons à présent aux œuvres d’art, qui permettent souvent de cacher de l’argent. Il nous semble important de tenir un registre national de celles dont la valeur dépasse un certain montant : les socialistes proposent 50 000 euros, un seuil de 18 600 euros a été défendu à l’instant et le sous-amendement no 1128 tend à le fixer à 30 000 euros.\nIl y a à boire et à manger et nos propositions de paliers ont toutes un aspect symbolique. Je serai heureux d’entendre la contribution de celles et ceux qui nous accusent d’obstruction : ces sous-amendements de fond feront peut-être alors l’objet d’un débat de fond !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission, sur l’amendement et ses deux sous-amendements ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Comme j’étais contre l’amendement no 107 de Mme Pirès Beaune qui fixait à 50 000 euros la valeur au-delà de laquelle une œuvre d’art, un objet de collection ou une antiquité devait être inscrit dans le registre mentionné, je suis contre les sous-amendements qui tendent à la fixer à 18 600 euros et 30 000 euros."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Même avis, pour les mêmes raisons.\nJe rappelle à M. Boyard que nous avons déjà augmenté de 3 milliards d’euros les montants recouvrés en matière de fraude fiscale ces dernières années. L’objectif d’un recouvrement supplémentaire de 1,5 milliard – soit une augmentation de 10 % – me semble tout à fait raisonnable.\nLes outils législatifs ici proposés permettront, en plus des moyens déployés par la DGFIP et l’Urssaf, de renforcer notre arsenal de lutte contre la fraude, ce qui est bon pour la justice et pour les comptes publics."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Sans aller jusqu’au rappel au règlement, je mentionnerai l’article 80-1-1 du règlement de l’Assemblée nationale, relatif aux conflits d’intérêts. Si des députés sont propriétaires d’œuvres d’art de plus de 50 000 euros, ce qui n’est pas le cas de ceux de mon groupe, il serait peut-être sage de leur part de ne pas participer au scrutin – à moins qu’ils soient favorables à la mesure que nous défendons ?\nAdmettons, monsieur le ministre, que le projet de loi permette de récupérer 1,5 milliard d’euros et provoque une augmentation de 10 % du recouvrement. Mais, nous sommes bien d’accord, c’est vraiment un chiffre donné à la louche… Vous n’êtes pas en mesure de préciser le rendement de chacune des mesures du projet de loi. Si c’est seulement de la com’, peut-on au moins savoir combien vous avez payé McKinsey pour nous donner ce chiffre ? Et puis, franchement, même de ce point de vue, c’est mauvais : deux semaines de débats pour faire entrer 1,5 milliard dans les caisses, ça me paraît peu pour une si longue discussion. Et si l’on compte les futures fuites de données qui coûteront de l’argent à l’État, ça ne me paraît même pas rentable !\nEn tout cas, on ne comprend toujours pas pourquoi vous vous opposez à l’inscription des œuvres d’art dans un tel registre. Elles permettent un certain nombre de fraudes, pour des montants bien plus importants que les fraudes au RSA !\nOn ne parle même pas de sanction pour l’instant – on y viendra plus tard, si on en a l’occasion : il s’agit simplement à ce stade de tenir un registre, pour faciliter les contrôles et éviter les fraudes.\nJe ne comprends pas comment on peut s’acharner pendant deux semaines sur ceux qui touchent les aides personnelles au logement (APL) ou le RSA et refuser de créer un registre des œuvres d’art dont la valeur dépasse 50 000 euros. On aimerait au moins entendre des arguments !\nQuant au montant de 1,5 milliard d’euros, lancé par le premier ministre, on aimerait obtenir son chiffrage détaillé – au moins des éléments sérieux, sur lesquels débattre."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Marie-Christine Dalloz."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Je suis franchement surprise des propos de notre collègue de La France insoumise. Stigmatiser tous les députés de la République française, hormis ceux de son propre groupe, je trouve cela assez inadmissible, inapproprié et scandaleux.\nVous voulez tenir un registre des œuvres d’art. Et pourquoi pas savoir si elles ont été héritées, si elles ont été achetées, dans quelles conditions et où ?"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Votre délire et votre sous-amendement vous amènent même à faire le lien entre la notion d’œuvre d’art et le seuil de pauvreté. C’est peut-être votre rêve que tout le monde soit au seuil de pauvreté, mais ce n’est pas le mien et ce n’est pas celui de la grande majorité des députés ici présents."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Alors, partagez les richesses !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "Voilà notre différence ! De grâce, cessons de créer des registres de toutes sortes !\nJe vous rassure, je n’ai aucun conflit d’intérêts à prévenir, car je ne possède pas d’œuvres d’art. Mais, admettez que des personnes puissent en avoir : laissez cette liberté à tout un chacun !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Vous êtes une œuvre d’art à vous seule, madame Dalloz !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je souhaite préciser pourquoi je ne suis pas favorable à l’amendement no 107. D’abord, parce qu’il tend à faire reposer sur ceux qui détiennent les œuvres d’art l’exercice d’évaluation de leur valeur. Or ils ne sont pas forcément experts dans ce domaine – ils ont parfois hérité des œuvres en question.\nEn outre, la cotation des œuvres peut évoluer à la hausse ou à la baisse. Il ne semble pas très réaliste de demander aux particuliers d’effectuer cette évaluation et de la communiquer pour la constitution d’un registre.\nC’est au moment où l’œuvre d’art est vendue qu’on connaît sa valeur : elle entre sur un marché et un prix lui est associé. Or il se trouve que les professionnels du secteur de l’art doivent tenir un livre de police, dans lequel sont consignées toutes les transactions de plus de 10 000 euros, afin de lutter contre le blanchiment d’argent et le financement du terrorisme.\nS’il faut renforcer la lutte contre le blanchiment, passons plutôt par le dispositif existant au lieu de créer un nouveau fichier, redondant, mal coordonné et trop large pour être efficace, surtout si les œuvres d’art qui y sont inscrites ont été évaluées par des personnes qui n’ont pas la compétence pour le faire.\nJ’ajoute que l’amendement no 107 et les sous-amendements concernent aussi des biens comme les métaux précieux et les bijoux, qui font déjà l’objet d’obligations fortes de déclaration. Pour être certain de sa fiabilité, le dispositif proposé exigerait une bonne articulation avec les informations que détient l’administration fiscale."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les sous-amendements nos 1127 et 1128, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 107."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        63\n        Nombre de suffrages exprimés                40\n        Majorité absolue                        21\n                Pour l’adoption                19\n                Contre                21"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 107 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur l’amendement no 92, je suis saisie par le groupe Socialistes et apparentés d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Mathilde Feld, pour soutenir l’amendement no 647."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Il va être compliqué de débattre ce soir, les premiers amendements nous offrant déjà un condensé hallucinant de la lutte des classes à l’œuvre dans cet hémicycle. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Il est effrayant de constater les précautions que vous prenez à l’égard de détenteurs d’œuvres d’art de plus de 50 000 euros, tout cela parce que nous voudrions les obliger – les pauvres ! – à répertorier ces œuvres dans un registre. Il est vrai que lorsque l’on possède des biens d’une telle valeur, on connaît rarement leur prix car, bien entendu, on ne s’est jamais renseigné… (Sourires sur plusieurs bancs du groupe LFI-NFP.)\nIl est assez hallucinant de comparer ce que vous exigez des bénéficiaires de prestations sociales et ce que vous refusez de demander à des gens qui possèdent des œuvres d’art de plus de 50 000 euros ! (Applaudissements sur les bancs des groupes LFI-NFP et EcoS.) Et cela ne fait que commencer, car il y a toute une série d’amendements de ce type, qui illustrent cette volonté de protéger les riches de ce monde. C’est effrayant, presque caricatural ! (Exclamations sur quelques bancs du groupe RN.)\nLe présent amendement, en faveur duquel vous ne voterez certainement pas, comme d’habitude, prévoit d’abaisser le seuil entraînant l’obligation de reporting pays par pays à 250 millions d’euros de chiffre d’affaires, contre 750 millions actuellement. Ce dernier seuil particulièrement élevé prive l’administration fiscale d’informations relatives à l’activité de nombreuses entreprises de taille intermédiaire (ETI) opérant dans plusieurs pays, bien que celles-ci soient tout aussi susceptibles de recourir à des stratagèmes d’évasion fiscale que les grands groupes.\nAvec un seuil abaissé à 250 millions d’euros, à partir duquel d’autres obligations européennes s’imposent aux entreprises, nous pourrions couvrir 90 % des profits présentant un risque de transfert artificiel, tout en alignant la France sur les meilleures pratiques européennes. Outre une lutte plus efficace contre l’évasion fiscale, cette mesure permettra la collecte, l’archivage et la centralisation des données, facilitant le travail de l’administration fiscale pour identifier les pratiques d’optimisation fiscale les plus agressives et conseiller le législateur quant aux modifications légales envisageables afin d’y mettre un terme."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Excellent amendement !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Il convient de resituer ce dispositif dans son cadre européen et international.\nSur le plan européen, l’article que vous souhaitez modifier est issu de la transposition de la directive, dite DAC 4, relative à l’échange automatique et obligatoire d’informations dans le domaine fiscal.\nSur le plan international, il transpose le standard minimum de l’action 13 du projet BEPS – érosion de la base d’imposition et transfert des bénéfices – de l’OCDE, à savoir le reporting pays par pays.\nLa directive européenne retient le montant de 750 millions d’euros et exclut explicitement de l’obligation de reporting pays par pays les groupes dont le chiffre d’affaires est inférieur à ce seuil – que vous proposez d’abaisser à 250 millions. La disposition proposée serait donc contraire au droit européen ; on ne voit pas très bien pourquoi elle ne s’appliquerait qu’en France aux entreprises françaises.\nPourquoi ce seuil, issu de négociations internationales au niveau du G20 et de l’OCDE, a-t-il été fixé à 750 millions d’euros ? Parce qu’il permet de concentrer le dispositif sur les multinationales capables de présenter les données requises, qui représentent les plus gros enjeux – là où les recouvrements seraient les plus rentables.\nPour toutes ces raisons, je suis défavorable à l’amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Monsieur le rapporteur, vous ne pouvez pas nous empêcher de souligner un « deux poids, deux mesures ».\nPlusieurs dispositions de ce texte nous semblent incompatibles avec la Constitution, mais cela n’a pas empêché des députés du bloc central de les voter ; en revanche, dès qu’il s’agit du droit européen, vous estimez qu’aucun écart n’est possible et que notre proposition ne serait pas applicable. Pourquoi ? Je ne comprends pas.\nJe m’interroge aussi, à titre personnel, sur la différence entre un seuil fixé à 750 millions ou à 250 millions d’euros. Pourquoi ne pourrions-nous pas abaisser ce seuil ? Ne sommes-nous pas maîtres et souverains dans notre pays, représentants d’un peuple français capable de tracer sa destinée ? Nous pourrions donc jouer un peu sur un rapport de force.\nVous justifiez le seuil de 750 millions par la nécessité de se concentrer sur les multinationales. J’ai bien compris qu’une entreprise générant 250 millions de chiffre d’affaires ne représentait pas grand-chose à vos yeux. Pourtant, lorsqu’il s’agit des bénéficiaires de prestations sociales, notamment les personnes en situation de handicap, vous soutenez que chaque euro compte et qu’il s’agit d’une question de morale et de justice !\nReconnaissez le « deux poids, deux mesures » : lorsqu’il s’agit de frapper les plus précaires, la Constitution n’est plus un sujet et il faut aller chercher le moindre euro ; mais lorsqu’il s’agit de défendre les plus riches, vous invoquez le respect du droit européen et il est hors de question de s’intéresser aux entreprises dont le chiffre d’affaires est situé entre 250 et 750 millions d’euros, il faut se concentrer sur les multinationales ! Voilà pourquoi nous parlons de lutte des classes. Ce texte est pétri de mépris de classe : il s’attaque aux plus précaires et défend les intérêts des plus riches. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 647."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "On est pour ; les riches sont contre !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        68\n        Nombre de suffrages exprimés                68\n        Majorité absolue                        35\n                Pour l’adoption                25\n                Contre                43"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 647 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048873",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Laurent Baumel, pour soutenir l’amendement no 92."
+        },
+        {
+          "orateur": "M. Laurent Baumel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606793",
+          "texte": "Il s’agit d’un amendement modeste, nos propositions plus ambitieuses – visant par exemple à donner des moyens réels à l’unité de renseignement fiscal ou à lutter contre la fraude à la résidence principale – ayant été, étrangement, jugées irrecevables.\nLe présent amendement propose d’instaurer une obligation de déclaration relative à certaines opérations menées par les prestataires de conseil en matière fiscale. Il s’agit de rendre obligatoire la transmission à l’administration des schémas commercialisés, dès lors qu’ils permettent une économie d’impôt sur les bénéfices d’au moins 1 million d’euros ou qu’ils concernent des transactions avec des entités situées dans un État non coopératif ou soumis à un régime fiscal privilégié."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je n’ai aucun désaccord sur le fond avec cette proposition mais, après consultation des services fiscaux, il apparaît qu’elle est déjà satisfaite. La directive, dite DAC 6, du 25 mai 2018, transposée par l’ordonnance du 21 octobre 2019, oblige en effet les personnes fournissant des services fiscaux à déclarer des dispositifs transfrontières potentiellement agressifs sur le plan fiscal.\nPour déterminer le caractère agressif d’un dispositif, on utilise des marqueurs qui déclenchent l’obligation déclarative, parmi lesquels figurent précisément les transactions avec des entités situées dans les États et territoires non coopératifs (ETNC).\nVotre dispositif n’apporterait donc pas d’information supplémentaire à l’administration fiscale. Un amendement similaire avait déjà été déposé au Sénat par le groupe Socialiste, Écologiste et Républicain, avant d’être retiré pour les raisons que je viens d’exposer. Je vous invite à retirer le vôtre ; à défaut, j’y serai défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 92."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        77\n        Nombre de suffrages exprimés                77\n        Majorité absolue                        39\n                Pour l’adoption                27\n                Contre                50"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 92 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048884",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je suis saisie de deux amendements identiques, nos 93 et 649.\n La parole est à M. Laurent Baumel, pour soutenir l’amendement no 93."
+        },
+        {
+          "orateur": "M. Laurent Baumel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606793",
+          "texte": "Il vise à rendre obligatoire la transmission des informations relatives aux prix de transfert – les documents existent déjà mais ils ne sont actuellement que mis à disposition de l’administration.\nJe ne sais pas si nos débats caractérisent une lutte des classes. En revanche, je ressens profondément qu’ils constituent une occasion manquée. Nous aurions pu aboutir à un compromis républicain traduisant le sérieux d’une lutte menée par la représentation nationale contre la fraude dans son ensemble. Or il devient d’heure en heure de plus en plus évident que la lutte contre la fraude fiscale n’est qu’un faux nez, un prétexte servant à justifier un texte qui cible uniquement les plus pauvres et les plus précaires. C’est tout à fait regrettable. Ce projet de loi restera comme un grand rendez-vous manqué de cette législature. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Bravo !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048888",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Mathilde Feld, pour soutenir l’amendement no 649."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Je souscris aux propos de mon collègue, même si le rendez-vous dont il parle n’est certainement pas manqué pour tout le monde – ceux qui sont concernés se reconnaîtront.\nCet amendement identique vise également à créer un cadre dynamique de transmission des prix de transfert pratiqués par les grandes entreprises afin de remplacer le dispositif actuel, fondé sur le principe passif de la « mise à disposition », qui rend les contrôles de l’administration fiscale particulièrement difficiles ; c’est donc un amendement de bon sens destiné à faciliter sa tâche.\nPour lutter contre un système qui grève le financement des services publics et permet à des entreprises rentables de procéder à des licenciements de masse – lesquels n’ont d’autre justification que l’avidité de leurs actionnaires –, nous proposons de renverser la logique : au lieu que les grandes entreprises soient obligées de consigner les prix de transfert pratiqués et les méthodes de calcul employées au cas où l’administration les leur demanderait, obligeons-les à transmettre ces informations de manière active, chaque année. J’ajoute que cette tâche serait pour elles instantanée, dans la mesure où elles disposent déjà des données en question.\nAprès réception, l’administration fiscale serait en mesure de les analyser, éventuellement grâce à des outils de détection automatique d’anomalies, afin d’identifier les cas dans lesquels un échange entre l’administration et l’entreprise, ou un contrôle fiscal, semble pertinent.\nEn outre, recevoir directement ces informations faciliterait leur archivage. La base de données ainsi alimentée permettrait à l’administration de vérifier la cohérence des prix de transfert à l’aune des exercices réalisées chaque année par les entreprises d’un même secteur. Je rappelle que le principal frein à la lutte contre l’évasion fiscale réside dans la pauvreté des données disponibles ; ces amendements permettraient, enfin, d’y remédier."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission sur les amendements identiques ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Ils ont été retirés au Sénat par le groupe Socialiste, Écologiste et Républicain, mais aussi rejetés par la commission des finances de l’Assemblée.\nSelon la DGFIP, ils auraient des effets de bord très indésirables, sans gain réel.\nAujourd’hui, les entreprises dont le chiffre d’affaires est supérieur à 15 millions d’euros doivent tenir à disposition de l’administration la documentation justifiant leur politique de prix de transfert ; la DGFIP y a donc accès dès qu’elle en a besoin.\nCes amendements posent un autre problème car ils tendent à supprimer les amendes prévues par le système actuel en cas de non-réponse à une demande de transmission d’informations."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je suis entièrement d’accord avec ce que vient de dire Daniel Labaronne. Franchement, ces amendements, c’est du pinaillage. (Mme Mathilde Feld s’exclame.) J’avais un doute en vous entendant défendre votre amendement et je suis allé vérifier sur Légifrance. La loi est très claire : les entreprises doivent tenir ces informations à la disposition de l’administration fiscale. Quand le fisc a un doute sur les pratiques d’une entreprise ou d’un groupe d’entreprises qui seraient contraires à la législation – et relèveraient de la fraude fiscale –, les autorités peuvent aller vérifier et les entreprises concernées sont tenues de transmettre les données demandées.\nJe crains qu’avec vos amendements, nous inondions l’administration fiscale d’informations qui ne seront pas nécessairement utiles. Cela risque de submerger les contrôleurs, alors qu’ils savent où enquêter et quelles entreprises sont susceptibles d’adopter des pratiques à la limite de la légalité, sinon illégales. La loi est très bien faite ; il convient de ne pas la modifier et donc de rejeter ces amendements."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Monsieur Sitzenstuhl, il est vrai que vous n’étiez pas présent lors des débats précédents, mais il est assez cocasse de vous entendre parler de pinaillage. Pinailler, c’est pourtant bien ce que font ce texte et ceux qui le défendent depuis le début de son examen ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je ne parlais que de cet amendement !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Vous êtes tous d’accord pour pinailler lorsqu’il s’agit de ceux qui perçoivent des prestations sociales : là, pour vous, cela ne fait aucun pli ! (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Christine Arrighi applaudit également.)\nLes arguments que vous développez n’ont aucun sens. Cet amendement tente précisément d’inverser la logique : non plus se contenter que les informations soient tenues à la disposition de l’administration, comme vous le dites, c’est-à-dire que les contrôleurs soient obligés de les demander, mais exiger qu’elles soient automatiquement transmises à l’autorité fiscale.\nJe le disais, cela permettra de les archiver – les prix de transferts représentant une source d’information de premier ordre sur l’optimisation et l’évasion fiscales, sur lesquelles nous disposons de très peu de renseignements.\nVous affirmez que les contrôleurs fiscaux connaissent les entreprises qui ont des pratiques douteuses…"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Oui, quand même !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Mais s’ils savaient cela, monsieur Sitzenstuhl, il n’y aurait plus d’évasion fiscale ! Ce que vous dites n’a aucun sens."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Ils savent où regarder !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Je maintiens mon amendement et j’imagine que notre collègue Baumel fera de même. En effet, ce serait un progrès pour l’administration fiscale de ne plus être obligée d’aller chercher l’information mais de la recevoir systématiquement.\nEn ce qui concerne l’amende que vous évoquez, monsieur Labaronne, vos arguments ne tiennent pas puisqu’elle n’aura plus lieu d’être : l’entreprise ne pourra plus refuser de répondre à la requête de l’administration fiscale, puisqu’elle aura déjà dû transmettre ces informations chaque année."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Et si elle ne le fait pas ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix les amendements identiques nos 93 et 649."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        82\n        Nombre de suffrages exprimés                82\n        Majorité absolue                        42\n                Pour l’adoption                32\n                Contre                50"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 93 et 649 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049176",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 ter",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis, pour soutenir l’amendement no 484 rectifié."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Il s’agit d’un amendement rédactionnel qui vise à assurer l’application du dispositif aux territoires d’outre-mer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Le premier ministre a annoncé que ce projet de loi relatif à la lutte contre les fraudes sociales et fiscales, auquel nous consacrons deux semaines de débats, devrait permettre de recouvrer 1,5 milliard d’euros. Si on compare ce montant au budget de l’État, c’est comme si un travailleur payé au smic passait deux semaines à trouver comment colmater une fuite de 2 euros. Voilà ce que nous sommes en train de faire, alors que le prix de l’essence augmente.\nMais je souhaite vous interroger, monsieur le ministre des comptes publics : parmi ces 1,5 milliard, combien seront récupérés sur la fraude sociale, et combien sur la fraude fiscale ? Êtes-vous capable de nous dire si le produit de ce texte reposera autant sur la fraude sociale que sur la fraude fiscale, ou davantage sur l’une que sur l’autre ? Pouvez-vous nous donner des chiffres ? Quitte à perdre deux semaines pour chercher une pièce de 2 euros, j’aimerais bien savoir si on la prend au bourgeois ou au précaire ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Il n’a pas tort, on voudrait savoir !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "On la prend aux fraudeurs !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 484 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        82\n        Nombre de suffrages exprimés                57\n        Majorité absolue                        29\n                Pour l’adoption                27\n                Contre                30"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 484 rectifié n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur l’amendement no 91, je suis saisie par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. le rapporteur pour avis, pour soutenir l’amendement no 651."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Chers collègues, vous venez de rejeter un amendement rédactionnel qui visait à appliquer le dispositif aux territoires d’outre-mer !"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Vous n’aviez qu’à répondre aux questions !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il faudra faire une seconde délibération !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Le présent amendement tend à ajouter un renvoi au code de procédure pénale, afin de préciser la procédure de réquisition de données de connexion que pourront effectuer les enquêteurs de l’Autorité des marchés financiers (AMF). En effet, nous avons introduit en commission un dispositif qui, en modifiant le code monétaire et financier, habilite certains enquêteurs de l’AMF à intervenir dans certaines enquêtes pénales. Cependant, comme ils agiront alors dans un cadre judiciaire et non plus administratif, il faut que leurs réquisitions respectent les conditions et les formes du code de procédure pénale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Preuve de la période de crise que nous traversons, les amendements rédactionnels du rapporteur sont rejetés : c’est tout de même peu habituel ! Mais si nous en sommes là, c’est parce que l’hémicycle est en pleine incompréhension. Pourquoi passer deux semaines à chercher une pièce de 2 euros ? Surtout, le ministre des comptes publics ne donne aucune réponse quand on l’interroge sur le produit attendu des dispositions du projet de loi pour chaque type de fraude ! Vous, monsieur le rapporteur, êtes-vous capable de nous dire combien ce texte rapportera en matière de fraude fiscale ?"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "texte": "C’est de l’obstruction !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Cela fait deux semaines que nous examinons un texte dont on ne sait même pas ce qu’il rapportera ! Ce serait pourtant utile de le savoir, pour éclairer les débats.\nEncore une fois, je m’étonne que le ministre des comptes publics ne soit pas capable de répondre à cette question. Mais peut-être était-il trop occupé à écrire des courriers inutiles à Bally Bagayoko ! (Mme Mathilde Panot applaudit. – Exclamations sur quelques bancs du groupe RN.) La petite polémique a l’air de vous intéresser davantage que les débats de l’hémicycle : ce n’est pas à la hauteur, monsieur le ministre !\nQuelle est la part de la fraude sociale et de la fraude fiscale dans le 1,5 milliard que vous espérez récupérer ? Nous aimerions connaître ce chiffre, même si, en proportion, cela ne représente guère plus qu’une pièce de 2 euros. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Oui, on veut savoir !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Monsieur Boyard, si nous passons plus de deux semaines sur ce texte, c’est d’abord du fait de l’obstruction que vous pratiquez depuis le début de la discussion ! (Exclamations sur les bancs du groupe LFI-NFP. – Mme Marie-Christine Dalloz et M. Théo Bernhardt applaudissent.)"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Nous aurions pu achever son examen avant la suspension des travaux parlementaires, si les prises de parole dilatoires de votre part ne s’étaient pas multipliées."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Vous vouliez bâcler l’examen du texte !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Ensuite, monsieur Boyard, je m’étonne que vous accréditiez les discours populistes qui considèrent que la fraude sociale se résume à celle des plus précaires. Tous les chiffres le montrent, la fraude à la sécurité sociale est majoritairement – à plus de 60 % – le fait de professionnels !"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Ce ne sont pourtant pas eux que vise le texte !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Vous devriez saluer, dans ce texte, le renforcement de la communication entre les services de la direction générale des finances publiques et les services sociaux. Vous devriez vous réjouir du renforcement des sanctions en cas de sous-déclaration des accidents du travail et des maladies professionnelles."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Vous vous y êtes opposé lors de l’examen du PLFSS !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Vous devriez vous réjouir du renforcement de la lutte contre le travail dissimulé, alors que ce dernier pénalise à la fois la sécurité sociale et les travailleurs qui se retrouvent ainsi privés de droits."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Ce n’est pas la question ! La question, c’est le ratio de la fraude sociale et de la fraude fiscale !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "C’est de cela qu’il s’agit, monsieur Boyard, quand on parle de fraude à la sécurité sociale !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Répondez à la question !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Quand on assujettit les revenus illicites à la contribution sociale généralisée (CSG), pour frapper les trafiquants au portefeuille et ainsi renflouer les caisses de la sécurité sociale, ce ne sont pas les plus précaires que l’on vise !"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Vous êtes bien mal à l’aise pour répondre à la question posée !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Monsieur Boyard, quand le texte prévoit l’alourdissement des peines pour escroquerie aux finances publiques en bande organisée, assorti d’une extension du régime de la garde à vue, nous frappons encore les gros poissons, les professionnels de la fraude. Cette égalité que vous établissez entre la fraude sociale et la fraude des plus précaires revient à travestir les chiffres et à paver la voie aux discours les plus populistes."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Vous n’avez pas de chiffres, en fait !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "On dirait un hors sujet au bac ! Il n’a pas révisé et cela se voit !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Tu n’as pas dû l’avoir, toi, le bac !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Christine Arrighi."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Monsieur le ministre, contrairement à vous, nous assistons à la totalité de l’examen de ce projet de loi relatif à la lutte contre les fraudes sociales et fiscales. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nNous disposons ainsi de la vue d’ensemble qui vous fait défaut, et nous constatons bien un « deux poids, deux mesures » entre ce qui a trait à la fraude sociale et ce qui concerne la fraude fiscale.\nDepuis 2022, c’est le quatrième texte examiné concernant la fraude fiscale. Or jusqu’à présent, les résultats du contrôle fiscal et du recouvrement s’affaissent, alors que les suppressions d’emploi de contrôleurs augmentent.\nS’agissant de la fraude fiscale, nous ne cessons de vous dire qu’il faut s’y attaquer, puisqu’elle représente 80 à 120 milliards d’euros. D’ailleurs, Bercy n’est même pas capable d’évaluer son montant : vous ne disposez pas de l’outil pour le faire, contrairement aux ONG et aux syndicats, qui vous fournissent ces éléments.\nPour ce qui est de la fraude sociale, vous mentionnez celle que pratiquent les entreprises. Nous sommes tout à fait favorables à ce qu’on lutte contre celle-ci, mais toutes les dispositions du texte concernent la fraude des plus précaires, notamment la fraude au RSA et, au sein de cette dernière, celle qu’on attribue aux maisons départementales des personnes handicapées (MDPH), comme nous l’avons vu tout à l’heure – mais vous n’étiez pas là."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Eh oui ! On s’attaque aux handicapés !"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Pardon de nous étonner de ce « deux poids, deux mesures » ! Nous voudrions aussi obtenir des réponses à nos questions. Si nous insistons, c’est parce que nous n’avons reçu aucune réponse de votre part sur la question qui vous a été posée : combien estimez-vous recouvrer, grâce à ce texte, sur la fraude fiscale ? Donnez-nous des chiffres sur les 13 000 contribuables éligibles à l’impôt sur la fortune immobilière (IFI) et qui, pourtant, ne paient pas l’impôt sur le revenu… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’oratrice.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Nous pouvons avoir tous les débats que vous voulez, mais il faut partir de la réalité des chiffres."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Répondez aux questions !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Madame Arrighi, vous affirmez que les résultats du contrôle fiscal s’affaissent : c’est tout simplement faux ! Savez-vous de combien le recouvrement de la fraude fiscale a augmenté depuis 2017 ? De plus de 40 %."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Emmanuel Maurel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842271",
+          "texte": "Ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Je pense aux agents de la direction générale des finances publiques qui nous écoutent et dont le travail, depuis 2017, a permis – en plus des mesures législatives qui ont été prises et du renforcement des moyens – d’obtenir ce résultat."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Vous ne répondez pas à la question, c’est lamentable ! Travaillez vos chiffres !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Il s’agit d’un chiffre public mais, pour le connaître, encore faut-il travailler en amont de la séance."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Vous n’avez toujours pas répondu à la question !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 651."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        85\n        Nombre de suffrages exprimés                83\n        Majorité absolue                        42\n                Pour l’adoption                51\n                Contre                32"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 651 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9  ter, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049392",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 9 ter",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Nous en venons à des amendements portant article additionnel après l’article 9  ter.\n Sur les amendements nos 912 et 134, je suis saisie par le groupe Socialistes et apparentés de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Matthias Renault, pour soutenir l’amendement no 91."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Il s’agit de renforcer la lutte contre la fraude et le blanchiment qui passent par les plateformes de transfert de fonds du type MoneyGram ou Western Union. La législation actuelle, s’agissant de ces plateformes, vise essentiellement la lutte contre le narcotrafic et contre le terrorisme.\nNous proposons que Tracfin puisse avoir accès au nouveau fichier des numéros internationaux de compte bancaire (Iban) suspects et frauduleux, créé il y a quelques mois, afin de pouvoir en croiser les données avec les informations qui lui sont par ailleurs remontées dans le cadre de transferts de fonds."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Votre amendement est satisfait, puisque la rédaction issue du Sénat permettra aux administrations chargées de la lutte contre la fraude fiscale d’accéder au fichier national des comptes, en cas de suspicion. C’est évidemment Tracfin qui est concerné en premier lieu par une telle ouverture.\nPar ailleurs, vous ne précisez pas dans votre amendement les modalités d’accès au fichier national, ce qui risque de poser des difficultés au regard du règlement général sur la protection des données (RGPD) – nous avions examiné la question à fond avec la Commission nationale de l’informatique et des libertés (Cnil), au moment de la mise en place de ce fichier.\nEnfin, je ne suis pas certain de bien comprendre les deuxième et troisième alinéas de votre amendement. Je ne pense pas qu’il soit nécessaire de complexifier le travail de Tracfin en détaillant, dans la loi, les croisements d’informations que cette cellule doit réaliser. Laissons-la faire ceux qu’elle estime nécessaires et pertinents.\nPour toutes ces raisons, je suis défavorable à votre amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Il paraît évident qu’il faut donner à Tracfin tous les moyens de lutter contre le blanchiment d’argent et contre toutes les formes de narcotrafic possibles et imaginables. Cet amendement va donc dans le bon sens. Vous dites qu’il est satisfait, monsieur le rapporteur pour avis, mais je crois qu’il apporte des précisions pertinentes, qui seront gages d’efficacité."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Christine Arrighi."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Il ne suffit pas de dire une chose pour qu’elle soit vraie. Voici donc les chiffres : en 2015, 12,2 milliards ; en 2016, 11,1 milliards ; en 2017, 9,4 milliards ; en 2018, 8,7 milliards ; en 2019, 11,3 milliards ; en 2021, 7,8 milliards ;…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "De quoi elle parle ?"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "…en 2022, 10,7 milliards ; en 2023, 10,6 milliards ; en 2024, 11,4 milliards. Vous n’avez même pas atteint, en matière d’encaissement du contrôle fiscal, le niveau de 2015 !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 91."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        79\n        Nombre de suffrages exprimés                76\n        Majorité absolue                        39\n                Pour l’adoption                27\n                Contre                49"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 91 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Laurent Baumel, pour soutenir l’amendement no 912."
+        },
+        {
+          "orateur": "M. Laurent Baumel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606793",
+          "texte": "Cet amendement, que j’ai déposé avec ma collègue Christine Pirès Beaune, vise à étendre le dispositif de renseignarisation au profit du parquet national financier (PNF) et des juges d’instruction financiers de Paris, dans le prolongement de la création du mécanisme au profit de la lutte contre le terrorisme, étendu en matière de lutte contre la criminalité organisée et la cybercriminalité.\nC’est typiquement le genre de proposition, monsieur le ministre, qui aurait pu figurer dans votre texte initial, si vous aviez réellement choisi de faire de ce moment législatif un moment de lutte contre la fraude fiscale.\nJ’en profite pour réagir à ce que vous avez dit tout à l’heure : vous pouvez avoir votre propre perception de ce qu’est ce texte, je l’entends, mais sachez que la perception de ceux qui suivent ces débats depuis des heures et des heures, c’est qu’il s’inscrit dans une logique très politique, celle du petit moment droitier du gouvernement visant, en ce printemps, à faire un peu oublier aux groupes politiques de vos amis les concessions que vous avez dû faire au moment du budget. (M. Pierre Pribetich applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Vous proposez de permettre au PNF de communiquer aux services de renseignement spécialisés des informations dont il aurait eu connaissance au cours d’une procédure pénale et qui toucheraient aux intérêts majeurs de la politique étrangère française, aux intérêts économiques, industriels et scientifiques majeurs du pays ou à la prévention de la criminalité organisée.\nAu vu de la gravité des affaires dont il a à traiter et de la particularité de ses enquêtes, il est vrai que le PNF dispose fréquemment d’informations précieuses pour les services, parfois issues de sources internationales. Un tel mécanisme permettrait donc de disposer d’un canal d’échange entre le PNF et les services de renseignement sur des enjeux majeurs de lutte contre des ingérences étrangères ou de sécurité économique, afin d’assurer la continuité de l’action administrative et judiciaire.\nCe dispositif me semble précisément délimité, aussi bien du point de vue des informations transmises que des services bénéficiaires. C’est la raison pour laquelle j’y suis favorable – ainsi qu’à l’amendement no 134, qui suivra."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Madame Arrighi, j’ai un peu l’impression de vivre Un jour sans fin, puisque nous avons déjà eu ce débat sur le chiffrage. Je rappelle, et ces chiffres sont publics, qu’ont été recouvrés 8,1 milliards d’euros en 2017 et 11,4 milliards en 2025 au titre de la lutte contre la fraude fiscale. Vous avez raison, l’année 2015 a été exceptionnelle en matière de recouvrement, mais vous savez pourquoi : c’est parce qu’il y avait alors la cellule de régularisation des avoirs détenus à l’étranger…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Et en 2014 ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "…qui, pendant quelques années, a fait affluer des milliards d’euros provenant de comptes illicites."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Et en 2013 ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Voilà pourquoi, en toute rigueur, nous devons comparer des choses comparables.\nJe reviens à l’amendement de M. Baumel, auquel je suis favorable. La disposition qu’il propose me paraît utile pour renforcer la lutte contre la délinquance financière du haut du spectre, contre les mafias de la fraude fiscale. Elle renforcera considérablement notre arsenal, puisqu’il s’agit d’étendre à la délinquance financière des dispositifs qui visent à lutter contre le terrorisme et le crime organisé, en créant un canal direct de transmission entre le parquet national financier et les services de renseignement.\nOn voit se développer des fraudes fiscales de plus en plus sophistiquées, organisées par des réseaux professionnels, par des mafias, ce qui justifie que l’on renforce notre arsenal. L’amendement no 912 va dans le bon sens."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Je me propose de jouer le rôle du juge de paix entre le Parti socialiste et M. le ministre des comptes publics. Vous êtes en train de pinailler pour savoir qui a été le plus mauvais, entre ceux qui ont récupéré 7 milliards d’euros de fraude fiscale et ceux qui en ont rapporté 11. Je vous rappelle que le montant de la fraude est de l’ordre de 50 à 70 milliards : sur cette question, vous êtes donc aussi mauvais les uns que les autres.\nPour en revenir au fond, une fois n’est pas coutume, cet amendement de nos collègues d’extrême gauche – pardon, de gauche…"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "On n’est pas LFI ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "…va dans le bon sens. C’est pourquoi nous le soutiendrons."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Nous aurions besoin d’éclaircissements de la part du ministre des comptes publics. Premièrement, vous n’avez pas répondu à la question que je vous ai posée à plusieurs reprises : que rapporteront, en proportion, grâce à ce texte, la fraude fiscale et la fraude sociale ? Vous vous plaignez de la longueur de nos débats : je m’étonne que vous n’en profitiez pas pour aller chercher cette information.\nDeuxièmement, j’ai vérifié le chiffre que vous nous avez donné : y a-t-il vraiment eu une augmentation de 40 % en matière de recouvrement ? J’espère que vous me démentirez, mais il se trouve que je viens de trouver un rapport de la Cour des comptes de 2025, qui indique que « les résultats financiers du contrôle fiscal en droits rappelés et pénalités » ne sont pas à la hauteur. J’ai trouvé des chiffres indiquant que les redressements fiscaux ont atteint 21,2 milliards en 2015 et seulement 20 milliards en 2024. Par ailleurs, les sommes réellement récupérées s’élevaient à 12,2 milliards en 2015 et à 11,4 milliards en 2024. Je vous renvoie au rapport de la Cour des comptes.\nTel est votre bilan, en matière de lutte contre la fraude fiscale, selon la Cour des comptes – dont l’extrême droite dira peut-être qu’elle est d’extrême gauche… Vous pouvez le contester, mais ce n’est même pas le débat. Ce que nous voulons savoir, c’est ce que vous attendez de ce texte : que représenteront respectivement la part de la fraude sociale et celle de la fraude fiscale ? Je répète que si le budget de l’État était un smic, les sommes que vous espérez récupérer représenteraient à peine 2 euros. Nous sommes en train de perdre deux semaines de débat pour gagner l’équivalent d’une pièce de 2 euros !\nVous savez ce qui coûte plus de 2 euros en ce moment ? Le prix du litre d’essence ! Peut-être que les Françaises et les Français aimeraient qu’on en débatte ! (Applaudissements sur les bancs du groupe LFI-NFP.) Mais non, nous sommes chargés de récupérer l’équivalent d’une pièce de 2 euros, avec un ministre des comptes publics qui ne sait même pas combien rapportera ce texte, et un premier ministre dont les éléments de communication ont probablement été fournis par McKinsey. (Exclamations sur quelques bancs du groupe EPR.) C’est une comédie ! Changeons ce texte et bloquons le prix de l’essence !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 912."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        88\n        Nombre de suffrages exprimés                86\n        Majorité absolue                        44\n                Pour l’adoption                84\n                Contre                2"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 912 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049444",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 134 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je suis saisie de l’amendement no 134 de Mme Christine Pirès Beaune."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 134 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049446",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 quater",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis, pour soutenir l’amendement no 485."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Cet amendement rédactionnel assure l’application du dispositif introduit par cet article à l’outre-mer. L’amendement no 486 rectifié, qui porte sur l’article suivant, aura le même objet."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Nous allons voter contre cet amendement rédactionnel parce que nous voulons témoigner d’une fraude qui nous inquiète beaucoup : celle que représente le ministre des comptes publics. Quand on lui demande combien rapportera ce texte, il nous dit 1,5 milliard, et quand on lui demande ce que représenteront respectivement la fraude sociale et la fraude fiscale, il est incapable de nous répondre, alors que ce texte nous aura occupés pendant deux semaines. Il nous dit que les recouvrements ont augmenté de 40 % mais un tout récent rapport de la Cour des comptes donne d’autres chiffres et il n’est même pas capable de défendre son bilan. Proposer un texte qui concerne vraiment la vie des Français, je sais que c’est trop vous demander, mais est-ce qu’on pourrait au moins avoir un vrai ministre des comptes publics, quelqu’un qui réponde à nos questions ?\nNous considérons que ce gouvernement n’est pas légitime, mais nous pourrions compter sur la force et la vigueur de notre parlement. Je me tourne donc vers le rapporteur pour avis : monsieur Labaronne, êtes-vous en mesure de nous dire combien, avec ce texte, rapportera la lutte contre la fraude fiscale et la fraude sociale ? Je répète que, rapporté à un smic, c’est l’équivalent d’une pièce de 2 euros qu’on est en train de chercher…"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Ça fait quatorze fois que tu le dis !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "…et vous n’êtes même pas capables de nous dire combien vont rapporter chacun des deux volets du texte !\nMaintenant, dites-nous que vous n’êtes pas en train de faire de l’idéologie, du remplissage de l’agenda parlementaire, pendant qu’un président de la République illégitime fait des mèmes sur TikTok pour occuper sa fin de règne, en attendant l’élection présidentielle qui nous permettra enfin de trancher les sujets qui comptent vraiment pour les Français.\nNous voulons témoigner d’une forme d’agacement."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "L’agacement est réciproque, monsieur Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Nous, nous nourrissons le débat en proposant des amendements et des arguments, et nous voterons contre les amendements rédactionnels du rapporteur pour avis tant qu’il ne sera pas capable de nous dire combien la fraude fiscale rapportera avec ce texte. Avoir un vrai ministre des comptes publics serait également un plus."
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Un vrai député ne parle pas comme ça !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Olivier Becht."
+        },
+        {
+          "orateur": "M. Olivier Becht",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642935",
+          "texte": "Je suis assez surpris par l’argumentaire de nos collègues de La France insoumise. Ils semblent faire une sorte de distinguo entre fraude fiscale et fraude sociale, et l’une serait plus vertueuse que l’autre, ou l’une plus condamnable que l’autre. Si l’on comprend bien, la fraude fiscale serait plus condamnable que la fraude sociale.\nJe voudrais leur faire part d’une expérience de terrain : au sein du conseil départemental du Haut-Rhin, il y a dix ans, en 2016, nous avons entrepris de lutter contre la fraude sociale, notamment la fraude au RSA. Dans cette région frontalière, des gens qui gagnaient en Suisse 8 000 francs suisses – l’équivalent de 8 000 euros – par mois étaient, en France, inscrits au RSA. Trouvez-vous que cette fraude n’est pas condamnable, monsieur Boyard ? Pensez-vous sincèrement que les services de l’État, des départements, n’ont pas à faire leur travail afin que l’argent des contribuables français soit utilisé à bon escient ? (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Christine Arrighi."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "On ne construit pas une politique fiscale sur des anecdotes datant d’il y a dix ans (Applaudissements sur quelques bancs du groupe EcoS), d’autant qu’en dix ans, la France a passé des accords avec la Suisse au sujet de la transmission d’informations dans le cadre de la lutte contre la fraude fiscale, ce qui permet ensuite d’établir des corrélations dans celui de la lutte contre la fraude sociale. En l’occurrence, avec ce genre d’argument, nous sommes très loin de montrer la nécessité du texte.\nPar ailleurs, excusez-moi, monsieur le ministre, mais le chiffre de 1,5 milliard d’euros de recettes a été cité par le Haut Conseil des finances publiques (HCFP) dans son avis d’octobre 2025 relatif aux projets de lois de finances et de financement de la sécurité sociale pour 2026. Or celui-ci appelait déjà à la prudence au sujet de ces montants, évoquant un risque identifié, des recettes incertaines, difficilement évaluables et peu crédibles. Je souhaitais juste vous faire part de cet avis, dont vous auriez dû faire une lecture plus assidue."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Moi aussi, monsieur Boyard, je suis agacé – agacé par ce débat un peu caricatural. Il y a une question de fond, une question de principe : voulons-nous combattre tout type de fraude, qu’elle soit fiscale ou sociale ?"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Derrière cette question, c’est celle de la justice sociale qui se pose. Quand on doit quelque chose à l’État, à la sécurité sociale, il faut être au rendez-vous. Le texte ne vise pas la rentabilité ;…"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…il entend construire un arsenal aussi adapté que possible.\nLes sociétés éphémères ont fait preuve d’innovation, et qui est perdant ? Notre système de sécurité sociale. Soyez avec nous tous pour combattre ces abus et ces fraudes,…"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Arrêtez ! Vous dites n’importe quoi !"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "…au lieu de manœuvrer dans le cadre des débats !\nSi nous voulons éviter la fraude, ce sera par des mesures dissuasives : la prévention est ce qui existe de plus efficace, car elle épargne les coûts de recouvrement.\nVos interventions se répètent sans cesse ; nous n’allons pas au fond des choses, alors que je souhaite vraiment que nous puissions lutter contre ceux qui abusent de notre système.\nDes rapports ont mis en évidence l’existence de ces abus et notre arsenal n’est pas suffisant : prenons des mesures contre les fraudes sociales, contre les fraudes fiscales, de manière à rendre aux Français ce qui leur est dû ! (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 485 est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9  quater, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049501",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 quinquies",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Plusieurs orateurs sont inscrits sur l’article 9 quinquies.\nLa parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je tiens à remercier les deux collègues qui viennent de prendre la parole : ils ont fourni des arguments, et c’est précisément là ce qui nous a manqué durant ces deux semaines de débat, car en tout cas, concernant ces sujets, on ne peut compter sur le gouvernement.\nMonsieur Bazin, cela me fait plaisir de vous revoir ! J’entends votre argument de fond : il faut lutter contre toutes les fraudes, fiscales, sociales et compagnie. Premièrement, permettez-moi de souligner que dans les dispositions de ce texte, la part de la lutte contre la fraude sociale est bien plus importante que celle de la lutte contre la fraude fiscale. Deuxièmement, je vais être un pragmatique, un gestionnaire en bon père de famille, presque un macroniste… (Ah, non ! » sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Réactionnaire ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Pardon, je ne m’abaisserai pas à cela. Regardez ce que représente le montant de la fraude sociale : 0,3 % du budget de l’État, contre 8 % du budget de l’État pour celui de la fraude fiscale. Nous arrivons à recouvrer 16 % du montant de la fraude sociale, 14 % de celui de la fraude fiscale. Pourquoi, alors que l’on pourrait récupérer davantage d’argent du côté de cette dernière, passe-t-on plus de temps à en chercher du côté de la fraude sociale ? Pourquoi a-t-on supprimé des postes de la DGFIP qui rapportaient des milliers d’euros et en a-t-on créé afin de lutter contre la fraude sociale, alors qu’ils ne rapporteront que quelques centaines d’euros ?"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Mais c’est n’importe quoi !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je n’entre pas sur le terrain moral : je reste sur celui du budget. Au moment de la présentation de ce texte, le gouvernement nous disait l’avoir souhaité pour des raisons budgétaires ; nous avons pu éclairer les débats et constater que ce n’était pas le cas. Dans ce contexte, pouvez-vous reconnaître que nous avons raison…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ça, non !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "…lorsque nous expliquons qu’en matière de priorités budgétaires, nous aurions avantage à taper sur la fraude fiscale plutôt que sur la fraude sociale, soit exactement l’inverse du texte et que nous avons donc également raison de combattre celui-ci, ce que nous faisons en votant contre tous les amendements rédactionnels proposés par le rapporteur, d’ailleurs incapable de nous dire combien ce projet de loi devrait rapporter grâce aux mesures de lutte contre la fraude fiscale ? (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Peio Dufau."
+        },
+        {
+          "orateur": "M. Peio Dufau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841633",
+          "texte": "J’entends votre argument, monsieur Bazin : reste qu’une partie des plus gros fraudeurs fiscaux est épargnée. Contre la fraude à la TVA, rien ; la fraude à la résidence principale, qui représente 1 milliard d’euros par an, ne figure pas dans le texte ; le contournement de l’impôt sur la succession, vous l’avez sauvé lors du vote d’un amendement qui visait les œuvres d’art."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Et l’amendement Fabius !"
+        },
+        {
+          "orateur": "M. Peio Dufau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841633",
+          "texte": "Contrairement à ce que vous annoncez, là où nous devrions chercher l’argent, nous n’y allons pas. (Applaudissements sur quelques bancs du groupe SOC.) Dès lors, nous pouvons toujours taper sur les fraudes commises par ceux qui sont au chômage, à ce détail près qu’au cours des dernières années l’assurance chômage a été réactualisée, revue, durcie à je ne sais combien de reprises, et que contre la fraude fiscale, nous n’avons rien fait du tout !\nPosons-nous les bonnes questions, tapons autant sur ceux qui contournent beaucoup que sur ceux qui contournent très peu. Dans la partie droite de l’hémicycle, vous êtes très nombreux, tous les ans, à vouloir taper sur les chômeurs : combien coûte la fraude de ces derniers par rapport à celle que pratiquent ceux dont nous ne nous occupons pas aujourd’hui ? Posez-vous un peu cette question, c’est la vraie ! (M. Pierre Pribetich applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Chers collègues socialistes, vous attaquez le gouvernement au motif qu’il ne fait rien contre la fraude fiscale : qu’avez-vous fait lorsque vous étiez aux commandes ? Pas plus, pas mieux, parfois pire."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "C’était il y a longtemps ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Il y a longtemps, mais pas assez encore ; la preuve, l’un de vos anciens ministres est président de la République et l’ensemble de cet hémicycle, y compris l’extrême gauche, qui lui tire dessus à boulets rouges, l’a conduit à l’Élysée en appelant à voter pour lui !"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Hors sujet !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Vous ne pouvez pas dire tout et son contraire, vous ne pouvez pas attaquer quelqu’un que vous avez fait élire il y a encore trois ans. Un peu de tenue et de retenue, s’il vous plaît !\nOn veut lutter contre la fraude fiscale mais, effectivement, on a retiré des moyens, des contrôleurs affectés à cette lutte,…"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est ce qu’a dit le collègue d’extrême gauche…"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "…car elle coûte cher, monsieur le ministre. Il faut investir dans des moyens humains, disposer de personnels capables de mener le combat contre des experts-comptables payés très cher par les très riches ; c’est dur, long, contraignant, mais c’est nécessaire.\nDe même qu’il faut lutter contre la fraude sociale, nous devons nous donner les moyens de lutter contre la fraude fiscale ; or rien dans ce texte ne permettrait de recouvrer efficacement les 30 à 40 milliards d’euros qui manquent. S’agissant de la partie sociale, nous vous suivrons, car il faut prendre ces mesures. S’agissant de la partie fiscale, j’ai bien peur qu’il ne faille attendre 2027 et un gouvernement du Rassemblement national pour que soit enfin créé un ministère de la lutte contre la fraude ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Il n’a pas cité Marine Le Pen, il va être puni ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Nous sommes pour la lutte contre toutes les fraudes : mettons fin aux caricatures, notamment en provenance des différents bancs de la gauche. Nous sommes pour la lutte contre la fraude sociale, contre la fraude fiscale. Depuis que nous sommes aux responsabilités, c’est-à-dire depuis…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Trop longtemps !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "…2017, nous avons déployé un certain nombre de moyens, obtenu aux échelons international et européen des victoires sur les grands circuits de contournement de l’impôt, au prix de négociations compliquées : chose que je regrette en tant que pro-européen, la fiscalité relève dans l’Union du domaine des votes à l’unanimité, où les États ont un pouvoir de veto.\nNotre collègue socialiste Dufau a mentionné à juste titre les circuits de TVA ; c’est effectivement un grand problème. Je rappellerai donc – j’espère le rassurer – que nous avons instauré la facturation électronique et maintenu lors du dernier examen budgétaire le cap suivant lequel elle doit concerner les entreprises quelle que soit leur taille, afin d’éviter que certaines, jusqu’alors en dehors du processus, n’aient des velléités de contournement. Ce mode de facturation constituera un moyen extrêmement efficace de lutter contre le détournement de la TVA."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "S’agissant de déterminer à quoi s’attaque ce texte, je rappellerai qu’entre fraude sociale et fraude fiscale le rapport se situe entre 1 à 5 et 1 à 8, c’est-à-dire qu’il y a cinq à huit fois plus de fraude fiscale – selon toutes les estimations non controversées, entre 70 et 100 milliards d’euros annuels – que de fraude sociale, estimée à 14 milliards annuels par une note de suivi du ministère. C’est exactement la proportion inverse de celle du texte, dont deux tiers sont consacrés à la fraude sociale et un tiers à la fraude fiscale.\nJe remarque que, parmi les amendements, tout ce qui vise à durcir le contrôle de la fraude fiscale est rejeté, alors qu’est adopté tout ce qui vise à faire de même pour la fraude sociale ou plutôt une certaine fraude sociale.\nDe plus, si l’on considère l’estimation de 14 milliards d’euros de fraude sociale, 52 % relèvent du recouvrement, c’est-à-dire en gros de la fraude à l’Urssaf, 12 % de la fraude professionnelle, et 36 % seulement de la fraude des assurés. Autrement dit, la fraude des assurés, la « fraude des pauvres » est infiniment inférieure à la « fraude des riches ». Pourtant votre texte, dans son économie globale, s’attache surtout à la « fraude des pauvres ». Voilà la réalité ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Je voudrais remercier le président Coquerel, car je souscris aux chiffres qu’il vient de citer et je disais il y a quelques minutes que s’en prendre à la fraude sociale nécessitait d’abord de s’en prendre aux professionnels de la fraude. Le président Coquerel l’a rappelé à juste titre, sur les 14 milliards d’euros de fraude à la sécurité sociale – car c’est cela dont il s’agit lorsque l’on parle de fraude sociale –, on estime à 52 % la part de la fraude aux cotisations, à 12 % celle de la fraude des professionnels, souvent de faux professionnels de santé qui facturent des actes fictifs. C’est bien à cela que s’attaquent les articles sociaux du texte. Le manque à gagner lié au travail dissimulé, par exemple, est estimé à environ 1,5 milliard au moins ; nous n’en recouvrons que 100 millions. Cela devrait vous interpeller !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "On a compris ! Parlez-nous de la fraude fiscale !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Pourquoi avoir inscrit dans ce texte la procédure de flagrance sociale ? Pour pouvoir récupérer les cotisations avant que les entreprises fraudeuses ne disparaissent dans la nature. Pourquoi renforcer les sanctions en cas de travail dissimulé, qui feront d’ailleurs l’objet d’amendements ? Pourquoi conjuguer sanctions pénales et administratives à l’encontre des faux professionnels de santé qui multiplient les actes fictifs et favoriser les échanges d’informations ? Pour s’en prendre, je le répète, à la fraude des professionnels.\nQuant à la fraude fiscale, l’approche est la même : s’en prendre aux professionnels de la fraude.\nAvant la suspension des travaux parlementaires, des amendements importants ont été adoptés. Ils visent notamment à criminaliser l’escroquerie en bande organisée aux finances publiques ou prévoient des gardes à vue étendues pour saisir les disques durs ou les fichiers, permettant ainsi de démanteler les réseaux avant que ces éléments ne disparaissent.\nUn amendement majeur a été adopté à la demande du groupe socialiste pour renforcer l’efficacité des services de renseignement fiscaux et le lien avec le parquet national financier.\nL’objectif est le même : cibler les mafias de la fraude, qu’elles s’en prennent à nos finances publiques au sens de l’impôt ou à la sécurité sociale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Si vous le permettez, je répondrai à M. Boyard par une analogie. Prenons un sportif. Il s’entraîne, il développe ses capacités musculaires et respiratoires, il travaille sur son mental ; bref, il se dote d’outils de performance. Est-on pour autant sûr qu’il gagnera la compétition ? Pas forcément. Ce n’est pas parce que l’on se dote d’outils que l’on gagne.\nIl en va de même pour la puissance publique. Il s’agit, avec ce texte, de renforcer nos capacités opérationnelles de lutte contre la fraude fiscale et sociale : nous dotons les agents de moyens d’enquête et d’investigation ; nous permettons aux différents fichiers d’être davantage interconnectés et aux administrations de se parler. Peut-on dire dès aujourd’hui quel sera le résultat exact de la mise en œuvre des dispositions que nous adopterons ? Cela paraît difficile."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "On peut faire des estimations !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Cela étant, nous avons déjà recouvré environ 15 milliards d’euros pour la fraude fiscale et un peu plus de 2 milliards d’euros pour la fraude sociale, soit 17 milliards au total. Les outils prévus dans le présent projet de loi pourraient améliorer nos performances de 10 à 20 %, nous permettant de viser un objectif de 20 milliards d’euros de recouvrement des fraudes fiscale et sociale.\nComme le sportif qui s’entraîne sans être certain du résultat, nous nous musclons pour lutter contre les fraudes. L’idée est bien de gagner contre les fraudeurs et de tendre vers ces 20 milliards d’euros de recouvrement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "M. le rapporteur pour avis, vous gardez la parole pour soutenir l’amendement no 486 rectifié."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Il s’agit toujours du même amendement rédactionnel, qui concerne les territoires d’outre-mer."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Olivier Becht."
+        },
+        {
+          "orateur": "M. Olivier Becht",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642935",
+          "texte": "Le président Coquerel nous disait en substance que la fraude fiscale était la fraude des riches et la fraude sociale, celle des pauvres. Je ne suis pas d’accord. Je l’ai montré tout à l’heure, les riches fraudent également les aides sociales. La réalité, c’est que la fraude sociale, c’est de l’argent pris aux pauvres. (Exclamations sur les bancs du groupe EcoS.)\nUn fraudeur est un fraudeur, que la fraude soit sociale ou fiscale ; c’est quelqu’un qui s’approprie de l’argent auquel il n’a pas droit. Et cet argent, il le prend bien à quelqu’un – généralement à ceux qui devraient en bénéficier. Or, dans le système français, ce sont les personnes les plus défavorisées qui bénéficient d’abord des aides sociales.\nPar conséquent, si nous avions 14 milliards d’euros de fraude sociale en moins, nous aurions aussi 14 milliards de plus à injecter dans des prestations qui ne permettent malheureusement pas toujours à leurs bénéficiaires de vivre dignement. Il me semble que c’est un combat juste et honorable que de faire en sorte que ceux qui en ont besoin bénéficient vraiment de l’argent social."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Et les 80 milliards de fraude fiscale ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "J’aime que les choses soient très exactes. Peut-être me suis-je mal exprimé, mais comme le ministre m’a compris, j’ai tendance à penser que c’est vous qui m’avez mal entendu.\nJe n’ai pas dit que la fraude sociale était exclusivement le fait des pauvres. Ce que j’ai dit, c’est que dans la fraude sociale, 52 % relèvent du recouvrement – une question liée à l’entreprise – et 12 % des professionnels. Seuls 36 % de la fraude sociale peuvent être attribués à ce que j’appelle la fraude des pauvres. Cette part est donc minoritaire dans la fraude sociale globale ; elle est pourtant majoritaire dans le texte que nous examinons. C’est tout ce que j’ai dit, et c’est précisément ce que je ne trouve pas normal."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Je vous invite à recentrer votre propos sur l’amendement.\nLa parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "M. le rapporteur pour avis utilisait une analogie sportive ; permettez-moi de filer la métaphore. Vous, vous faites de la gymnastique pour éviter de nous répondre sur la part que cela représentera dans la lutte contre la fraude fiscale.\nCet amendement relatif aux territoires d’outre-mer me permet de rebondir sur les propos de notre collègue qui dépassaient le seul objet de l’amendement. Vous affirmez que ces mesures rapporteront 14 milliards d’euros ; non, elles ne rapporteront que 1,5 milliard.\nJe vais vous expliquer pourquoi ce sont les plus précaires qui subiront ce texte en parlant des territoires d’outre-mer – pour m’en tenir à l’amendement, madame la présidente. Quand vous accentuez les contrôles à la MDPH, comme cela a été fait à un article précédent, vous allongez les délais de traitement des dossiers pour nos concitoyens. Or ces gens-là, ce sont les précaires, ce sont les pauvres.\nPrenez l’exemple du Finistère. Le président du département doit passer devant le tribunal parce que les contrôles qu’il impose aux bénéficiaires du RSA tournent au harcèlement moral. Je cite le cas d’une plaignante qui a simplement fait un virement de 10 euros à son fils. Parce que ces 10 euros sont apparus sur son compte bancaire alors qu’elle percevait le RSA, elle a subi un contrôle immédiat. Pourtant, elle n’est pas une fraudeuse. Ce sont ces gens-là qu’on contrôlera davantage.\nIl ne faut pas croire que ce texte ne fera mal qu’à ceux qui fraudent. Ce projet de loi vise avant tout à surveiller et à contrôler les plus précaires. Nous en avons discuté à propos des algorithmes de la Caisse nationale des allocations familiales (Cnaf) qui ciblent les plus précaires, tout cela pour récupérer quelques euros, alors que vous ne faites rien contre la fraude fiscale.\nVoilà pourquoi les propos du président Coquerel étaient justes et pourquoi vous avez tort. C’est pour ces raisons qu’il faut voter contre ce projet de loi."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Nous sommes favorables à cet amendement. Monsieur Labaronne, vous nous avez dit espérer récupérer 20 milliards d’euros de fraude fiscale grâce aux dispositions de ce texte. Ai-je bien entendu ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Oui, oui !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Dans ce cas, il va falloir nous expliquer comment. Ce chiffre est déjà insuffisant puisque la fraude fiscale est estimée entre 50 et 70 milliards d’euros ; vous estimez donc pouvoir en récupérer un tiers, voire la moitié. Admettons. Mais comment allez-vous procéder ? Quels sont les moyens, dans ce texte, qui vous donnent concrètement la possibilité de le faire ?\nJe veux bien que l’on annonce des chiffres de la sorte, et si nous soutenons ce texte, c’est parce qu’il va dans le bon sens. Mais j’aimerais savoir sur quoi vous vous appuyez pour avancer ce montant, que nous vous demandons depuis des semaines."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Sur du vent !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Concernant la fraude sociale, c’est la même chose : vous avancez le chiffre de 1,5 milliard d’euros, mais je ne vois pas davantage comment vous établissez vos estimations et vos chiffrages. Peut-être un cabinet a-t-il travaillé pour vous sur ce sujet ? Si tel est le cas, faites-nous part de vos lumières et du fonctionnement de l’éventuel algorithme qui vous a permis d’aboutir à un tel calcul."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je réponds à M. Boyard qui, procédant par injonction, nous a demandé de dire combien cela rapporterait. J’ai répondu avec les éléments suivants : nous renforçons nos outils – l’intelligence artificielle, le data mining –, nous améliorons nos méthodes de contrôle, nous formons nos agents, nous coopérons à l’international et nous votons des lois. Je le répète, tout cela développe nos capacités à détecter et à sanctionner la fraude, mais peut-on prédire combien de cas de fraude seront précisément détectés ? Quel montant exact sera récupéré ?"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Mais quel est l’objectif ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "C’est comme le sportif qui s’entraîne : on ne sait pas s’il gagnera la compétition.\nMon raisonnement était celui-ci : en 2023, 15,2 milliards d’euros ont été recouvrés au titre de la fraude fiscale et 2,1 milliards au titre de la fraude sociale, soit un total d’environ 17 milliards d’euros. En nous musclant et en améliorant nos performances grâce à ce texte, nous pouvons espérer recouvrer 3 milliards supplémentaires par rapport à 2023."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Espérer, c’est s’en remettre à quelqu’un d’autre. N’espérez pas, faites-le !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je suis, certes, dans la conjecture ; si le sportif se donne tous les moyens de gagner, la victoire n’est jamais certaine."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Il faut arrêter avec la métaphore sportive…"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est n’importe quoi !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je reste donc dans l’hypothèse et la prospective, et c’est très modestement que j’ai essayé de répondre à M. Boyard en développant cette analogie."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Donc, vous n’avez pas la capacité de faire des estimations."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 486 rectifié est adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9  quinquies, amendé, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048739",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 sexies",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Voilà encore une illustration de l’importance fondamentale de ce texte en matière de lutte contre la fraude fiscale. Si ce projet était aussi ambitieux que vous le prétendez, on aurait pu imaginer un chapitre sur la fraude à la TVA, sur les règlements d’ensemble ou sur les prix de transfert ; pas du tout ! Cet article dit simplement que « la commission des sanctions peut prononcer l’interdiction, pour une durée de dix ans au plus, d’exercer un mandat social au sein d’une société dont les titres sont admis à la négociation et de négocier des instruments financiers pour compte propre ». On mesure l’importance fondamentale d’un tel article, qui, de toute évidence, concerne un grand nombre de nos concitoyens. (Sourires.)\nJe reviens sur certains éléments du débat. Concernant l’évolution du recouvrement, non seulement les résultats ne sont pas brillants, mais l’écart se creuse entre les montants notifiés et les montants réellement recouvrés. L’écart était de 5 milliards d’euros en 2023 ; il dépasse aujourd’hui les 9 milliards. Il serait d’ailleurs miraculeux qu’il en soit autrement, puisque vous ne prenez aucune mesure efficace. Toutes les commissions que vous avez créées ne sont que des coquilles vides où il ne se passe rien.\nJ’en viens enfin à l’exemple anecdotique du député que je n’avais jamais vu – et qui est déjà reparti –,…"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Il est tout de même resté un quart d’heure…"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "…au sujet de ce bénéficiaire du RSA qui percevait l’équivalent de 8 000 francs suisses : il est assez pathétique."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Elle n’a jamais vu M. Becht ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Il est venu, il a lancé cela, puis il est parti. Je rejoins ici Mme Arrighi : c’est assez incroyable de vouloir fonder une politique fiscale sur ce type d’anecdotes, je le répète, pathétiques. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Monsieur le rapporteur pour avis, soyons un peu plus précis sur les chiffres. J’avais compris que vous espériez récupérer 20 milliards d’euros supplémentaires grâce à ce texte. En fin de compte, vous expliquez que ce texte permettra d’arriver au chiffre total de 20 milliards d’euros."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Vous n’avez rien compris !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Cet objectif me semble un peu faible, vous en conviendrez, étant donné que l’estimation de la fraude est comprise entre 50 et 70 milliards d’euros."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Nous vous expliquerons, collègue !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Monsieur le ministre, il s’agirait de se donner véritablement les moyens de lutter contre la fraude. On peut faire tous les textes de loi qu’on veut : sans davantage de contrôleurs, de personnels et de moyens techniques pour récupérer la fraude fiscale – qui, on l’a dit, est beaucoup plus importante que la fraude sociale –, nous ne parviendrons pas à en venir à bout.\nAlors, allons-nous nous contenter d’un simple affichage politique avec un texte qui ne rapportera pas grand-chose, ou allons-nous enfin nous donner les moyens de lutter contre la fraude ? Y a-t-il une vraie volonté politique en ce sens, ou bien faut-il attendre 2027 et l’arrivée au pouvoir d’un gouvernement du Rassemblement national pour qu’un véritable ministère de la lutte contre la fraude soit créé et produise enfin des résultats ?"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9  sexies est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur l’amendement no 657, je suis saisie par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048577",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 decies",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Chers collègues du Rassemblement national, vous avez voté en 2025 le budget Bayrou, qui a supprimé des postes à la DGFIP. (Exclamations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "On n’a jamais voté le budget Bayrou !"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Pour ce qui est du gouvernement Rassemblement national en 2027, je suis mal à l’aise parce que votre candidate a été condamnée pour fraude… Je trouve la situation assez gênante, je tenais à le souligner. Je suis aussi gêné pour le gouvernement et pour le rapporteur pour avis – ce dernier a fait une analogie sportive mais il n’est pas très doué en sport collectif.\nLe premier ministre a écrit : « Le projet de loi relatif à la lutte contre les fraudes sociales et fiscales doit permettre à l’administration de mieux les détecter et les sanctionner, protéger les comptes publics et garantir que chacun respecte les mêmes règles. Objectif : 1,5 milliard d’euros de gains au plus vite pour les comptes publics. C’était un de mes premiers engagements. »\nC’est raté : vous êtes incapable de nous dire d’où sort ce chiffre de 1,5 milliard. Par ailleurs, notre collègue nous a expliqué que de fins analystes expliquaient que ce chiffre était largement surestimé. Je présente mes excuses à la représentation nationale : je disais que rapporté à un smic, c’était 2 euros ; finalement, c’est moins.\nJe m’interroge : que faisons-nous là ? Ne serait-il pas intéressant de découvrir d’autres textes de loi, qui pourraient être chiffrés ? Un texte relatif au blocage des prix de l’essence, par exemple, serait très demandé par nos concitoyens. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Je suis capable de vous dire combien cela rapporterait dans le portefeuille des Français.\nJe me suis inscrit sur l’article pour souligner le « deux poids, deux mesures » du Rassemblement national. J’espérais également une réponse de la part du gouvernement ou de M. le rapporteur pour avis. Peut-on savoir d’où vient le chiffre de 1,5 milliard, que vous avez cité, ce qu’il y a à l’intérieur, et la part de la fraude fiscale et de la fraude sociale ? Ce serait la moindre des choses. Ce chiffre a été annoncé en octobre – l’année dernière, et cela fait deux semaines que nous débattons. Il serait temps de nous dire un peu ce que vous nous appelez à voter."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Jocelyn Dessigny."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Monsieur Boyard, le « deux poids, deux mesures » est chez vous, pas chez nous. Nous n’avons jamais appelé, nous, à voter pour Emmanuel Macron – nous ne l’avons jamais porté à l’Élysée."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Nous non plus ! Nous avons dit : « Pas une voix pour Marine Le Pen », ce n’est pas pareil !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Nous n’avons jamais voté le budget présenté par M. Bayrou, désolé de vous le dire, ou par n’importe quel autre gouvernement de la Macronie. Là encore, vous dites n’importe quoi."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Vous n’avez pas voté la censure en tout cas !"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Vous étiez où, pour voter la censure ?"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Par contre, vous, vous les avez mis au pouvoir (« Non ! » sur plusieurs bancs du groupe LFI-NFP)  ; vous avez fait élire leurs députés – par deux fois. Donc vous êtes des Tartuffe, je le répète, mais vous êtes pris une fois de plus la main dans le sac, parce que c’est tellement vrai et tellement vérifiable que vous ne pouvez pas dire le contraire."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "C’est exactement ce que nous faisons !"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "texte": "Monsieur le ministre, nous parlons de la fraude sociale et de la fraude fiscale. Je n’irai pas sur le terrain de M. Boyard en disant que cela représente 1,50 euro ou 2 euros. Toutefois, je le répète, il faut se donner les moyens de lutter efficacement contre la fraude fiscale et la fraude sociale. Vos amis socialistes n’ont pas fait mieux, vous ne faites pas mieux non plus. Il faudra effectivement attendre 2027 et un gouvernement Rassemblement national pour véritablement créer un budget avec un ministère de la lutte contre la fraude. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Par nature, la fraude est occulte. Les chiffres que nous versons au débat sont donc des estimations. Nous essayons de faire en sorte qu’elles soient le plus raisonnables possible, puisqu’elles fondent ensuite le projet de loi de finances. Le montant de 1,5 milliard d’euros correspond à ce qui a été estimé pour l’année 2026 dans la lutte contre l’ensemble des fraudes – fiscales, sociales, et aux aides publiques. (Exclamations sur les bancs du groupe LFI-NFP.) Le projet de loi vise à renforcer les moyens dès cette année, mais aussi pour les années suivantes.\nMonsieur Dessigny, la lutte contre la fraude est un combat de tous les instants, qui nécessite la mobilisation de nos services et le développement d’outils technologiques nouveaux – il a été fait référence aux possibilités données par le data mining, qui fonde désormais plus de la moitié des ciblages de contrôle,…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Mais pas des résultats !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "…ce qui permet aux agents des services fiscaux d’obtenir des résultats beaucoup plus ciblés.\nCette lutte repose également sur les moyens juridiques nouveaux donnés par ce texte : unité de renseignement fiscal, échanges avec le PNF, durée de la garde à vue – je ne reviens pas sur les mesures en matière de lutte contre la fraude sociale –, ainsi que sur la coopération internationale – comme nous le faisons en matière de lutte contre la fraude au prix de transfert et contre l’abus d’optimisation fiscale en matière d’impôt sur les sociétés (IS).\nMonsieur Dessigny, j’entends vos leçons, mais j’aimerais bien entendre un peu plus vos propositions. Pour l’instant, la seule proposition que vous avez formulée consiste à créer un ministère de plus. Si un ministère supplémentaire permettait de lutter contre la fraude, ça se saurait. Ce qui permet de lutter contre la fraude, c’est l’investissement dans des moyens technologiques – c’est ce que nous faisons –, le soutien à nos services fiscaux et à nos services sociaux, et des dispositions législatives nouvelles pour lutter contre ces mafias."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "C’est du blabla, tout ça ; vous ne proposez rien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis, pour soutenir l’amendement no 673, qui vise à supprimer l’article 9  decies."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Cet article prévoit la levée du secret professionnel et la transmission des expertises réalisées par les notaires, commissaires-priseurs et experts à l’administration fiscale, dans le cadre de successions ou de donations supérieures à 2 millions d’euros.\nLa DGFIP considère que ce droit de communication nouveau ne présenterait pas d’intérêt eu égard aux informations dont elle dispose déjà pour apprécier l’existence d’une disproportion entre l’évaluation et le prix de marché des biens, tels que des œuvres d’art présentes dans une succession, ou encore un immeuble. Les véritables risques de fraude en matière de succession résultent davantage de dissimulations que de fausses estimations ; ainsi, la transmission des consultations des notaires n’aurait aucun effet.\nJ’ai évoqué la DGFIP. Ce projet de loi est directement issu du terrain. Il n’a pas été conçu uniquement d’en haut, il a été élaboré par les agents eux-mêmes – ceux qui appliquent et contrôlent la fiscalité au quotidien. Ce sont eux qui voient les failles, ce sont eux qui affrontent les stratégies de fraude, ce sont eux qui savent ce qui fonctionne et ce qui ne fonctionne pas. C’est donc un projet de loi qui est ancré dans la réalité opérationnelle.\nPeut-être n’a-t-il pas une grande ambition, vous pouvez le regretter, mais cette loi aura le mérite d’être appliquée par ceux qui l’ont conçue – en grande partie –, ce qui peut changer la donne. Quand les agents de la DGFIP disent que le droit de communication introduit par l’article 9 decies n’apporte rien de nouveau, j’ai tendance à les croire.\nSi on veut regarder ce qui se passe du côté des notaires, il faut d’abord les interroger. Selon eux, ce n’est pas là qu’il faut aller chercher la fraude ; il faut plutôt regarder du côté de certains montages. Je proposerai un amendement plus tard, qui vise à boucher un trou dans la raquette identifié par les notaires que nous avons auditionnés. Cet amendement, qui concerne les sociétés civiles à prépondérance immobilière, a été travaillé avec les notaires, les avocats et les experts-comptables.\nSi, donc, je souhaite la suppression de l’article, c’est parce que la DGFIP assure que ce droit de communication ne présente aucun intérêt. Par ailleurs, en fragilisant les capteurs notariaux sur lesquels s’appuie Tracfin, un tel dispositif pourrait porter atteinte à un dispositif de lutte contre le blanchiment des capitaux et la fraude. Chaque année, plus de 4 000 déclarations de soupçon sont adressées par les notaires à Tracfin, soit environ 30 % des déclarations du secteur non financier. Par conséquent, les notaires font le job en matière de lutte contre la fraude."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Ça, c’est vrai !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Théo Bernhardt."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Les solutions, nous les avons ; vous ne les écoutez juste pas. On vous a proposé la e-prescription pour l’hôpital, avis défavorable ; que les fraudeurs paient, plutôt que les pharmaciens, lorsqu’il y a une fraude aux ordonnances électroniques, avis défavorable ; un doublement des peines pour les fraudes versées à l’étranger, avis défavorable ; une obligation de déclaration auprès de Tracfin pour les transferts de plus de 10 000 euros par mois vers les pays à risque, avis défavorable. À chaque fois, vous dites que c’est une bonne idée et que vous y avez pensé, mais l’avis du gouvernement est défavorable."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Il a raison de dire « avis défavorable » puisque, de toute façon, vous allez voter le texte."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "texte": "Nous avons les solutions, mais vous êtes enfermé dans votre carcan et vous ne voulez absolument pas écouter les idées de l’opposition. C’est tout. (Applaudissements sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Cela ne m’étonne pas : lorsque nous trouvons qu’un article va dans le bon sens, il fait souvent l’objet d’un amendement de suppression, de la part du rapporteur ou d’un député de droite.\nCet article lève le secret professionnel et contraint les professionnels opérant des successions et des dons de plus de 2 millions d’euros à transmettre à l’administration fiscale, à la demande de celle-ci, l’ensemble du dossier dont il dispose.\nNous pensions naïvement que cet article, qui visait les très hautes transmissions – nous aurions peut-être visé un peu plus bas – allait dans le bon sens, en venant limiter le secret professionnel et le secret des affaires – ce sont des constructions dont l’opacité, nous le savons, est favorable à l’évasion fiscale, et qu’il faut démanteler. Il permet aussi de lutter contre les sous-valorisations artificielles de patrimoine pour réduire les droits de succession.\nLa DGFIP vous dit que ce n’est pas utile. Je veux bien vous croire, mais, je le répète, quand on auditionne la direction de la DGFIP, on n’a pas forcément les mêmes échos que quand on auditionne les services ou les syndicats.\nEnfin, monsieur Labaronne, je n’ai pas compris en quoi il serait gênant d’adopter cet article par rapport aux capteurs notariaux, car je ne sais pas ce que c’est. J’aimerais que vous m’expliquiez ce que cela signifie."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Les capteurs notariaux, ce sont les déclarations – plus de 4 000 – que les notaires font à Tracfin dans le cadre de leurs obligations en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme. C’est sans doute la profession qui est la plus en prise avec des soupçons de fausses déclarations et de blanchiment d’argent. Les notaires jouent un rôle essentiel dans notre dispositif juridique."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Mais en quoi l’article serait-il gênant ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Vous semblez remettre en question la probité et la volonté des notaires d’être scrupuleux dans le cadre de successions."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Selon vous, il faut que les notaires transmettent à la demande de l’administration les dossiers d’expertise. Ils le font déjà – ils sont tenus de le faire. Toutes leurs expertises sont transmises dans le cadre d’une évaluation. Si jamais la DGFIP constate que dans l’expertise d’un immeuble par exemple, la valeur déclarée pour la succession est largement inférieure à la valeur de marché, il y aura automatiquement une rectification.\nVotre angle d’attaque n’est pas le bon. Si on veut lutter contre la fraude, s’agissant de l’implication des notaires, il faut intervenir à un autre niveau."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Cela n’enlève rien !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Si, quand même."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 673."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        73\n        Nombre de suffrages exprimés                73\n        Majorité absolue                        37\n                Pour l’adoption                26\n                Contre                47"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 673 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9  decies est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048900",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 9  decies",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Mathilde Feld, pour soutenir l’amendement no 657."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Cet amendement prévoit d’abroger l’extension du secret professionnel des avocats aux conseils, comme le recommandent les avocats du Conseil national des barreaux (CNB). Cette extension n’est qu’un paravent renforçant l’opacité dont jouissent les multinationales dans leur capacité à se soustraire à l’impôt.\nLa confidentialité de la correspondance entre une avocate ou un avocat et son client ou sa cliente doit être strictement réservée à des fins de droit à la défense, dans le cadre de l’indépendance des avocats concernés. En étendant cette protection aux activités de conseil au nom d’un culte du secret des affaires, la Macronie a sciemment choisi d’entraver les investigations de sa propre administration. La lutte contre la fraude fiscale s’en est trouvée affaiblie, pour le plus grand bonheur des champions de l’évasion que sont les grandes fortunes et les multinationales. Pire, il est possible de déclarer des prestations de conseil simulées pour protéger des documents compromettants échangés dans le cadre de telles prestations. Dans ce projet de loi, la Macronie ose vouloir mettre en place un système de surveillance généralisée en faisant circuler des informations privées d’une administration à l’autre sans véritable cadrage.\nÀ l’inverse de ce gouvernement fort et suspicieux avec les faibles et faible et mielleux avec les forts, nous proposons que le secret professionnel des activités de conseil de l’avocat soit inopposable en matière de fraude fiscale, de corruption et de trafic d’influence, en France comme à l’étranger, ainsi que de blanchiment de ces délits."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Votre amendement n’est pas tout à fait clair : dans votre exposé sommaire, vous parlez des avocats aux conseils, qui sont des officiers ministériels intervenant devant le Conseil d’État et la Cour de cassation, alors que votre dispositif semble plutôt concerner les activités de conseil des avocats, une fonction exercée par tous les conseils.\nSur le fond, votre amendement est déjà satisfait. L’article 66-5 de la loi du 31 décembre 1971 peut paraître couvrir l’ensemble des activités de l’avocat, mais la chambre criminelle de la Cour de cassation et la direction des affaires criminelles et des grâces (DACG), dans ses circulaires, considèrent que les activités de conseil qui ne participent pas à la préparation de la défense d’un prévenu ne sont pas couvertes par le secret professionnel. Je vous invite à parcourir la décision du Conseil d’État du 1er mars 2024 qui le précise. Un rapport du Conseil national des barreaux souligne que « sont exclues […] du champ de protection habituel les communications professionnelles lorsque l’avocat intervient dans le cadre d’une mission de conseil ». Les activités de conseil ne sont donc pas couvertes par le secret. Je ne sais pas si j’ai été clair."
+        },
+        {
+          "orateur": "M. Peio Dufau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841633",
+          "texte": "Non ! (Sourires sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Non ? La Cour de cassation considère que les activités de conseil qui ne participent pas à la préparation de la défense d’un prévenu ne sont pas couvertes par le secret professionnel des avocats. Ce que vous proposez par votre amendement est donc déjà appliqué."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Ce n’est pas clair ! (Sourires sur les bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Toutes les activités de conseil ne rentrent pas dans le cadre de la protection du secret professionnel. Le rapport du Conseil national des barreaux précise que « […] le secret professionnel de l’avocat est mis à l’épreuve en particulier lors de perquisitions ou d’écoutes téléphoniques. Si des garanties existent dans le code de procédure pénale […], la jurisprudence récente, en particulier les quatre arrêts rendus par la chambre criminelle de la Cour de cassation du 11 mars 2025 […], a restreint la portée du secret à ce qui relève strictement et uniquement des droits de la défense. »"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Ce n’est pas très clair… (Sourires sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je vous cite le rapport du Conseil national des barreaux."
+        },
+        {
+          "orateur": "Plusieurs députés des groupes SOC et EcoS",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Eh bien, ce n’est pas clair !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Si, ça me paraît clair ! Je poursuis : « Sont alors exclues du champ de protection habituel les communications professionnelles lorsque l’avocat intervient dans le cadre d’une mission de conseil. » C’est donc bien ce que vous proposez dans l’amendement."
+        },
+        {
+          "orateur": "M. Jérémie Iordanoff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Vous êtes sûr ?"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Ce n’est toujours par clair ! (Sourires sur les bancs des groupes EcoS et SOC.)"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Peut-être M. le ministre sera-t-il plus clair ? (Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.) Vous voulez lever le secret professionnel pour les activités de conseil. Ce que j’essaye de vous faire comprendre, c’est que c’est déjà le cas."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Pas toujours !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Les conseils donnés dans le strict cadre de la défense du prévenu sont couverts par le secret professionnel, mais celui-ci ne vaut pas pour les autres activités."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "C’est ce qu’ils ont fait pour Sarkozy."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Bref, tout cela n’était pas très clair !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 657."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        70\n        Nombre de suffrages exprimés                69\n        Majorité absolue                        35\n                Pour l’adoption                23\n                Contre                46"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 657 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Je demande une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures vingt, est reprise à vingt-trois heures vingt-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est reprise.\nSur les articles 9 undecies et 9 duodecies, je suis saisie par le groupe Rassemblement national d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4048926",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 undecies",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Vous direz au collègue Dessigny lorsqu’il reviendra que c’est le 3 février 2025 qu’il a refusé de voter la motion de censure dont le rejet a permis l’adoption du projet de loi de finances supprimant des postes à la DGFIP."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je n’ai pas de messages à faire passer.\n Les amendements nos 462 et 463 de M. le rapporteur pour avis sont rédactionnels."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 462\n             et\n             463, acceptés par le gouvernement,\n             successivement\n             mis\n             aux\n             voix, sont adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049278",
+      "valeurPtsOdj": "1",
+      "titre": "(Le sous-amendement no 1132\n               est\n               adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis, pour soutenir l’amendement no 464, qui fait l’objet d’un sous-amendement."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Il vise à garantir que l’extension du délai de conservation des documents ne s’applique qu’aux documents et pièces pour lesquels l’obligation de conservation n’avait pas déjà expiré à la date de publication de la présente loi. En l’absence d’une telle précision, l’extension du délai de conservation s’appliquerait à des documents qui ont pu être détruits de bonne foi par les administrés. Cet amendement garantit ainsi une application progressive de la nouvelle disposition dans le temps, conformément au principe de sécurité juridique."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard, pour soutenir le sous-amendement no 1132."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je me réjouis que vous considériez implicitement comme acquise l’adoption de ce sous-amendement, puisque vous avez vous-même utilisé la formule « à la date de la publication de la présente loi ». Or la rédaction de votre amendement évoque la date du 1er janvier 2027, et nous ne sommes pas certains que la loi sera publiée à cette date – notamment à cause des interventions répétées et intempestives de certains de nos collègues…\nC’est pourquoi ce sous-amendement propose de privilégier la formule « la publication de la présente loi », en cohérence avec les propos de M. le rapporteur pour avis, que j’invite donc à donner un avis favorable à ce sous-amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission sur ce sous-amendement ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "En effet, j’aurais dû préciser que la date finalement retenue était celle du 1er janvier 2027, et non celle de la publication de la loi."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Le sous-amendement est donc raisonnable !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Oui, mais je m’en remets à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Vous n’y êtes même pas favorable ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Je m’en remets à la sagesse de l’Assemblée pour le sous-amendement ;…"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "C’est injuste !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "…et j’émets un avis favorable sur l’amendement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 1132\n               est\n               adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 464, sous-amendé, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’article 9 undecies, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        49\n        Nombre de suffrages exprimés                49\n        Majorité absolue                        25\n                Pour l’adoption                49\n                Contre                0"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9 undecies, amendé, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Sur l’amendement n° 799 rectifié, je suis saisie, par le groupe Socialistes et apparentés, d’une demande de scrutin public.\nLes scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049294",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 duodecies",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Peio Dufau, pour soutenir l’amendement no 799 rectifié, qui fait l’objet d’un sous-amendement."
+        },
+        {
+          "orateur": "M. Peio Dufau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841633",
+          "texte": "Il y a un peu plus d’un mois, avec l’ancien ministre de l’économie Antoine Armand, nous déposions des amendements visant à lutter contre la fraude à la résidence principale. Ils ont été déclarés irrecevables, parce que votre projet de loi ne contenait pas de mesures relatives à cette question.\nPourtant, lors du récent débat budgétaire, lorsque j’avais soulevé la question, votre prédécesseur nous avait indiqué que le présent texte serait le véhicule adéquat. Alors que vous présentiez ce projet de loi à la veille de son examen par l’Assemblée, nous vous avions rappelé par courrier les propositions concrètes et transpartisanes élaborées pour s’attaquer à ce phénomène, et vous vous étiez engagé à y répondre rapidement.\nIl y a quelques heures, j’ai finalement reçu votre réponse selon laquelle vous vous engagiez à appliquer rapidement une de ces propositions : la signature, dès ce printemps, d’une convention fiscale entre la direction départementale des finances publiques des Pyrénées-Atlantiques et la communauté d’agglomération du Pays basque.\nJe salue cette première étape importante pour notre région : elle constitue un signal clair, adressé à l’ensemble des propriétaires de résidences secondaires tentés de contourner leurs obligations fiscales. Il faudra néanmoins aller plus loin, non seulement parce que le Pays basque n’est pas le seul territoire concerné par cette fraude fiscale, mais aussi parce qu’une coopération renforcée entre les collectivités territoriales et les services fiscaux permettra de mieux identifier les infractions, d’agir plus efficacement et de sécuriser les recettes au bénéfice de tous."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Mathilde Feld, pour soutenir le sous-amendement no 1133."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "texte": "Nous proposons une correction rédactionnelle de l’amendement no 799 rectifié, afin de clarifier la rédaction de l’alinéa 3 en substituant aux mots : « et l’adresse postale », les mots : « , l’adresse postale et l’adresse électronique ».\nJe partage l’indignation exprimée par M. Dufau, dont les amendements visant à lutter contre la fraude à la résidence secondaire n’ont pas été acceptés. Pourtant, il s’agissait simplement de modifier un logiciel dans lequel les contribuables peuvent déclarer plusieurs résidences principales. Cela fait plusieurs années que la question traîne et que l’administration, sous la houlette des gouvernements successifs, n’est pas capable de corriger de tels dysfonctionnements, qui génèrent une fraude fiscale élevée.\nEnfin, vous pouvez lancer une convention avec le Pays basque mais malheureusement, comme le dit M. Dufau, ce n’est pas la seule région concernée par ce type de fraude."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je répondrai à la fois au sujet du sous-amendement et de l’amendement, qui sont intimement liés.\nLe fait que l’administration fiscale transmette des informations aux collectivités locales sur la nature des logements occupés, qu’il s’agisse de résidences principales, de résidences secondaires ou de logements vacants, constitue une avancée importante.\nEn effet, le régime fiscal diffère selon la nature du logement. Ainsi, les résidences secondaires demeurent soumises à la taxe d’habitation, ce qui peut inciter certains propriétaires à déclarer comme résidence principale un bien qui, en réalité, est utilisé comme résidence secondaire."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "On peut faire ça ?"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Pour y remédier, nous avons introduit ce dispositif de transmission d’informations dans l’article 9 duodecies. Or votre amendement propose la transmission de l’ensemble des adresses électroniques des propriétaires de locaux vacants aux collectivités territoriales ou aux établissements publics de coopération intercommunale (EPCI). Cette mesure faciliterait certes le contact avec les administrés, mais un transfert aussi massif de données, sans contrôle ni conditions préalables, présente manifestement un fort risque de non-conformité au RGPD.\nEn outre, votre proposition exposerait les administrés à des fuites de données, en dispersant des informations à des dizaines de milliers de nouveaux acteurs, ce que cherche précisément à prévenir le principe de minimisation prévu par le RGPD.\nC’est pourquoi j’émets un avis défavorable sur l’amendement et le sous-amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Je tiens tout d’abord à remercier le député Dufau pour sa mobilisation dans la lutte contre la fraude à la résidence principale, qui constitue un véritable fléau au Pays basque, mais aussi dans de nombreux territoires soumis à une très forte pression touristique et caractérisés par la présence de très nombreuses résidences secondaires.\nComment peut-on y répondre plus efficacement, tout en respectant les critères de confidentialité exigés par le RGPD, comme vient de le rappeler M. le rapporteur pour avis ?\nMme Feld l’a souligné à juste titre : un correctif technique est nécessaire et sera réalisé.\nM. Dufau a souligné l’apport des conventions entre l’administration fiscale et les collectivités territoriales. À cet égard, je vous confirme, à la suite de la réponse écrite que je vous ai transmise, qu’une convention entre la direction départementale des finances publiques des Pyrénées-Atlantiques et la communauté d’agglomération Pays basque sera signée dès ce printemps, pour mieux lutter ensemble contre la fraude à la résidence principale.\nVous avez raison : la lutte ne s’arrête pas aux frontières du Pays basque ni des Pyrénées-Atlantiques. C’est pourquoi la direction générale des finances publiques est évidemment à la disposition de l’ensemble des collectivités locales qui voudront, sur le modèle du Pays basque mais aussi de la Corse, signer des conventions de ce type afin de fiabiliser les données et de lutter de manière implacable contre la fraude à la résidence principale, qui grève les finances des collectivités.\nSi vous ne retirez pas le sous-amendement et l’amendement, j’émettrai un avis défavorable sur les deux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Peio Dufau."
+        },
+        {
+          "orateur": "M. Peio Dufau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841633",
+          "texte": "Pour traquer la fraude sociale, il me semble que les données sont transmises de manière exhaustive et systématique.\nTransmettre aux collectivités l’adresse électronique des administrés permettrait de communiquer plus facilement avec eux. C’est simple et basique, comme dirait un chanteur : si l’on envoie un courrier postal à un faux résident principal, qui n’habite pas le logement en question, il ne le recevra pas. C’est pourquoi connaître son adresse électronique serait utile.\nAlors même que chacun d’entre nous la communique régulièrement, par exemple lors de la souscription du moindre abonnement, sa transmission aux services fiscaux ne me semble pas poser de difficulté majeure, d’autant que des dispositions similaires ont déjà été adoptées pour de nombreux articles de ce projet de loi."
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Il a raison, c’est assez simple !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 1133 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’amendement no 799 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        56\n        Nombre de suffrages exprimés                55\n        Majorité absolue                        28\n                Pour l’adoption                35\n                Contre                20"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 799 rectifié est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049329",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Il se fonde sur l’article 40 du règlement. L’Assemblée a adopté mon sous-amendement à l’amendement no 464, afin de prévoir que les dispositions de l’article 9  undecies entrent en vigueur à compter de la publication de la présente loi, et non au 1er janvier 2027.\nNous avions déposé un sous-amendement de même nature sur l’amendement no 465, mais il avait été déclaré irrecevable. Nous l’avons donc redéposé et demandons une suspension de séance pour laisser aux services de la séance le temps de se prononcer sur sa recevabilité.\nÀ défaut, certaines dispositions entreraient en vigueur au 1er janvier 2027, tandis que d’autres s’appliqueraient dès la publication de la loi. Notre demande vise donc simplement à assurer la coordination du texte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Votre sous-amendement n’est pas recevable car il est contradictoire avec l’amendement sur lequel il porte."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Alors, on rejette la loi !"
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Le texte n’est pas cohérent !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049336",
+      "valeurPtsOdj": "1",
+      "titre": "Article 9 duodecies (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "L’amendement no 466 de M. le rapporteur pour avis est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 466, accepté par le gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049339",
+      "valeurPtsOdj": "1",
+      "titre": "Suspension et reprise de la séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis, pour soutenir l’amendement no 465."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Il vise à modifier la date d’entrée en vigueur de l’article 9  duodecies. Initialement, ce dispositif devait s’appliquer le 1er janvier 2026. Il entrerait désormais en vigueur le 1er janvier 2027, conformément aux souhaits de la DGFIP."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Je ne jette la pierre à personne, cependant je souligne qu’une telle modification entraîne un problème de coordination, car certaines dispositions s’appliqueront dès la publication de la loi et d’autres à partir du 1er janvier 2027. Est-il possible de sous-amender l’amendement no 465 ou de trouver une solution ? Nous ne pouvons plus demander de suspension de séance ; des collègues pourraient-ils le faire afin de trouver une solution ? Nous lançons un appel pour que ce texte qui, déjà, ne sert à rien, ne soit pas en plus complètement fouillis. Nous faisons ainsi preuve de bonne volonté et de coconstruction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à M. le rapporteur pour avis."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": "rapporteur pour avis",
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Ces dates ne se rapportent pas au même dispositif. Il est fréquent que, dans un projet de loi, les dates d’entrée en vigueur des différentes dispositions ne soient pas les mêmes, sans que cela pose de problème. Que l’entrée en vigueur des dispositions prévues à l’article 9  duodecies soit repoussée au début de l’année 2027 ne crée pas de difficulté ; c’est nécessaire au déploiement du dispositif qui est relativement lourd, tandis que le dispositif précédent était plus léger et pouvait donc entrer en application dès la publication de la loi, comme vous l’avez proposé dans le sous-amendement no 1132."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Cela crée une insécurité juridique !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "La parole est à Mme Christine Arrighi."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "texte": "Je demande une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Elle est de droit."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures quarante-cinq, est reprise à vingt-trois heures cinquante-trois.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est reprise.\nLa parole est à M. Laurent Baumel."
+        },
+        {
+          "orateur": "M. Laurent Baumel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606793",
+          "texte": "Nous faisons usage à notre tour de notre droit à demander une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures cinquante-trois, est reprise à vingt-trois heures cinquante-sept.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La séance est reprise."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 465 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Je mets aux voix l’article 9 duodecies, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        38\n        Nombre de suffrages exprimés                34\n        Majorité absolue                        18\n                Pour l’adoption                33\n                Contre                1"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 9 duodecies, amendé, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "4049387",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "texte": "Prochaine séance, demain, à quinze heures :\n Questions au gouvernement ;\n Discussion du projet de loi, adopté par le Sénat, après engagement de la procédure accélérée, autorisant l’approbation de la convention entre le gouvernement de la République française et le gouvernement de la République italienne relative à l’entretien courant et à l’exploitation de la section située en territoire français de la ligne ferroviaire Coni-Breil-Vintimille ;\n Suite de la discussion du projet de loi relatif à la lutte contre les fraudes sociales et fiscales.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1523 @@
+{
+  "uid": "CRSANR5L17S2025O1N085",
+  "seanceRef": "RUANR5L17S2025IDS28901",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-01-28",
+  "dateLisible": "mardi 28 janvier 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3611151",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la proposition de loi visant à renforcer la lutte contre les violences sexuelles et sexistes (nos 669, 845)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611153",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Cet après-midi, l’Assemblée a commencé l’examen des articles de la proposition de loi, s’arrêtant à l’amendement no 33 à l’article 4."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611155",
+      "valeurPtsOdj": "1",
+      "titre": "Article 4",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Émilie Bonnivard, pour soutenir l’amendement no 33."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "Cet amendement du groupe Droite républicaine vise à réécrire l’article 4. L’inceste constitue l’une des violences sexuelles les plus graves, qui entraîne des répercussions psychologiques et sociales profondes chez les victimes, des répercussions durables et multigénérationnelles. Pourtant, il demeure un sujet largement tabou dans la société, ce qui entrave les efforts de prévention, de signalement et de réparation.\nNous demandons au gouvernement la remise d’un rapport afin d’évaluer et d’améliorer les politiques publiques de lutte contre l’inceste et d’accompagnement des victimes, en tenant compte des besoins spécifiques de ces dernières et des obstacles qu’elles rencontrent. Madame la ministre chargée de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations, cette démarche rejoint votre proposition d’élaborer une loi-cadre permettant une approche globale des violences sexuelles.\nLa Commission indépendante sur l’inceste et les violences sexuelles faites aux enfants (Ciivise) propose, dans son rapport publié le 20 novembre 2023, un cadre pour élaborer un texte législatif et nourrir ce rapport demandé au gouvernement. L’approche globale préconisée par la Ciivise s’articule autour de quatre axes : le repérage des victimes, avec le questionnement systématique des enfants ; le traitement judiciaire ; la réparation ; la prévention. Le rapport de la Ciivise est très riche et nous devrions rapidement en tirer les leçons."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Maud Bregeon, rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "Mme Maud Bregeon",
+          "fonction": "rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA795990",
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme la ministre déléguée chargée de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée chargée de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Je m’en remets à la sagesse de l’Assemblée, comme nous le faisons souvent pour les demandes de rapport."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Non, c’est en général un avis défavorable qui est donné sur les demandes de rapport !"
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Je remercie Mme Bonnivard pour son engagement constant sur cette question, ainsi que son groupe qui a apporté son soutien à cet amendement et à la proposition de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 33 est adopté ; en conséquence, l’article 4 est ainsi rédigé.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611167",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 4",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je suis saisie de plusieurs amendements portant article additionnel après l’article 4.\nLa parole est à Mme la ministre déléguée, pour soutenir l’amendement no 41 du gouvernement."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "En lien avec le garde des sceaux, je défendrai plusieurs amendements du gouvernement. Celui-ci vise à renforcer la répression des viols sur deux points. D’abord, l’aggravation de la peine en cas de viol sériel, c’est-à-dire commis en série, qui est portée de vingt à trente ans de réclusion – je salue l’engagement de la sénatrice Laurence Rossignol, qui a beaucoup travaillé sur cette question. Ensuite, l’ajout de deux circonstances aggravantes au viol : la préméditation et la commission du viol sur le lieu d’habitation de la victime. J’ose espérer que cette mesure fera l’objet d’un large consensus dans cette assemblée."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Maud Bregeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795990",
+          "texte": "Favorable. Cet amendement répond parfaitement à l’objectif de la proposition de loi : apporter une meilleure réponse face au crime du viol."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Colette Capdevielle."
+        },
+        {
+          "orateur": "Mme Colette Capdevielle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "En préparant cette séance, j’ai découvert que Laurence Rossignol avait effectivement déposé au Sénat, le 10 mai 2024, une proposition de loi – enregistrée sous le no 589 – visant à permettre le cumul de circonstances aggravantes en matière de viol et à adapter les peines encourues à la gravité du viol commis. Ce texte contient déjà le dispositif proposé par cet amendement du gouvernement, à savoir la modification de l’article L. 222-24 du code pénal. Comme nous le faisons pour les amendements reprenant le travail d’un autre député, pour une simple raison déontologique, j’aurais apprécié que le gouvernement reconnaisse que son amendement copie-colle la proposition de loi de Mme Rossignol."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "C’est ce que je viens de dire !"
+        },
+        {
+          "orateur": "Mme Colette Capdevielle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "Vous l’avez dit oralement, mais vous ne l’avez pas indiqué dans l’exposé sommaire : ça aurait été la moindre des choses, ne serait-ce que pour reconnaître le travail mené par cette ancienne ministre. Votre amendement reprend exactement la rédaction de sa proposition de loi ! Nous le voterons néanmoins puisqu’il s’agit d’une mesure proposée par Laurence Rossignol."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 41 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611177",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 42 est adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme la ministre déléguée, pour soutenir l’amendement no 42 du gouvernement."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "J’ai rendu hommage au travail de Laurence Rossignol. Nous travaillons main dans la main avec elle sur beaucoup de sujets : la lutte contre les violences faites aux femmes, mais aussi la stratégie de lutte contre le système prostitutionnel, dans le cadre de la loi du 13 avril 2016 visant à renforcer la lutte contre le système prostitutionnel et à accompagner les personnes prostituées, qu’elle avait défendue comme ministre. Ici, nous souhaitons simplement conforter le droit en saisissant l’occasion législative qui s’offre à nous.\nDans le même esprit, le présent amendement vise à allonger la durée maximale de la garde à vue à soixante-douze heures lorsque l’enquête porte sur certaines infractions commises contre le conjoint, le partenaire ou le concubin. Prolonger la garde à vue serait très utile et pertinent pour mieux appréhender les auteurs de violences sexuelles et sexistes et mieux protéger les victimes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Maud Bregeon",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795990",
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Colette Capdevielle."
+        },
+        {
+          "orateur": "Mme Colette Capdevielle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "Nous ne voterons pas cet amendement, qui constitue un cavalier législatif, c’est-à-dire une disposition qui n’a rien à voir avec le texte. Il a été subitement déposé la nuit dernière, alors qu’il vise – carrément ! – à modifier les durées de la garde à vue pour certains types d’infraction. Madame la ministre, il n’est pas possible de travailler dans ces conditions et de modifier ainsi le code de procédure pénale et le régime de la garde à vue !"
+        },
+        {
+          "orateur": "M. René Pilato",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA817211",
+          "texte": "Elle a raison !"
+        },
+        {
+          "orateur": "Mme Colette Capdevielle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "D’autant que, d’après l’exposé sommaire, cette disposition concerne, outre les viols, les meurtres, les assassinats et les empoisonnements. Ce n’est pas une façon sérieuse de travailler dans cette assemblée et il n’est pas acceptable que cet amendement n’ait pas été examiné en commission.\nLorsque j’étais députée sous la XIVe législature, le président de la commission des lois de l’époque, Jean-Jacques Urvoas, avait instauré la règle suivante : tout amendement du gouvernement déposé à la dernière minute recevait un avis défavorable. La précipitation n’est pas une bonne manière de légiférer, qui plus est lorsqu’il s’agit de modifier substantiellement le code de procédure pénale et – excusez du peu – les durées de la garde à vue. (Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Ugo Bernalicis."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Je viens en renfort de notre collègue Capdevielle. Sur la forme, il est clair que modifier la loi de cette façon, par un amendement déposé en séance, est hautement problématique. Mais sur le fond, ce n’est pas mieux : va-t-on augmenter à chaque fois les durées de la garde à vue, et pourquoi pas jusqu’à quatre-vingt-seize heures, puisque ce régime existe déjà en matière de terrorisme ?\nQuand on écoute les revendications en la matière, c’est bien souvent le manque d’enquêteurs et d’enquêtrices qui revient. La liberté d’une personne mise en cause, et présumée innocente, devient la variable d’ajustement d’un manque de moyens ; nous ne sommes pas d’accord ! D’autant que, comme l’a dit Mme Capdevielle, le périmètre de l’amendement excède largement celui de la proposition de loi.\nS’il y a bien quelqu’un qui est en cause s’agissant du manque d’enquêteurs et d’enquêtrices dans ce pays, c’est Gérald Darmanin. (Applaudissements sur les bancs du groupe LFI-NFP.) Il a lancé une réforme scandaleuse – la départementalisation de la police judiciaire –, dont nous dresserons prochainement le bilan à la commission des lois. En conséquence, le ministre Retailleau a pris acte, dans le projet de loi de finances pour 2025, d’une baisse de 5 000 équivalents temps plein travaillé (ETPT) dans la police judiciaire. Or ce sont pour l’essentiel les sûretés départementales, déjà engorgées et en souffrance, qui mènent les enquêtes pour viol ou agression sexuelle. La liberté n’est pas une variable d’ajustement ! (Applaudissements sur les bancs du groupe LFI-NFP. – M. Jérémie Iordanoff applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Elsa Faucillon."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Nous voterons également contre cet amendement. Comme cela a été dit, il s’agit d’un cavalier législatif et on ne peut pas, par manque de moyens, déroger aux libertés publiques et aux droits fondamentaux. Cet amendement devrait constituer une alerte quant à notre façon de traiter la question des violences sexistes et sexuelles. En effet, on voit bien le penchant qui peut être le nôtre, face au très mauvais traitement judiciaire de ces questions, de durcir en permanence les conditions de détention, voire de déroger aux grands principes de la justice. Or ce n’est pas comme cela que nous parviendrons à lutter contre ces violences de façon pragmatique, en tenant compte des chiffres.\nQuand bien même nous dérogerions à tous les principes et prolongerions toutes les durées de garde à vue, les affaires ne recevront pas pour autant les moyens d’enquête nécessaires ni la réponse pénale adéquate. Nous sommes conduits à déroger à de nombreux principes en pensant que cela permettra de mieux traiter le problème. Or ces principes n’ont pas été instaurés uniquement parce que nous les trouvions beaux, mais parce qu’ils étaient aussi gages d’efficacité judiciaire. Cette inflation pénale ne conduit à rien et ne permet pas que la justice traite mieux les violences sexistes et sexuelles. Telle est la réflexion plus large à laquelle nous invite ce type d’amendement. (Applaudissements sur les bancs des groupes GDR et LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme la ministre déléguée."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Je suis étonnée. J’ai présenté rapidement cet amendement parce que je pensais sincèrement qu’il ferait l’objet d’un consensus."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "C’est mal nous connaître !"
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Qu’un amendement soit déposé en séance est l’usage, puisqu’un amendement peut être déposé soit en commission, soit en séance. De plus, cet amendement a été largement annoncé par le garde des sceaux ; nous ne prenons personne par surprise. Nous avons simplement saisi l’occasion de ce véhicule législatif pour assurer une application plus rapide de la mesure, au bénéfice de la justice et des victimes.\nS’agissant de l’aspect dérogatoire de cette mesure, je vous invite – mais j’imagine que vous l’avez fait – à lire le dispositif de l’amendement : « Cette seconde prolongation est autorisée, par décision écrite et motivée, soit, à la requête du procureur de la République, par le juge des libertés et de la détention, soit par le juge d’instruction. »"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Eh oui, c’est encadré !"
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Il s’agit donc d’une prolongation très strictement encadrée. Par ailleurs, concernant son efficacité, il s’agit de mieux appréhender les auteurs d’infraction ou de crime et de mieux protéger les victimes. Or la prolongation de la durée de la garde à vue permet d’approfondir les investigations nécessaires à la manifestation de la vérité, notamment la collecte d’éléments de preuve que le temps efface rapidement, au détriment des victimes : la réalisation de constatations techniques et scientifiques, la prise en compte de rapports d’examen ou d’expertise, ou encore la réception du résultat de réquisitions techniques.\nLa protection de la personne mise en cause est garantie par la nécessaire motivation de la décision judiciaire de la prolongation de la garde à vue, ainsi que par le caractère obligatoire de l’avis médical. Nous aboutissons ainsi à un juste équilibre, avec l’impératif de donner du temps à la justice, afin de protéger les victimes. Celles-ci méritent un consensus plus que les polémiques !"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 42 est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611052",
+      "valeurPtsOdj": "1",
+      "titre": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Colette Capdevielle, pour soutenir l’amendement no 12."
+        },
+        {
+          "orateur": "Mme Colette Capdevielle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "L’amendement que je vous propose est d’autant plus pertinent que ceux qui tendaient à rétablir l’article 1er ont été rejetés tout à l’heure – nous devons prendre le temps de travailler sur la question de la prescription.\nIl vise à demander au gouvernement de remettre au Parlement un rapport sur l’opportunité de changer les règles de la prescription pénale concernant les crimes et les délits sexuels. Ce rapport devra être préparé avec la délégation aux droits des femmes et à l’égalité des chances entre les hommes et les femmes de l’Assemblée nationale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Maud Bregeon",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795990",
+          "texte": "Je suis d’accord avec vous : nous avons besoin de temps pour travailler sur cette question. Mais nous aurions pu l’avoir s’il ne s’était trouvé, dans cet hémicycle, une majorité pour rejeter le rétablissement et la réécriture de l’article 1er. (« Oh ! » sur les bancs du groupe RN.) Le Sénat aurait pu, sans cela, s’y pencher à son tour, et l’Assemblée nationale aurait pu l’examiner en deuxième lecture : autant de mois pour continuer à travailler.\nJe donne donc un avis défavorable sur cet amendement. Je trouve quelque peu hypocrite cette façon de réclamer un rapport sur une question dont traitait un article que l’on a repoussé."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "C’est nullissime ! N’importe quoi ! Elle est décevante, la gauche."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Je suis d’accord, et ce d’autant plus, madame la députée, que vous demandez au gouvernement de redonner un avis qu’il a déjà donné : il s’est très clairement prononcé, dans le cadre de l’examen de cette proposition de loi, sur l’imprescriptibilité en matière civile. Est-il bien utile que le gouvernement produise un rapport pour redonner le même avis, motivé de la même manière ? D’autant que les rapports ne manquent pas : il y a celui de la Ciivise ou encore celui que Jean-Marc Sauvé a remis dans le cadre des travaux de la commission sur les abus sexuels dans l’Église.\nRestent des divergences d’ordre politique : je souhaite, à ce titre, engager un travail transpartisan, avec l’ensemble des groupes, sur la loi-cadre. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sandra Regol."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Jusqu’ici, en commission comme dans l’hémicycle, nous avons eu un débat de bonne tenue. Nous avons, les uns et les autres, essayé d’écouter les avis contraires et de les respecter. Mais entendre, à cette heure, que la navette parlementaire tiendrait lieu de débat et nous faire renvoyer dans les cordes quand nous demandons, sur un sujet si difficile, la possibilité d’avoir une discussion approfondie ! Madame la rapporteure, ce n’est pas au niveau…"
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "C’est vous qui n’avez pas été au niveau !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "À aucun moment les personnes en désaccord avec vous ne vous ont adressé, ce soir, des reproches du genre de ceux que vous venez de formuler. Sans respect, il n’y a pas de travail possible. (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC, LIOT et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Danièle Obono."
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Ce dont nous discutons ici, c’est bien d’une proposition de loi, et pas d’un projet de loi. Dans ce dernier cas de figure, nous aurions pu avoir des avis, demandés par le gouvernement. Vous ne pouvez donc pas nous reprocher de demander un rapport après nous avoir contraints à discuter d’un texte pour lequel il n’existe aucune étude d’impact, aucune évaluation.\nNous sommes défavorables à l’imprescriptibilité, mais nous pensons que le débat est légitime. Nous aurions aimé échanger plus d’arguments, pour renforcer nos convictions comme pour les ébranler. Il est plus que cavalier de nous reprocher de vouloir avoir ce genre de discussion quand, sur un certain nombre de questions, vous nous avez mis au pied du mur.\nVous-même, madame la rapporteure, vous avez exprimé, lors des débats en commission, votre insatisfaction devant la manière dont l’examen de cette proposition de loi, dont vous reconnaissez d’ailleurs les imperfections, était conduit. Remémorez-vous donc cet instant de lucidité, sans rejeter sur nos épaules la responsabilité d’un texte qui n’est pas, de notre point de vue, à la hauteur du sujet. Tout le monde, pourtant, en reconnaît l’importance et désire apporter des réponses aux victimes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme la rapporteure."
+        },
+        {
+          "orateur": "Mme Maud Bregeon",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795990",
+          "texte": "J’ai dit que nous avions besoin de temps. J’ai également dit qu’il était nécessaire de rétablir l’article 1er, ainsi que l’article 3 – pour le message envoyé aux victimes, mais aussi pour que la discussion se poursuive lors de la navette parlementaire.\nVous accusez Mme la ministre déléguée de vous imposer l’examen de cette proposition de loi dans un temps effectivement très contraint. Mais, comme le président Boudié l’a souligné en commission, le texte est débattu dans le cadre d’un ordre du jour transpartisan : aucun groupe ne s’y est donc opposé, et, si nous l’examinons, c’est que nous l’avons collectivement souhaité."
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Bah non !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme la ministre déléguée."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Je le note donc pour l’avenir : aucune proposition de loi substantielle ne peut donc être examinée sans avis préalable du Conseil d’État ! (Sourires sur les bancs du groupe EPR.) Je crains bien que, dans le cadre des niches parlementaires ou de l’ordre du jour transpartisan, presque aucune proposition de loi n’ait jamais fait l’objet d’un tel avis. (M. Ugo Bernalicis s’exclame.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Ces textes sont-ils donc disqualifiés par avance ? Étonnante conception du travail parlementaire qui doit être le nôtre et de notre liberté, comme députés, d’utiliser les outils à notre disposition. La rapporteure l’a rappelé : ce n’est pas mon groupe qui a inscrit ce texte, au forceps, à l’ordre du jour, mais c’est au contraire un consensus très large, dégagé en conférence des présidents, qui a permis de le faire figurer, aujourd’hui, en deuxième position.\nCette demande de rapport ne correspond pas à la méthode qui doit être la nôtre. Je préfère celle que je vous ai indiquée, plus efficace : engageons, avec l’ensemble des groupes – chaque président de groupe choisira qui le représente –, un travail sur une loi-cadre. Cela vaut mieux qu’un nouveau rapport dans lequel le gouvernement ne fera que répéter ce qu’il a déjà dit ce soir."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je mets aux voix l’amendement no 12."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        168\n        Nombre de suffrages exprimés                111\n        Majorité absolue                        56\n                Pour l’adoption                51\n                Contre                60"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 12 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611085",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 31, repoussé par le gouvernement, n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sandrine Josso, pour soutenir l’amendement no 31."
+        },
+        {
+          "orateur": "Mme Sandrine Josso",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720038",
+          "texte": "Il a pour objet l’évaluation régulière de l’application de la loi, afin qu’elle assure au mieux la protection des victimes, femmes en enfants – c’est là notre devoir."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "Mme Maud Bregeon",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795990",
+          "texte": "Avis défavorable. Si je pense aussi, évidemment, qu’il est nécessaire de contrôler l’application de la loi, c’est là, selon moi, le rôle ordinaire du Parlement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 31, repoussé par le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611090",
+      "valeurPtsOdj": "1",
+      "titre": "Titre",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Graziella Melchior, pour soutenir les amendements nos 36 et 35, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "Mme Graziella Melchior",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719338",
+          "texte": "Ces deux amendements tendent à modifier le titre de la proposition de loi.\nLe no 35 vise à rétablir le titre initial, que la commission des lois avait souhaité modifier pour supprimer la mention « faites aux femmes et aux enfants ». Je crois qu’elle devrait bien figurer dans le titre de la loi, dont l’objectif premier est de contribuer à la reconnaissance des victimes.\nLe no 36 vise, lui, à rétablir ce titre initial et à y ajouter « et permettre une meilleure réparation ». La proposition de loi contribue en effet à cette réparation, qui, si elle ne peut effacer les drames vécus, permet d’accompagner les victimes vers le chemin de l’apaisement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis de la commission sur ces deux amendements ?"
+        },
+        {
+          "orateur": "Mme Maud Bregeon",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA795990",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Je m’en remets à la sagesse de l’Assemblée : j’aurais aimé que la proposition de loi porte sur la lutte contre les violences faites aux enfants, mais il s’est malheureusement trouvé en commission une majorité pour rejeter l’article 1er, qui permettait justement aux enfants victimes d’inceste d’avoir accès à la justice une fois devenus adultes. J’espère que nous saurons, au Sénat, trouver les voies pour avancer sur ce point."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Colette Capdevielle."
+        },
+        {
+          "orateur": "Mme Colette Capdevielle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "Si, en commission, j’avais déposé un amendement tendant à changer le titre du texte, c’est parce que ce sont les enfants, les femmes et les hommes qui sont victimes de violences sexuelles et sexistes. L’arrêt de la Cour de cassation que j’ai évoqué tout à l’heure concernait un jeune homme. Dans nombre d’établissements scolaires, de jeunes hommes mineurs sont victimes de ces violences. Dans le collège de l’institution Notre-Dame de Bétharram, dans ma région, toutes les victimes sont de sexe masculin. Si les victimes sont le plus souvent des femmes et des enfants – c’est une évidence –, on compte aussi des hommes parmi elles. Or il est beaucoup plus compliqué pour les hommes de libérer leur parole sur les violences sexuelles et de porter plainte. Il n’y a d’ailleurs ce soir – je l’ai déjà dit et je le regrette – presque que des femmes qui se sont exprimées. J’aurais aimé entendre les hommes se prononcer au sujet des violences qui peuvent leur être faites.\nJe vous invite donc à rejeter ces amendements : le titre actuel est général et couvre l’ensemble des violences sans faire de différence entre les hommes, les femmes et les enfants. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 36 et 35, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Nous avons achevé l’examen des articles de la proposition de loi.\nSur l’ensemble du texte, je suis saisie par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611105",
+      "valeurPtsOdj": "1",
+      "titre": "Explications de vote",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sophie Blanc."
+        },
+        {
+          "orateur": "Mme Sophie Blanc (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794886",
+          "texte": "Nous sommes favorables à toutes les mesures visant à protéger les victimes et à sanctionner les auteurs avec fermeté. Mais cette cause essentielle mérite des outils juridiques clairs, applicables et conformes à nos principes fondamentaux. Or l’introduction, dans la proposition de loi, du concept de contrôle coercitif soulève de graves inquiétudes. Il ouvre la voie à des dérives en permettant des interprétations arbitraires, contraires au principe de l’égalité des citoyens devant les délits et les peines. Cette approche, loin de protéger réellement les victimes, alourdit le travail des forces de l’ordre et celui d’une institution judiciaire déjà saturée, tout en risquant d’alimenter des conflits de manière injustifiée. On complique la tâche de magistrats débordés en introduisant une notion floue, caractérisant une infraction difficile à prouver dans le cadre d’une procédure judiciaire.\nDans un esprit de responsabilité, et en dépit de notre engagement pour cette cause, nous nous abstiendrons donc lors du vote de la proposition de loi. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Graziella Melchior."
+        },
+        {
+          "orateur": "Mme Graziella Melchior (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719338",
+          "texte": "Si nous regrettons que l’article 1er n’ait pas été rétabli – il s’agissait d’une demande à laquelle les associations tenaient fortement et d’une solution utile contre les phénomènes d’amnésie traumatique –, nous nous félicitons d’avancées importantes grâce à ce texte, qui seront saluées par la société et qui feront date.\nÀ l’article 2, l’extension de la prescription glissante permettra de mieux lutter contre les prédateurs, les récidivistes et les multirécidivistes.\nLa réintroduction de l’article 3 et de la notion de contrôle coercitif est essentielle. Nous allons enfin nous doter d’un outil pour poursuivre des actes qui, individuellement, ne peuvent être poursuivis, mais qui, cumulés, mettent les victimes dans une situation de sujétion grave.\nNous voterons en faveur de ce texte. (Applaudissements sur plusieurs bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Danièle Obono."
+        },
+        {
+          "orateur": "Mme Danièle Obono (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "D’après un rapport de 2023 du Haut Conseil à l’égalité entre les femmes et les hommes, chaque année, plus de 80 000 femmes déclarent avoir subi un viol ou une tentative de viol. Pourtant, moins de 10 % des victimes portent plainte et 80 % des plaintes sont classées sans suite – seules 1 % des plaintes aboutissent à une condamnation pénale.\nConcernant les crimes sexuels sur mineurs, les données sont tout aussi accablantes puisque 160 000 enfants en sont victimes chaque année. Au moment des faits, seules 13 % des victimes les révèlent à leur entourage. En outre, seulement la moitié des victimes bénéficient d’un suivi médical et psychologique et 80 % ne portent pas plainte.\nLes violences sexuelles et sexistes sont massives, systémiques, structurelles. Depuis longtemps, cette réalité aurait dû amener les pouvoirs publics à engager des politiques d’ampleur et à consacrer des moyens importants à leur prévention (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS), pour protéger les femmes et les enfants qui en sont les premières victimes et pour leur permettre, quand cette protection a failli, d’obtenir justice. Mais ce n’est toujours pas le cas. En 2023, l’État n’a investi que 12,7 millions d’euros pour lutter contre les violences sexuelles hors couples. Ce budget est dérisoire au regard des besoins, estimés à 2 milliards par les associations.\nLe budget de la justice est lui aussi inconséquent : alors que la moyenne européenne est de 21,9 magistrats pour 100 000 habitants, notre pays est loin derrière, avec seulement 11,3 magistrats. Comme celle de la justice pénale, la situation de la justice civile est alarmante. En 2019, les tribunaux ont traité près de 1,8 million d’affaires ; la médiane du délai de traitement des affaires en première instance était de quatre-cent-vingt jours, soit près d’un an et demi…\nMontesquieu affirmait que « les lois inutiles affaiblissent les lois nécessaires ». En l’espèce, c’est bien le cas : l’article 2 élargit aux personnes majeures le principe de prescription glissante jusque-là réservée aux mineurs. Si nous avions voté pour cette mesure en 2021 en raison du caractère spécifique des crimes sexuels sur les mineurs, nous ne disposons toujours d’aucune évaluation du dispositif, alors qu’il suscitait déjà de nombreuses interrogations il y a quatre ans. Le Conseil national des barreaux pointe ainsi le risque d’insécurité juridique et celui de créer de facto une forme d’imprescriptibilité.\nL’article 3, supprimé en commission mais rétabli en séance, introduit la notion de contrôle coercitif dans la loi pénale. Mais ce concept est d’abord sociologique et psychologique. Il permet de déterminer s’il existe des modalités particulières de contrôle patriarcal au sein des couples. Il commence seulement à être analysé juridiquement, notamment sous l’égide de l’Observatoire des litiges judiciaires de la Cour de cassation. Son introduction dans le code pénal, à l’occasion de l’examen d’une proposition de loi qui n’a bénéficié d’aucune étude d’impact, soulève de nombreuses réserves et nous semble prématurée.\nComme le rappelait Evan Stark, l’un des théoriciens du contrôle coercitif, en 2023, « quel que soit le soin apporté à la rédaction d’une loi, celle-ci n’aura aucun effet si l’on ne s’attaque pas simultanément aux conditions de discrimination et d’inégalité qui légitiment et perpétuent le contrôle coercitif. […] La loi sur le contrôle coercitif fait partie d’un programme de changement ; elle ne peut s’y substituer. » (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Or quelle est la lacune majeure de tous les textes adoptés depuis sept ans pour lutter contre les violences sexistes et sexuelles ? Ils ne s’attaquent pas au fond du problème.\nIl a fallu des années et la persévérance des associations qui ont défendu ces revendications pour que nous reconnaissions l’urgence d’une réponse globale. J’ai entendu avec satisfaction notre quasi-unanimité sur ce point, mais qu’en est-il de la traduction parlementaire et gouvernementale de ce consensus ? Qu’en est-il de l’investissement financier annuel de plus de 2 milliards estimé nécessaire par les associations ? Qu’en est-il des trois séances d’éducation à la vie affective et sexuelle à l’école,…"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "…de la formation des fonctionnaires de la justice, de la police, de l’éducation nationale et de la santé ? Nous regrettons que les gouvernements successifs depuis sept ans ne se soient pas employés à déployer ces politiques, indispensables, leur préférant le durcissement de l’appareil répressif. Pourtant, cette inflation répressive n’a jamais démontré ses effets dissuasifs, et vous l’avez favorisée au détriment des moyens des services publics pourtant essentiels en matière de prévention.\nDans quelques jours, le projet de loi de finances pour 2025 revient à l’Assemblée nationale sous une forme encore plus austéritaire que sa version initiale. Vos décisions budgétaires contribueront à dégrader la situation. C’est pourquoi nous les combattrons avec détermination.\nEnfin, que dire de la logique générale du texte – l’extension de l’imprescriptibilité –, qui favorisera le recours à la justice pénale comme seule institution capable de réguler les comportements infractionnels et de protéger le public ? La prescription est un principe cardinal de notre droit et, jusqu’à présent, il n’a été écarté qu’en matière de crimes contre l’humanité. Assimiler les crimes sexuels à ces derniers introduirait une incohérence dans la hiérarchie des infractions. Ce débat est récurrent et légitime. Il met en jeu nos conceptions de la justice, nos principes, mais aussi nos convictions et nos déchirements intimes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Merci de bien vouloir conclure !"
+        },
+        {
+          "orateur": "Mme Danièle Obono",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721960",
+          "texte": "Si ce débat revient à intervalles réguliers, nous, législateurs, ne pouvons nous y engager ni par des glissements successifs, ni par des voies détournées, et encore moins en détournant l’objet de la proposition de loi comme le font les amendements du gouvernement. Pour toutes ces raisons, nous voterons contre ce texte. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Colette Capdevielle."
+        },
+        {
+          "orateur": "Mme Colette Capdevielle (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608264",
+          "texte": "Ce texte est loin d’être parfait, mais le groupe Socialistes et apparentés a fait le maximum pour le faire avancer dans le bon sens. Entre le texte initial et celui issu de nos débats dans l’hémicycle, le travail parlementaire a été riche. Je remercie tous les collègues qui ont contribué à ces avancées importantes.\nCertes, nous ne sommes pas unanimes sur la prescription civile – c’est le moins que l’on puisse dire – et nous devons continuer de travailler cette question. Mais l’apport majeur de ce texte, ce que l’on en retiendra, c’est qu’il crée une nouvelle infraction pénale : le contrôle coercitif.\nLe chemin sera encore long, madame la ministre, pour lutter efficacement contre les violences sexuelles et sexistes. Notre législation est encore moyenâgeuse dans bien des aspects, et particulièrement frileuse. En outre, les moyens consacrés par votre gouvernement à la lutte contre les violences sexuelles et sexistes sont dérisoires ; ils ne sont pas à la hauteur. Vous avez fait le choix, dans le budget de la justice, de privilégier le secteur pénitentiaire au détriment de l’aide et de l’accompagnement des victimes.\nCe soir, nous faisons un pas. C’est pourquoi mon groupe votera le texte en espérant que le chemin parlementaire nous permette d’aboutir à un consensus. Il est important que ce sujet transversal fasse l’objet d’une réflexion transpartisane. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Émilie Bonnivard."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "Le groupe de la Droite républicaine votera la proposition de loi visant à renforcer la lutte contre les violences faites aux femmes et aux enfants, même si nous regrettons amèrement que le Rassemblement national et la gauche aient choisi de supprimer l’article 1er, qui aurait permis d’instaurer l’imprescriptibilité civile des viols sur mineurs. Si j’entends vos arguments juridiques, car j’en partageais une partie avant d’assister aux auditions de magistrats spécialisés et d’associations de victimes, les arguments de ces dernières m’ont convaincue et j’ai cheminé. J’espère sincèrement que ce sera également votre cas. Bien sûr, une telle modification de notre ordre juridique aurait d’importantes implications, que nous mesurons tous – nous sommes tous législateurs. Je comprends que vous ayez peur, mais peut-on répondre aux victimes que c’est trop compliqué, qu’il y a trop de risques, ou que cela bouleverse trop notre droit ?"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ce n’est pas ça !"
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "N’est-ce pas notre rôle le plus éminent, en tant que législateurs, de bousculer l’ordre juridique, quand il n’est plus adapté, pour protéger nos concitoyens victimes et les plus fragiles d’entre eux, les enfants ? L’injustice sociale est manifeste et reconnue de tous. Simone Veil n’a-t-elle pas provoqué une rupture radicale dans notre droit quand elle a proposé de légiférer sur l’IVG ? (Mme Danièle Obono s’exclame.) Nous avions l’occasion de légiférer, mais vous n’avez pas souhaité la saisir. Vous auriez au minimum pu vous abstenir afin que nous poursuivions le débat.\nJ’y insiste, j’espère que vous cheminerez dans votre réflexion, non pas pour nous, mais pour les victimes enfants devenues adultes. Si, pour certains d’entre eux, la prescription joue un rôle incitatif, ce n’est pas le cas pour tous. Or qui peut le plus peut le moins. J’ai beaucoup de mal à comprendre que vous refusiez que la parole de toutes les victimes soit reconnue et accueillie par la justice. Si nous avons la possibilité de modifier notre droit, les victimes ne pourront jamais rien changer à ce qu’elles ont vécu. C’est à nous d’adapter le droit à leur réalité, et non l’inverse. Je plaide pour que le travail se poursuive et pour que nous réintroduisions la notion d’imprescriptibilité dans ce texte, dont je salue les avancées fondamentales.\nOn pourra toujours estimer que ce n’est pas parfait et qu’il aurait fallu une grande loi, mais il n’y a pas un jour, pas une minute, pas une seconde à perdre pour rompre l’ordre actuel – le patriarcat dont vous parlez toujours ! (Mme Danièle Obono s’exclame) – et ouvrir un changement fondamental de notre société : saisissons toutes les occasions ! (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Sylvain Maillard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA717379",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sandra Regol."
+        },
+        {
+          "orateur": "Mme Sandra Regol (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Je rejoins Mme Bonnivard sur plusieurs points – c’est assez rare pour être noté. C’est vrai, notre position de législateur nous impose parfois de prendre des décisions difficiles, contre-intuitives, après avoir évalué leurs conséquences juridiques pour l’avenir. Parfois aussi nous ne sommes pas d’accord sur la meilleure voie à emprunter pour protéger les victimes et faire en sorte qu’il y en ait le moins possible. C’est le cas ici aussi. Mais, madame Bonnivard, nous n’avons pas supprimé l’article 1er en séance : nous avons simplement refusé son rétablissement, ce qui est différent."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "texte": "Sophisme ! Quel gag !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "En outre, la ministre et la rapporteure l’ont indiqué, la navette parlementaire permettra d’avancer et nous aurons le temps d’en rediscuter, peut-être plus sereinement.\nMême si nous avons manqué de temps, je salue à nouveau la bonne tenue de nos débats – c’est là aussi assez rare pour être souligné. Nous avons débattu de sujets à la fois intimes, sociétaux, mais aussi techniques, sans trop de petites phrases et d’invectives. Cela fait beaucoup de bien. Par respect pour les victimes, notre devoir de législateur est de prendre de la hauteur.\nNous déplorons l’amendement cavalier du gouvernement sur les gardes à vue qui bouleverse le code de procédure pénale. Vous ne pouvez pas le nier, madame la ministre, il est arrivé à la dernière minute en séance publique. Une telle transformation, brutale, du code de procédure pénale interroge sur votre volonté de poursuivre les débats dans de bonnes conditions.\nComme Mme Bonnivard, je pense pourtant qu’il faut poursuivre le travail en faveur de la lutte contre les violences sexuelles et sexistes, contre les incestes, contre les violeurs et pour la protection des victimes.\nMadame la ministre, nous vous rappellerons votre promesse autant de fois que nécessaire. Les modifications législatives ne suffisent pas, il faut avancer sur les violences sexuelles dans la société dans le cadre du groupe de travail que vous avez évoqué.\nEnfin, même si la rédaction des dispositions sur la prescription glissante et le contrôle coercitif n’est pas aboutie, le travail transpartisan a permis de progresser. Certes, des discussions préalables nous auraient sans doute permis d’avancer encore plus vite, mais nous continuerons le travail. C’est la raison pour laquelle les députés du groupe Écologiste et social voteront ce texte. (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Delphine Lingemann."
+        },
+        {
+          "orateur": "Mme Delphine Lingemann (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794702",
+          "texte": "Cette proposition de loi a le mérite de répondre à plusieurs objectifs et à plusieurs constats. Le premier constat est que nous assistons à la croissance des violences sexistes et sexuelles, encore si peu condamnées. Le deuxième est que ces violences se déroulent souvent à huis clos et sans témoin. Cela a des conséquences sur le traitement judiciaire, qui se heurte à deux difficultés majeures : le délai de prescription et l’absence de preuves.\nNous l’avons tous rappelé, la proposition de loi est perfectible ; nous y travaillerons dans le cadre de la navette parlementaire. Je compte sur nos efforts transpartisans pour améliorer ce texte, car ses objectifs sont louables. Les victimes nous regardent et attendent des réponses concrètes.\nLe texte a aussi le mérite de cranter la lutte contre les violences sexistes et sexuelles, notamment contre le contrôle coercitif, grâce à l’amendement de ma collègue Sandrine Josso, adopté avec un soutien transpartisan."
+        },
+        {
+          "orateur": "M. Romain Daubié",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793122",
+          "texte": "Un très bon amendement !"
+        },
+        {
+          "orateur": "Mme Delphine Lingemann",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794702",
+          "texte": "Le groupe Les Démocrates votera en faveur du texte, même s’il appelle aussi de ses vœux – vous le savez, madame la ministre – une grande loi-cadre visant à lutter contre les violences sexistes et sexuelles. (Applaudissements sur les bancs du groupe Dem. – Mme Anne Le Hénanff applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+        },
+        {
+          "orateur": "Mme Agnès Firmin Le Bodo (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267780",
+          "texte": "Le groupe Horizons & indépendants votera majoritairement en faveur de cette proposition de loi qui traite d’un sujet crucial. Dès le début, nous avons soutenu cette initiative ; à la fin de nos débats, notre conviction ne s’en trouve que renforcée.\nLa représentation nationale tombera sans doute d’accord sur un point : le combat contre les violences faites aux femmes et aux enfants continue et doit continuer. Des évolutions du droit pénal et du système judiciaire seront nécessaires pour apporter davantage de justice aux trop nombreuses victimes. Si nous adoptons le texte, il marquera une nouvelle étape dans le débat parlementaire et national vers une meilleure prévention de ces violences et vers des sanctions plus efficaces.\nNotre groupe tient à exprimer sa satisfaction vis-à-vis de l’annonce faite par Mme la ministre Aurore Bergé de la constitution d’un groupe de travail dédié à ce sujet. Il fait droit à la nécessité que nous avons tous exprimée de construire un travail parlementaire approfondi, à la hauteur des enjeux. Ce groupe de travail permettra par ailleurs d’améliorer la rédaction de certaines dispositions du texte ; je pense notamment à celle concernant le contrôle coercitif – même si je salue l’adoption de l’amendement de Mme Josso –, une notion éminemment difficile à appréhender en raison de la diversité des situations qu’elle recouvre. Son inscription dans notre droit pénal pourrait entraîner d’importants effets de bord, il convient de le souligner.\nLe groupe Horizons & indépendants compte sur la navette parlementaire pour améliorer le dispositif. Nous le devons aux femmes, aux enfants et aux hommes victimes des violences sexuelles et sexistes. (Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Laurent Mazaury."
+        },
+        {
+          "orateur": "M. Laurent Mazaury (LIOT)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "Dans la droite ligne des précédentes interventions, nous ne pouvons que nous féliciter du vote qui s’annonce pour le symbole qu’il représente et le message qu’il enverra aux victimes. Nous répondrons également présents pour la suite du travail parlementaire, dans le cadre de la navette, et prêts à enrichir le texte sur le plan technique et juridique, notamment dans le traitement de la récidive, sans jamais oublier les victimes.\nJe rappelle que les violences ne concernent pas uniquement les femmes et les enfants ; nous devons traiter le sujet des violences sexuelles au-delà des différences de genre.\nLe groupe Libertés, indépendants, outre-mer et territoires votera le texte avec grand plaisir et avec la volonté de poursuivre le travail parlementaire aux côtés des autres groupes. (Applaudissements sur les bancs du groupe LIOT et sur quelques bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Elsa Faucillon."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Je veux commencer par remercier mes collègues députées qui se sont particulièrement investies dans nos discussions, lesquelles ont donné lieu à des échanges intéressants – on a coutume de le dire à la fin de l’examen d’un texte, mais cela me semble particulièrement vrai ce soir. Nous avons eu des débats poussés, dont j’espère qu’ils feront leur chemin, car certaines questions que nous avons ouvertes méritent que nous y revenions.\nJ’ai entendu l’engagement que vous avez pris à plusieurs reprises, madame la ministre ; sur un tel sujet, il ne faut pas décevoir, car notre assemblée manifeste la volonté affirmée de travailler à une grande loi-cadre. Pour lutter efficacement contre les violences sexistes et sexuelles, contre le patriarcat, contre la culture du viol, il faut aborder de nombreux domaines, incluant l’éducation et les moyens d’enquête. Le budget pour 2025 et le bilan de la grande cause du quinquennat ne nous incitent guère à la confiance ! (Applaudissements sur les bancs du groupe GDR et sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) Pour changer réellement les choses, il faut non seulement des engagements, mais aussi des actes.\nEn débattant, nous avions tous en tête les victimes, qu’il s’agisse de celles qui se sont exprimées publiquement, de celles que nous connaissons ou encore des victimes potentielles pour lesquelles nous devons agir. J’assure à Mme Bonnivard que la perspective de faire bouger l’ordre juridique ne nous inspire aucune frilosité ; d’ailleurs, chez les communistes, nous sommes toujours prêts à faire bouger l’ordre établi ! (Sourires et applaudissements sur les bancs du groupe GDR et sur quelques bancs des groupes LFI-NFP et EcoS.) Là n’est pas la question. Nos divergences portent plutôt sur les moyens d’agir.\nJ’espère que nous pourrons poursuivre ces débats avec le plus grand respect, mais aussi avec la plus grande détermination. C’est pourquoi je ne m’opposerai pas à ce que le texte poursuive son parcours, bien que je regrette l’adoption de l’amendement gouvernemental visant à déroger aux règles de la garde à vue. Je crois nécessaire de continuer notre travail sur le contrôle coercitif, sur la prescription glissante et sur bien d’autres points. (Applaudissements sur les bancs du groupe GDR et sur quelques bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sophie Ricourt Vaginay."
+        },
+        {
+          "orateur": "Mme Sophie Ricourt Vaginay (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840657",
+          "texte": "Le groupe UDR s’abstiendra sur ce texte. Nous comprenons les attentes légitimes des victimes, mais nous ne pouvons nous contenter de demi-mesures ou d’une demi-loi. Nous travaillerons donc avec exigence à construire une loi-cadre transpartisane sur ces enjeux majeurs, pour que les victimes soient reconnues dans le respect des droits de la défense. (Applaudissements sur les bancs du groupe UDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611832",
+      "valeurPtsOdj": "1",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        221\n        Nombre de suffrages exprimés                157\n        Majorité absolue                        79\n                Pour l’adoption                137\n                Contre                20"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La proposition de loi est adoptée.)\n (Applaudissements sur les bancs des groupes EPR, Dem et HOR. – M. Elie Califer applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme la ministre déléguée."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA722046",
+          "texte": "Je tiens à vous remercier sincèrement pour la qualité des débats, nonobstant les divergences de vue politiques ou juridiques qui se sont manifestées. Je rappellerai également deux engagements que j’ai pris. Le premier concerne l’éducation à la vie affective, relationnelle et à la sexualité : nous devons à nos enfants de les protéger face aux violences sexuelles qui touchent un trop grand nombre d’entre eux. Pour ce faire, nous devons garantir la publicité et surtout l’application effective de ces programmes scolaires. Par ailleurs – second engagement –, j’enverrai dès cette semaine à l’ensemble des présidents de groupe un courrier leur demandant de désigner les représentants choisis par leur groupe pour élaborer collectivement une loi-cadre visant à mieux protéger les victimes des violences sexuelles.\nJe finirai par un vœu. J’ai senti au cours des débats qu’il y avait, au sein de chaque groupe, des doutes au sujet de l’imprescriptibilité en matière civile. Je ne désespère donc pas de vous convaincre. Merci de votre présence et de votre engagement ! (Applaudissements sur plusieurs bancs des groupes EPR, Dem et HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures vingt-cinq, est reprise à vingt-deux heures trente.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La séance est reprise."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611846",
+      "valeurPtsOdj": "2",
+      "titre": "Deuxième lecture",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi, modifiée par le Sénat, visant à améliorer la prise en charge des soins et dispositifs spécifiques au traitement du cancer du sein par l’assurance maladie (nos 528, 844)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611848",
+      "valeurPtsOdj": "2",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. le ministre chargé de la santé et de l’accès aux soins."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre chargé de la santé et de l’accès aux soins",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Comme l’a écrit très justement le professeur Henri Pujol, ancien président de la Ligue contre le cancer, « le cancer est un combat scientifique et social ». Cette phrase résonne particulièrement au sujet du cancer du sein, à la fois le plus fréquent et le plus meurtrier chez la femme. Chaque année, la maladie est diagnostiquée à 60 000 patientes et elle en tue environ 12 000. Dans notre pays, 700 000 femmes portent au quotidien le fardeau d’un cancer du sein traité ou actif, soit une femme sur huit.\nLe cancer du sein nous touche tous, directement ou indirectement. Ces centaines de milliers de femmes, ce sont nos sœurs, nos épouses, nos nièces, nos amies, nos collègues. Elles subissent des traitements lourds, avec des séquelles physiques et psychologiques importantes, des conséquences sur l’estime de soi, la vie professionnelle, familiale et affective, y compris durant la rémission et après la guérison.\nLe cancer du sein étant particulièrement mutilant, les soins et les dispositifs liés à la réparation entraînent trop souvent un reste à charge important, malgré le régime protecteur de l’affection de longue durée (ALD), qui, je le rappelle, est reconnu à la patiente dès le diagnostic, comme c’est le cas pour tous les cancers. C’est à cette question de l’accès aux soins qu’entreprend de répondre la proposition de loi que nous examinons.\nJe veux commencer par remercier le groupe de la Gauche démocrate et républicaine et le rapporteur Yannick Monnet, qui ont défendu ce sujet important. Je tiens aussi à saluer l’ensemble des députés et la mobilisation transpartisane qui a permis de travailler, dans un esprit pragmatique et de compromis, à corriger les déséquilibres initiaux du texte, pour aboutir à une version plus réaliste et opérationnelle. La proposition de loi a beaucoup évolué depuis sa première inscription à l’ordre du jour, soutenue par les parlementaires de tous bords. C’est ce qui a permis son adoption unanime en première lecture, le 30 mai 2024 dans cet hémicycle et le 30 octobre 2024 au Sénat.\nSi ce texte n’est pas parfait, le gouvernement en soutiendra néanmoins l’adoption, car il contient des avancées concrètes et attendues par toutes les femmes touchées par le cancer du sein.\nMesdames et messieurs les députés, vous le savez, lutter contre les inégalités d’accès aux soins, qu’elles soient géographiques, sociales ou économiques, est ma priorité. Dans le cas du cancer du sein, le reste à charge était important. Trois quarts des patientes y sont exposées, pendant le traitement comme pendant les soins de suite. Or la prise en charge après le cancer est essentielle pour reconstruire un corps meurtri, mais aussi pour que les patientes puissent se reconstruire. La maladie et le processus de guérison sont déjà assez éprouvants pour qu’on n’y ajoute pas une charge économique trop lourde ou du stress financier, qui créent une double peine.\nL’adoption de cette proposition de loi permettra de lutter contre le renoncement aux soins, notamment les soins psychologiques, à la nutrition ou à l’activité physique adaptée (APA). Il ne s’agit pas de soins de confort : loin d’être superflus, ils constituent des facteurs importants de la guérison. La proposition de loi pose aussi les jalons d’un encadrement conventionnel des dépassements d’honoraires pour la chirurgie de reconstruction mammaire, qui reste le principal poste du reste à charge ; son coût dissuaderait près de 15 % des patientes d’y recourir.\nLa proposition de loi va dans le bon sens, même si les réserves que nous avions demeurent. Premièrement, il y a un risque d’iniquité de traitement et de rupture d’égalité avec les malades souffrant d’autres formes de cancer tout aussi graves."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Deuxièmement, se pose la question du financement des dispositifs prévus, surtout s’ils venaient à être étendus à d’autres pathologies. Je forme le vœu que nous continuions de travailler dans le même esprit constructif pour une application juste et réaliste de ce texte.\nMesdames et messieurs les députés, j’ai dit combien le cancer du sein, premier cancer féminin, était un mal terriblement répandu. Cependant, il faut aussi le rappeler, lorsqu’il est détecté tôt, c’est un cancer de bon pronostic, dont le taux de survie est élevé, autour de 88 %. La prévention est donc un enjeu majeur. Je me réjouis que certains d’entre vous aient soulevé cette question durant les débats en commission, notamment Philippe Vigier, que je salue. Plus le diagnostic est précoce, plus les chances de guérison sont grandes, moins les traitements sont agressifs et lourds de séquelles."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Le dépistage est un outil de lutte incontournable et indispensable contre le cancer du sein, car il permet de diagnostiquer les femmes le plus rapidement possible. Le dépistage organisé du cancer du sein est l’un de nos plans de santé publique les plus importants. Pourtant, la participation à ce programme a diminué ces dix dernières années. La mobilisation générale et transpartisane qui a permis l’élaboration de ce texte doit se retrouver dans un sursaut collectif en faveur de la prévention. Détecter plus vite et plus tôt les cancers, comme toutes les autres maladies, c’est aussi ce qui assurera l’équilibre à long terme de notre système de santé.\nJe tiens à saluer l’engagement de la présidente de l’Assemblée nationale, Yaël Braun-Pivet – c’est avec son accord que je l’évoque ce soir –, qui a adressé, avec beaucoup de courage, un message fort aux femmes pour les sensibiliser à ce dépistage qui sauve des vies. Je reprends sa formule, qui doit être notre mot d’ordre : « N’attendez plus ! » Il faut que ce dépistage, pris en charge à 100 % pour toutes les femmes, devienne un réflexe.\nC’est la raison pour laquelle, depuis 2024, l’assurance maladie a simplifié les modalités d’invitation des personnes concernées par le dépistage des cancers du sein, mais aussi par celui des cancers du col de l’utérus et colorectal. Je veux rendre ce dépistage, qui concerne actuellement les femmes de 50 à 74 ans, identifiées comme les plus à risque, plus largement accessible. Mais le cancer du sein peut frapper à tout âge. Je remercie les associations comme Jeune & Rose qui font un travail d’information et de pédagogie remarquable pour les patientes touchées par un cancer du sein alors qu’elles sont très jeunes. C’est pourquoi j’ai demandé à la Haute Autorité de santé (HAS) de se pencher, dans son programme de travail pour 2025, sur les possibilités d’étendre l’éligibilité du dépistage organisé du cancer du sein.\nLa Commission européenne a préconisé le 20 septembre 2022 d’abaisser l’âge de plusieurs dépistages, dont celui du cancer du sein, en proposant de l’organiser pour les femmes de 45 à 74 ans. En outre, elle recommande le recours à l’imagerie par résonance magnétique (IRM) pour les femmes dont les seins sont particulièrement denses. En Ontario, au Canada, le dépistage se fait par mammographie dès l’âge de 40 ans depuis septembre 2024. Plus près de nous, en Suède, en Autriche et au Luxembourg, le dépistage organisé du cancer du sein a lieu tous les deux ans pour les femmes âgées de 45 à 74 ans.\nMesdames et messieurs les députés – j’allais dire chers collègues, chers collègues d’avant et de bientôt ! (Sourires) –,…"
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Vous avez des dons de voyance ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "…contre le cancer du sein, je veux que nous menions une action volontariste et globale, de la prévention et du dépistage systématique à un meilleur accès aux traitements et aux soins de suite. Il s’agit d’un besoin majeur auquel cette proposition de loi répond utilement.\nJe souhaite que la large mobilisation qui s’est formée autour de Yannick Monnet nous permette d’avancer dans la construction d’une véritable politique de santé des femmes, à laquelle le président de la commission des affaires sociales, Frédéric Valletoux, porte une attention particulière et dont les spécificités ont trop longtemps été ignorées, dans la recherche comme dans la pratique clinique. Je pense notamment au risque cardiovasculaire, qui est la première cause de mortalité des femmes, à l’endométriose, à l’infertilité et à la ménopause. Le rendez-vous est pris, car je connais l’engagement des parlementaires sur ces sujets, sur lesquels il nous reste encore beaucoup à faire.\nVous l’avez compris, le gouvernement soutiendra la proposition de loi et procédera rapidement à l’extension et à l’intensification des campagnes de dépistage pour cibler particulièrement les populations à risque en abaissant l’âge initial, afin de dépister tôt ces cancers qui peuvent être guéris quand ils sont diagnostiqués précocement. La meilleure façon de traiter nos concitoyens est la prévention ; le traitement le plus efficace est celui que nous n’avons pas à administrer. Vive la prévention et la prise en charge à 100 % visée par cette proposition de loi ! (Applaudissements sur les bancs des groupes DR et HOR, sur quelques bancs des groupes RN, EPR et UDR ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Yannick Monnet, rapporteur de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Avec ce texte fort, le groupe de la Gauche démocrate et républicaine pose la question précise, légitime et importante de la prise en charge intégrale par l’assurance maladie des soins liés au cancer du sein. Cette proposition de loi résulte d’une promesse que mon ancien collègue Fabien Roussel, à l’initiative de ce texte et que je salue, et moi-même avons faite, le 8 mars 2023, à des femmes en colère qui nous interpellaient au sujet de leur terrible situation : atteintes d’un cancer du sein, elles subissaient, outre la détresse de la maladie, l’angoisse financière et la difficulté de se soigner. Nous leur avons promis d’agir et d’inscrire ce sujet à l’ordre du jour de nos travaux. Nous refusons d’entendre encore ce que nous a confié une malade : « Entre se soigner et se nourrir, il faut choisir. »\nUne femme sur huit est touchée par le cancer du sein, qui ne concerne les hommes que dans 1 % des cas. Alors que la maladie est diagnostiquée à 60 000 femmes chaque année, on estime à 700 000 le nombre de femmes qui vivent avec un cancer du sein traité ou actif. C’est le cancer le plus fréquent et le plus meurtrier pour les femmes ; il tue chaque année plus de 12 000 d’entre elles.\nParmi les femmes touchées par la maladie, beaucoup expriment la crainte de ne pas pouvoir assumer les dépenses non prises en charge par l’assurance maladie, dont le niveau est variable, mais qui s’élèvent autour de 1 400 euros en moyenne. L’assurance maladie parle de prise en charge intégrale du traitement mais, en réalité, il reste de nombreuses lacunes dans le système, qui limite l’accès aux soins et à la reconstruction après la maladie. La prise en charge spécifique des affections de longue durée, parmi lesquelles figure le cancer, ne lève pas tous les obstacles financiers du parcours de soins.\nLes principales dépenses entraînant un reste à charge concernent certains produits et équipements non remboursés mais indispensables, tels que des gels, des crèmes ou des vernis à ongles, ainsi que des sous-vêtements postopératoires adaptés. Les dépassements d’honoraires constituent le premier poste dans le reste à charge. Les forfaits et les franchises, ainsi que les frais de transport, s’ajoutent aux dépenses engagées par les patientes pour les soins de support. Cette dernière appellation recouvre les consultations de diététique, les soins psychologiques, l’activité physique adaptée ou encore les séances de socio-esthétique. Alors que l’intérêt thérapeutique de ces soins fait l’objet d’un large consensus médical dans le traitement du cancer et à l’issue de celui-ci, et que l’efficacité de l’APA dans la prévention de la récidive a été démontrée scientifiquement, ni l’activité physique adaptée ni les autres soins de support ne sont actuellement pris en charge.\nCancer des femmes, le cancer du sein se singularise par un reste à charge plus important que les autres types de cancer. À l’injustice de la maladie s’ajoute, pour certaines patientes, l’angoisse financière. Ainsi, 15 % des patientes qui renoncent à une reconstruction mammaire le font pour des raisons financières : cette opération est rarement proposée dans le secteur public et les dépassements d’honoraires pratiqués dans le secteur privé peuvent atteindre des montants très élevés, allant jusqu’à 10 000 euros.\nDe telles situations sont d’autant moins acceptables qu’une ALD est souvent synonyme de baisse des revenus. Peu de personnes atteintes d’un cancer parviennent à maintenir leur niveau de vie ; la maladie peut même les faire basculer dans la pauvreté. Selon la Ligue nationale contre le cancer, une personne sur trois perd son emploi dans les deux ans qui suivent le diagnostic. Il nous revient d’intervenir pour aider ces femmes. La maladie est en elle-même suffisamment éprouvante.\nCette proposition de loi a beaucoup évolué depuis son inscription à l’ordre du jour de nos travaux en mai dernier. Elle a été élaborée dans un état d’esprit constructif et transpartisan, en lien constant avec les associations de patientes, qui ont joué un rôle à la fois moteur et central dans nos travaux depuis l’origine. Les évolutions apportées au texte ont permis d’aboutir à une adoption à l’unanimité le 30 mai 2024 à l’Assemblée. La proposition de loi a ensuite été examinée au Sénat sous l’égide de la rapporteure Cathy Apourceau-Poly, que je salue : le 30 octobre dernier, elle y a également été adoptée à l’unanimité.\nJe sais que le texte que nous examinons n’est pas parfait. Certains considèrent sans doute qu’il ne va pas assez loin et ils n’ont pas tort, car du chemin reste à parcourir, mais permettez-moi de vous présenter, mes chers collègues, les avancées considérables que permettrait une adoption conforme du texte pour toutes ces femmes qui espèrent de nos travaux qu’ils améliorent leur quotidien face à la maladie.\nSi nous adoptons ce texte, l’article 1er de la proposition de loi garantira une prise en charge intégrale de l’ensemble des soins et dispositifs prescrits spécifiquement aux femmes dans le cadre d’un traitement contre le cancer du sein.\nEn pratique, cela signifie des avancées très concrètes pour des milliers de femmes. Le tatouage de la plaque aérolo-mamelonnaire, dans le cadre de la chirurgie reconstructrice après une ablation, sera désormais pris en charge s’il est réalisé par un professionnel de santé. Il en sera de même pour les prothèses mammaires lors de leur renouvellement et pour les sous-vêtements adaptés au port des prothèses amovibles.\nAux termes de l’article 1er, l’oncologue devra informer systématiquement la patiente de l’offre de soins de support disponibles dans la région avant le début des traitements.\nL’article 1er instaure aussi un forfait dédié au financement de produits prescrits, mais qui ne sont pas remboursables. Ceux-ci pèsent lourd dans le budget des patientes. Il s’agit des gels, des crèmes et des vernis adaptés à la sécheresse grave de la peau et qui préviennent la chute des ongles induite par les traitements. Un arrêté précisera quels sont les produits concernés et le montant du forfait.\nEnfin, les patients en cours de traitement n’ont pas droit au « forfait global de soins post-traitement », une enveloppe de 180 euros qui permet de financer des soins psychologiques, des séances de nutrition ou des séances d’activité physique adaptée. Avec l’article 1er, ils pourront désormais en bénéficier.\nL’article 1er bis A prévoit qu’un rapport fera toute la lumière sur la pratique de la dermopigmentation, dans l’optique d’une prise en charge intégrale.\nL’article 1er bis pose les jalons législatifs d’un plafonnement des dépassements d’honoraires des médecins qui pratiquent une reconstruction mammaire après mastectomie. Le niveau du plafond sera négocié dans la convention médicale entre l’assurance maladie et les médecins. À lui seul, ce point constitue une avancée majeure, puisque les dépassements d’honoraires représentent le premier poste dans le reste à charge.\nJ’en profite pour rappeler que l’examen du texte en première lecture a été l’occasion d’obtenir de la présidente de la commission de l’époque le lancement d’une mission d’information sur les dépassements d’honoraires. Cette mission, confiée à la Cour des comptes, débutera à la fin du mois.\nAlors oui, il est vrai que ce texte transpartisan est aussi un texte de compromis. L’article 1er ne prévoit plus d’exonération totale des forfaits, franchises, participations forfaitaires, forfait hospitalier et forfait patient urgences. La prise en charge intégrale des prothèses capillaires ne figure plus explicitement dans le texte. En outre, les demandes de rapport qui figuraient aux articles 1er ter et 1er quinquies ont été rejetées par le Sénat. Quant aux forfaits prévus à l’article 1er, ils devront être à la hauteur des dépenses engagées par les patientes pour être satisfaisants. Les soins et les dispositifs pris en charge devront figurer sur une liste déterminée par arrêté, ce qui suppose la réactivité du pouvoir réglementaire.\nVous l’aurez compris, chers collègues. J’appelle de mes vœux une adoption conforme de ce texte et demanderai donc le retrait des deux amendements.\nTout au long de la procédure législative, nous avons travaillé en étroite collaboration avec les patientes. À l’Assemblée nationale comme au Sénat, tous les amendements adoptés en première lecture ont été discutés avec les associations de patientes – chaque modification du texte a été approuvée par les patientes elles-mêmes. Leur forte implication montre tout l’intérêt de ce texte pour les femmes qui vivent avec la maladie. Je suis convaincu que c’est à cela que nous devons le large consensus sur cette proposition de loi, jusqu’à son adoption conforme, à l’unanimité, lors de sa deuxième lecture par la commission des affaires sociales.\nAlors oui, nous aurions peut-être pu aller plus loin et plus vite, mais ce texte répond aux attentes très concrètes des 700 000 femmes qui vivent avec le cancer. Pour elles, qui sont dans l’urgence, cette loi est une réelle avancée et une promesse tenue. Ces femmes comptent sur nous pour améliorer leur quotidien face à la maladie. (Applaudissements sur les bancs des groupes GDR, SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Nous sommes tous satisfaits de voir revenir du Sénat ce texte qui a commencé son parcours à l’Assemblée nationale au printemps dernier, à l’initiative du groupe GDR et de Fabien Roussel – auquel je rends hommage –, aujourd’hui relayé par notre collègue Yannick Monnet.\nIl s’agit d’un sujet majeur et nous ne pouvons que partager, sur tous les bancs de cette assemblée, l’objectif louable de ce texte : l’amélioration de la prise en charge des soins pour les femmes atteintes d’un cancer du sein.\nLe cancer du sein représente un tiers des diagnostics de cancers dans la population féminine. En 2023, près de 61 000 nouveaux cas ont été détectés et 12 000 femmes en sont malheureusement décédées. Le cancer du sein est non seulement le cancer le plus fréquent chez les femmes, mais aussi celui qui entraîne le plus de décès. Dépisté tôt, il peut cependant être guéri dans neuf cas sur dix.\nPermettez-moi donc de saisir à mon tour l’occasion d’adresser un message de prévention et de rappeler l’importance du dépistage : avec une meilleure prévention, 20 000 cancers du sein pourraient être évités chaque année – 20 000 !\nAu cours de la navette, grâce à un travail transpartisan tout à l’honneur de notre assemblée, le texte a été aménagé et amélioré. Le Sénat a précisé la liste des soins et des dispositifs spécifiques susceptibles d’être intégralement pris en charge – je pense à la dermopigmentation de la plaque aérolo-mamelonnaire, au renouvellement des prothèses mammaires ou encore aux sous-vêtements adaptés au port de prothèses mammaires amovibles. Bien sûr, ces mesures s’ajoutent aux dispositifs de prise en charge existants, que ce soit au titre des affections de longue durée, de la dispense d’avance de frais, des contrats complémentaires dits responsables ou de la complémentaire santé obligatoire.\nL’article 1er bis prévoit que les dépassements d’honoraires liés aux actes chirurgicaux de reconstruction mammaire consécutifs à un cancer du sein sont plafonnés. Comme l’a rappelé le rapporteur, les dépassements d’honoraires doivent faire l’objet d’une évaluation, au-delà de la question même du cancer du sein. Je ne doute pas que le travail lancé par la mission d’évaluation et de contrôle des lois de financement de la sécurité sociale (Mecss) sur la répartition de la prise en charge des dépenses entre assurance maladie obligatoire et complémentaire débouchera sur des propositions utiles.\nBien que je partage pleinement l’ambition de cette proposition de loi, je m’interroge sur l’opportunité d’instaurer un régime différencié pour une affection spécifique. J’ai déjà eu l’occasion de m’exprimer sur le sujet lorsque je représentais le gouvernement à cette même tribune, pour la discussion en première lecture du texte en mai dernier.\nQue l’on ne se méprenne pas : je ne nie pas la pertinence du dispositif que nous sommes sur le point de voter et je reconnais la souffrance et les difficultés des patientes qui traversent ces épreuves, mais je tiens à rappeler que nous devons demeurer très vigilants sur le caractère universel de notre système de protection sociale. Il est de notre responsabilité de veiller à apporter à tous les patients atteints de maladies graves des solutions globales et équitables, sans privilégier une pathologie par rapport aux autres.\nJe profite de l’occasion et de la présence du ministre pour insister sur le fait qu’il faut continuer à faire de la santé des femmes une priorité, afin de lutter contre les inégalités d’accès aux soins. Les femmes sont particulièrement exposées : endométriose, ménopause, infertilité, santé mentale, maladies cardiovasculaires, cancers.\nDe premières avancées ont été obtenues, mais du chemin reste encore à faire. Prévention, sensibilisation, information, prise en charge, accompagnement et recherche : dans tous ces domaines, je ne doute pas que nous puissions trouver des points d’accord pour avancer sur ce sujet sanitaire et social majeur pour l’avenir de notre société."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611264",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Dans la discussion générale, la parole est à M. Jean-François Rousset."
+        },
+        {
+          "orateur": "M. Jean-François Rousset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793270",
+          "texte": "Le cancer du sein touche chaque année 60 000 Françaises. Une prise en charge précoce permet un traitement efficace dans 87 % des cas ! Le dépistage par mammographie gratuit et organisé dans tous nos départements n’est pas encore assez pratiqué – nous devons faire beaucoup mieux.\nLa nouvelle lecture du texte permet d’aborder deux sujets : la prise en charge des soins dits de support et les dépassements d’honoraires. Les soins de support sont nécessaires pour traiter les lourdes conséquences et les séquelles des traitements. La proposition du Sénat d’instaurer un forfait pour prendre en charge ces soins va dans le bon sens. Toutefois, il faudra être attentifs à la liste réglementaire qui sera établie et à la pertinence des dispositions. De nouvelles thérapeutiques qui évitent certains effets secondaires ou les retardent de façon notoire sont en voie d’expérimentation : soyons aussi vigilants sur ces innovations que nous pourrons éventuellement proposer aux patientes.\nLes dépassements d’honoraires sont demandés par les soignants, les chirurgiens et les anesthésistes pour reconstruire un ou deux seins après une chirurgie d’ablation souvent mutilante, afin que les femmes retrouvent l’aspect de leur corps. Ces sommes sont généralement très élevées, sans mesure et présentées sans tact. Certes, elles sont remboursées par les mutuelles quand les patientes ont une complémentaire, si le contrat le prévoit. Si le dépassement est supérieur au montant prévu contractuellement, les assurées doivent s’acquitter du reste à charge. Quant aux patientes sans mutuelle et sans moyens, elles renoncent à la chirurgie réparatrice.\nCette réalité est-elle acceptable ? Il n’en est pas ainsi pour d’autres pathologies cancéreuses comme les cancers digestifs ou les cancers de la face. Dans le cas des cancers du pancréas, après la résection chirurgicale, la reconstruction des voies digestives, biliaires et pancréatiques est difficile, longue et complexe. Pourtant, elle est réalisée en un seul temps chirurgical, car il est impossible de faire autrement. Un seul tarif est donc prévu pour l’ensemble des actes, le plus souvent sans demande de complément d’honoraires.\nIl me semble indispensable de revoir et d’évaluer tous les dépassements d’honoraires, qu’il s’agisse d’actes chirurgicaux ou non, de cancers ou d’autres pathologies. Les patients ne comprennent pas et se sentent pris en otage, les soignants n’y sont pas tous favorables, les régulations par l’option de pratique tarifaire maîtrisée (Optam) sont insuffisantes, et les complémentaires s’adaptent, dans un système inflationniste, en rehaussant leurs tarifs. Ce cercle vicieux inacceptable nous oblige à réfléchir à une meilleure maîtrise de ces dépassements.\nLe groupe Ensemble pour la République votera le texte en l’état. (Applaudissements sur les bancs des groupes EPR et HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Karen Erodi."
+        },
+        {
+          "orateur": "Mme Karen Erodi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795844",
+          "texte": "Le cancer du sein, qui touche une femme sur huit en France, cause 12 000 décès par an et entraîne de nombreuses séquelles psychologiques et physiques. Pourtant, la lutte contre cette maladie est sous-financée, sous-traitée et sous-estimée par notre système de santé publique – comme pour toutes les maladies qui touchent exclusivement au corps des femmes.\nLa proposition de loi du groupe GDR tend à améliorer la prise en charge des soins liés au traitement du cancer du sein. Si nous pouvons saluer certaines avancées, notamment la prise en charge intégrale d’un parcours de soins souvent long, éprouvant et coûteux par l’assurance maladie, nous regrettons que cette version du texte soit moins ambitieuse que la proposition initiale. En effet, la deuxième lecture écarte la prise en charge des dépenses paramédicales du cancer du sein comme le sport adapté, le suivi psychologique, les soins esthétiques – vernis et crèmes –, les prothèses capillaires et les soins de diététique nécessaires aux patientes qui traversent de terribles épreuves.\nAprès son sabordage à l’Assemblée nationale et au Sénat par la Macronie, la droite et le Rassemblement national, que reste-t-il donc de son ambition initiale ? Les dépassements d’honoraires ne sont toujours pas pris en charge par la sécurité sociale ; les franchises médicales sont maintenues ; le champ d’application est réduit à un forfait obscur, à la carte, qui force les femmes à choisir entre soins esthétiques, de confort ou de bien-être. Le forfait, qui a été réduit, se borne à encadrer uniquement les frais de dermopigmentation, de prothèses mammaires et de sous-vêtements adaptés. Le remboursement de ces derniers a été obtenu par mon groupe, La France insoumise, en première lecture.\nPar conséquent, les dépenses paramédicales et chirurgicales resteront bien trop importantes pour les femmes, qui sont souvent en situation de précarité. Selon le collectif Nos services publics, les dépassements d’honoraires représentent 27 % du reste à charge moyen pour les patientes atteintes du cancer du sein, soit environ 1 400 euros ; et selon la direction de la recherche, des études, de l’évaluation et des statistiques (Drees), 15 % des femmes renoncent à la reconstruction mammaire, faute de moyens financiers. Quel mépris pour les femmes !\nFace à cette injustice, notre groupe proposera des amendements tendant à interdire – ou, à défaut, à limiter – les dépassements d’honoraires pour la reconstruction mammaire. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Cette dernière ne doit pas être un luxe réservé à celles qui en ont les moyens, mais un droit accessible à toutes les femmes."
+        },
+        {
+          "orateur": "Un député du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "Mme Karen Erodi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795844",
+          "texte": "Nous demanderons également un rapport sur le remboursement intégral des soins du cancer du sein, sans reste à charge, par la mise en place du 100 % sécu. En trois ans, les tarifs des complémentaires santé privées ont augmenté de 20 % et leurs frais de gestion sont sept fois plus importants que ceux de notre sécurité sociale. (Applaudissements sur quelques bancs du groupe LFI-NFP.) En décidant d’une prise en charge à 100 % par la sécu, nous ferions 5,4 milliards d’économies. Et ces 5,4 milliards, nous pourrions les réattribuer à la sécurité sociale, notamment pour le remboursement de l’ensemble des maladies dites féminines (Mêmes mouvements) car, derrière les campagnes d’Octobre rose, quelles sont les avancées de votre gouvernement en matière de santé publique pour les femmes ? Qu’avez-vous fait pour la prise en charge de l’endométriose, de la fibromyalgie, de l’adénomyose ?\nLa liste des maladies exclusivement féminines non remboursées par la sécurité sociale est longue et n’est pas suffisamment investie par le champ de la recherche scientifique. Notre assemblée doit se saisir davantage de ces enjeux, agir pour une prise en charge intégrale des soins et pour des congés maladie dits féminins. Ce texte, bien qu’amoindri, représente une avancée pour les femmes et le groupe La France insoumise le votera. Mais le combat ne s’arrête pas là.\nAucune femme ne devrait avoir à choisir entre sa santé et payer ses factures. Aucune femme ne devrait être abandonnée par notre système de santé. Continuons à porter la voix de ces femmes invisibles ! Continuons à défendre le 100 % sécu ! Continuons à nous opposer aux causes de la multiplication des cancers, comme les substances polyfluoroalkylées ou perfluoroalkylées (PFAS), les pesticides et les produits cancérigènes ! Continuons à nous battre, pour nous toutes ! (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs des groupes GDR et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Joël Aviragnet."
+        },
+        {
+          "orateur": "M. Joël Aviragnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642764",
+          "texte": "Je souhaite, avant toute chose, saluer trois élus. D’abord notre présidente, Yaël Braun-Pivet, qui, en révélant il y a quelques semaines avoir été atteinte d’un cancer du sein, a fait preuve de courage. Elle a surtout contribué à lever un tabou qui ne devrait plus en être un. Ensuite Fabien Roussel, secrétaire national du Parti communiste français, qui est à l’initiative de ce texte. Même s’il n’est plus député, je suis sûr qu’il est fier du chemin parcouru par sa proposition de loi. Yannick Monnet, enfin, le rapporteur de ce texte. Les femmes, je le sais, vous seront reconnaissantes dans quelques heures, lorsque cette loi sera définitivement adoptée.\nTant d’entre elles, de tous âges et de toutes conditions, souffrent chaque année de ce cancer… Chacune d’entre elles devrait pouvoir en guérir sans mettre en péril sa santé financière et c’est l’objet de ce texte : assurer la prise en charge intégrale par l’assurance maladie des frais liés au cancer du sein.\nComme en première lecture, les députés du groupe Socialistes et apparentés soutiennent ce texte, car il concerne un enjeu majeur de santé publique. Alors que 60 000 femmes apprennent chaque année qu’elles souffrent d’un cancer du sein, 12 000 d’entre elles en meurent. Afin d’éviter cela, nous devons agir, et agir vite. Nous devons faire plus et mieux en matière de prévention. Ce texte n’aborde pas ce volet, mais j’espère qu’une prochaine loi complétera les dispositifs prévus ici. Même si la droite sénatoriale a réduit la portée et l’ambition de ce texte, nous devons le faire adopter, car un progrès, aussi infime soit-il, demeure une victoire.\nLas des palabres parlementaires qui n’aboutissent pas toujours, nos concitoyens veulent des actes, surtout dans la période actuelle ; ils veulent des améliorations concrètes de leur vie quotidienne. Cette loi en apporte plusieurs. Elle ouvre de nouveaux droits, de nouvelles protections pour les femmes, en diminuant fortement le reste à charge pour les patientes.\nNous pouvons collectivement nous en satisfaire et féliciter nos collègues communistes pour leur abnégation et leur sens du compromis. Nous aurions souhaité une prise en charge complète de tous les frais en lien avec ce cancer, afin de contribuer à l’égalité dans l’accès aux soins. Mais, compte tenu de l’urgence, nous ne souhaitons pas empêcher l’adoption conforme de ce texte et son application rapide : c’est pourquoi nous n’avons pas déposé d’amendements.\nNous voterons cette proposition de loi et je vous appelle, chers collègues, à en faire de même. Nos concitoyennes nous regardent. Nous pouvons agir ; nous devons agir. Soyons à la hauteur ! (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sylvie Bonnet."
+        },
+        {
+          "orateur": "Mme Sylvie Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719968",
+          "texte": "Le cancer du sein touche une femme sur huit et son taux d’incidence a augmenté en moyenne de 0,9 % par an entre 1990 et 2023. Chaque année en France, plus de 60 000 nouveaux cas sont diagnostiqués et derrière chaque diagnostic du cancer du sein se trouve une femme : une mère, une sœur, une fille, une amie, dont la vie est bouleversée par l’annonce de la maladie. Et je n’oublie pas les hommes atteints, qui représentent 1 % des malades. (M. Antoine Vermorel-Marques applaudit.)\nLe cancer du sein est d’ores et déjà considéré comme une affection de longue durée : à ce titre, les soins nécessités par la maladie sont remboursés à 100 %, mais de nombreuses patientes doivent faire face à des dépassements d’honoraires, notamment pour la reconstruction mammaire. Par ailleurs, ce cancer étant particulièrement mutilant, les soins et les dispositifs nécessaires en parallèle des traitements médicaux représentent un reste à charge très important, allant de 1 300 à 2 500 euros, selon la Ligue contre le cancer. Il s’agit le plus souvent de perruques, de mamelons en silicone, de soutiens-gorges compressifs post-mammectomie, de sous-vêtements adaptés au port de prothèses externes, ou encore de soins de support.\nSi le problème du reste à charge concerne toutes les pathologies lourdes, la situation est critique pour le cancer du sein, puisque plus de trois quarts des patientes et patients y sont exposés : c’est plus que pour tous les autres types de cancer. Les sénateurs ont réécrit l’article 1er bis, afin que les dépassements d’honoraires relatifs à des actes chirurgicaux de reconstruction mammaire consécutifs à un cancer du sein puissent être plafonnés dans le cadre des négociations conventionnelles entre les syndicats représentatifs des médecins et l’Union nationale des caisses d’assurance maladie (Uncam), l’objectif étant de faciliter l’accès à ces opérations.\nIls ont par ailleurs recentré le dispositif de l’article 1er, afin qu’il prévoie une prise en charge intégrale des frais jugés spécifiques au cancer du sein, notamment ceux consécutifs à une mammectomie ou une tumorectomie – tatouage médical et renouvellement des prothèses mammaires.\nMes chers collègues, il est indispensable que la solidarité nationale soutienne et accompagne toutes les femmes, de toutes les générations, qui affrontent non seulement des défis médicaux, mais aussi de lourdes pressions financières et émotionnelles. Une société juste et solidaire ne doit pas fermer les yeux sur cette souffrance. Le groupe de la Droite républicaine votera donc pour cette proposition de loi, dans la rédaction issue du Sénat, qui a été maintenue en commission des affaires sociales la semaine dernière. (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Jean-Luc Bourgeaux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342240",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. François Ruffin."
+        },
+        {
+          "orateur": "M. François Ruffin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722142",
+          "texte": "« J’ai horreur qu’on me regarde comme une malade. La pire phrase, pour moi, c’est : Ma pauvre !. Donc je fais tout pour maintenir une vie normale, mais ça veut dire, malgré ma demi-solde, mettre la main au porte-monnaie. » Cindy souffre d’un cancer du sein, devenu métastatique. Et, chaque mois, ce sont des centaines d’euros, parfois plusieurs milliers, qu’elle débourse. « Dans les couloirs de l’hôpital, je discute avec des jeunes femmes. C’est leur corps qui est diminué, la vie de couple qui est touchée, souvent le divorce à la clé. Elles arrivent, leur tête pleine des soucis avec le banquier. Moi, j’ai cette chance, grâce à mon mari : je peux payer. Pour couvrir ma maladie, pour régler les crédits, il a changé d’emploi, il a trouvé un poste mieux rémunéré. »\nLa maladie est une épreuve, une terrible épreuve. Une épreuve pour la santé, bien sûr, mais pour le moral également. Elle ne devrait pas se doubler d’une autre épreuve, de nature financière. Or, aujourd’hui, c’est le cas. Médicaments, consultations, transport, vêtements adaptés, sous-vêtements, crèmes dermatologiques, prothèse capillaire : le cancer du sein serait, d’après la Ligue contre le cancer, l’un des plus coûteux pour les patientes. Le reste à charge se chiffre en milliers d’euros : 1 391 euros, au minimum, pour une prothèse mammaire, et 4 000 euros avec les dépassements d’honoraires.\nCindy me dit encore : « Il faut avoir de l’argent quand on est malade. Enfin, je tempère : si les opérations, les médicaments n’étaient pas remboursés, on serait endettés pour des siècles ! La boîte que je prends, là, pour vingt jours, c’est 9 000 euros. »\nJe vais râler. Oui, après, je vais râler. Je vais dénoncer les lacunes, les manques, les insuffisances. Mais d’abord, je veux dire mon salut à la sécu. Merci à Ambroise Croizat et à ses amis ! Merci à nos aïeux, qui n’ont pas seulement repoussé l’occupant nazi, mais qui ont aussi bâti cette formidable utopie, cette utopie concrète, ce rêve devenu réalité : la sécurité sociale. (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs des groupes GDR et SOC.). Sans la sécu, Cindy, les 60 000 Cindy qui, chaque année, souffrent d’un cancer du sein, ne seraient pas seulement ruinées : elles ne se soigneraient pas, elles ne survivraient pas. La sécu offre au moins une égalité devant ça ; mais pas au-delà.\nParce qu’il y a le reste : la peau qui brûle, les mains asséchées, les pieds abîmés, contre quoi il faut des lotions ; les bras qui gonflent, avec comme secours des manchons ; l’acupuncture et la pédicure, la réflexologie ou la sophrologie, pour apaiser l’esprit ; les sourcils qui ne repoussent pas et qu’on se fait tatouer ; le dessin, aussi, sur les seins implantés ; le soutien-gorge et le maillot de bain. Bien souvent, ce sont des soins prescrits, recommandés par le médecin, et on les dit pourtant « de confort ».\nC’est une bataille budgétaire et financière qu’il nous faut mener aujourd’hui, mais aussi de vocabulaire. Pourquoi ces remboursements sont-ils atténués ? Pourquoi ces traitements ne sont-ils pas couverts, ou mal, ou si peu ? Parce que les mots sont, eux aussi, atténués et la réalité, euphémisée. On parle de « soins de support », de « soins oncologiques de support » : la kiné, le sport, la psychologue, le diététicien… Est-ce que ce sont des soins, ou non ? Ou des soins à moitié ? Ils sont recommandés par le médecin ? Alors, ce sont des soins. Point.\nNausées, vomissement, rougeurs, démangeaisons, diarrhées, constipation, épuisement, perte de goût, d’odorat, maux de tête : voilà les effets secondaires de la chimio. Contre tous ces maux, les femmes recherchent des remèdes, pour leur réconfort, pour se soulager. Comment oser les nommer encore des soins de confort ?\nEt puis, il y a l’implant capillaire, la perruque, comme on dit. « La chimio va me faire perdre les cheveux durant des années, témoigne Cindy. Alors, je me suis acheté une belle perruque, en cheveux naturels, mais qui coûte plusieurs milliers d’euros. C’est le prix d’une Twingo. La Sécu n’en rembourse que 350. À ce prix-là, ce sont des perruques de carnaval. En synthétique, ça commence pour de vrai à 1 500 euros. »\nCindy prend soin d’elle, elle se soigne, parce que, dit-elle, « pour être aimée, il faut d’abord s’aimer soi-même. Si je suis dans la honte, la honte de moi, la honte de mon corps, je serai mal entourée, et je vais m’isoler dans la maladie. »\nCher collègue, camarade rapporteur, votre proposition de loi apporte du mieux, du mieux sur les sous-vêtements, du mieux sur les crèmes et, évidemment, on prend. Il n’empêche que demeurent des lacunes, des manques, des insuffisances, des béances, sur les implants capillaires et mammaires, et sur les dépassements d’honoraires. Il nous faudra encore, demain, agrandir l’œuvre d’Ambroise Croizat, le rêve réalisé de nos aînés, et non le racornir, et non le rétrécir. (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs des groupes SOC et GDR. – M. le rapporteur applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Le cancer, c’est toujours un drame, pour celui qui en est affecté, pour son entourage et pour ses proches. C’est un drame qui rend difficile la projection dans la vie qu’on avait imaginée pour soi-même. J’ai une pensée pour Fabien Roussel, qui était très engagé sur cette question. Qui, parmi nous, n’a pas été, à un moment ou à un autre, exposé à ce drame ?\nLa question que je veux poser est la suivante : sommes-nous vraiment au rendez-vous ? Beaucoup de progrès ont été faits mais, malheureusement, les courbes du dépistage stagnent ou baissent. Comme vous, j’ai participé à de nombreuses manifestations de l’opération Octobre rose, avec des associations formidables, avec des hommes et des femmes généreux qui tendent la main et qui accompagnent dans ces circonstances difficiles. Mais sommes-nous vraiment au rendez-vous ?\nLe rapporteur a rappelé les modifications que le texte a connues au cours de la navette et insisté sur la nécessité de l’adopter conforme. Même s’il n’apporte qu’un peu de confort à quelques personnes, ce sera déjà une étape.\nJe remercie le ministre d’avoir insisté sur un point que je tenais également à souligner : nous ne sommes pas au rendez-vous de la prévention. J’aimerais que cela change. Nous avons su le faire pour tant d’autres pathologies ! Relisez l’histoire de la vaccination : Agnès Buzyn était assise à votre place, monsieur le ministre, lorsque nous avons décidé de porter à onze le nombre des vaccins obligatoires. Nous avons débattu avec animation, avec passion, à l’époque de la covid-19. Puisse l’examen de ce texte faire que nous nous emparions, de manière transpartisane, de cet enjeu dont, en tant que médecin, vous mesurez le caractère essentiel. Certains sujets requièrent le dépassement, l’écoute. La prévention n’est pas l’affaire des uns à l’exclusion des autres, ou contre les autres, mais notre affaire à tous !\nCe que nous instaurons est ainsi une brique du mur. J’ai apprécié le mot de Frédéric Valletoux : nous sommes attachés à l’universalité. Que dirons-nous demain à un homme atteint d’un cancer de la prostate ? Dans quel délai des mesures analogues seront-elles applicables ? La Cour des comptes s’apprête à consacrer un très beau rapport au reste à charge, dont Jean-François Rousset a soulevé la question. Nous allons dans le bon sens ; reste que – M. le ministre et M. Valletoux, son prédécesseur, le savent – la stratégie décennale de lutte contre les cancers 2021-2030 vise à réduire de 60 000 par an, d’ici à 2040, le nombre des cancers évitables. Je ne suis pas certain, je le répète, que nous serons à ce rendez-vous.\nMême si les ambitions de ce texte sont limitées, même s’il ne s’agit que de quelques personnes, et d’envoyer un signal à ceux qui nous écoutent, nous le soutiendrons ; mais nous ne pouvons en rester là – ou bien notre voix n’aurait guère d’importance. Pour les malades, elle doit en avoir. (Applaudissements sur quelques bancs des groupes Dem et DR, ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "M. Emmanuel Mandon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794114",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Nathalie Colin-Oesterlé."
+        },
+        {
+          "orateur": "Mme Nathalie Colin-Oesterlé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841431",
+          "texte": "Les membres du groupe Horizons & indépendants partagent pleinement la volonté de soutenir les personnes atteintes d’un cancer du sein, qui touche chaque année plus de 60 000 femmes en France. Il s’agit de réaffirmer notre engagement à améliorer l’accès aux soins, ainsi qu’à investir dans la prévention, le traitement et la recherche afin d’offrir à toutes les patientes une prise en charge optimale.\nAu-delà de ses conséquences physiologiques, ce cancer bouleverse profondément la vie des victimes et celle de leurs proches, car il affecte l’image de soi, perturbe la vie de famille, constitue un défi pour la santé mentale. À cela s’ajoute une réalité trop souvent ignorée : son poids financier. Bien qu’il constitue une ALD, le reste à charge s’élève en moyenne à 780 euros par an, soit le double de celui qu’engendrent les autres cancers. Cette situation accentue les inégalités en matière d’accès aux soins et impose une charge supplémentaire à des femmes fragilisées par la maladie.\nC’est pourquoi nous saluons les avancées contenues dans cette proposition de loi, qui vise à répondre aux besoins spécifiques des patientes. Des dispositions essentielles tendent à alléger le coût de la maladie : les frais propres à ce cancer – tatouage médical pour les femmes préférant ne pas recourir à une reconstruction chirurgicale, renouvellement des prothèses mammaires, ou encore sous-vêtements adaptés au port de prothèses amovibles – seront intégralement pris en charge. Je le répète, il s’agit là d’avancées concrètes, qui entraîneront une différence sensible dans le quotidien des patientes. Le texte prévoit en outre un forfait spécifique pour certains produits actuellement non remboursés, tels que les crèmes et cosmétiques validés par les autorités sanitaires.\nNous tenons également à souligner l’élargissement du parcours de soins global : ce dernier inclura les patients suivant un traitement actif contre le cancer et sera spécifiquement renforcé en cas de cancer du sein. L’amélioration de l’accès aux soins de support, comme l’APA, le soutien psychologique, la nutrition, s’inscrit dans cette démarche. Ces services, aujourd’hui financés par un forfait de 180 euros, nécessitent cependant un ajustement par voie réglementaire pour correspondre aux réels besoins des patientes.\nUn autre progrès réside dans la possibilité de plafonner les dépassements d’honoraires concernant les actes de reconstruction mammaire. Cette mesure, qui sera négociée entre les syndicats représentatifs et les caisses d’assurance maladie, établit un équilibre entre justice sociale et reconnaissance des contraintes financières que connaissent les professionnels de santé.\nLe groupe Horizons & indépendants votera en faveur de cette proposition de loi, dans sa rédaction modifiée par le Sénat. Elle ne constitue certes qu’une étape, mais aussi un compromis pertinent entre les besoins des patientes et les principes fondamentaux de notre système de solidarité nationale. Nous continuerons de défendre une approche globale, équitable, humaine, qui place la qualité de vie et l’accès aux soins au premier rang des priorités. (Applaudissements sur les bancs du groupe HOR, sur quelques bancs du groupe DR ainsi que sur les bancs des commissions.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Laurent Panifous."
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Je me réjouis que nous reprenions l’examen de ce texte, adopté à l’unanimité par notre assemblée à l’issue de sa première lecture, dont l’objectif consiste à améliorer la prise en charge des soins liés au traitement du cancer du sein. Si nous portons à celui-ci un intérêt particulier, c’est qu’en France, une femme sur huit développe cette maladie. En 2023, près de 61 000 nouveaux cas ont été détectés : il s’agit du cancer le plus fréquent chez les femmes, mais aussi le plus fréquent tout court, et de la première cause des décès liés aux cancers.\nCette ALD entraîne inévitablement des traitements longs, que la sécurité sociale couvre de façon quasi intégrale ; cet apport précieux reste hélas insuffisant, tant les coûts sont élevés, sans parler de tous les frais annexes engendrés par la maladie. Pour autant, ceux-ci ne sont pas un luxe, car ils répondent à un besoin vital : restaurer l’image que l’on a de soi, cesser de porter dans sa chair les stigmates de la maladie.\nDans les faits, le montant du reste à charge est fréquemment à l’origine de dilemmes, de choix douloureux : près de 15 % des patientes qui renoncent à une reconstruction mammaire le font pour des raisons financières ; d’autres se privent d’une prothèse capillaire, dont la prise en charge repose en grande partie sur les complémentaires santé. Il nous revient d’épargner autant que possible aux victimes de cette maladie éprouvante des difficultés que certaines vivent comme une double peine.\nNotre groupe juge cette proposition de loi bienvenue, quoique sa version actuelle aille moins loin que celle qu’avait adoptée l’Assemblée, les sénateurs étant revenus, entre autres, sur la prise en charge du forfait journalier, des participations forfaitaires, des franchises, au motif qu’il importait de ne pas créer de dérogations au régime des ALD. Nous admettons cette exigence, mais elle devrait plutôt nous inciter à faire évoluer le régime en question.\nDe même, il est compréhensible que la prise en charge intégrale exclue les dépassements d’honoraires, afin de ne pas les encourager. Reste à savoir si les négociations conventionnelles suffiront véritablement à plafonner ces dépassements, dont le rôle dans le renoncement aux soins ne doit pas être sous-estimé, notamment dans certains déserts médicaux où les patientes n’ont d’autre choix que de se tourner vers des établissements de santé à but lucratif.\nLes assurées supportent en outre le coût de prestations que la sécurité sociale ne prend pas en charge, par exemple les soins de support – APA, diététicien, psychologue –, dont l’efficacité, s’agissant d’éviter les récidives, fait pourtant l’objet d’un large consensus scientifique.\nNous nous réjouissons que le gouvernement propose un accès au parcours de soins global post-cancer avant la fin du traitement actif ; c’est un premier pas pour améliorer le suivi post-traitement, primordial pour la rémission et la guérison. Il est toutefois évident que, sans augmentation du forfait de 180 euros, cette évolution restera vaine.\nAucun patient ne devrait connaître de problèmes d’argent en raison de sa maladie ou, comme de trop nombreuses femmes atteintes d’un cancer du sein, renoncer à telle ou telle thérapeutique pour des raisons financières. Nous soutiendrons cette proposition de loi : les mesures qu’elle prévoit sont aussi utiles que nécessaires pour alléger ce fardeau. (Applaudissements sur les bancs du groupe LIOT ainsi que sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Soumya Bourouaha."
+        },
+        {
+          "orateur": "Mme Soumya Bourouaha",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720838",
+          "texte": "Permettez-moi, tout d’abord, d’avoir une pensée pour les milliers de personnes chaque année – des femmes à 99 %, mais aussi des hommes – dont la vie bascule à l’annonce d’un cancer du sein. Cette maladie ne laisse personne indifférent : lorsque le mot « cancer » tombe dans le silence d’un cabinet médical, il est brutal, lourd de sens, d’une violence de séisme, et suscite l’angoisse vertigineuse des malades comme de leurs proches. Rien ne prépare à une telle épreuve ; chacun doit trouver en soi le courage de l’affronter.\nCette proposition de loi vise à améliorer la prise en charge des patients atteints d’un cancer du sein : je salue le travail essentiel de Fabien Roussel et de Yannick Monnet.\nLe cancer du sein, le plus répandu en France, laisse s’il est dépisté tôt de réelles chances de guérison ; en revanche, il marque de façon visible et durable le corps des 60 000 femmes qu’il frappe chaque année. La chimiothérapie entraîne la chute des cheveux, des cils, des sourcils, fragilise la peau et les ongles, rend la maladie omniprésente, exposant les patientes au regard, parfois au jugement, de la société. Une épreuve plus intime, mais tout aussi dévastatrice, est l’ablation d’un sein, voire des deux. Physiquement et psychologiquement, il s’agit d’un profond traumatisme : apparence, regard sur soi, identité corporelle, tout un équilibre vacille devant ce corps souvent perçu comme mutilé.\nC’est pourquoi, au sein du parcours de guérison, la reconstruction mammaire représente bien plus qu’une opération : la fin d’un combat acharné contre la maladie et l’espoir d’une renaissance. Or toutes les femmes n’ont pas accès à cette étape essentielle, car le reste à charge d’une telle intervention atteint en moyenne 1 400 euros. Dans l’incapacité de réunir une telle somme, beaucoup subissent une double peine : la maladie et les inégalités économiques.\nCertains jugent la proposition de loi insuffisante ; même si elle reste en deçà de son contenu initial, les sénateurs ayant supprimé des dispositions porteuses d’espoir, et incomplète face à l’ampleur des besoins, elle constitue une avancée importante.\nIl est impératif que le texte soit adopté en termes conformes : en amorçant une refonte de la prise en charge du cancer du sein, il ouvre la voie à d’autres progrès. Nous aurions ainsi souhaité aller plus loin au sujet des dépassements d’honoraires ; néanmoins, la proposition de loi permettra à l’assurance maladie de négocier avec les syndicats de médecins un plafonnement lors des reconstructions mammaires à la suite d’un cancer – opération qui constitue pour les patientes la principale source de reste à charge. De plus, la mission d’information confiée à la Cour des comptes sera l’occasion d’établir un inventaire précis de ces dépassements et d’y revenir par la suite.\nL’article 1er du texte prévoit un forfait visant à financer, sur prescription médicale, les soins et dispositifs jusque-là non remboursables liés au traitement ou aux conséquences du cancer du sein. Il s’agit là d’un progrès majeur. Tout sauf accessoires, ces soins prétendus de confort aident les patients à lutter avec dignité. Soyons clairs : il n’y a jamais de confort dans la maladie.\nCet article garantit également la prise en charge intégrale du renouvellement des prothèses mammaires et des sous-vêtements adaptés. Ces dispositifs permettent aux femmes de retrouver une part de leur identité et de leur féminité, mises à rude épreuve par le cancer.\nCertes, un long chemin reste à parcourir. Les besoins sont immenses, les attentes des patientes légitimes et nos réponses encore perfectibles. Néanmoins, ne tournons pas le dos à l’opportunité qui nous est présentée. Ne privons pas les malades de ces avancées, aussi modestes soient-elles. Chaque mesure qui concourt à les protéger davantage et à leur offrir un répit est une victoire. Là est notre rôle : accompagner, soutenir et protéger. C’est pourquoi je vous invite à adopter ce texte dans une version conforme à celle adoptée par le Sénat. (Applaudissements sur les bancs du groupe GDR, ainsi que sur plusieurs bancs des groupes EcoS et SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Christelle D’Intorni."
+        },
+        {
+          "orateur": "Mme Christelle D’Intorni",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793322",
+          "texte": "Le système de santé français repose sur un principe fondamental : garantir à chacun l’accès aux soins, indépendamment de sa situation financière ou de son état de santé. Ce modèle assure une protection contre les aléas de la vie, réduit les inégalités et permet à tous de bénéficier des avancées médicales.\nToutefois, aucun système n’est parfait. Malgré une couverture ambitieuse, des manques persistent. La proposition de loi dont nous débattons s’attaque à l’un de ces angles morts : le reste à charge pour les patientes atteintes du cancer du sein. Officiellement, ces patientes bénéficient d’une prise en charge intégrale, grâce au régime des affections de longue durée. En réalité, de nombreux coûts ne sont pas couverts. Prothèses capillaires, soins esthétiques, suivi psychologique, accompagnement diététique, activité physique adaptée, consultations spécialisées hors nomenclature, dépassements d’honoraires ou encore transports, la liste des frais restant à la charge des malades est longue.\nSouvent, ces dépenses représentent des milliers d’euros. Faute de moyens, certaines patientes renoncent à des soins qui amélioreraient pourtant leur qualité de vie et favoriseraient leur guérison. Cette situation crée ainsi une inégalité criante : selon une étude de la Ligue contre le cancer, plus de la moitié des femmes âgées de moins de 40 ans atteintes d’un cancer du sein s’inquiètent pour leur budget. Celles issues de milieux modestes subissent une double peine : la maladie elle-même et les contraintes financières qui l’accompagnent. Ce n’est pas acceptable.\nC’est pourquoi la présente proposition de loi vise à supprimer les franchises, participations forfaitaires et forfaits journaliers pour ces patientes, tout en garantissant une prise en charge intégrale des soins de support et des dispositifs nécessaires. Répondant à une urgence, ce texte, adopté à l’unanimité en première lecture tant à l’Assemblée nationale qu’au Sénat, est indispensable et témoigne d’un consensus rare sur la nécessité d’agir. Par conséquent, le groupe UDR le votera résolument.\nToutefois, aussi légitime soit-il, cet effort doit nous conduire à mener une réflexion plus approfondie. Notre système de santé est l’un des plus généreux au monde. C’est une chance, mais c’est aussi un luxe, qui repose sur un équilibre fragile. L’assurance maladie accumule un déficit préoccupant. Chaque nouvelle dépense, même justifiée, alourdit un modèle qui peine déjà à se financer. Dans ce contexte, agir pour les patientes atteintes d’un cancer du sein ne doit pas nous faire oublier une réalité simple : notre système est en faillite ; le déficit de la sécurité sociale culmine à 16,6 milliards d’euros et devrait atteindre 25 milliards cette année.\nNotre modèle social est précieux, mais il n’est pas intangible. Il repose sur un financement collectif qui implique de faire des choix : choisir de mieux prendre en charge les patientes atteintes d’un cancer du sein est une décision de bon sens et de justice sociale. C’est même une priorité. Toutefois, cette priorité implique un autre choix : celui de la responsabilité. La responsabilité et le devoir de défendre des réformes nécessaires, structurelles afin de garantir à chaque malade atteint d’un cancer une meilleure prise en charge.\nPour cela, il faut nous attaquer au gaspillage, aux actes redondants, aux surcoûts liés aux structures administratives et aux inefficiences du parcours de soins. Nous devons assumer une réflexion globale sur la pérennité de notre système. On ne peut plus se voiler la face. Si nous ne maîtrisons pas nos dépenses, nous risquons de ne plus pouvoir financer ce qui fait notre force : une protection universelle, fondée sur un subtil mélange entre mutualisme et solidarité, lorsque cela est nécessaire.\nAgissons avec responsabilité. Protégeons mieux ceux qui en ont besoin, sans compromettre la capacité de notre système à protéger tous les malades demain. (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Angélique Ranc."
+        },
+        {
+          "orateur": "Mme Angélique Ranc",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793230",
+          "texte": "Cette proposition de loi est particulièrement importante : elle concerne les femmes, et les hommes, touchés physiquement et psychologiquement par le cancer du sein et les traitements spécifiques qui leur sont administrés.\nLes chiffres sont connus, ils ont été rappelés tout au long de cette séance, mais on ne mesure pas suffisamment l’importance de ce fléau. Lorsque les statistiques indiquent qu’une femme sur huit contracte le cancer du sein, cela signifie qu’une femme sur huit, dans cet hémicycle, est susceptible d’être touchée par la maladie. Une femme sur huit dans notre entourage ou dans notre famille pourrait faire partie des 61 000 nouveaux cas dépistés chaque année, qui font de la France le pays qui a connu le plus fort taux d’incidence au monde en 2022. La lutte contre le cancer du sein est donc un enjeu national !\nDans ces conditions, la proposition de loi n’est pas superflue, mais absolument nécessaire. Et il nous appartient à nous, législateurs, d’accompagner au mieux nos compatriotes dans la souffrance, afin de ne pas ajouter à l’enfer du cancer le fardeau des restes à charge et des contraintes administratives.\nEn première lecture, nous avions formulé des préoccupations sur le contenu du texte. De nombreuses réserves ont finalement été levées grâce, entre autres, aux votes du groupe Rassemblement national qui a fait évoluer positivement la version initiale.\nCependant, toutes nos propositions n’ont pas été entendues et je le déplore. Ainsi, je m’interroge : pourquoi le tatouage tridimensionnel définitif de l’aréole n’est-il pas intégré ? Ne devrait-il pas être financé pour aider les patientes à se reconstruire, tant physiquement que psychologiquement, après une reconstruction mammaire post-mastectomie ? Pour l’instant considéré comme un acte non médical, ce tatouage en 3D n’est pas remboursé par l’assurance maladie.\nEnsuite, qu’en est-il de l’accès à des transports adaptés à l’issue de séances de radiothérapie ou de chimiothérapie ? Comment se fait-il que certains médecins imposent encore à leurs patientes d’utiliser des transports partagés, malgré tous les effets secondaires qu’elles subissent ?\nEnfin, pourquoi n’est-il jamais question d’alléger les contraintes administratives liées à l’obtention de bons de transport ? Ne pourrait-on pas étudier la possibilité de créer un bon unique entre le domicile et l’hôpital, durant la totalité du traitement du cancer du sein ? Ou bien la possibilité d’automatiser ces bons de transport pendant les périodes de traitement par radiothérapie ou chimiothérapie ?\nMalgré la pertinence de nos propositions et nos efforts pour les inclure dans le texte, aucune d’entre elles n’a été conservée. En seconde lecture, la règle de l’entonnoir s’est même chargée de les écarter définitivement. Il est pourtant impératif que cette proposition de loi soit la plus exhaustive possible, si nous voulons vraiment améliorer la situation des patients.\nDevant l’ampleur du phénomène, nous ne pouvons pas non plus nous contenter d’accompagner hypocritement ceux que nous aurions dû protéger plus tôt. Nous devons surtout combattre le mal à la racine. Je parle ici de la prévention, totalement absente du texte alors qu’elle devrait être une priorité. Si nous voulons protéger efficacement les Français les plus fragiles, il est urgent de concentrer les moyens sur le dépistage, en particulier pour les tranches d’âge auxquelles les femmes ont le plus de risques d’être affectées.\nLes chiffres de Santé publique France (SPF) indiquent deux tranches d’âge au cours desquelles l’incidence du cancer du sein augmente en flèche. C’est sur elles que nos efforts doivent se concentrer : la première se situe entre 40 et 50 ans, la seconde entre 60 et 70 ans. Les femmes âgées de 60 à 70 ans bénéficient déjà du programme de dépistage organisé généralisé, pris en charge à 100 %, ; il est nécessaire d’étendre le dispositif à celles âgées de 40 à 50 ans. À cet âge, non seulement le taux d’incidence du cancer augmente drastiquement, mais en plus, les traitements sont plus efficaces et les chances de guérison plus élevées. Cette ouverture de droits permettrait de déceler de manière plus performante les 20 % de cancers du sein qui se développent avant l’âge de 50 ans. Nous devons permettre aux femmes qui en sont écartées de bénéficier à leur tour de dispositions favorables, afin de dépister plus rapidement et plus efficacement leur cancer.\nC’est pourquoi nous avons souhaité intervenir sur ce sujet dans l’hémicycle lors des deux lectures de cette proposition de loi. C’est aussi la raison pour laquelle j’ai interpellé le gouvernement, par le biais d’une question écrite publiée ce matin au Journal officiel, sur l’ouverture de droits à cette tranche d’âge particulièrement vulnérable. Au nom du groupe Rassemblement national, je tenais à vous remercier, monsieur le ministre, tant pour votre réactivité que pour avoir répondu à nos attentes ce soir.\nBien que nécessaire, cette proposition de loi ne suffira pas à traiter le problème sur le fond. S’il est souhaitable d’accompagner financièrement nos compatriotes victimes d’un cancer du sein, il est surtout indispensable de traiter la question en amont. La prévention est la clé qui nous permettra de construire un système de santé plus juste et plus efficace. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Véronique Besse."
+        },
+        {
+          "orateur": "Mme Véronique Besse",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA309643",
+          "texte": "Parce qu’il est le plus fréquent et le plus meurtrier des cancers chez la femme, le cancer du sein nous concerne tous, directement ou indirectement. Nous connaissons tous des femmes touchées par la maladie, parfois dans notre entourage proche, et les témoignages sur leur calvaire ne peuvent nous laisser indifférents. J’ai une pensée émue pour toutes celles qui ont vu leur vie basculer à l’annonce du diagnostic.\nCe soir, nous ne parlons pas seulement de prise en charge et de remboursement, mais avant tout des dégâts causés par le cancer et de destins bouleversés. Nous connaissons les chiffres en matière de cancer du sein. La campagne de sensibilisation Octobre rose nous le rappelle chaque année, grâce à l’engagement des associations et des bénévoles. Le dépistage organisé pour les femmes âgées de plus de 50 ans fait également partie des outils de prévention.\nMalgré des recherches et des avancées médicales significatives, la prise en charge du cancer du sein dans notre pays n’est pas à la hauteur de l’épreuve que traversent les malades et leur famille. Une meilleure prise en charge permettrait d’améliorer la qualité de vie des malades, de limiter les effets secondaires ainsi que les risques de récidive et de réduire, à terme, les dépenses de santé.\nLe texte qui nous est présenté porte une véritable ambition et constitue un signal d’espoir envoyé aux patientes et à leurs proches. Toutefois, malgré un remboursement des traitements, le reste à charge, notamment pour les soins de support, est souvent un frein pour les patientes. Elles sont parfois contraintes de reporter des interventions, ce qui compromet leur reconstruction.\nSans remettre en cause le principe de l’égalité de traitement entre les patientes, il me semble important de revenir sur la prise en charge des perruques. Lors d’un cancer du sein, la femme est frappée dans sa chair et dans sa féminité. La perte de cheveux, consécutive au traitement, est souvent vécue comme un préjudice supplémentaire, qui porte atteinte à son identité. Ne plus se reconnaître dans la glace est vécu comme une atteinte à la dignité.\nPermettez-moi de saluer ici une entreprise située dans ma circonscription, Les Pas d’Chichi, qui confectionne des perruques avec les vrais cheveux de la patiente – je peux vous dire que cela change tout ! Cette initiative inspirante permet aux femmes de retrouver de la confiance et surtout de se sentir elles-mêmes. Il ne s’agit pas seulement d’esthétisme ; il s’agit de rester soi-même, tout simplement de se reconnaître.\nJe profite de cette proposition de loi pour évoquer l’accès aux soins. Malgré des alertes répétées de la part des professionnels, des patients et des élus, le système de santé et de prévention est à bout de souffle et ne cesse de se détériorer. Il n’est plus à la hauteur des enjeux et du respect des patients. Malheureusement, le cancer du sein n’échappe pas à cette triste réalité et il est urgent d’améliorer sa prise en charge.\nAttendue par les malades et leurs proches, cette proposition de loi fait preuve de bon sens. Elle permettra de redonner confiance dans la politique et nos institutions, elle montre que les élus sont capables de s’entendre, au-delà des clivages partisans.\nToutefois, je tiens à appeler le gouvernement à la plus grande vigilance quant à l’avenir du texte. En effet, trop de textes qui font consensus dans l’hémicycle et qui sont approuvés par les Français attendent toujours leurs décrets d’application. N’abandonnons pas les patientes et les professionnels. Ils comptent sur nous ! (Applaudissements sur quelques bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La discussion générale est close.\nJe vous informe que sur le vote de la proposition de loi, je suis saisie par les groupes Ensemble pour la République et de la Gauche démocrate et républicaine de demandes de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Je partage le point de vue de la quasi-totalité des orateurs de la discussion générale, qui saluent ce travail, même s’il y a encore beaucoup à faire. Je remercie ma collègue Cathy Apourceau-Poly, qui a défendu ce texte au Sénat dans le cadre de la niche du groupe communiste, républicain, citoyen et écologiste.\nMonsieur le ministre, tous les cancers devraient être totalement pris en charge. Je me tiens à votre entière disposition pour avancer dans ce sens pour toutes les maladies, jusqu’au 100 % sécu, mais commençons par adopter ce texte !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "Je remercie le rapporteur d’avoir poursuivi le travail engagé par Fabien Roussel. Je souhaiterais, comme vous, que tous les cancers soient pris en charge jusqu’au dernier euro, mais du point de vue de l’économie de la santé publique en France, il serait préférable de dépister massivement les cancers et d’éviter ainsi leur apparition. Au-delà des enjeux de financement de la sécurité sociale, cela améliorerait la qualité de vie de nos concitoyens. Le meilleur des traitements est celui que l’on n’applique pas. Je me réjouis de la belle unanimité sur les bancs ce soir.\nNous sommes conscients de la nécessité de renforcer la prévention, dont Philippe Vigier avait fait un cheval de bataille. J’espère que nous pourrons prochainement modifier les règles relatives au dépistage du cancer du sein, dès que la HAS aura rendu ses avis. Pour soigner mieux, il est nécessaire de dépister plus précocement, à des âges moins avancés, et de façon stratifiée selon le risque, car l’hérédité entre en jeu – malheureusement, les cancers du sein sont plus fréquents dans certaines familles. (Applaudissements sur les bancs du groupe DR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611756",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion des articles",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "J’appelle maintenant dans le texte de la commission les articles de la proposition de loi sur lesquels les deux assemblées n’ont pu parvenir à un texte identique."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611759",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 1er est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611927",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er bis A",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 1er bis A est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611857",
+      "valeurPtsOdj": "2",
+      "titre": "Article 1er bis",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sylvie Ferrer, pour soutenir l’amendement no 1."
+        },
+        {
+          "orateur": "Mme Sylvie Ferrer",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794870",
+          "texte": "Il vise à interdire les dépassements d’honoraires relatifs aux actes chirurgicaux de reconstruction mammaire consécutifs à un cancer du sein. Il s’agit d’une mesure de justice sociale, en faveur de l’égalité de toutes les femmes dans l’accès aux soins.\nCes dépassements d’honoraires atteignent en moyenne 1 391 euros par patiente, une somme considérable pour des femmes aux parcours de soins longs, éprouvants et souvent coûteux. Faute de pouvoir en assumer les frais, certaines femmes renoncent à leur reconstruction ou optent pour des solutions moins adaptées.\nSelon le collectif Nos services publics, 27 % du reste à charge moyen est lié au dépassement d’honoraires. Ces chiffres devraient faire peur à nos collègues de droite et de la Macronie, qui ont supprimé en première lecture à l’Assemblée nationale la prise en charge du dépassement d’honoraires par l’assurance maladie.\nComment justifier qu’en 2025, après un cancer, des femmes soient encore obligées de choisir entre leur rétablissement physique et leur stabilité financière ? Leur prise en charge ayant été supprimée, il ne reste qu’une solution : interdire les dépassements. Cette mesure ne privera pas les chirurgiens de revenus décents. Selon la direction de la recherche, des études, de l’évaluation et des statistiques (Drees), en 2021, les revenus des chirurgiens libéraux étaient en moyenne de 178 300 euros.\nLa reconstruction mammaire ne doit pas être un luxe réservé à celles qui en ont les moyens, mais un droit accessible à toutes les femmes. À l’heure actuelle, 15 % des femmes continuent de renoncer à une chirurgie de réparation mammaire pour des raisons financières. Par devoir de solidarité, votez l’amendement ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Je ne débattrai donc pas du contenu de cet amendement, auquel je souscris. Si nous devions l’adopter, le texte, modifié, repartirait au Sénat pour une nouvelle lecture dont nous ignorons la date… Je vous demande de retirer l’amendement, à défaut de quoi l’avis sera défavorable. (M. Gérard Leseul applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Yannick Neuder",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA794038",
+          "texte": "J’irai dans le même sens que le rapporteur, mais pour des raisons différentes. L’amendement est pour partie satisfait par l’article 1er bis qui, dans sa nouvelle rédaction, permet de plafonner les dépassements d’honoraires relatifs à des actes chirurgicaux de reconstruction mammaire consécutifs à un cancer du sein, dans le cadre des négociations conventionnelles. En outre, prolonger l’examen de ce texte et en reporter l’application nuirait aux principales bénéficiaires. Demande de retrait ; à défaut, avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611862",
+      "valeurPtsOdj": "2",
+      "titre": "(L’amendement no 2 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je suis saisie de l’amendement no 2 de M. Damien Maudet."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2 est retiré.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 1er bis est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611776",
+      "valeurPtsOdj": "2",
+      "titre": "Explications de vote",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Damien Maudet."
+        },
+        {
+          "orateur": "M. Damien Maudet (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Nous voterons pour le texte (Applaudissements sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Excellent ! Bravo !"
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "…mais nous sommes déçus que la prise en charge des dépassements d’honoraires ait été supprimée. J’ai recueilli le témoignage d’Estelle à Limoges : la reconstruction mammaire dans une clinique a coûté 14 000 euros, dont elle a dû payer 5 000 de sa poche. Je regrette également que le remboursement des perruques ne figure pas dans le texte. Celles qui ressemblent à du plastique, dont les femmes nous disent qu’elles ne les portent pas, sont partiellement remboursées, mais celles qui sont vraiment ressemblantes, qui leur permettent d’éviter que les autres ne les regardent comme des malades – ce sont leurs mots –, sont beaucoup trop chères : elles coûtent 1 000 euros.\nN’oubliez jamais que le remboursement par l’assurance maladie des dépassements d’honoraires a été supprimé en première lecture à l’Assemblée nationale grâce au vote des macronistes, ce qui ne nous a guère étonnés, mais aussi du Rassemblement national, dont les députés disaient être favorables aux dépassements d’honoraires et opposés à leur prise en charge. Nous le regrettons et nous le rappellerons. Il est dommage que le RN ait essayé de supprimer une des plus belles avancées du texte. (Applaudissements sur les bancs du groupe LFI-NFP. – Exclamations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Marine Hamelet."
+        },
+        {
+          "orateur": "Mme Marine Hamelet (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795900",
+          "texte": "Chaque jour, en France, 164 femmes sont diagnostiquées d’un cancer du sein. Elles apprennent qu’elles auront désormais une épée de Damoclès au-dessus de la tête, qu’elles devront s’engager dans un combat long, éprouvant, aussi bien moralement que physiquement, qu’il leur faudra affronter les peurs et les incertitudes – celle de ne pas savoir si elles s’en sortiront. Elles ne sont sûres que d’une chose : elles garderont des séquelles à vie – si elles ont la chance de survivre.\nJe suis l’une de ces femmes. Au début de l’année 2024, j’ai été diagnostiquée d’un cancer du sein. Je connais cette peur qui vous prend aux tripes, celle de devoir abandonner ses enfants et ceux qui nous sont chers. La première question qui vous vient à l’esprit est : pourquoi moi ?\nJe savais qu’un long combat débutait et j’étais déterminée à le mener. J’ai connu les longues et éprouvantes séances de chimiothérapie, qui vident de toute énergie, impactent la vie de famille, la vie professionnelle et le quotidien ; les nausées, les vomissements à répétition, la prise de poids, la perte des cheveux ; l’ablation d’un sein avec lequel j’avais nourri mes enfants. C’est une maladie qui nous atteint viscéralement, tant elle nous attaque dans notre féminité. Elle expose aussi au regard des autres, souvent bienveillant, parfois maladroit.\nCette épreuve, je l’ai vécue comme 700 000 femmes en France. Dans ce moment difficile, j’ai décidé de continuer d’exercer mon activité de parlementaire, par sentiment de devoir envers les Tarn-et-Garonnais qui m’ont accordé leur confiance, mais aussi par solidarité envers toutes les femmes qui, malgré la fatigue, continuent de travailler parce qu’elles n’ont pas le choix – la vie est dure, même sans maladie. Dans mon malheur, j’étais consciente d’être privilégiée. Grâce à l’indemnité parlementaire dont je bénéficie, j’ai pu faire face aux différents restes à charge qui écrasent la majorité des femmes atteintes de ce cancer.\nCe texte transpartisan constitue une avancée grandement attendue par des centaines de milliers de femmes. Les discussions ont abouti à un dispositif équilibré, qui ouvre la voie à des négociations conventionnelles pour encadrer les dépassements d’honoraires pratiqués pour des actes chirurgicaux de reconstruction mammaire. Celle-ci constitue une étape indispensable pour se reconstruire physiquement et psychologiquement, après avoir perdu une partie de ce qui nous fait femme.\nAujourd’hui encore, trop de femmes renoncent à cette reconstruction pour des raisons financières. Cette proposition de loi instaure la prise en charge intégrale du renouvellement des prothèses mammaires et des sous-vêtements adaptés à ces dernières. Elle crée un forfait de 180 euros pour la prise en charge des soins de support indispensables face aux effets indésirables du traitement, tels qu’un suivi psychologique ou nutritionnel. Elle autorise également le remboursement de la dermopigmentation de l’aréole.\nJe regrette le comportement un peu mesquin des groupes de gauche et de la Macronie qui ont rejeté en première lecture notre amendement qui visait à prendre en charge intégralement la dermopigmentation réparatrice en 3D. Cette précision était nécessaire pour répondre au mieux aux attentes des patientes : obtenir un résultat au plus proche de la réalité d’un sein naturel – celui qu’elles avaient avant la maladie.\nJe déplore également le rejet de notre amendement qui visait à nourrir une réflexion sur l’ouverture du dépistage du cancer du sein à partir de 40 ans, afin de prendre en charge la maladie plus précocement. Une réflexion mériterait d’être menée pour améliorer l’offre de soins sur tout le territoire. La présence de déserts médicaux est susceptible de retarder le dépistage de ces cancers dans la ruralité et les outre-mer. À Paris, il y a 234 médecins généralistes, et autant de spécialistes, pour 100 000 habitants. Dans le Tarn-et-Garonne, il y en a moitié moins. À Mayotte, le nombre chute à 49. La lutte contre le cancer du sein est aussi une lutte contre l’insécurité médicale qui touche la ruralité et les outre-mer.\nCes précisions étant faites, et parce que ce texte améliorera indéniablement le quotidien de centaines de milliers de femmes touchées par cette maladie, le groupe Rassemblement national se prononcera en sa faveur. (Applaudissements sur divers bancs. – Les députés des groupes RN, DR, HOR, LIOT et UDR se lèvent et applaudissent longuement.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Je vous remercie de ce témoignage."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611793",
+      "valeurPtsOdj": "2",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        141\n        Nombre de suffrages exprimés                141\n        Majorité absolue                        71\n                Pour l’adoption                141\n                Contre                0"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La proposition de loi est adoptée.)\n (Applaudissements.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Je remercie de nouveau Fabien Roussel et Cathy Apourceau-Poly. Notre assemblée est souvent critiquée, mais l’antiparlementarisme qui se développe dans notre pays n’est pas justifié : même si nos débats sont parfois vifs, nous y produisons de belles choses – c’était le cas ce soir. Merci à tous ! (Applaudissements.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3611801",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Prochaine séance, demain, à 14 heures :\n Questions au gouvernement ;\n Discussion de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété ;\n Discussion de la proposition de loi visant à restreindre la vente de protoxyde d’azote aux seuls professionnels et à renforcer les actions de prévention sur les consommations détournées :\n Discussion de la proposition de résolution visant à condamner l’oppression et la terreur imposées aux femmes iraniennes, et à réaffirmer leur liberté absolue ;\n Discussion de la proposition de résolution européenne relative à l’adoption et à la mise en œuvre d’exigences à l’importation pour le respect de normes de production équivalentes aux normes de production essentielles, en matière de santé, d’environnement, de biodiversité et de bien-être animal applicables dans l’Union européenne ;\n Discussion de la proposition de résolution invitant le gouvernement de la République française à refuser la ratification de l’accord commercial entre l’Union européenne et le Mercosur.\nLa séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à minuit.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

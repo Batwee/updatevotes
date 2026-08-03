@@ -1,0 +1,2902 @@
+{
+  "uid": "CRSANR5L17S2025O1N206",
+  "seanceRef": "RUANR5L17S2025IDS29392",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-05-20",
+  "dateLisible": "mardi 20 mai 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3756543",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la proposition de loi relative au droit à l’aide à mourir (nos 1100, 1364)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754245",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Cet après-midi, l’Assemblée a poursuivi la discussion des articles de la proposition de loi ; elle a commencé d’examiner, à l’article 5, les amendements nos 2029 à 2625, en discussion commune. Ces amendements ont été présentés par leurs auteurs."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754320",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Dans la discussion commune, je suis saisie de deux amendements identiques, nos 407 et 646.\n L’amendement no 407 de Mme Geneviève Darrieussecq est défendu.\nLa parole est à M. Philippe Juvin, pour soutenir l’amendement no 646."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Comme je l’ai dit cet après-midi, une demande écrite du patient est absolument nécessaire."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754250",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Patrick Hetzel, pour soutenir l’amendement no 34."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Il tend à compléter l’alinéa 4 par la phrase suivante : « Cette demande est écrite pour garantir sa traçabilité ». Vous le savez, nous sommes très attachés à protéger les patients dans la durée."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754252",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin, pour soutenir l’amendement no 687."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Il vise à préciser que la demande de la personne doit être établie par un écrit daté et signé de sa main. Cependant, nous avons entendu les remarques des plusieurs collègues soutenant que parfois, le patient, paralysé, était incapable de signer. Nous proposons d’ajouter qu’à défaut, cette demande peut être faite par un enregistrement vidéo. Une demande orale ne suffit pas –  Verba volant, scripta manent."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754254",
+      "valeurPtsOdj": "1",
+      "titre": "Suspension et reprise de la séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Dans la discussion commune, les amendements identiques nos 2658 de M. Nicolas Sansu et 2659 de Mme Émeline K/Bidi sont défendus.\nJe suis saisie de plusieurs demandes de scrutin public : sur l’amendement no 89, par le groupe Socialistes et apparentés ; sur l’amendement no 1620, par le groupe Droite républicaine ; sur le sous-amendement no 2701 et l’amendement no 1899, par le groupe Ensemble pour la République ; sur les amendements no 147 et identiques, par le groupe Droite républicaine ; sur les amendements no 407 et identique, par le groupe Horizons & indépendants et sur l’amendement no 34, par le groupe Droite républicaine.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Laurent Panifous, rapporteur de la commission des affaires sociales, pour donner l’avis de la commission sur l’ensemble des amendements en discussion commune."
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Tous ces amendements visent à reformuler ou à compléter l’alinéa 4 pour préciser la manière dont la demande est présentée par la personne au médecin : par écrit, daté et signé, par enregistrement vidéo. Aux termes de l’amendement no 2029 de M. Isaac-Sibille, le patient ne ferait pas une demande mais ferait part de sa décision.\nD’abord, la rédaction actuelle du texte n’exclut pas la nécessité de préciser la manière dont la demande est formulée. L’alinéa 4 établit que le patient « en fait la demande expresse ». La manière dont la demande doit être formulée sera établie par décret en Conseil d’État.\nNéanmoins, nous entendons la volonté de nombreux députés sur tous les bancs d’obtenir que cette demande soit formulée par écrit. Il nous paraît cependant essentiel d’autoriser aussi toute autre forme d’expression afin de prendre en considération les personnes qui ne peuvent ou qui ne savent pas écrire – l’illettrisme touche 1,4 million de Français. Il faut donc élargir à d’autres formes d’expression que l’écrit.\nNous émettons un avis favorable sur les amendements no 407 et identiques, qui prévoient que la demande est faite par écrit, sous réserve de l’adoption d’un sous-amendement tendant à préciser que toute autre forme d’expression est autorisée, afin que chacun puisse exprimer formellement – nous avons entendu cette exigence – la demande d’aide à mourir.\nSur les autres amendements en discussion commune, l’avis de la commission est défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la ministre du travail, de la santé, des solidarités et des familles, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre du travail, de la santé, des solidarités et des familles",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Les différents groupes souhaitent de manière unanime que nous formalisions davantage la demande et que celle-ci soit écrite. Cependant, nous savons tous que certaines personnes, en raison de leur état de santé, ne sont pas capables d’écrire. Je partage l’avis du rapporteur sur les amendements nos 407 et 646, sur lesquels j’émettrai moi aussi un avis favorable.\nCependant, je déposerai un sous-amendement – je pense qu’il est plus simple que ce soit moi qui le fasse – pour préciser : « ou, à défaut, par tout autre mode d’expression adapté à ses capacités »."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "C’est l’amendement no 1899 de Mme Karine Lebon, modifié par le sous-amendement no 2701 de Mme Élise Leboucher !"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Madame la présidente, je demande une suspension de séance pour que nous nous accordions sur la rédaction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt et une heures trente-cinq, est reprise à vingt et une heures quarante-cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La séance est reprise.\nJ’ai reçu, de la part du gouvernement, un amendement no 2702. Il est placé, dans la discussion commune, entre l’amendement no 1899 de Mme Lebon et l’amendement no 1711 de M. Verny.\nLa parole est à Mme la ministre, pour soutenir l’amendement no 2702."
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Madame la présidente, je vous remercie d’avoir accordé cette suspension de séance. Avant l’interruption de nos travaux à 20 heures, plusieurs parlementaires issus de différents groupes ont proposé des amendements tendant à exiger une formalisation par écrit du souhait du patient. Certains d’entre vous avaient déjà débattu de la question en commission, notamment Mme Gruet, M. Juvin, M. Hetzel, M. Verny et Mme Lebon.\nAfin de permettre à tous les patients, même à ceux qui ne peuvent pas écrire, de formaliser leur demande, l’amendement tend à modifier l’alinéa 4 en substituant au mot « expresse » le mot « écrite » et en ajoutant « ou, à défaut, par tout autre mode d’expression adapté à ses capacités ». Tel est le sens de l’amendement. (Applaudissements sur quelques bancs des groupes EPR et SOC.)"
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Non, il n’est pas écrit « à défaut » !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "L’amendement reprend, en les complétant, les propositions des différents groupes. Dans l’esprit du sous-amendement de Mme Leboucher, il donne à tous, y compris aux personnes qui ne peuvent pas écrire, la possibilité de formaliser leur demande."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Tout le monde n’ayant pas participé aux réunions de la commission des affaires sociales, je crois important de rappeler que ce sujet avait fait l’objet d’un long débat et que le rapporteur général s’était engagé à ce que les choses évoluent. Je remercie Mme la ministre, MM. les rapporteurs et les députés qui sont intervenus : ce débat a montré que nous souhaitions tous renforcer la disposition, qui paraissait un peu légère car la demande pouvait prendre une simple forme orale. Encore une fois, je vous remercie pour ce travail collectif. L’amendement du gouvernement propose une synthèse qui, je l’espère, satisfera tout le monde."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur l’amendement no 2702, je suis saisie par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe redonne lecture de l’amendement, pour la bonne compréhension de tous : « À l’alinéa 4, substituer au mot : expresse les mots : écrite ou par tout autre mode d’expression adapté à ses capacités. »\nLa parole est à M. le rapporteur général, pour la commission des affaires sociales, de la proposition de loi relative au droit à l’aide à mourir."
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général, pour la commission des affaires sociales, de la proposition de loi relative au droit à l’aide à mourir",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "L’amendement du gouvernement est, à l’image de ce débat, transpartisan. Des idées pertinentes ont été proposées par l’ensemble des groupes. Philippe Juvin, dont je salue la persévérance, a répété plusieurs fois en commission qu’il tenait particulièrement à la formalisation par écrit. Nous avions renvoyé ces discussions à l’examen en séance. Tous les amendements proposés aujourd’hui sont rédigés dans le même esprit, mais nous ne pouvons nous limiter à une forme écrite : il faut inclure les personnes qui ne peuvent pas écrire.\nNous avons essayé d’écouter les positions de chacun ; l’amendement proposé vise à en faire la synthèse. Il n’y a ni gagnant ni perdant : nous essayons de faire avancer le texte pour apporter une sécurisation supplémentaire. Il me semble que tous ceux qui ont travaillé sur le sujet en commission peuvent en être satisfaits.\nJe demande le retrait de la série d’amendements en discussion commune, au profit de l’amendement du gouvernement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Je souscris à l’amendement du gouvernement et retire l’amendement no 1899."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1899 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Cyrille Isaac-Sibille."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "texte": "Il n’a pas été répondu à la question très importante que je posais par le biais de l’amendement no 2029, qui tend à substituer aux mots « en fait la demande expresse » les mots « fait part de sa décision ». Monsieur le rapporteur général, madame la ministre, j’aimerais que vous confirmiez qui prend la décision. Est-ce le patient, qui fait la demande ? Est-ce le collège de médecins, qui approuve ou non la demande ? Tout le monde dit que nous écrivons une loi de liberté ; dans ce cas, c’est le patient qui doit formuler sa décision, sur laquelle le collège de médecins donnera un avis.\nJe remercie Mme la ministre d’avoir proposé une nouvelle rédaction, bien que l’amendement qu’elle a présenté ne prévoit pas que la demande soit signée et datée, comme c’est pourtant l’usage pour tout document. Je regrette que nous nous en arrêtions là. Je vous le demande une dernière fois : qui prend la décision ? Le patient, ou les médecins ? (M. Gérault Verny applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Monsieur Isaac-Sibille, la réponse à votre question se trouve à l’alinéa 4 de l’article 5 : « La personne qui souhaite accéder à l’aide à mourir en fait la demande expresse à un médecin en activité. » C’est donc bien le patient qui fait cette demande. Le médecin interroge un collège de soignants pouvant regrouper un autre médecin de spécialité, une infirmière et une aide-soignante, ainsi qu’un psychiatre ou un neurologue, s’il est nécessaire de vérifier la capacité de discernement du patient. Ensuite, il rend un avis sur l’éligibilité du patient, qui en est informé.\nDans la rédaction actuelle du texte, le patient peut alors bénéficier de l’aide à mourir, s’il le souhaite. Je déposerai un amendement tendant à prévoir un délai de réflexion de quarante-huit heures.\nJe répète que c’est le patient qui fait la demande et que le médecin décide de son éligibilité. Si le patient ne demande pas l’aide à mourir, il ne se passera rien. C’est écrit dans la procédure."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "J’aurai une remarque de forme et une question de fond. J’ai eu l’honneur de représenter la France pendant dix ans au Parlement européen, où contrairement à chez nous, il n’y a pas de majorité. Là-bas, le rapporteur tente de trouver un accord sur le texte avec les différents groupes. Il accepte des amendements de la droite et de la gauche, puis il essaye de construire quelque chose."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "texte": "Exactement comme chez nous !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Même quand les députés ne sont pas d’accord sur le fond, ils acceptent des compromis – ce n’est pas par courtoisie, mais par esprit constructif.\nMonsieur le rapporteur, vous avez donné un avis favorable à l’amendement de Mme Darrieussecq, sans même évoquer nos amendements, présentés juste avant. Ces amendements proposent pourtant la même chose : une formalisation par écrit de la demande du patient. Il est vrai que nous ne sommes pas d’accord sur le fond, mais vous n’avez jamais lâché un millimètre, sur rien – rien ! (Applaudissements sur quelques bancs des groupes DR, RN, HOR et UDR. – Mme Annie Vidal et MM. Cyrille Isaac-Sibille et Charles Sitzenstuhl applaudissent aussi.)\nTous nos amendements n’auraient pas bouleversé le texte. Certes, nous avons fait des propositions structurelles, et je comprends que vous les refusiez. (Exclamations sur les bancs des groupes SOC et EcoS.)"
+        },
+        {
+          "orateur": "Une députée du groupe EcoS",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est désagréable quand ça vous arrive !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Laissez-moi parler, vous êtes fatigants !\nSur des points qui n’auraient pas perturbé votre vision politique, vous auriez pu aussi faire des avancées. Monsieur le rapporteur, il y a ce qu’on appelle un socle commun : quand les débats ressemblent à ça, je me demande ce que cela signifie d’être dans ce socle commun. (Applaudissements sur quelques bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe SOC",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Nous aussi !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Sur le fond, maintenant : nous avons demandé une formalisation par écrit de la demande du patient ; vous proposez un amendement qui prévoit une demande « écrite ou par tout autre mode d’expression. » En réalité, vous ne modifiez rien. C’est ainsi depuis le début du texte : vous prétendez changer les choses, mais vous ne faites rien ! (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Bertrand Sorre."
+        },
+        {
+          "orateur": "M. Bertrand Sorre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720190",
+          "texte": "Pour être un peu plus consensuel : j’ai défendu l’amendement no 584, qui tend à préciser que la demande, écrite, est datée et signée par le patient ; je salue cependant la volonté du gouvernement de trouver une rédaction qui, dans cet hémicycle, convienne au plus grand nombre. Je retire l’amendement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 584 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Monsieur Juvin, je ne sais pas si vous vous adressiez à moi ou au rapporteur général,…"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "À vous, monsieur Panifous, vous aviez bien compris !"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Vous affirmez que je ne fais pas référence à vos amendements. Je vais donc énumérer les auteurs des amendements auxquels j’ai donné un avis favorable, avant que Mme la ministre ne dépose l’amendement no 2702. Dites-moi si vous les connaissez : ce sont M. Le Fur, Mme Darrieussecq, M. de Courson, Mmes Thillaye et Colin-Oesterlé !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Ce n’est pas ce que vous avez dit !"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Par ailleurs, monsieur Juvin, n’est-ce pas vous qui avez déposé en commission l’amendement no AS1121, précisant que le médecin notifie sa décision par écrit – amendement qui a été adopté ? Pardon de vous le dire, mais il peut être facile de faire lever l’hémicycle au sujet de quelque chose d’inexact ! (Applaudissements sur quelques bancs des groupes EPR, LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2029 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 89."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        271\n        Nombre de suffrages exprimés                262\n        Majorité absolue                        132\n                Pour l’adoption                111\n                Contre                151"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 89 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 1620."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        270\n        Nombre de suffrages exprimés                257\n        Majorité absolue                        129\n                Pour l’adoption                111\n                Contre                146"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1620 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 2702."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        272\n        Nombre de suffrages exprimés                251\n        Majorité absolue                        126\n                Pour l’adoption                227\n                Contre                24"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2702 est adopté ; en conséquence, l’amendement no 1711, les amendements identiques nos 147, 401 et 2625, les amendements identiques nos 407 et 646, les amendements no 34 et 687, les amendements identiques nos 2658 et 2659 tombent.)\n(Applaudissements sur quelques bancs des groupes LFI-NFP, SOC, EcoS et GDR. – M. le président de la commission des affaires sociales applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 1274 de M. Christophe Bentz est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Marc de Fleurian."
+        },
+        {
+          "orateur": "M. Marc de Fleurian",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841613",
+          "texte": "Cet amendement dû à mon collègue Bentz vise à protéger les médecins militaires du geste consistant à administrer la substance létale. Ceux-ci obéissent en effet à des règles déontologiques propres, fixées par un décret du 9 avril 2025. Suivant l’article 27 de ce décret, « le professionnel de santé des armées ne peut abandonner un patient ou interrompre la mission de soutien sanitaire qui lui a été confiée » ; suivant l’article 36, il « ne provoque pas délibérément la mort ». Ces règles découlent de la spécificité de l’engagement ultime auxquels ces médecins peuvent être confrontés. Face à un ennemi qui, lui, veut provoquer délibérément la mort, ils risquent leur vie pour sauver celle de nos soldats et de civils innocents, comme l’exprime fort bien leur devise : Pro patria et humanitate. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1274 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754299",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de cinq amendements identiques, nos 35, 148, 402, 580 et 1443.\n La parole est à M. Patrick Hetzel, pour soutenir l’amendement no 35."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Il s’agit d’envoyer un signal aux médecins. L’aide à mourir inquiète un certain nombre de professionnels de santé ; ils seraient rassurés si nous précisions que sa pratique ne concernera que ceux qui se porteront volontaires."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754301",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Élisabeth de Maistre, pour soutenir l’amendement no 148."
+        },
+        {
+          "orateur": "Mme Élisabeth de Maistre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842141",
+          "texte": "Cet amendement est identique, c’est-à-dire qu’il tend à s’assurer de l’accord du médecin en prévoyant que celui-ci est volontaire."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754303",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Justine Gruet, pour soutenir l’amendement no 402."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "Il s’agit d’insérer à l’alinéa 4, après le mot « médecin », les mots « volontaire, inscrit auprès de la commission mentionnée à l’article L. 1111-12-13 ». Cette modification n’est pas anecdotique : elle inverserait le rapport du médecin avec sa clause de conscience. La rédaction actuelle du texte prévoit que les médecins pourront faire valoir cette clause à titre individuel ; nous partons, nous, du principe que ceux qui, de facto, ne souhaiteraient pas faire valoir cette clause seraient inscrits sur une liste de volontaires. Cela permettrait de ne pas mettre leurs confrères en difficulté et offrirait aux patients souhaitant recourir à l’aide active à mourir une plus grande lisibilité quant aux médecins susceptibles de les accompagner dans ce geste létal."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754305",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Annie Vidal, pour soutenir l’amendement no 580."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Cette liste permettrait de répondre plus facilement à la demande des patients et inverserait pour les médecins le principe de la clause de conscience : il leur faudrait se signaler comme volontaires, ce qui serait beaucoup plus opérant."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754307",
+      "valeurPtsOdj": "1",
+      "titre": "(Le vote à main levée n’étant pas concluant, il est procédé à un scrutin public.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Dominique Potier, pour soutenir l’amendement no 1443."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Ces amendements identiques visent à clarifier le dispositif, à le rendre plus opérant : en miroir de la liberté du patient, dont il est tant question dans cet hémicycle, nous réclamons celle du médecin."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission sur ces amendements identiques ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Le texte prévoit une clause de conscience : aucun professionnel de santé, aucun médecin ne pourra se voir imposer de faire ce geste. En revanche, je ne crois pas qu’il soit nécessaire ou souhaitable, pour pouvoir le faire, d’être forcément inscrit sur une liste. Prenons le cas d’un médecin traitant, d’un médecin de famille, qui ne souhaiterait aider à mourir que ses patients, voire l’un de ses patients et non les autres : soit il ne pourrait le faire, ne figurant pas sur la liste, soit il s’inscrirait, alors qu’il ne veut le faire que dans des cas précis ! Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis. J’ai écouté avec intérêt vos arguments. Je vous rassure, madame Gruet, je ne pense pas non plus que l’ajout que vous proposez serait anecdotique : je le considère avec le plus grand sérieux.\nLes articles 14 et 15 prévoient que la commission de contrôle et d’évaluation tient un registre des professionnels de santé qui se sont déclarés disposés à participer à la procédure d’aide à mourir. L’inscription est donc volontaire et facultative ; si vous changez d’avis, comme cela peut arriver à tout le monde, vous pouvez faire jouer votre clause de conscience.\nJe rappelle aussi que l’adoption de l’amendement du gouvernement à l’article 2 apporte une garantie supplémentaire aux médecins qui seraient réticents, puisque la règle est désormais que le patient, quand il est en mesure d’y procéder, s’administre lui-même le produit. C’est dire si nous restons vigilants quant au respect de la volonté des professionnels de santé."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Nicole Dubré-Chirat."
+        },
+        {
+          "orateur": "Mme Nicole Dubré-Chirat",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720154",
+          "texte": "Le recours au volontariat serait superfétatoire alors que l’article 14 instaure une clause de conscience et prévoit que les professionnels disposés à participer à la mise en œuvre de la procédure se déclarent à la commission de contrôle et d’évaluation. Plutôt que de devoir déclarer à chaque instant si l’on est volontaire, mieux vaut un dispositif simple, un lieu d’inscription unique, comme pour l’IVG – d’autant que le médecin qui refuse d’aider un malade à mourir devra lui donner le nom de confrères pratiquant ce geste."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Chers collègues, je vous indique que je me conformerai à la jurisprudence établie par la présidente de l’Assemblée lors des précédentes séances : après les avis, je donnerai la parole à deux orateurs pour et à deux orateurs contre. Lorsque ce n’est pas évident, n’hésitez donc pas à indiquer si vous êtes pour ou contre.\n La parole est à Mme Geneviève Darrieussecq."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "J’aurais pu déposer l’un de ces amendements, puisque j’ai évoqué tout à l’heure ce volontariat qui me tient à cœur. Parmi les arguments en faveur du volontariat, il y a d’abord celui de la simplification : on saura rapidement si le médecin ira dans le sens du patient. Il s’agit ensuite d’éviter la fracture du monde médical ; je vous l’affirme, c’est un vrai problème dans les services, notamment en soins palliatifs. Enfin, nous évoquons peu la formation, un sujet dont nous avons pas mal parlé lors de l’examen du texte précédent. On ne va pas former à l’aide à mourir tous les médecins, seulement ceux qui sont volontaires ! L’enjeu est important ; à titre personnel, je voterai pour ces amendements identiques, que j’aurais pu rédiger – je crois d’ailleurs en avoir déposé de similaires à d’autres parties du texte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "Nous voterons contre les amendements pour une raison simple : le texte prévoit une clause de conscience souple, applicable au cas par cas, qui permet au médecin de faire le geste pour un patient, de ne pas le faire pour un autre. Graver le volontariat dans le marbre d’une liste serait une manière de réduire le nombre des médecins susceptibles de pratiquer l’aide à mourir, en d’autres termes de faire peser toutes les demandes d’aide à mourir sur un petit nombre de médecins, ce qui ne facilitera pas forcément leur activité de professionnels de santé. Nous sommes radicalement opposés à ces amendements. Nous défendons, nous aussi, la clause de conscience, mais à une condition : qu’elle ne restreigne pas le droit des patients à l’aide à mourir."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Patrick Hetzel."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Mon propos ira exactement dans le même sens que celui de Mme Darrieussecq. Certes, la clause de conscience existe ; mais comme elle l’a indiqué fort pertinemment, beaucoup de professionnels exerçant dans les services de soins palliatifs ne veulent pas participer à une procédure d’aide à mourir. Il est nécessaire de les sécuriser.\nNous proposons donc d’établir une règle générale selon laquelle ils ne sont pas obligés de pratiquer l’aide à mourir ; ceux qui souhaitent pratiquer cet acte pourront se manifester sur la base du volontariat.\nPour répondre à l’argument de Mme Rousseau, la clause de conscience continuera bien de s’appliquer au cas par cas. Simplement, cette disposition permettrait de rassurer de nombreux professionnels travaillant au sein des services de soins palliatifs ; elle leur enverrait un signal d’apaisement. (M. Dominique Potier applaudit.)\nMadame la ministre, je sais que vous êtes attentive aux médecins et à l’ensemble des professionnels de santé. Ne les oubliez pas. Bien évidemment, cette loi doit prendre en considération les patients, mais n’oublions pas de tenir compte de celles et ceux qui dédient l’ensemble de leur activité professionnelle depuis des décennies à leur accompagnement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix les amendements identiques nos 35, 148, 402, 580 et 1443."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’étant pas concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        263\n        Nombre de suffrages exprimés                259\n        Majorité absolue                        130\n                Pour l’adoption                122\n                Contre                137"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 35, 148, 402, 580 et 1443 ne sont pas adoptés.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754343",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de deux amendements, nos 1801 et 657, pouvant être soumis à une discussion commune.\nL’amendement no 1801 n’est pas défendu ?"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Si, madame la présidente !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754452",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1801 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Excusez-moi monsieur Verny, je ne vous avais pas vu."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Je suis extrêmement vexé, madame la présidente."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "C’est que vous êtes discret !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "C’est ce qu’on me reproche depuis le début de l’examen de ce texte ! (Sourires sur les bancs du groupe RN.)\nMonsieur le rapporteur, je suis ravi ; vous serez sûrement favorable à mon amendement, puisqu’il s’inscrit dans une discussion commune avec des amendements déposés par des collègues de gauche !\nJe propose qu’une demande d’aide à mourir ne puisse être instruite par un médecin n’ayant aucun lien préexistant avec le patient. Cela se justifie sur plusieurs plans. D’un point de vue clinique, un praticien qui connaît le patient depuis plusieurs mois dispose d’une connaissance consolidée de son état de santé, de l’évolution de sa pathologie, de ses antécédents médicaux et psychiatriques, mais aussi de ses réactions aux traitements. D’un point de vue procédural, cette relation médicale établie permet de garantir la stabilité du discernement et la continuité du suivi – deux éléments fondamentaux pour apprécier la constance de la demande.\nCes six mois minimum de suivi constituent une borne temporelle raisonnable. Cette condition permet que les décisions ne soient pas formulées ou validées dans un cadre ponctuel, détaché de toute relation thérapeutique durable. Je ne pense pas qu’elle alourdisse particulièrement le processus ; au contraire, elle permettrait de rassurer le patient et d’établir un cadre serein."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur l’amendement no 657, je suis saisie par le groupe Socialistes et apparentés d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Christine Pirès Beaune, pour le soutenir."
+        },
+        {
+          "orateur": "Mme Christine Pirès Beaune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608172",
+          "texte": "Certes, ces amendements sont en discussion commune, mais leur objet diffère quelque peu, cher collègue. Dans la rédaction actuelle du texte, seuls les médecins en activité pourront pratiquer l’aide à mourir, les médecins retraités en sont exclus. C’est dommage, dans la mesure où le vivier actuel de médecins est limité. Cet amendement propose de permettre aux médecins retraités inscrits au conseil de l’Ordre des médecins de pratiquer l’aide à mourir."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Ces amendements sont différents, mais ils ont un point commun : ils proposent de substituer la mention de « médecins inscrits à l’Ordre » à celle de « médecins en activité », ce qui engloberait davantage de professionnels de santé.\nMonsieur Verny, je vous remercie de remarquer ma sensibilité fortement marquée à gauche. Je l’assume.\nS’agissant de votre amendement, je note d’abord un problème rédactionnel, puisque vous écrivez que le médecin doit être « régulièrement suivi par la personne depuis au moins six mois »… Ensuite, il semble sous-entendu que le médecin est volontaire pour participer à la procédure d’aide à mourir. Mais si le médecin traitant refuse d’accéder à la demande d’aide à mourir parce qu’il s’oppose au principe, alors le patient sera obligé de changer de médecin. Cela constitue une entrave formelle à la demande. Avis défavorable.\nMadame Pirès Beaune, cette question a été souvent soulevée lors des auditions. Nous préférons conserver la mention de « médecins en activité ». Les médecins inscrits à l’Ordre peuvent être retraités et ne plus être à la pointe de la pratique médicale. Il nous semble plus sûr de réserver la faculté d’exercer l’aide à mourir aux seuls médecins en activité. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis. J’ajoute que les dimensions assurantielles de la question sont loin d’être négligeables. Les médecins retraités inscrits à l’Ordre sont autorisés à effectuer des actes gratuits mais ils n’auront pas la capacité d’exercer l’aide à mourir. Seuls les médecins en activité pourront le faire."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "L’amendement des socialistes revient à inciter les médecins retraités à reprendre du service pour faire de l’euthanasie. (Protestations sur les bancs du groupe SOC.) Par ailleurs, je suis un peu étonné de la réponse de Mme la ministre, qui dit que cet acte serait effectué à titre gratuit. Ce n’est pas un acte à titre gratuit !"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Ce n’est pas du tout ce que j’ai dit !"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Il serait très malvenu de dévoyer le système de cumul emploi-retraite pour pratiquer l’euthanasie. Jusqu’à récemment, une exonération – bienvenue – de cotisations sociales était prévue pour essayer de faire revenir un maximum de médecins retraités en activité. Je ne pense pas que ce soit pour pratiquer cette activité-là ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "J’ai dû très mal m’exprimer ; permettez-moi de reprendre mes propos. Un médecin à la retraite inscrit à l’Ordre peut faire une ordonnance à titre gratuit à un membre de sa famille, mais il ne pourra bien évidemment pas procéder à l’aide à mourir, même s’il est inscrit à l’Ordre. Il nous semble important que le médecin soit en activité afin qu’il ait connaissance de l’ensemble des évolutions de la science. En aucun cas un médecin retraité ne pourra pratiquer un acte d’aide à mourir. J’espère avoir été assez précise."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Si l’on devait mentionner l’inscription à l’Ordre, une autre catégorie de médecins, que Mme Pirès Beaune n’a pas évoquée, ne pourrait pas travailler en soins palliatifs et exercer l’aide à mourir : les praticiens à diplôme hors Union européenne (Padhue). Il faut conserver cette rédaction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je tiens à remercier les collègues socialistes qui ont déposé cet amendement n° 657. Son exposé des motifs est très clair, il s’agit d’« élargir ». C’est clairement ce qui est en train de se passer depuis plusieurs jours ; on assiste à des tentatives d’élargissement de ce nouveau droit à l’aide à mourir.\nPourtant, depuis lundi dernier, les collègues des bancs de la gauche, nous font le récit d’un texte balisé, pour lequel un équilibre a été trouvé. Je me permets de signaler que cet équilibre a beaucoup évolué par rapport à celui trouvé en commission, qui lui-même n’était plus celui affiché dans le projet de loi de la précédente législature – l’équilibre est toujours une notion subjective.\nCet amendement, signé par un très grand nombre de députés du groupe Socialistes et apparentés, vise explicitement à élargir le nombre de médecins autorisés à pratiquer des euthanasies ou à assister des suicides. Cela révèle bien l’objectif poursuivi par un certain nombre de députés – élargir le champ de cette loi. Ils y parviendront peut-être dans le cadre de cette lecture, ou dans quelques années."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Christine Pirès Beaune."
+        },
+        {
+          "orateur": "Mme Christine Pirès Beaune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608172",
+          "texte": "Effectivement, cet amendement est transparent parce qu’il n’y a pas de raison de se cacher. Nous, on dit les choses ! Les médecins qui ne sont plus en activité mais sont toujours inscrits à l’Ordre peuvent faire des prescriptions pour leur famille et leurs proches, donc leurs amis. Nous sommes souvent bien contents de les trouver pour une ordonnance. Je ne vois pourquoi on leur interdirait de pratiquer l’aide à mourir.\nOui, cet amendement vise à augmenter le nombre de médecins volontaires qui pourront pratiquer ce geste."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1801 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 657."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        278\n        Nombre de suffrages exprimés                272\n        Majorité absolue                        137\n                Pour l’adoption                74\n                Contre                198"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 657 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754395",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1188 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Charles Sitzenstuhl, pour soutenir l’amendement no 1188."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "J’anticipe les réactions des collègues qui diront que cet amendement crée, sournoisement, une rupture d’égalité ; s’il vous plaît, n’allez pas sur ce terrain. Il a pour objectif assumé de restreindre le champ des médecins qui pourront pratiquer une euthanasie ou assister un suicide.\nCes gestes ne sont pas anodins ; ils vont provoquer la mort. Une certaine expérience professionnelle et humaine est donc indispensable. Je propose ainsi de considérer qu’il faut justifier de plus de vingt ans d’activité pour pratiquer de tels gestes. On peut légitimement penser qu’il s’agit de pratiques déstabilisantes et peu adaptées aux jeunes médecins qui sortent d’études ou qui sont en début de carrière – il convient aussi de les protéger.\nJe reviens à l’amendement de Mme Pirès Beaune. J’ai du mal à comprendre la volonté d’augmenter le nombre des médecins qui pourraient pratiquer ces actes. Nous avons plus de 200 000 médecins en activité : c’est un vivier déjà considérable pour une activité dont vous nous dites qu’elle restera marginale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Avis défavorable. Vous avez anticipé mes arguments, je vous les épargnerai donc. Votre amendement vise à tarir le nombre de médecins autorisés à pratiquer l’aide à mourir ; je n’imagine pas que vous considériez qu’un médecin est moins compétent à 40 ans qu’à 60 ans.\nLes jeunes générations de médecins sont beaucoup plus favorables à l’aide à mourir que les anciennes : je vous confirme que l’effet de votre amendement serait important."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Hadrien Clouet."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Il s’agit là du début d’une série d’amendements de droite. Ce sont des chausse-trapes, qui disent une chose dans l’exposé des motifs et en font en réalité une autre.\nConcrètement, l’amendement de M. Sitzenstuhl propose de diviser par deux le nombre de médecins à même de pratiquer l’aide à mourir. On ne peut qu’être contre cette volonté de réduire l’accès à un droit.\nL’amendement no 2501 de M. Juvin vise, lui, à supprimer les informations sur l’état de santé et les traitements des personnes – puisqu’il réécrit un alinéa en retirant l’obligation faite au médecin d’expliquer au patient les perspectives d’évolution de son état de santé ainsi que les traitements possibles. Bref, vous voulez arrêter de les soigner, c’est vraiment une super idée !\nL’amendement no 2515, de M. Juvin toujours, propose de dresser des listes publiques de médecins disposés à pratiquer l’aide à mourir. Franchement, autant balancer directement un fax à des groupuscules intégristes ! (Protestations sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "C’est caricatural !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Ce sont là trois mauvaises idées.\nPar ailleurs, contrairement à ce qui a été dit tout à l’heure, nous avons vu des victoires de la droite sur ce texte : vous avez abrogé le libre choix de l’administration du produit ; vous avez instauré une procédure exclusivement sous forme écrite ; vous avez imposé aux médecins de vérifier des informations complémentaires. Ne dites pas qu’il n’y a pas eu compromis : vous avez même gagné des votes. Et je le déplore ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Stéphane Delautrette, rapporteur de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": "rapporteur de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795430",
+          "texte": "Je vais me faire le porte-parole du groupe Socialistes pour prolonger le propos de Christine Pirès Beaune. Nous sommes tous d’accord ici pour dire qu’il est impératif que l’ensemble des Français aient accès aux soins palliatifs.\nEn adoptant les premiers articles de ce texte, nous avons créé un droit à l’aide à mourir ; dès lors, il est de notre devoir de nous assurer que l’ensemble des Français puissent avoir accès à ce droit.\nL’intention de l’amendement défendu par Mme Pirès Beaune, alors qu’on connaît l’état de la présence des professionnels de santé dans les territoires, est bien de garantir que chacun aura accès à ce droit – car il s’agit bien d’un nouveau droit, qui sera, si nous votons ce texte, ouvert à tant de gens qui en ont tant besoin. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Julien Odoul."
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Je regrette les propos de M. Clouet, qui ne sont pas dignes de ce débat. Si nous pouvions nous respecter un peu les uns les autres, et respecter les positions des uns et des autres, ce serait mieux. (Exclamations sur les bancs des groupes LFI-NFP et GDR.)\nL’amendement de M. Sitzenstuhl est protecteur. Il impose un seuil de maturité, un seuil de discernement et d’expérience indispensable pour un acte grave, qui n’est pas un soin mais l’administration d’une substance létale à un patient en fin de vie. Il faut protéger les jeunes médecins, qui ne sont ni formés ni préparés – psychologiquement ou par leur formation – à accomplir un tel acte.\nNous manquons cruellement de médecins. Leur vocation sera ébranlée par la légalisation de l’euthanasie. Il faut protéger les premières années de la carrière des soignants.\nJe le répète, l’euthanasie n’est pas un soin. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Justine Gruet."
+        },
+        {
+          "orateur": "Mme Justine Gruet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794058",
+          "texte": "L’amendement de notre collègue pose la question du développement des soins palliatifs, mais aussi celle du sens du soin en tout début de carrière. Je rappelle que, dans la procédure que vous prévoyez, le pronostic vital n’est pas nécessairement engagé à court terme et que la maladie n’est pas nécessairement en phase terminale.\nD’ailleurs, on nous parle beaucoup de sondages qui montreraient l’approbation de la population, comme celle du corps médical. Mais précise-t-on bien les critères aux personnes qui sont interrogées ? Savent-elles que le pronostic vital n’est pas forcément engagé à court terme ?\nJe ne serai néanmoins pas favorable à cet amendement, puisqu’une ancienneté ne garantit pas la maturité.\nJe m’interroge toutefois sur les conséquences du traumatisme que peut provoquer un tel geste sur un médecin en début de carrière. Qu’en sera-t-il, d’ailleurs, des internes, dont nous avons peu parlé jusqu’à maintenant ? Pourront-ils pratiquer l’aide active à mourir ? Il est nécessaire de les sécuriser au cours de leurs études."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1188 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3758534",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2501 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin, pour soutenir l’amendement no 2501."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Je le retire, madame la présidente."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2501 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754494",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin, pour soutenir l’amendement no 2515."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Cet amendement revient sur le débat que nous avons eu tout à l’heure à propos de la création d’une liste nationale des médecins volontaires pour pratiquer l’aide à mourir.\nJ’ai l’impression que ceux qui craignent la loi comme ceux qui la désirent pourraient trouver un intérêt à la création de cette liste. Les premiers pourraient considérer qu’elle faciliterait la vie du patient, qui saurait à qui s’adresser au lieu de chercher lui-même. Au Québec, 3 % seulement des médecins pratiquent l’aide à mourir : sans liste, je ne sais pas comment les patients trouvent ces médecins. À l’inverse, ceux qui comme moi s’inquiètent de cette loi considèrent qu’il s’agit d’une manière d’identifier ceux qui ne souhaitent pas y figurer.\nJe ne comprends pas pourquoi les partisans de cette loi sont contre une telle liste."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de deux demandes de scrutin public : sur cet amendement n° 2515, par les groupes UDR et Droite républicaine ; sur l’amendement no 630, par les groupes Socialistes et apparentés et UDR.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission sur l’amendement no 2515 ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Nous avons déjà eu ce débat. Je reprends l’exemple d’un médecin qui acceptera de faire ce geste pour des patients qu’il connaît, qu’il a peut-être suivis, mais pas pour d’autres, qu’il ne connaît pas. Devoir s’inscrire sur une liste afin d’accompagner ses patients serait bloquant dans son cas, puisqu’il pourrait être sollicité par d’autres personnes.\nLa création d’une telle liste ne me semble donc pas souhaitable. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Nous avons déjà évoqué cette proposition tout à l’heure, et nous y reviendrons lorsque nous débattrons de l’article 14. L’idée est que les professionnels disposés à pratiquer l’aide à mourir s’inscrivent sur un registre. De cette façon, un médecin qui ne pratique pas l’aide à mourir sera à même d’orienter un patient qui en fait la demande vers un professionnel qui réalise cet acte. Ce registre ne serait pas accessible au grand public – on parle de malades très fragiles, dont le pronostic vital est engagé – mais il pourrait être consulté par les professionnels de santé.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. le président de la commission des affaires sociales."
+        },
+        {
+          "orateur": "M. Frédéric Valletoux",
+          "fonction": "président de la commission des affaires sociales",
+          "role": null,
+          "idActeur": "PA795350",
+          "texte": "Je suis très sceptique sur cette histoire de liste ! Il y a, dans notre système de santé, d’autres actes pour lesquels les médecins peuvent faire jouer leur clause de conscience, vous le savez. Ferons-nous des listes de médecins qui pratiquent l’IVG, des listes de médecins qui pratiquent la sédation profonde et continue jusqu’au décès, des listes de médecins qui acceptent de faire des recherches biomédicales sur les embryons ?\nCe concept de liste avait été récusé en 1974, lors des débats parlementaires qui ont abouti à la loi Veil. Je vous le dis sincèrement, cette proposition me semble inopportune. (Applaudissements sur plusieurs bancs des groupes SOC, EcoS et GDR ainsi que sur quelques bancs du RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Vigier."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Le président Valletoux a presque tout dit. Monsieur Juvin, faut-il une liste des médecins qui acceptent d’appliquer la loi Claeys-Leonetti et de pratiquer la sédation profonde et continue ? Celle-ci, vous le savez, place le patient dans un coma qui va jusqu’au décès.\nIl y a un risque de stigmatisation. Il y aura ceux qui acceptent de pratiquer l’acte, et ceux qui s’y refusent. Pensez à l’image que cela pourra donner. Nous voulons tout autant que vous protéger les médecins. Ils le sont par la clause de conscience. En les inscrivant sur une liste, vous les exposez.\nEnfin, un médecin acceptera de pratiquer cet acte pour un patient, il le refusera pour un autre. Laissez-lui sa libre conscience et, surtout, pour protéger le corps médical, ne collez pas des affiches avec le nom des médecins ! (Applaudissements sur plusieurs bancs des groupes SOC et Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Sandrine Dogor-Such."
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "Pour ma part, je préférerais que les médecins qui pratiquent l’aide à mourir se portent volontaires pour le faire. Pour les soignants, la question du volontariat est cruciale, surtout dans les unités de soins palliatifs. Ce principe inverse la charge de la clause de conscience et protège mieux non seulement les soignants mais aussi, et surtout, les patients, en sanctuarisant les soins par défaut. S’il était adopté, il permettrait de s’assurer que les médecins sont formés et accompagnés, comme Mme Darrieussecq l’a indiqué tout à l’heure.\nLa clause de conscience n’est pas satisfaisante, et cela pour trois raisons. D’abord, cet acte change la norme du soin. Il implique que les soignants se signalent et se justifient s’ils n’y contribuent pas, alors qu’il ne relève pas de leur champ professionnel. Ensuite, il leur impose de trahir leur promesse de non-abandon du patient."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Quelqu’un aurait-il un décodeur ? On n’y comprend rien !"
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "De plus, l’obligation d’en passer par la clause de conscience détruirait la dimension collective de la prise en charge en imposant aux professionnels réticents de faire primer leurs convictions personnelles. Le volontariat répond à la logique inverse. C’est pourquoi il est si important pour tout le personnel soignant. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Même eux, ils n’ont rien compris !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Vincent Trébuchet."
+        },
+        {
+          "orateur": "M. Vincent Trébuchet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840685",
+          "texte": "Ce débat agit comme un révélateur de l’ensemble des positions sur le texte. Au début de notre réflexion sur l’aide à mourir, on parlait d’une loi d’exception réservée à des cas extrêmes de souffrances réfractaires. Cela légitimait l’idée que certains médecins se spécialisent pour pouvoir offrir aux patients demandeurs un accompagnement plus précis et plus pertinent. Or, derrière le refus des amendements visant à restreindre le nombre de praticiens concernés, il y a une volonté que tous les médecins puissent pratiquer cet acte et qu’on s’éloigne d’une loi d’exception pour instaurer un basculement de société.\nFaire de la possibilité de choisir sa mort un élément de la dignité m’apparaît comme problématique. Je vais à nouveau citer le rapport Sicard, commandé par le président François Hollande en 2012, qui établissait que « la pratique euthanasique » – et du suicide assisté – « intériorise des représentations sociétales négatives d’un certain nombre de situations de vieillesse, de maladie et de handicap ». Dès lors, associer la dignité à la possibilité de choisir sa mort conduira les populations fragiles à la décision de hâter leur fin. Cela constitue un basculement de société considérable. Vouloir à tout prix que tous les médecins puissent exercer cet acte et refuser que certains, sur la base du volontariat, s’y spécialisent accentue ce basculement de société et menace les populations les plus fragiles. (Applaudissements sur plusieurs bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Julie Laernoes."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Parmi les propos récemment entendus, le plus honnête était celui de M. Sitzenstuhl, qui assume vouloir limiter le nombre de praticiens habilités afin de restreindre l’accès à l’aide à mourir, alors que tous les amendements de la série que nous examinons en ce moment ont cet objectif. M. Verny veut même interdire au médecin traitant d’un patient de pratiquer l’aide à mourir sur cette personne !\nCet amendement est très restrictif. En effet, la démographie médicale ne permet même pas à chaque Française et à chaque Français de disposer d’un médecin traitant. Or la procédure de l’aide à mourir et l’accompagnement qu’elle nécessite demandent du temps, pour informer le patient et l’épauler dans la maturation de sa décision, positive ou négative. Ils demandent aussi de la confiance, plus compliquée à accorder à un médecin inconnu quand on est en fin de vie, c’est-à-dire dans une période compliquée de son existence. La confiance est aussi nécessaire pour prendre la bonne décision que pour pouvoir revenir dessus.\nEnfin, dans certains pays, il existe des centres d’expertise ouverts aux patients qui, répondant aux critères requis pour bénéficier de l’aide à mourir et souhaitant y recourir, ne trouvent pas de médecin pour les accompagner."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin, avant de passer au vote."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Pour que je puisse l’expliquer sereinement, essayez d’oublier pendant cinq secondes que l’amendement que je défends vient d’un opposant à la proposition de loi.\nMonsieur le président de la commission, vous avez dit qu’il n’existait pas de liste des médecins pratiquant des IVG. C’est vrai, mais une personne souhaitant recourir à une IVG sait où aller, car il existe des centres spécialisés dont il est aisé de trouver la liste et les adresses. Pour l’aide à mourir, chez qui aller ?"
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Chez le médecin traitant !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Sans liste, les patients ne sauront pas où s’adresser et perdront du temps à chercher. Ainsi, au Québec, 3 % des médecins seulement pratiquent l’aide à mourir.\nD’autre part, l’alinéa 9 de l’article 14 prévoit que les professionnels de santé disposés à participer à la mise en œuvre de la procédure d’aide à mourir s’inscrivent auprès d’une commission créée par l’article 15. Mon amendement est donc cohérent avec l’existence de cette commission, dont la liste des inscrits sera connue puisque les documents administratifs sont publics."
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Non, non, non !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Enfin, la liste que je propose permettra de concentrer les moyens sur les médecins à qui la formation à l’aide à mourir est utile – car il faudra bien les former. In fine, elle offrira ainsi un meilleur accès à cette aide.\nJe ne comprends donc pas l’opposition à mon amendement, qui n’est que le pendant de l’article 14."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 2515."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        282\n        Nombre de suffrages exprimés                273\n        Majorité absolue                        137\n                Pour l’adoption                107\n                Contre                166"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2515 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754542",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Sandrine Runel, pour soutenir l’amendement no 630."
+        },
+        {
+          "orateur": "Mme Sandrine Runel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841717",
+          "texte": "Nous avons à peu près tout entendu : qu’il faut que le médecin soit volontaire, qu’il ait de l’expérience, voire vingt ans d’expérience, que le patient soit agonisant pour que le médecin, volontaire et très expérimenté donc, puisse pratiquer l’aide à mourir, etc. Pourtant, nous avons la solution : former les médecins. Comme évoqué pendant l’examen du texte relatif aux soins palliatifs, il s’agit d’une nécessité, voire d’une obligation morale.\nLe présent amendement vise à proposer aux médecins une formation – notamment une formation continue – sur l’aide à mourir. Tout le monde ici le reconnaît : il ne s’agit pas d’un acte évident ou facile à accomplir. C’est pourquoi les médecins qui le pratiqueront seront volontaires, puisqu’ils n’auront pas fait jouer leur clause de conscience. L’objectif de l’amendement est de les accompagner et de les former, pour une meilleure pratique de l’aide à mourir. (Applaudissements sur certains bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "La formation est un sujet important mais l’adoption de l’amendement pourrait fragiliser le texte en raison de sa rédaction. Doit-on comprendre que le médecin recevant la demande d’aide à mourir peut être « de droit formé à ce type d’accompagnement » ou qu’il doit l’être ? Dans ce dernier cas, l’accès au dispositif se trouverait drastiquement réduit.\nAvis défavorable, en raison de l’ambiguïté que comporte la rédaction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Je souhaite revenir à la question précédemment évoquée de l’existence d’une liste de praticiens.\nNous définissons en ce moment la procédure de l’aide à mourir, qui doit être à la fois très sécurisée et assez fluide pour que les étapes puissent s’enchaîner. On y entre par une demande dont nous avons heureusement décidé qu’elle serait écrite. Ensuite, le médecin communique au patient des informations sur son état de santé, sur l’accès aux soins palliatifs et sur la possibilité de consulter un psychiatre. Enfin, il lui expose les conditions de l’accès à l’aide à mourir. Le cas échéant, à un moment ou à un autre de la procédure, il pourra lui indiquer son refus de pratiquer le geste demandé et l’orientera vers un confrère. Toutefois, en absence de liste et si, comme au Canada, seuls 3 % des médecins sont volontaires, je me demande combien de coups de téléphone il devra passer pour trouver une solution pour son patient. L’existence d’une telle liste, facilement accessible, servirait donc les intérêts tant des demandeurs que des médecins."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 630."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        283\n        Nombre de suffrages exprimés                265\n        Majorité absolue                        133\n                Pour l’adoption                102\n                Contre                163"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 630 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur les amendements nos 1444 et 2489, je suis saisie par le groupe UDR de demandes de scrutin public. Sur l’amendement no 1619, je suis saisie d’une demande similaire par le groupe Droite républicaine.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe suis saisie de deux amendements, nos 1444 et 1619, pouvant être soumis à une discussion commune.\n La parole est à M. Gérault Verny, pour soutenir le premier."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Il vise à compléter la liste des personnes ne pouvant recevoir une demande d’aide médicale à mourir en y ajoutant le médecin traitant habituel du patient concerné. Le but est de préserver l’indépendance et la neutralité du praticien dans le contexte d’un acte extrêmement grave et irréversible.\nLa relation entre un patient et son médecin traitant est marquée par une proximité thérapeutique, affective et, parfois, émotionnelle, qui, si elle est indispensable au suivi médical courant, peut altérer l’objectivité nécessaire à l’évaluation d’une demande d’aide à mourir. En excluant le médecin traitant habituel de la possibilité de recevoir cette demande, l’amendement tend à prévenir les conflits d’intérêts affectifs, à éviter toute confusion entre les rôles de soignant et d’évaluateur, et à garantir que la procédure sera encadrée par un professionnel sans lien thérapeutique préexistant avec le patient."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754557",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 1444 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Thibault Bazin, pour soutenir l’amendement no 1619."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Nous sommes en train de réfléchir à la procédure de réponse à une demande d’un acte d’une très grande gravité et aux conséquences irréversibles. Pour ma part, je la trouve un peu légère, puisqu’il n’y a ni témoin ni recours possible en cas de réponse positive. Un médecin va peut-être se retrouver seul face au patient. De quel médecin va-t-il s’agir ? J’ai cru comprendre que celui qui va recueillir et instruire la demande, conformément à l’alinéa 4 de l’article 5 et à l’alinéa 2 de l’article 6, pourrait être différent de la personne qui va accompagner l’administration de la substance létale et dont parle l’alinéa 16 de l’article 6. La correspondance aux critères d’accès à l’aide à mourir, et particulièrement à celui du consentement libre et éclairé, sera-t-elle vérifiée seulement au moment de la demande ou également juste avant l’administration ?\nSurtout, je me demande comment le médecin qui va instruire la demande, s’il ne connaît pas le patient et n’a pas d’expertise sur sa pathologie, pourrait, comme le prévoit l’alinéa 9 de l’article 5, « informe[r] la personne sur son état de santé, sur les perspectives d’évolution de celui-ci ainsi que sur les traitements et les dispositifs d’accompagnement disponibles ».\nComment le médecin va-t-il prendre la décision s’il ne connaît pas la pathologie, ni les souffrances qui lui sont liées ? L’honneur de notre système de protection sociale est de chercher à assurer la meilleure prise en charge possible du patient, notamment de sa douleur. Or la demande de mort est parfois un appel à l’aide : ce que souhaitent certains patients, ce n’est pas l’administration d’une substance létale, c’est de l’accompagnement et des soins adaptés. Je propose donc que la demande soit instruite par quelqu’un qui connaît le patient ou, du moins, sa pathologie."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Ces deux amendements auraient des effets opposés, puisque l’un fait du médecin traitant le destinataire privilégié de la demande d’aide à mourir, l’autre l’exclut au contraire de la liste des personnes qui peuvent recevoir cette demande."
+        },
+        {
+          "orateur": "M. Philippe Vigier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA331582",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Rappelons, d’un côté, que plus de 6 millions de Français n’ont pas de médecin traitant ; si c’est à celui-ci que la demande doit être adressée, comment pourraient-ils dès lors accéder à l’aide à mourir ? D’un autre côté, le médecin traitant est souvent le médecin de famille, qui connaît le patient de longue date et qui suit l’ensemble des membres du foyer ; la personne souhaitant accéder à l’aide à mourir peut donc, pour cette raison même, ne pas vouloir le solliciter.\nObliger comme interdire me semble également inopportun : le choix doit revenir à la personne. Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Si je comprends bien, les deux amendements cherchent à s’assurer de la qualité du lien, donc de l’échange entre le patient et le médecin.\nPour vous, monsieur Bazin, le médecin qui reçoit la demande d’aide à mourir doit être « soit le médecin traitant de la personne, soit un médecin qui suit la pathologie en cause ». La procédure, telle qu’elle est définie, l’autorise déjà. D’une part, l’article 4 évoque un pronostic vital engagé ; le patient est donc déjà dans un parcours de soins, dans lequel intervient forcément un médecin référent. D’autre part, le médecin auquel le patient demandera à bénéficier de l’aide à mourir aura la possibilité, s’il le souhaite, d’interroger un médecin spécialiste. Le lien avec ces deux types de médecins est donc déjà prévu par le texte.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Michel Lauzzana."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Je constate, moi aussi, que ces deux amendements sont complètement opposés et qu’ils ont tous deux été déposés par des gens qui combattent le texte."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Et alors ?"
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Monsieur Verny, pourquoi le médecin traitant ne pourrait-il pas accompagner son patient ? Qu’est-ce que c’est que ce raisonnement ? Vous jouez sur le fantasme d’une proximité excessive entre le patient et le médecin traitant. Celui-ci connaît à la fois la famille, l’histoire médicale et la pathologie du patient qu’il a suivi, et vous voulez le mettre de côté ? Cela n’a pas de sens.\nAutre fantasme : M. Odoul a affirmé tout à l’heure que l’adoption de cette disposition diminuerait l’attractivité des études médicales. Or, au contraire, certains voudront peut-être s’engager dans les études médicales pour se consacrer aux soins palliatifs."
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Ça n’a rien à voir !"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "On ne parle pas de soins palliatifs !"
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Ce raisonnement relève d’un fantasme pur : vos suppositions ne sont pas démontrées.\nS’agissant du médecin qui recueille la demande, il faut en rester à la rédaction proposée. Certains, ici, veulent multiplier les obstacles pour l’accès à l’aide à mourir : que ledit médecin ait plus de vingt années d’expérience, qu’il ne soit pas le médecin traitant, et ainsi de suite. On a compris la manœuvre ! (Applaudissements sur plusieurs bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Pierre-Yves Cadalen."
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "Les amendements en discussion se contredisent mutuellement, mais celui de M. Verny contredit de surcroît une autre proposition du même auteur. À l’amendement no 1801, qu’il avait défendu plus tôt, M. Verny soulignait en effet qu’il fallait absolument que la demande soit reçue par un médecin proche du patient. L’exposé sommaire était ainsi rédigé : « Cet amendement vise à empêcher que la demande soit reçue par un praticien inconnu du patient, ce qui garantit la relation de confiance et la connaissance du dossier médical. » (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Le vernis a cédé ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "texte": "Cher collègue, si vous faites de l’obstruction, faites-le de manière intelligente ! (Mêmes mouvements.)\nJe vous vois sourire, mais semer la confusion en proposant des amendements contradictoires n’est pas digne de la gravité du sujet. C’est irresponsable et irrespectueux de nos concitoyens. Vous ne nuiriez pas à la qualité de nos débats si vous retiriez quelques amendements de plus, du moins ceux qui se contredisent. (Applaudissements sur les bancs du groupe LFI-NFP, sur quelques bancs du groupe EcoS et sur certains bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Sandrine Dogor-Such."
+        },
+        {
+          "orateur": "Mme Sandrine Dogor-Such",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794762",
+          "texte": "Monsieur Lauzzana, être pour ou contre le texte n’empêche pas d’avoir du bon sens !\nJe voterai en faveur de l’amendement no 1619. En effet, le médecin traitant connaît bien le patient et peut évaluer sa souffrance ; or c’est pour permettre d’éviter celle-ci que le texte instaure l’aide à mourir. Familier de la pathologie du patient, le médecin traitant peut lui expliquer s’il est éligible ou non à cette procédure. Il peut aussi, éventuellement, modifier son traitement. Le médecin de famille est proche du patient et, par conséquent, bien indiqué pour recueillir sa décision.\nJe suis en revanche opposée à l’amendement no 1444."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Thibault Bazin."
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Monsieur le rapporteur général, madame la ministre, merci d’apporter une réponse argumentée à chaque amendement : c’est important pour notre débat.\nMonsieur Lauzzana, vous m’avez inclus parmi les « gens ». Des citoyens m’ont élu, comme vous, député ; peut-on se respecter les uns les autres ? Mon amendement n’a pas à être disqualifié parce qu’il est en discussion commune avec celui d’un collègue.\nJe ne souhaite pas rendre la transmission de la demande au médecin traitant obligatoire ; je propose que celle-ci soit adressée soit au médecin traitant, soit à un médecin spécialiste de la pathologie dont souffre le patient. En effet, comment le médecin va-t-il vérifier la présence des critères requis s’il ne connaît pas le patient ou l’affection grave qui l’amène à demander l’aide à mourir ? Il sera potentiellement seul à prendre la décision. Vous dites qu’il pourra solliciter l’avis de spécialistes mais ses collègues n’auront peut-être pas vu le patient – cela n’est pas prévu par la procédure et je ne crois pas, madame la ministre, que vous ayez déposé des amendements en ce sens. Surtout, il n’y aura pas de contrôle a priori.\nComment, sans connaître le patient, peut-on lui apporter la meilleure réponse ? Comment, sans connaître la pathologie, peut-on être sûr qu’elle ne peut pas être traitée ? Il ne s’agit pas, de ma part, d’une manœuvre dilatoire : je cherche à m’assurer qu’on apporte la meilleure réponse possible à la personne qui souffre et qui demande une aide à mourir. En effet, il arrive que, derrière la demande de mort, il y ait un appel à l’aide, et ce n’est pas toujours l’administration d’une substance létale qui est attendue."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Tout l’intérêt de ce débat est de sélectionner les meilleures options. La démonstration de M. Bazin est sensée (« Ah ! » sur les bancs des groupes LFI-NFP, SOC, DR et GDR), brillante même. Sa proposition apparaît plus pertinente que la mienne pour aider les personnes en fin de vie, en conséquence de quoi je retire mon amendement au profit du sien – et j’invite M. le rapporteur général à soutenir ce dernier."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1444 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 1619."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        267\n        Nombre de suffrages exprimés                263\n        Majorité absolue                        132\n                Pour l’adoption                99\n                Contre                164"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1619 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754819",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de deux amendements, nos 420 et 1416, pouvant être soumis à une discussion commune.\n Sur ces amendements, je suis saisie par le groupe UDR de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\n La parole est à Mme Geneviève Darrieussecq, pour soutenir l’amendement no 420."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Il s’agit d’indiquer, à l’alinéa 4, que la personne qui souhaite accéder à l’aide à mourir en fait la demande expresse à un médecin « devant sa personne de confiance ou, si elle n’en a pas désigné, devant deux témoins sans lien familial avec elle ». Il n’est pas courant, dans les échanges médicaux, que l’on préconise la présence de témoins, mais en l’espèce c’est important. D’abord, le patient ne comprend pas toujours tout ce qui est dit par le médecin ; ensuite, il peut y avoir des conflits d’intérêts, à tout niveau. Il est bon que des témoins puissent s’assurer de leur absence, de la bonne transmission des messages et, plus généralement, du bon déroulement de la consultation."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754821",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Gérault Verny, pour soutenir l’amendement no 1416."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Il introduit une garantie supplémentaire un imposant que toute demande d’aide médicale à mourir soit « formulée en présence d’un témoin indépendant »."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Qu’est-ce qu’un témoin indépendant ?"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "La présence de ce témoin, qui ne doit entretenir aucun lien hiérarchique, médical, familial ou économique avec la personne concernée, assurerait le caractère pleinement éclairé de la volonté exprimée. Ce tiers impartial attesterait que la demande est formulée sans pression, sans contrainte morale ou psychologique, et dans un état de lucidité totale. Pour les professionnels de santé, il représenterait également un élément de confiance, sur lequel ils pourraient s’appuyer avant d’engager une décision irréversible. Dans un domaine aussi sensible que celui de la fin de vie, cette précaution est indispensable pour préserver la liberté et la responsabilité individuelles."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Ces deux amendements proposent, l’un, la présence d’une « personne de confiance » ou, à défaut, de « deux témoins », l’autre, celle d’un « témoin indépendant », mais la personne qui demande l’aide à mourir a droit à son intimité et au secret des informations qu’elle partage avec le médecin. Il y va du respect du secret médical.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis : il me paraît indispensable de préserver le respect du secret médical."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Je soutiens l’amendement de Mme Darrieussecq, et ce pour deux raisons. Premièrement, j’ai souvenir d’une étude conduite en réanimation : on avait demandé aux familles si elles comprenaient ce que disaient les médecins. Un quart d’entre elles – 25 % – avaient répondu par la négative. (Exclamations sur les bancs des groupes LFI-NFP, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. Yannick Monnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "texte": "Ce sont les médecins qui ne sont pas clairs !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Je partage donc votre avis au sujet de la personne de confiance – dont la présence améliore d’ailleurs, d’après cette étude, la compréhension.\nDeuxièmement, nous nous retrouvons dans la même situation que tout à l’heure – j’étais un peu irrité, j’en conviens,…"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Irritant, aussi !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…j’aurais dû rester plus calme, voire placide : honnêtement, qu’est-ce que cela changerait au texte, sur le fond, si vous acceptiez cet amendement ? Vous invoquez le secret médical, mais avec une personne de confiance, on peut partager des informations médicales."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "texte": "Si le patient le souhaite !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Ce n’est pas un bon argument ! Vous me répondrez que l’amendement tend à imposer, à défaut, la présence de deux témoins. Dans ce cas, écartez les deux témoins par voie de sous-amendement, mais gardez la personne de confiance ! Il faut avoir en tête qu’un quart des familles de patients ne comprennent pas ce que disent les médecins."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Julie Laernoes."
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Je voudrais souligner l’absurdité de ces amendements."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Oh là là !"
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Nous parlons d’un patient en fin de vie, à qui l’on vient d’annoncer qu’il était en phase terminale ou avancée d’une maladie incurable ; et, au lieu de lui permettre d’échanger en confiance avec son médecin au cours d’un entretien couvert par le secret médical, nous l’obligerions à exprimer sa demande en présence d’une, voire de deux personnes supplémentaires, qui, de surcroît, ne devront avoir aucun lien avec lui au motif qu’il ne faut pas prendre le risque qu’il exprime sa demande sous contrainte ? Il ne pourra donc s’agir ni d’un membre de sa famille, ni d’un ami, ni d’une personne à qui le lie une relation hiérarchique. Seront-ce deux inconnus rencontrés dans la rue, comme s’il s’agissait d’un mariage pour lequel on n’avait pas prévu les témoins, qui viendront assister à l’entretien privé sur la fin de vie entre le patient et son médecin ? Franchement ! Ces amendements frôlent le ridicule – s’ils ne relèvent pas de l’obstruction pure et simple ! (Applaudissements sur les bancs des groupes EcoS et LFI-NFP ainsi que sur certains bancs du groupe SOC.)\nExcusez-moi, monsieur Juvin,… (Exclamations sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Thibault Bazin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642847",
+          "texte": "Ce n’est pas l’auteur de l’amendement !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Soyez précise !"
+        },
+        {
+          "orateur": "Mme Julie Laernoes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794146",
+          "texte": "Madame Darrieussecq et monsieur Verny, pardon.\nVous prévoyez des situations ubuesques pour un moment solennel. Sur ce sujet, nous ne devrions pas avoir à discuter d’amendements qui prêtent à sourire ou à rire."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je soutiens l’amendement no 420 de nos collègues Darrieussecq et Isaac-Sibille, et plus encore après avoir entendu les propos précédents. Il faut se respecter dans le débat, chère collègue. Ce n’est pas d’ailleurs pas la première fois depuis hier que vous tenez des propos dont j’estime qu’ils sortent du cadre permettant la bonne tenue des débats."
+        },
+        {
+          "orateur": "Un député du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA0",
+          "texte": "Calimero !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Notre collègue Darrieussecq a été ministre de la santé et ministre déléguée auprès du ministre des solidarités ; si une personne peut avoir un avis éclairé sur le sujet dans l’hémicycle, c’est bien une ancienne ministre de la santé ! (Applaudissements sur plusieurs bancs des groupes EPR, RN, DR, Dem, HOR et UDR. – Exclamations sur les bancs des groupes LFI-NFP, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Ce n’est pas un argument !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Le cosignataire de l’amendement, M. Isaac-Sibille, est médecin – il y a d’ailleurs des médecins dans les deux camps. Un amendement déposé par une ancienne ministre de la santé et cosigné par un médecin ne me semble pas ridicule ; il mérite au contraire d’être examiné sur le fond. Et lorsque notre collègue Juvin, professeur de médecine, prend la parole pour compléter l’argumentation, je ne pense pas non plus que ce soit ridicule. (Vives exclamations sur les bancs des groupes LFI-NFP, EcoS et GDR ainsi que sur certains bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "C’est n’importe quoi !"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Nous sommes à égalité ici !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Franchement, je suis exaspéré, chers collègues !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Monsieur le député, faites un rappel au règlement si votre intervention porte sur la bonne tenue des débats. Sinon, revenez-en au fond et à l’amendement, s’il vous plaît."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Entendu, madame la présidente : je ferai un rappel au règlement la prochaine fois."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Demain !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Sur le fond, l’amendement no 420 soulève une question d’importance : celle du lien entre le malade et le médecin. Dans la grande majorité des cas, c’est un lien de confiance, mais cela ne signifie pas qu’il y aurait égalité entre l’un et l’autre : comme le montrent les statistiques citées par le collègue Juvin, sa formation met le médecin dans une sorte de position hiérarchique, en tout cas inégale, par rapport au malade. (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur, qui proteste.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Je vous ai laissé deux minutes et treize secondes pour vous exprimer, monsieur le député : cela ne me semble pas sujet à protestation."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754889",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Rappel au règlement sur le fondement de l’article 70, concernant l’interpellation d’un collègue."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Ça y est, vous l’avez énervé !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Ma chère collègue Laernoes, on n’interpelle pas un collègue, d’autant que je me contentais de commenter l’amendement de Mme Darrieussecq. Vous vous adressiez à moi, j’en suis flatté, mais il se trouve qu’il s’agissait de son amendement. La prochaine fois, tournez votre visage dans la bonne direction et tout se passera bien !\nEncore une fois, je ne faisais qu’apporter un élément d’information factuelle,…"
+        },
+        {
+          "orateur": "M. Sébastien Peytavie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793708",
+          "texte": "Vous n’aimez pas les faits !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…issu d’un article médical que j’avais lu et dont je vous confirme la teneur : dans un cas sur quatre, les patients ne comprennent pas ce qu’on leur dit. La présence de la personne de confiance n’est donc pas inutile. (Applaudissements sur les bancs du groupe DR et sur quelques bancs des groupes UDR et RN.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754950",
+      "valeurPtsOdj": "1",
+      "titre": "Article 5 (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Nous avançons à un rythme correct. Je m’en tiendrai néanmoins à la jurisprudence de la présidente Braun-Pivet : deux pour, deux contre. Nous venons d’entendre M. Juvin, qui s’est exprimé en faveur de l’un des deux amendements ; Mme Laernoes, contre les amendements ; et M. Sitzenstuhl, en leur faveur. Sont encore inscrits : M. Lenoir, M. Verny, Mmes Darrieussecq et Dogor-Such – je présume que ces quatre interventions seraient en faveur de l’un ou de l’autre des amendements. Si cela vous convient, je ne donnerai donc la parole qu’aux députés qui ont déposé des amendements.\nLa parole est à Mme Geneviève Darrieussecq."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "J’aimerais que nous revenions au calme : nous ne sommes pas ici pour nous invectiver. Je remercie notre collègue Sitzenstuhl, mais je ne crois pas que le statut d’ancienne ministre de la santé ni de médecin me donne plus de légitimité qu’à aucun d’entre vous, chers collègues. (« Merci » et applaudissements sur les bancs des groupes LFI-NFP et SOC.)\nNous disposons toutefois tous d’un vécu. J’entends les propos de la ministre et du rapporteur concernant le secret médical et je les approuve : la présence de personnes étrangères serait de nature à le rompre – mais pas celle de la personne de confiance, dont c’est précisément le rôle. Je peux néanmoins certifier, à l’issue d’une longue pratique, que ce qu’a rapporté le professeur Juvin est vrai : interrogé après une consultation, le patient n’a généralement pas retenu 20 % de ce que vous avez dit. (Exclamations sur les bancs du groupe LFI-NFP.) Or ce patient, vous devrez, aux termes de l’article 5, l’informer « sur son état de santé, sur les perspectives d’évolution de celui-ci ainsi que sur les traitements et les dispositifs d’accompagnement disponibles », lui indiquer qu’il « peut bénéficier de l’accompagnement et des soins palliatifs », qu’il peut être orienté « vers un psychologue ou un psychiatre », qu’il « peut renoncer à tout moment à sa demande » d’aide à mourir, et lui expliquer « les conditions d’accès à l’aide à mourir et sa mise en œuvre ». Je vous assure, pour en avoir fait l’expérience pendant de longues années d’exercice de la médecine, que tout cela sera très difficile à expliquer clairement et que de nombreuses personnes ne retiendront pas le cinquième de ce qu’aura dit le médecin. Il vaut mieux qu’il y ait une deuxième personne. (Applaudissements sur certains bancs des groupes EPR et HOR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Chère collègue, vous venez d’exprimer ma pensée mieux que je ne saurais le faire. Je ne peux que reprendre à mon compte votre argumentaire."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 420."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        264\n        Nombre de suffrages exprimés                256\n        Majorité absolue                        129\n                Pour l’adoption                103\n                Contre                153"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 420 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 1416."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        257\n        Nombre de suffrages exprimés                224\n        Majorité absolue                        113\n                Pour l’adoption                44\n                Contre                180"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1416 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 2223 de Mme Delphine Lingemann est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2223, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754915",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de sept amendements, nos 1797, 1930, 2150, 658, 1839, 2303 et 2129, pouvant être soumis à une discussion commune.\n Les amendements nos 1797 et 1930 sont identiques.\n La parole est à Mme Marie-Noëlle Battistel, pour soutenir l’amendement no 1797."
+        },
+        {
+          "orateur": "Mme Marie-Noëlle Battistel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342415",
+          "texte": "Redondant en apparence, mais nécessaire du fait de l’organisation du texte, cet amendement tend à introduire les directives anticipées dans cette partie de l’article 5.\nJe citerai la préconisation no 4 de l’avis du Cese, le Conseil économique, social et environnemental : « Le Cese préconise la prise en compte pleine et entière des directives anticipées, pouvant intégrer le suicide assisté et l’euthanasie, garantissant ainsi le choix individuel du type d’accompagnement vers la fin de vie, lorsque la situation ne permet pas une expression réitérée en pleine conscience. »\nAu cas où cette préconisation ne serait pas suivie dans sa généralité, nous avons déposé des amendements de repli, et même des amendements de repli à ces amendements de repli. En effet, le texte devrait couvrir au moins les situations exceptionnelles.\nNous déplorons, les uns et les autres, que si peu de Français aient rédigé leurs directives anticipées. Or, si elles ne peuvent servir à demander l’aide à mourir, la question de leur utilité se posera,…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Il est utile d’en faire, mais pas pour demander ça !"
+        },
+        {
+          "orateur": "Mme Marie-Noëlle Battistel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342415",
+          "texte": "…de sorte que la part des Françaises et des Français à les avoir écrites ne risque pas d’augmenter.\nLors de l’examen de cet article, il a beaucoup été question de listes. Pour ma part, je souhaiterais que celle des personnes exclues de ce texte soit aussi courte que possible. C’est la dernière raison pour laquelle nous estimons nécessaire de tenir compte des directives anticipées, ne serait-ce que dans les situations exceptionnelles. (Applaudissements sur certains bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754922",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Danielle Simonnet, pour soutenir l’amendement no 1930."
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Comme ma collègue Battistel, je présente un amendement visant à assurer la prise en considération des directives anticipées. Je le ferai tout au long de l’examen du texte : à chaque fois qu’il sera question de solliciter la personne pour qu’elle formule sa demande ou la réitère, j’essaierai de vous convaincre de la nécessité de tenir compte des directives anticipées ou du témoignage de la personne de confiance.\nEn effet, la raison d’être de ces directives, telles qu’elles ont été conçues dans la loi Claeys-Leonetti, est précisément d’anticiper une situation dans laquelle la personne ne pourrait plus exprimer sa volonté : la rédaction de telles directives et la désignation d’une personne de confiance doivent permettre à chacun de s’assurer que sa dernière volonté sera respectée, pour peu que ce qu’il demande corresponde bien à tous les critères retenus. Il est donc essentiel que la procédure tienne compte des directives anticipées.\nCette idée a été rejetée par l’Assemblée lors de précédents votes, j’en ai bien conscience. Je n’en continuerai pas moins à la défendre. Si, lorsque je suis encore capable d’exprimer ma volonté, je demande à recourir à l’aide à mourir et l’écris, et que par la suite mon discernement est aboli ou que je perds conscience, que ferez-vous ? Balaierez-vous ma volonté ? Refuserez-vous de respecter mon choix ?\nAllez-vous placer cette personne dans la situation où, pour qu’elle soit certaine que sa volonté sera respectée, il faudra qu’elle anticipe un tel risque et qu’elle demande la mort plus tôt ? (Mme Sandra Regol applaudit.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3754926",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Karen Erodi, pour soutenir l’amendement no 2150."
+        },
+        {
+          "orateur": "Mme Karen Erodi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795844",
+          "texte": "Cet amendement vise à adapter la procédure au cas d’une personne qui ne peut plus réitérer sa demande en pleine conscience mais qui a clairement exprimé en amont sa volonté de recourir à l’aide à mourir, qu’elle l’ait écrit dans ses directives anticipées ou qu’elle en ait fait part à la personne de confiance qu’elle a désignée. En effet, certaines pathologies, comme la maladie d’Alzheimer ou la maladie de Charcot, exposent à une perte de discernement, alors que la volonté exprimée était claire et constante.\nIl est de notre responsabilité de garantir aux patients atteints de semblables maladies le droit à une fin de vie choisie, dans le respect du cadre légal. La procédure resterait rigoureuse et collégiale ; toute expression d’un refus ou la moindre ambiguïté y mettrait fin. Nous demandons simplement qu’en cas de conformité à la loi, la directive anticipée puisse être respectée jusqu’au dernier moment de la vie. C’est autant une question de dignité que de cohérence : la loi de 2016 dispose déjà que chacun est libre de choisir sa fin de vie."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3755205",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 658 de Mme Océane Godard est défendu.\nLa parole est à Mme Sandrine Rousseau, pour soutenir l’amendement no 1839."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "texte": "Mes arguments sont semblables à ceux avancés par mes collègues. Cela fait vingt ans que nous luttons pour que les directives anticipées soient prises en considération dans le parcours de fin de vie, nous les avons intégrées dans la proposition de loi relative aux soins palliatifs et là, on ferme la porte à double tour ! Il s’agit non pas d’accéder automatiquement à la demande d’aide à mourir mais de permettre qu’elle soit inscrite dans les directives anticipées. Ce serait une manière de mieux respecter la volonté des personnes."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3755208",
+      "valeurPtsOdj": "1",
+      "titre": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "L’amendement no 2303 de M. Christophe Marion est défendu.\nLa parole est à M. Michel Lauzzana, pour soutenir l’amendement no 2129, qui fait l’objet du sous-amendement no 2703."
+        },
+        {
+          "orateur": "M. Michel Lauzzana",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720022",
+          "texte": "Je m’appuie sur les mêmes arguments. Lorsque j’ai évoqué ce sujet avec des proches, ils m’ont dit qu’il fallait que nous le traitions. En l’état du texte, nous ne prenons pas en considération la situation de quelqu’un qui subit un AVC massif, par exemple, et qui a rédigé des directives anticipées – il ne l’a pas fait de gaieté de cœur mais par esprit de responsabilité, afin d’affirmer sa volonté. À titre personnel, si je subissais un AVC massif qui me privait par exemple de la parole, je souhaiterais que mes directives anticipées soient appliquées. (Applaudissements sur certains bancs des groupes EPR, LFI-NFP, SOC et EcoS. – Mme Josy Poueyto applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin, pour soutenir le sous-amendement no 2703."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "J’ai souhaité sous-amender l’amendement de M. Lauzzana pour deux raisons. D’abord, l’aide à mourir est créée notamment pour éviter des situations de souffrance ; or il est très clair qu’en état végétatif, on ne ressent pas de souffrances."
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "On n’en a aucune assurance !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "La question ne se pose donc pas. (« Oh là là » sur les bancs du groupe LFI-NFP.) Eh oui !\nSurtout, l’amendement de M. Lauzzana inclut les patients en état de mort cérébrale…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ils sont déjà morts !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "…qui, de fait, sont morts. On peut appliquer l’aide à mourir à quelqu’un qui est mort, mais ce n’est pas très utile."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Mais qu’est-ce qu’il raconte ?"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Quelle mauvaise foi !"
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "C’est d’un niveau, franchement, monsieur Juvin !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "Nous avons déjà eu à de très nombreuses reprises ce débat sur les directives anticipées. Je vais donc répéter ce que j’ai dit là aussi à de multiples reprises : comme lors de l’examen des articles précédents, je serai défavorable à ce que vous proposez. Il importe que le texte soit clair à ce propos : le patient doit pouvoir réitérer sa volonté jusqu’au dernier instant. J’invite donc les collègues Battistel, Simonnet, Erodi, Godard, Rousseau, Marion et Lauzzana à retirer leurs amendements, s’ils le veulent bien, à défaut de quoi j’émettrai à leur endroit – ainsi qu’à celui du sous-amendement de M. Juvin, qui est associé à l’amendement de M. Lauzzana – un avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "L’esprit du texte, c’est de mettre en avant l’autonomie du patient. Il est donc essentiel que ce soit lui qui formule et qui réitère la demande. Or vos amendements font référence à une situation où ce n’est pas possible ; c’est la raison pour laquelle j’y suis défavorable, ainsi qu’au sous-amendement de M. Juvin."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "De nombreux orateurs se sont inscrits mais je ne donnerai la parole qu’à deux pour et deux contre.\nLa parole est à M. Emmanuel Fernandes."
+        },
+        {
+          "orateur": "M. Emmanuel Fernandes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794786",
+          "texte": "Quels que soient nos désaccords, nous pouvons tous nous rejoindre sur un point : l’objectif de prendre en considération à chaque étape la volonté du patient est juste et raisonnable. Dès lors, si une personne a explicitement exprimé son souhait d’accéder à l’aide à mourir dans une situation donnée, en décrivant clairement les conditions de ladite situation dans ses directives anticipées, et de surcroît si cette volonté peut être confirmée par une personne de confiance, alors elle ne doit pas être empêchée d’y accéder pour la seule raison qu’elle n’est plus consciente.\nSi nous ne le permettons pas, alors quel est le sens d’une directive anticipée ? Comment justifier que l’on empêche d’accéder à l’aide à mourir une personne victime d’une affection ou d’un accident occasionnant une perte de conscience, quelle qu’en soit la cause, l’ayant mise dans l’impossibilité de réitérer sa volonté, alors que cette même personne en exprimait explicitement le souhait lorsqu’elle était encore en pleine conscience ? C’est là que la personne de confiance peut jouer son rôle : elle a été choisie par celle ou celui qui est concerné pour pouvoir relayer sa parole en cas d’empêchement.\nSi nous n’adoptons pas ces amendements, cela reviendra à contraindre ces personnes à subir un état qu’elles ont expressément indiqué ne pas vouloir subir. D’ailleurs, dans le cadre de la loi Claeys-Leonetti, les directives anticipées et la désignation de la personne de confiance sont opérantes ; elles permettent à chacun d’exprimer ses choix en matière de fin de vie. Je vous invite donc à soutenir et à voter pour ces amendements. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Marie-Noëlle Battistel applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Patrick Hetzel."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Je considère pour ma part que ces amendements posent un vrai problème éthique ; j’y suis donc opposé. En effet, il sera très difficile de s’assurer que la volonté exprimée par la personne est restée la même lorsqu’elle n’est plus en état de l’exprimer car, encore une fois, les perceptions de chacun peuvent évoluer.\nEn outre, lors des débats précédents, nous avons sans cesse insisté sur le fait que le consentement libre et éclairé doit être réitéré et confirmé jusqu’à la fin. Or, dans les cas que vous évoquez, il n’y a pas de certitude absolue quant à ce que serait la volonté à l’instant T, puisqu’elle est rigoureusement impossible à déterminer !\nVous voyez bien, donc, qu’il y a ici une contradiction. Ces amendements partent du principe qu’il ne saurait y avoir de fluctuation de la volonté. À partir du moment où l’on ne peut pas être certain qu’un consentement libre et éclairé existe à l’instant T, ils deviennent ipso facto contraires à la philosophie et à l’éthique qui ont été défendues jusqu’à présent."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Jérôme Guedj."
+        },
+        {
+          "orateur": "M. Jérôme Guedj",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1567",
+          "texte": "Je ne me suis pas encore exprimé sur les directives anticipées. Je veux donc en dire un mot, ce qui me permettra d’illustrer la complexité du sujet et les doutes qu’il est susceptible d’engendrer. Au nom de la position que je défends depuis plusieurs semaines et qui vise à concilier la liberté de recourir à l’aide à mourir et la protection des plus vulnérables, je suis attaché à l’expression libre et claire du consentement jusqu’au bout ; je ne suis donc en général pas favorable à ce qu’une décision puisse se manifester en la matière dans les directives anticipées.\nCependant, comme la question est complexe, je veux dire ce que je n’ai pas pu dire hier à propos d’un amendement – le no 596 – qui a été défendu par mon collègue Arnaud Simion et qui introduit le concept d’exception de directives anticipées, forgé l’année dernière par notre ancien collègue Gilles Le Gendre.\nJe suis contre l’utilisation générale et absolue des directives anticipées s’agissant de la demande d’aide à mourir, mais il y a deux cas exceptionnels dans lesquels je me dis qu’elle pourrait être pertinente : d’une part, lorsqu’un accident provoque une affection qui rend impossible l’expression d’un consentement libre et éclairé ; d’autre part – notre collègue Hadrien Clouet en a parlé –, lorsque la perte de conscience intervient après l’engagement du processus d’aide à mourir, ce qui, en l’état de la rédaction, entraînerait son interruption.\nJe tenais à le préciser car on me dit parfois que mes positions sont contradictoires, mais c’est l’illustration des doutes qui nous assaillent tous sur ce sujet. (Applaudissements sur certains bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Stella Dupont."
+        },
+        {
+          "orateur": "Mme Stella Dupont",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643175",
+          "texte": "Sujet intime, s’il en est, que celui des directives anticipées ; je ne sais pas ce qu’il en est pour vous, mais je suis régulièrement sollicitée à ce propos par des concitoyens. Elles résultent d’un travail intime d’introspection, en général mûrement réfléchi par celles et ceux qui ont choisi de les rédiger. Les personnes qui me sollicitent expriment toutes une certaine incompréhension quant à nos débats sur ce sujet, car elles attendent que leurs directives soient pleinement respectées.\nJe suis favorable à l’ensemble de ces amendements mais il me semble que nous pourrions au moins adopter celui de M. Lauzzana, afin d’entériner le respect des directives anticipées en cas « de mort cérébrale, de coma ou d’état végétatif irréversibles ». Nous avons la responsabilité d’être attentifs à celles et ceux qui ont fait ce travail d’introspection, un travail personnel et parfois familial qui peut les avoir tourmentés ; nous devons les écouter pour trouver le juste équilibre.\nChaque vote est difficile pour nous tous – chacun nécessite vraiment une réflexion approfondie –, mais s’agissant des directives anticipées, il me semble que les Français ne comprendraient pas que nous adoptions des mesures conduisant à ne pas les respecter. (M. Emmanuel Fernandes et Mme Élisa Martin applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix les amendements identiques nos 1797 et 1930."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        207\n        Nombre de suffrages exprimés                199\n        Majorité absolue                        100\n                Pour l’adoption                70\n                Contre                129"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 1797 et 1930 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 2150, 658, 1839 et 2303, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 2703 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 2129."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        202\n        Nombre de suffrages exprimés                194\n        Majorité absolue                        98\n                Pour l’adoption                83\n                Contre                111"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2129 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3755248",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2111 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Constance de Pélichy, pour soutenir l’amendement no 2111."
+        },
+        {
+          "orateur": "Mme Constance de Pélichy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841359",
+          "texte": "Dans la lignée du débat que nous venons d’avoir, qu’en est-il, si les directives anticipées ne sont pas prises en considération dans le choix de l’aide à mourir, quand le patient n’a plus les moyens de s’exprimer ? L’amendement vise à promouvoir des techniques de communication alternatives pour que les personnes qui sont dans l’impossibilité partielle ou totale de s’exprimer puissent néanmoins donner leur consentement et faire valoir leur demande d’aide à mourir."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Il est essentiel, en effet, que la personne qui formule la demande puisse se faire comprendre par le professionnel concerné. Nous avons déjà évoqué le moment où la demande est formulée et l’adoption de l’amendement no 2702 du gouvernement a permis de préciser qu’elle doit être déposée « par écrit ou par tout autre mode d’expression adapté [aux] capacités » de la personne.\nVotre amendement va au-delà et relève à mon sens de l’exercice de la médecine au quotidien : quels que soient l’acte accompli et sa gravité – c’est évidemment le cas s’agissant de l’aide à mourir –, le médecin doit être en mesure de mettre en œuvre une communication qui lui permet de comprendre et d’intégrer la volonté de la personne.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Annie Vidal."
+        },
+        {
+          "orateur": "Mme Annie Vidal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722102",
+          "texte": "Il est évident que l’accès à l’aide à mourir ne doit être ouvert au patient que s’il en a fait la demande, de manière libre et éclairée. Je suis cependant inquiète, à ce stade de nos débats, parce qu’il me semble que certains d’entre vous, très favorables au texte, veuillent y introduire les principes du suicide assisté et de l’euthanasie en modifiant les critères que nous avons collectivement fixés et ce, dès le début de la procédure par l’intermédiaire des directives anticipées. Certes, ce serait pour des cas bien particuliers mais prenons l’exemple de la mort cérébrale. Des médecins ici présents pourront peut-être me l’expliquer mais je ne comprends pas comment une directive anticipée pourrait être prise en considération dans le cas d’un patient en mort cérébrale. Il me semble en effet que si le patient est encore là, c’est parce qu’il est maintenu en vie grâce à des appareils et des médicaments. Dès lors que l’on arrête ces appareils et les traitements, le patient entre dans une phase au cours de laquelle les souffrances qu’il pourrait endurer le rendent éligible à la sédation profonde et continue jusqu’au décès. (Mme Justine Gruet applaudit.)\nJe crains que certains de nos collègues n’essaient, discrètement mais sûrement, d’élargir l’accès à l’aide à mourir alors que le texte de loi prévoyait initialement une procédure très encadrée."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Je vous invite, chers collègues, à vous exprimer, lors de vos prises de parole, sur l’amendement qui est en discussion."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2111 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3755785",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 776 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je suis saisie de deux amendements, nos 776 et 403, pouvant être soumis à une discussion commune.\n La parole est à M. Charles Rodwell, pour soutenir l’amendement no 776."
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Je ne sais pas pourquoi cet amendement n’arrive que maintenant dans la discussion alors que nous avons débattu du principe du volontariat ou de la clause de conscience il y a quelques minutes.\nPlusieurs législations dans le monde, notamment aux États-Unis, vont plus loin que la simple clause de conscience. Certains introduisent le volontariat : l’Oregon, la Californie, l’État de Washington, Hawaï, le Maine, le Vermont. Les motifs de la clause de conscience et du volontariat sont proches mais le volontariat protège davantage la communauté médicale tout en simplifiant la démarche du patient. Tel est le sens de cet amendement de repli, que je vous invite à adopter."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Sur l’amendement no 403, je suis saisie par le groupe Droite républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nL’amendement no 403 de Mme Justine Gruet est défendu.\nQuel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Si vous souhaitez qu’un médecin qui ne s’oppose pas à l’aide à mourir puisse se déclarer volontaire en s’inscrivant sur une liste, c’est déjà prévu par le texte. Si vous voulez que seuls les médecins inscrits sur cette liste puissent recevoir une demande d’aide à mourir ou accompagner une personne, c’est une restriction à laquelle je suis défavorable, comme je l’ai déjà dit.\nAvis défavorable sur les deux amendements."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Dresser une liste ou un registre des médecins volontaires pour pratiquer l’euthanasie présenterait plusieurs intérêts.\nLe premier serait de mettre les points sur les i : la corporation médicale ne serait pas obligée, par principe, de pratiquer l’euthanasie, laquelle ne ferait donc pas partie du panel de soins que ces professionnels se doivent de prodiguer – ce qui serait logique car, contrairement à ce que certains voudraient nous faire croire, il s’agit là non pas d’un soin mais d’une prestation de service public d’un nouveau genre, une aide au suicide délivrée par un nombre limité de médecins.\nLe deuxième intérêt serait de protéger ceux qui refusent en leur évitant d’être stigmatisés.\nCela permettrait également de faciliter le déroulement de la procédure pour les demandeurs de l’euthanasie, qui ne seraient ainsi plus contraints de faire le tour des médecins et de risquer d’essuyer plusieurs refus consécutifs.\nEnfin, dernier argument, ce serait le meilleur moyen de s’assurer que plusieurs demandes n’ont pas été formulées auprès de médecins différents, ce qui est d’ailleurs explicitement exclu dans le texte. (Applaudissements sur quelques bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 776 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Je mets aux voix l’amendement no 403."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        191\n        Nombre de suffrages exprimés                187\n        Majorité absolue                        94\n                Pour l’adoption                64\n                Contre                123"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 403 n’est pas adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3755802",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 408 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme Geneviève Darrieussecq, pour soutenir l’amendement no 408."
+        },
+        {
+          "orateur": "Mme Geneviève Darrieussecq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719914",
+          "texte": "Afin d’éviter tout conflit d’intérêts, nous proposons d’écrire, après l’alinéa 4, que le médecin « ne peut profiter des dispositions entre vifs et testamentaires faites par la personne en sa faveur » et qu’il ne peut davantage « obtenir un mandat ou contracter à titre onéreux dans des conditions qui lui seraient anormalement favorables ».\nCes dispositions, inscrites dès le début du XIXe siècle dans le code civil, sont une précaution nécessaire."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "Le texte prévoit déjà que le médecin ne peut être ni le parent, ni l’allié, ni le conjoint, ni le concubin, ni le partenaire de pacs ni l’ayant droit du malade, ce qui me semble suffisamment large. Pour toute autre situation, le droit pénal me semble pouvoir répondre à vos inquiétudes.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Sur le fond, je comprends parfaitement les inquiétudes de Mme Darrieussecq, qui sont légitimes, mais les dispositions prévues sont de nature à la rassurer. En effet, il est prévu à l’article 5 du texte que le médecin ne peut pas être un ayant droit de la personne qui demande à accéder à l’aide à mourir. Il ne peut donc être ni son successeur testamentaire ni un tiers bénéficiaire d’un contrat d’assurance décès qu’elle aurait contracté. Cette interdiction s’étend au médecin auprès duquel le premier médecin recueillera, le cas échéant, un avis pour apprécier les conditions prévues pour bénéficier de l’aide à mourir.\nD’autre part, le code de déontologie médicale comprend une disposition allant dans le même sens, inscrite à l’article R. 4127–52 du code de la santé publique.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Patrick Hetzel."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Vous avez raison, madame la ministre, le code de déontologie a prévu de telles dispositions mais, dans la hiérarchie des normes, ce texte ne se place pas au même niveau que la loi. Il serait donc pertinent d’adopter l’amendement, de manière à éviter toute confusion.\nD’autre part, le rapporteur nous a renvoyés au code pénal mais les dispositions proposées par Mme Geneviève Darrieussecq et M. Cyrille Isaac-Sibille, d’ordre bien plus général, sont de nature à offrir de meilleures garanties au patient."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je ne suis pas certain, du point de vue juridique, que le rapporteur et la ministre aient dit la même chose.\nM. Panifous considère que l’alinéa 4 de l’article 5 couvre une partie du champ de l’amendement. Pour le reste, il renvoie au code pénal, ce qui m’étonne car on ne recourt aux dispositions du code pénal qu’en cas d’infraction, dans un second temps. Or notre objectif est de poser des garde-fous en amont pour éviter, précisément, la commission de tels actes.\nEnsuite, madame la ministre, êtes-vous bien certaine que les dispositions du code de déontologie couvrent tout le spectre des restrictions envisagées dans l’amendement ? À vous entendre, je n’en suis pas sûr."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Je vous confirme, monsieur Sitzenstuhl, que nous cherchons à couvrir l’intégralité de ce spectre. Pour répondre à vos inquiétudes, j’ajouterai que nous avons prévu à l’alinéa 13 de l’article 18, après avoir été alertés par le ministère de la justice, qu’« à l’exception des prix de cession et des honoraires mentionnés au II du présent article, aucune rémunération ou gratification en espèces ou en nature, quelle qu’en soit la forme, ne peut être allouée en échange d’un service dans le cadre d’une procédure d’aide à mourir »."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "texte": "Une bien belle victoire des Insoumis !"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Cette fois, cette disposition reprend toutes les limites proposées par Mme Darrieussecq ; aussi son amendement est-il bel et bien satisfait."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Laurent Panifous",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793210",
+          "texte": "J’ai cité le code pénal pour répondre aux inquiétudes de Mme Darrieussecq qui l’ont poussée à proposer une longue liste de restrictions pour le médecin, lesquelles auraient été redondantes avec celles déjà en vigueur. Pour le dire autrement, enfreindre les restrictions que l’amendement prévoit caractériserait un abus de faiblesse, infraction d’ores et déjà sanctionnée par le code pénal."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 408 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3755821",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 462 n’est pas adopté.)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Charles de Courson, pour soutenir l’amendement no 462."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "L’amendement s’inspire de la législation autrichienne adoptée en 2021, dans laquelle il est exigé que le consentement libre et éclairé du patient soit validé par un notaire. Je vous propose ainsi d’insérer, après l’alinéa 4, l’alinéa suivant : « La demande du patient est formulée dans un document déterminé par arrêté conjoint des ministres chargés de la santé et de la justice. Cette demande est validée par un notaire qui établit que la demande du patient est exprimée de manière libre et éclairée, en application du 5o de l’article L. 1111-12-2. En cas de doute, le notaire n’établit pas ce document. »"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Olivier Falorni",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA605694",
+          "texte": "S’agissant de la définition d’un formulaire par arrêté, j’appelle à nouveau votre attention sur le fait que l’article 13 de la proposition de loi renvoie à un décret en Conseil d’État les conditions d’application du chapitre consacré à la procédure, en particulier la forme et le contenu de la demande mentionnée à cet article. Dès lors, le pouvoir réglementaire pourra lui-même définir, le cas échéant, ce formulaire.\nConcernant la validation du caractère libre et éclairé de la demande, il ne me semble pas cohérent de confier cette mission au notaire. C’est bien au médecin, sur le fondement d’un examen médical, qu’il revient d’apprécier la condition définie à l’article 4. Je ne pense pas être démenti par mon collègue Mattei sur ce point.\nAvis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Catherine Vautrin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA267797",
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Je soutiens l’amendement de notre collègue Charles de Courson.\nIl est possible de dresser un parallèle avec le rôle du juge dans le cas de dons intrafamiliaux d’organes. En cas de don d’organe entre frères, par exemple un rein, le juge contrôle le caractère libre et éclairé de l’accord alors même que la greffe impose une relative urgence. Le juge ne statue pas en opportunité ; il s’assure que les conditions sont remplies, comme notre collègue de Courson envisage que le notaire le fasse.\nLe notaire n’est pas là pour donner un jugement d’ordre médical mais il est bon qu’il puisse vérifier que les conditions légales sont réunies – rôle que d’autres amendements confient au juge. Une telle vérification se fait en Autriche et, en France, pour le don intrafamilial d’organe."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Jean-Paul Mattei."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Dans le cas du testament authentique, il y a soit un notaire et deux témoins, soit deux notaires. C’est un contexte un peu particulier.\nAprès avoir beaucoup écouté les débats, je voulais revenir sur les questions de consentement et de capacité. En matière de testament, le testament olographe a autant de validité que le testament authentique. Je serai donc réservé sur un éventuel parallélisme des formes, d’autant que la capacité pour le choix de l’aide à mourir est un peu plus délicate.\nPour ce qui concerne les procurations, si la personne n’est plus capable, la procuration n’est plus valable. Cela nous renvoie aux déclarations anticipées. Ce qui compte, c’est la capacité jusqu’au bout.\nLe texte cherche à s’assurer que la capacité de dire « oui » ou « non » à cet acte excessivement grave est conservée jusqu’à la dernière minute. Je dois souligner qu’en ce sens, le texte est équilibré. (M. Emmanuel Grégoire applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Tout à l’heure, nous avons eu un long débat sur l’expression de la volonté « expresse ». Nous avons opté pour une demande par écrit ou, en cas d’impossibilité à écrire, par tout autre mode d’expression adapté aux capacités du patient.\nLe notaire répond à cette exigence. Quelqu’un qui ne peut plus écrire peut aller voir un notaire, qui attestera sa volonté – n’est-ce pas, monsieur Mattei ?"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "Non, il en faut deux."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Le parallèle peut néanmoins être fait avec le testament, qu’il y ait un ou deux notaires. Le notaire est parfaitement capable d’apprécier si la personne fait une déclaration libre et éclairée.\nJe maintiens donc mon amendement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "L’amendement est intéressant : il vise à vérifier jusqu’au bout la capacité et le consentement de la personne demandeuse de l’aide à mourir. La procédure qu’il institue ne se substitue pas à la procédure devant le médecin, laquelle est simplement validée devant un notaire. C’est une protection supplémentaire.\nEn Autriche, le testament de fin de vie – c’est le nom officiel – doit être signé devant un notaire, cosigné par les deux médecins qui suivent la procédure et être écrit au plus tôt douze semaines après la première information médicale reçue. Si notre procédure diffère de la procédure autrichienne, celle-ci constitue une bonne inspiration."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 462 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3755907",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "texte": "Prochaine séance, aujourd’hui, à quatorze heures :\n Questions au gouvernement ;\nSuite de la discussion de la proposition de loi relative au droit à l’aide à mourir.\nLa séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée, le mercredi 21 mai 2025, à zéro heure cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

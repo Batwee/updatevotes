@@ -1,0 +1,2076 @@
+{
+  "uid": "CRSANR5L17S2025O1N109",
+  "seanceRef": "RUANR5L17S2025IDS29218",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-02-19",
+  "dateLisible": "mercredi 19 février 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3638439",
+      "valeurPtsOdj": "1",
+      "titre": "Commission mixte paritaire",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi d’orientation pour la souveraineté en matière agricole et le renouvellement des générations en agriculture (no 992)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3638441",
+      "valeurPtsOdj": "1",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Nicole Le Peih, rapporteure de la commission mixte paritaire."
+        },
+        {
+          "orateur": "Mme Nicole Le Peih",
+          "fonction": "rapporteure de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA720342",
+          "texte": "Nous sommes réunis pour examiner les conclusions de la commission mixte paritaire – CMP – qui s’est tenue hier soir au Sénat et qui est parvenue à un accord entre les deux chambres du Parlement, à l’issue de près de six heures de discussion, sur le projet de loi d’orientation pour la souveraineté en matière agricole et le renouvellement des générations en agriculture.\nÀ la veille du Salon international de l’agriculture, il s’agit d’un heureux dénouement pour ce texte attendu par les agriculteurs, que l’Assemblée avait examiné en mai 2024. Nous étions alors quatre corapporteurs, Pascal Lecamp et moi-même, ainsi qu’Éric Girardin et Pascal Lavergne, que je tiens à saluer. (Applaudissements sur les bancs du groupe HOR. – M. Dominique Potier applaudit également.)\nEnviron soixante-dix articles restaient en discussion à l’issue de l’examen par les deux assemblées. Je m’exprimerai sur les titres Ier et II du texte avant de laisser la parole à Pascal Lecamp pour les titres III et IV.\nLe titre Ier a fait l’objet de longs débats dans les deux assemblées, en particulier l’article 1er, qui consacre « la protection, la valorisation et le développement de l’agriculture et de la pêche » comme étant « d’intérêt général majeur en tant qu’ils garantissent la souveraineté alimentaire ». L’article 1er bis, issu de l’examen à l’Assemblée, fait figurer l’agriculture parmi les intérêts fondamentaux de la nation. La rédaction de compromis à laquelle nous avons abouti définit, comme l’avait fait l’Assemblée, la souveraineté alimentaire et l’agriculture.\nL’article 1er énumère ensuite les priorités et les finalités de la politique en faveur de la souveraineté alimentaire, à commencer par la nécessité « d’assurer la pérennité et l’attractivité de l’agriculture ainsi que le renouvellement de ses générations d’actifs, en facilitant l’installation, la transmission et la reprise d’exploitations ».\nLe Sénat a fait un travail de consolidation et de clarification des nombreuses dispositions adoptées à l’Assemblée. Sans revenir sur l’ensemble des éléments figurant dans cet article, je souhaite souligner deux points.\nD’abord, l’objectif de 21 % de la surface agricole utile cultivée en agriculture biologique au 1er janvier 2030 a été rétabli."
+        },
+        {
+          "orateur": "Un député du groupe EPR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme Nicole Le Peih",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720342",
+          "texte": "Le maintien d’un « haut niveau de protection des cultures » devra être assuré en soutenant la recherche en faveur des solutions apportées aux agriculteurs afin de diminuer l’usage des produits phytopharmaceutiques. À défaut de telles solutions, les pouvoirs publics devront s’abstenir d’interdire l’usage de produits phytopharmaceutiques autorisés par l’Union européenne afin de ne pas créer de concurrence déloyale entre les agriculteurs des pays voisins et leurs homologues français. (M. François Jolivet applaudit.)\nL’article 1er prévoit aussi l’organisation en 2026 de conférences de la souveraineté alimentaire, réunissant les représentants des filières et des organisations interprofessionnelles, sous l’égide de FranceAgriMer, l’Établissement national des produits de l’agriculture et de la mer. Il s’agira de définir une stratégie assortie d’objectifs, notamment de production, à horizon de dix ans, en vue de l’amélioration de la souveraineté alimentaire de la nation.\nD’autre part, l’article 1er bis C aménage la loi « littoral » afin de soutenir l’agriculture et l’activité agricole dans les communes insulaires métropolitaines."
+        },
+        {
+          "orateur": "M. Jimmy Pahun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720334",
+          "texte": "Un grand merci !"
+        },
+        {
+          "orateur": "Mme Nicole Le Peih",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720342",
+          "texte": "Le titre II doit permettre de fixer au mieux les enjeux liés à l’attractivité des métiers de l’agriculture et de l’agroalimentaire, au sein des parcours de formation et dans la recherche. Il faut rendre ces métiers désirables car – pour reprendre les mots du sociologue Jean Viard, que j’écoute régulièrement à la radio – « l’agriculture, c’est la beauté de la France ». Il s’agit tout simplement de ce que nous voyons toutes les semaines par la fenêtre de notre TGV pour Paris.\nParmi les buts assignés à la politique d’orientation agricole, il nous semblait essentiel de trouver un compromis afin que demeure une référence aux enjeux qui préoccupent les agriculteurs d’aujourd’hui et ceux de demain : d’une part, les transitions climatique et environnementale, d’autre part, la qualité des modes de production, au premier rang desquels l’agriculture biologique. Il faut garder en tête que cette dernière est un facteur d’attractivité pour les nouvelles générations.\nPour le reste, il convient de constater que, dans le titre II, le Sénat a préservé l’essentiel des objectifs et programmes adoptés par l’Assemblée nationale. L’équilibre proposé au sujet des relations avec les établissements privés ou publics, des missions de l’enseignement ou des objectifs en matière de formation paraît satisfaisant.\nDes compléments utiles ont été ajoutés, dont le volontariat agricole, l’actualisation de la procédure disciplinaire dans l’enseignement supérieur agricole et la création d’un centre unique pour l’apprentissage et la formation continue. Ces points ont été intégrés sans modifications dans le texte, de même que des éléments plus favorables à la place des femmes dans l’enseignement et le monde agricoles de demain – un sujet essentiel pour moi. Je salue donc ces initiatives."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Merci de conclure, madame la rapporteure."
+        },
+        {
+          "orateur": "Mme Nicole Le Peih",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720342",
+          "texte": "Pour toutes ces raisons, le texte de compromis qui vous est présenté me semble satisfaisant et fidèle aux grandes lignes tracées par l’Assemblée nationale. (Applaudissements sur les bancs des groupes EPR et Dem. – M. Guillaume Lepers applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Pascal Lecamp, rapporteur de la commission mixte paritaire."
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": "rapporteur de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Comme Mme la rapporteure, je souhaite commencer mon intervention par des remerciements appuyés à nos anciens collègues et amis Éric Girardin et Pascal Lavergne, qui étaient à nos côtés en mai 2024 pour rapporter ce texte en première lecture. (Applaudissements sur les bancs des groupes Dem et EPR.)\nEnsuite, la dissolution est passée par là. Le 28 mai 2024, quelques jours avant celle-ci, nous avons adopté dans cet hémicycle le projet de loi d’orientation agricole par 272 voix contre 232. Huit mois après, le Sénat a enfin pu examiner le texte et, hier soir, nous avons trouvé un compromis dans le cadre de la commission mixte paritaire.\nPour les agriculteurs en activité et pour les futures générations d’agriculteurs dont notre pays a besoin, ce cheminement a été trop long. Le projet de loi qui en ressort et qui est soumis à votre approbation n’aborde pas tous les sujets. Nous serons amenés, dans les semaines ou les mois qui viennent, à travailler sur d’autres textes nécessaires à notre agriculture, qu’ils concernent le revenu des exploitants ou le foncier agricole.\nToutefois, des compromis ont émergé sur les milliers d’amendements dont nous avons discuté ici, comme hier soir en CMP. Je veux dire à ceux qui ont répété toute la journée que ce texte est celui de M. Duplomb, un des rapporteurs au Sénat, que c’est complètement faux. (Mme Manon Meunier s’exclame.) Il est inexact d’affirmer que le Sénat a imposé ses vues. Cela n’intéresse d’ailleurs personne, ni les agriculteurs, ni les autres citoyens, et ce n’est pas le résultat que nous présentons. Comme vient de le rappeler Nicole Le Peih, que ce soit sur la définition de la souveraineté alimentaire ou sur les ambitions en matière de surfaces cultivées en agriculture biologique, nous avons su défendre la vision des députés.\nPour ma part, j’ai eu l’honneur de rapporter le titre III du projet de loi en première lecture et, devant la CMP, je rapportais également le titre IV.\nChaque jour, près de trente exploitations agricoles disparaissent en France. Le titre III du projet de loi, qui me tient tout particulièrement à cœur, veut endiguer cette trajectoire, ce qui est une condition essentielle à la protection de notre souveraineté alimentaire. L’Assemblée nationale, suivie par le Sénat, a gravé dans le marbre de la loi l’objectif de compter 400 000 exploitations agricoles en France d’ici à 2035.\nPour suivre ce cap, nous avons trois impératifs. Le premier est de soutenir la transmissibilité des fermes et leur évolution. Le diagnostic modulaire prévu à l’article 9 prévoit un outil d’évaluation de la résilience de l’exploitation au changement climatique. Les textes de l’Assemblée nationale et du Sénat n’étaient pas très éloignés quant à la nature et au contenu de ces diagnostics. Le texte de compromis reflète un équilibre et il faudra, dans la phase de mise en œuvre de cet outil d’aide à la décision, imaginer les moyens de le rendre attractif pour les porteurs de projet en agriculture.\nLe deuxième impératif est de nous adapter aux profils des futurs installés, avec une pensée particulière pour ceux qui ne viennent pas du milieu agricole. Il faut les conseiller et les accompagner tout au long de leur projet. C’est ce que prévoit l’article 10 en créant le réseau France Services agriculture. Le dispositif reposera non sur la contrainte mais sur l’incitation et l’attractivité par le service rendu. Les structures de conseil et d’accompagnement seront le cœur de France Services agriculture alors que le guichet unique à la chambre d’agriculture sera l’interface.\nJ’en arrive au troisième impératif : créer les conditions économiques du rachat des exploitations. Dans les dix prochaines années, plus de 25 milliards d’euros d’investissements dans le foncier agricole seront nécessaires pour racheter les terres détenues par les exploitants qui partiront à la retraite. Ce constat nous exhorte à trouver des solutions pour lisser dans le temps la charge financière pour les jeunes qui s’installent et à innover en matière de portage foncier.\nL’article 8 comporte justement un objectif – qui m’est cher – relatif au portage du foncier grâce à la mobilisation de fonds publics, éventuellement associés à des fonds privés. L’Assemblée nationale a fait clarifier la portée de ce point : tout en rejetant toute financiarisation de l’agriculture, il s’agit bien d’aider les nouveaux exploitants à s’installer sans qu’ils aient à supporter le coût de l’achat du foncier.\nLe titre IV a été conçu pour répondre au mouvement de contestation des agriculteurs, qui n’est jamais retombé depuis la fin de 2023. L’approche est pragmatique. Elle vise à apporter les réponses les plus concrètes possibles aux attentes des agriculteurs. Que veulent-ils ? Tout simplement qu’on ne leur mette pas de bâtons dans les roues quand ils exercent leur beau métier et qu’on leur donne les moyens d’offrir à la population, tout au long de sa vie, une alimentation saine et de qualité tout en préservant les capacités de production du pays.\nVos rapporteurs ont fixé des lignes rouges lorsque le Sénat était allé trop loin, comme dans le cas de l’article 13. Nous sommes revenus à la rédaction adoptée à l’Assemblée nationale en mai 2024, comme pour les articles 14, 14 quinquies et 15 bis. Nous avons donc été vigilants, avec une ligne de conduite claire : il n’était question en aucune manière d’écarter le droit de l’environnement, mais de lever des contraintes inutiles ou disproportionnées pour les agriculteurs.\nJe conclus en rappelant que le texte qui vous est présenté est le résultat d’une longue année de concertations, suivie d’une longue année de débats parlementaires. Ce soir, les agriculteurs nous regardent. Votons largement en faveur de ce projet de loi d’orientation agricole ! (Applaudissements sur les bancs des groupes Dem et EPR. – M. François Jolivet applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Aurélie Trouvé, vice-présidente de la commission mixte paritaire."
+        },
+        {
+          "orateur": "M. Sébastien Delogu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793464",
+          "texte": "Enfin une oratrice à la tribune !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "vice-présidente de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Tout d’abord, permettez-moi, en tant que présidente de la commission des affaires économiques, de revenir sur la méthode. Il aura fallu plus de huit mois pour que soit enfin repris l’ouvrage laissé par la précédente législature et pour que le Sénat examine enfin les articles du projet de loi, avant de l’adopter hier après-midi. (Exclamations sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "À cause de la censure !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "La faute à qui, madame Trouvé ? Il vaut mieux entendre cela que d’être sourd !"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "C’est vous qui avez voté la censure !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "vice-présidente de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Pour tenir compte du calendrier très tardif et des contraintes du Sénat, il nous a fallu réunir dans l’urgence une CMP, le soir même, jusqu’à une heure du matin, dans des conditions très difficiles pour la commission des affaires économiques."
+        },
+        {
+          "orateur": "M. Sébastien Delogu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793464",
+          "texte": "Scandaleux !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "vice-présidente de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "J’ai accepté, car c’était la volonté majoritaire, que cette CMP soit organisée avant le Salon de l’agriculture, même si la tenue de ce dernier la semaine prochaine pouvait exercer une pression pour conclure un accord à tout prix. Mais pourquoi le gouvernement a-t-il laissé tant de temps au Sénat pour ensuite presser à ce point l’Assemblée nationale, s’il voulait absolument aboutir à l’adoption d’un texte cette semaine ? (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS. – Exclamations sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "C’est une honte pour la démocratie !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "vice-présidente de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Ce texte tout comme l’agriculture méritaient mieux : on n’examine pas un projet de loi d’orientation agricole tous les quatre matins. L’agriculture familiale est clairement en danger (Exclamations sur les bancs du groupe EPR) : elle voit 10 000 fermes disparaître chaque année. Je l’ai rappelé hier lors de la CMP : nous devons légiférer avec discernement, sans précipitation excessive, surtout lorsqu’il s’agit d’un sujet aussi important.\nJ’ai espéré néanmoins que nous aboutissions à un texte équilibré entre la version de l’Assemblée nationale et celle du Sénat. De mon point de vue, le texte final s’éloigne beaucoup de celui adopté en première lecture à l’Assemblée en mai 2024. Celui-ci méritait certes des critiques : malgré les mobilisations fortes des agriculteurs, il ne comportait aucune disposition visant à leur garantir des prix plus rémunérateurs, à protéger les fermes de la concurrence déloyale ou à faciliter l’accès des jeunes agriculteurs au foncier agricole. (Applaudissements sur les bancs des groupes LFI-NFP et GDR.)\nS’il comportait des reculs sur le plan environnemental, au regard du texte qui nous est présenté, il était finalement inoffensif. Nous nous apprêtons à adopter un projet de loi qui, sur bien des aspects, propulse la France trente ans en arrière, au vingtième siècle, qui coupe à la tronçonneuse des protections environnementales durement acquises au fil des années (« La honte ! » sur les bancs du groupe LFI-NFP) et qui importe un peu plus en France la politique de l’ultralibéral Javier Milei. Vous avez un problème ? Les agriculteurs ont un problème ? C’est la faute aux normes, aux normes, encore aux normes ! (« La honte ! » et applaudissements sur les bancs des groupes LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Je vous suggère de tenir ce discours au Salon !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "vice-présidente de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Heureusement, l’Assemblée a obtenu que l’objectif de 21 % de la surface agricole en bio soit rétabli et notre insistance a permis d’éviter une rédaction qui aurait ouvert la voie à la participation d’investisseurs privés pour le portage des fonciers agricoles. (Mme Marie Pochon applaudit.) Je rappelle à quel point nous avons bataillé contre le groupement foncier agricole d’investissement (GFAI). (Applaudissements sur plusieurs bancs des groupes LFI-NFP et EcoS. – M. Dominique Potier applaudit également.)\nNéanmoins, les sénateurs ont absolument tenu à inscrire dans la loi des principes nébuleux du point de vue juridique et très dommageables sur le plan politique.\nD’abord, le principe de non-régression de la souveraineté alimentaire, qui attaque en réalité la non-régression environnementale inscrite dans la Charte de l’environnement, a été inscrit dans le texte – il sera sans doute censuré par le Conseil constitutionnel, tout le monde le sait."
+        },
+        {
+          "orateur": "Mme Marie Mesmeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841215",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "vice-présidente de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "Ensuite, les aménagements agricoles, fussent-ils un mégaméthaniseur ou un poulailler géant, seront désormais sortis du zéro artificialisation nette – ZAN –, ce qui affaiblira considérablement cet objectif, tout cela contre l’avis des jeunes agriculteurs. (Applaudissements sur les bancs du groupe LFI-NFP.) Les exploitants forestiers pourront quant à eux détruire une espèce protégée sans être menacés de poursuites pénales, ni sans doute administratives. Par un jeu d’écriture pernicieux, les haies d’arbustes sont sorties de l’article qui visait à les protéger. Peu importe : le rapporteur du Sénat, M. Duplomb, conteste la réduction du linéaire de haies dans notre pays. Adieu les avis scientifiques ! Tant pis pour le débat éclairé !\nLa CMP a expédié plusieurs objections au pas de charge. Alors que tous les groupes parlementaires ou presque avaient voté pour la suppression du « bachelor agro » – nous ne le considérons ici en aucun cas comme un progrès –, voilà qu’il est ressuscité par le Sénat.\nNon seulement le texte passe à côté de questions essentielles, mais il comporte aussi selon moi des renoncements graves sur le plan environnemental.\nLe vote est maintenant précipité ce soir à vingt-trois heures, dans un hémicycle trop vide."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Il y a du monde, quand même !"
+        },
+        {
+          "orateur": "Mme Aurélie Trouvé",
+          "fonction": "vice-présidente de la commission mixte paritaire",
+          "role": null,
+          "idActeur": "PA795164",
+          "texte": "C’est dommage pour l’agriculture et pour la démocratie parlementaire. J’espère néanmoins, madame la ministre de l’agriculture, que nous pourrons nous saisir prochainement de textes qui prendront à bras-le-corps la question des prix et des revenus agricoles en vue de garantir un niveau suffisant – les négociations commerciales sont sur le point de se conclure. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs des groupes EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre de l’agriculture et de la souveraineté alimentaire."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre de l’agriculture et de la souveraineté alimentaire",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Un peu moins d’un an après le dépôt du texte sur le bureau de l’Assemblée nationale, après de multiples rebondissements politiques ayant empêché son examen dans les délais initialement prévus, nous touchons au but : le gouvernement vous demande solennellement d’adopter le projet de loi d’orientation pour la souveraineté en matière agricole et le renouvellement des générations en agriculture, dans sa forme issue d’un compromis transpartisan trouvé par la commission mixte paritaire réunie hier.\nJe salue le travail de tous les parlementaires : vous avez été nombreux en mai 2024 à défendre des positions très souvent constructives pour enrichir un texte très attendu par le monde agricole. Je remercie M. Fesneau, qui, lorsqu’il était ministre de l’agriculture, fut à l’origine du projet de loi et qui a travaillé d’arrache-pied à en faire une réponse forte aux demandes des agriculteurs. (Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR.) Je remercie également les présidentes des commissions, Aurélie Trouvé et Dominique Estrosi Sassone, qui ont autorisé son inscription parmi les priorités législatives.\nJe voudrais également remercier les rapporteurs de l’Assemblée nationale, M. Éric Girardin et M. Pascal Lavergne (Applaudissements sur les bancs du groupe EPR. – M. Éric Martineau applaudit également), qui ont œuvré au printemps dernier aux côtés de ceux qui négociaient encore ligne à ligne jusque tard dans la nuit : M. Pascal Lecamp et Mme Nicole Le Peih, dont je salue le travail acharné ces dernières semaines sur ce texte (Applaudissements sur plusieurs bancs des groupes EPR, Dem et HOR.) J’adresse, au même titre, mes remerciements aux rapporteurs du Sénat.\nJe remercie également les membres de la commission mixte paritaire, les administrateurs du Sénat et de l’Assemblée ainsi que les équipes de mon ministère, dont la volonté et l’engagement ont permis d’aboutir, dans un temps contraint, à une position de compromis ambitieuse et responsable.\nPassés ces remerciements, abordons la question de fond : quelle est la nature du texte soumis à votre approbation ce soir ?\nIl est d’abord très attendu par le monde agricole dans son ensemble."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Un an après un premier mouvement de protestation d’ampleur et à quelques jours seulement de l’inauguration du soixante et unième Salon de l’agriculture, l’adoption du projet de loi d’orientation agricole résonnera puissamment dans chaque ferme."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Très juste !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Elle signera la mise en œuvre de l’ensemble des engagements pris par l’État en janvier 2024 et dégagera la voie au grand mouvement de renouvellement des générations en agriculture que nous appelons de nos vœux.\nGrâce à votre vote, notre agriculture, notre pêche et notre forêt reprendront le rang qui est le leur, celui d’intérêt général majeur de la nation. (Mme la rapporteure applaudit.) Des conférences sur la souveraineté alimentaire, dirigées par les filières avec le soutien de l’État, définiront des objectifs à dix ans pour améliorer substantiellement le potentiel agricole de notre nation, afin d’éliminer définitivement les dépendances superflues.\nGrâce à votre vote, ces ambitions seront portées et nourries par un enseignement agricole régénéré, qui formera 30 % d’apprenants supplémentaires en 2030. Les jeunes seront davantage sensibilisés aux métiers du vivant, nos formations seront enrichies d’un « bachelor agro » et, grâce à la sixième mission assignée à l’enseignement agricole, les établissements formeront de nouvelles générations d’agriculteurs pleinement préparées aux grands défis du XXIe siècle : le renouvellement des générations et les transitions climatique et environnementale.\nGrâce à votre vote, l’installation des agriculteurs et la transmission des exploitations seront massivement soutenues pour qu’en 2035, notre pays compte 400 000 exploitations et 500 000 exploitants agricoles. Le réseau France Services agriculture permettra d’accueillir demain toute personne souhaitant s’engager dans une activité agricole ou transmettre son activité, même si son projet n’est qu’émergent, même si elle souhaite devenir salariée.\nUn diagnostic modulaire apportera aux agriculteurs toutes les informations nécessaires pour prendre les meilleures décisions s’agissant de la viabilité économique, sociale et environnementale de leur exploitation. Les personnes qui veulent préparer un projet d’exercice en commun de l’activité agricole auront également l’occasion de découvrir « l’essai d’association ».\nGrâce à vous, nous renforcerons l’attractivité des professions agricoles. Les délais de traitement des recours contentieux à l’encontre des projets d’élevage et des ouvrages agricoles et hydrauliques seront accélérés. Je l’ai dit et répété au cours de nos débats : nous ne touchons pas aux règles de fond. Il ne s’agit que d’une accélération.\nUn statut unique de la haie réduira les contraintes pesant sur les exploitants, sécurisera les travaux et incitera à la plantation. Je mets au défi quiconque dans cette assemblée d’identifier une quelconque régression environnementale en matière de haies. (Plusieurs députés du groupe EcoS lèvent la main.)"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Ah si !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Vous n’avez pas lu le texte. Les agriculteurs disposeront de 20 millions d’euros supplémentaires pour planter des haies."
+        },
+        {
+          "orateur": "M. Nicolas Forissier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1327",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "D’autre part, les éleveurs verront leurs troupeaux mieux protégés de la prédation lupine par la facilitation des tirs de défense, dans le respect de la réglementation européenne, et par la sécurisation juridique de l’utilisation des chiens patous.\nS’agissant de l’attractivité, je m’attarderai un instant sur l’article 13, relatif à la dépénalisation des atteintes non intentionnelles à l’environnement. En effet, je vois fleurir et prospérer sur les réseaux sociaux, les antennes de radio et les chaînes de télévision des contrevérités parfaitement inacceptables, qui foulent aux pieds l’idée que je me fais d’un débat démocratique sain et éclairant pour nos concitoyens.\nLe combat légitime entre opposants ne donne pas le droit aux responsables politiques de faire passer des vessies pour des lanternes. En aucune manière le texte n’accorde à nos agriculteurs je ne sais quel permis de détruire des espèces ou des espaces protégés. Le régime de protection reste plein et entier, identique en tout point à celui qui prévalait jusqu’alors."
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Il faut relire la loi !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Seul le régime des peines est modifié, et pour les seules atteintes non intentionnelles à l’environnement – je le dis encore, encore et encore. Pour que le caractère non intentionnel soit retenu, il ne suffit pas, comme vous le prétendez, de dire : « Pardon, je n’ai pas fait exprès. » Le projet de loi encadre le périmètre de la non-intentionnalité : sans entrer à nouveau dans les détails, sont présumées – et seulement présumées – non intentionnelles les atteintes qui découlent d’une obligation imposée par l’État, comme les obligations légales de débroussaillement, de l’application des prescriptions d’une autorisation administrative ou d’un plan de gestion validé par l’autorité compétente.\nLa police de l’environnement peut à tout moment, à l’issue d’une enquête, renverser cette présomption, tout comme le juge dans le cadre de l’enquête, toujours menée à charge et à décharge, en s’appuyant sur son intime conviction. C’est la stricte application de nos principes et procédures de droit pénal. « Il n’y a point de crime ou de délit sans intention de le commettre. » Ainsi, dans le cas où une atteinte non intentionnelle serait constatée, la peine de prison encourue disparaîtrait au profit d’une obligation de remise en l’état assortie d’une amende ou, à défaut, d’un stage de formation.\nNous remplaçons la répression par la pédagogie tout en maintenant l’ambition de réparation. On ne peut, d’un côté, passer son temps à se parer de toutes les vertus en défendant l’État de droit et en prônant la tolérance à tout va et, de l’autre côté, se montrer sans pitié et exiger la correctionnalisation de toutes les infractions potentielles lorsqu’une faute non intentionnelle est commise par un agriculteur. C’est une question de cohérence."
+        },
+        {
+          "orateur": "Mme Anaïs Belouassa-Cherifi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841657",
+          "texte": "Elle est à géométrie variable, chez vous !"
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Cette clarification faite, et avant de conclure, je rappellerai que, grâce à votre vote, la place des femmes en agriculture sera revalorisée – j’insiste sur ce point qui me tient particulièrement à cœur. L’amélioration de leur statut figurera désormais explicitement dans les objectifs de la politique agricole, afin que la nation reconnaisse le rôle essentiel qu’elles jouent et ont encore à jouer dans le renouvellement des générations. (Mme Géraldine Bannier applaudit.)\nL’accès au statut de cheffe d’exploitation sera facilité grâce à une stratégie visant à lever les freins à l’installation, et le réseau France Services agriculture veillera à ce que les agricultrices puissent bénéficier de toutes les commodités à cet effet.\nEn résumé, grâce à votre vote, nous sèmerons les premières graines de la reconquête de notre souveraineté alimentaire. Les Français peuvent en être sûrs : elles germeront. En adoptant ce projet de loi, nous tournerons, je l’espère, la page des années noires de notre agriculture, pour qu’un vent d’espoir et d’ambition souffle à nouveau dans les cours de la ferme France. (Applaudissements sur les bancs du groupe DR et sur plusieurs bancs des groupes EPR, Dem et HOR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639735",
+      "valeurPtsOdj": "1",
+      "titre": "Motion de rejet préalable",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "J’ai reçu de Mme Cyrielle Chatelain et des membres du groupe Écologiste et social une motion de rejet préalable, déposée en application de l’article 91, alinéa 5, du règlement.\n La parole est à Mme Marie Pochon."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "« Je ne voudrais pas […] commencer le Salon de l’agriculture en disant aux agriculteurs que les parlementaires ne les ont pas entendus », disiez-vous, madame la ministre, à nos collègues sénateurs hier après-midi, à la fin de l’examen en dents de scie d’un texte tout aussi attendu qu’il a été transformé dans l’année qui vient de passer.\nIl ne reste pas grand-chose de son ambition initiale – tout au plus le mot « agriculture » dans son titre, si tant est qu’on en perçoive les mêmes réalités. Cela vous importe peu : il fallait aller vite, quitte à ce que la CMP ait lieu trois heures à peine après le vote du Sénat et que notre vote, ce soir, à vingt-trois heures, ait lieu seulement cinq heures après la publication du texte final."
+        },
+        {
+          "orateur": "M. Mickaël Cosson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793520",
+          "texte": "Et alors ?"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Peu importe, l’objectif était fixé : il fallait faire des annonces à l’ouverture du Salon. (Applaudissements sur quelques bancs du groupe EcoS. – MM. André Chassaigne et Dominique Potier applaudissent également.)"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Ça fait neuf mois qu’on attend !"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Samedi, vous pourrez donc annoncer par le menu ce qu’il est advenu de la fameuse loi d’avenir et d’orientation agricole attendue depuis des années, qui devait fixer un cap et répondre aux mobilisations de l’an passé – une loi d’avenir pour notre agriculture, pour répondre au plus grand plan social que notre pays ait connu ces cinquante dernières années, aux suicides tous les deux jours, aux rendements en berne, aux ventes à perte, à la désertification de nos villages et à l’effondrement du vivant.\nVous expliquerez peut-être aux agriculteurs les vertus des accords de libre-échange, les revirements sur les prix planchers, le grand désert sur l’application des lois Egalim du 30 octobre 2018, du 18 octobre 2021 et du 30 mars 2023, les petits coups de pression sur l’Agence française pour le développement et la promotion de l’agriculture biologique – l’Agence bio – ou sur les objectifs de surface, tout cela dans une année où le nombre d’agriculteurs a encore diminué, où les grandes entreprises agroalimentaires ont encore augmenté leurs marges, où 8 millions de personnes dépendent encore de l’aide alimentaire dans notre pays.\nNous exportons la production de 43 % de nos terres et nous importons trois quarts des pâtes et semoules qui nourrissent notre population, alors que nous pourrions largement satisfaire notre consommation moyenne. (Brouhaha. – « Chut ! » sur les bancs des groupes LFI-NFP et EcoS.) Alors qu’au XXe siècle, l’objectif légitime des politiques agricoles était de manger tous, le sens actuel de l’histoire devrait nous amener à celui de manger mieux et des produits de qualité. Ce n’est pas votre logique ; vous persistez à faire de notre ferme France et, avec elle, de tous les agriculteurs, un simple élément de l’équilibre de la balance commerciale. Nous exportons ce dont nous avons besoin, nous importons ce dont nous avons besoin : l’absurde est érigé en modèle. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)\nVous expliquerez donc aux agriculteurs en quoi, à l’heure des bouleversements climatiques, géopolitiques et économiques de notre monde, qui fondent légitimement l’angoisse de tant de paysans de notre pays, un texte comme celui-ci, qui ne contient rien sur la capacité des agriculteurs à pouvoir fixer leurs propres prix pour ce qu’ils produisent et vendent, rien sur leur capacité à pouvoir vivre de leur travail dignement, rien sur la spéculation foncière, rien sur le renouvellement des générations, rien sur la concurrence déloyale, rien sur l’adaptation au changement climatique, pourra répondre à leurs préoccupations.\nCe texte visant au renouvellement des générations agricoles, paradoxalement, ne souhaite pas d’installations, puisqu’il ne fixe aucun objectif, ne se dote d’aucun outil d’évaluation ni d’aucun moyen pour faire appliquer les dispositions qu’il contient – de cette manière, elles ne risquent pas de servir à quoi que ce soit.\nCe texte qui, il y a un an, n’aimait de la transition que son idée abstraite – celle d’adjectifs peu contraignants ajoutés ici et là –, en détruit les fondements même à son retour du Sénat et après le passage du lobbyiste Laurent Duplomb. Il en devient dangereux, à force de déployer tant d’énergie à poursuivre le détricotage entamé du droit de l’environnement, alors que la très grande majorité des agriculteurs demandent au contraire à être accompagnés pour faire face à la crise climatique. À un tel moment de notre histoire, c’est un choix politique criminel.\nOn parle là du pire recul environnemental depuis au moins une décennie. C’est la deuxième motion de rejet de ce texte que je défends. L’an dernier, nous nous offusquions d’un intérêt général majeur qui n’avait aucune valeur en droit, d’un « bachelor agro » qui ne réinventait pas l’eau chaude et d’un texte vide de tout. Un an plus tard, voilà que l’on consacre le principe démagogique et inapplicable du « pas d’interdiction sans solution économiquement viable et techniquement efficace » à propos des pesticides, alors même que la performance économique de l’agriculture industrielle est une illusion et représente un coût faramineux, certes caché mais que nous payons quand même, et pas peu cher. Pourtant, plusieurs scénarios de référence ont modélisé la faisabilité de l’agroécologie à l’échelle française ou européenne.\nJe pourrais citer également la dépénalisation tout à fait inconstitutionnelle des atteintes « non intentionnelles » à la biodiversité, donnant tout simplement un permis de la détruire, en réduisant à une simple contravention de 450 euros la destruction d’une espèce protégée ou de son habitat. Cette mesure n’est pas destinée aux agriculteurs qui, je ne sais dans quel monde, auraient demandé ce droit, elle s’applique à tous. Ainsi, les industriels pourront émettre des rejets toxiques, les énergéticiens détruire une couleuvre d’Esculape, les chasseurs tirer un gypaète barbu plutôt qu’un sanglier, et tout cela ne sera pas grave. Vous défendez l’autorité quand cela vous arrange. Quand il s’agit de criminaliser des enfants ou des étrangers, c’est à celui qui sera le plus dur, mais quand il faut s’attaquer aux multinationales qui polluent notre environnement ou tuent nos paysans en les empoisonnant, toute autorité disparaît. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP.) Vous n’êtes forts qu’avec les faibles et terriblement faibles avec les forts."
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Je pourrais citer la remise en cause du zéro artificialisation nette, conçu, je le rappelle, pour préserver les terres agricoles, ou l’assouplissement des règles pour créer des stockages d’eau. Vous voulez faire primer le soutien aux capacités exportatrices, que vous appelez « souveraineté agricole », sur celui à notre capacité à produire, aujourd’hui et demain.\nRendez-vous compte des régressions que vous acceptez, uniquement pour que le chef de l’État puisse ne pas rendre une copie blanche au Salon ! Nous ne l’acceptons pas, c’est pourquoi nous déposons cette motion de rejet. Vous pourrez nous dire qu’on ne peut pas perdre davantage de temps sur un sujet si important : nous sommes d’accord. Cependant, nous considérons que la perte de temps, immense et implacable, résulte justement de votre texte, tant il nous en fera perdre face aux défis immenses que nous avons devant nous. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe LFI-NFP. – M. Dominique Potier applaudit également.)\nJ’aurais tellement aimé qu’on nous propose un texte qui ne nous oblige pas à déposer cette motion. Comme beaucoup ici, sur tous les bancs de cette assemblée, je suis très attachée au monde agricole. J’y ai grandi, on m’a éduquée au rythme des bonnes et des mauvaises saisons, des vendanges et de leurs saisonniers, des regards inquiets sur le bulletin météo lors des gels tardifs, au bruit des canons antigrêle installés partout dans la vallée. J’y suis également attachée comme écologiste et je suis effarée d’entendre dans vos discours revenir la démagogie anti-écologiste dès qu’il s’agit de faire la course au clan Le Pen. (Applaudissements sur plusieurs bancs des groupes EcoS, LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Et ça, ce n’est pas de la démagogie ?"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "L’agriculture, notre souveraineté alimentaire et la vie dans nos villages valent mieux que d’être instrumentalisées dans vos piètres stratégies électorales, qui, d’ailleurs, ne vous profitent pas du tout, comme l’ont montré les dernières élections. Que direz-vous aux agricultrices et agriculteurs à qui vous avez promis monts et merveilles quand demain, rien n’aura changé pour eux, malgré la loi d’orientation ?"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Vous n’aimez pas les agriculteurs !"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Que direz-vous aux arboriculteurs de la vallée du Rhône qui enchaînent les saisons désastreuses, à cause du gel, de la grêle, de la sécheresse ? Leur direz-vous que la question de l’adaptation au changement climatique était une option, qu’elle n’était pas essentielle, qu’elle était une lubie de gauchistes qui ne comprennent rien à l’agriculture ?\nComment rester compétitif quand on subit les aléas climatiques, non pas une fois de temps en temps, mais coup sur coup pendant trois ou quatre années de suite, quand les assurances ne suivent plus, quand les cours fluctuent tant, quand l’endettement mine les corps de fermes, quand l’échec survient, alors que plus personne ne répond au téléphone, faute des 531 millions d’euros que vous avez supprimés dans les budgets agricoles ?\nL’échec, parlons-en. Pour ce qui concerne le revenu, votre bilan est si mauvais que vous avez affronté l’une des plus importantes mobilisations sociales agricoles des dernières décennies.\nPour ce qui concerne l’environnement, votre bilan est catastrophique : l’agriculture est désormais le deuxième secteur émetteur de gaz à effet de serre et les modes de production que vous avez promus ont provoqué un tel recul de la biodiversité qu’ils menacent notre capacité à continuer de produire. (Brouhaha persistant. – « Chut ! » sur les bancs du groupe LFI-NFP.)\nPour ce qui concerne le renouvellement des générations, objet du projet de loi, on peut difficilement faire pire, puisque 100 000 exploitations ont disparu ces dix dernières années ; ce sont des milliers de familles démunies, d’agriculteurs endettés, de jeunes qui renoncent à reprendre la ferme familiale. Et ce n’est pas seulement l’agriculture qui meurt, ce sont des communautés entières qui se trouvent fragilisées, des usines et des commerces qui préfèrent aller voir ailleurs, des classes qui ferment, des villages qui se vident, le lien social qui s’étiole.\nL’échec, votre échec, c’est aussi l’aggravation des inégalités entre les mondes agricoles. Il n’y a rien de commun entre les grands céréaliers exportateurs habitués des plateaux télé et des réunions ministérielles et les petits éleveurs ovins, pastoraux, qui nourrissent nos territoires et entretiennent nos paysages. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Qui fait les paysages des champs de blé, sinon les céréaliers ?"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Les gros, ceux à qui vous parlez, captent la majorité des aides publiques pendant que les autres se partagent les miettes. Les gros contrôlent en parallèle les coopératives et les industries, pendant que les petits sont écrasés sous leur poids, ne décidant de rien et surtout pas des prix. Les uns réclament de raser les haies et d’autoriser de nouveau les pesticides, pendant que les autres revendiquent des prix rémunérateurs et la fin de la concurrence déloyale. (Mêmes mouvements.)\nLes autres, c’est la grande majorité des agricultrices et des agriculteurs, puisque la taille moyenne des exploitations en France est de 69 hectares. Ce sont ces agricultrices et agriculteurs qui font appel à la solidarité en lançant des cagnottes pour maintenir leur activité, faute de soutien public. Entre les uns et les autres, il faut faire un choix."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Entre les deux, il y a un juste milieu !"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Comme toujours, du fait de votre idéologie ultralibérale, le vôtre est d’enrichir la minorité au détriment de la majorité. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP. – M. Arthur Delaporte applaudit également.)"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Oh là là !"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Heureusement, à rebours de votre manque de courage, les Françaises et les Français agissent, font par eux-mêmes et se débrouillent sans attendre l’appui des politiques publiques davantage pensées pour servir quelques capitaines d’industrie. Dans la Drôme d’où je viens, on sait ce que l’on doit à l’agriculture. Vignobles, abricotiers, lavande, élevages pastoraux, chênes truffiers, maraîchages, noyers, oliveraies, semences : c’est là que nous puisons notre force, la beauté époustouflante de nos paysages, la résilience de notre territoire."
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Et le nougat !"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Chez moi, près de 30 % de la surface agricole utile – SAU – est en bio. L’élevage ovin et caprin est pâturant. On y défend des IGP et AOP – indications géographiques protégées et appellations d’origine protégée – de grande qualité. On y bâtit la Biovallée, la première commission locale de l’eau en France, des foncières comme Terre de liens, des épiceries coopératives. On crée et on innove, pendant que vous subissez la décroissance que vous prétendez combattre. (Applaudissements sur quelques bancs du groupe EcoS.) Là-bas, les jeunes qui cherchent à s’installer se bousculent. C’est de cette manière qu’on permet à tant d’enfants drômois de bénéficier de repas sains, bio et locaux à la cantine, et qu’on vit avec fierté le métier d’agriculteur."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Il faut conclure, chère collègue."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Pour leur rendre l’hommage qu’ils méritent, je vous demande de voter pour cette motion de rejet. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP et sur plusieurs bancs du groupe SOC. – M. Édouard Bénard applaudit également. – Les députés du groupe EcoS, rejoints par quelques députés du groupe SOC, se lèvent et continuent d’applaudir.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Mes chers collègues, l’hémicycle est très bruyant à cause des conversations entre vous. C’est désagréable à la fois pour les orateurs et pour ceux qui les écoutent. Ceux qui veulent discuter ne sont pas obligés de rester sur ces bancs.\n Nous en venons aux explications de vote.\n La parole est à M. Robert Le Bourgeois."
+        },
+        {
+          "orateur": "M. Robert Le Bourgeois (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841837",
+          "texte": "Projet de loi oblige, nous voilà réunis pour examiner d’abord une motion de rejet de l’extrême gauche. (Exclamations sur les bancs du groupe LFI-NFP et EcoS.) Sommes-nous surpris ? Pas vraiment.\nCollègues d’extrême gauche, ce texte est certes loin d’être parfait : vous l’avez dit et nous l’avons dit. Il faut appartenir au bloc central ou faire preuve d’une naïveté confondante pour imaginer qu’il répondra aux multiples attentes de nos agriculteurs. Trop peu a été fait s’agissant de la transmission, du foncier ou de la rémunération. Ce projet de loi n’est ni un sursaut ni un salut mais le énième vœu pieux de dirigeants qui, depuis trop d’années, disent à Paris le contraire de ce qu’ils font à Bruxelles.\nCependant, les débats ont montré, s’il en était besoin, le danger que vous, députés d’extrême gauche, représentez pour nos agriculteurs, nos éleveurs et notre souveraineté alimentaire. Vous avez réclamé le maintien des surtranspositions que nos agriculteurs nous supplient d’abroger. Vous souhaitiez qu’on impose des stages de sensibilisation aux enjeux de l’environnement – façon bureaucratique de parler de stages de rééducation : fort heureusement, nous vous l’avons refusé.\nCette motion démontre aussi combien vous avez le compromis amer. Vous demandiez qu’on rétablisse l’objectif de 21 % de surface agricole utile en culture biologique en 2030 : vous l’avez obtenu ; qu’on revienne sur la dépénalisation des atteintes non intentionnelles à l’environnement : vous avez eu en partie gain de cause.\nAu fond, par cette motion de rejet, vous appliquez à la lettre la seule méthode qui vous permet d’exister : la révolution permanente. (« Tout à fait ! » sur certains bancs des groupes LFI-NFP et EcoS.)\nLe groupe Rassemblement national ne participera évidemment pas à cette comédie et votera contre la motion de rejet. (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Vous êtes de droite !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Charles Sitzenstuhl."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Le groupe Ensemble pour la République votera contre la motion de rejet, car elle constitue une provocation envers la majorité du monde agricole, qui attend ce texte depuis une année. (Mme Marina Ferrari applaudit.)"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Notre groupe souhaite l’adoption du projet de loi, dont je rappelle qu’il a été déposé il y a un an par le gouvernement de Gabriel Attal…"
+        },
+        {
+          "orateur": "Un député du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Où est-il, d’ailleurs ?"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "…et dont le gouvernement de François Bayrou conclut l’examen après l’accord trouvé en commission mixte paritaire.\nLes agriculteurs français sont des personnes pragmatiques. Ils savent que le texte ne résoudra pas tous leurs problèmes du jour au lendemain, car les décisions structurantes de notre agriculture sont prises à l’échelon européen dans le cadre de la politique agricole commune – PAC. Ils savent que le monde change, que le climat change, que l’agriculture française elle-même a profondément changé."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Vous, vous ne changez pas !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Néanmoins, ils attendent cette loi, car elle transmet un signal : celui que les paysans, les agriculteurs et les agricultrices sont importants, sont vitaux pour la nation. Je le vois chez moi, en Alsace : les agriculteurs veulent un cap – et ce cap, le voici : la France doit rester une grande puissance agricole."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Elle doit rester une puissance de production, une puissance d’alimentation, une puissance d’innovation et une puissance d’exportation. Ce sont bien les ambitions qui président à ce projet de loi, notamment à son article 1er, qui affirme que l’agriculture et la pêche sont d’intérêt général majeur et constituent un intérêt fondamental de la nation.\nEn matière de formation, de transmission ou encore de simplification, le texte offre des solutions. Nous devons envoyer ce signal de confiance au monde agricole français. Il faut voter contre la motion de rejet et pour le projet de loi. (Applaudissements sur plusieurs bancs du groupe EPR et sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Manon Meunier."
+        },
+        {
+          "orateur": "Mme Manon Meunier (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "J’ai une question pour vous, collègues de droite : à qui profite le crime ? (Applaudissements sur les bancs du groupe LFI-NFP. – Exclamations sur plusieurs bancs des groupes EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Oh, ça va ! Quel crime ?"
+        },
+        {
+          "orateur": "M. Romain Daubié",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793122",
+          "texte": "C’est ridicule !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "À qui profite le projet de loi d’orientation agricole que vous vous apprêtez à voter ? Il ne profite pas à l’éleveur de soixante vaches et de cent brebis, ni au maraîcher qui fait de la vente directe et fournit la restauration collective, ni même à l’arboricultrice qui vend ses produits dans la coopérative du coin."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Il ne profite pas aux trois agriculteurs qui votent LFI !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "En effet, il ne contient rien pour assurer des prix rémunérateurs aux agriculteurs (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs des groupes EcoS et GDR),…"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Et voilà !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "…rien pour sortir des traités de libre-échange, rien pour accompagner les agriculteurs face au changement climatique. Les agriculteurs militent sur les ronds-points depuis plus d’un an et vous avez réussi à faire un texte qui ne contient aucune de leurs revendications ! (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Vous me direz que vous avez revu le droit de l’environnement à la baisse et que cela facilitera l’exercice du métier."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Allez voir les agriculteurs ! Il faut mettre les pieds dans une ferme !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Ne nous y trompons pas : quand vous permettez l’accélération des mégaprojets de retenue d’eau, quand vous rendez caduc le droit de l’environnement et facilitez la destruction des espèces, quand vous favorisez l’accès aux terres agricoles des porteurs de projet industriel, vous n’aidez pas les agriculteurs de France. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.) Dans ce contexte, les seuls qui profitent de la révision à la baisse du droit de l’environnement, ce sont les acteurs de l’agro-industrie qui tentent de s’installer partout."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Exactement ! Vous êtes pulvérisés !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Ce que vous piétinez, c’est le modèle agricole français familial."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "texte": "Les fermes, ça ne se trouve pas sur TikTok !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Ce que vous piétinez, ce sont tous ces agriculteurs qui ont 80 vaches, 100 hectares de céréales, 200 hectares de légumes ou 400 brebis et qui, n’étant plus compétitifs à l’international, ne sont plus utiles à vos profits."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Exactement ! Vous crevez l’agriculture !"
+        },
+        {
+          "orateur": "Mme Manon Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795482",
+          "texte": "Vous ne les protégez pas du libre-échange, vous ne les aidez plus face aux crises et vous n’avez plus qu’à faire tomber les normes sociales et environnementales contraignantes pour que l’agro-industrie s’installe tranquillement à leur place. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Julie Ozenne et M. Nicolas Sansu applaudissent également.) Vous êtes en train de vendre l’agriculture française à la découpe, et l’environnement avec. Nous ne vous laisserons pas faire. La France insoumise votera la motion de rejet. (Les députés du groupe LFI-NFP se lèvent et applaudissent. – Applaudissements sur plusieurs bancs du groupe EcoS, dont certains députés se lèvent. – MM. Dominique Potier et Nicolas Sansu applaudissent également.)"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Elle vous a pulvérisés !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Mélanie Thomin."
+        },
+        {
+          "orateur": "Mme Mélanie Thomin (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Il y a un an, en réponse à la crise de la profession, le premier ministre Attal avait promis au monde agricole que ce texte deviendrait une loi de réparation, une loi ambitieuse pour renouveler les générations, pour améliorer le revenu agricole, pour adapter l’agriculture aux défis climatiques. À quelques jours du Salon de l’agriculture, il fallait raviver la promesse oubliée faite il y a huit mois, sous une autre législature, avant la submersion trumpiste de notre vie politique. À l’époque, le groupe socialiste s’était opposé à ce projet de loi, considérant qu’il contenait des renoncements majeurs en matière de politique agricole sans pour autant répondre à l’urgence vitale de la profession, qui consiste à pouvoir vivre dignement de son travail.\nHuit mois plus tard, dans un monde politique nouveau où deux des rapporteurs du texte ont été battus aux élections, les députés ont été conviés dans la précipitation au Sénat, en rangs décimés, pour entériner le projet de loi. Une seule ambition : obtenir un produit de marketing législatif à vendre au Salon, pour rassurer les troupes. Pour aller vite, aucun compromis avec les députés, aucune explication ; un vote sur pièces, sans débat ; une réécriture du texte par le Sénat soumise aux membres de la CMP trente minutes avant l’examen ; un projet de loi passé en force hier soir, un texte écran de fumée qui, il y a encore cinq heures, n’était toujours pas accessible en ligne aux députés qui doivent pourtant se prononcer ce soir à son sujet."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "C’est un scandale !"
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "Tout cela est-il sérieux ? (M. Philippe Gosselin s’exclame.)"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "texte": "Sur d’autres textes, cela n’a pas l’air de vous déranger !"
+        },
+        {
+          "orateur": "Mme Mélanie Thomin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793816",
+          "texte": "L’accord de la CMP est basé sur un texte démagogique, largement réécrit par le Sénat, c’est-à-dire sans nous. Nous dénonçons d’ailleurs la volte-face de plusieurs groupes parlementaires. Ce texte condamne notre modèle agricole à l’immobilisme en dépénalisant les atteintes à l’environnement, en supprimant les références à l’agroécologie, en opposant agriculture et respect de l’environnement, ou encore en voulant traiter de l’installation des jeunes sans aborder la question du foncier. Nous ne partageons pas votre définition de la souveraineté alimentaire. (Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs du groupe EcoS.) Nous ne partageons pas la vision confuse qui préside à ce projet de loi pourtant censé fixer un cap, une orientation stratégique pour l’agriculture.\nCe texte est une régression. Comment espérez-vous esquiver sur le long terme la colère des agriculteurs ? Les sénateurs n’ont rien réparé. Recréer de la confiance demande de se montrer à la hauteur des attentes. Au lieu de le faire, vous attisez la colère dans le monde rural. C’est la raison pour laquelle nous voterons pour la motion de rejet. (Applaudissements sur les bancs des groupes SOC et EcoS ainsi que sur quelques bancs du groupe LFI-NFP. – M. Édouard Bénard applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Sur la motion de rejet préalable, je suis saisi par les groupes La France insoumise-Nouveau Front populaire et Les Démocrates d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Julien Dive."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Enfin quelqu’un qui sait de quoi il parle !"
+        },
+        {
+          "orateur": "M. Julien Dive (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Chers collègues de gauche, cette motion de rejet vous déshonore. (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Elle vous déshonore, parce qu’elle balaie le travail mené pendant des mois par les députés de la précédente législature. Vous bafouez leurs efforts !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Alors ça !"
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Elle vous déshonore, parce qu’à trois jours du soixante et unième Salon de l’agriculture, vous voulez empêcher le texte d’être adopté en temps et en heure. (Applaudissements sur plusieurs bancs des groupes DR, EPR et Dem.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Elle vous déshonore, parce que vous semblez considérer que les manifestations organisées par le monde agricole au cours de l’année passée n’étaient rien d’autre que du folklore, n’étaient qu’anecdotiques, n’avaient aucune valeur. (Protestations sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "C’est n’importe quoi !"
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Cette motion de rejet vous déshonore, parce qu’en la présentant, vous ne faites ni plus ni moins que de l’obstruction parlementaire, comme hier en CMP ! Pour notre part, nous nous rangeons du côté des agriculteurs et rejetterons la motion. (Applaudissements sur les bancs du groupe DR, sur plusieurs bancs du groupe EPR et sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Delphine Batho."
+        },
+        {
+          "orateur": "Mme Delphine Batho (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Nous sommes à l’Assemblée nationale ; par conséquent, ce qui compte, c’est ce qui est écrit dans la loi. Or ce projet de loi dispose que les normes réglementaires ne peuvent aller au-delà des exigences minimales des normes européennes. Il s’agit d’un abandon de souveraineté – et, tout obnubilés que vous êtes par votre grand bond en arrière écologique, vous ne vous êtes même pas rendu compte que ce que vous avez écrit là s’appliquerait aussi au droit du travail et à bien d’autres domaines qui toucheront, entre autres, les salariés agricoles ! (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs des groupes LFI-NFP, SOC et GDR. – M. Ian Boucard s’exclame.)\nDépénalisation des atteintes à la biodiversité, autorisation d’enfreindre la réglementation relative aux ICPE – installations classées pour la protection de l’environnement –, maintien des pesticides, interdiction d’interdire des poisons qui tuent et rendent malades ceux qui les emploient, à commencer par les agriculteurs eux-mêmes, atteinte au droit de recours des citoyens contre des projets tels que les réserves d’irrigation : ce texte est un hit-parade obscurantiste qui méprise des décennies d’avancées dans la connaissance agronomique et scientifique. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs des groupes LFI-NFP, SOC et GDR.) C’est un texte purement idéologique, au point qu’il consacre un article entier à supprimer le mot « agroécologie » du code rural. (Applaudissements sur les bancs du groupe EcoS. – M. Édouard Bénard applaudit également.)"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Bravo, très bonne mesure !"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il cède même au ridicule de copier le principe de non-régression en matière environnementale pour inventer la non-régression en matière d’agriculture, ce qui a été dénoncé par la ministre de la transition écologique, Agnès Pannier-Runacher.\nLes choses sont très simples : Donald Trump sort de l’accord de Paris sur le climat, vous voulez sortir de la Charte de l’environnement."
+        },
+        {
+          "orateur": "M. Philippe Gosselin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266797",
+          "texte": "C’est totalement excessif !"
+        },
+        {
+          "orateur": "Mme Delphine Batho",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335999",
+          "texte": "Il faut voter pour cette motion de rejet, puisque notre République ne peut même plus compter sur la garantie ultime que le Conseil constitutionnel veillera au respect de la Constitution. (Applaudissements sur les bancs du groupe EcoS, dont plusieurs députés se lèvent, ainsi que sur plusieurs bancs des groupes LFI-NFP, SOC et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Pascal Lecamp."
+        },
+        {
+          "orateur": "M. Pascal Lecamp (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Je le dirai tout de suite et sans détour : proposer une motion de rejet préalable me semble complètement hors de propos dans le contexte actuel, et cela pour deux raisons. (Applaudissements sur quelques bancs du groupe Dem.)\nPremièrement, cela revient à nier le débat parlementaire qui a eu lieu."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Vous n’aimez pas le Parlement ! De quoi parlez-vous ?"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Deuxièmement, c’est refuser la valeur même du compromis. Vous voulez rejeter les conclusions de la CMP pour nous empêcher de les voter ; à quelle fin ? En mai 2024, nous avons collectivement déposé 5 415 amendements."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Le groupe écologiste y a pris sa part, ce qui était entièrement légitime."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Combien ont été adoptés ? Vous avez tout rejeté en vous alliant avec Les Républicains !"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Mes collègues rapporteurs et moi-même, ainsi que Marc Fesneau, alors ministre de l’agriculture, vous avons répondu inlassablement. (Mme Marina Ferrari applaudit.) Nous avons eu des débats de fond sur la transition agroécologique, sur la productivité de l’agriculture française, sur la diversité des modèles, sur le revenu agricole, sur le foncier – même si le texte ne contenait pas de mesure à ce sujet –, sur l’installation, sur la transmission ou encore sur la souveraineté alimentaire. Pas moins de 196 amendements ont été adoptés. Nous avons ensuite voté sur le texte, qui a recueilli une majorité de voix. Le Sénat a fait le même travail. Hier soir, nous sommes allés défendre le texte de l’Assemblée nationale en commission mixte paritaire."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Oh là là !"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "texte": "Tout cela s’est fait dans le plus pur respect des procédures républicaines et du règlement des deux assemblées. Je suis tenté de dire que nous avons respecté les règles du jeu, mais il serait malvenu de parler de jeu, s’agissant d’un texte tant attendu et depuis si longtemps.\nLe texte issu de la CMP n’est certainement pas parfait, ni à mes yeux, ni aux vôtres, ni à ceux de nos collègues sénateurs. C’est la nature même du compromis, bien différent du consensus qui se fonde sur le plus petit dénominateur commun. En revanche, je ne confonds pas compromis et compromission. Je crois qu’il est possible de faire des pas les uns vers les autres et de se retrouver quelque part entre les deux positions initiales, dans l’intérêt général.\nToutes ces considérations m’éloignent du vrai sujet : ce texte concrétise enfin les promesses faites aux agriculteurs il y a plus d’un an. (M. Jean-François Coulomme s’exclame.) Il fait suite à des travaux menés avec force concertations depuis décembre 2022. Quand nous parlons à la tribune de l’Assemblée nationale, c’est à la France que nous parlons. Ce soir, nous parlons aux agriculteurs ; le groupe Les Démocrates ne veut pas les entendre dire « tout ça pour rien ».\nNous voterons contre la motion de rejet, qui n’est pas à la hauteur du travail mené collectivement depuis deux ans. (Applaudissements sur plusieurs bancs des groupes Dem, EPR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Thierry Benoit."
+        },
+        {
+          "orateur": "M. Thierry Benoit (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Le groupe Horizons & indépendants rejettera la motion."
+        },
+        {
+          "orateur": "M. Sébastien Delogu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793464",
+          "texte": "Oh non !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "En effet, les agriculteurs sont en droit d’attendre quelques avancées, aussi minimes soient-elles. Un des maux principaux de l’agriculture française dans les années passées réside dans les changements récurrents de ministre. En sept ans, nous avons eu six ministres de l’agriculture (Exclamations sur plusieurs bancs des groupes LFI-NFP, EcoS et GDR) :…"
+        },
+        {
+          "orateur": "Mme Karine Lebon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774962",
+          "texte": "Et en trois ans, six ministres des outre-mer !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "…Jacques Mézard, Stéphane Travert, Didier Guillaume – paix à son âme –, Julien Denormandie, Marc Fesneau et Annie Genevard."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Heureusement qu’il y a Annie Genevard !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Je le rappelle, car pour bâtir une orientation et une trajectoire solides, encore faut-il que le ministre reste en place suffisamment longtemps pour conduire une politique agricole ! Je formule donc, madame Genevard, le vœu que vous restiez en poste suffisamment longtemps pour donner enfin une trajectoire à l’agriculture française. (Applaudissements sur les bancs du groupe HOR et sur plusieurs bancs du groupe DR. – Mme Danielle Brulebois applaudit également.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Très bien ! On est tous d’accord !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Je tiens aussi à rappeler que la politique agricole repose avant tout sur la politique agricole commune. Si la France ne pèse pas au sein de l’Union européenne, elle se privera de 9 milliards d’euros par an qui influent sur le développement de l’agriculture.\nIl faut soutenir les avancées, aussi minimes soient-elles – car, disons-le clairement, il ne s’agit pas d’une grande loi d’orientation agricole. (M. Sébastien Delogu applaudit.)"
+        },
+        {
+          "orateur": "M. Damien Girard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841419",
+          "texte": "Ah !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Le texte contient quelques mesures relatives à l’installation des jeunes agriculteurs et quelques avancées en matière de simplification et de sécurisation, s’agissant notamment des installations classées pour la protection de l’environnement."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Les agriculteurs veulent sécuriser leurs revenus !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "C’est pourquoi le groupe Horizons & indépendants votera contre la motion de rejet. (Applaudissements sur les bancs du groupe HOR et sur quelques bancs des groupes EPR et DR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. David Taupiac."
+        },
+        {
+          "orateur": "M. David Taupiac (LIOT)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793796",
+          "texte": "La nature impose souvent sa propre temporalité, celle du cycle des saisons et du temps long. Autant dire que les agriculteurs maîtrisent l’art de la patience. Toutefois, même pour eux, l’attente des mesures concrètes pour le monde agricole est interminable. La présentation de ce projet de loi a été maintes fois repoussée. Il a fallu une crise et une expression forte de la colère du monde paysan pour qu’enfin un texte soit inscrit à l’ordre du jour. Ensuite, les agriculteurs ont été victimes des aléas de la vie politique, car la dissolution a considérablement retardé l’adoption du texte. Nous sommes un an après le début de la navette parlementaire. Il est largement temps qu’enfin nous concrétisions les promesses faites il y a trop longtemps.\nJ’entends ceux qui trouvent le texte trop lacunaire, voire vide ; je partage à cet égard leur analyse. Je n’ai eu de cesse de proposer de renforcer les dispositions qu’il contient.\nJ’entends aussi ceux qui s’alarment des nombreuses entorses et régressions en matière de droit de l’environnement. Je veux les rassurer : beaucoup de mesures en ce sens relèvent avant tout de la communication et n’auront pas nécessairement l’impact redouté.\nJ’entends surtout les agriculteurs, chez moi et ailleurs, qui me disent qu’ils souhaitent que nous votions ce texte parce qu’il comporte certaines mesures qui ne sont certes pas révolutionnaires, mais qui vont dans le bon sens. Vous comprendrez donc que nous ne pouvons pas voter cette motion de rejet. (« Oh ! » sur les bancs du groupe LFI-NFP.)\nCe vote n’est néanmoins pas un blanc-seing pour les textes à venir. Je regarde en particulier avec inquiétude la proposition de loi du sénateur Laurent Duplomb, bien trop maximaliste à mon goût. (Applaudissements sur les bancs du groupe LIOT et sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. André Chassaigne."
+        },
+        {
+          "orateur": "M. André Chassaigne (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Madame la ministre, madame et monsieur les rapporteurs, je voudrais vous décerner un diplôme, celui de la magie verte. Quatre heures de débat en CMP deviennent « six heures » ; déconstruction du texte de l’Assemblée nationale devient « consolidation du texte » ; conduire la société à diaboliser les agriculteurs devient « rendre le métier désirable » ; un texte de l’Assemblée nationale complètement plombé, après une capitulation en rase campagne, devient « un texte de compromis ». (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.) L’impossibilité de défendre la quasi-totalité des amendements de l’opposition en CMP devient « l’examen de dizaines d’amendements, voire de centaines ». La bataille conduite pour maintenir des objectifs pour l’agriculture bio devient « victoire des rapporteurs ». (Sourires.) L’appauvrissement des formations en agroécologie devient « enseignement agricole régénéré ». Quand nous soulignons la régression environnementale, vous répondez « plantation de haies ». Alors que la voix de notre assemblée est étouffée, bafouée, voire ridiculisée, vous parlez de « respect de l’État de droit ».\nC’est au nom du droit à légiférer dignement que le groupe GDR votera la motion de rejet préalable. (Les députés des groupes LFI-NFP, SOC, EcoS et GDR se lèvent et applaudissent.)"
+        },
+        {
+          "orateur": "M. Édouard Bénard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Olivier Fayssat. (Brouhaha.)\n Il reste un orateur. Que chacun garde son calme."
+        },
+        {
+          "orateur": "M. Olivier Fayssat (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840773",
+          "texte": "J’aimerais sincèrement pouvoir vous dire que nous sommes surpris par le dépôt de cette motion de rejet préalable mais, hélas, il n’en est rien. Pour vous dire la vérité, je me serais presque inquiété de l’absence d’une telle motion de la part de la gauche écologiste sur un texte agricole. Je parle de cette gauche écologiste qui, forte de ses certitudes morales, est toujours prête à donner des leçons à la terre entière, cette gauche écologiste qui se dit progressiste, mais qui veut nous renvoyer aux techniques agricoles du Moyen Âge, cette gauche écologiste qui finalement ne supporte ni les agriculteurs ni le débat. Eh bien, je vous le dis, mes chers collègues, les agriculteurs français font la fierté de notre pays. Depuis des siècles, ils travaillent notre terre, aménagent nos paysages et nous nourrissent, vous y compris. Ils ont su s’adapter à toutes les révolutions technologiques pour nous proposer des produits agricoles toujours plus abondants et de meilleure qualité, la production allant de pair avec la croissance de la population. Ils ont fait de la France une fière puissance exportatrice agricole mondiale.\nCertes, ce projet de loi n’est pas parfait. Nous aurions souhaité qu’il soit beaucoup plus ambitieux, qu’il comporte des mesures visant à alléger le fardeau des normes qui écrasent les exploitants, qu’il apporte une réponse à la question d’une juste rémunération des agriculteurs avec une baisse des prélèvements et des charges qui les étouffent. Néanmoins, ce texte est attendu. Un an après le début de son parcours législatif, alors que nous sommes à quelques jours du Salon de l’agriculture, il serait tout simplement déraisonnable d’interrompre son cours.\nAvec cette motion, vous mordez la main qui vous nourrit. Vous l’aurez compris, le groupe UDR ne la votera bien évidemment pas. (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix la motion de rejet préalable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        327\n        Nombre de suffrages exprimés                327\n        Majorité absolue                        164\n                Pour l’adoption                108\n                Contre                219"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La motion de rejet préalable n’est pas adoptée.)\n (Applaudissements sur les bancs des groupes RN, DR et UDR, ainsi que sur quelques bancs des groupes EPR, Dem et HOR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3638747",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Dans la discussion générale, la parole est à Mme Hélène Laporte."
+        },
+        {
+          "orateur": "Mme Hélène Laporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Alors que l’actualité internationale ne cesse de nous rappeler le danger croissant de déclassement mondial de la France, la protection et la reconquête de notre souveraineté alimentaire doivent nous apparaître à tous comme le plus urgent des enjeux. La France, premier pays de l’Union européenne en surface agricole comme en production, cinquième producteur mondial de blé tendre, a un rôle évident à jouer dans ce domaine et un rang à tenir. Réduire au minimum nos dépendances en matière alimentaire n’est pas un sujet annexe ; il s’agit au contraire d’un enjeu vital pour notre pays. Il était urgent que la loi reconnaisse solennellement la souveraineté alimentaire, non seulement européenne mais avant tout, comme nous avons demandé à l’inscrire dans la loi, française, et son caractère d’intérêt général majeur, comme le fait ce projet de loi, même si la portée juridique concrète de cette consécration demeure, à bien des égards, incertaine. (Brouhaha.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Chers collègues, je vous prie de bien vouloir sortir dans le silence et le calme."
+        },
+        {
+          "orateur": "Mme Hélène Laporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Non moins urgente est la question du renouvellement des générations, alors que la moitié des 400 000 chefs d’exploitation en activité atteindront l’âge de la retraite dans la décennie qui vient, bien souvent sans perspective de trouver un successeur. En mai 2024, au terme d’une première lecture qui avait révélé les profondes contradictions dans les objectifs du gouvernement en place, le groupe Rassemblement national s’est opposé à l’adoption du projet de loi, car ses apports en termes de simplification et de sécurité juridique pour les agriculteurs étaient quasiment inexistants. Il faisait en outre peser sur eux de nouvelles contraintes inadmissibles, que le Conseil d’État lui-même avait relevées. Par la suite, après de multiples reports, l’examen au Sénat et celui en commission mixte paritaire ont permis de notables améliorations allant dans le sens de nos demandes.\nLa définition à l’article 1er AA d’un principe de non-régression de la souveraineté alimentaire assure une protection nouvelle de l’activité agricole française contre le zèle de l’autorité réglementaire. L’article 10 instituant un guichet unique d’aide à la transmission et à l’installation a été sensiblement remanié de façon à lui retirer son caractère de contrainte en rendant facultatives les obligations prévues dans le texte d’origine. L’article 13, qui prévoyait – quelle injure pour nos agriculteurs ! – un stage de rééducation pour les auteurs d’infractions environnementales, a été profondément modifié. Il permet désormais au contraire une juste prise en compte du caractère non intentionnel de ces infractions en allégeant les peines. L’institution, à l’article 15 bis, d’un régime de déclaration, en lieu et place du régime d’autorisation actuellement en vigueur, pour la création de retenues collinaires, rendra de la marge de manœuvre aux producteurs, évitant des situations de blocage incompréhensibles. Le lac de Caussade, dans mon département, en est un exemple.\nNous devons toutefois manifester quelques regrets. L’objectif réintroduit de 21 % de la surface agricole cultivée en agriculture biologique est irréaliste, car il est en décalage complet avec la réalité du marché. L’article 1er quater visant à renforcer l’information du consommateur sur les lieux de production a été vidé de sa substance pour devenir une simple déclaration d’intention de réviser la réglementation européenne, une demande qui, nous le savons tous, restera vaine. En outre, le texte ne répond malheureusement toujours en rien aux questions fondamentales qui se posent à notre agriculture : le revenu de nos agriculteurs et leur protection face à la concurrence internationale déloyale.\nCe constat étant dressé, nous voterons ce texte car, aussi insuffisant et imparfait soit-il, il est nécessaire pour aider nos filières à relever la tête. Un pas doit être fait aujourd’hui pour le renouveau de l’agriculture française et, pour ce qui nous concerne, nous n’hésitons pas à l’accomplir. Mais que personne ici n’ose faire du scrutin de ce soir une victoire historique pour nos agriculteurs : ce petit texte de loi n’est en rien la révolution qu’ils attendent. Je n’en ai d’ailleurs entendu aucun me dire son impatience de voir institué le « bachelor agro » qui fait l’objet d’un article entier – un diplôme de ce niveau existe déjà sous une autre appellation.\nAprès ce vote, tout reste à faire. Nous devons maintenant réussir là où les lois Egalim ont échoué en garantissant à nos producteurs un prix digne reflétant leurs coûts de production et la juste valeur de leur travail. Nous devons également supprimer l’ensemble des surtranspositions du droit européen existant dans notre législation – un sujet qui sera prochainement à l’ordre du jour de notre assemblée ; nous serons vigilants pour voir, madame la ministre, si vous suivez ce projet. Il faut aussi mettre un coup d’arrêt ferme à la politique commerciale de l’Union européenne dont les accords de libre-échange sacrifient systématiquement nos filières agricoles, à commencer bien entendu par le funeste accord avec le Mercosur dont l’adoption est toujours à l’ordre du jour. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Thomas Ménagé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794322",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme Hélène Laporte",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "texte": "Nous devons instaurer un cadre social et fiscal apte à encourager au maximum notre production domestique, ce qui nous impose d’aller bien plus loin que ce qu’a prévu le budget pour 2025. Il faut favoriser la réalisation des projets d’aménagement et de modernisation des exploitations en allégeant le niveau de contraintes environnementales qui est sans équivalent dans le monde.\nRefuser de prendre ces mesures, mes chers collègues, c’est condamner la perspective même du renouveau de notre agriculture nationale et sacrifier notre souveraineté alimentaire, pourtant inscrite dans le titre de ce projet de loi comme sur le fronton du ministère de l’agriculture. Si certains semblent s’y résigner, ce n’est pas notre cas. (« Bravo ! » et applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Françoise Buffet."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Applaudissements nourris pour Richard Ferrand !"
+        },
+        {
+          "orateur": "Mme Françoise Buffet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794798",
+          "texte": "Nous allons enfin adopter, je l’espère, le projet de loi d’orientation pour la souveraineté alimentaire et agricole dont nous débattons depuis près d’un an. Ce texte est très attendu par le monde agricole, mais ses implications dépassent largement les producteurs. Le constat a été maintes fois énoncé : le nombre d’exploitations agricoles devrait diminuer d’un quart entre 2020 et 2035. Dans le même temps, plus de la moitié des agriculteurs devrait partir à la retraite. Assurer le renouvellement des générations agricoles est donc une impérieuse nécessité afin de garantir notre souveraineté alimentaire.\nLa France a toujours été une puissance agricole. Qu’on se souvienne de la manière dont Sully rendait hommage à la paysannerie : « Labourage et pâturage sont les deux mamelles dont la France est alimentée et les vrais mines et trésors du Pérou. » (Rires et exclamations sur quelques bancs du groupe LFI-NFP.) Aujourd’hui encore, notre balance commerciale agricole est excédentaire, mais le péril est grand. Si la France est autosuffisante dans la majorité des filières et pour les trois quarts de sa consommation en volume, elle est déjà déficitaire pour les protéines ainsi que pour les fruits et légumes. L’agriculture n’attire plus et, à côté des grandes exploitations qui parviennent encore à tirer leur épingle du jeu, vivotent une kyrielle d’exploitations familiales faiblement rentables.\nC’est pour négocier le virage difficile du renouvellement des générations que ce texte a été pensé. Il consacre d’abord la souveraineté alimentaire comme intérêt fondamental de la nation et hisse en conséquence l’agriculture, la pêche et l’aquaculture au rang d’activités présentant un intérêt général majeur. La France a souvent été mieux-disante que les directives européennes au détriment de sa compétitivité sur le marché intérieur. Je me réjouis de voir inscrit dans la loi le principe de non-surtransposition."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Ben voyons !"
+        },
+        {
+          "orateur": "Mme Françoise Buffet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794798",
+          "texte": "Au-delà de ces principes, nous devons faire confiance à nos agriculteurs et à nos producteurs. De nombreuses normes contradictoires, trop lourdes ou aberrantes, seront supprimées par le texte et le droit à l’erreur sera généralisé lors des contrôles. Une meilleure reconnaissance du métier d’agriculteur doit aller de pair avec la promotion des métiers agricoles et du vivant dès le plus jeune âge, un programme de formation accélérée, des contrats territoriaux destinés à consolider ou à faire émerger des formations, mais aussi la labellisation d’une formation aux métiers de l’agriculture de niveau bac + 3.\nEnfin, avec France Services agriculture, les cédants et les futurs agriculteurs pourront s’adresser à un guichet unique, porté par les chambres, qui les accompagnera au plus près de leurs besoins."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Quel discours ! On sent la passion qui anime l’oratrice !"
+        },
+        {
+          "orateur": "M. Bastien Lachaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720846",
+          "texte": "Et la conviction !"
+        },
+        {
+          "orateur": "Mme Françoise Buffet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794798",
+          "texte": "Ces dispositions, qui devront être complétées – elles ont déjà commencé à l’être – par d’autres dispositions fiscales favorisant les transmissions en agriculture, permettront d’accompagner le passage de relais, afin d’assurer la résilience de la ferme France.\nJe souhaiterais également insister sur un dernier point qui me tient à cœur : en matière de souveraineté alimentaire, le consommateur a, lui aussi, son rôle à jouer. Soutenir nos agriculteurs, c’est payer notre alimentation au juste prix. Il n’y a pas d’amour sans preuve d’amour, dit-on. La preuve la plus tangible que nous puissions offrir à nos agriculteurs, c’est d’acheter leurs produits, non seulement parce qu’ils sont issus de chez nous – et parce que cela contribue à réduire leur impact environnemental –, mais aussi et surtout parce qu’ils sont bien souvent meilleurs, tant sur le plan gustatif que sanitaire. À cet égard, je salue l’objectif de révision du règlement Inco, le règlement européen concernant l’information des consommateurs sur les denrées alimentaires, afin de renforcer la transparence sur l’origine des produits et les pratiques interdites.\nCertes, cette loi ne résoudra pas tous les problèmes de l’agriculture – ce n’est ni son rôle ni ce qu’on en attend. En revanche, elle dotera la France de l’arsenal juridique qui lui fait cruellement défaut, afin d’assurer le renouvellement des générations et, de ce fait, la pérennité de notre puissance agricole. Pour toutes ces raisons, notre groupe la votera sans réserve. (Applaudissements sur les bancs du groupe EPR et sur quelques bancs du groupe HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme Mathilde Hignet."
+        },
+        {
+          "orateur": "M. Sébastien Delogu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793464",
+          "texte": "Enfin une véritable oratrice !"
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Il y a neuf mois, dans cet hémicycle, je faisais appel au courage. Au courage, d’abord, de ne pas se contenter de rafistoler un modèle productiviste qui s’essouffle. Au courage, ensuite, de relever les défis du monde agricole : revenus, concurrence déloyale, accès à la terre et changement climatique. Au courage, enfin, d’établir ensemble une vision ambitieuse pour l’agriculture et une production alimentaire produite durablement. Nous en sommes bien loin : après des mois d’inaction, le gouvernement s’empresse de terminer l’examen de la loi d’orientation agricole avant l’ouverture du Salon de l’agriculture. Le président Macron chercherait-il à plaire à certains lobbys pour éviter de reproduire le fiasco de l’an dernier ? (Applaudissements sur les bancs du groupe LFI-NFP.)\nNous en sommes donc réduits à traiter en vingt-quatre heures chrono de ce qui devrait être l’avenir de notre agriculture. La commission mixte paritaire se tient le soir même du vote au Sénat, pour un vote à l’Assemblée le lendemain. Ne croyez-vous pas que l’avenir de l’agriculture et la souveraineté alimentaire de notre pays méritent mieux qu’une basse manœuvre d’affichage ? (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Évidemment !"
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Ce n’est pas l’adoption de cette loi avant le Salon de l’agriculture qui fera oublier les politiques libérales ayant conduit à la disparition de 800 000 paysans en vingt-cinq ans. Grâce à ce texte, peut-être pourrez-vous, madame la ministre, déambuler dans les allées du Salon sans être huée. Toutefois, comme tous les textes écrits par la robotique parlementaire de la Macronie, il s’agit d’un concours d’objectifs visant à garantir la souveraineté alimentaire, le revenu des agriculteurs et le renouvellement des générations, sans rien qui permette d’y arriver. (Mêmes mouvements.) Plus que de grands objectifs, le monde agricole attend des actes, des mesures qui agissent concrètement sur son quotidien : une loi qui garantisse des prix rémunérateurs, qui réforme le mode d’attribution des terres, qui simplifie les démarches administratives, qui mette un coup d’arrêt aux caprices des géants de l’agro-industrie et, enfin, qui régule les marchés agricoles. (Applaudissements sur les bancs du groupe LFI-NFP ainsi que sur quelques bancs du groupe EcoS.)\nCette loi d’orientation agricole, dont l’ambition était d’assurer le renouvellement des générations et de mener les transitions agroécologiques et climatiques, a changé de cap. S’agissant du renouvellement des générations, elle fixe des objectifs de 400 000 exploitations agricoles et de 30 % de personnes formées en plus en 2035. Avec quels moyens ? Aucun. (Applaudissements sur quelques bancs du groupe LFI-NFP.)\nComment rendre le métier attractif sans parler de revenus, quand 18 % des ménages agricoles vivent sous le seuil de pauvreté ? Tout travail mérite salaire, mais vous continuez de mettre le sujet sous le tapis ; vous ne faites rien pour le revenu agricole, tout en vous empressant de prolonger l’expérimentation du relèvement du seuil de revente à perte de 10 % et d’arrêter l’encadrement des promotions, pour remplir les poches de la grande distribution. (Applaudissements sur les bancs du groupe LFI-NFP.) Les lois Egalim étaient censées garantir aux agriculteurs un revenu juste, et non gonfler les marges des industriels et des distributeurs !\nL’obsession de la droite à défendre l’agrobusiness et l’agrochimie aura fini par lui faire totalement abandonner les transitions agroécologiques et climatiques."
+        },
+        {
+          "orateur": "M. Bastien Lachaud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720846",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Sécheresses, inondations, grêle, gel : alors que le changement climatique met en danger la production alimentaire française, j’ai du mal à comprendre l’acharnement des sénateurs républicains à faire disparaître le mot « agroécologie » du texte. Le Rassemblement national jubile, car il n’en a rien à faire non plus de l’agroécologie ! (Mêmes mouvements.)\nC’est ça, votre combat pour l’avenir de l’agriculture ? Il ne faut pas tout confondre : la simplification administrative, ce n’est pas le détricotage du droit de l’environnement, mais c’est plus d’humain derrière les guichets de la direction départementale des territoires et de la mer. (Mêmes mouvements.) En fait, vous allez permettre à des industriels de polluer les rivières qui alimentent en eau les fermes, les maisons et les écoles. Je ne suis pas d’accord, et nous sommes des millions à ne pas l’être ! (Mêmes mouvements.) Vous oubliez que porter atteinte à la qualité des sols, de l’eau et de la biodiversité, c’est détruire l’outil de travail des agriculteurs. Si, demain, les terres ne sont plus fertiles, si les cours d’eau sont pollués et les prairies impraticables, que restera-t-il à l’agriculture familiale ? (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)\nVotre vision de l’agriculture est productiviste : comment produire plus pour exporter plus – mais pas pour gagner plus au bout du compte. Et tant pis s’il ne reste qu’une poignée d’agriculteurs, si elle est au service de la rentabilité du groupe Avril ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Une députée du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "Mme Mathilde Hignet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794082",
+          "texte": "Cette loi n’est que de l’enfumage. Demain, les difficultés des agriculteurs seront les mêmes. Que faudra-t-il pour que l’avenir de l’agriculture familiale française soit enfin pris au sérieux, pour qu’on arrête la course à la productivité et au libre-échange, et pour qu’on se concentre sur l’essence même de l’agriculture, sur ce qui fait la fierté du métier de paysan : protéger la terre, nourrir ses voisins et en vivre ? (Les députés du groupe LFI-NFP, ainsi que Mme Claudia Rouaux, se lèvent et applaudissent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Dominique Potier."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Une loi d’orientation doit se projeter sur dix ans : en 2035, que dirons-nous alors du texte soumis au vote ce soir ?"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "2035, Mélenchon président ! Pour son deuxième mandat !"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Nous aurons un moment de sidération et de honte, en raison du décalage entre le contenu de la loi et le diagnostic posé. (Applaudissements sur les bancs du groupe SOC.) Nous sommes face à un mur climatique et au bord d’une falaise démographique. Pourtant, la loi n’apporte pas le moindre début de solution. (Mêmes mouvements.)\nPrès de 150 000 agriculteurs vont quitter la terre entre 2030 et 2035, mais rien n’est proposé pour favoriser la relève générationnelle. Le climat de l’Occitanie sera celui de Séville et le climat du Bassin parisien, celui de l’Occitanie : sommes-nous prêts à organiser la mutation de notre agriculture pour atténuer le dérèglement climatique et nous y adapter ? Rien dans la loi ne nous y prépare – rien. Cette loi d’orientation, qui fait l’impasse sur ces deux sujets fondamentaux, est une faute politique majeure. (Mêmes mouvements.)\nCertes, nous avons pu l’amender. Nous pourrions faire un inventaire à la Prévert des mesures proposées, qui relèvent plutôt du pouvoir réglementaire : une formation, un guichet, bref, quelques améliorations bienvenues mais qui ne dépassent pas la simple rénovation de tuyauterie. Le texte compte aussi des mesures de simplification potentiellement dangereuses, car elles pourraient se traduire par des régressions environnementales. Leur examen lors de l’exercice compliqué de la commission mixte paritaire ne nous a pas permis d’en mesurer l’impact réel.\nÀ voir l’acharnement de nos collègues sénatoriaux de droite – de la droite la plus dure, qui est aussi représentée au sein de cet hémicycle – à détruire avec une telle énergie les acquis de 2014 et le virage de l’agroécologie, et leur obsession à barrer la moindre occurrence de ce terme, on se serait cru dans un système totalitaire soviétique s’employant à un exercice de réécriture de la vérité. C’est incroyable. L’agroécologie consiste à produire autrement, pour réconcilier l’exigence absolue de souveraineté alimentaire, la contribution au commerce équitable et la préservation de nos ressources. C’est cela qui a été gommé par nos collègues sénateurs, avec la bénédiction d’une majorité de députés en CMP. (Applaudissements sur les bancs du groupe SOC.)\nTout est lié : dans les dix ans qui viennent, 10 millions d’hectares – soit un peu plus du tiers de la surface agricole de notre pays – vont changer de main. L’agrandissement des exploitations entraînera un appauvrissement des écosystèmes, la fin de la polyculture-élevage et des phénomènes de déprise, que nous voyons déjà à l’œuvre : 24 % des éleveurs ont disparu en dix ans et 150 000 têtes de bétail disparaissent tous les ans. C’est ce qui risque de se poursuivre si l’agrandissement n’est pas jugulé au profit d’une politique d’installation. Or la loi ne limite pas l’accaparement des terres, qui aura des conséquences écologiques, économiques et sociales dramatiques.\nC’est une faute politique majeure, car l’objectif du texte était précisément d’organiser le foncier pour favoriser la relève. Cela vient d’une volonté politique délibérée de la part de ses auteurs."
+        },
+        {
+          "orateur": "Mme Nicole Le Peih",
+          "fonction": "rapporteure",
+          "role": null,
+          "idActeur": "PA720342",
+          "texte": "Quelle mauvaise foi !"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Cette loi aurait dû être une loi de solidarité, de justice fiscale, de justice dans la distribution des aides de la politique agricole commune et dans le partage de la valeur. Dans l’histoire politique récente, c’est la première fois qu’un texte ne tend pas à favoriser l’agriculture de groupe, la mutualisation et la solidarité. (Applaudissements sur quelques bancs du groupe SOC.) Nous sommes dans une course, totalement dépassée, à la capitalisation, à l’individualisation, au corporatisme et au productivisme. Cette loi ne comporte aucun des mécanismes inventés par nos glorieux ancêtres – chez les socialistes, je pense à François Tanguy-Prigent, inventeur des lois de régulation et de mutualisation, ainsi qu’au génie d’Edgard Pisani. Au lieu de cela, elle s’inscrit dans la bataille de la droite contre les normes. Or les normes, comme leur nom l’indique, c’est ce qui est normal, ce qui nous permet d’être justes. La droite et l’extrême droite sont obsédées par leur combat contre les directives européennes du pacte Vert – nous débattrons bientôt de la loi de M. Duplomb sur la levée des entraves à l’exercice du métier d’agriculteur, une véritable catastrophe écologique qui remet en cause la science. Sans même l’attendre, madame la ministre, vous préparez un décret qui limite la capacité de l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (Anses) à décider librement, au nom de l’intérêt général et de la santé publique, du retrait des molécules les plus dangereuses."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Oh ! N’importe quoi !"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "C’est un mensonge !"
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Nous sommes dans un moment trumpien, alors que nous aurions besoin d’une véritable loi d’orientation agricole. (Applaudissements sur les bancs du groupe SOC, ainsi que sur quelques bancs des groupes EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Julien Dive."
+        },
+        {
+          "orateur": "M. Julien Dive",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA712015",
+          "texte": "Neuf mois, c’est la période de gestation d’une vache – j’en profite pour faire un petit clin d’œil à Oupette, égérie du 61e Salon de l’agriculture – une agriculture si chère à notre rapporteur Lecamp. Neuf mois, c’est le temps moyen que peut prendre une autorisation d’ICPE en agriculture, en comptant les recours. Neuf mois, c’est le délai chaotique qui nous sépare de l’adoption en première lecture, ici même, de la loi d’orientation agricole.\nL’heure est grave, non seulement pour notre agriculture, mais aussi pour l’avenir de notre nation. Ce n’est pas parce que les manifestations des agriculteurs sont moins visibles que leur colère se tarit. Ce qui se joue ici, c’est bien plus qu’une crise sectorielle : c’est la survie de notre souveraineté alimentaire, ainsi que notre capacité à transmettre les exploitations, alors qu’un agriculteur sur deux partira en retraite en 2030, et à refaire de la France une puissance agricole. Ce qui se joue ici, c’est la construction d’une vision claire de ce que nous souhaitons pour l’agriculture et pour l’évolution du pacte entre la France et ses paysans. Au cours des dernières décennies, nos agriculteurs ont été engagés dans une transition majeure, qu’aucun autre secteur n’a eu à subir ; mais la France n’a pas toujours suffisamment conscience de ce qu’elle devait à son agriculture.\nIl y a soixante ans, notre pays ne produisait pas suffisamment de denrées agricoles pour nourrir sa population et nous étions importateurs nets. En 2000, la France était l’un des tout premiers pays exportateurs agricoles du monde. Aujourd’hui, la France est à nouveau importatrice nette, hors boissons. Notre agriculture perd en compétitivité depuis dix ans. Nous devons donc réaffirmer notre vocation à la souveraineté alimentaire et à l’exportation en refusant le déclin et en valorisant l’ensemble du territoire. Pour ce faire, nous devons préserver notre modèle agricole français : performant, diversifié, intégré dans l’économie, avec des exploitations modernes et à taille humaine.\nTrop souvent, les initiatives des agriculteurs sont bridées, étouffées par la complexité des procédures et l’omniprésence administrative. Pour s’épanouir, notre agriculture a besoin d’un cadre législatif qui libère les énergies et favorise les initiatives. C’est l’un des objectifs de ce projet de loi. Je ne renie pas ce que j’ai dit à cette même tribune en mai dernier : notre agriculture avait besoin d’une loi de programmation, qui lui trace une perspective au-delà du texte initial. Mais si l’on ajoute à cette loi les mesures conjoncturelles que vous avez annoncées, madame la ministre, les mesures fiscales du projet de loi de finances, l’engagement définitif de la réforme des retraites agricoles et les prochaines mesures dont nous aurons à débattre sur les négociations commerciales, le foncier ou la lutte contre les entraves, cela dessine bien une programmation.\nAu moment de son dépôt au printemps 2024, le champ du texte était trop restreint et nous l’avons étendu. Le groupe Droite républicaine a obtenu des avancées concrètes : la lutte contre la financiarisation du foncier agricole, avec un amendement du Corrézien Francis Dubois ; la préservation des surfaces agricoles utiles et la lutte contre la décapitalisation de l’élevage, grâce à des amendements que j’avais déposés ; l’adaptation de la formation et l’amélioration de la place des femmes en agriculture, grâce à des amendements que vous avez fait adopter sur ces bancs, madame la ministre ; l’adaptation de l’entretien des haies aux réalités locales – c’est du bon sens –, grâce à l’un de mes amendements ; enfin, la dépénalisation et le droit à l’erreur pour nos agriculteurs dans des actions non intentionnelles, grâce à un amendement d’Anne-Laure Blin.\nLe texte issu de la CMP, après les débats au Sénat, préserve ces avancées et répond à plusieurs attentes du monde agricole dans son ensemble : fixation des objectifs en bio et en légumineuses ; maintien de l’exemption de l’objectif ZAN pour les bâtiments agricoles ; ajout d’une tolérance raisonnable pour le cadre ICPE, en matière d’élevage uniquement ; création, enfin, de France Services agriculture pour l’accompagnement à la transmission, à l’essai et à la reprise.\nPourtant, la tâche n’est pas accomplie. Notre souveraineté alimentaire n’est pas garantie et notre agriculture fait face à une concurrence féroce et déloyale sur un marché mondial moins-disant, et du fait de traités de libre-échange dangereux. Elle se heurte toujours à l’enjeu d’une meilleure rémunération et la question d’une nouvelle loi Egalim se pose légitimement. Madame la ministre, nous serons à vos côtés pour relever ces défis.\nLa France a besoin de ses agriculteurs. Ils ne demandent pas l’aumône, mais la reconnaissance de leur travail et les moyens de l’accomplir. Continuons à les soutenir et votons ce texte pour leur donner progressivement, au fil des avancées politiques, des outils pour nourrir la France. La présidente Aurélie Trouvé a dit hier en CMP qu’il s’agissait de la loi Duplomb ; à l’issue des débats à l’Assemblée nationale, elle avait dit qu’il s’agissait de la loi Dive. Eh bien moi, je dis qu’il s’agit de la loi Genevard, et le groupe Droite républicaine n’aura donc aucune difficulté à voter ce texte issu de la CMP. (Applaudissements sur les bancs du groupe DR. – Mme la rapporteure applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Benoît Biteau."
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Il y a un an débutait, dans tout le pays, une grande mobilisation des agriculteurs, qui manifestaient leur détresse et leur colère face au traitement que leur réservent les politiques publiques et les règles commerciales mondialisées. Alors, quand vous avez annoncé une loi d’orientation agricole pour le renouvellement des générations et la souveraineté alimentaire, je dois vous le concéder, j’ai quand même un peu espéré.\nJ’ai espéré que cesse l’hémorragie qui a fait disparaître près de 50 % des agriculteurs depuis 2000. J’ai espéré que l’on comprenne que le modèle actuel, qui veut coûte que coûte exporter, nous a finalement conduits à doubler nos importations alimentaires. J’ai espéré qu’on s’attaque à l’accaparement du foncier, qui bloque le renouvellement des générations et favorise la concentration de structures, devenues finalement intransmissibles. J’ai espéré que nous fassions enfin tous référence à la même définition de la souveraineté alimentaire, celle retenue par l’ONU et par l’Organisation des Nations unies pour l’alimentation et l’agriculture (FAO), afin de prendre conscience que ce qui la menace réellement, c’est le dérèglement climatique et l’effondrement de la biodiversité. Vous ne faites qu’en parler et vous n’avez pas un échantillon sur vous, aurait dit Coluche.\nJe me disais naïvement qu’on allait protéger les agriculteurs des accords de libre-échange, construire un revenu des agriculteurs en les rémunérant pour qu’ils prennent soin de notre santé, du climat, de la biodiversité, des ressources vitales, comme l’eau que nous buvons chaque jour et l’air que nous respirons à chaque instant. Je me disais qu’on allait développer la filière bio, seule capable de nous nourrir sainement et d’être aux rendez-vous de l’histoire sur ces enjeux stratégiques. Je me disais qu’on allait déployer les politiques publiques nécessaires pour atteindre ces objectifs. Et, surprise, il n’en est rien.\nVous avez désigné l’environnement comme ennemi public numéro un de l’agriculture : consécration du principe démagogique « pas d’interdiction sans solutions économiquement viables et techniquement efficaces », alors que les solutions s’appellent agronomie, agroécologie, lutte biologique (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP. – M. Dominique Potier applaudit également) ; permission de détruire la biodiversité, pourtant vitale pour réussir la bifurcation agroécologique ; suppression de la démarche ICPE pour certaines infrastructures agricoles, qui expose nos territoires à une industrialisation anarchique et dangereuse ; remise en cause du ZAN, en sortant les bâtiments agricoles du champ de la loi (Mêmes mouvements),…"
+        },
+        {
+          "orateur": "M. Vincent Descoeur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330909",
+          "texte": "C’est salutaire !"
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "…comme si un poulailler industriel ne constituait pas une consommation inadéquate du foncier agricole ; contestation de la loi « littoral » qui menace l’avenir d’activités primaires en mer comme la pêche ou la conchyliculture ; facilitation de la création de mégabassines, qui confisquent l’eau pour une agriculture intensive au mépris de son partage équitable entre les agriculteurs et des différents usages de l’eau, tels que hiérarchisés dans le code de l’environnement ; (Applaudissements sur quelques bancs des groupes EcoS, LFI-NFP et SOC) ; inversion du principe de non-régression, hypothéquant l’espoir de préserver la fertilité des sols. Que de folies !\nQu’allez-vous dire aux agriculteurs quand ils se rendront compte que ce texte ne change absolument rien à leurs problèmes ? Qu’allez-vous dire aux agriculteurs atteints de cancers reconnus comme maladies professionnelles ? (Mêmes mouvements.) Qu’allez-vous dire aux parents qui, comme c’est arrivé dans ma circonscription, retrouvent des pesticides dangereux dans les cheveux de leurs enfants, et dont certains sont atteints d’un cancer ? (Exclamations sur quelques bancs des groupes DR et HOR.) Comment pouvez-vous regarder les générations futures, vos enfants, et ne pas avoir honte ? J’ai honte pour vous."
+        },
+        {
+          "orateur": "M. François-Xavier Ceccoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841047",
+          "texte": "C’est vous qui devriez avoir honte !"
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "J’ai honte de ce texte, parce qu’il condamne aujourd’hui et demain. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.) Vos délires libéraux, qui font la pluie et le beau temps de l’agriculture depuis au moins trente-cinq ans, nous ont conduits à cette misère. Et vous persistez et signez, ce qui confirme que ce n’est décidément pas avec ceux qui sont à l’origine du problème que nous pouvons trouver les solutions. Au contraire, vous accélérez la chute.\nAgriculteur moi-même (Exclamations et sourires sur quelques bancs des groupes DR et UDR)…"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Ah, ça vous dérange, un agriculteur à la tribune ! Des grands bourgeois, voilà ce que vous êtes !"
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "…et témoin du désastre lié à l’effondrement de la biodiversité et au dérèglement climatique, je n’ai plus qu’une certitude, qui me permet de dénoncer l’hérésie que constitue ce texte : pour la souveraineté alimentaire, pour les agriculteurs et pour nos enfants, l’écologie plus tard, c’est l’écologie trop tard ! Nous voterons donc contre ce texte, qui est un contresens historique. (Applaudissements sur les bancs des groupes EcoS, LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Éric Martineau."
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Enfin, nous sommes parvenus à un accord sur le projet de loi d’orientation pour la souveraineté en matière agricole et le renouvellement des générations en agriculture. Plus de dix mois après le début de son examen, le texte est en passe d’être définitivement adopté par notre assemblée. C’est un texte très attendu du monde agricole, puisqu’il vient apporter des solutions concrètes aux agriculteurs, notamment en termes de simplification, mais aussi préparer l’avenir de notre production agricole, à travers la priorité donnée aux enjeux d’enseignement, d’installation et de transmission.\nCe projet de loi découle du pacte d’orientation pour le renouvellement des générations en agriculture, présenté en décembre 2023, qui fixait l’objectif stratégique de rebâtir la souveraineté alimentaire du pays en relevant les défis du changement climatique. Il faut avoir pour objectif de maintenir le nombre d’agriculteurs en France, quand on sait que plus d’un agriculteur sur deux partira à la retraite d’ici 2030.\nL’agriculture est vitale pour la France et doit le rester. Il est absolument indispensable de protéger notre souveraineté alimentaire et d’assurer l’avenir de nos exploitations agricoles. Il y va de la sécurité alimentaire de tous les Français, de la qualité de notre alimentation, de notre adaptabilité aux crises, de notre résilience économique et de la préservation de l’environnement. Aux côtés de mes collègues du groupe Les Démocrates, je souhaite mettre en exergue les forces de notre agriculture, et surtout rendre hommage à nos agriculteurs.\nJe tiens également à souligner l’engagement de l’État, celui de Mme la ministre, Annie Genevard, et de M. Marc Fesneau, qui a aussi été en première ligne sur ce sujet ces derniers mois. (Mme Geneviève Darrieussecq applaudit.) Le ministère de l’agriculture a été présent et à l’écoute des agriculteurs pour répondre à leurs craintes et à leurs attentes lors de moments difficiles. À travers ce texte, il s’agit de valoriser et de protéger notre agriculture en améliorant l’attractivité de la profession agricole et la compétitivité du secteur agricole, et en donnant à notre agriculture les moyens nécessaires pour produire.\nSi nous sommes conscients des défis collectifs que nous devons relever en matière d’agriculture, je veux aussi rappeler quelques éléments qui font la solidité de notre modèle. Nos aliments, d’abord, sont produits avec l’exigence de la plus haute qualité, ce qui peut et doit rendre fiers nos concitoyens. Ensuite, l’État investit massivement dans l’agriculture, en particulier dans la transition écologique et pour relever les défis technologiques, notamment à travers le plan France 2030."
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Une langue morte !"
+        },
+        {
+          "orateur": "M. Éric Martineau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795100",
+          "texte": "Cette loi fixe un cap clair pour notre souveraineté alimentaire : il s’agit de réduire notre dépendance et de garantir l’installation des agriculteurs et la transmission des exploitations, sachant qu’un agriculteur sur deux partira à la retraite d’ici à 2030.\nLe guichet unique pour les transmissions d’exploitations, baptisé France Services agriculture, le bachelor, ou licence agricole, ou encore le stress test pour la transmission des exploitations, seront autant d’outils à la disposition des nouvelles générations d’agriculteurs pour atteindre ces objectifs. Sans oublier le volet simplification du texte qui, loin d’aller contre l’environnement, permettra de favoriser l’implantation de haies, par exemple, en rendant plus facile leur gestion, tout en simplifiant les procédures et contrôles.\nJe tiens à saluer le travail des rapporteurs de la commission mixte paritaire, nos collègues Pascal Lecamp et Nicole Le Peih, qui ont su, dans un temps contraint, adopter un texte de compromis préservant des mesures essentielles. (Applaudissements sur quelques bancs du groupe Dem.) Je pense également à Pascal Lavergne et à Éric Girardin, dont je salue l’engagement, ainsi qu’à Anne-Laure Babault et Stéphane Travert.\nL’Assemblée a plus particulièrement souhaité rétablir l’objectif de 21 % des surfaces agricoles utilisées en agriculture biologique en 2030, réintroduire la notion de « transition environnementale et climatique » et, de manière générale, conforter la place centrale qui est redonnée au renouvellement des générations d’agriculteurs dans ce projet de loi. Grâce à ce texte, nous reconnaissons que la protection, la valorisation et le développement de l’agriculture et de la pêche constituent un intérêt général majeur, puisque cela assure l’accès de l’ensemble de la population à une alimentation saine.\nÀ titre personnel, je regrette la suppression de l’article 1er ter par le Sénat, qui n’a pas été rétabli par la CMP, malgré le maintien du régime cadre relatif aux organisations de producteurs dans le secteur agricole. Il visait à aider les agriculteurs à se structurer, se constituer en organisations de producteurs (OP) et associations d’organisation de producteurs. Une mesure que j’avais soutenue, en tant qu’ancien président d’OP, et qui me semble essentielle pour favoriser la structuration des filières et assurer un revenu aux agriculteurs. Malgré ce point, il est important de souligner le travail réalisé sur ce texte.\nNos agriculteurs, notamment les plus jeunes, ou ceux qui veulent s’installer, attendaient cette loi d’orientation. Elle leur permettra de travailler dans un environnement sécurisé. Le groupe Les Démocrates salue les avancées contenues dans ce projet de loi et il le votera. (Applaudissements sur les bancs du groupe Dem. – Mme la rapporteure applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Thierry Benoit."
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Madame la ministre, je suis heureux de vous retrouver pour parler de ce projet de loi d’orientation agricole. Je le dis comme je le pense, et ce n’est pas vous faire injure, puisque vous avez pris ce texte en cours de route : pour moi, il s’agit d’une loi d’ajustement technique, et non d’une loi d’orientation agricole."
+        },
+        {
+          "orateur": "M. Dominique Potier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA607553",
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Grâce à votre persévérance, quelques principes fondamentaux ont tout de même été rappelés dans ce texte. L’agriculture y accède à la qualification d’« intérêt général majeur » et notre potentiel agricole et agroalimentaire y est déclaré présenter un intérêt fondamental pour la nation. On réaffirme ainsi notre volonté politique de soutenir une agriculture de production et de progresser en matière de souveraineté alimentaire.\nDepuis dix ans, notre agriculture perd en compétitivité : de 12 milliards d’euros en 2011, son excédent est passé en 2023 à 5,3 milliards. C’est dire s’il y a matière à soutenir une agriculture de production. S’agissant du renouvellement des générations, le texte présente deux points forts : en matière technique, un guichet d’accueil unique dans les chambres d’agriculture, grâce à France Services agriculture ; en matière de formation, le programme national d’orientation et de découverte des métiers de l’agriculture et de l’agroalimentaire, dont l’intérêt pour les jeunes publics sera certainement supérieur à celui du bachelor, que je qualifierais d’anecdotique.\nLa dépénalisation des atteintes à l’environnement non intentionnelles va dans le bon sens : il était scandaleux que des agriculteurs soient sanctionnés pénalement à la suite d’atteintes involontaires. Également intéressantes, les dispositions visant à accélérer le traitement des contentieux agricoles ; j’aurais même apprécié que nous allions plus loin au sujet des ICPE. Je regrette d’ailleurs qu’alors que nous aurions pu pousser une agriculture de production, les ICPE, l’élevage conventionnel que l’on trouve dans l’Ouest et en même temps une agriculture biologique, nous ne l’ayons pas fait. Je me réjouis en revanche, madame la rapporteure, que vous ayez fait rétablir en CMP l’objectif de 21 % de surface agricole utile consacrée à cette dernière en 2030 : l’agriculture biologique doit être soutenue avec force, car elle entraîne l’agriculture conventionnelle vers la transition environnementale et climatique. Certains, sur les bancs de la gauche, se sont émus de la disparition,…"
+        },
+        {
+          "orateur": "Mme Julie Ozenne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842045",
+          "texte": "Des abeilles !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "…ou plutôt de ce qu’ils ont cru être la disparition, de la notion fondamentale d’agroécologie ; or celle-ci, que j’ai défendue à l’époque où Stéphane Le Foll nous a soumis la future loi du 13 octobre 2014,…"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "…s’inscrit dans un continuum allant de l’agriculture écologiquement intensive, voulue par Michel Barnier il y a quinze ans, à notre transition climatique et environnementale.\nSi nous voulons que la ferme France retrouve sa place dans le concert des nations, notamment en Europe, il faudra que Mme la ministre de l’agriculture puisse peser au sein de l’Union européenne, que les aides accordées au titre de la PAC soient moins liées à la surface, davantage aux travailleurs au sein des exploitations et à l’élevage, particulièrement au pâturage. (MM. Nicolas Bonnet et Benoît Biteau applaudissent.) Je conclurai en remerciant Pascal Lecamp et Nicole Le Peih, mais aussi les rapporteurs chargés avec eux de ce texte avant la dissolution, Pascal Lavergne et mon ami Éric Girardin, à qui j’adresse une pensée affectueuse."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Merci, cher collègue."
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "Pardonnez-moi pour ce problème de cordes vocales qui persiste :…"
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Thym, citron, miel !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Si possible sans néonicotinoïdes !"
+        },
+        {
+          "orateur": "M. Thierry Benoit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332228",
+          "texte": "…je fais ce que je peux, en me nourrissant des produits d’une agriculture saine et durable pour la santé de tous ! (« Bravo ! » et applaudissements sur les bancs du groupe HOR. – Applaudissements sur les bancs des groupes EPR, DR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. David Taupiac."
+        },
+        {
+          "orateur": "M. David Taupiac",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793796",
+          "texte": "Il y a un peu plus d’un an, le monde agricole, d’un bout à l’autre du pays, laissait éclater une colère, un désarroi dus à des années d’inaction et de surdité des pouvoirs publics. En 2022, tandis que les défis se succédaient pour nos exploitants, le président de la République avait promis de soulager leurs souffrances par une grande loi agricole, qui fut maintes fois reportée : il aura fallu une véritable révolte paysanne pour que soit ouvert ce débat si attendu. Quelle ne fut pas notre déception en découvrant la vacuité du projet de loi ! Pas un mot des revenus agricoles, de la préservation du foncier, du changement climatique, du nécessaire soutien à la filière bio, du système assurantiel, de la fiscalité – sur ce dernier point, nous devions finalement obtenir des avancées dans le cadre du projet de loi de finances. En somme, rien qui ait trait aux urgences les plus criantes ni à l’avenir de la ferme France ; et le président de la République, en prenant la décision irresponsable de dissoudre l’Assemblée nationale, a laissé en suspens les avancées mineures que promettait ce texte. Or celui-ci, à quelques jours du Salon de l’agriculture, vient de reprendre subitement son parcours législatif."
+        },
+        {
+          "orateur": "Mme Dominique Voynet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2940",
+          "texte": "Faut pas se forcer !"
+        },
+        {
+          "orateur": "M. David Taupiac",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793796",
+          "texte": "Adopté hier par le Sénat en séance publique, expédié le même jour en CMP, rendu public il y a quelques heures, voilà dans quelles conditions la représentation nationale doit à présent statuer sur ce qui nous avait été annoncé comme « le » texte de planification agricole du second quinquennat d’Emmanuel Macron… Quelle déception, je le répète, quel scandale ! Nos agriculteurs méritent mieux qu’un débat bâclé. Outre son aspect lacunaire, outre l’absence de toute mesure ayant trait à la revendication première des agriculteurs – l’assurance, pour tous, d’un revenu décent à la hauteur de leur engagement –, la version qui nous est présentée entérine d’inquiétants reculs en termes de défense de l’environnement. Je m’inquiète qu’il ne s’y trouve plus aucune mention de l’agroécologie, notion qui pourtant fait l’unanimité dans cet hémicycle et figure au sein du plan stratégique national français de la France pour la PAC ; absence d’autant plus effarante que l’importance de cet enjeu, déjà capital, va s’amplifier à mesure que s’aggraveront la raréfaction de la ressource en eau, la chute de la biodiversité et l’appauvrissement des sols.\nS’ajoutent à cela des mesures politiciennes dont l’effet demeure incertain, notamment l’ajout du « principe de non-régression de la souveraineté alimentaire », en vue de faire pendant à la non-régression environnementale. Je regrette que ces modifications, souhaitées par la majorité sénatoriale, conduisent, par pur souci de la communication, à opposer entre eux les modèles agricoles, au moment où nous devrions convenir collectivement de la nécessité d’adapter notre agriculture aux enjeux climatiques.\nIl n’en demeure pas moins que ce texte comprend des mesures concrètes, tangibles, telles que les attendent nos agriculteurs : je pense à la création bienvenue d’un guichet unique pour les transmissions d’exploitations, baptisé France Services agriculture,…"
+        },
+        {
+          "orateur": "M. Benoît Biteau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840997",
+          "texte": "Ça existait déjà !"
+        },
+        {
+          "orateur": "M. David Taupiac",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793796",
+          "texte": "…qui permettra à terme un accompagnement personnalisé et approfondi des personnes souhaitant s’installer ou céder leur installation. Je note également le renforcement des diagnostics modulaires, répondant à une forte aspiration des jeunes agriculteurs, qui contribuera à une évaluation plus efficace des exploitations, durant tout leur cycle de vie, d’un point de vue à la fois économique, social et environnemental. Reste une incertitude : les moyens qui y seront consacrés. Les 32 millions d’euros promis l’année dernière se retrouveront-ils dans le prochain budget ?\nEnfin, je salue la réintroduction de l’objectif « que l’agriculture biologique représente 21 % de la surface agricole utile cultivée au 1er janvier 2030 », l’instauration d’un volontariat agricole et d’un droit à l’essai. Je suis satisfait de constater qu’ont été retenues quelques-unes des propositions du groupe LIOT, entre autres la détermination d’objectifs chiffrés concernant l’augmentation du nombre de personnes formées aux métiers agricoles, ainsi que des adaptations destinées aux groupements agricoles d’exploitation en commun (Gaec).\nParce que nous devons à nos agriculteurs des avancées concrètes, si marginales soient-elles, les membres du groupe LIOT se prononceront en faveur du texte – ou pour certains s’abstiendront. Ne nous y trompons pas : ce projet de loi ne réglera pas les problèmes signalés. Les difficultés s’intensifient : il nous faudra rapidement nous remettre au travail, afin de donner enfin des perspectives à la ferme France. (Applaudissements sur les bancs du groupe LIOT, ainsi que sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "Avant de donner la parole aux deux derniers orateurs de la discussion générale, je vous rappelle que la conférence des présidents a décidé que ce projet de loi, dans le texte de la CMP, ferait l’objet d’un scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n La parole est à M. André Chassaigne."
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "Après de longs mois d’attente, de colère ininterrompue du monde paysan, ce projet de loi touche au but ; mais comment ne pas dénoncer les conditions dans lesquelles il achève son parcours ? L’impératif qu’il soit bouclé avant le Salon de l’agriculture, comme s’il s’agissait d’un laissez-passer permettant de circuler sereinement dans ses allées (Sourires et applaudissements sur les bancs des groupes GDR et EcoS), renvoie à une image dévalorisante (M. Dominique Potier applaudit) du monde agricole, qui contraindrait les parlementaires à légiférer le pistolet sur la tempe. Quant à la réunion de la CMP, on pourrait la mettre en bocal, comme spécimen de dérive antidémocratique ! (Applaudissements sur quelques bancs des groupes GDR, LFI-NFP et EcoS.) La vérité, c’est que nous avons été réduits à beurrer les sandwichs…"
+        },
+        {
+          "orateur": "M. Fabien Di Filippo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720386",
+          "texte": "Excusez-moi, monsieur Chassaigne, mais vous les avez tous mangés !"
+        },
+        {
+          "orateur": "M. André Chassaigne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267306",
+          "texte": "…par la volonté des quatre rapporteurs – les nôtres et ceux du Sénat – de ne pas modifier une ligne du texte qu’ils avaient élaboré sous l’emprise d’un maître du jeu inébranlable, attaché à ne pas plomber son idéologie dévastatrice. (Applaudissements sur les bancs du groupe EcoS. – M. Dominique Potier applaudit également.) Des débats sans débats, une CMP qui n’en avait que le nom, tenue sous une chape de plomb sénatoriale, et l’approbation servile de la plupart des représentants de notre assemblée ! (Mêmes mouvements. – M. Édouard Bénard applaudit également.)\nEn première lecture, la grande majorité du groupe de la Gauche démocrate et républicaine s’était abstenue lors du vote. Le texte issu de nos débats ne correspondait pas aux grands enjeux d’une agriculture française qui décroche depuis dix ans et ne parvient plus à assurer la relève des générations ; il ne relevait pas le défi de l’accès au foncier, de la lutte contre un accaparement des terres qui nuit à l’agriculture à taille humaine ; il ne permettait pas aux éleveurs, fragilisés, de surmonter leur découragement ; il ne prenait pas en compte la spécificité des territoires ultramarins, l’urgence d’accroître leur autonomie alimentaire en développant l’agriculture locale ; il ne répondait pas à la question des prix rémunérateurs, essentielle pour cette profession où l’on peut travailler 70 heures par semaine et gagner moins que le smic ; il n’abordait pas le sujet des traités de libre-échange qui attaquent notre modèle agricole. (MM. Édouard Bénard et Benoît Biteau applaudissent.)\nLe ministre de l’époque le sait : nous avions défendu ce qui pouvait l’être, permis ou accompagné quelques avancées, par exemple une certaine ambition pour l’agriculture biologique, rejeté l’introduction massive de fonds d’investissement privés dans l’agriculture par le biais des groupements fonciers agricoles d’investissement. Ce n’était pas le texte que nous voulions, mais nous avions fait porter à son crédit la prise en compte des difficultés d’installation des jeunes agriculteurs, avec la création des guichets France Services agriculture, ou quelques perspectives supplémentaires données à l’enseignement agricole. Malheureusement, plutôt que de poursuivre dans le bon sens, le Sénat, suivi d’une CMP à sa botte, a engagé une dérive dangereuse en établissant un clivage entre agriculture et écologie.\nL’article 6, qui concerne la formation, mettra ainsi à mal les enseignements portant sur l’agroforesterie ou la transition agroécologique ; l’article 13 prévoit une dangereuse régression du droit environnemental, une déréglementation dont les années ne manqueront pas de révéler les effets contraires à l’intérêt général. De plus, nombre de dispositions partent du postulat que la planche de salut de notre agriculture serait la recherche de compétitivité à tout prix, et visent à intensifier la productivité au mépris de contraintes réglementaires, voire de préconisations scientifiques.\nC’est le cas de l’article 9 qui incite, de fait, à la spécialisation, au nom de la viabilité économique et au détriment de la souveraineté alimentaire et de l’agronomie.\nEnfin – et c’est le seul semblant de débat que nous avons eu au cours de la CMP –, le Sénat a tenté de faire revenir par la fenêtre les GFAI, par le biais d’investisseurs privés ; opération partiellement rejetée, grâce à une formule alambiquée mêlant fonds publics et fonds privés, dans un amphigouri qui n’augure rien de bon !\nChacun aura compris que notre vote ne sera pas celui de la première lecture. Les députés communistes et du groupe de la Gauche démocrate et républicaine assumeront avec responsabilité le rejet du texte dans les allées de cet emblématique événement qu’est le Salon de l’agriculture, qui rassemble les passionnés de la terre et leurs soutiens indéfectibles. (Applaudissements sur les bancs du groupe GDR, ainsi que sur plusieurs bancs des groupes SOC et EcoS. – M. le rapporteur applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794022",
+          "texte": "La parole est à M. Matthieu Bloch."
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Nous voici enfin parvenus à l’étape ultime du tant attendu projet de loi d’orientation agricole, près d’un an après le début de son examen."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "J’espère qu’il va rendre hommage à la ministre !"
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Aux esprits prompts à le réduire à de simples mesurettes, je réponds qu’il s’agit, au contraire, d’un socle fondateur, d’un premier jalon sur lequel nous devons construire l’avenir de l’agriculture française.\nCe texte apporte de premières réponses concrètes aux problèmes des agriculteurs et remet un peu d’équilibre, face à une écologie devenue trop souvent punitive. Toutefois, il nous faudra aller beaucoup plus loin pour rendre toute sa compétitivité à un secteur malmené, qui fait pourtant depuis des siècles la fierté de nos terres françaises.\nLe secteur agricole traverse une période de turbulences sans précédent. Les manifestations d’agriculteurs, au début de l’année 2024, ont mis en lumière les difficultés croissantes qu’ils rencontrent : effondrement des revenus, concurrence déloyale, poids écrasant de normes administratives kafkaïennes et menaces liées aux accords de libre-échange.\nCe projet de loi envoie un premier signal fort : il n’y aura pas de souveraineté alimentaire sans respect de celles et de ceux qui nous nourrissent. Il entérine ainsi une avancée essentielle, en revenant sur la pénalisation de la destruction de la biodiversité. En effet, sous prétexte d’écologie, nous en étions arrivés au point qu’un agriculteur pouvait être inquiété pénalement pour des faits totalement accidentels. Il fallait dire stop, amis de gauche, à l’agribashing !"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Ce n’est pas de l’agribashing. Cela n’a rien à voir !"
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Le texte prévoit toutefois de remplacer les sanctions pénales par des amendes administratives, qui risquent de faire peser sur les agriculteurs de nouvelles contraintes, tout en laissant la porte ouverte aux revendications d’activistes écologistes.\nQue cela plaise ou non, la dynamique actuelle va dans le sens d’une simplification nécessaire et attendue. Les agriculteurs sont, avant tout, des entrepreneurs qui doivent se consacrer pleinement à leur métier, sans être noyés sous des contraintes administratives étouffantes. (Mme Mathilde Panot s’exclame.) L’accès au foncier, les normes environnementales, la transmission des exploitations : ces sujets doivent être abordés au prisme d’un objectif clair, celui de la compétitivité de l’agriculture française.\nEn cela, nous déplorons que le projet de loi ne propose pas de véritables réformes structurelles afin d’aider les agriculteurs à mieux vendre leur production et à obtenir des prix justes."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Quelle honte !"
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Il aurait fallu prévoir des baisses de charges et de fiscalité, pour permettre aux exploitations de rester rentables face à la hausse des coûts de production et à la concurrence internationale féroce."
+        },
+        {
+          "orateur": "M. Sébastien Delogu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793464",
+          "texte": "N’importe quoi !"
+        },
+        {
+          "orateur": "M. Matthieu Bloch",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840889",
+          "texte": "Emmanuel Macron n’a pas su s’opposer au traité de libre-échange avec le Mercosur, qui menace directement nos filières. Il nous revient donc de donner à l’agriculture les armes pour se défendre ! Car ce n’est qu’un début. Là où l’excès de normes paralyse, nous simplifierons. Là où la bureaucratie entrave, nous détricoterons. Là où les agriculteurs sont empêchés de produire, nous leur rendrons leur liberté. Il faut couper court aux absurdités administratives qui les étouffent, pendant que des cargaisons de denrées, provenant de l’autre bout du monde, entrent en France sans respecter nos propres exigences. Cessons d’agiter l’épouvantail du laisser-faire : alléger la bureaucratie, ce n’est pas sacrifier l’environnement, mais simplement permettre à ceux qui nourrissent la France de travailler avec efficacité et bon sens. N’oublions jamais que les agriculteurs sont les premiers vrais écologistes. (Mme Dominique Voynet rit.)\nUn autre axe essentiel du projet de loi concerne le renouvellement des générations en agriculture. Alors qu’un agriculteur sur deux atteindra l’âge de la retraite à l’horizon de 2030, il est impératif de faciliter l’installation des jeunes agriculteurs. La création du guichet unique France Services agriculture, prévue en 2027, va dans le bon sens ; néanmoins, il aurait fallu y associer des incitations fiscales plus attractives.\nEn votant ce projet de loi, le groupe Union des droites pour la République affirme son soutien indéfectible aux agriculteurs. Nous leur devons reconnaissance et protection.\nUn point de vigilance s’impose toutefois s’agissant du principe de non-régression de la souveraineté alimentaire. Comment cet équilibre sera-t-il arbitré lorsque la souveraineté alimentaire et les impératifs environnementaux entreront en contradiction ? Nous l’avons constaté avec l’interdiction de certains produits phytopharmaceutiques : des décisions prises au nom de l’écologie, parfois déconnectées des réalités du terrain, ont laissé les agriculteurs sans solutions alternatives viables. (Applaudissements sur quelques bancs du groupe RN.) Comment s’assurer que la souveraineté alimentaire ne sera pas reléguée au second plan, dès qu’une pression idéologique ou technocratique se fera sentir ? Ce principe risque de devenir un vœu pieux, vidé de sa substance par des arbitrages biaisés en faveur d’une écologie déconnectée des enjeux économiques et stratégiques.\nLe groupe UDR et ses alliés du groupe Rassemblement national seront donc vigilants sur la manière dont ce texte sera appliqué et, surtout, sur les mécanismes concrets qui garantiront que la production agricole ne sera plus sacrifiée sur l’autel de normes toujours plus contraignantes. (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La discussion générale est close."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639298",
+      "valeurPtsOdj": "1",
+      "titre": "Texte de la commission mixte paritaire",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "J’appelle maintenant le texte de la commission mixte paritaire. Conformément à l’article 113, alinéa 3, du règlement, je vais d’abord appeler l’Assemblée à statuer sur les amendements dont je suis saisi. (« Oh ! » sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Ce ne sont que des amendements rédactionnels !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Rassurez-vous, chers collègues, il y en a peu !\nLa parole est à Mme la ministre, pour soutenir l’amendement no 6."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Je vous confirme qu’il s’agit essentiellement d’amendements rédactionnels. (« Ah ! » sur quelques bancs des groupes LFI-NFP, SOC et EcoS.) C’est le cas de l’amendement no 6."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 6, accepté par la commission, modifiant l’article 3, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 1."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il s’agit d’un amendement de coordination juridique."
+        },
+        {
+          "orateur": "Plusieurs députés du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Mais bien sûr !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1, accepté par la commission, modifiant l’article 3, est adopté.)"
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "Ils ne savent même pas ce qu’ils votent !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639310",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 8, accepté par la commission, modifiant l’article 3, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 8."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il concerne l’aquaculture, déjà comprise dans le champ des activités agricoles, et vise à harmoniser une définition entre les établissements publics et privés."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 8, accepté par la commission, modifiant l’article 3, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639313",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 7, accepté par la commission, modifiant l’article 3, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 7."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il a trait aux ateliers technologiques, qui sont présents dans les établissements publics et privés. Il permettra aux exploitations agricoles pédagogiques de bénéficier des mêmes aides que toute exploitation agricole."
+        },
+        {
+          "orateur": "M. Ian Boucard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721816",
+          "texte": "C’est bien ! Bonne idée !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 7, accepté par la commission, modifiant l’article 3, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639317",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 2, accepté par la commission, modifiant l’article 3, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 2."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il s’agit d’un amendement de coordination juridique."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2, accepté par la commission, modifiant l’article 3, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639321",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 3, accepté par la commission, modifiant l’article 5 bis, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 3."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il s’agit également d’un amendement de coordination juridique."
+        },
+        {
+          "orateur": "Mme Julie Ozenne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842045",
+          "texte": "Ils se sont trompés de référence !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3, accepté par la commission, modifiant l’article 5 bis, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639325",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 4, accepté par la commission, modifiant l’article 10, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 4."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il s’agit encore d’un amendement de coordination juridique. (« Ah ! » sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Julie Ozenne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842045",
+          "texte": "Ils se sont trompés de référence !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 4, accepté par la commission, modifiant l’article 10, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639329",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 5, accepté par la commission, modifiant l’article 14 bis A, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 5."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Il vise à corriger une erreur de référence juridique. (« Ah ! » et rires sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 5, accepté par la commission, modifiant l’article 14 bis A, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639332",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 9, accepté par la commission, modifiant l’article 21, est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 9."
+        },
+        {
+          "orateur": "Mme Annie Genevard",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA605991",
+          "texte": "Cet amendement à l’article 21 porte de six mois à douze mois le délai d’habilitation des ordonnances. (« Oh ! » sur plusieurs bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Oh ben alors !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 9, accepté par la commission, modifiant l’article 21, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Nous avons achevé l’examen des amendements."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639336",
+      "valeurPtsOdj": "1",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Je mets aux voix l’ensemble du projet de loi, tel qu’il est issu de la commission mixte paritaire, modifié par les amendements qui viennent d’être adoptés."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        531\n        Nombre de suffrages exprimés                529\n        Majorité absolue                        265\n                Pour l’adoption                369\n                Contre                160"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le projet de loi est adopté.)\n (Applaudissements sur plusieurs bancs des groupes RN, EPR, DR, Dem, HOR, LIOT et UDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3639342",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794022",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Discussion de la proposition de loi visant à protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées ;\n Discussion de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultrariches ;\n Discussion de la proposition de loi d’expérimentation visant à l’instauration d’une sécurité sociale de l’alimentation ;\n Discussion de la proposition de loi visant à protéger durablement la qualité de l’eau potable ;\n Discussion de la proposition de loi visant à faciliter l’accès des demandeurs d’asile au marché du travail ;\n Discussion de la proposition de loi visant à sauvegarder et pérenniser les emplois industriels en empêchant les licenciements boursiers ;\n Discussion de la proposition de loi visant à protéger les salariés et les salariées du nettoyage en garantissant des horaires de jour.\nLa séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-trois heures cinquante-cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

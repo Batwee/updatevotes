@@ -1,0 +1,1551 @@
+{
+  "uid": "CRSANR5L17S2025O1N139",
+  "seanceRef": "RUANR5L17S2025IDS29213",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2025-03-20",
+  "dateLisible": "jeudi 20 mars 2025",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3673239",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la proposition de loi visant à sortir la France du piège du narcotrafic (nos 907, 1043 rectifié)."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3673241",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Cet après-midi, l’Assemblée a poursuivi la discussion des articles de la proposition de loi, s’arrêtant à l’amendement no 846 à l’article 8 ter."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3673243",
+      "valeurPtsOdj": "1",
+      "titre": "Article 8 ter (appelé par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je vous rappelle que sur les amendements identiques nos 640, 655 et 846, ainsi que sur les sous-amendements nos 978, 984, 983, 985 et 986, j’avais été saisie de demandes de scrutin public.\nJe fais de nouveau annoncer les scrutins dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Vincent Caure, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission sur les amendements identiques nos 640, 655 et 846, et l’ensemble des sous-amendements dont ils font l’objet."
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Vu la longueur des débats et le nombre d’avis exposés, je reviendrai sur chaque point.\nComme Mme Martin, permettez-moi d’abord de convoquer Protagoras pour rappeler que, sur toute chose, on peut faire deux affirmations exactement contraires. Cela résume bien la teneur de nos échanges de fin d’après-midi.\nPermettez-moi ensuite de rappeler des éléments de contexte. En l’état du droit, le code de la sécurité intérieure autorise la réquisition de données des opérateurs ou plateformes numériques pour la mise en œuvre des techniques de renseignement. Ce cadre juridique a été élaboré il y a déjà plusieurs décennies, à une époque où ni internet ni le chiffrement des communications n’avaient pris l’ampleur actuelle. Il est adapté pour la collecte de données non chiffrées, comme les SMS ou les écoutes téléphoniques classiques. Néanmoins, lorsque les données sollicitées font l’objet d’un chiffrement, elles ne sont plus intelligibles pour les services de renseignement."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Bien vu !"
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Le cadre législatif n’est donc plus adapté à l’évolution technologique, ni au changement des habitudes de communication. En effet, nous constatons depuis quelques années l’explosion du chiffrement de bout en bout, dans lequel l’opérateur ou la plateforme ne dispose plus de la clé de chiffrement, décentralisée sur l’appareil de l’utilisateur. Dès lors, lorsqu’un service de renseignement sollicite ces clés, la plateforme peut opposer l’impossibilité technique de fournir ces éléments. C’est pour répondre à ces évolutions que le Sénat, avec l’appui du gouvernement, a proposé l’article 8 ter."
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "texte": "Mais qui n’était pas bon !"
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Pour que l’Assemblée soit pleinement éclairée, j’évoque maintenant les éléments ayant conduit la commission des lois à supprimer l’article 8 ter à la quasi-unanimité – neuf des onze groupes. L’article transformait en effet l’obligation de remettre les données et les clés de chiffrement en une obligation de remettre directement des données intelligibles. Beaucoup d’inquiétudes se sont exprimées après l’adoption de cet article au Sénat. En effet, une telle obligation semblait imposer la création de portes dérobées ou backdoors dans les différentes applications que nous utilisons tous. Elle est problématique dans la mesure où elle conduit à un affaiblissement généralisé du chiffrement par l’introduction d’une faille supplémentaire.\nVous proposez de rétablir l’article sous une forme remaniée, tout en conservant à la fois le principe et l’essentiel des dispositions d’origine. Certes, vos amendements cherchent à mieux encadrer le dispositif. Ainsi, le périmètre de l’obligation de déchiffrement est plus restreint : elle ne concernerait plus que le recueil de données de connexion et de données en temps réel. Dans sa version initiale, les techniques algorithmiques étaient également concernées. De large, l’approche est donc devenue ciblée mais l’obligation demeure, ce qui me semble problématique."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Autre resserrement : les dispositifs techniques aménagés par les opérateurs et les plateformes pour accéder aux données devront être validés par le premier ministre, après avis de l’Agence nationale de la sécurité des systèmes d’information (Anssi)."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "C’est très ciblé !"
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Il y a du mieux, j’en conviens.\nEnfin, l’article précise que les dispositifs des opérateurs doivent préserver le secret des correspondances et assurer la protection des données à caractère personnel. Là aussi, c’est mieux, mais cela ne saurait être suffisant.\nCette réécriture ne peut donc satisfaire le rapporteur que je suis, et on ne peut que déplorer la forme prise par la discussion."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Nos débats en fin de séance de l’après-midi, tout comme le nombre de sous-amendements et les différentes rédactions proposées, ont illustré la persistance de divisions. Le sujet est suffisamment important pour que nous ne rétablissions pas cet article. Les débats doivent se poursuivre, sans doute à la faveur d’un autre véhicule législatif d’initiative gouvernementale, qui nous permettra de disposer d’une étude d’impact et d’un avis du Conseil d’État – cela semble indispensable."
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Monsieur le président de la commission des lois, peut-être pourrait-on envisager la création d’une mission, ou d’une autre instance parlementaire adéquate, afin de mieux comprendre les enjeux et d’évaluer les conséquences d’un tel dispositif.\nAvis défavorable sur tous les sous-amendements et amendements visant à rétablir l’article. (M. Paul Christophle applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. le président de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République."
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "En préambule, un constat simple et sec : la commission des lois a massivement rejeté l’article 8 ter…"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Vive la commission des lois !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "…après que la quasi-totalité des groupes politiques a déposé des amendements de suppression. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Les interrogations qui ont émergé au sein de la commission ne sont donc ni de gauche ni de droite."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Merci !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Il ne s’agit pas non plus de savoir si tous ceux qui ont déposé des amendements de suppression sont naïfs – je réponds amicalement à Mathieu Lefèvre. (M. Mathieu Lefèvre s’exclame.)"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "C’est une honte ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Je partage l’analyse d’Olivier Marleix : la question est sensible parce que les communications électroniques sont le principal vecteur – un vecteur stratégique – des réseaux criminels. (« Eh oui ! » sur plusieurs bancs.) Cette réalité est devant nous, nous y sommes directement confrontés et elle pose d’immenses questions de sécurité, et donc de renseignement. Cependant, dans le même temps, les communications électroniques sont devenues un outil quotidien et massivement utilisé par des millions de Français, dans leurs relations professionnelles et dans leur vie quotidienne."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "On utilise WhatsApp à l’Assemblée nationale aussi !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Différents enjeux s’entremêlent, liés notamment aux libertés fondamentales et à la sécurité publique. Après avoir analysé les propositions de nos collègues Midy, Lefèvre et Marleix, je suis rassuré. En effet, je partage l’analyse du rapporteur sur un point. (« Ah ! » sur quelques bancs du groupe SOC.) Ne réagissez pas trop vite – il y en a deux. (« Ah… » sur quelques bancs des groupes LFI-NFP, SOC et EcoS.) Je suis rassuré sur la confidentialité : il ne s’agit plus d’aller chercher les algorithmes, mais de procéder à un ciblage plus restreint, plus prudent, qui préserve donc mieux la confidentialité.\nNéanmoins, j’émets quelques doutes. Après avoir échangé avec des spécialistes – ce que nous ne sommes pas –, j’estime que les amendements, dans leur rédaction actuelle, ne définissent pas clairement le périmètre du ciblage.\nJe n’ai pas non plus eu de réponse certaine sur un second point sur lequel j’émets également des doutes."
+        },
+        {
+          "orateur": "M. Pouria Amirshahi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610968",
+          "texte": "C’est bien de le dire !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Monsieur Midy, j’ai entendu vos propos sur la sécurité numérique, mais que faites-vous de la vulnérabilité qu’introduit l’obligation de déchiffrement ? (M. Paul Midy proteste.) Mais si, il y aura bien une obligation de déchiffrement."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Non ! (M. Paul Midy montre son amendement.)"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Si !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Bien sûr que si ! Elle est évidente. Vous pouvez brandir votre amendement, monsieur Midy, mais je connais ses sources – elles sont excellentes, d’ailleurs. L’obligation de déchiffrement est indiscutable. Or l’introduction de cette vulnérabilité pose un problème de confidentialité."
+        },
+        {
+          "orateur": "Mme Véronique Riotton",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721426",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "Il ne s’agit donc pas uniquement de sécurité individuelle, mais de sécurité numérique, et donc d’une certaine façon de sécurité nationale."
+        },
+        {
+          "orateur": "Un député du groupe SOC",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "On l’a constaté aux États-Unis où, en voulant réguler le cryptage, le gouvernement américain a introduit des failles volontaires de sécurité qui ont facilité des actes de cybercriminalité."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Évidemment !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "J’y insiste, ce que je dis est vrai, monsieur Lefèvre. Je n’ai pas l’habitude de m’exprimer sans m’être renseigné.\nCompte tenu de ces éléments, je pense qu’il ne faut pas rétablir l’article 8 ter. (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe LFI-NFP. – Mme Anne Le Hénanff applaudit également.) Je ne cherche pas les applaudissements – des socialistes en particulier, même si je les apprécie. (Sourires.) Essayons d’analyser la situation de manière globale ! J’ai été très volontaire en commission."
+        },
+        {
+          "orateur": "M. Pouria Amirshahi",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "M. Florent Boudié",
+          "fonction": "président de la commission des lois",
+          "role": null,
+          "idActeur": "PA606507",
+          "texte": "De même, en séance, nous ne lâchons rien sur le traitement algorithmique. Cet outil ne doit pas disparaître, contrairement à ce que réclame La France insoumise. Cela poserait d’immenses problèmes au renseignement français. (Mme Élisa Martin lève les bras au ciel.)\nJ’ai aussi milité, il y a quelques heures, pour que nous adoptions l’article 8 bis sur les interceptions satellitaires. Vous avez raison, monsieur le ministre, elles sont absolument indispensables. Je ne suis pas de ceux qui souhaitent désarmer nos services de renseignements, au contraire. Je fais aussi partie de ceux qui voteront le texte à la fin de nos débats, et j’espère que nous serons très nombreux. Cependant j’ai encore des doutes, et toutes les réponses n’ont pas été apportées ; c’est pourquoi je vous invite à une extrême prudence, à une grande vigilance.\nJe saisis la main tendue par le rapporteur. À très court terme – je ne veux pas d’un procédé dilatoire sur cette question stratégique –, je souhaite que la commission des lois crée une mission d’information ou un groupe de travail pluraliste, ouvert et relativement transparent – relativement, car chacun mesure les enjeux de sécurité."
+        },
+        {
+          "orateur": "M. Olivier Marleix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606098",
+          "texte": "Oui, une mission d’information !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. le ministre d’État, ministre de l’intérieur, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État, ministre de l’intérieur",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Je sais parfaitement que cet article a suscité des débats, mais il ne s’agit pas, monsieur le président, monsieur le rapporteur, de le rétablir. L’article, issu d’un amendement du président de la commission de la défense et des affaires étrangères du Sénat (Mme Élisa Martin fait mine d’avoir les poings liés), a été supprimé en commission et les trois amendements dont nous débattons sont totalement différents de la version sénatoriale. Je remercie d’ailleurs le rapporteur d’avoir noté que le dispositif proposé est plus restreint et mieux encadré.\nEn outre, il s’agit d’une technique de renseignement qui ne visera pas seulement la criminalité organisée, mais aussi le terrorisme."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Absolument !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "C’est le haut du haut du spectre que l’on vise. Ce n’est pas simplement par plaisir que je viens me battre et vous expliquer pourquoi nos forces de sécurité et nos services doivent disposer de ces moyens. Les enjeux ont été clairement exposés dans la presse : la cavale de Mohamed Amra a duré neuf mois ; avec cette technique, elle aurait sans doute été deux fois moins longue."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Menteur !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Je le dis solennellement : nous aurions aussi pu déjouer des attaques terroristes mortelles."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est un argument honteux !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Le sujet est grave. Nous pouvons bien sûr en débattre, mais respectueusement, sans se crier les uns sur les autres, parce que c’est important.\nLe monde a changé – vous l’avez, les uns et les autres, souligné. Les criminels et les terroristes ont migré massivement sur des messageries cryptées. Nous le savons puisque, à chaque attentat, nous nous procurons les terminaux pour récupérer leur contenu et les messages échangés.\nSi nous ne disposons pas de ces techniques, l’État sera désarmé, et nos services le seront aussi !"
+        },
+        {
+          "orateur": "M. Olivier Marleix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606098",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Or leur objectif n’est pas d’espionner les Français, mais de les protéger – ce sont des boucliers.\nContrairement à ce qu’a affirmé le président Boudié, la solution proposée par ces trois amendements n’a rien à voir avec celle adoptée par les États-Unis. C’est au contraire une solution souveraine.\nLe monde a changé. Les narcotrafiquants utilisent les messageries cryptées comme des plateformes, des centrales d’achat et des agences de recrutement, en parallèle des réseaux sociaux – que ce soit pour recruter des petites mains ou des tueurs à gages. C’est un fait absolument établi.\nCette généralisation du recours aux messageries cryptées doit-elle rendre nos services aveugles ? Doit-elle nécessairement créer des failles dans le bouclier protecteur des Français ? Je ne le crois pas."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Ce n’est pas une question de croyance !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Après les attentats de 2015, alors que j’étais comme vous parlementaire, nous avons été capables de mettre au point un nouvel arsenal. Il nous a protégés."
+        },
+        {
+          "orateur": "M. Arnaud Le Gall",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795672",
+          "texte": "Vous essayez d’imiter Darmanin ?"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Je me souviens très bien que nous avions eu le même débat. Nous nous demandions où placer le curseur entre la protection des Français et celle des libertés publiques. Mais la sécurité publique est aussi une liberté publique, et là où il n’y a pas de sécurité publique, il n’y a pas de libertés publiques."
+        },
+        {
+          "orateur": "M. Aurélien Lopez-Liguori",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793904",
+          "texte": "Quid de la sécurité des systèmes d’information ?"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Nous pouvons trouver le moyen de concilier ces deux exigences.\nCertains ont prétendu qu’il n’existait pas de solutions. C’est absolument faux. Je vous donnerai deux exemples, Apple et WhatsApp. Comment expliquer qu’en août 2021, Apple ait annoncé implémenter dans ses systèmes un mécanisme de détection des images pédopornographiques ? Cela signifie bien qu’Apple avait mis au point un procédé qui n’implique pas une surveillance massive, qui respecte le chiffrement et l’aspect privé des communications. Ce dispositif a fonctionné."
+        },
+        {
+          "orateur": "M. Arnaud Le Gall",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795672",
+          "texte": "Mais ça n’a rien à voir !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Deuxième exemple, WhatsApp, que vous utilisez probablement tous. Si vous recevez un message que vous jugez inapproprié, vous pouvez le signaler. Grâce à ce signalement, WhatsApp pourra accéder au message déchiffré. Ces plateformes disposent donc de technologies qui permettent de déchiffrer certains messages sans créer de faille, de porte dérobée."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Quelqu’un peut lui expliquer ?"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "On peut lui expliquer vingt fois la même chose, il ne comprendra pas !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Quel encadrement les auteurs des trois amendements ont-ils envisagé ? Je voudrais vous convaincre qu’ils ont prévu de vraies restrictions. Le chiffrement est-il affaibli ? Mettra-t-on en place des portes dérobées ? (Mme Élisa Martin s’exclame.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Madame Martin, je vous en prie !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Je le dis solennellement : il n’y aura aucune porte dérobée. Le chiffrement sera respecté de bout en bout – je l’affirme. Il n’y aura pas d’interposition d’un fantôme entre l’émetteur et le récepteur."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Bien sûr que si !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Par ailleurs, l’absence de porte dérobée est garantie par le fait que seules les personnes dûment autorisées disposeront d’un accès. Il n’y a donc pas d’affaiblissement du chiffrement de bout en bout."
+        },
+        {
+          "orateur": "Un député du groupe SOC",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Je ne suis pas convaincu !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Il n’est par ailleurs pas question d’utiliser des technologies à l’insu des plateformes. Ces dernières conserveront la maîtrise de la technologie. Ce que prévoient les amendements, pour ceux qui les ont lus, c’est d’instaurer un dialogue avec les plateformes. Chaque plateforme proposera sa solution technologique, qu’elle maîtrisera. Une fois qu’un accord sera trouvé, la fameuse commission prévue à l’article R. 226-2 du code pénal, présidée par un représentant de l’Anssi, vérifiera que la solution proposée par la plateforme est conforme à toutes les exigences en matière de chiffrement et de protection de la vie privée, ce que précisent noir sur blanc les amendements.\nEnfin, le dispositif de contrôle prévu est similaire à celui des autres techniques de renseignement : la Commission nationale de contrôle des techniques de renseignement (CNCTR) donnera un avis qui pourra être contesté devant le Conseil d’État.\nJe le répète : il n’y aura pas de portes dérobées, ni d’affaiblissement du chiffrement ou du secret de la correspondance."
+        },
+        {
+          "orateur": "Mme Véronique Riotton",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721426",
+          "texte": "Bien sûr que si !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Tout est écrit dans les amendements. Ne pourront être utilisées que des technologies approuvées dans ce cadre, et elles devront respecter ce cahier des charges très précis. (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Une discussion approfondie s’impose. Je vous propose la règle du jeu suivante : je donnerai la parole à un orateur par groupe… (Exclamations sur plusieurs bancs.) Ne soyez pas si pressés, laissez-moi terminer ! Je donnerai donc la parole à un orateur par groupe, qui s’efforcera d’exprimer la position de son groupe. J’ai bien compris qu’il y avait des divergences à l’intérieur de certains groupes. Je donnerai donc également la parole à des députés souhaitant exprimer une position personnelle, différente de celle de l’orateur du groupe.\nLa parole est à M. Antoine Léaument."
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Je m’exprime au nom du groupe La France insoumise. Nous nous apprêtons à renvoyer à la poubelle cet article que vous cherchez à réintroduire. En effet, il ne sert à rien.\nMonsieur Retailleau, vous avez franchi un cap. Tout à l’heure, j’ai souligné le ridicule qui consiste à vouloir exploiter des données cryptées alors qu’on ne dispose pas des clefs de déchiffrement, comme cela était proposé. Mais là, vous touchez le fond – je ne m’y attendais pas. On nous répète à longueur de temps que La France insoumise serait du côté des narcotrafiquants, que nous serions leurs amis."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "À raison !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Et vous nous dites que le moyen de sortir du chiffrement, c’est l’outil « Signaler » de WhatsApp. Comptez-vous vraiment sur les narcotrafiquants pour signaler les contenus inappropriés échangés sur WhatsApp ? Cela me laisse sans voix ! (Sourires et applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ce n’est pas vraiment cela qu’il a dit !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "En réalité, le principal problème auquel se heurte la police dans sa lutte contre le narcotrafic et plus généralement dans son travail quotidien, c’est le logiciel de base de la police nationale – le logiciel XPN. Après huit ans de développement, 15 millions d’euros donnés à Capgemini, on en attend toujours le déploiement ! J’en parle régulièrement car, à l’évidence, vous n’avez rien prévu pour résoudre ce problème ; en tout cas, ce n’est pas dans ce texte.\nJe dois dire que je ne m’attendais pas, alors qu’il n’est pas encore 22 heures, à ce que vous proposiez que les narcotrafiquants signalent eux-mêmes les contenus inappropriés. (Exclamations sur les bancs du groupe RN et sur quelques bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Mais ce n’est pas ce qu’il a dit !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "Tout à l’heure, je vous ai dit que vous étiez ridicule et inefficace, mais vous avez dépassé nos attentes ! Rendez-nous M. Darmanin : lui, au moins, il connaît ses dossiers ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Paul Christophle."
+        },
+        {
+          "orateur": "M. Paul Christophle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840903",
+          "texte": "Nous allons essayer de ne pas verser dans la caricature et de regarder ces amendements en face.\nLe président de la commission et le rapporteur l’ont rappelé : cet article pose d’abord un problème de procédure. Il a été introduit au Sénat par un amendement adopté en séance – il a donc été étudié très rapidement."
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Et alors ?"
+        },
+        {
+          "orateur": "M. Paul Christophle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840903",
+          "texte": "La commission des lois de l’Assemblée l’a supprimé, à la quasi-unanimité. Il revient en séance, toujours sans rapport d’évaluation, comme cela a été rappelé. C’est complexe, alors que le sujet l’est aussi. En outre, c’est presque un amendement du gouvernement."
+        },
+        {
+          "orateur": "M. Mickaël Bouloux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794094",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Paul Christophle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840903",
+          "texte": "Passons au fond. Il est aujourd’hui possible de s’introduire dans les téléphones des narcotrafiquants, sur la base légale des articles 706-102-1 et suivants du code de procédure pénale. Grâce à des logiciels espions, on peut avoir accès aux caractères que les personnes saisissent sur le clavier de leur téléphone et activer la caméra et le micro à distance. Mes collègues l’ont rappelé : cela porte ses fruits. Dont acte. (MM. Mathieu Lefèvre et Paul Midy s’exclament.)\nActuellement, on peut donc avoir accès au téléphone d’un utilisateur unique, et pirater toutes les applications de ce téléphone. Vous nous proposez d’avoir accès à une application, sur tous les téléphones."
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Mais non !"
+        },
+        {
+          "orateur": "M. Paul Christophle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840903",
+          "texte": "Si, c’est bien cela qui est proposé ! Il s’agit bien d’introduire une faille de sécurité qui concerne l’ensemble des utilisateurs, et non de cibler des utilisateurs identifiés comme suspects."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Lisez les amendements !"
+        },
+        {
+          "orateur": "M. Paul Christophle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840903",
+          "texte": "Si ! C’est dans votre amendement !\nCette faille de sécurité étant bien trop importante, nous nous opposerons à ces amendements. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Aurélien Lopez-Liguori."
+        },
+        {
+          "orateur": "M. Aurélien Lopez-Liguori",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793904",
+          "texte": "Le gouvernement et plusieurs députés nous ont habitués à un certain dogmatisme en matière de numérique. En l’occurrence, on a dépassé le dogmatisme : la vérité est falsifiée. Vous insinuez que ces dispositions n’introduisent pas de backdoors. Appelez cela comme vous voulez – backdoor, porte dérobée, utilisateur fantôme, vulnérabilité –, mais dans tous les cas, vous entraînerez une dégradation du chiffrement. (M. Olivier Marleix s’exclame.)\nNous disposons de dizaines d’exemples démontrant que créer une porte d’entrée dans un système d’information est une mauvaise idée. Dernier exemple en date, Salt Typhoon, une backdoor prévue par la loi américaine, a entraîné l’espionnage massif des télécommunications par les Chinois. Trump, J. D. Vance, des chefs d’entreprise : tous ont été espionnés durant plus de deux ans. Aujourd’hui, les États-Unis font la chasse aux backdoors. Au Royaume-Uni, en 2019, une loi contenant des dispositions similaires à celles que vous défendez a été adoptée. Les décrets d’application n’ont toujours pas été pris, car les Britanniques savent que cette loi mettra en danger leurs systèmes d’information.\nAlors que le monde s’enflamme, que les conflits se rapprochent et que les ennemis se multiplient, vous vous apprêtez à affaiblir notre souveraineté et notre sécurité."
+        },
+        {
+          "orateur": "M. Olivier Marleix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606098",
+          "texte": "La souveraineté des plateformes privées ?"
+        },
+        {
+          "orateur": "M. Aurélien Lopez-Liguori",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793904",
+          "texte": "Monsieur le ministre, vous en avez conscience, puisque vous n’osez même pas déposer un amendement au nom du gouvernement. Vous préférez utiliser des porte-flingues ! Au sein même de vos rangs, la ministre chargée du numérique, Clara Chappaz, vous a désavoué. Malgré la réécriture, Guillaume Poupard, ancien directeur de l’Anssi, a qualifié ces amendements de « crétins ».\nIl ne s’agit que d’amendements d’affichage, qui démontrent que vous ne comprenez rien à la cybersécurité. Nous le répétons : si notre sous-amendement est rejeté, nous voterons contre le rétablissement de l’article 8 ter. (Applaudissements sur les bancs des groupes RN et UDR. – Mme Anne Le Hénanff applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Anne Le Hénanff."
+        },
+        {
+          "orateur": "Mme Anne Le Hénanff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794426",
+          "texte": "Les techniques de renseignement sont un sujet sérieux. Il y a certes quelques évolutions positives dans la tentative de réintroduction de cet article. Néanmoins, monsieur le ministre, ces dispositions méritent mieux qu’une introduction par amendement, d’autant qu’elles sont susceptibles d’être utilisées à d’autres fins que la lutte contre le narcotrafic. Par ailleurs, il conviendrait d’impliquer les parlementaires dans la définition des moyens mis à disposition des services de renseignement. Il faudrait aussi obtenir un avis détaillé du Conseil d’État en amont de l’étude du texte. Nous ne disposons pas non plus d’une étude d’impact approfondie. Enfin, il faudrait mener des auditions, notamment de représentants de l’écosystème français du numérique et des télécommunications. Une fois ces conditions réunies, vous pourrez compter sur moi pour me tenir à vos côtés lorsque vous présenterez une loi sur le renseignement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Olivier Marleix."
+        },
+        {
+          "orateur": "M. Olivier Marleix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606098",
+          "texte": "Nous sommes ici pour définir un cadre légal. Ce cadre doit être le même pour les services de téléphonie et pour les messageries cryptées, un point c’est tout. Nous ne sommes pas là pour nous cacher derrière des arguments techniques (Exclamations sur les bancs du groupe LFI-NFP), ni pour relayer le lobbying des messageries cryptées ! (MM. Mathieu Lefèvre et Charles Rodwell applaudissent.) J’ai été édifié par ce que j’ai entendu sur tous les bancs, et je me ferai un grand plaisir de vérifier sur le site de la Haute Autorité pour la transparence de la vie publique (HATVP) dans quelles conditions il a été procédé à ce lobbying. (Exclamations sur de nombreux bancs.)\nNous ne devons pas non plus nous livrer à un concours de geeks, monsieur Lopez-Liguori ! (Vives exclamations sur de nombreux bancs.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "S’il vous plaît, mes chers collègues ! Seul M. Marleix a la parole. Un peu de silence !"
+        },
+        {
+          "orateur": "M. Olivier Marleix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606098",
+          "texte": "Nous n’allons pas légiférer à chaque évolution technologique !\nDemain, quand les chiffrements seront homomorphes, faudra-t-il à nouveau modifier la loi ? (Les exclamations gagnent en intensité.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Mais quel boomer !"
+        },
+        {
+          "orateur": "M. Olivier Marleix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606098",
+          "texte": "Nous devrions attendre ? Mais les terroristes et les trafiquants de drogue n’attendent pas, eux ! En attendant, vous priverez nos services de ces moyens de renseignement.\nNotre seule préoccupation, c’est d’affronter ces menaces, les trafiquants de drogue, d’armer les services de renseignements et de protéger les Français.\nVous nous parlez matin, midi et soir de la protection des Français, vous vous prenez pour Monsieur Plus. Je regrette donc très sincèrement de vous voir voter en fin de compte une fois de plus avec les députés de La France insoumise ! (Exclamations prolongées sur de nombreux bancs. – M. Charles Rodwell applaudit.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Ils vous ont fait élire !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "S’il vous plaît, un peu de calme : il faut que chacun puisse s’exprimer. Si le calme ne revient pas, je serai contrainte de suspendre la séance !\nLa parole est à M. Philippe Latombe."
+        },
+        {
+          "orateur": "M. Philippe Latombe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721984",
+          "texte": "Contrairement à ce qui vient d’être dit, ce ne sont pas seulement les opérateurs qui sont contre un tel dispositif, mais c’est l’ensemble des spécialistes de la cryptographie, l’ensemble de la littérature scientifique, l’ensemble des entreprises qui travaillent dans le domaine de la cybersécurité – la fameuse base industrielle et technologique de cybersécurité (BITC). (Applaudissements sur plusieurs bancs des groupes Dem, EPR, LFI-NFP, SOC, EcoS, HOR, GDR et UDR.) Tous mettent en garde contre l’affaiblissement du chiffrement. Or, quoi qu’on en pense, c’est ce qui arrivera si ces amendements sont votés. Même si ce n’est pas le rétablissement de l’article 8 ter dans la rédaction votée par le Sénat qu’on nous propose ici, c’est bien du rétablissement de la vulnérabilité du chiffrement qu’il s’agit. Quoi que vous en pensiez, monsieur le ministre, c’est l’avis unanime des cryptographes.\nC’est donc un vrai problème, puisque toute notre stratégie de cybersécurité, toute la stratégie de la Commission nationale de l’informatique et des libertés (Cnil) sur la protection des données personnelles, est liée au chiffrement. Ce que vous voulez permettre revient par conséquent à mettre à mal la totalité de cette stratégie. Et je ne vois pas comment le gouvernement pourra ensuite défendre la transposition du règlement européen sur la résilience opérationnelle numérique du secteur financier (Dora), de la directive sur la résilience des entités critiques (REC) et de la directive concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l’ensemble de l’Union européenne (NIS 2), dans le cadre du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, en expliquant alors qu’il faut absolument que le chiffrement soit assuré de bout en bout, partout et tout le temps. (Applaudissements sur quelques bancs du groupe SOC. – Mme Anne Le Hénanff applaudit également.)\nOutre ce problème de cohérence, puisque c’est bien ce que prévoient les textes Dora, REC et NIS 2, il y a un problème constitutionnel. Vous allez nous répondre que la Cour européenne des droits de l’homme (CEDH) a déjà validé le dossier coffre. Je suis d’accord. Reste que l’argument est valable en sens inverse : la CEDH considère que l’utilisation de vulnérabilités dans le déchiffrement n’est pas conforme à la Convention européenne des droits de l’homme – ni donc à la Constitution. Vous allez en effet mettre à mal le secret de la correspondance.\nAutant je suis d’accord avec vous sur les articles 8 et 8 bis, autant il n’est pas question de voter l’article 8 ter. (Applaudissements sur quelques bancs des groupes Dem, EPR, SOC, HOR.)"
+        },
+        {
+          "orateur": "Mme Julie Ozenne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842045",
+          "texte": "C’était la meilleure intervention !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Sébastien Huyghe."
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Il y a eu de nombreux débats sur la question au sein du groupe EPR – nous en avons eu un aperçu avec les interventions du président de la commission et du rapporteur et avec les amendements déposés par des membres du groupe. Nous avons décidé de laisser la liberté de vote à chacun, compte tenu de la sensibilité du sujet."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Il n’y a pas de mandat impératif !"
+        },
+        {
+          "orateur": "M. Mickaël Bouloux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794094",
+          "texte": "Il est où, Attal ?"
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Pour ma part, je suis favorable aux amendements. Certes, j’ai voté la suppression de l’article 8 ter en commission, puisque dans sa version sénatoriale, il prévoyait l’affaiblissement du chiffrement, avec la possibilité de créer des portes dérobées.\nJe souhaite qu’on en finisse avec les caricatures. Nous sommes ici pour être sérieux."
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Dites ça à Marleix !"
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "Beaucoup de nos collègues, dans leurs interventions, font référence à l’ancienne version de l’article. Or il est clair qu’aux termes des amendements que nous sommes en train d’examiner, il ne sera en aucun cas légal d’affaiblir les clefs de chiffrement."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Ça ne veut rien dire !"
+        },
+        {
+          "orateur": "M. Sébastien Huyghe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267200",
+          "texte": "C’est écrit noir sur blanc. Cela signifie que si, lors de l’application du dispositif, il y avait un affaiblissement de la clef de chiffrement, les responsables seraient hors la loi. Or nous sommes censés voter une loi qui doit être appliquée et si les services concernés l’appliquent selon les dispositions prévues par les amendements, la clef de chiffrement ne sera pas affaiblie. C’est ce qu’a souligné Paul Midy tout à l’heure. (Applaudissements sur quelques bancs des groupes EPR et HOR. – M. Olivier Marleix applaudit également.)"
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "C’était un peu crypté, quand même !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Elsa Faucillon."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Monsieur le ministre, à plusieurs reprises, quand vous avez soutenu cette proposition de loi, vous avez déclaré qu’il fallait défendre l’État de droit face au narcotrafic – j’étais d’ailleurs heureuse de vous entendre dire qu’il fallait défendre l’État de droit. En effet, si l’on veut lutter contre la menace que constitue le narcotrafic, il faut préserver l’État de droit. Or la question est posée avec cet article 8 ter, du point de vue des libertés individuelles, des libertés collectives, mais aussi de notre souveraineté et de notre intégrité. Et, d’autres l’ont dit, dans le contexte international actuel, c’est avec une grande prudence qu’il nous faut aborder le sujet.\nLa nouvelle rédaction de l’article proposée implique qu’on fera du déchiffrement sans déchiffrer. Cela n’existe pas."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Soit l’article tel que vous le proposez ne servira à rien et nous risquons de passer à côté d’une réflexion importante sur le renseignement,…"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Eh oui ! C’est un article stérile, inefficace !"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "…soit c’est un énorme enfumage – ce que je crois – qui mènera à la faille très dangereuse que nous avons pointée du doigt en commission.\nMonsieur Marleix, la question n’est pas de savoir si l’on est un geek ou pas."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "C’est vrai !"
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Dans la période que nous allons vivre, maîtriser les questions et les évolutions techniques, technologiques, scientifiques va être un enjeu majeur pour le législateur que nous sommes pour pouvoir procéder à des arbitrages politiques. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Aurélien Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA826635",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Olivier Marleix",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA606098",
+          "texte": "Il va falloir changer la loi chaque année, alors !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à Mme Sandra Regol."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "La proposition de loi pose une question de sécurité nationale. C’est particulièrement le cas des amendements identiques dont nous discutons. Nous avons bien relu la nouvelle rédaction de l’article qu’ils proposent. Elle prévoit que pour pouvoir procéder à certaines écoutes, encadrées, choisies, on fragilise l’ensemble du dispositif. Nous ne sommes ni des scientifiques ni des geeks – ce n’est d’ailleurs pas notre fonction. Une logique assez simple s’impose tout de même : le chiffrement doit être assuré de bout en bout, seul moyen de garantir la sécurité. Créer un intermédiaire, une porte dérobée, ce n’est pas assurer un chiffrement de bout en bout et c’est donc mettre en cause l’intégralité de notre sécurité.\nLe texte est censé lutter contre les trafics, mais qui sont aussi des trafics d’informations – outils premiers des trafiquants, tant elles sont capitales, qu’ils soient narcotrafiquants, trafiquants d’armes, trafiquants de corps humains… (M. Emmanuel Duplessy applaudit.) Or ce que vous proposez, monsieur Retailleau, c’est de pouvoir procéder à une écoute de temps en temps au prix d’un blanc-seing donné à tous ceux qui essaient de chercher ces informations contre notre pays, contre notre démocratie, en abîmant ainsi plus encore nos libertés qu’ils ne le font.\nNous avons vraiment l’impression, monsieur Marleix, que c’est le ministre de l’intérieur qui tenait votre stylo quand vous avez rédigé votre amendement."
+        },
+        {
+          "orateur": "M. Mickaël Bouloux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794094",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Emmanuel Duplessy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841351",
+          "texte": "Quelle honte !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "C’est une impression très désagréable que de travailler en ayant le soupçon que vous essayez de nous avoir, alors que les députés se sont prononcés très franchement. (Applaudissements sur de nombreux bancs des groupes EcoS, LFI-NFP, SOC et GDR.)"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Implacable !"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Et, excusez du peu, l’unanimité est suffisamment rare dans cet hémicycle ! Et je tiens à souligner que quand nous sommes d’accord sur des questions technologiques avec Philippe Latombe, c’est que, tout de même, nous sommes dans le juste ! (Sourires et applaudissements sur de nombreux bancs des groupes EcoS, LFI-NFP, SOC et GDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Éric Bothorel."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Vous avancez, monsieur Marleix, que ce n’est qu’une question de parallélisme des formes avec ce qui est demandé aux opérateurs téléphoniques. Certes, sauf que si nous n’avons pas jugé utile de protéger nos conversations téléphoniques en les brouillant, nous avons, il y a longtemps, décidé de protéger nos échanges de données – et pour cause, tant elles font l’objet de convoitises.\nProcéder à l’interception d’une conversation téléphonique vous donne un accès en clair à son contenu, sans efforts particuliers des opérateurs de télécommunications. Le parallélisme des formes voudrait que les opérateurs vous donnent accès à du contenu chiffré. Ils vous le donneront, je n’en doute pas une seconde, mais là s’arrête la comparaison.\nSi cela est une coquille vide, monsieur Midy, et ça l’est, elle n’a pas sa place dans notre droit."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Monsieur Lefèvre, cher ami, il n’y a pas ceux qui se réfugient derrière la technique et qui seraient les complices des criminels par leur inaction, et ceux qui, à coups de « y a qu’à, faut qu’on », règlent les problèmes comme s’ils disposaient de la baguette magique de Champollion. (Applaudissements sur quelques bancs des groupes LFI-NFP et SOC.) C’est tout de même un peu dégueulasse de voir les choses ainsi.\nDemander le renforcement de la coopération des plateformes pourrait davantage nous réunir qu’un article qui ressemble plus à un cahier des charges stérile. Si vous prenez ce chemin, vous me trouverez à vos côtés.\nJ’ai une question simple, monsieur le ministre. Les narcocriminels, les terroristes seront-ils demain en mesure, à partir du code source d’une messagerie, de faire tourner un service concurrent à celui que vous cherchez à imposer et à faire développer par les plateformes ?"
+        },
+        {
+          "orateur": "M. Philippe Latombe",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721984",
+          "texte": "Bien sûr !"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Il me semble que la réponse est oui. Vous avez cependant le droit de tenter de démontrer le contraire.\nEnfin, en ce qui concerne Apple, pardon, mais la référence et la comparaison que vous faites ne sont absolument pas valables. Apple s’appuie en effet sur des hash files, c’est-à-dire sur des empreintes numériques. Il ne s’agit pas d’être intrusif quant au contenu d’un fichier, mais de comparer si deux fichiers sont identiques. C’est d’ailleurs cet outil qui sert à nos services – et à ceux des autres pays – pour lutter contre les pédocriminels. La technologie mise en œuvre n’a rien à voir avec ce que vous proposez. (Applaudissements sur plusieurs bancs des groupes EPR, RN, LFI-NFP, SOC, EcoS. – M. Philippe Latombe et Mme Anne Le Hénanff applaudissent également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. le ministre d’État."
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Plusieurs intervenants ont dit craindre une généralisation de la captation. Je le répète : il n’y aura pas de captation massive, elle sera limitée aux seules correspondances qui auront fait l’objet d’une demande d’autorisation par le premier ministre, sous le contrôle de la CNCTR. Et quand surviendra un problème entre les deux, quand la CNCTR émettra un avis négatif, c’est le Conseil d’État qui tranchera. L’écosystème est donc exactement le même que celui dont relevaient les amendements précédents. En outre, cet accès sera limité aux seules personnes dûment autorisées.\nJ’en viens à l’intervention de Philippe Latombe. Même si les amendements que nous sommes en train d’examiner ne sont pas votés, ce que je pressens, nous devons nous saisir de cette question."
+        },
+        {
+          "orateur": "M. Pouria Amirshahi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610968",
+          "texte": "Nous allons le faire !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Elle est très grave, croyez-moi. Et vous verrez qu’à un moment ou à un autre, on aboutira à une solution. J’aurais souhaité que ce soit ce soir mais, je le répète, à un moment ou à un autre, cette solution, on l’aura."
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "On peut trouver une solution différente."
+        },
+        {
+          "orateur": "M. Ugo Bernalicis",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720430",
+          "texte": "Une solution finale !"
+        },
+        {
+          "orateur": "Un député du groupe EPR",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Oh !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Simplement, si les amendements ne sont pas adoptés, on en reste au droit en vigueur, qui date de 2001 et qui demande les clefs de chiffrement aux plateformes – d’ailleurs, elles ne les fournissent pas, avançant des arguments techniques ou commerciaux. Ensuite, la législation en vigueur risque d’être jugée totalement contraire à la jurisprudence Podchasov de la CEDH, d’il y a quelques mois, qui indique qu’on ne doit pas avoir de système de captation généralisée – or c’est le cas de la loi de 2001. Le système que nous proposons est beaucoup plus encadré, beaucoup plus ciblé.\nOn a également évoqué la coopération des plateformes."
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "C’est exactement ce que nous proposons !"
+        },
+        {
+          "orateur": "M. Éric Bothorel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA642695",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Nous voulons que soit établi un processus, un dialogue avec chaque plateforme, qui devra proposer une technologie neutre. Une fois cette proposition faite, la commission prévue à l’article R.226-2 du code pénal s’assurera de sa conformité avec toutes les prescriptions du texte."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "C’est complètement inopérant !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Il y a quelques mois a été menée une grande enquête relative à une affaire de pédocriminalité. Nos services savaient que les échanges s’effectuaient sur la messagerie Telegram. Savez-vous ce qui a permis de résoudre l’enquête ? C’est quand le patron de Telegram s’est posé avec son jet privé : il a été arrêté."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "texte": "Nous, on veut la suppression des jets privés !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "On a pu dès lors obtenir un certain nombre d’informations qui ont permis à l’autorité judiciaire de confondre des dizaines de pédocriminels."
+        },
+        {
+          "orateur": "M. Arnaud Le Gall",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795672",
+          "texte": "Quel est le rapport avec les amendements ?"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Vous voyez donc bien que la question des messageries cryptées vaut pour le terrorisme, évidemment pour la grande criminalité organisée, pour la pédocriminalité.\nOn ne peut ni laisser nos services aveugles ni laisser ces grandes organisations criminelles utiliser des messageries cryptées pour égarer nos forces de sécurité. Ce n’est pas possible.\nNous avons tenu à mener ce débat et des arguments ont été échangés, mais très franchement, je suis certain qu’à l’avenir, nous devrons trancher cette question. Nous avons là les moyens de le faire de la façon la plus équilibrée possible, sur le plan juridique comme sur le plan technologique."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Vous avez perdu, c’est bon !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3673194",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La parole est à M. Mathieu Lefèvre, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Il concerne la bonne tenue de nos débats. J’ai entendu M. Bernalicis évoquer une période extrêmement sombre de notre histoire – il sait très bien à quoi je fais référence. Je lui demande de retirer ses propos ; à défaut, je considère qu’ils doivent figurer au compte rendu.\nM. Bernalicis a évoqué, sourire en coin, la « solution finale ». C’est complètement hors de propos."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "texte": "Il n’a pas dit ça !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Notre débat était de bonne tenue ; ces propos doivent au moins être retirés. (M. Ugo Bernalicis tente de prendre la parole.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "On me confirme que ces propos figureront au compte rendu."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3673201",
+      "valeurPtsOdj": "1",
+      "titre": "Article 8 ter (appelé par priorité – suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je mets aux voix le sous-amendement no 978."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        138\n        Nombre de suffrages exprimés                137\n        Majorité absolue                        69\n                Pour l’adoption                53\n                Contre                84"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le sous-amendement no 978 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les sous-amendements nos 984, 983, 985 et 986 sont retirés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les sous-amendements identiques nos 997 et 1006 sont adoptés ; en conséquence, le sous-amendement no 979 tombe.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Monsieur le rapporteur, j’imagine que votre avis sur les amendements demeure défavorable malgré l’adoption des sous-amendements nos 997 et 1006 ?"
+        },
+        {
+          "orateur": "M. Vincent Caure",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA842311",
+          "texte": "Oui, madame la présidente."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Monsieur le ministre, souhaitez-vous reprendre la parole sur les amendements, puisqu’ils viennent d’être sous-amendés ?"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Je n’ai pas pu tout dire à propos du sous-amendement no 978 de M. Lopez-Liguori. Il ne peut pas fonctionner (Exclamations sur divers bancs)…"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Il a été rejeté !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "…et j’aimerais expliquer pourquoi. (Mêmes mouvements.) L’article L. 851-1 contient déjà cette disposition ; le sous-amendement est donc satisfait."
+        },
+        {
+          "orateur": "M. Aurélien Lopez-Liguori",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793904",
+          "texte": "Non, la collecte n’est pas obligatoire !"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Vous cherchez un prétexte pour ne pas voter les amendements, c’est tout."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Mais on a déjà voté !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "L’avis du gouvernement à propos des amendements nos 640, 655 et 846 reste-t-il le même après l’adoption des sous-amendements nos 997 et 1006 ?"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Le gouvernement est favorable aux amendements et défavorable aux sous-amendements. (Brouhaha sur de nombreux bancs.)"
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Les sous-amendements ont déjà été adoptés !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "S’il vous plaît, j’aimerais que le ministre puisse m’entendre ! Monsieur le ministre, nous venons d’adopter les sous-amendements nos 997 et 1006. Votre avis sur les amendements demeure-t-il le même ?"
+        },
+        {
+          "orateur": "M. Bruno Retailleau",
+          "fonction": "ministre d’État",
+          "role": null,
+          "idActeur": "PA2538",
+          "texte": "Oui, il est favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je mets aux voix les amendements identiques nos 640, 655 et 846."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin. – Le vote est empêché par une difficulté technique.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Nous allons procéder à un nouveau scrutin."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Les résultats sont cryptés !"
+        },
+        {
+          "orateur": "M. Antoine Léaument",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795746",
+          "texte": "C’est à cause des portes dérobées !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je mets aux voix les amendements identiques nos 640, 655 et 846."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin. – Le vote est à nouveau empêché par une difficulté technique.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Nous allons procéder à un nouveau scrutin."
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Jamais deux sans trois !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Je mets aux voix les amendements identiques nos 640, 655 et 846."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin. – Le vote est à nouveau empêché par une difficulté technique.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Compte tenu de l’impossibilité technique de procéder au scrutin, je suspends la séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures vingt, est reprise à vingt-trois heures dix.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La séance est reprise. (« Ah ! » et applaudissements sur tous les bancs.)\nVous l’avez compris, nous sommes victimes d’une panne informatique."
+        },
+        {
+          "orateur": "Mme Sabrina Sebaihi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795808",
+          "texte": "Sabotage ! (Sourires.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Facétie des débats, monsieur le ministre ! Il ne s’agit pas d’un dysfonctionnement lié à la sécurité informatique en tant que telle. C’est une petite pièce du système qui a chauffé – sous la tension. (Sourires.)\nLe scrutin public est donc temporairement indisponible et je ne peux pas vous dire quand le système sera réparé. Néanmoins, après avoir consulté l’ensemble des groupes, je vous propose de procéder comme suit, pour que nous puissions tout de même, sur cet article important, procéder à une autre forme de scrutin public : je vais appeler les 577 députés, présents ou absents, par ordre alphabétique et par groupe – en prenant les groupes par ordre de taille.\nChaque député, à l’appel de son nom, devra se rapprocher d’un micro et donner sa position sur le vote des amendements – pour, contre ou abstention –, après que j’aurai rappelé leur numéro, ainsi que l’avis de la commission et du gouvernement. Les délégations seront prises en compte et celui qui donnera son vote au micro n’aura pas besoin de se lever à nouveau à l’appel du nom de celui qui lui a donné délégation. Puis je suspendrai la séance pour procéder au décompte, qui prendra un peu de temps. Je vous demanderai, pendant toute la durée de ces opérations, de garder le silence, afin que je puisse procéder dans le calme à cette manœuvre un peu délicate et inédite.\nSommes-nous bien d’accord sur la manière dont les choses vont se dérouler ? (Approbations sur de nombreux bancs.) Très bien, nous allons donc procéder à ce scrutin public original sur le vote des amendements identiques nos 640, 655 et 846, qui ont reçu un avis défavorable de la commission et favorable du gouvernement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "Je vous remercie pour votre patience et suspends la séance pour faire le décompte des voix."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures quarante, est reprise à vingt-trois heures cinquante.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La séance est reprise – après un scrutin quasi solennel. (Sourires.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "D’abord, je vous remercie, chers collègues, de votre patience et de votre discipline. Je remercie également M. le ministre, ainsi que les services pour leur travail méticuleux et leur faculté d’adaptation. (Applaudissements.)\nJ’ai le plaisir de vous annoncer les résultats du scrutin :\n        Nombre de votants                        149\n        Nombre de suffrages exprimés                143\n        Majorité absolue                        72\n                Pour l’adoption                24\n                Contre                119"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 640, 655 et 846 ne sont pas adoptés.)\n (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720908",
+          "texte": "La leçon c’est que, même sans informatique, la démocratie continue."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "La suite de la discussion est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3673650",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720908",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Suite de la discussion de la proposition de loi visant à sortir la France du piège du narcotrafic ;\n Suite de la discussion de la proposition de loi organique fixant le statut du procureur de la République national anti-criminalité organisée.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-trois heures cinquante.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}

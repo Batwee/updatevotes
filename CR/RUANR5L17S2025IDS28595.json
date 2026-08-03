@@ -1,0 +1,3133 @@
+{
+  "uid": "CRSANR5L17S2025O1N019",
+  "seanceRef": "RUANR5L17S2025IDS28595",
+  "sessionRef": "SCR5A2025O1",
+  "date": "2024-10-25",
+  "dateLisible": "vendredi 25 octobre 2024",
+  "session": "Session ordinaire 2024-2025",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "3533048",
+      "valeurPtsOdj": "1",
+      "titre": "Première partie (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "L’ordre du jour appelle la suite de la discussion de la première partie du projet de loi de finances pour 2025 (nos 324, 468).\n Cet après-midi, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant aux amendements no 56 et identiques à l’article 11, examiné par priorité."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533050",
+      "valeurPtsOdj": "1",
+      "titre": "Article 11 (appelé par priorité - suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je suis saisi de cinq amendements, nos 56, 101, 1550, 2098 et 3535, tendant à supprimer l’article 11.\n La parole est à M. Éric Ciotti, pour soutenir l’amendement no 56. (« Ah ! » sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Éric Ciotti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330240",
+          "texte": "Je suis heureux de vous saluer, monsieur le président ! (Applaudissements sur les bancs du groupe UDR et sur plusieurs bancs du groupe RN.)\nL’article 11 est révélateur du caractère pernicieux de ce budget, qui n’est tourné, en définitive, que vers les impôts et les taxes, aussi bien contre les ménages que les entreprises."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Le ministre doit s’arracher les cheveux !"
+        },
+        {
+          "orateur": "M. Éric Ciotti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330240",
+          "texte": "Le dispositif prévu ici, qui porte l’impôt sur les sociétés (IS) jusqu’à 30 % pour les entreprises qui réalisent un chiffre d’affaires de 1 milliard d’euros et jusqu’à 36 % pour celles dont le chiffre d’affaires est supérieur à 3 milliards, est profondément antiéconomique. Il risque d’affaiblir l’économie française et aboutira, finalement, à faire rentrer moins de recettes pour l’État, conformément à ce précepte maintes fois démontré : trop d’impôt tue l’impôt. Je suis certain, chers collègues du socle minoritaire, que vous êtes vous-mêmes convaincus du caractère profondément antiéconomique de cette disposition.\nRappelons que dans les pays de l’Organisation de coopération et de développement économiques (OCDE), le taux de l’impôt sur les sociétés est de 21 % en moyenne. Vous voulez faire peser sur les entreprises françaises qui réussissent, qui sont les plus performantes et créent de l’emploi, 15 points d’imposition de plus que la moyenne des pays de l’OCDE. Vous contraindrez ainsi nos entreprises à s’engager dans la compétition internationale lestées d’un boulet au pied, ce qui les handicapera et pénalisera lourdement l’économie française. C’est pourquoi nous demandons la suppression de l’article 11. (Applaudissements sur les bancs du groupe UDR et sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Sur les amendements no 56 et identiques, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Charles Sitzenstuhl, pour soutenir l’amendement no 101."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Il vise également à supprimer l’article 11, qui prévoit une surtaxe massive à l’impôt sur les sociétés pour les grandes entreprises de notre pays.\nLe débat que nous avons eu tout à l’heure, avant la levée de la séance, était révélateur et, si j’étais le Gouvernement, je m’inquiéterais d’avoir recueilli le soutien unanime, voire passionné, des socialistes, des mélenchonistes et des communistes sur un sujet fiscal. (Exclamations sur plusieurs bancs des groupes LFI-NFP et SOC.) Je m’inquiéterais également de la fin de la politique de l’offre qui sera peut-être entérinée ce soir,…"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "C’est ça, la lutte des classes !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "…alors qu’elle a permis d’obtenir des résultats très positifs pendant sept ans. Je m’inquiéterais de la mise en péril de l’attractivité économique de la France, du fléchissement de la croissance qui en résultera et d’un retour probable du chômage."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Et je rappelle qu’il est dans la majorité !"
+        },
+        {
+          "orateur": "M. Julien Odoul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795552",
+          "texte": "Vous vous inquiétez pour le macronisme, en fait !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Je m’inquiéterais aussi pour les dirigeants des petites et moyennes entreprises (PME) et des entreprises de taille intermédiaire (ETI), ces entreprises industrielles réparties dans l’ensemble du territoire, qui finiront par pâtir des conséquences d’une telle surtaxe à l’IS. C’est pourquoi je demande la suppression de l’article 11. (Applaudissements sur quelques bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533066",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Charles Rodwell, pour soutenir l’amendement no 1550."
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Dans la continuité de mon collègue Sitzenstuhl, je souhaite, par cet amendement de suppression, lancer un appel au Gouvernement et à l’ensemble des forces politiques de cet hémicycle à ne pas céder, sur le long terme, à l’idéologie de la gauche qui, pendant quarante ans, a condamné la France au chômage de masse. (M. Charles Sitzenstuhl applaudit.)"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Oui, nous sommes fiers d’avoir diminué le taux de l’impôt sur les sociétés de 8 points, le faisant passer de 33 % à 25 %. (Exclamations sur plusieurs bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Il faudrait créer une taxe sur l’arrogance ! Elle rapporterait des milliards !"
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Cette baisse a été fondamentale pour nos entreprises – des milliers d’entre elles ont été créées depuis sept ans – et pour l’emploi – 2,7 millions d’emplois ont été créés sur cette période. Elle a également été positive pour nos finances publiques, puisque l’impôt sur les sociétés a rapporté davantage lorsque son taux était fixé à 25 %…"
+        },
+        {
+          "orateur": "Mme Marie Lebec",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721852",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "…qu’à 33 %, tout simplement parce qu’entre-temps nous avons favorisé la création de milliers d’entreprises et de millions d’emplois dans notre pays."
+        },
+        {
+          "orateur": "Mme Marie Lebec",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Pour la création d’entreprise comme pour l’emploi, la clef de la confiance, c’est la constance. Telle est la raison de notre appel. Il faut que cette hausse exceptionnelle reste exceptionnelle ! (Applaudissements sur quelques bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533076",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Mathieu Lefèvre, pour soutenir l’amendement no 2098."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Qu’est-ce qu’un bon impôt ? Un bon impôt doit avoir une assiette large et un taux faible. Or nous nous apprêtons à introduire un impôt à assiette étroite avec un taux élevé."
+        },
+        {
+          "orateur": "Mme Marie Lebec",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721852",
+          "texte": "Et voilà !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Que font nos voisins européens ? Ils sanctuarisent leur taux d’impôt sur les sociétés. Les travaillistes britanniques eux-mêmes en ont fait un totem."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Ce n’est pas un exemple !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Par ailleurs, ils préparent l’avenir au lieu de sacrifier le présent sur l’autel de la démagogie fiscale.\nQu’avons-nous fait depuis sept ans ? Nous avons, et nous l’assumons, baissé massivement les impôts qui pesaient sur le patrimoine et grevaient la compétitivité de notre pays. Nous avons obtenu des résultats éloquents, que personne ne conteste, en matière industrielle, d’emploi et d’attractivité.\nPar cet amendement, je souhaite que notre pays n’entre pas dans un contre-choc de compétitivité. La confiance fiscale, que nous avons mis beaucoup de temps à construire, pourrait être détruite très rapidement. En matière de fiscalité, la confiance se gagne par l’escalier ; elle peut se perdre par l’ascenseur.\nNous sommes, bien sûr, conscients des déficits publics et de l’impasse de financement à laquelle nous sommes confrontés. (« La faute à qui ? » sur plusieurs bancs du groupe LFI-NFP.) C’est pourquoi nous proposerons des recettes complémentaires, au moyen de cessions de participations de l’État."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533085",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Brigitte Klinkert, pour soutenir l’amendement no 3535."
+        },
+        {
+          "orateur": "Mme Brigitte Klinkert",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA643184",
+          "texte": "Depuis sept ans, plus de 2,5 millions d’emplois ont été créés en France. Ce résultat ne vient pas de nulle part ; il est dû à notre politique de réindustrialisation et d’attractivité de notre pays. Il est également le fruit d’une politique fiscale et économique ambitieuse qui ne doit pas être perturbée par des hausses d’impôt. Une contribution exceptionnelle sur les grandes entreprises aurait des impacts négatifs tant sur les entreprises concernées que sur leurs sous-traitants, et compromettrait une véritable dynamique.\nCet amendement vise à supprimer cette nouvelle disposition fiscale, afin de préserver la compétitivité des entreprises et de soutenir la croissance économique. (Applaudissements sur plusieurs bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme Prisca Thevenot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795920",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission sur ces amendements de suppression."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Ne m’étant pas exprimé dans le débat sur l’article lors de la séance précédente, permettez-moi de présenter maintenant ma position. Je rappelle, tout d’abord, que ces amendements ont été rejetés par la commission des finances. Je pense, à titre personnel, qu’une contribution est nécessaire afin de limiter le déficit public,…"
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "…mais que l’effort de 8 milliards demandé par le Gouvernement à travers cet article est excessif. Je proposerai d’ailleurs un amendement qui vise à diviser par deux les taux de cette contribution exceptionnelle sur les bénéfices des grandes entreprises.\nEnsuite, deux types d’amendements ont été déposés à l’article. Certains proposent de pérenniser ou d’augmenter le taux de la contribution ou encore d’élargir le champ des entreprises assujetties. Dans certains cas, cela aboutirait, pour les plus grandes entreprises, à un taux d’imposition de 55 % sur leurs bénéfices, bien trop élevé : non seulement nous serions à la première place en matière de taux marginal d’imposition au sein de l’OCDE – Malte étant actuellement à la première place, avec un taux de 35 % –, mais nous ferions figure d’ovni puisque la moyenne des taux européens est de 21 %. La compétitivité de nos grandes entreprises en serait grandement affectée. En outre, il y a fort à parier que les entreprises développeraient des stratégies pour éviter les conséquences d’une telle augmentation des taux, soit en diminuant leurs bénéfices à coups de provisions ou d’amortissements accélérés, soit en les déplaçant vers des pays à moindre imposition.\nD’autres amendements proposent, au contraire, de limiter la contribution à un an, de baisser les taux ou tout simplement de la supprimer, comme les amendements que nous examinons à l’instant. Avec une cible de déficit public fixée à 5 % du PIB, pouvons-nous nous permettre de supprimer totalement cette contribution de 8 milliards ?\nRappelons, pour commencer, que cette contribution est ciblée, alors que celles qui ont été instituées dans les années 1990 concernaient pratiquement toutes les entreprises et que les seuils de la contribution instaurée en 2011 concernaient toutes celles qui réalisaient un chiffre d’affaires supérieur à 250 millions. Ensuite, la durée d’application de ce dispositif, fixée à deux ans, reste réduite par rapport à ce que nous avons connu par le passé : la surtaxe créée par Alain Juppé avait duré dix ans, celle de Lionel Jospin trois ans et celle de François Fillon cinq ans."
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "texte": "La droite est très mauvaise !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Voici la position que je voulais exprimer en tant que rapporteur général. Je vous rappelle que sur les amendements de suppression, la commission a émis un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre du budget et des comptes publics, pour donner l’avis du Gouvernement sur ces amendements identiques."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre du budget et des comptes publics",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Monsieur le président Ciotti, messieurs les députés Sitzenstuhl, Rodwell et Lefèvre, madame la députée Klinkert, je vous donne à tous raison d’être vigilants sur la fiscalité économique de notre pays et son attractivité, directement corrélées à la fiscalité de nos entreprises.\nToutefois, il ne faut pas se méprendre. L’article 11 n’augmente aucunement le taux de l’impôt sur les sociétés qui a été abaissé, par cette majorité, de 33 % à 25 % et a permis d’obtenir les bons résultats que vous avez tous salués."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Quelle majorité ? L’ancienne ?"
+        },
+        {
+          "orateur": "M. Inaki Echaniz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794854",
+          "texte": "Cent dix pour cent de dette publique ! De bons résultats ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Tel n’est donc pas son objectif. Néanmoins, nous devons redresser nos finances publiques. Il s’agit donc non pas d’augmenter le taux d’IS, mais de demander une contribution exceptionnelle, ciblée et temporaire, à nos plus grandes entreprises, lesquelles ont bénéficié, comme nombre de nos contribuables, particuliers ou acteurs économiques, des outils de protection que notre pays a instaurés pendant les différentes crises, à commencer par la crise sanitaire et celle liée à l’inflation.\nIl ne me semble pas baroque de demander aux entreprises une telle contribution exceptionnelle alors que nous avons besoin de procéder à un redressement rapide et fort de nos finances publiques. Je répète qu’il ne s’agit pas d’une augmentation de l’impôt sur les sociétés, mais, comme vous avez dû le lire dans le texte, d’un prélèvement obligatoire ponctuel sur l’impôt sur les sociétés – et non pas sur les bénéfices. Autrement dit, seules les grandes entreprises qui ont réalisé de gros profits participeront effectivement au redressement des finances publiques, de façon importante. Cela nous paraît justifié.\nJe n’ai d’ailleurs pas l’impression que ces grandes entreprises refusent de participer à l’effort de redressement des comptes publics de notre pays. Tout simplement parce qu’un pays qui ne sait pas tenir ses finances publiques n’est pas un pays qui sait accompagner ses entreprises et faire prospérer sa vie économique ou ses emplois.\nLes entreprises sont donc partie intégrante de cette équation et elles le reconnaissent volontiers. Avant même le dépôt du projet de loi de finances (PLF), le président du Medef, Patrick Martin, a été force de proposition. Il s’est dit favorable à ce que les entreprises soient mises à contribution, à une condition :…"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Si le Medef est d’accord, on est rassurés !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "…que le projet de loi de finances garantisse le caractère limité dans le temps de la contribution."
+        },
+        {
+          "orateur": "M. Éric Ciotti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330240",
+          "texte": "Il faut que vous fassiez des économies !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "C’est bien le cas : la contribution exceptionnelle prévue par l’article 11 sera due pendant deux ans, en 2025 et en 2026, sur les assiettes 2024 et 2025, aux taux de prélèvement indiqués précédemment.\nC’est pourquoi j’émettrai des avis défavorables sur tous les amendements qui visent à supprimer cette contribution, dont le produit est estimé à 8 milliards – le rapporteur général l’a rappelé. Nous en avons besoin, à commencer par les entreprises elles-mêmes. Pour les mêmes raisons, j’émettrai des avis défavorables à tous les amendements qui tendent à augmenter le taux de ce prélèvement exceptionnel ou à le pérenniser, ce qui serait contraire à l’esprit de l’article 11."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Je vous salue, monsieur le président, pour votre première séance au perchoir !\nJe soutiens l’article 11, mais reconnaissons qu’il traduit un échec. Si vous proposez aujourd’hui la taxation des très grandes entreprises, comme nous le demandons depuis des mois et des années, c’est parce que la baisse des impôts des entreprises n’a pas fonctionné. Les partisans les plus extrémistes de la politique de l’offre présents parmi nous sont cohérents : ils proposent de supprimer l’article 11 car ils considèrent que cette politique a tellement bien marché qu’il ne faut pas la remettre en question.\nLe constat d’échec est pourtant évident. Le problème, depuis sept ans, ce n’est pas d’avoir baissé les impôts, mais c’est de les avoir si mal baissés – certains impôts n’auraient pas dû diminuer. Et cet échec se traduit d’abord par le niveau du déficit public – votre premier objectif était pourtant de le réduire. Le déficit a tellement explosé que la création d’une commission d’enquête a été nécessaire pour comprendre comment il a pu atteindre un tel niveau.\nDeuxième échec : contrairement à ce que vous dites, la politique de l’offre n’a eu aucun effet positif sur l’économie. Les investissements des entreprises ont reculé de 2 points depuis 2017, je l’ai rappelé. D’autres chiffres ont été publiés récemment. Vous évoquez les créations d’entreprises, mais il y a eu 49 000 défaillances d’entreprises au cours des neuf derniers mois, soit une augmentation de 19 % par rapport à la période similaire de 2019. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Nicolas Sansu applaudit également.) Sur un an glissant, fin août, cela faisait environ 63 000 défaillances d’entreprises, ce qui côtoie le niveau record de 2009.\nQuant au chômage, l’Observatoire français des conjonctures économiques (OFCE), dont vous acceptez les chiffres en matière de croissance, indique que le chômage atteindra plus de 8 % l’an prochain du fait du ralentissement de l’activité économique, lequel s’explique par votre politique, qui a un effet récessif sur l’économie – effet que l’OFCE a anticipé. Quand on baisse les dépenses économiques et sociales, cela a un effet récessif. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Éric Ciotti",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330240",
+          "texte": "Et les impôts ?"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "La croissance devrait diminuer de 0,8 point de PIB en 2025 selon l’OFCE, ce qui signifie 30 milliards de rentrées fiscales et sociales en moins en 2025, alors que vous prétendez ne réduire les dépenses sociales que de 36 milliards. Vous n’améliorerez absolument pas votre solde, mais vous affaiblirez la capacité de répondre aux besoins de la population.\nC’est la raison pour laquelle, chers collègues, je vous invite à soutenir cet article. Nombre d’entre nous ont voté pour la suppression de la taxe sur l’électricité, qui aurait rapporté 6 milliards, et refusent que les retraités payent l’addition. Nous devons aller au-delà des 6 milliards que rapportera vraisemblablement la contribution proposée par le Gouvernement. Renforçons cette taxation en la rendant pérenne et en élargissant son assiette. Ce sera l’objet de nombreux amendements à venir. (Applaudissements sur les bancs des groupes LFI-NFP, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "On a pourtant trouvé 5 milliards pour le PSR-UE !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Cyrielle Chatelain."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Ces amendements de suppression issus des rangs mêmes de la coalition gouvernementale sont un parfait exemple de la manière dont le dogmatisme aveugle.\nTout d’abord, l’état de nos finances publiques : le fait que les réductions d’impôts que vous avez instaurées pendant sept années aient creusé notre déficit public ne semble pas vous alerter. À aucun moment ces 62 milliards de baisses d’impôts n’ont été financés.\nEnsuite, vous parlez de la réindustrialisation, mais je ne sais pas dans quel monde vous vivez ! Dans ma circonscription, il y a potentiellement un plan social à Vencorex, Atos ne va pas bien, General Electric parle de supprimer des emplois."
+        },
+        {
+          "orateur": "M. Éric Woerth",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2960",
+          "texte": "Il y a des entreprises qui vont bien, heureusement !"
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Partout, de grandes entreprises sont en grande difficulté. Ce n’est pas les milliards que vous avez jetés par les fenêtres qui les font rester. (Applaudissements sur les bancs des groupes EcoS et SOC.) Je ne comprends absolument pas quelles sont vos motivations, si ce n’est votre volonté de vous accrocher toujours et encore à cette illusion absolue que les riches doivent pouvoir être plus riches parce qu’un jour, peut-être, la richesse ruissellera sur les plus pauvres. La seule manière de prendre l’argent là où il est, c’est l’impôt. Nous ferons des propositions en ce sens. (Applaudissements sur les bancs des groupes EcoS, LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Éric Woerth."
+        },
+        {
+          "orateur": "M. Éric Woerth",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2960",
+          "texte": "Madame Chatelain, il y a des entreprises qui vont bien en France, heureusement – nous devrions nous en réjouir. Un pays qui a de grandes entreprises est un grand pays. Alors que de nombreux pays les ont perdues, nous en avons encore. Il est important de conserver ce terreau de grandes entreprises. Nous pourrions en être fiers plutôt que de les critiquer sans arrêt.\nLa ligne du groupe EPR est simple, au fond. Personne n’a envie d’augmenter les impôts."
+        },
+        {
+          "orateur": "Une députée du groupe SOC",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Les impôts, c’est le bien public !"
+        },
+        {
+          "orateur": "M. Éric Woerth",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2960",
+          "texte": "Mais la réalité est simple : nous devons redresser nos finances publiques, sans doute plus rapidement et plus fortement que prévu. Certains députés ici sont bien plus doués que nous pour augmenter les impôts. Ils savent très bien faire (Approbations sur les bancs du groupe LFI-NFP)…"
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "Mais oui, laissez-nous faire !"
+        },
+        {
+          "orateur": "M. Éric Woerth",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2960",
+          "texte": "Vous êtes des professionnels en la matière !\nEn ce qui nous concerne, notre but n’est pas celui-là. Compte tenu des circonstances, nous avons besoin de redresser nos finances publiques. La mesure proposée par le Gouvernement est bien conçue et permet de préserver la pérennité des entreprises sans les freiner dans leur développement. Elle a été discutée avec les entreprises, elle est bien dosée et surtout temporaire. Certains n’y croient pas, mais le Gouvernement s’y est engagé fermement et le texte prévoit une temporalité précise.\nPour toutes ces raisons, je pense que nous devons adopter l’article 11, dans l’intérêt du pays. (Applaudissements sur quelques bancs du groupe EPR. – M. Jean-Paul Mattei applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Philippe Brun."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Je constate avec étonnement que ceux qui défendent ces amendements de suppression sont membres d’une majorité qui a adopté, en 2017, la même surtaxe sur l’impôt sur les sociétés,…"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Ce n’était pas la même !"
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "…dont je rappelle le principe. En 2017, le ministre des finances d’Emmanuel Macron a proposé une surtaxe sur l’impôt sur les sociétés afin de remédier au trou qui résultait de l’annulation, par le Conseil constitutionnel et la Cour de justice de l’Union européenne, d’une taxe sur les dividendes que nous avions créée. (M. Mathieu Lefèvre s’exclame.) Cette surtaxe répondait exactement aux mêmes critères que la contribution aujourd’hui proposée et son impact était même plus lourd, puisqu’elle s’élevait à 15 % et que le taux de l’IS était alors de 33 %, et non de 25 %. Or ce nouvel impôt n’avait eu aucun effet économique sur la compétitivité de la France – son fort rendement a simplement permis de combler le trou créé par l’annulation de la taxe sur les dividendes.\nCette fois-ci, nous ne devons pas boucher un trou créé par une annulation du Conseil constitutionnel, mais par votre incompétence ! (Applaudissements sur les bancs du groupe SOC.) La surtaxe sur l’impôt sur les sociétés a fait ses preuves par le passé et permettra de régler le problème. Retirez vos amendements de suppression ! (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. David Guiraud."
+        },
+        {
+          "orateur": "M. David Guiraud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794478",
+          "texte": "La soirée commence avec d’heureuses surprises. À peine la contribution temporaire exceptionnelle sur les bénéfices des grandes entreprises est-elle évoquée que de grands chevaliers se ruent pour les sauver. Nous sommes soulagés de retrouver ce soir notre collègue Ciotti, qu’on pensait enfermé dans le bâtiment du parti Les Républicains – nous ne l’avions pas vu depuis un certain temps ! (Sourires et applaudissements sur quelques bancs du groupe LFI-NFP.)\nJ’aimerais que le débat commence sur des bases saines. Vous affirmez que les recettes de l’impôt sur les sociétés auraient considérablement augmenté parce que son taux a été réduit. Rappelons que la fin de l’épidémie de covid-19 a permis un retour à la normale : les rentrées fiscales n’ont pas été favorisées par la baisse de l’impôt sur les sociétés. Ensuite, le crédit d’impôt pour la compétitivité et l’emploi (CICE) a été supprimé fin 2018. La charge ayant été transférée sur le budget de la sécurité sociale, il ne pèse plus sur le budget de l’État, ce qui explique aussi la hausse des recettes. Enfin, et surtout, avec l’inflation, tous les coûts ont augmenté, les résultats nets des entreprises ont augmenté,…"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Vingt pour cent de défaillances d’entreprises !"
+        },
+        {
+          "orateur": "M. David Guiraud",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794478",
+          "texte": "…ce qui a entraîné une hausse des bénéfices et des marges. Ce qui prouve que l’amélioration des résultats des entreprises ne résulte pas de l’inflation des coûts de production, mais de l’augmentation des bénéfices, qui a profité aux plus grands groupes – certainement pas aux Français ! (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Véronique Louwagie."
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Je vous souhaite une bonne première séance, monsieur le président !\nLes Républicains soutiennent toutes les baisses d’impôts. Je me réjouis de celles de ces dernières années, qu’il s’agisse du taux de l’impôt sur les sociétés, de la cotisation sur la valeur ajoutée des entreprises (CVAE) ou de la flat tax. Ces mesures ont probablement permis une réindustrialisation et nous constatons leurs effets bénéfiques. (Protestations sur les bancs du groupe LFI-NFP.)\nDeux chiffres, chers collègues. Le produit de l’impôt sur les sociétés est passé de 35 milliards en 2017 à 62 milliards en 2022, parce que le monde économique se porte mieux. Il faudrait poursuivre ces baisses d’impôts. Notons que le Portugal, dont le taux d’imposition sur les sociétés s’élève à 21 %, réfléchit actuellement à l’abaisser à 15 %, voire à 12,5 %."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Soyons donc prudents. Toutefois, nous avons besoin aujourd’hui d’augmenter les prélèvements obligatoires pour faire face aux difficultés budgétaires. C’est la raison pour laquelle nous nous résignons à cette contribution exceptionnelle dans la mesure où elle est temporaire et ciblée.\nMonsieur le ministre, vous avez indiqué que 400 ou 440 sociétés seraient concernées par la contribution exceptionnelle. Comment avez-vous construit votre prévision de recettes de 8 milliards ?\nMonsieur le président de la commission des finances, vous évoquez un nombre plus important de défaillances d’entreprises. Sachez que jusqu’en février 2024, les Urssaf ne procédaient à aucun appel du fait de la crise sanitaire. Cette hausse constitue donc un simple rattrapage."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Je tiens d’abord à exprimer ma compassion pour M. le ministre. La droite a défendu des amendements de suppression de l’article 7 ; pour l’article 11, ce sont les fondamentalistes macronistes qui s’en chargent. Le baroque n’est pas dans le dispositif, mais dans l’attelage qui gouverne la France ! (Applaudissements sur les bancs des groupes SOC et EcoS).\nMadame Louwagie, le produit de l’IS ne passe pas de 32 à 62 milliards. Il passera à 56 milliards…"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Je parlais de 2022 ! Vous n’avez pas écouté !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "…en 2025. Ce chiffre, inscrit dans le projet de loi de finances, ne représente même pas 2,5 % du PIB. N’oublions pas, enfin, que cette contribution ne concernera que les très grandes entreprises qui font des bénéfices – des bénéfices records pour certaines d’entre elles,…"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "…sans quoi elles n’auraient pas réussi à verser 103 milliards de dividendes en 2024. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.) La petite PME, le boulanger, le garagiste ne sont pas concernés. Nous voterons contre les amendements de suppression ! (Applaudissements sur les bancs du groupe GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Je suis étonné par l’article 11, monsieur le ministre. Hier soir, dans cet hémicycle, vous disiez qu’il n’y avait pas assez d’ETI en France. Le chiffre d’affaires d’une ETI pouvant atteindre jusqu’à 1,5 milliard, cette mesure touchera directement ces entreprises.\nContrairement à ce que l’on pourrait penser, ensuite, les grandes entreprises sont moins rentables que les PME. La rentabilité moyenne des grandes entreprises s’élève à 6 %, tandis que celle des PME est de 9 %. On a l’impression que taxer les grandes entreprises revient à taxer les riches, ce qui est statistiquement faux."
+        },
+        {
+          "orateur": "Mme Alma Dufour",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795200",
+          "texte": "Elles viennent d’où, vos statistiques ?"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Le tissu économique des grandes entreprises a souffert de deux crises successives : celle du covid et celle de l’énergie. Ces entreprises connaissent des difficultés pour rembourser leur prêt garanti par l’État (PGE). Les défaillances d’entreprises ont augmenté de 20 % au cours des six premiers mois de l’année. Cette disposition est donc pour le moins dangereuse. (Applaudissements sur les bancs du groupe UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Jean-Philippe Tanguy."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Je vous souhaite une bonne première séance, monsieur le président !\nJe suis un peu éberlué par ce que j’entends. C’est le rôle légitime d’un groupe d’opposition comme celui de nos alliés de l’UDR de s’opposer à la hausse de la fiscalité et au dispositif proposé. En revanche, après que les députés du groupe Droite républicaine ont essayé de supprimer la hausse de la taxe sur l’électricité voulue par Michel Barnier pour récupérer 6 milliards, c’est au tour de députés du groupe Ensemble pour la République de vouloir supprimer une surtaxe proposée par le Gouvernement et destinée à rapporter 8 milliards. On n’a jamais vu ça sous la Ve République ! Il faut remonter aux pires heures de la IVe ou de la IIIe République pour voir des députés censés soutenir un gouvernement le lâcher seulement trois semaines après sa formation. Nous connaissions le sauve-qui-peut à la veille d’une élection, nous ne l’avions jamais vu dès les débuts d’un gouvernement ! Quelle irresponsabilité devant les Français ! Quelles solutions proposez-vous pour remplacer les 8 milliards ?"
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Baisser les dépenses !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Pour l’instant, il n’y a aucune proposition sur ce sujet."
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Si !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Je suis persuadé que dans la seconde partie du PLF, il n’y en aura pas. Cela fait sept ans qu’à chaque fois qu’on prétend faire 1 euro d’économie, il y a 2 euros de dépenses en plus ! Vos économies, on les connaît, à Ensemble pour la République ! La réalité, c’est une démagogie sans nom !"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Alors, censurez-les !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "La gauche et le Rassemblement national sont plus responsables que les soutiens du Gouvernement, c’est une honte ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Mme Louwagie pose une question importante sur l’estimation du rendement de la contribution, qui concerne bien les entreprises dont le chiffre d’affaires est supérieur à 1 milliard d’euros, soit environ 450 entreprises : très majoritairement des grandes entreprises, très peu d’ETI – je tiens à rassurer M. Verny sur ce point – et certainement pas des PME. Dans les recettes de l’IS en 2024, estimées à 57,7 milliards, nous savons isoler la part qui correspond aux entreprises qui réalisent plus de 1 milliard de chiffre d’affaires. En appliquant les deux taux prévus de cette contribution – pour les entreprises dont le chiffre d’affaires est compris entre 1 et 3 milliards et celles dont le chiffre d’affaires est supérieur à 3 milliards –, nous sommes donc en mesure d’estimer le rendement pour 2025, qui tient compte également des prévisions de croissance.\nMme Louwagie évoquait une recette de l’IS de 62 milliards d’euros en 2022, ce chiffre ayant été nuancé par le président Coquerel, qui a rappelé l’effet du plan de relance : vous avez tous deux raison, mais cet effet a duré puisqu’avec 57 milliards estimés pour 2024, nous sommes bien au-dessus du niveau de 2019 et des années antérieures."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Il y avait 20 milliards de CICE !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Introduire une contribution exceptionnelle tout en veillant à ne pas augmenter le taux d’impôt sur les sociétés se justifie donc par le fait qu’un produit fiscal de 57 milliards n’aurait pas été obtenu avec un taux de l’IS à 33 %. J’en conviens très volontiers. Pour éviter l’effet récessif que nous devons tous craindre,…"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Arrêtez d’agiter la peur tout le temps !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "…soyons donc vigilants en conservant le caractère exceptionnel et temporaire de la contribution, ainsi que la transparence et la lisibilité que nous devons aux contribuables concernés."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix les amendements identiques nos 56, 101, 1550, 2098 et 3535."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        224\n        Nombre de suffrages exprimés                223\n        Majorité absolue                        112\n                Pour l’adoption                14\n                Contre                209"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 56, 101, 1550, 2098 et 3535 ne sont pas adoptés.)\n (Applaudissements sur les bancs des groupes EcoS et GDR, ainsi que sur quelques bancs du groupe RN. – Les députés des groupes LFI-NFP et SOC se lèvent et applaudissent, en se tournant vers les bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533838",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je suis saisi de plusieurs amendements, nos 3250, 1791, 2679, 489 rectifié, 1709 rectifié, 2528 rectifié, 3376 rectifié, 1551, 3553, 104 et 2099, pouvant être soumis à une discussion commune.\n Les amendements nos 489 rectifié, 1709 rectifié, 2528 rectifié et 3376 rectifié sont identiques, ainsi que les amendements nos 104 et 2099.\n La parole est à Mme Danielle Simonnet, pour soutenir l’amendement no 3250."
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Félicitations pour ces 14 voix !\nMonsieur Woerth, il vous arrive d’avoir raison, notamment quand vous dites qu’il y a plus brillant que vous et le Gouvernement pour gérer l’impôt : oui, il y a le Nouveau Front populaire ! Un de vos collègues a posé une bonne question : qu’est-ce qu’un bon impôt ? C’est un impôt qui permet une redistribution des richesses et qui est fiscalement juste, progressif, utile socialement et en matière d’écologie. C’est pourquoi nous proposons la progressivité de l’impôt sur les sociétés. La contribution sur les bénéfices proposée par l’article 11 est nécessaire pour corriger le résultat de votre politique de l’offre et de cadeaux, qui a conduit à ce déficit record qui vous sert aujourd’hui à justifier l’austérité.\nPour nous – Nouveau Front populaire –, le fait que vous en veniez enfin à créer une contribution sur les bénéfices constitue une victoire idéologique. Pourtant, non seulement cette contribution est dérisoire, puisqu’elle ne va concerner que 450 entreprises, mais vous ne souhaitez même pas la rendre pérenne. Avec cet amendement, nous exigeons qu’elle le soit, parce que la politique d’austérité que vous allez imposer au peuple et la politique de casse des services publics sont pérennes. Vous avez osé proposer une hausse pérenne de la taxe sur l’électricité contre le peuple pour récupérer 6 milliards. Heureusement, nous vous avons mis en échec. Il faut rendre pérennes les contributions des grandes entreprises."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533841",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Ayda Hadizadeh, pour soutenir l’amendement no 1791."
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Pourquoi faut-il rendre cet impôt pérenne ? Premier argument, non encore évoqué : si le dispositif est temporaire, les entreprises vont se comporter comme des acteurs rationnels en faisant de l’optimisation fiscale. Elles vont minimiser les profits de l’an prochain et attendre deux ans – le temps que l’impôt soit supprimé – pour déclarer des profits plus élevés. (Mme Céline Hervieu applaudit.)"
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Deuxième raison, invoquée par ma collègue Simonnet : quand vous baissez les crédits des services publics, quand vous imposez des taxes sur les classes modestes, quand vous augmentez les tarifs de l’électricité, vos mesures sont permanentes ; pourquoi ne voulez-vous jamais instaurer de mesures pérennes sur les plus grosses entreprises ? (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Parce que vous êtes mus par cette idéologie selon laquelle, quand on est riche, on a réussi et on est méritant, et quand on est pauvre, c’est qu’on l’a mérité – il faut faire des efforts pour devenir riche ! Vous êtes antipauvres ! (M. Mathieu Lefèvre s’exclame.) Mais les pauvres sont méritants et ce n’est pas parce qu’on ne gagne pas d’argent qu’on n’a pas réussi sa vie. Quand on soigne, quand on éduque, quand on guérit les autres, on réussit sa vie. Ceux qui gagnent des millions ne sont pas les seuls qui réussissent leur vie. Alors, soutenez le peuple et rendez cette contribution pérenne ! (Applaudissements sur les bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533845",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Laurent Mazaury, pour soutenir l’amendement no 2679."
+        },
+        {
+          "orateur": "M. Laurent Mazaury",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "Dans le même esprit, cet amendement vise à demander un effort supplémentaire aux grandes entreprises en instituant la contribution exceptionnelle sur les bénéfices au titre de trois – et non deux – exercices consécutifs clos à compter du 31 décembre 2024. J’en profite pour alerter M. le ministre sur la situation particulière des ETI qui seront concernées par la tranche de chiffre d’affaires supérieure à 1,5 milliard."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Sur les amendements no 489 rectifié et identiques, je suis saisi par le groupe Écologiste et social d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Édouard Bénard, pour soutenir l’amendement no 489 rectifié."
+        },
+        {
+          "orateur": "M. Édouard Bénard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "Entre 2017 et 2022, le taux de l’impôt sur les sociétés a été progressivement réduit pour atteindre 25 % – un des taux les plus faibles du G7, ayons-le en tête."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Édouard Bénard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796106",
+          "texte": "Parallèlement, les grands groupes français ont atteint, lors de la crise du covid, des profits records, dont les niveaux constituent désormais un plateau pour certaines multinationales, et qui font souvent l’objet d’une fiscalité plus faible que le droit commun, du fait de pratiques d’optimisation fiscale.\nUne étude menée en 2019 par l’Institut des politiques publiques avait révélé que les grandes entreprises payaient 6 points de moins d’impôts que les très petites, petites et moyennes entreprises (TPE et PME). Cet amendement vise donc à créer une contribution exceptionnelle sur l’IS, fixée à 15 points supplémentaires pour les entreprises dont le chiffre d’affaires est supérieur à 1 milliard – portant donc le taux de l’IS à 40 % – et à 30 points supplémentaires pour les entreprises réalisant un chiffre d’affaires supérieur à 3 milliards – portant ainsi le taux de l’IS à 55 %."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533852",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Olivier Faure, pour soutenir l’amendement no 1709 rectifié."
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Monsieur le ministre, quand on a une majorité de 14 voix contre 209, il faut se poser une question, dont la réponse est assez simple : ce soir, c’est une victoire idéologique de la gauche. (Applaudissements sur les bancs des groupe SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Il a raison, et c’est une honte !"
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Après avoir expliqué pendant des années que vous ne vouliez pas toucher à l’imposition des plus riches – entreprises ou particuliers –, vous avez enfin reconnu qu’il fallait trouver l’argent là où il était."
+        },
+        {
+          "orateur": "Une députée du groupe SOC",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Les temps changent !"
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Les impôts ne sont pas un crime et la dette dont nous parlons depuis le début de l’examen du projet de loi de finances ne tombe pas du ciel. Elle n’est pas une punition divine, car c’est vous qui l’avez créée : les dividendes de quelques-uns, c’est la dette de tous les autres. Nous vous le répétons : quand on ne prend pas l’argent à ceux qui en ont, on le prend à tous les autres.\nLe grand défaut de cet article 11 n’est pas d’exister, il est d’être temporaire. Comme vous n’allez prélever cet agent que temporairement, c’est le prélèvement sur tous les autres qui sera définitif : sur l’électricité, sur les chômeurs, sur les retraités, sur la hausse du ticket modérateur pour les soins chez le médecin ou à l’hôpital. C’est tout cela – sans parler des 4 000 enseignants qui manqueront au service public – que vous allez pérenniser ! Quant à nous, ce que nous souhaitons pérenniser, au contraire, c’est une taxe sur les entreprises dont le chiffre d’affaires est supérieur à 1 milliard ou à 3 milliards, ce qui ne les fera pas fuir puisqu’elles ont distribué 100 milliards de dividendes l’an dernier. (Applaudissements sur plusieurs bancs du groupe SOC et sur quelques bancs du groupe EcoS.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533859",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Marianne Maximi, pour soutenir l’amendement no 2528 rectifié."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Votre article propose une taxation exceptionnelle sur les grandes entreprises. Il constitue un vrai désaveu pour la Macronie, dont nous avons eu la confirmation lors du vote précédent, avec vos 14 voix. Vous avez le mérite d’être présents et de défendre vos idées, mais vous êtes très minoritaires dans cette assemblée. (Applaudissements sur plusieurs bancs du groupe LFI-NFP et sur quelques bancs des groupes SOC, EcoS et GDR.)\nDepuis deux ans, vous nous expliquez à chaque débat budgétaire que si l’on augmente la taxation des multinationales, le pays va couler, les richesses vont s’envoler, les entreprises vont partir et tout va s’écrouler."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Il ne s’agit pas de multinationales !"
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Vous avez osé répéter ce mensonge chaque année. Le CAC40 a battu tous les records de versement de dividendes aux actionnaires et le résultat est là : le déficit de l’État a explosé, l’Union européenne nous a placés en procédure pour déficit excessif. Le bilan de la politique d’Emmanuel Macron est franchement désastreux.\nCet article constitue donc un désaveu. À force d’avoir refusé d’agir, vous voilà face à votre échec. Comme l’original est toujours préférable à la pâle copie que vous essayez de nous vendre, notre amendement – soutenu par l’ensemble du Nouveau Front populaire – vise à faire contribuer les grandes entreprises qui en ont les moyens, en portant le taux de l’IS à 40 %, voire à 55 %. Cette proposition ne fait que rattraper les deux dernières années, pendant lesquelles vous avez fait payer les classes moyennes et populaires plutôt que les grands patrons. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533864",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Nicolas Bonnet, pour soutenir l’amendement no 3376 rectifié."
+        },
+        {
+          "orateur": "M. Nicolas Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841507",
+          "texte": "Au sein du Nouveau Front populaire, nous partageons tous le constat d’un gros problème de financement des services publics, dans la santé, dans l’éducation nationale et même dans la police. L’État doit dégager des moyens pour les financer, mais aussi pour répondre aux enjeux de transition énergétique et de lutte contre le changement climatique. Les salariés des entreprises attendent des actions en la matière et les entreprises elles-mêmes demandent qu’on les accompagne dans cette transition. Or, où peut-on trouver de l’argent ? En prélevant davantage d’impôts auprès des entreprises qui dégagent beaucoup de bénéfices et qui sont si excédentaires qu’on ne va pas les mettre en danger. (Applaudissements sur plusieurs bancs des groupes EcoS et SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533963",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Charles Rodwell, pour soutenir l’amendement no 1551."
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Les prises de paroles qui viennent d’avoir lieu montrent à quel point il est dangereux d’ouvrir la boîte de Pandore avec cet impôt. C’est pourquoi nous proposons qu’il soit réellement exceptionnel, c’est-à-dire qu’il dure un an et non deux."
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Ce qui est exceptionnel, c’est un parti présidentiel réduit à 14 voix !"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "À 14, vous avez du mérite !"
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Nous ressentons une vive méfiance à l’égard des contributions exceptionnelles qui durent plusieurs années. Nous souhaitons donc que cette mesure ne s’applique que pour l’année 2025."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533968",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Félicie Gérard, pour soutenir l’amendement no 3553."
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "texte": "Il vise à limiter la contribution exceptionnelle sur les bénéfices des grandes entreprises en subordonnant sa prolongation à l’analyse de son application en cours d’année 2025. En retenant le chiffre d’affaires comme seul critère d’assujettissement à la contribution, cette mesure risque en effet d’entraîner de nombreux effets de bord, car elle frapperait indifféremment des activités à la rentabilité élevée et des activités à la rentabilité réduite. Avant d’envisager la prolongation de cette mesure en 2026, il semble donc nécessaire d’étudier ses effets de bord. Aussi demandons-nous que le Gouvernement remette au Parlement un rapport sur l’évaluation de cette mesure."
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Et pour l’électricité, on demande un rapport ?"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Non, on prend chez les pauvres !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533972",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Charles Sitzenstuhl, pour soutenir l’amendement no 104."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Cet amendement de repli vise à limiter à un an la durée de cette mesure.\nM. Faure a raison : ce soir, c’est une victoire idéologique de la gauche. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) À titre personnel, je le déplore. Le rejet des amendements de suppression, il y a quelques minutes, marque le début de la fin de la politique de l’offre (Vifs applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR, dont plusieurs députés se lèvent), qui a valu à notre pays des succès pendant sept ans. C’est le début du retour à une politique qui a bloqué le pays pendant des décennies (Exclamations sur plusieurs bancs du groupe SOC), maintenu le taux de chômage à 10 %, fait fuir les investisseurs, qui a fait de la France le pays où il ne fallait surtout pas construire des usines ou réaliser des investissements. (Applaudissements sur quelques bancs du groupe EPR.) On sait où cette politique nous a menés.\nComme plusieurs autres de mes collègues, nous sommes peut-être minoritaires, ou fondamentalistes, comme vous le dites, mais j’ai la fierté d’avoir contribué pendant sept ans à ramener le taux de chômage de la France à 7 % (Exclamations prolongées sur les bancs du groupe SOC), ce que personne n’avait réussi, et à faire de la France le pays le plus attractif d’Europe pendant plusieurs années. Nous avons retrouvé un solde positif d’ouvertures d’usines et fait du plein emploi une réalité, comme chez moi, en Centre-Alsace."
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Vous avez échoué !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "J’assume toute la politique de l’offre que nous avons menée depuis sept ans. Cela a été un grand succès pour la France ! (Applaudissements sur plusieurs bancs du groupe EPR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533978",
+      "valeurPtsOdj": "1",
+      "titre": "Suspension et reprise de la séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Mathieu Lefèvre, pour soutenir l’amendement no 2099."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Philippe Brun fait mine de croire que la situation est la même qu’en 2017, mais je rappelle qu’à l’époque, c’est en raison du contentieux lié à la taxe sur les dividendes, héritage de la précédente majorité socialiste qui s’était livrée à son jeu favori d’apprenti sorcier,…"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Ce sont les Mozart de la finance qui parlent !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "…que nous avons dû colmater les brèches à l’aide d’une surtaxe applicable à l’impôt sur les sociétés."
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Il faudrait taxer l’arrogance !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "En France, la fiscalité est toujours une facilité. C’est une passion française : quand on ne sait pas quoi faire, quand on est à court d’idées, on augmente les impôts. Nous assistons ce soir au début d’un contre-choc de compétitivité dont nous ne mesurons pas encore les conséquences. (Applaudissements sur quelques bancs du groupe EPR.) Nous sommes peut-être minoritaires, mais ce n’est pas très grave. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Il vous faut juste apprendre à être minoritaire !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Je préfère être minoritaire et défendre des convictions que faire partie d’une majorité comme la vôtre et n’avoir aucune colonne vertébrale idéologique.\nCe que notre assemblée fait ce soir est à rebours de ce que font tous nos voisins. (Applaudissements sur quelques bancs du groupe EPR.) À l’heure où la Chine se réarme et où les États-Unis lancent un plan d’investissement majeur à grand renfort de protectionnisme et de milliards de dollars,…"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Plutôt que de nous comparer à la Chine, comparez-nous à l’Espagne !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "…nous nous écartons singulièrement de ce que font nos voisins européens. (Exclamations sur plusieurs bancs des groupes LFI-NFP et SOC.) Au lieu de nous préparer pour la compétition mondiale, nous revenons à nos vieux fantasmes. Cette contribution doit être très temporaire ! (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Tous ces amendements ont été rejetés par la commission des finances. On peut en réalité les répartir en trois blocs. Les trois premiers, les nos 3250, 1791 et 2679, ont pour objet de pérenniser le dispositif sans le modifier. La commission a voté contre, au motif que nous redeviendrions alors les champions européens de l’imposition des bénéfices. (M. Charles Sitzenstuhl applaudit. – Exclamations sur quelques bancs du groupe LFI-NFP.)\nLa pérennisation de la contribution ferait de la France la championne de l’OCDE de l’imposition des bénéfices, ex aequo avec Malte."
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Vous savez bien que les entreprises feront de l’optimisation fiscale !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "J’explique ici la position de la commission.\nLe deuxième bloc d’amendements se compose des amendements identiques nos 489 rectifié, 1709 rectifié, 2528 rectifié et 3376 rectifié. Je demande à leurs auteurs de les retirer, car leur adoption aurait pour effet de faire baisser de 8 à 6 milliards les recettes de l’impôt exceptionnel, or j’ai cru comprendre que ce n’est pas ce que vous souhaitez. Il y a une erreur de rédaction.\nEnfin, les quatre derniers amendements, nos 1551, 3553, 104 et 2099, ont pour objet de ramener de deux ans à un an la durée de la mesure. Or si elle ne s’applique que pendant un an, la porte sera ouverte à toutes les formes d’optimisation."
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Voilà les raisons pour lesquelles la commission des finances a repoussé chacun de ces amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Soyez cohérents : si vous voulez rendre cette mesure pérenne, autant augmenter le taux de l’IS plutôt que de faire durer indéfiniment la surtaxe à l’IS. C’est précisément parce qu’il s’agit d’une surtaxe qu’elle doit rester temporaire."
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Les entreprises feront de l’optimisation, vous le savez !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Comprenez la différence fondamentale qui existe du point de vue de l’attractivité du pays entre l’augmentation du taux de l’IS et un prélèvement exceptionnel dans le cadre de l’IS existant. Cela n’a rien à voir. Le second constitue une contribution visant à faire participer ponctuellement certaines entreprises au redressement des finances publiques, car le besoin est plus urgent et plus important que prévu ; la première serait un signal fiscal envoyé aux acteurs économiques. Je rejoins sur ce point M. le rapporteur général. Le retour à un taux de 33 %, voire à un taux supérieur, nous ferait revenir aux produits fiscaux d’avant 2017, bien inférieurs à ceux d’aujourd’hui, et à un sous-investissement qui aurait un effet récessif durable. Il est crucial de faire la distinction entre ces deux approches et de souligner que l’article 11 ne vise pas à augmenter le taux de l’IS ; je le répéterai autant de fois que nécessaire.\nEnfin, MM. Faure et Bonnet assimilent ce dispositif à une mesure de financement des services publics. Cela peut s’entendre ; après tout, nous sommes là pour débattre des recettes et bientôt des dépenses. Mais le but n’est pas de trouver des recettes pour financer systématiquement plus de dépenses."
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Si !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Non ! Vous suivez votre réflexe pavlovien qui consiste à dépenser toujours plus. (Exclamations sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Il y a plus de besoins ! Nous avons moins d’écoles, moins d’hôpitaux…"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Vous m’excuserez de penser que nous ne devons pas dépenser plus, mais dépenser mieux. Il y a donc besoin de réformes. Évitons le réflexe systématique qui nous porte à juger, à chaque PLF, que les crédits de chaque mission budgétaire pour chaque ministère doivent être en hausse pour que le budget soit bon. Ce n’est pas parce qu’on augmente les recettes qu’il faut chercher toujours plus de dépenses. Si nous cherchons à réduire le déficit public par des contributions exceptionnelles, ce n’est pas pour dépenser toujours plus."
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Vous augmentez les recettes prélevées sur les Français, et de manière pérenne !"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Les dépenses, ce sont des services publics, monsieur le ministre ! Pourquoi êtes-vous contre les services publics ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "À mon sens, il faut rendre pérenne la contribution sur les bénéfices des grandes entreprises pour remédier au problème structurel pointé dans le rapport d’information que j’ai rédigé avec Jean-René Cazeneuve au sujet des différentiels de fiscalité entre entreprises.\nLes différences de fiscalité existent d’abord entre les multinationales et les autres entreprises – nous y reviendrons à l’occasion d’un autre amendement –, mais une différence de 3 % est également observée entre les très grandes entreprises et les TPE et PME, en faveur des premières. Cela n’est ni normal ni acceptable. Les amendements visant à pérenniser le dispositif corrigeraient en partie ce problème.\nPar ailleurs, comme cela a été rappelé, dans le cas où un dispositif est temporaire, les entreprises ou les particuliers – nous l’avons vu en débattant de la taxe sur les ultrariches – peuvent anticiper et s’adapter pour déclarer des revenus après que la mesure a pris fin. Voilà la seconde raison pour laquelle j’estime nécessaire de la pérenniser.\nEnfin, je vous répondrai sur le fond, monsieur Sitzenstuhl. Vous savez que je respecte vos arguments. Vous défendez le bilan de ce que vous appelez la politique de l’offre et de la compétitivité et que d’autres appellent néolibéralisme ; quant à moi, je l’appelle capitalisme financiarisé. Mais quel est ce bilan ? C’est celui d’un capitalisme qui estime que les taux de profit ne sont pas acceptables au-dessous de deux chiffres et qui, pour assurer l’augmentation des profits, s’éloigne du mode d’opération qui définissait le capitalisme entrepreneurial ou patrimonial. Il réalise des profits sur le dos de tous les productifs, que ce soit les travailleurs, les PME ou les TPE.\nVous affirmez que le bilan du capitalisme mondialisé et financiarisé est positif ; excusez-moi, mais quand je vois le monde que nous sommes en train de créer, j’ai peur de le laisser à mes enfants et à mes petits-enfants ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Guerres, explosion des inégalités, catastrophe écologique et montée historique de la pauvreté dans le monde : je ne trouve pas que le bilan soit bon. Nous payons tous la réalisation par quelques-uns de profits exceptionnels, jamais auparavant observés dans l’histoire. Nous ne saurions poursuivre dans cette voie insupportable pour l’humanité. C’est pourquoi je m’oppose frontalement à ce modèle de société. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS. – M. Stéphane Peu applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Pour cette série d’amendements, je donnerai la parole à un orateur par groupe, puis nous limiterons les interventions pour avancer dans l’examen du texte.\n La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "Chers collègues de l’ex-majorité décomposée et recomposée – je ne sais pas comment l’appeler –, vous n’êtes pas crédibles. Vous avez discrédité toutes vos mesures en faveur de l’offre par votre recours à la dépense publique. On ne saurait se contenter de réduire la fiscalité sur les productifs si on ne réduit pas en même temps la dépense. Or, pendant les années passées, vous avez certes fait des efforts fiscaux pour favoriser l’offre, mais la dépense n’a cessé d’augmenter. Résultat, la dette a augmenté de 1 000 milliards et vos arguments de ce soir font flop."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "De 850 milliards !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "texte": "D’accord, 850 milliards pour l’instant, qui deviendront 1 000 à la fin de l’année. Vous n’avez fait que la moitié du chemin. Votre idée était bonne, mais par paresse, vous avez refusé de vous attaquer à un autre problème fondamental : l’augmentation de la dépense publique. Si nous ne la réduisons pas massivement, nous n’y arriverons jamais. (Mme Caroline Parmentier applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Il faut que chacun reprenne ses esprits et fasse son examen de conscience au sujet des années passées. Nous faisons face à un endettement massif. Pour cette raison, le Gouvernement nous propose d’augmenter de manière temporaire et ciblée l’imposition sur les sociétés.\nLes députés Les Républicains continuent de penser que la priorité doit être donnée à la diminution des dépenses. Nous aurions préféré nous passer de cette augmentation temporaire et ciblée, mais la situation catastrophique de la dette française ne nous laisse guère le choix. Alors, de grâce, faisons en sorte que cette contribution exceptionnelle reste temporaire et ciblée ! Je vois un certain nombre d’amendements visant à ce que le temporaire devienne définitif (« Oui ! » sur quelques bancs du groupe LFI-NFP) et à ce que le ciblé devienne quasiment général, avec des taux d’imposition montant jusqu’à 55 %."
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Ce ne sera pas général ! La surtaxe ne touchera que les très grosses entreprises !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "L’expérience économique, partout dans le monde, prouve qu’une augmentation de l’imposition sur les sociétés entraîne le risque d’une baisse du produit de l’impôt. Il convient donc d’en rester à la mesure gouvernementale et de ne surtout pas aller plus loin. (Applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Louis Boyard."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "La question de la pérennisation de cet impôt sur les sociétés doit être analysée sous l’angle des rapports entre le capital et le travail. Depuis que Macron est président de la République, tous les cadeaux qu’il a faits aux entreprises et sa politique de laisser-faire ont modifié le partage de la valeur ajoutée : 1,4 % de cette valeur est passée du travail au capital.\nIl est ici question d’entreprises ayant réalisé 150 milliards de bénéfices en 2023 et à qui vous voulez prendre 8 petits milliards, dont 4 petits milliards en 2026, c’est-à-dire 2,6 % de leurs profits. Dans le même temps, la pauvreté a explosé.\nNotre pays compte 10 millions de personnes pauvres. M. Barnier a annoncé qu’il allait faire deux tiers des économies sur à peu près 90 % des Français, et seulement un tiers sur une petite minorité. Mais les économies que vous faites sur les Français seront pérennisées : la hausse des prix de l’électricité que vous voulez, celle du montant des consultations, la baisse du salaire des apprentis sont permanentes, alors pourquoi pas cet impôt sur les sociétés ? Si vous la considérez du point de vue du rapport entre le capital et le travail, la pérennisation de cet impôt n’est pas seulement une question de cohérence, mais de justice fiscale. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Il va finir aux « Grosses têtes » !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Prisca Thevenot."
+        },
+        {
+          "orateur": "Mme Prisca Thevenot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795920",
+          "texte": "Monsieur Faure, en vous écoutant défendre l’amendement no 1709 rectifié, je me suis dit que même la honte devait rougir en vous entendant ! (Exclamations vives et prolongées sur les bancs des groupes LFI-NFP et SOC.) Vous vous inquiétez de l’état du pays, mais parlons de l’état dans lequel vous nous l’avez laissé en 2017 : le chômage de masse, des fermetures ou des départs d’entreprises, des services publics abandonnés ; je ne parle même pas de la justice ou des forces de l’ordre. (Applaudissements sur quelques bancs du groupe EPR.) Alors oui, en 2017, nous avons largement investi dans notre pays ; nous l’avons fait pour les services publics, pour les salariés et pour les entreprises. (Exclamations nourries sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Un peu de calme, s’il vous plaît."
+        },
+        {
+          "orateur": "Mme Prisca Thevenot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795920",
+          "texte": "Grâce à cela, nous avons pu protéger les Français pendant l’inflation et la crise de la covid. Vous affirmez être fiers du retour de la gauche ; quant à moi, j’ai honte de cette gauche qui s’allie à Jean-Luc Mélenchon ! (Applaudissements sur quelques bancs du groupe EPR. – Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Kévin Mauvieux."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "texte": "Une mise au point s’impose. D’abord, on nous parle sans cesse de politique de l’offre, mais c’est une politique des oligarques. Vous avez mis les gilets jaunes dans la rue. Moi qui suis Eurois, je n’ai jamais vu autant de manifestations, ni de violence ni de désarroi chez les Français, qu’à l’époque des gilets jaunes. Ça, c’était vous ! Vous dites avoir récupéré une situation calamiteuse en 2017, mais c’était vous aussi, car Emmanuel Macron était le ministre de l’économie de François Hollande ! (Applaudissements sur les bancs du groupe RN.)\nDevons-nous regarder les Laurel et Hardy de la Macronie nous donner des leçons d’économie alors que nous galérons pour élaborer un projet de loi de finances ? C’est vous qui avez fait couler nos finances, pas les socialistes quand ils étaient au pouvoir ! La situation actuelle est le résultat de votre politique, combinée à leur politique précédente, à l’époque où vous étiez alliés dans les mêmes gouvernements.\nDeux citations récentes sont intéressantes. La première date du 12 septembre 2024 : « Nous serons aux côtés de Michel Barnier, Premier ministre…"
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "texte": "Marine Le Pen !"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "texte": "…issu de la Droite républicaine, pour que ces politiques, essentielles pour redresser la France, soient menées. » Ces mots ont été prononcés par Laurent Wauquiez. Comme il n’est jamais là, peut-être a-t-il oublié…"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Marine Le Pen est-elle là ?"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "texte": "…et vous incite-t-il à voter contre toutes les dispositions du gouvernement de Michel Barnier ?"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Où est Mme Le Pen ?"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "texte": "En tout état de cause, quand il n’est pas là pour un rappel au règlement, il ne peut pas vous appeler à soutenir le Gouvernement. Seconde citation :…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Il faut conclure."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "texte": "…« Je ne serai jamais celui qui complique la vie de Michel Barnier. » C’était le 6 octobre 2024. Je vous le donne en mille, c’est un autre absent ce soir : Gabriel Attal ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La séance est suspendue à la demande de M. Nicolas Sansu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-deux heures trente-cinq, est reprise à vingt-deux heures quarante.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La séance est reprise.\nLa parole est à M. Tristan Lahais."
+        },
+        {
+          "orateur": "M. Tristan Lahais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841223",
+          "texte": "Le groupe Écologiste et social soutient les amendements qui visent à pérenniser la contribution des plus grandes entreprises. Il y a une confusion, dans les attentes à l’égard de cette mesure, entre une réduction minime de la dette, de l’ordre de 6 à 8 milliards sur un stock de dette de plus de 3 000 milliards, et le rééquilibrage tendanciel et nécessaire de nos comptes publics. Si ce dispositif n’est pas rendu pérenne, alors nos déséquilibres publics seront durables.\nÉvitons le « deux poids, deux mesures » par lequel on considère que les dépenses publiques doivent être durablement abaissées tandis que l’on renvoie le problème des recettes à plus tard. En réalité, deux solutions s’offrent à nous : soit nous rééquilibrons nos comptes publics en prélevant davantage de recettes, et il faut le dire dès à présent ; soit nous diminuons d’autant la dépense publique. On sait d’ores et déjà que les 40 milliards d’économies que vous exigez dans la dépense publique risquent de mettre à mal des services publics dont nous savons, car nous l’avons beaucoup entendu ces derniers mois, combien les Français ont besoin. Nous appelons à la pérennisation de la contribution sur les bénéfices des grandes entreprises."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Laurent Mazaury."
+        },
+        {
+          "orateur": "M. Laurent Mazaury",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "Monsieur le rapporteur général, vous avez rappelé les trois différentes mesures proposées par ces amendements en discussion commune, mais il en existe une quatrième, que j’ai proposée avec l’amendement no 2679 : plutôt que de pérenniser ou de raccourcir le dispositif, la voie de la raison, défendue par le groupe LIOT, est d’instaurer la contribution exceptionnelle pour trois années, ce qui améliorerait l’efficacité de la mesure et permettrait de l’évaluer jusqu’en 2027. (M. Jean-Pierre Bataille applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Jean-Paul Mattei."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "texte": "La contribution exceptionnelle sur les bénéfices des grandes entreprises est un pourcentage sur l’impôt sur les sociétés, or celui-ci est prélevé après investissement. Je rappelle que l’entreprise établit un compte de résultat, sur lequel figurent le chiffre d’affaires, les charges, la dotation aux amortissements et le résultat, lequel est soumis à l’impôt sur les sociétés. C’est sur cet impôt que la taxe est applicable.\nLa mesure n’aura pas d’effet sur l’investissement puisque le prélèvement de la taxe intervient après. Elle est assez bien calibrée, selon moi. Nous verrons bien sûr à l’usage ce qu’elle donne. Personnellement, je suis favorable à la limitation dans le temps de la contribution. Elle n’empêchera pas les entreprises d’investir et, de façon plus générale, elle n’aura pas un impact énorme sur leurs décisions d’investissement.\nCertes, elle aura des effets sur le bénéfice distribuable, mais, pour deux ans, les actionnaires peuvent consentir un effort, d’autant que c’est une manière de sortir des difficultés. Donnons sa chance, dans un temps limité, à cette mesure, qui me paraît assez bien étudiée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. François Jolivet."
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Je soutiens la position du Gouvernement. En effet, je fais partie de ceux qui ont repoussé les amendements de suppression de l’article 11.\nSelon moi, la contribution exceptionnelle doit rester exceptionnelle. Mes chers collègues, quand je vous entends parler, j’ai l’impression qu’il y a le monde des méchants et celui des gentils, et que les méchants seraient dans les entreprises, en particulier dans celles qui font plus de 1 milliard de chiffre d’affaires. (Exclamations sur les bancs du groupe LFI-NFP.) Je ne m’exprime pas souvent ; laissez-moi poursuivre s’il vous plaît.\nIl n’y a pas d’étanchéité entre le secteur public et le secteur privé. Vous devriez vous interroger : où l’Agirc-Arrco placent-elles leur argent, si ce n’est pas au CAC40 ? Où l’argent du livret A est-il placé pour donner une rémunération de 3 % ? Tout est perméable.\nIl est absolument nécessaire que nous n’émettions pas des signaux faibles aux agences qui nous notent, sous peine que notre première dépense soit consacrée à la dette et aux intérêts d’emprunt pendant longtemps.\nJ’ai soutenu avec vous le caractère exceptionnel de cet impôt, puisque nous avons défendu l’article 11 contre les amendements de suppression. À présent, donnons sa chance à cette contribution exceptionnelle sur une période de deux ans et soyons sages pour les Français. (Applaudissements sur quelques bancs des groupes HOR et DR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Contrairement à ce que j’ai indiqué, les amendements nos 489 rectifié à 3376 rectifié ne visent pas à baisser de 8 à 6 milliards le montant de la contribution exceptionnelle sur l’IS, je prie leurs auteurs d’excuser mon erreur d’analyse."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Merci, monsieur le rapporteur."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "La commission est hostile à ces amendements. Les quelques chiffres suivants éclaireront son avis : le bénéfice fiscal de l’ensemble des entreprises françaises soumises à l’IS s’élève à 220 milliards environ. Ce montant est stable puisque le produit de l’IS est stable : il était de l’ordre de 57 milliards en 2023 et 2024, et la prévision est équivalente pour 2025. Ainsi, il n’y a pas d’explosion globale des bénéfices.\nLe bénéfice des entreprises ayant un chiffre d’affaires supérieur à 1 milliard s’établit à 82 milliards, soit, une fois l’IS retiré, environ 60 milliards, ce qui représente 2 % du PIB. Il ne faut donc pas fabuler sur des bénéfices énormes et considérables."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Souhaitez vous rappeler l’avis du Gouvernement, monsieur le ministre ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix l’amendement no 3250."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        226\n        Nombre de suffrages exprimés                226\n        Majorité absolue                        114\n                Pour l’adoption                113\n                Contre                113"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3250 n’est pas adopté.)\n (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Ça fait mal !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix l’amendement no 1791."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        236\n        Nombre de suffrages exprimés                236\n        Majorité absolue                        119\n                Pour l’adoption                114\n                Contre                122"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1791 n’est pas adopté.)\n (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix l’amendement no 2679."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        235\n        Nombre de suffrages exprimés                235\n        Majorité absolue                        118\n                Pour l’adoption                116\n                Contre                119"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2679 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix les amendements identiques nos 489 rectifié, 1709 rectifié, 2528 rectifié et 3376 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        236\n        Nombre de suffrages exprimés                235\n        Majorité absolue                        118\n                Pour l’adoption                114\n                Contre                121"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 489 rectifié, 1709 rectifié, 2528 rectifié et 3376 rectifié\n              ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix l’amendement no 1551."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        234\n        Nombre de suffrages exprimés                232\n        Majorité absolue                        117\n                Pour l’adoption                18\n                Contre                214"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1551 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3553 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements identiques nos 104 et 2099 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre, pour soutenir l’amendement no 3704 rectifié."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Il s’agit d’une mesure d’aménagement du champ de la contribution exceptionnelle destinée à s’assurer qu’elle procure un rendement maximal.\nL’amendement prévoit que les entreprises qui réalisent un chiffre d’affaires supérieur ou égal à 1 milliard d’euros au titre du premier exercice clos à compter du 31 décembre 2024 seront également redevables de la contribution exceptionnelle au titre du second exercice clos à compter de cette même date. Les entreprises qui n’atteignent un chiffre d’affaires supérieur ou égal à 1 milliard d’euros qu’au titre du second exercice clos à compter du 31 décembre 2024 ne seront redevables de la contribution qu’au titre de ce second exercice.\nDans la mesure où le versement de la contribution est subordonné à un seuil de chiffre d’affaires, la précision permet d’éviter les fluctuations volontaires de ce chiffre pour sortir de l’assiette d’imposition."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "La commission des finances n’a pas examiné cet amendement.\nÀ titre personnel, j’émets un avis favorable car c’est une mesure destinée à éviter les abus : elle permet d’éviter que les entreprises ne manipulent leur chiffre d’affaires entre deux exercices pour sortir du champ de la contribution."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Véronique Louwagie."
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "La Droite républicaine se résigne finalement à cette contribution exceptionnelle. Pour autant, elle reste très attachée à ce que le Gouvernement s’engage à diminuer les dépenses publiques, seule solution pour redonner à notre pays la capacité de résorber son déficit et de diminuer sa dette. À cet égard, j’attire votre attention sur le fait que si l’agence Moody’s maintient la note de la dette souveraine française, elle l’assortit d’une perspective négative,…"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "À qui la faute ?"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "…ce qui témoigne d’un manque de confiance en la capacité de notre pays à engager des réformes de fond pour résorber le déficit.\nVous nous demandez des pistes d’économies. Nous en trouvons quand nous nous tournons vers les opérateurs. Je peux vous citer le cas assez révélateur d’opérateurs de la mission Travail qui s’occupent de la formation professionnelle. Jugez plutôt : Agence nationale pour la formation professionnelle des adultes (Afpa), Centre pour le développement de l’information sur la formation permanente (Centre Inffo), Institut national du travail, de l’emploi et de la formation professionnelle (Intefp), s’y ajoutent les groupements d’intérêt public (GIP) « Les entreprises s’engagent » et « La plateforme de l’inclusion », France Travail et France Compétences."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Quel est le rapport avec l’amendement ?"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Des possibilités d’économies existent. Nous demandons au Gouvernement de véritablement s’engager dans la diminution des dépenses publiques. (Applaudissements sur les bancs du groupe DR. – Mme Stéphanie Rist applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Vous avez fait référence à la récente dépêche de l’AFP au sujet de la notation de la France. Il faut commencer par constater que Moody’s maintient la note AA2 de la France, ce qui signifie que la solidité de notre économie reste reconnue. Il est très important de le souligner.\nLe Gouvernement prend acte de cette note et du passage en perspective négative. À bon droit selon moi, Moody’s accorde plus d’importance que les autres agences de notation aux réformes de structure. Or, si les contributions exceptionnelles sur les bénéfices des grandes entreprises et sur les revenus des particuliers les plus fortunés, les économies sur les dépenses de l’État, de la sécurité sociale et des collectivités territoriales sont nécessaires en 2025, nous sommes sous perspective négative parce que nous avons d’abord besoin d’un agenda de réformes structurelles. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme Véronique Louwagie",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608016",
+          "texte": "Justement, nous ne l’avons pas !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Je n’ai pas entendu beaucoup d’interventions sur ce sujet, en particulier du côté de l’opposition. Nous ne résorberons pas durablement le déficit des finances publiques de la France si nous ne parvenons pas à l’équilibre des dépenses de protection sociale, lequel suppose la réforme des retraites. La réduction du déficit public à 5 % du PIB en 2025 constitue une étape nécessaire, mais ce pays a besoin de poursuivre les réformes structurelles engagées par les gouvernements précédents. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Il est paradoxal de subordonner l’équilibre des finances publiques à celui des retraites ! Le déficit des caisses de retraite est de 3 % ; le déficit de l’État est incomparablement plus élevé. Certes, la Commission européenne soumet l’octroi de facilités financières à la France à une réforme des régimes de retraite, mais en faisant tout reposer sur cette réforme, on passe une fois de plus à côté du véritable problème.\nLe déficit que vous avez créé est d’abord dû aux cadeaux fiscaux que vous avez faits aux plus riches et au capital. (Applaudissements sur quelques bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Les premiers de cordée, vous vous en souvenez ?"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Il n’est pas dû au déséquilibre des régimes de retraite, qui serait d’ailleurs moins important si vous arrêtiez de prévoir des exonérations de cotisations. Il est terriblement injuste pour les salariés de ce pays que vous leur attribuiez les déficits imputables à votre politique fiscale en faveur des riches et du capital. (Applaudissements sur quelques bancs du groupe LFI-NFP)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Le sujet des retraites ne relève pas du PLF. J’ai moi-même ouvert le débat, c’est vrai, pour répondre aux propos de Mme Véronique Louwagie ; vous me permettrez de le clore.\nLa question des retraites n’est pas seulement celle du déficit mais plutôt d’abord celle des dépenses. Nous sommes le seul pays dans lequel les dépenses de retraite représentent 14 à 15 points de PIB. Eu égard aux enjeux démographiques, vous ne pouvez pas dire que nous n’avons pas besoin de réforme structurelle."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Pour mesurer la part de point de PIB d’une nation consacrée aux retraites, il faudrait additionner tout ce qui leur est dévolu dans un pays. Si ce calcul était fait, nous verrions qu’en Allemagne, les retraites par capitalisation coûtent très cher. Il faut comparer ce qui est comparable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3704 rectifié est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3534465",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je suis saisi de plusieurs amendements nos 2277, 2279, 2273, 2275, 2100, 2270, 106 et 1553 qui peuvent être soumis à une discussion commune.\n La parole est à M. Jean-François Coulomme, pour soutenir l’amendement no 2277."
+        },
+        {
+          "orateur": "M. Jean-François Coulomme",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795136",
+          "texte": "En 2023, 107 milliards d’euros ont été versés aux actionnaires par les dividendes et les rachats d’actions. Je voudrais vous présenter un exemple choisi dans mon département, la Savoie, qui a la chance de compter quelques entreprises industrielles. L’entreprise Niche Fused Alumina, fleuron mondial de la production du corindon, est en difficulté parce que, pendant des années, les actionnaires ont détourné la totalité des dividendes sans investir dans l’outil de production ou la recherche-développement et, bien évidemment, sans rien distribuer du tout aux salariés dont le pouvoir d’achat n’a pas augmenté pendant les années d’inflation. Et ça n’est pas la seule dans ce cas !\nLa plupart des grandes entreprises – celles dont le chiffre d’affaires est compris entre 1 et 3 milliards – concernées par la contribution exceptionnelle ont le talent de délocaliser leurs actifs productifs : usines, machines, pour les implanter dans des paradis fiscaux, parfois européens – comme le Luxembourg – dans lesquels elles paient des royalties qui diminuent leurs résultats. Nous devons les faire contribuer au financement des dépenses publiques. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. François Jolivet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719778",
+          "texte": "Taxons les riches, bien sûr !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3535089",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Emmanuel Fernandes, pour soutenir l’amendement no 2279."
+        },
+        {
+          "orateur": "M. Emmanuel Fernandes",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794786",
+          "texte": "Il s’agit d’un amendement de repli qui, rationnellement, ne saurait être rejeté. Il vise à ramener la contribution exceptionnelle des très grandes entreprises – celles qui peuvent payer – au niveau de la surtaxe sur l’impôt sur les sociétés décidée par le gouvernement Philippe en 2017. Je sais bien que, depuis, Édouard Philippe a dit qu’il se verrait bien remplacer Emmanuel Macron lorsque celui-ci aura démissionné, mais tout de même ! (M. Maxime Laisney applaudit.)\nLa contribution exceptionnelle proposée aujourd’hui par le gouvernement Barnier est beaucoup moins ambitieuse que celle du gouvernement Philippe puisqu’elle rapportera moins que les 10 milliards de l’époque. Par ailleurs, eu égard aux niveaux de profits actuels, beaucoup plus élevés, conserver le taux fixé par le PLF pour 2018 rapporterait beaucoup plus aujourd’hui que ces 10 milliards.\nLa situation budgétaire du pays en 2024 est beaucoup plus grave qu’en 2017. Dès lors, il nous paraît incompréhensible d’instaurer une contribution exceptionnelle moins ambitieuse qu’à l’époque.\nJ’ajoute que la contribution exceptionnelle sur les bénéfices des multinationales n’affecte en rien leur activité économique mais réduit simplement leur capacité à verser des dividendes – lesquels s’élevaient, je le répète, à 107 milliards l’an dernier.\nJe réagirai pour conclure aux propos du collègue alsacien Charles Sitzenstuhl. Selon lui, la politique de l’offre fonctionnerait à merveille en Alsace où règnerait le plein emploi. Or le résultat de cette politique, ce sont par exemple 110 emplois supprimés chez Caddie, 193 chez Duravit, 38 chez Steelcase ou 125 chez Clestra. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Sandra Regol applaudit également.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3535095",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Élisa Martin, pour soutenir l’amendement no 2273."
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "En 2022, le montant des dividendes et des rachats d’actions s’élevait à 80 milliards. C’était déjà pas mal, non ? En 2023, il atteignait 107 milliards. Quelques personnes seulement ont bénéficié de 96 % de ces richesses.\nPendant ce temps-là, les Français se serrent la ceinture, les salariés se tuent au travail et nos services publics sont exsangues."
+        },
+        {
+          "orateur": "Mme Caroline Parmentier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794670",
+          "texte": "C’est barbant !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "En matière de partage des richesses, vous avez ouvert une petite porte en instaurant une contribution. Cependant, celle-ci est ponctuelle et, comme cela a été dit, son montant n’est pas si élevé puisqu’on n’atteint même pas le niveau des taxations de ce type avant l’arrivée d’Emmanuel Macron, en 2017.\nVous avez donc ouvert, timidement, une petite porte."
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Vous l’avez déjà dit !"
+        },
+        {
+          "orateur": "Mme Élisa Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA342384",
+          "texte": "Avec cet amendement, nous mettons le pied dans cette porte en pérennisant les contributions que vous avez proposées, sur la base des taux que vous avez fixés, alors même que nous souhaiterions – et vous savez que ce serait juste – que ceux-ci soient plus élevés. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3535103",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Damien Maudet, pour soutenir l’amendement no 2275."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "texte": "Par cet amendement de repli, nous proposons que la contribution exceptionnelle soit maintenue jusqu’en 2029, date à laquelle, normalement, selon les projections du Gouvernement, notre pays est censé retourner à l’équilibre. Même s’il arrive souvent que les projections du Gouvernement mènent à des commissions d’enquête, je vous souhaite que celles-ci soient un peu plus justes.\nEn 2017, Bruno Le Maire nous disait que si la France voulait rester dans la course, elle devait aussi alléger la fiscalité sur les bénéfices. En 2024, Emmanuel Macron nous explique que nous n’avons pas de problème de dépenses mais de recettes.\nEntre ces deux déclarations, sept ans se sont écoulés.\nL’impôt de solidarité sur la fortune (ISF) a été supprimé, l’impôt sur les sociétés a été réduit, le patrimoine des 500 plus grosses fortunes, multiplié par deux, pèse aujourd’hui quelque 1 000 milliards, enfin le CAC40 a multiplié ses dividendes par deux.\nDans le même temps, les dettes s’élèvent à 1 000 milliards, une école ferme chaque jour, 30 000 lits d’hôpitaux ont été supprimés et on compte aujourd’hui 10 millions de pauvres dans le pays.\nCela fait sept ans que nous vous prévenons de l’arrivée de la catastrophe. Aujourd’hui, elle est là. Quel temps perdu !\nNe perdons pas plus de temps et pérennisons cette contribution exceptionnelle. De l’argent, il y en a, chez les plus riches comme dans les grandes entreprises. Ne fermons pas plus d’écoles ni de lits d’hôpitaux. Demandons à ceux qui n’ont pas besoin de tant de richesses de les partager. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3535111",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Mathieu Lefèvre, pour soutenir l’amendement no 2100."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "J’aimerais rappeler quelques vérités reposant sur des données chiffrées. Premièrement, la France est le quatrième pays ayant le coût du travail le plus élevé parmi les pays de l’OCDE ; elle est classée deuxième s’agissant du montant des cotisations patronales ; la fiscalité pesant sur les facteurs de production est cinq fois plus élevée chez nous que chez nos voisins d’outre-Rhin.\nPar ailleurs, dans le cadre de cette loi de finances, nous avons prévu d’augmenter, de façon hélas pérenne, deux facteurs de production : l’électricité et le coût du travail.\nOui, il faut évidemment que la surtaxe dont nous parlons soit temporaire. J’aimerais donc demander au ministre s’il peut prendre l’engagement devant nous que ce dispositif ne sera pas en vigueur pendant trois ans."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Le ministre ne sera plus là dans trois ans !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Je suis très inquiet pour l’année 2027, une année électorale, comme nous le savons tous. Je crains qu’après avoir cédé à la facilité aujourd’hui, avec beaucoup de gourmandise fiscale, nous ne résistions pas non plus à cette tentation lors du projet de loi de finances pour 2027.\nJ’ai noté que l’amendement que vous avez présenté il y a quelques instants était calibré sur deux exercices fiscaux. J’espère qu’il en sera vraiment ainsi."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3535118",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le rapporteur général, pour soutenir l’amendement no 2770."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Tous les amendements de cette discussion commune ont été rejetés par la commission des finances.\nIls sont de nature très différente. D’un côté, les amendements nos 2277 et 2279 visent à augmenter le taux d’imposition globale. Plus précisément, pour la tranche supérieure, c’est-à-dire les entreprises dont le chiffre d’affaires est supérieur à 3 milliards, il atteindrait 55 % si l’on adoptait le premier amendement et 44 % si l’on adoptait le second. L’amendement no 2273 revient sur la question de la pérennisation, qui a déjà fait l’objet d’un vote. L’amendement no 2275 prévoit de porter de deux à cinq ans la durée du prélèvement exceptionnel. À l’inverse des premiers, les amendements suivants prévoient une réduction du taux, jusqu’à le diviser par deux."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Monsieur le rapporteur général, vous venez de donner l’avis de la commission mais nous n’avons pas encore examiné tous les amendements de la discussion commune. Je vous avais d’ailleurs donné la parole pour que vous défendiez l’un d’entre eux, l’amendement no 2770, dont vous êtes l’auteur."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Cet amendement vise à diviser par deux les taux de la contribution exceptionnelle. J’ai toujours estimé qu’il fallait demander un effort aux entreprises. Cependant il ne me semble pas raisonnable de fixer un montant de 8 milliards, ce qui porterait le taux d’imposition globale à environ 35 % pour la tranche supérieure."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3535123",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Charles Sitzenstuhl, pour soutenir l’amendement no 106."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "C’est un nouvel amendement de repli.\nTout à l’heure, j’étais en accord avec les propos du premier secrétaire du Parti socialiste. Cette fois, je suis partiellement d’accord avec ce qu’a dit le président Insoumis de la commission des finances il y a quelques instants.\nOui, la question écologique est centrale. Si nous avons appris il y a quelques heures que notre pays était arrivé au début de la fin de la politique de l’offre, l’autre grande nouvelle de la semaine – et qui devrait nous faire réfléchir –, c’est que nous nous dirigeons vers un monde où les températures augmentent de 3 degrés, avec même une hausse de 4 degrés en France. (Murmures sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme Ayda Hadizadeh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842263",
+          "texte": "Qu’avez-vous fait sur le kérosène ?"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Or, pour limiter les effets du réchauffement climatique – là se trouvera peut-être notre point de désaccord, monsieur Coquerel –, nous aurons besoin de capital, et de beaucoup de capital car nous devrons investir massivement dans nos outils de production, pour moderniser et décarboner nos usines, électrifier nos flottes automobiles, moderniser nos centrales nucléaires, aider nos agriculteurs face à la transition agroécologique, isoler nos maisons, et j’en passe."
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Vous avez voté contre l’ISF climatique !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "D’ailleurs, depuis sept ans, avec Emmanuel Macron, nous avons réduit les émissions de gaz à effet de serre. C’est bien la preuve que la politique de l’offre est aussi une politique écologique."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3535131",
+      "valeurPtsOdj": "1",
+      "titre": "(Il est procédé au scrutin.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Charles Rodwell, pour soutenir l’amendement no 1553."
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Tout d’abord, je veux dire que je souscris aux propos du collègue Sitzenstuhl.\nJ’en viens à mon amendement, en précisant que je présente également par anticipation mon amendement no 1554 qui sera appelé un peu plus tard mais qui concerne un sujet très similaire.\nUne grande majorité des amendements dont nous avons débattu ce soir ont pour objet de faire exploser le taux de l’impôt sur les sociétés. J’espère que les collègues sont conscients que si ces amendements étaient adoptés, ils seraient peut-être en partie responsables du retour du chômage de masse. (« Oh ! » sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) J’espère donc que ces amendements seront rejetés.\nC’est la raison pour laquelle les amendements de repli que nous proposons visent à limiter la hausse de l’impôt sur les sociétés en fixant un taux moins élevé. Au passage, je suis heureux de constater – ironie de l’histoire peut-être ! – que le rapporteur général du budget, pour qui j’ai un grand respect mais qui a tout de même été choisi notamment par le Nouveau Front populaire, est d’accord avec moi puisqu’il a déposé un amendement identique à l’amendement no 1554 : le no 2771."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Monsieur le rapporteur général, souhaitez-vous compléter votre réponse s’agissant de l’avis de la commission sur les amendements de cette discussion commune ?"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Je dirai d’abord à M. Rodwell que c’est lui qui a voulu copier mon amendement étant donné que j’en avais évoqué le contenu en commission."
+        },
+        {
+          "orateur": "M. Charles Rodwell",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795528",
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Par ailleurs, j’ajoute qu’il existe un risque qu’avec des taux aussi élevés, nous soyons confrontés à des pratiques d’optimisation de l’assiette et que par conséquent nous ne récoltions pas, hélas, le montant espéré. Nous verrons à l’usage !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Trois fois hélas !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis du Gouvernement sur ces amendements ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Défavorable. Je n’ai pas bien compris les propos de Charles Rodwell quand il parle d’avoir « été choisi »."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "texte": "Lui non plus !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Pour ma part, je ne suis ni choisi ni élu, je suis ministre du budget au sein d’un gouvernement qui reste fidèle à la politique de l’offre et de l’attractivité mais doit aussi faire face à la nécessité d’un redressement des comptes publics. Je suis certain que vous êtes conscients de cette nécessité et que vous voulez contribuer vous aussi à ce redressement.\nJe réponds à présent à Mathieu Lefèvre : oui, le Gouvernement s’engage à ce que la surtaxe sur l’IS s’applique pendant deux ans. D’ailleurs, monsieur le rapporteur général, tenons des propos clairs : il est inutile de dire que la surtaxe porte le taux global au-delà de 33 %. Cela n’a pas de sens puisque nous parlons précisément d’une surtaxe sur l’IS – ou alors nous aurions pu dire en 2017 que le taux s’élevait à 44 ou 45 %."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Eh bien…"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Nous parlons bien d’une ponction, d’un prélèvement, mais cette surtaxe ne devient pas elle-même un IS. Il est très important de faire preuve de rigueur sur ce point."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "J’aimerais répondre à M. Sitzenstuhl car le débat me semble intéressant. Si, comme vous le disiez, l’accumulation du capital réglait le problème de l’investissement, notamment en matière écologique, alors M. Draghi ne serait pas amené à recommander un investissement de 800 milliards pour l’écologie.\nDepuis trente ans, on n’a en effet jamais autant favorisé la rentabilité du capital. On a créé un espace économique et politique marqué par une absence d’harmonisation fiscale, par un dumping social généralisé qui permet des délocalisations massives. On a imaginé un nombre incalculable de dispositifs pour réduire la fiscalité et faciliter les procédures afin que des sommes gigantesques, absolument hallucinantes, soient orientées vers le capital.\nSi ce que disait M. Sitzenstuhl était vrai, ce ne sont pas les dividendes – un argent dont vous conviendrez avec moi qu’il n’est pas investi dans la transition écologique – mais les investissements qui auraient été multipliés par deux. Hélas, ce n’est pas ce qui s’est passé parce que, d’une certaine manière, la main invisible du capital joue contre l’intérêt général. (M. Jean-François Coulomme applaudit.) Or celui-ci exige une planification écologique pour régler le problème du dérèglement climatique. Continuer à laisser le capital se développer sans frein ni règle – ce qui est d’ailleurs totalement contraire à la politique mise en place en France depuis la Libération – est une folie parce que cela crée des dividendes mais pas d’investissement. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Sandra Regol applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. David Amiel."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Je me réjouis d’entendre le président Coquerel faire l’éloge du président Draghi. Je rappelle que les 800 milliards que celui-ci appelle de ses vœux dans son rapport sont constitués, pour une grande part, de capitaux privés. Dès lors, je ne doute pas que le président Coquerel sera à nos côtés pour défendre l’union des marchés de capitaux afin de réorienter les investissements vers la transition écologique ainsi que pour prolonger un emprunt commun européen contre lequel, jusqu’ici, LFI s’était prononcé.\nJ’en viens à l’amendement présenté par M. le rapporteur général. Plus que tout autre dans cet hémicycle, vous êtes le garant de la bonne tenue des comptes publics. Or vous nous proposez un amendement qui coûtera 4 milliards l’an prochain et 2 milliards supplémentaires en 2026. Comment les financez-vous si vous vous privez de recettes ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Aurélien Le Coq."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Si nous en sommes arrivés là, c’est parce que notre déficit est trop important. Vous voulez réduire ce déficit l’année prochaine. Mais l’année d’après, que comptez-vous faire si la contribution que vous proposez est exceptionnelle ? En 2026, avez-vous prévu de fermer les hôpitaux ou les écoles, ou bien de creuser le déficit ? Créer des recettes exceptionnelles qui ne valent que pour un ou deux ans n’a aucun sens si l’on cherche à tracer une trajectoire cohérente de réduction des déficits. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix l’amendement no 2277."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        204\n        Nombre de suffrages exprimés                204\n        Majorité absolue                        103\n                Pour l’adoption                109\n                Contre                95"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2277 est adopté ; en conséquence, les amendements nos 2279, 2273, 2275, 2100, 2770, 106 et 1553 tombent.)\n (Applaudissements vifs et prolongés sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR. – Plusieurs députés du groupe LFI-NFP se lèvent pour applaudir.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533184",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 3141 est retiré.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Nous en venons à l’amendement no 3141 de M. Laurent Mazaury."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3141 est retiré.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533115",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je suis saisi de deux amendements, nos 630 et 2102, pouvant être soumis à une discussion commune.\n La parole est à M. Charles Sitzenstuhl, pour soutenir l’amendement no 630."
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Ce qui vient de se passer est symptomatique de la teneur nos débats et justifie les alertes que nous avons adressées à la représentation nationale. (Exclamations vives et prolongées sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Mes chers collègues, écoutez-vous !"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "Le piège fiscal se referme sur le Gouvernement. Nous en avons la démonstration. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) À l’issue de cette soirée, je serai très inquiet pour nos chefs d’entreprise, pour l’industrie française, pour nos artisans et pour nos commerçants."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Pourquoi a-t-il la parole ? Quel rapport avec l’amendement ?"
+        },
+        {
+          "orateur": "M. Charles Sitzenstuhl",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794802",
+          "texte": "J’ai lu avec attention ce qu’a dit le président de France Industrie en début de semaine et que j’avais cité lundi à la tribune : vous pensez que vous touchez les gros mais ce sont les petits qui finiront par pâtir de ces dispositions. (Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.) Je le rappelle également au Rassemblement national puisqu’il est favorable à cet article.\nIls finiront par en pâtir parce que l’économie est intégrée et que, derrière les gros, se trouvent les sous-traitants, les PME, les petites industries…\nSoyez conscients de ce qui s’est passé ce soir !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533123",
+      "valeurPtsOdj": "1",
+      "titre": null,
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Mathieu Lefèvre, pour soutenir l’amendement no 2102."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Vous n’avez pas une passion pour l’impôt mais une haine pour la propriété ! (Vives exclamations sur les bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "On aime le service public !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Vous venez d’adopter des impôts dont le taux est de 120 % ! Ils sont plus que confiscatoires !\nOn peut faire bien des choses dans cette assemblée, se faire plaisir en votant n’importe quoi mais vous êtes très éloignés des réalités et des préoccupations des Français. Vous ne les rencontrez pas assez, sans cela vous ne voudriez pas les spolier à hauteur de 120 % ! (Vives exclamations sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Mes chers collègues, écoutez-vous, je vous en prie."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Vous commencez par les plus riches ! C’est une déclaration de guerre aux entreprises françaises, à la souveraineté de la France et à tous les salariés de nos grandes entreprises. Voilà ce que vous faites !\nM. Sitzenstuhl a parlé d’or. Vous avez ouvert la boîte de Pandore fiscale. Vous avez dit, madame Martin, que vous mettiez un pied dans la porte, mais vous voulez en réalité la défoncer. C’est extrêmement dangereux pour notre pays ! (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Les amendements nos 630 et 2102 ont tous deux trait au mécanisme de lissage de la contribution exceptionnelle sur les bénéfices des grandes entreprises. Ils ont été repoussés par la commission.\nIls proposent un lissage pour les entreprises ou groupes dont le chiffre d’affaires excède le seuil de déclenchement d’un montant allant jusqu’à 500 millions alors que le texte du Gouvernement limite ce montant à 100 millions.\nIl serait préférable de diviser les taux de cette contribution par deux, ce qui permettrait de se passer de cet élargissement du mécanisme de lissage."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Mesdames et messieurs les députés du Nouveau Front populaire, vous pouvez et devez évidemment défendre vos convictions, mais ce que vous faites là n’est tout simplement pas sérieux ! Ce n’est pas sérieux ! (Mme Stéphanie Rist applaudit. – Vives exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Ce n’est pas sérieux !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "Ce n’est pas sérieux !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "J’ai écouté avec attention vos propositions, votre souhait de pérenniser le dispositif prévu à l’article 11, de transformer éventuellement son assiette. Finalement, vous avez voté un taux d’imposition de 120 % ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Je reviens à l’amendement que vous avez adopté : il rehausse, pour le premier exercice, les taux des contributions exceptionnelles de 20,6 % à 60 %, pour les entreprises dont le chiffre d’affaires est inférieur à 3 milliards, et de 41,2 % à 120 % pour celles dont le chiffre d’affaires est égal ou supérieur à 3 milliards. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Ce n’est pas sérieux ! Ça n’existe pas ! Vous venez de démontrer à quel point votre idéologie n’a aucune traduction pratique dans la vie réelle des entreprises. (Applaudissements sur quelques bancs des groupes EPR, DR et HOR. – Exclamations sur les bancs du groupe LFI-NFP.)\nCet amendement ponctionnera nos entreprises à hauteur de plus de 13 milliards d’euros, en plus de ce qui est déjà prélevé. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nUn taux de 120 % et 13 milliards supplémentaires : c’est confiscatoire et vous pouvez être sûrs qu’aucune des grandes entreprises concernées ne resterait sur notre territoire !"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3533144",
+      "valeurPtsOdj": "1",
+      "titre": "Rappels au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Mathilde Panot, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Il se fonde sur les articles 70 et 100 de notre règlement et s’adresse aux collègues macronistes qui nous faisaient la leçon au sujet du sérieux de nos votes et plus encore, peut-être, au ministre qui, de l’exécutif, se permet de donner des leçons à la représentation nationale concernant ce qu’elle vote démocratiquement. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, EcoS et GDR.) Un ministre n’a pas à faire cela, surtout quand il appartient au gouvernement d’un président qui est au pouvoir depuis sept ans. (Applaudissements sur les bancs du groupe LFI-NFP.)\nCe qui n’est pas sérieux, ce sont les 1 000 milliards de dette contractés par Emmanuel Macron et ce gouvernement ! (Applaudissements sur les bancs des groupes LFI-NFP et SOC.)\nCe qui n’est pas sérieux, c’est de demander au peuple de payer les cadeaux faits aux riches et aux multinationales depuis sept ans ! (Exclamations sur plusieurs bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "texte": "Ce n’est pas un rappel au règlement, il faut l’arrêter !"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "texte": "Ce qui n’est pas sérieux, dans la septième puissance économique mondiale, c’est que des enfants dorment à la rue, des patients sur des brancards, que des étudiants fassent la queue devant l’aide alimentaire ! (Les députés du groupe LFI-NFP se lèvent pour applaudir vivement jusqu’à la fin de l’intervention de l’oratrice.)\nVoilà ce qui n’est pas sérieux ! Nous sommes en train de démontrer qu’un autre budget est possible. (Redoublement des applaudissements sur les bancs du groupe LFI-NFP. – Mme Fatiha Keloua Hachi applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Emmanuel Grégoire, pour un rappel au règlement."
+        },
+        {
+          "orateur": "M. Emmanuel Grégoire",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840171",
+          "texte": "Je me fonde sur les articles 70 et 100 du règlement. Je ne sais pas si vous mesurez la gravité des propos que les deux parlementaires issus du socle commun et vous, monsieur le ministre, venez de tenir. Vous vous êtes livrés à l’exégèse a posteriori d’un vote majoritaire de la représentation nationale pour le présenter comme irresponsable et pour réinterpréter les textes et les amendements adoptés par notre assemblée.\nSi les amendements que nous votons sont irresponsables, assumez-le et déclenchez le 49.3 ! (Applaudissements sur les bancs du groupe LFI-NFP.) Mais vos députés ne sont pas là ! Ils sont absents depuis des jours parce que vous ne vous souciez en rien des travaux que nous menons ! Vous vous contentez de nous laisser parler pour mieux transmettre le texte au Sénat et nous écraser ensuite. C’est par votre absence que vous méprisez cette assemblée !\nQualifier un vote majoritaire d’irresponsable, voilà qui est bien plus irresponsable que n’importe quel vote ! (Les députés des groupes LFI-NFP, EcoS, SOC et GDR se lèvent et applaudissent vivement.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3534107",
+      "valeurPtsOdj": "1",
+      "titre": "Article 11 (appelé par priorité - suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Monsieur le ministre, quand, à un impôt de 25 %, on ajoute 120 %, on n’obtient pas un impôt de 120 % mais de 55 %. Si vous pensez que 55 % est égal à 120 %, je ne m’étonne plus de votre incapacité à prévoir l’explosion des déficits. De ce point de vue, vous n’avez pas de leçon à nous donner ! (Les députés du groupe LFI-NFP et plusieurs députés des groupes SOC, EcoS et GDR se lèvent et applaudissent longuement.)\nLa situation actuelle est insupportable. Vous dites, de votre côté, qu’il est irresponsable de demander à des entreprises ayant accumulé des milliards de bénéfices, que vous avez défiscalisés depuis des années, l’effort que nous venons de proposer pour seulement un an, avant de le diviser par deux. Moi, je vous dis qu’il est irresponsable d’obliger les salariés de ce pays à donner deux ans de plus de leur vie pour travailler ! Nous n’avons pas les mêmes critères ! (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR. – Les députés du groupe LFI-NFP se lèvent pour applaudir.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Chers collègues, je vous invite à revenir aux amendements stricto sensu.\nLa parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Un taux de 120 %, ça ne ressemble à rien ! Pourquoi pas 500, 2 000 ou 3 000 % ? On peut voter ce qu’on veut !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "texte": "Ce n’est pas vrai, ne refaites pas les erreurs du ministre !"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "J’aimerais que les députés du bloc central regardent dans les yeux les chefs des entreprises concernées et leur expliquent : « Eh bien oui, ce soir-là, nous étions absents. » Et où étiez-vous ? Où étiez-vous ? Expliquez-leur donc pourquoi l’Assemblée vote à peu près n’importe quoi ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Daniel Labaronne."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "On avait dit un orateur pour et un orateur contre, monsieur le président !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Je crois pour ma part que vous faites des choix responsables, que vous êtes en train de gagner la bataille idéologique et je vais vous expliquer pourquoi.\nTous vos amendements contre le capital, contre les entreprises s’inscrivent clairement dans une stratégie anticapitaliste, d’inspiration marxiste. (Applaudissements sur les bancs du groupe LFI-NFP – Mme Danielle Simonnet applaudit également.)\nCette stratégie comprend trois étapes. Il s’agit d’abord de s’attaquer aux riches, aux bourgeois, pour aller vers une société sans classes. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Alma Dufour",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795200",
+          "texte": "Merci, Labaronne !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "La deuxième étape consiste à s’attaquer à la propriété privée, suivant une démarche confiscatoire, pour en venir à une appropriation collective des moyens de production. (Mêmes mouvements.)\nLa dernière étape, c’est de s’attaquer à l’économie de marché, avec le « tout gratuit », le « tout subventionné », le « tout administré », pour aboutir à une économie administrée. (Mêmes mouvements.)\nEntre la société capitaliste que nous défendons, que je défends, et la société communiste que vous défendez, … (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "texte": "Ouais !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "…il y a ces trois étapes."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Merci de bien vouloir conclure, cher collègue !"
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719798",
+          "texte": "Nous les refusons car elles conduisent à la dictature du prolétariat ! (Les députés du groupe LFI-NFP se lèvent et applaudissent. – Applaudissements sur plusieurs bancs des groupes EPR et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "texte": "Quel bonheur de vous entendre, monsieur Labaronne !\nMonsieur le ministre, l’amendement qui vient d’être adopté est exactement le même que les amendements identiques no 489 rectifié et suivants, mais il n’est pas rédigé de la même façon. Puisque ces amendements n’ont pas été votés à une voix près, vous n’aviez rien dit et vous faisiez le gros dos. La réalité, cependant, est celle-ci : comme l’ont dit M. le rapporteur général et M. Mattei, l’IS s’applique après les choix d’investissement et la distribution des dividendes. Ce que nous proposons ici est de rehausser le taux de cet impôt à 40 % pour les entreprises qui réalisent plus de 1 milliard d’euros de chiffre d’affaires et à 55 % pour celles qui réalisent plus de 3 milliards de chiffre d’affaires.\nJe ne sais pas si c’est cela, la société communiste, mais c’est en tout cas une société de partage, monsieur Labaronne. (Applaudissements sur de nombreux bancs des groupes GDR, LFI-NFP, EcoS ainsi que sur plusieurs bancs du groupe SOC.) Et c’est peut-être ce qu’il faut aujourd’hui parce que, ne l’oubliez pas, 73 % des gens sont pour rétablir l’ISF, ce que vos amis du Rassemblement national nous ont empêchés de faire hier. Voilà la réalité ! (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Éric Woerth (« Ah ! » sur plusieurs bancs du groupe LFI-NFP), puis nous passerons au vote."
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "La leçon !"
+        },
+        {
+          "orateur": "M. Éric Woerth",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2960",
+          "texte": "Un peu comme il y a une ligne de partage des eaux, il y a une ligne de partage entre l’irresponsabilité et la responsabilité. Vous êtes totalement irresponsables. (Exclamations sur les bancs du groupe LFI-NFP.) Vous voulez écraser l’économie française – depuis longtemps probablement –, et vous avez décidé d’essayer de construire une prise de pouvoir par le chaos. Que vous soyez socialistes ou LFI, c’est la même chose : vos esprits sont mélenchonisés (Applaudissements sur plusieurs bancs du groupe LFI-NFP), et donc brutaux et agressifs."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "texte": "Et vous, où êtes-vous ?"
+        },
+        {
+          "orateur": "M. Éric Woerth",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA2960",
+          "texte": "Je le regrette vivement. Notre débat ne ressemble plus à rien du tout, personne n’y comprend rien. Vous défendez des amendements dans tous les sens : vous voulez augmenter tous les impôts de tout le monde à tout moment (Exclamations sur plusieurs bancs du groupe LFI-NFP), des classes les plus populaires aux classes les plus riches – souvent, d’ailleurs, le Rassemblement national vous accompagne. (Exclamations sur quelques bancs du groupe RN.)\nJe ne sais pas si les Français y comprendront quelque chose mais en tout cas, vous donnez une piètre image de la représentation nationale. (Applaudissements sur de nombreux bancs du groupe EPR. – Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Les amendements nos 630 et 2102, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La séance est suspendue pour cinq minutes."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance, suspendue à vingt-trois heures trente-cinq, est reprise à vingt-trois heures quarante.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La séance est reprise.\nLa parole est à M. Mathieu Lefèvre, pour soutenir l’amendement no 2101."
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "J’hésite à dire vrai à défendre cet amendement tant on vient d’assister à un grand moment d’hystérie fiscale ce soir, un de plus. Mais ce qui me peine le plus, c’est de voir à quel point pour vous, chers collègues, c’est, dans le fond, un  jeu ; vous pensez pouvoir jouer avec les milliards, jouer avec les taux, jouer avec les entreprises de ce pays."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Je vous invite, mon cher collègue, à soutenir votre amendement et à éviter de susciter des interpellations inutiles à cette heure. (Applaudissements sur de nombreux bancs.)"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "texte": "Merci, monsieur le président !"
+        },
+        {
+          "orateur": "M. Mathieu Lefèvre",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795386",
+          "texte": "Mais moi, je ne veux pas jouer, et je propose par cet amendement d’exonérer de la contribution exceptionnelle les groupes en situation d’intégration fiscale lorsqu’aucune des sociétés qui en sont membres n’atteint un chiffre d’affaires supérieur ou égal à 1 milliard d’euros. Cette taxe mérite mieux que de grands discours, mieux que de grands éclats : elle mérite d’être étudiée, elle mérite que nous exercions notre rôle de parlementaire."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "Cet amendement traite du problème des groupes intégrés et des seuils de 1 milliard et de 3 milliards. Selon qu’il y a intégration ou non, une entreprise peut être ou ne pas être concernée.\nIl faut insister sur le fait que le mode de calcul du seuil d’assujettissement à cette contribution est similaire à celui retenu pour toutes les autres contributions sur l’impôt sur les sociétés, il n’y a pas de spécificité prévue à cet égard dans le PLF. Or votre amendement reviendrait à conserver les avantages de l’intégration fiscale sans les inconvénients. Je rappelle que le principe de l’intégration fiscale est de considérer le groupe d’entreprises comme une unité économique, ce qui permet de compenser les bénéfices de certaines filiales par les déficits des autres. Sans oublier que l’intégration fiscale est une option et que rien n’oblige les entreprises à y recourir. Il est donc normal que, pour les groupes intégrés, seul soit pris en compte le chiffre d’affaires agrégé au niveau du groupe indépendamment du résultat de chaque entité. Cet amendement a été rejeté par la commission."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis du Gouvernement ?"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Même avis, pour la simple raison que toutes les assiettes de l’IS et toutes les surtaxes à l’IS ont toujours été établies en y incluant l’intégration."
+        },
+        {
+          "orateur": "Une députée du groupe LFI-NFP",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "C’est le partage du manteau !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Vous dites, cher collègue Lefèvre, que vous ne jouez pas… Mais bien sûr que si : c’est le jeu de l’absence depuis le début de la semaine. (Applaudissements sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Ne vous interpellez pas entre vous."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "texte": "Vous misez sur des taxes zinzins de la gauche pour discréditer et saboter le budget, et pouvoir sortir un 49.3 en disant : « Regardez, on est raisonnables. » Voilà votre stratégie. Et tout le monde la voit. (Applaudissements sur de nombreux bancs du groupe RN. – Exclamations sur divers bancs.)"
+        },
+        {
+          "orateur": "Mme Sandra Regol",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794778",
+          "texte": "Ce n’est pas l’amendement ! Respectez le règlement !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. David Amiel."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795950",
+          "texte": "Il est quelque peu ironique d’entendre les leçons du Rassemblement national, qui a voté main dans la main avec le Nouveau Front populaire des explosions d’impôts, et qui demandait ce matin même une suspension de séance pour pouvoir négocier des augmentations d’impôts avec La France insoumise. (Applaudissements sur les bancs du groupe EPR. – Protestations sur de nombreux bancs du groupe RN.)\nPour revenir au sujet fondamental qui nous préoccupe, je pense que l’augmentation proposée par le Gouvernement était raisonnable, vu le contexte budgétaire. Les amendements qui ont été votés nous font basculer dans une hallucination collective. Le taux d’impôt sur les sociétés qui vient d’être voté serait le plus élevé au monde ! Il n’y a pas un pays avec un taux d’impôt sur les sociétés de 55 % ! Vous avez battu les Comores, qui étaient jusque-là les champions du monde en ce domaine. Tout cela est vraiment un triste spectacle. (M. Gabriel Attal, M. Benjamin Dirx et Mme Stéphanie Rist applaudissent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Philippe Brun."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "Je souhaiterais seulement apporter quelques précisions puisque nous avons entendu des allégations mensongères à propos de l’amendement que notre assemblée vient de voter, en particulier de la part de M. le ministre, et nous le regrettons. Que prévoit cet amendement ? Non pas de retenir un taux de 120 % pour l’impôt sur les sociétés : prétendre cela constitue une insulte à l’intelligence, une insulte au travail de ce Parlement. (Applaudissements sur de nombreux bancs des groupes SOC et LFI-NFP.) Nous créons deux tranches, une de 40 % à partir de 1 milliard, et l’autre de 55 % à partir de 3 milliards, pour cette surtaxe exceptionnelle d’une durée d’un an seulement. Je rappelle à tous les députés macronistes ici présents que leur surtaxe de l’IS de 2017, elle, montait jusqu’à 48 % ! Comment dès lors peuvent-ils nous dire aujourd’hui qu’une surtaxe avec une tranche à 40 % et une autre à 55 %, c’est confiscatoire ? Alors que la taxe à 48 %, c’était formidable ! (Mêmes mouvements.) Le Sénat pourra discuter des taux."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Je vous invite à conclure."
+        },
+        {
+          "orateur": "M. Philippe Brun",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793624",
+          "texte": "En tout cas, je tiens ici à battre en brèche l’idée que nous aurions voté une mesure confiscatoire, même pour une seule année. (Applaudissements sur de nombreux bancs des groupes SOC et LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Sylvain Berrios."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "Si nos collègues du Rassemblement national ne voulaient pas de cette taxation, il leur aurait suffi de voter avec les quatorze députés du bloc central tout à l’heure. (Vives exclamations sur les bancs du groupe RN.) Vous ne l’avez pas fait car vous n’étiez pas là. Vous aurez à répondre de cela."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Ne vous interpellez pas les uns les autres !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "texte": "L’amendement de M. Lefèvre constitue une proposition équitable. Un peu d’équité dans ce monde de brutes ne ferait pas de mal."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Marianne Maximi."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "texte": "Je vais compléter les propos de notre collègue Philippe Brun sur l’adoption de l’amendement no 2277. La minorité gouvernementale fait preuve d’une certaine malhonnêteté. Rédigé autrement, c’est le même amendement que les identiques no 489 rectifié et suivants, proposés par le Nouveau Front populaire. Pourtant, je ne vous ai pas entendus hurler de la même manière au moment de leur examen, alors qu’ils avaient aussi pour objectif de porter de 40 à 55 % le taux de la contribution des entreprises ayant un chiffre d’affaires supérieur à 3 milliards d’euros.\nCe sont finalement des mathématiques : quand, par exemple, on passe de 1 à 2 %, l’augmentation est de 100 %. Arrêtez donc de crier à propos de ce chiffre de 120 % ! Il faut regarder comment est rédigé cet amendement, qui est tout à fait sérieux et qui a été adopté par l’Assemblée. Je vous invite à continuer les débats de manière sereine et à ne pas paniquer. (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3534284",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à Mme Cyrielle Chatelain, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Cyrielle Chatelain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794008",
+          "texte": "Il se fonde sur l’article 100 de notre règlement relatif au déroulement de nos débats. Il me semble, avec tout le respect que je dois à la présidence, que nous avions un accord sur deux prises de parole par amendement, une pour et une contre, avec une minute pour chaque orateur. Temporairement, ce soir, on s’en écarte mais, malgré l’intérêt de nos débats, il serait bien qu’on reprenne cette habitude pour que, demain, nous avancions un peu plus vite. (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs du groupe SOC. – M. Jean-Philippe Tanguy applaudit également.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3534287",
+      "valeurPtsOdj": "1",
+      "titre": "Article 11 (appelé par priorité - suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Les mots ont un sens et je ne peux pas laisser dire à M. Philippe Brun, pour qui j’ai beaucoup d’estime, que mes propos étaient mensongers. Je vous invite à les réentendre car j’ai dit les choses avec précision. J’ai dit que la surtaxe que vous proposez était de 120 %, et c’est le cas. Cela reste pour moi confiscatoire car le taux d’IS qui en découle dépasse les 55 %. Or, comme cela a été très bien dit, un tel taux n’existe dans aucun pays."
+        },
+        {
+          "orateur": "M. Olivier Faure",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA609332",
+          "texte": "Ce sera temporaire !"
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Je vais également répondre à M. Emmanuel Grégoire. Ai-je en aucune façon remis en cause le vote de l’Assemblée ? Non. J’ai dit que je trouve le résultat de ce vote irresponsable d’un point de vue fiscal. On ne peut pas dire ça ? (« Non ! », sur plusieurs bancs LFI-NUPES, SOC et EcoS.) Alors vous m’indiquerez le vocabulaire que je peux utiliser pour vous répondre !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 2101 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Sur l’article 11, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Laurent Mazaury, pour soutenir l’amendement no 3142."
+        },
+        {
+          "orateur": "M. Laurent Mazaury",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841931",
+          "texte": "Je m’attendais à ce que cet amendement soit tombé mais, comme ce n’est pas le cas, je vais le retirer. Je pensais que demander un taux de 45 % serait considéré comme du délire mais je me rends compte que c’est presque être petit joueur."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3142 est retiré.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "L’amendement no 1602 de M. le rapporteur général est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 1602, accepté par le Gouvernement, est adopté.)"
+        }
+      ]
+    },
+    {
+      "idSyceron": "3534299",
+      "valeurPtsOdj": "1",
+      "titre": "(L’amendement no 3694 est adopté.)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. le ministre, pour soutenir l’amendement no 3694."
+        },
+        {
+          "orateur": "M. Laurent Saint-Martin",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720878",
+          "texte": "Il vise à rendre bien opérationnel l’article 11 en offrant aux redevables la faculté de procéder à un versement anticipé valant acompte à la date prévue pour le paiement du dernier acompte de l’impôt sur les sociétés pour les deux exercices au titre desquels la contribution est due."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA942",
+          "texte": "La commission n’a pas pu examiner cet amendement, que j’ai essayé de comprendre. (Sourires.) Il vise à donner un peu de marge de manœuvre aux entreprises pour lisser l’incidence de la contribution sur leur trésorerie. Certaines entreprises acquitteront en effet des montants très importants : on parle de 800 millions d’euros pour LVMH ou de 500 millions pour Safran. Il me semble que cela va dans la bonne direction.\nJ’ai toutefois une question pour M. le ministre. Si toutes les entreprises usent de cette faculté, le recouvrement de la contribution pourrait être décalé de façon importante et cela pourrait avoir des effets sur le solde budgétaire. Avez-vous une idée de ce que pourrait être le comportement des entreprises et des sommes versées dès 2024 ? En effet, la rédaction proposée permettrait à des entreprises de régler dès 2024 un acompte pour 2025. Pouvez-vous nous éclairer sur ce point ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Aurélien Le Coq."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "texte": "Je voudrais ramener un peu de rationalité dans notre débat. (Murmures sur les bancs du groupe EPR.) Après l’adoption de l’amendement no 2277, vous avez hurlé comme il n’est pas permis et M. le ministre nous a expliqué qu’il s’agissait de 13 milliards d’euros supplémentaires pris aux entreprises. Il ne s’agit certes pas d’un montant négligeable mais il faut le mettre en rapport avec les 200 milliards accordés aux grandes entreprises et avec les 90 milliards d’exonérations sociales annuelles. De manière exceptionnelle, sur une année, cela est tout à fait supportable et cela permettra à celles et ceux qui en ont les moyens de contribuer à l’effort national. (Applaudissements sur les bancs des groupes LFI-NFP et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA330008",
+          "texte": "La parole est à M. Philippe Juvin."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA346782",
+          "texte": "L’amendement du Gouvernement vise à demander un aménagement, mais on se demande ce qu’on va aménager car, ce soir, la loi de finances n’en est plus une : c’est une entreprise de démolition. Nous n’avons plus affaire à des impôts sur les sociétés mais à une véritable confiscation. (M. Sylvain Berrios et Mme Félicie Gérard applaudissent.) M. le rapporteur général se demandait à l’instant ce que les entreprises allaient faire. Je vais vous le dire, car c’est assez simple. Face à une taxe sur les bénéfices à 55 % alors que le Portugal envisage de passer à 15 %, les entreprises vont soit répercuter les coûts sur le consommateur, soit licencier, soit tout simplement partir. C’est une grande réussite ! Bravo, continuez comme ça ! (Applaudissements sur les bancs des groupes DR, EPR et HOR.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’amendement no 3694 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Je mets aux voix l’article 11, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        236\n        Nombre de suffrages exprimés                235\n        Majorité absolue                        118\n                Pour l’adoption                113\n                Contre                122"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(L’article 11, amendé, n’est pas adopté.)\n (Applaudissements sur les bancs des groupes RN et UDR ainsi que sur plusieurs bancs des groupes EPR et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "La suite de l’examen du projet de loi de finances est renvoyée à la prochaine séance."
+        }
+      ]
+    },
+    {
+      "idSyceron": "3534314",
+      "valeurPtsOdj": "2",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA330008",
+          "texte": "Prochaine séance, demain, à neuf heures :\n Suite de la discussion de la première partie du projet de loi de finances pour 2025.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "(La séance est levée à vingt-trois heures cinquante-cinq.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "texte": "Le directeur des comptes rendus\n Serge Ezdra"
+        }
+      ]
+    }
+  ]
+}
