@@ -20,7 +20,7 @@ jobs:
       - name: Installer les dépendances
         run: npm install axios adm-zip
 
-      - name: Générer le nouveau vote.json
+      - name: Générer le nouveau votes.json
         run: node update_SCRUTIN.js
 
       - name: Générer le nouveau CR.json
@@ -30,5 +30,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add vote.json CR.json
+          git add votes.json CR.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique des votes et débats" && git push)
