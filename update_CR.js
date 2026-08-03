@@ -3,13 +3,13 @@
  * ---------------------------------------------------------------------------
  * Télécharge l'archive des comptes rendus intégraux (syceron brut) de
  * l'Assemblée nationale, et n'en extrait que les débats dont la séance
- * (seanceRef) correspond à un scrutin présent dans vote.json (à la racine
+ * (seanceRef) correspond à un scrutin présent dans votes.json (à la racine
  * du repository).
  *
  * Mode incrémental : un fichier JSON est écrit par séance dans le dossier
  * CR/ (ex: CR/RUANR5L17S2025IDS28584.json). Seules les séances qui n'ont
  * pas encore de fichier correspondant sont traitées. Si toutes les séances
- * référencées dans vote.json ont déjà leur fichier, l'archive n'est même
+ * référencées dans votes.json ont déjà leur fichier, l'archive n'est même
  * pas téléchargée.
  *
  * Cela évite de recommitter un unique gros fichier à chaque exécution
@@ -45,7 +45,7 @@ const ZIP_URL =
   'https://data.assemblee-nationale.fr/static/openData/repository/17/vp/syceronbrut/syseron.xml.zip';
 
 const ROOT_DIR = __dirname;
-const VOTE_JSON_PATH = path.join(ROOT_DIR, 'vote.json');
+const VOTE_JSON_PATH = path.join(ROOT_DIR, 'votes.json');
 const CR_DIR = path.join(ROOT_DIR, 'CR');
 const TMP_ZIP_PATH = path.join(ROOT_DIR, '.tmp_syseron.xml.zip');
 
@@ -113,7 +113,7 @@ function quickExtractSeanceRef(xmlText) {
 
 /**
  * Convertit une dateSeance au format AAAAMMJJhhmmssSSS en date ISO (AAAA-MM-JJ),
- * pour pouvoir être croisée facilement avec le champ "date" de vote.json.
+ * pour pouvoir être croisée facilement avec le champ "date" de votes.json.
  */
 function toIsoDate(dateSeanceRaw) {
   if (!dateSeanceRaw || dateSeanceRaw.length < 8) return null;
@@ -260,7 +260,7 @@ async function main() {
     [...targetSeanceRefs].filter((ref) => !alreadyDone.has(seanceRefToFilename(ref).replace(/\.json$/i, '')))
   );
 
-  console.log(`${targetSeanceRefs.size} séance(s) référencée(s) dans vote.json`);
+  console.log(`${targetSeanceRefs.size} séance(s) référencée(s) dans votes.json`);
   console.log(`${alreadyDone.size} séance(s) déjà présente(s) dans ${path.basename(CR_DIR)}/`);
   console.log(`${missingSeanceRefs.size} séance(s) à extraire`);
 
