@@ -1,19 +1,13 @@
-name: Auto Update Votes API
-
+name: Auto Update Votes & CR
 on:
   schedule:
-    # Exécution tous les jours à 03h00 UTC
     - cron: '0 3 * * *'
-  # Permet de lancer manuellement la mise à jour depuis l'onglet Actions
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   update-json:
     runs-on: ubuntu-latest
-
     steps:
       - name: Récupérer le code du dépôt
         uses: actions/checkout@v4
@@ -26,12 +20,15 @@ jobs:
       - name: Installer les dépendances
         run: npm install axios adm-zip
 
-      - name: Générer le nouveau votes.json
-        run: node update.js
+      - name: Générer le nouveau vote.json
+        run: node update_SCRUTIN.js
+
+      - name: Générer le nouveau CR.json
+        run: node update_CR.js
 
       - name: Enregistrer les modifications sur GitHub
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add votes.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique des votes" && git push)
+          git add vote.json CR.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique des votes et débats" && git push)
