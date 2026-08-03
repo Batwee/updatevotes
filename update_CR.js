@@ -2,18 +2,28 @@
  * update_CR.js
  * ---------------------------------------------------------------------------
  * Télécharge l'archive des comptes rendus intégraux (syceron brut) de
- * l'Assemblée nationale, et n'en conserve que les débats dont la séance
- * (seanceRef) correspond à un scrutin présent dans votes.json (à la racine
+ * l'Assemblée nationale, et n'en extrait que les débats dont la séance
+ * (seanceRef) correspond à un scrutin présent dans vote.json (à la racine
  * du repository).
  *
- * Pour chaque séance retenue, seules les données utiles à la génération
- * d'un résumé neutre des débats sont extraites :
+ * Mode incrémental : un fichier JSON est écrit par séance dans le dossier
+ * CR/ (ex: CR/RUANR5L17S2025IDS28584.json). Seules les séances qui n'ont
+ * pas encore de fichier correspondant sont traitées. Si toutes les séances
+ * référencées dans vote.json ont déjà leur fichier, l'archive n'est même
+ * pas téléchargée.
+ *
+ * Cela évite de recommitter un unique gros fichier à chaque exécution
+ * (problème de taille sur GitHub) : chaque run n'ajoute que quelques
+ * petits fichiers neufs.
+ *
+ * Pour chaque séance, seules les données utiles à la génération d'un
+ * résumé neutre des débats sont extraites :
  *   - identité de la séance (uid, seanceRef, date, session, légisature)
  *   - sommaire des sujets abordés (titres des points à l'ordre du jour)
  *   - pour chaque sujet : la liste des interventions (orateur, fonction,
  *     rôle en séance, texte prononcé)
  *
- * Sortie : CR.json à la racine du repository.
+ * Sortie : CR/<seanceRef>.json (un fichier par séance).
  *
  * Dépendances (npm) :
  *   npm install adm-zip
@@ -35,9 +45,14 @@ const ZIP_URL =
   'https://data.assemblee-nationale.fr/static/openData/repository/17/vp/syceronbrut/syseron.xml.zip';
 
 const ROOT_DIR = __dirname;
-const VOTE_JSON_PATH = path.join(ROOT_DIR, 'votes.json');
-const CR_JSON_PATH = path.join(ROOT_DIR, 'CR.json');
+const VOTE_JSON_PATH = path.join(ROOT_DIR, 'vote.json');
+const CR_DIR = path.join(ROOT_DIR, 'CR');
 const TMP_ZIP_PATH = path.join(ROOT_DIR, '.tmp_syseron.xml.zip');
+
+/** Nom de fichier sûr pour un seanceRef (au cas où). */
+function seanceRefToFilename(seanceRef) {
+  return `${seanceRef.replace(/[^a-zA-Z0-9_-]/g, '_')}.json`;
+}
 
 // -----------------------------------------------------------------------
 // Utilitaires texte
@@ -98,7 +113,7 @@ function quickExtractSeanceRef(xmlText) {
 
 /**
  * Convertit une dateSeance au format AAAAMMJJhhmmssSSS en date ISO (AAAA-MM-JJ),
- * pour pouvoir être croisée facilement avec le champ "date" de votes.json.
+ * pour pouvoir être croisée facilement avec le champ "date" de vote.json.
  */
 function toIsoDate(dateSeanceRaw) {
   if (!dateSeanceRaw || dateSeanceRaw.length < 8) return null;
@@ -223,12 +238,36 @@ function loadVoteSeanceRefs(votePath) {
   for (const vote of votes) {
     if (vote.seanceRef) seanceRefs.add(vote.seanceRef);
   }
-  console.log(`${seanceRefs.size} séance(s) référencée(s) dans votes.json`);
   return seanceRefs;
 }
 
 async function main() {
   const targetSeanceRefs = loadVoteSeanceRefs(VOTE_JSON_PATH);
+
+  if (!fs.existsSync(CR_DIR)) {
+    fs.mkdirSync(CR_DIR, { recursive: true });
+  }
+
+  // Séances déjà extraites lors d'un run précédent (mode incrémental)
+  const alreadyDone = new Set(
+    fs
+      .readdirSync(CR_DIR)
+      .filter((f) => f.toLowerCase().endsWith('.json'))
+      .map((f) => f.replace(/\.json$/i, ''))
+  );
+
+  const missingSeanceRefs = new Set(
+    [...targetSeanceRefs].filter((ref) => !alreadyDone.has(seanceRefToFilename(ref).replace(/\.json$/i, '')))
+  );
+
+  console.log(`${targetSeanceRefs.size} séance(s) référencée(s) dans vote.json`);
+  console.log(`${alreadyDone.size} séance(s) déjà présente(s) dans ${path.basename(CR_DIR)}/`);
+  console.log(`${missingSeanceRefs.size} séance(s) à extraire`);
+
+  if (missingSeanceRefs.size === 0) {
+    console.log('Rien à faire, tout est déjà à jour.');
+    return;
+  }
 
   await downloadZip(ZIP_URL, TMP_ZIP_PATH);
 
@@ -237,10 +276,12 @@ async function main() {
   const entries = zip.getEntries().filter((e) => !e.isDirectory && e.entryName.toLowerCase().endsWith('.xml'));
   console.log(`${entries.length} fichier(s) XML dans l'archive`);
 
-  const results = [];
   let processed = 0;
+  let written = 0;
 
   for (const entry of entries) {
+    if (missingSeanceRefs.size === 0) break; // tout a été trouvé, inutile de continuer
+
     processed += 1;
     if (processed % 200 === 0) {
       console.log(`  ...${processed}/${entries.length} fichiers examinés`);
@@ -250,18 +291,24 @@ async function main() {
 
     // Filtre rapide avant parsing complet
     const seanceRef = quickExtractSeanceRef(xmlText);
-    if (!seanceRef || !targetSeanceRefs.has(seanceRef)) continue;
+    if (!seanceRef || !missingSeanceRefs.has(seanceRef)) continue;
 
     const compteRendu = parseCompteRendu(xmlText);
     if (compteRendu.sujets.length > 0) {
-      results.push(compteRendu);
+      const outPath = path.join(CR_DIR, seanceRefToFilename(seanceRef));
+      fs.writeFileSync(outPath, JSON.stringify(compteRendu, null, 2), 'utf8');
+      written += 1;
+      missingSeanceRefs.delete(seanceRef);
     }
   }
 
-  console.log(`${results.length} compte(s) rendu(s) retenu(s) (séance liée à un scrutin de votes.json)`);
-
-  fs.writeFileSync(CR_JSON_PATH, JSON.stringify(results, null, 2), 'utf8');
-  console.log(`Fichier généré : ${CR_JSON_PATH}`);
+  console.log(`${written} fichier(s) écrit(s) dans ${path.basename(CR_DIR)}/`);
+  if (missingSeanceRefs.size > 0) {
+    console.log(
+      `${missingSeanceRefs.size} séance(s) introuvable(s) dans l'archive (peut-être pas encore publiée·s) : ` +
+        [...missingSeanceRefs].join(', ')
+    );
+  }
 
   fs.unlinkSync(TMP_ZIP_PATH);
 }
