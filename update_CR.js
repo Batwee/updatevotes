@@ -3,7 +3,7 @@
  * ---------------------------------------------------------------------------
  * Télécharge l'archive des comptes rendus intégraux (syceron brut) de
  * l'Assemblée nationale, et n'en conserve que les débats dont la séance
- * (seanceRef) correspond à un scrutin présent dans vote.json (à la racine
+ * (seanceRef) correspond à un scrutin présent dans votes.json (à la racine
  * du repository).
  *
  * Pour chaque séance retenue, seules les données utiles à la génération
@@ -35,7 +35,7 @@ const ZIP_URL =
   'https://data.assemblee-nationale.fr/static/openData/repository/17/vp/syceronbrut/syseron.xml.zip';
 
 const ROOT_DIR = __dirname;
-const VOTE_JSON_PATH = path.join(ROOT_DIR, 'vote.json');
+const VOTE_JSON_PATH = path.join(ROOT_DIR, 'votes.json');
 const CR_JSON_PATH = path.join(ROOT_DIR, 'CR.json');
 const TMP_ZIP_PATH = path.join(ROOT_DIR, '.tmp_syseron.xml.zip');
 
@@ -98,7 +98,7 @@ function quickExtractSeanceRef(xmlText) {
 
 /**
  * Convertit une dateSeance au format AAAAMMJJhhmmssSSS en date ISO (AAAA-MM-JJ),
- * pour pouvoir être croisée facilement avec le champ "date" de vote.json.
+ * pour pouvoir être croisée facilement avec le champ "date" de votes.json.
  */
 function toIsoDate(dateSeanceRaw) {
   if (!dateSeanceRaw || dateSeanceRaw.length < 8) return null;
@@ -223,7 +223,7 @@ function loadVoteSeanceRefs(votePath) {
   for (const vote of votes) {
     if (vote.seanceRef) seanceRefs.add(vote.seanceRef);
   }
-  console.log(`${seanceRefs.size} séance(s) référencée(s) dans vote.json`);
+  console.log(`${seanceRefs.size} séance(s) référencée(s) dans votes.json`);
   return seanceRefs;
 }
 
@@ -258,7 +258,7 @@ async function main() {
     }
   }
 
-  console.log(`${results.length} compte(s) rendu(s) retenu(s) (séance liée à un scrutin de vote.json)`);
+  console.log(`${results.length} compte(s) rendu(s) retenu(s) (séance liée à un scrutin de votes.json)`);
 
   fs.writeFileSync(CR_JSON_PATH, JSON.stringify(results, null, 2), 'utf8');
   console.log(`Fichier généré : ${CR_JSON_PATH}`);
