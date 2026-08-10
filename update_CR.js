@@ -98,6 +98,87 @@ function extractTag(block, tag) {
   return m ? m[1] : null;
 }
 
+/**
+ * Extrait les blocs <tagName ...>...</tagName> de plus haut niveau (non
+ * imbriqués les uns dans les autres) d'un texte, en tenant compte de
+ * l'imbrication réelle de la balise (profondeur).
+ *
+ * Nécessaire car les comptes rendus AN imbriquent des <point> les uns dans
+ * les autres (ex: un point "article" contient des points "amendement"),
+ * alors que d'autres <point> de même nom sont de simples frères. Un simple
+ * regex non-gourmand se referme sur la première balise fermante rencontrée
+ * — donc sur celle d'un enfant — ce qui tronque et corrompt le contenu.
+ * Cette fonction referme chaque bloc sur sa véritable balise fermante, en
+ * conservant tout son contenu imbriqué intact (utile ensuite : les
+ * <paragraphe> internes, à n'importe quelle profondeur, restent présents).
+ */
+function extractTopLevelBlocks(text, tagName) {
+  const blocks = [];
+  const tagRegex = new RegExp(`<${tagName}\\b([^>]*)>|<\\/${tagName}>`, 'g');
+  let depth = 0;
+  let startAttrs = null;
+  let startContentIdx = null;
+  let m;
+  while ((m = tagRegex.exec(text)) !== null) {
+    const isClosing = m[0].startsWith('</');
+    if (!isClosing) {
+      if (depth === 0) {
+        startAttrs = m[1];
+        startContentIdx = tagRegex.lastIndex;
+      }
+      depth += 1;
+    } else if (depth > 0) {
+      depth -= 1;
+      if (depth === 0) {
+        blocks.push({ attrs: startAttrs, content: text.slice(startContentIdx, m.index) });
+      }
+    }
+  }
+  return blocks;
+}
+
+/**
+ * Extrait un nombre annoncé sous forme "Libellé : 123" dans le texte d'une
+ * intervention (insensible à la casse, tolérant sur la ponctuation).
+ */
+function extractLabeledNumber(text, labelPattern) {
+  const m = text.match(new RegExp(`${labelPattern}\\s*:?\\s*(\\d+)`, 'i'));
+  return m ? Number(m[1]) : null;
+}
+
+/**
+ * Détecte si le texte d'une intervention est une annonce de résultat de
+ * scrutin, et en extrait les décomptes.
+ *
+ * NB : le CR brut (syceron) n'expose pas de numéro de scrutin officiel dans
+ * le texte — seul le fichier votes.json (dataset "Scrutins") le connaît. La
+ * détection repose donc sur la formule standard utilisée par l'Assemblée
+ * nationale pour annoncer un résultat ("Nombre de votants", "Nombre de
+ * suffrages exprimés", "Pour l'adoption", "Contre"). Si cette formule venait
+ * à changer, adapter les patterns ci-dessous.
+ */
+function extractScrutinResult(plainText, ordreAbsoluSeance) {
+  if (!/nombre\s+de\s+votants/i.test(plainText)) return null;
+
+  const votants = extractLabeledNumber(plainText, "nombre\\s+de\\s+votants");
+  const exprimes = extractLabeledNumber(plainText, "suffrages\\s+exprim[ée]s");
+  const majoriteAbsolue = extractLabeledNumber(plainText, "majorit[ée]\\s+absolue");
+  const pour = extractLabeledNumber(plainText, "pour\\s+l['’]adoption");
+  const contre = extractLabeledNumber(plainText, "contre");
+
+  if (votants === null && pour === null && contre === null) return null;
+
+  return {
+    ordre: ordreAbsoluSeance !== null && ordreAbsoluSeance !== undefined ? Number(ordreAbsoluSeance) : null,
+    votants,
+    exprimes,
+    majoriteAbsolue,
+    pour,
+    contre,
+    abstention: votants !== null && exprimes !== null ? votants - exprimes : null,
+  };
+}
+
 // -----------------------------------------------------------------------
 // Parsing d'un fichier compte-rendu (XML brut, en chaîne de caractères)
 // -----------------------------------------------------------------------
@@ -129,6 +210,7 @@ function toIsoDate(dateSeanceRaw) {
 function parseParagraphe(attrsRaw, block) {
   const roledebat = extractAttr(attrsRaw, 'roledebat'); // ex: "president"
   const idActeur = extractAttr(attrsRaw, 'id_acteur');
+  const ordreAbsoluSeance = extractAttr(attrsRaw, 'ordre_absolu_seance');
 
   const orateursBlock = extractTag(block, 'orateurs') || '';
   const nom = extractTag(orateursBlock, 'nom');
@@ -140,13 +222,21 @@ function parseParagraphe(attrsRaw, block) {
   // On ignore les interventions vides (ex: didascalies pures sans intérêt)
   if (!texte) return null;
 
-  return {
+  const intervention = {
     orateur: nom ? toPlainText(nom) : null,
     fonction: qualiteRaw ? toPlainText(qualiteRaw) : null,
     role: roledebat || null, // ex: "president" si c'est le/la président(e) de séance
     idActeur: idActeur || null,
+    ordre: ordreAbsoluSeance !== null ? Number(ordreAbsoluSeance) : null, // position chronologique dans la séance
     texte,
   };
+
+  // Si cette intervention annonce le résultat d'un scrutin, on le mémorise
+  // (sera rapproché d'une entrée de votes.json dans matchScrutinsToVotes).
+  const scrutinDetecte = extractScrutinResult(texte, ordreAbsoluSeance);
+  if (scrutinDetecte) intervention.scrutinDetecte = scrutinDetecte;
+
+  return intervention;
 }
 
 /**
@@ -162,11 +252,17 @@ function parsePoint(attrsRaw, block) {
   const titre = titreMatch ? toPlainText(titreMatch[1]) : null;
 
   const interventions = [];
+  const scrutinsBruts = []; // résultats de scrutin détectés dans ce point, non encore rapprochés de votes.json
   const paragrapheRegex = /<paragraphe\s+([^>]*)>([\s\S]*?)<\/paragraphe>/g;
   let pMatch;
   while ((pMatch = paragrapheRegex.exec(block)) !== null) {
     const intervention = parseParagraphe(pMatch[1], pMatch[2]);
-    if (intervention) interventions.push(intervention);
+    if (intervention) {
+      interventions.push(intervention);
+      if (intervention.scrutinDetecte) {
+        scrutinsBruts.push(intervention.scrutinDetecte);
+      }
+    }
   }
 
   // On ignore les points purement procéduraux, sans aucune intervention exploitable.
@@ -177,6 +273,7 @@ function parsePoint(attrsRaw, block) {
     valeurPtsOdj: valeurPtsOdj || null,
     titre,
     interventions,
+    scrutinsBruts, // champ intermédiaire, résolu puis retiré par matchScrutinsToVotes
   };
 }
 
@@ -194,11 +291,16 @@ function parseCompteRendu(xmlText) {
   const session = extractTag(xmlText, 'session');
   const legislature = extractTag(xmlText, 'legislature');
 
+  // On ne s'intéresse qu'aux <point> de plus haut niveau à l'intérieur de
+  // <contenu> : les points imbriqués (ex: amendements dans un article) sont
+  // conservés dans le contenu de leur point parent et fusionnés avec lui
+  // (voir extractTopLevelBlocks).
+  const contenuMatch = xmlText.match(/<contenu(?=[\s>])[^>]*>([\s\S]*)<\/contenu>/);
+  const contenuText = contenuMatch ? contenuMatch[1] : xmlText;
+
   const points = [];
-  const pointRegex = /<point\s+([^>]*)>([\s\S]*?)<\/point>/g;
-  let match;
-  while ((match = pointRegex.exec(xmlText)) !== null) {
-    const point = parsePoint(match[1], match[2]);
+  for (const { attrs, content } of extractTopLevelBlocks(contenuText, 'point')) {
+    const point = parsePoint(attrs, content);
     if (point) points.push(point);
   }
 
@@ -212,6 +314,104 @@ function parseCompteRendu(xmlText) {
     legislature: legislature ? legislature.trim() : null,
     sujets: points,
   };
+}
+
+// -----------------------------------------------------------------------
+// Rapprochement des scrutins du CR avec les votes de votes.json
+// -----------------------------------------------------------------------
+
+/**
+ * Compare les décomptes d'un scrutin détecté dans le CR avec ceux d'une
+ * entrée de votes.json. Ne compare que les champs disponibles des deux
+ * côtés (tolérant si l'un des deux est absent).
+ */
+function tallyMatches(scrutinBrut, vote) {
+  const sv = vote.syntheseVote || {};
+  if (scrutinBrut.pour !== null && sv.pour !== undefined && scrutinBrut.pour !== sv.pour) return false;
+  if (scrutinBrut.contre !== null && sv.contre !== undefined && scrutinBrut.contre !== sv.contre) return false;
+  if (scrutinBrut.votants !== null && sv.total !== undefined && scrutinBrut.votants !== sv.total) return false;
+  return true;
+}
+
+/**
+ * Méthode robuste décrite pour associer chaque scrutin détecté dans le CR
+ * à son numéro officiel :
+ *  1. On prend tous les scrutins du CR (tous points confondus) triés par
+ *     ordre chronologique (ordre_absolu_seance).
+ *  2. On prend tous les votes de votes.json pour ce seanceRef, triés par
+ *     numero croissant.
+ *  3. On tente d'abord une correspondance exacte par tallies (votants,
+ *     pour, contre) — la plus fiable.
+ *  4. Pour les scrutins restants (non désambiguïsés par les tallies), on
+ *     complète par appariement positionnel (n-ième scrutin du CR <->
+ *     n-ième vote non encore utilisé), qui reflète l'ordre chronologique
+ *     de la séance.
+ *
+ * Le résultat est attaché à chaque point concerné sous point.scrutins,
+ * et le champ intermédiaire scrutinsBruts est retiré.
+ */
+function matchScrutinsToVotes(compteRendu, votesForSeance) {
+  const allScrutins = [];
+  compteRendu.sujets.forEach((point, pointIndex) => {
+    (point.scrutinsBruts || []).forEach((s) => {
+      allScrutins.push({ ...s, pointIndex });
+    });
+  });
+  allScrutins.sort((a, b) => (a.ordre ?? 0) - (b.ordre ?? 0));
+
+  const votesSorted = [...votesForSeance].sort((a, b) => (a.numero ?? 0) - (b.numero ?? 0));
+  const usedVoteIds = new Set();
+  const matchedPairs = new Map(); // index dans allScrutins -> vote
+
+  // 1) correspondance exacte par tallies, uniquement si non ambiguë
+  allScrutins.forEach((s, i) => {
+    const candidates = votesSorted.filter((v) => !usedVoteIds.has(v.id) && tallyMatches(s, v));
+    if (candidates.length === 1) {
+      matchedPairs.set(i, candidates[0]);
+      usedVoteIds.add(candidates[0].id);
+    }
+  });
+
+  // 2) fallback positionnel/chronologique pour les scrutins restants
+  const unresolvedIdx = allScrutins.map((_, i) => i).filter((i) => !matchedPairs.has(i));
+  const unusedVotes = votesSorted.filter((v) => !usedVoteIds.has(v.id));
+  unresolvedIdx.forEach((idx, k) => {
+    const vote = unusedVotes[k];
+    if (vote) {
+      matchedPairs.set(idx, vote);
+      usedVoteIds.add(vote.id);
+    }
+  });
+
+  compteRendu.sujets.forEach((point) => {
+    point.scrutins = [];
+  });
+
+  allScrutins.forEach((s, i) => {
+    const vote = matchedPairs.get(i) || null;
+    const point = compteRendu.sujets[s.pointIndex];
+    point.scrutins.push({
+      numero: vote ? vote.numero : null,
+      id: vote ? vote.id : null,
+      sort: vote ? vote.sort : null,
+      titreVote: vote ? vote.titre : null,
+      // "exact" = tallies identiques confirmés, "ordre_probable" = déduit du
+      // seul rang chronologique (à vérifier si l'ordre du CR diverge des tallies)
+      matchConfidence: vote ? (tallyMatches(s, vote) ? 'exact' : 'ordre_probable') : 'non_trouve',
+      votants: s.votants,
+      exprimes: s.exprimes,
+      pour: s.pour,
+      contre: s.contre,
+      abstention: s.abstention,
+      ordre: s.ordre,
+    });
+  });
+
+  compteRendu.sujets.forEach((point) => {
+    delete point.scrutinsBruts;
+  });
+
+  return compteRendu;
 }
 
 // -----------------------------------------------------------------------
@@ -229,20 +429,31 @@ async function downloadZip(url, destPath) {
   console.log(`Archive enregistrée : ${destPath}`);
 }
 
-function loadVoteSeanceRefs(votePath) {
+function loadVotes(votePath) {
   if (!fs.existsSync(votePath)) {
     throw new Error(`Fichier introuvable : ${votePath}`);
   }
-  const votes = JSON.parse(fs.readFileSync(votePath, 'utf8'));
-  const seanceRefs = new Set();
+  return JSON.parse(fs.readFileSync(votePath, 'utf8'));
+}
+
+/** Regroupe les votes par seanceRef, triés par numero croissant. */
+function groupVotesBySeance(votes) {
+  const map = new Map();
   for (const vote of votes) {
-    if (vote.seanceRef) seanceRefs.add(vote.seanceRef);
+    if (!vote.seanceRef) continue;
+    if (!map.has(vote.seanceRef)) map.set(vote.seanceRef, []);
+    map.get(vote.seanceRef).push(vote);
   }
-  return seanceRefs;
+  for (const arr of map.values()) {
+    arr.sort((a, b) => (a.numero ?? 0) - (b.numero ?? 0));
+  }
+  return map;
 }
 
 async function main() {
-  const targetSeanceRefs = loadVoteSeanceRefs(VOTE_JSON_PATH);
+  const votes = loadVotes(VOTE_JSON_PATH);
+  const votesBySeance = groupVotesBySeance(votes);
+  const targetSeanceRefs = new Set(votesBySeance.keys());
 
   if (!fs.existsSync(CR_DIR)) {
     fs.mkdirSync(CR_DIR, { recursive: true });
@@ -295,6 +506,8 @@ async function main() {
 
     const compteRendu = parseCompteRendu(xmlText);
     if (compteRendu.sujets.length > 0) {
+      matchScrutinsToVotes(compteRendu, votesBySeance.get(seanceRef) || []);
+
       const outPath = path.join(CR_DIR, seanceRefToFilename(seanceRef));
       fs.writeFileSync(outPath, JSON.stringify(compteRendu, null, 2), 'utf8');
       written += 1;
