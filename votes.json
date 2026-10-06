@@ -1,5 +1,2319 @@
 [
   {
+    "id": "VTANR5L17V8535",
+    "numero": 8535,
+    "titre": "l'amendement n° 270 de M. Naillet après l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "adopté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 49,
+      "contre": 43,
+      "abstention": 12,
+      "total": 104
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "SOC",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 6
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8534",
+    "numero": 8534,
+    "titre": "l'amendement n° 1028 de Mme Roullaud après l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 49,
+      "contre": 67,
+      "abstention": 2,
+      "total": 118
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 40,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8533",
+    "numero": 8533,
+    "titre": "l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 105,
+      "contre": 2,
+      "abstention": 20,
+      "total": 127
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 41,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 10,
+        "contre": 2,
+        "abstention": 10
+      },
+      {
+        "sigle": "DR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "Dem",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8532",
+    "numero": 8532,
+    "titre": "l'amendement n° 367 de Mme Leboucher à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 56,
+      "contre": 67,
+      "abstention": 4,
+      "total": 127
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 41,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 5,
+        "contre": 17,
+        "abstention": 1
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8531",
+    "numero": 8531,
+    "titre": "l'amendement n° 344 de Mme Cathala à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 8,
+      "contre": 107,
+      "abstention": 5,
+      "total": 120
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 37,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 2,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8530",
+    "numero": 8530,
+    "titre": "l'amendement n° 1078 de M. Peytavie à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "adopté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 56,
+      "contre": 45,
+      "abstention": 9,
+      "total": 110
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 36,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 4,
+        "contre": 8,
+        "abstention": 4
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8529",
+    "numero": 8529,
+    "titre": "l'amendement n° 1096 de Mme Miller et l'amendement identique suivant à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Horizons & Indépendants\"",
+    "syntheseVote": {
+      "pour": 73,
+      "contre": 38,
+      "abstention": 14,
+      "total": 125
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 43,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 12,
+        "contre": 8,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 11
+      },
+      {
+        "sigle": "SOC",
+        "pour": 13,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8528",
+    "numero": 8528,
+    "titre": "l'amendement n° 1019 de M. Dessigny à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 50,
+      "contre": 90,
+      "abstention": 2,
+      "total": 142
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 46,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8527",
+    "numero": 8527,
+    "titre": "l'amendement n° 336 de Mme Cathala à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 17,
+      "contre": 72,
+      "abstention": 52,
+      "total": 141
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 43
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 8
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 4,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8526",
+    "numero": 8526,
+    "titre": "l'amendement n° 1018 de Mme Roullaud à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 50,
+      "contre": 70,
+      "abstention": 5,
+      "total": 125
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 47,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 23,
+        "abstention": 1
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8525",
+    "numero": 8525,
+    "titre": "l'amendement n° 1215 du Gouvernement à l'article 3 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30925",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 2,
+      "contre": 87,
+      "abstention": 48,
+      "total": 137
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 43
+      },
+      {
+        "sigle": "EPR",
+        "pour": 2,
+        "contre": 23,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8524",
+    "numero": 8524,
+    "titre": "l'article 17 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 90,
+      "contre": 0,
+      "abstention": 2,
+      "total": 92
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 25,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8523",
+    "numero": 8523,
+    "titre": "l'amendement n° 714 de Mme Blanc après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 29,
+      "contre": 68,
+      "abstention": 2,
+      "total": 99
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 17,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8522",
+    "numero": 8522,
+    "titre": "l'amendement n° 243 de M. Ménagé après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 30,
+      "contre": 72,
+      "abstention": 2,
+      "total": 104
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 19,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8521",
+    "numero": 8521,
+    "titre": "l'amendement n° 412 de Mme Godard après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Gouvernement",
+    "syntheseVote": {
+      "pour": 59,
+      "contre": 5,
+      "abstention": 38,
+      "total": 102
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 23
+      },
+      {
+        "sigle": "EPR",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 7
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8520",
+    "numero": 8520,
+    "titre": "l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"\rPrésidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 85,
+      "contre": 16,
+      "abstention": 5,
+      "total": 106
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 1,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8519",
+    "numero": 8519,
+    "titre": "l'amendement n° 16 de Mme Capdevielle à l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 76,
+      "contre": 18,
+      "abstention": 11,
+      "total": 105
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 9,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 6
+      },
+      {
+        "sigle": "SOC",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 3,
+        "contre": 2,
+        "abstention": 2
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8518",
+    "numero": 8518,
+    "titre": "l'amendement n° 377 de Mme Autain et les amendements identiques suivants à l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 20,
+      "contre": 92,
+      "abstention": 4,
+      "total": 116
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 27,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 28,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 1
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 7,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8517",
+    "numero": 8517,
+    "titre": "l'amendement n° 418 de Mme Cathala et l'amendement identique suivant de suppression de l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 29,
+      "contre": 84,
+      "abstention": 4,
+      "total": 117
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 2,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 3,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8516",
+    "numero": 8516,
+    "titre": "l'amendement n° 1067 du Gouvernement et l'amendement identique suivant après l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"\rPrésident du groupe \"Horizons & Indépendants\"",
+    "syntheseVote": {
+      "pour": 97,
+      "contre": 24,
+      "abstention": 3,
+      "total": 124
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 25,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 3,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8515",
+    "numero": 8515,
+    "titre": "l'amendement n° 1066 du Gouvernement et l'amendement identique suivant après l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Horizons & Indépendants\"",
+    "syntheseVote": {
+      "pour": 95,
+      "contre": 25,
+      "abstention": 3,
+      "total": 123
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8514",
+    "numero": 8514,
+    "titre": "l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 84,
+      "contre": 27,
+      "abstention": 5,
+      "total": 116
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 15,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 1
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8513",
+    "numero": 8513,
+    "titre": "l'amendement n° 414 de Mme Cathala et l'amendement identique suivant de suppression de l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 27,
+      "contre": 88,
+      "abstention": 3,
+      "total": 118
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 27,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8512",
+    "numero": 8512,
+    "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 81,
+      "contre": 0,
+      "abstention": 16,
+      "total": 97
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 14
+      },
+      {
+        "sigle": "SOC",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8511",
+    "numero": 8511,
+    "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 54,
+      "contre": 40,
+      "abstention": 3,
+      "total": 97
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 14,
+        "contre": 6,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8510",
+    "numero": 8510,
+    "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-05",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 33,
+      "contre": 53,
+      "abstention": 5,
+      "total": 91
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 16,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 19,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 1,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 1,
+        "contre": 5,
+        "abstention": 3
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
     "id": "VTANR5L17V8509",
     "numero": 8509,
     "titre": "l'amendement n° 1041 du Gouvernement et l'amendement identique suivant à l'article 13 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
