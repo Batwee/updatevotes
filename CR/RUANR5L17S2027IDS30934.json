@@ -1,0 +1,3634 @@
+{
+  "uid": "CRSANR5L17S2027O1N017",
+  "seanceRef": "RUANR5L17S2027IDS30934",
+  "sessionRef": "SCR5A2027O1",
+  "date": "2026-10-09",
+  "dateLisible": "vendredi 09 octobre 2026",
+  "session": "Session ordinaire 2026-2027",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4180127",
+      "valeurPtsOdj": "1",
+      "titre": "Suite de la discussion d’une proposition de loi",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 7,
+          "texte": "L’ordre du jour appelle la suite de la discussion de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (nos 3106, 3190 rectifié)."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4180129",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion des articles (suite)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 9,
+          "texte": "Ce matin, l’Assemblée a poursuivi la discussion des articles de la proposition de loi, s’arrêtant à l’article 45.\nÀ la demande du gouvernement, nous allons examiner par priorité les articles 47 à 60 ainsi que les amendements portant articles additionnels après ces articles."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4180131",
+      "valeurPtsOdj": "1",
+      "titre": "Article 47 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 11,
+          "texte": "La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, pour soutenir l’amendement no 397, deuxième rectification."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre de la santé, des familles, de l’autonomie et des personnes handicapées",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 12,
+          "texte": "Il vise à préciser quels sont les étudiants en santé concernés par l’obligation de signalement en cas de suspicion de violence subie par un patient.\nLa commission spéciale propose d’étendre cette habilitation à tous les étudiants, mais ceux de premier cycle n’ont pas encore la formation nécessaire et ne sont pas aux côtés des patients. Nous proposons donc de ne cibler les étudiants qu’à partir de l’internat."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 14,
+          "texte": "La parole est à M. Guillaume Gouffier Valente, rapporteur de la commission spéciale pour les titres V et VII."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur de la commission spéciale",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 15,
+          "texte": "Avis favorable sur cet amendement qui précise utilement la rédaction de l’article 47, les étudiants de premier cycle n’exerçant aucune activité clinique."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 16,
+          "texte": "(L’amendement no 397, deuxième rectification, est adopté. En conséquence, l’amendement no 802 de Mme Gabrielle Cathala tombe.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 17,
+          "texte": "La parole est à Mme Sandrine Rousseau, pour soutenir l’amendement no 849."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 18,
+          "texte": "Il est prévu que le professionnel de santé puisse procéder à un signalement sans l’accord de la victime lorsque celle-ci est en situation de vulnérabilité, mais nous ne souhaitons pas que le texte précise les critères permettant d’apprécier cette vulnérabilité. Une mère de famille monoparentale atteinte d’un cancer du sein peut par exemple être dans une telle situation, puisque sa vie est devenue beaucoup plus compliquée. Or elle ne remplit aucun des critères prévus.\nNous proposons donc de laisser une marge d’appréciation afin d’éviter toute lacune."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 20,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 21,
+          "texte": "Nous sommes ici au cœur de l’article 47 et, plus largement, du titre VII, lequel est composé d’articles qui visent à améliorer l’accompagnement des victimes, depuis le signalement jusqu’à la reconstruction en passant par les soins ; à préciser la définition des violences sexuelles en matière de santé, notamment des violences obstétriques et gynécologiques ; et à renforcer les sanctions contre les étudiants et professionnels de santé ayant commis des actes inacceptables.\nÀ la suite des réformes de 2020 sur le signalement et le secret médical, cet article tend à sécuriser le signalement par les professionnels de santé et les étudiants en santé. Sa première partie apporte une clarification : pour que le signalement puisse être fait sans le consentement de la victime, son auteur ne prend plus seulement en compte une série d’actes réprimables, mais surtout la situation de la personne. C’est pourquoi nous avons, en commission spéciale, remplacé le mot « incapacité » par le mot « vulnérabilité ».\nLa deuxième partie de l’article vise à renforcer la protection de l’auteur du signalement.\nJe comprends la philosophie de votre amendement, mais la suppression à l’alinéa 3 de la mention de l’âge ou du handicap entraînerait une incohérence dans la mesure où la cellule départementale mentionnée à l’article L. 119-2 du code de l’action sociale et des familles ne peut recueillir que les signalements concernant des personnes dont la vulnérabilité relève de ces critères. La cellule pourrait donc être saisie de faits pour lesquels elle n’est pas compétente.\nD’autre part, supprimer la mention de l’âge à l’alinéa 4 ne laisserait que des critères beaucoup trop flous, au point d’introduire, d’une certaine manière, une dérogation automatique à la nécessité de recueillir l’accord de la victime avant de procéder à un signalement.\nEn commission, il m’avait plutôt été reproché, par le groupe GDR et une partie de votre groupe, de ne pas définir la vulnérabilité de manière assez précise. Je suis donc surpris par votre amendement.\nJe serai vigilant pour que les amendements à cet article ne suppriment pas le principe selon lequel le consentement de la victime doit être recherché avant un signalement ou ne créent pas de nouvelles responsabilités pour les professionnels de santé.\nDemande de retrait ; à défaut, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 29,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 30,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 31,
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 32,
+          "texte": "Je comprends que l’adoption de l’amendement créerait une incohérence car l’instance concernée pourrait alors être saisie de cas qu’elle ne pourrait traiter. Je vais donc le retirer.\nToutefois, si on resserre trop les critères permettant d’apprécier la vulnérabilité, certaines situations, qui concernent des personnes bel et bien vulnérables, risquent de ne pas être signalées alors qu’elles le mériteraient. La jurisprudence, qui a défini la vulnérabilité, pourrait s’appliquer dans le cadre de cet article. Elle n’est pas seulement liée à l’âge ou au handicap, qui relèvent d’ailleurs davantage de la discrimination que de la vulnérabilité. Certains cas, liés à la maladie, à la situation familiale ou encore aux violences conjugales, risquent de ne pas être pris en compte. (Applaudissements sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 34,
+          "texte": "(L’amendement no 849 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 35,
+          "texte": "Sur les articles 47 et 48, je suis saisie par le groupe Ensemble pour la République d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nL’amendement no 814 de Mme Élise Leboucher est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 38,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 39,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 40,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 41,
+          "texte": "Je mets aux voix l’amendement no 814."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 42,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 43,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        53\n        Nombre de suffrages exprimés                42\n        Majorité absolue                        22\n                Pour l’adoption                14\n                Contre                28",
+          "scrutinDetecte": {
+            "ordre": 43,
+            "votants": 53,
+            "exprimes": 42,
+            "majoriteAbsolue": 22,
+            "pour": 14,
+            "contre": 28,
+            "abstention": 11
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 44,
+          "texte": "(L’amendement no 814 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 45,
+          "texte": "Les amendements identiques nos 257 de Mme Delphine Lingemann et 598 de Mme Karine Lebon sont défendus.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 47,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 48,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 49,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 50,
+          "texte": "Je mets aux voix les amendements identiques nos 257 et 598."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 51,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 52,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        52\n        Nombre de suffrages exprimés                39\n        Majorité absolue                        20\n                Pour l’adoption                11\n                Contre                28",
+          "scrutinDetecte": {
+            "ordre": 52,
+            "votants": 52,
+            "exprimes": 39,
+            "majoriteAbsolue": 20,
+            "pour": 11,
+            "contre": 28,
+            "abstention": 13
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 53,
+          "texte": "(Les amendements identiques nos 257 et 598 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 54,
+          "texte": "Je mets aux voix l’article 47, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 55,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 56,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        50\n        Nombre de suffrages exprimés                50\n        Majorité absolue                        26\n                Pour l’adoption                50\n                Contre                0",
+          "scrutinDetecte": {
+            "ordre": 56,
+            "votants": 50,
+            "exprimes": 50,
+            "majoriteAbsolue": 26,
+            "pour": 50,
+            "contre": 0,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 57,
+          "texte": "(L’article 47, amendé, est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8647,
+          "id": "VTANR5L17V8647",
+          "sort": "adopté",
+          "titreVote": "l'article 48 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 53,
+          "exprimes": 42,
+          "pour": 14,
+          "contre": 28,
+          "abstention": 11,
+          "ordre": 43
+        },
+        {
+          "numero": 8648,
+          "id": "VTANR5L17V8648",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 404 du Gouvernement à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 52,
+          "exprimes": 39,
+          "pour": 11,
+          "contre": 28,
+          "abstention": 13,
+          "ordre": 52
+        },
+        {
+          "numero": 8649,
+          "id": "VTANR5L17V8649",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 1164 de M. Gouffier Valente à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 50,
+          "exprimes": 50,
+          "pour": 50,
+          "contre": 0,
+          "abstention": 0,
+          "ordre": 56
+        }
+      ]
+    },
+    {
+      "idSyceron": "4180178",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 47 (amendements appelés par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 59,
+          "texte": "Les amendements nos 37 de Mme Virginie Duby-Muller et 466 de M. Yannick Neuder, portant article additionnel après l’article47, sont défendus.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 61,
+          "texte": "Demande de retrait de l’amendement no 37 au profit de l’amendement no 466.\nIl permet de protéger les praticiens qui signalent des violences contre les plaintes disciplinaires engagées par les personnes mises en cause en réservant aux autorités publiques et aux instances ordinales la saisine de la chambre disciplinaire à raison d’un signalement, quelle que soit la manière dont la plainte est formulée. Il étend ainsi à ces praticiens le régime de l’article L. 4124-2 du code de la santé publique et complète l’article 47, que nous venons d’adopter."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 63,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 64,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 65,
+          "texte": "(L’amendement no 37 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 66,
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 67,
+          "texte": "Lors des auditions menées dans le cadre de la mission flash commune sur les suites à donner à l’affaire Le Scouarnec, notamment avec ma collègue Cathala, mais aussi avec Mmes Miller et Vidal, nous avons entendu le témoignage de personnes ayant fait l’objet de sanctions disciplinaires à la suite d’un signalement. Ces personnes doivent être protégées – sauf, bien sûr en cas de signalement de mauvaise foi, mais ceux-ci sont rares – par un statut similaire à celui du lanceur d’alerte."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 68,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 69,
+          "texte": "Avec l’adoption de cet amendement, les professionnels seront comme des lanceurs d’alerte. Ce serait une belle avancée. Nous pourrons donc les rassurer, car certains ont été ennuyés – le mot est faible – après avoir fait un signalement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 70,
+          "texte": "(L’amendement no 466 est adopté.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4180191",
+      "valeurPtsOdj": "1",
+      "titre": "Article 48 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 72,
+          "texte": "La parole est à Mme Sophia Chikirou, pour soutenir l’amendement no 834."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 73,
+          "texte": "Il vise à protéger les personnes morales à but non lucratif lorsqu’elles signalent des violences sexuelles ou sexistes, en leur octroyant un statut comparable à celui des lanceurs d’alerte. Après avoir fait un signalement de faits dont elles ont eu écho par des victimes, certaines de ces associations ont en effet eu à subir des représailles, notamment sous la forme de retrait d’agrément, ou des pressions. De telles situations sont assez fréquentes – je pense par exemple à l’association qui avait dénoncé le comportement de médecins à l’hôpital Tenon. L’amendement leur accorderait une protection minimale, en attendant que la loi sur les lanceurs d’alerte soit étendue aux associations à but non lucratif.\nCes associations sont indispensables pour les victimes : elles peuvent se constituer partie civile à leurs côtés ou jouer le rôle d’intermédiaire pour les aider. J’ajoute qu’elles ont la capacité de recueillir plusieurs témoignages et de dresser ainsi le tableau d’un prédateur agissant au sein d’un établissement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 75,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 76,
+          "texte": "Tout l’objet de l’article 48 est d’étendre le statut de lanceur d’alerte aux personnes morales à but non lucratif. Nous partageons donc l’objectif de fond de votre amendement, que la commission a examiné, mais il est entièrement satisfait par le texte. Je demande son retrait, sans quoi mon avis sera défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 77,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 78,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 79,
+          "texte": "(L’amendement no 834 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 80,
+          "texte": "Je mets aux voix l’article 48."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 81,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 82,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        67\n        Nombre de suffrages exprimés                67\n        Majorité absolue                        34\n                Pour l’adoption                50\n                Contre                17",
+          "scrutinDetecte": {
+            "ordre": 82,
+            "votants": 67,
+            "exprimes": 67,
+            "majoriteAbsolue": 34,
+            "pour": 50,
+            "contre": 17,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 83,
+          "texte": "(L’article 48 est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8650,
+          "id": "VTANR5L17V8650",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 1172 de Mme Vidal à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 67,
+          "exprimes": 67,
+          "pour": 50,
+          "contre": 17,
+          "abstention": 0,
+          "ordre": 82
+        }
+      ]
+    },
+    {
+      "idSyceron": "4180298",
+      "valeurPtsOdj": "1",
+      "titre": "Article 49 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 85,
+          "texte": "L’amendement no 29 de Mme Virginie Duby-Muller est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 87,
+          "texte": "Ce n’est pas un petit amendement."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "ordre": 88,
+          "texte": "Je peux le retirer dès maintenant."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 89,
+          "texte": "Je vais expliquer dès à présent ma position, avant l’examen des autres amendements qui vont dans le même sens. En commission, l’examen de l’article 49 m’a déboussolé. Il tend à supprimer la phase de conciliation dans le cadre de la justice disciplinaire ordinale, un objectif que nous partageons tous. La difficulté tient au fait qu’il a suscité un autre débat sur la justice ordinale qui a notamment donné l’occasion à certaines et à certains d’exprimer la volonté de transférer la compétence juridictionnelle en matière de violences sexistes et sexuelles (VSS) au directeur général de l’Agence régionale de santé (ARS), ce qui n’est pas conforme à la philosophie initiale de l’article. La volonté de supprimer les ordres, tout particulièrement l’ordre des médecins, s’est même manifestée.\nDeux philosophies se sont donc affrontées. L’une se fondait sur les travaux issus de la mission flash sur les suites à donner à l’affaire Le Scouarnec – je salue ces travaux, dont sont issus un certain nombre d’amendements qui ont amélioré ce texte. L’autre était la philosophie initiale de la rapporteure générale et de l’ensemble des auteurs et des autrices du texte. Tout en reconnaissant tous les dysfonctionnements intervenus dans l’affaire Le Scouarnec et bien d’autres – de telles affaires ne doivent plus jamais se reproduire –, nous pensons que la solution ne consiste pas à supprimer ou à déresponsabiliser totalement les ordres, mais au contraire à améliorer la justice disciplinaire en remédiant à ces dysfonctionnements. Il faut également renforcer le pouvoir du directeur général de l’ARS, l’ensemble des communications entre les différentes autorités et l’information des victimes.\nAu moment d’examiner le présent article et quand nous discuterons les articles 51 et 52, il conviendra de garder à l’esprit que nous ne parlons pas seulement de l’Ordre national des médecins mais de l’ensemble des professions organisées en ordre, dont les sept qui appartiennent au domaine de la santé, ainsi que des autres professions que vise aussi l’article 51.\nL’amendement de Mme Duby-Muller va à peu de chose près dans le sens des amendements de rétablissement que j’ai déposés et que nous examinerons un peu plus loin. Je demande son retrait à leur profit, car il tend à supprimer une avancée essentielle votée en commission : l’information de la victime.\nPar ailleurs, je prendrai bien entendu en compte l’ensemble des amendements qui visent à apporter aux victimes des garanties de protection complémentaires."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 94,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 95,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "ordre": 96,
+          "texte": "Je le retire."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 97,
+          "texte": "(L’amendement no 29 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 98,
+          "texte": "Je suis saisie de deux amendements, nos 1179 et 850, pouvant être soumis à une discussion commune.\n La parole est à Mme Sophia Chikirou, pour soutenir l’amendement no 1179."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 99,
+          "texte": "Quand une patiente porte plainte devant l’Ordre des médecins, la première étape obligatoire de la procédure consiste en une réunion de conciliation. Si les faits visés sont constitutifs de violences sexistes et sexuelles, elle se trouve confrontée à son agresseur, entourée de médecins, dépourvue du soutien d’un avocat, et on l’invite à trouver un arrangement. L’Ordre exerce donc sur elle une pression en lui demandant d’être conciliante, puisque tout le monde est là pour une conciliation !\nLe Haut Conseil à l’égalité entre les femmes et les hommes (HCE) a déjà dénoncé cette situation en 2018. Plus grave encore : la convention d’Istanbul, ratifiée par la France en 2014, interdit dans son article 48 d’imposer la conciliation dans les affaires de violences faites aux femmes.\nL’article 49 du texte prévoit la fin de cette conciliation – c’est une avancée – mais ne l’écarte que si les faits sont constitutifs de violences sexistes et sexuelles. Or qui décide de quoi les faits sont constitutifs ? L’Ordre lui-même ! Vous le voyez : c’est un problème.\nC’est pourquoi notre amendement, approuvé par la commission, tend à substituer aux mots : « constitutifs de » les mots : « susceptibles de constituer des », ce qui élargira le champ d’application de la disposition et l’automaticité de la transmission, et empêchera la conciliation.\nPour notre débat, la pire des issues serait le maintien du système actuel. En 2019, dans un rapport éloquent, la Cour des comptes a dénoncé de très nombreuses irrégularités de procédure et le manque de diligence de l’Ordre des médecins dans le traitement des plaintes visant des faits à caractère sexuel. La Cour souligne aussi que les conseils départementaux de l’Ordre engagent rarement des poursuites disciplinaires. Souvent, quand on passe par l’Ordre des médecins, on n’obtient pas justice."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 104,
+          "texte": "La parole est à Mme Sandrine Rousseau, pour soutenir l’amendement no 850."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 105,
+          "texte": "La mission flash sur les suites à donner à l’affaire Le Scouarnec – plusieurs amendements à venir sont issus de ses travaux – a fait apparaître l’indigence, et le mot est très faible, du traitement réservé par l’Ordre des médecins aux affaires de violences sexistes et sexuelles. Cet ordre est une boîte noire, où les signalements se perdent.\nIl y a en effet une instance de conciliation. Mais se rend-on bien compte de ce dont il est question ? Il faudrait accepter une conciliation alors que l’on dénonce un crime, dans le cas du viol, ou un délit, s’il s’agit d’une agression sexuelle ? Mais il ne saurait y avoir de conciliation avec les violeurs et les agresseurs, seulement une procédure d’instruction et la sanction qui s’ensuit.\nUne ambiguïté demeurait dans la rédaction issue des travaux de la commission : il revenait à la victime de qualifier les faits de manière très claire. Mais aucune procédure n’attribue à la victime le rôle de déterminer la qualification pénale des faits commis sur elle ! Il appartient au contraire à l’institution qui instruit le dossier de qualifier les crimes et délits dont il est question. En ce sens, cette procédure de conciliation est révélatrice.\nMonsieur le rapporteur, quand vous affirmez que nous voulions supprimer l’Ordre, je trouve que vous faites preuve de malhonnêteté – c’était déjà le cas en commission. Après réflexion, nous avons en effet décidé de ne pas faire figurer cette recommandation dans le rapport issu de la mission flash, pour préconiser seulement que l’Ordre des médecins, une instance corporatiste, ne soit plus chargé d’instruire les dossiers de violences sexistes et sexuelles et de les sanctionner. Le corporatisme et la responsabilité de punir les VSS ne sauraient faire bon ménage."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 109,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 110,
+          "texte": "Je suis en effet allé un peu loin. Au demeurant, vous ne parliez pas en votre nom propre…"
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 111,
+          "texte": "Ce n’est pas le sujet."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 112,
+          "texte": "…mais exprimiez la position de la mission, avec des mots allant très loin s’agissant des ordres. C’est pour cela que j’ai été pris de court par l’examen de cet article 49 relatif à la conciliation. Je rejoins cependant la philosophie des deux amendements en discussion commune que nous sommes en train d’examiner.\nJe demande le retrait de l’amendement no 1179 au profit du no 850. Ils sont assez similaires.\nNotre discussion a révélé des défaillances inacceptables et c’est cela qui a donné lieu à l’affrontement de deux philosophies. Je retiens ces mots – je ne sais pas si c’est vous, madame Rousseau, qui les avez prononcés : « l’Ordre des médecins n’a rien fait » alors qu’« il a eu plusieurs années pour le faire ». Il faudrait donc un changement total. Avec les autrices et les auteurs du texte, je défends plutôt, pour le moment, le renforcement des ordres et du directeur général de l’ARS et affirme la volonté de tout mettre en œuvre pour que les communications se passent bien et que les signalements ne se perdent plus."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 115,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 116,
+          "texte": "L’article satisfait l’amendement no 1179. Je demande donc son retrait.\nSur l’amendement de Mme Sandrine Rousseau, mon avis est en revanche favorable. La substitution qu’il prévoit clarifiera en effet la rédaction actuelle."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 118,
+          "texte": "La parole est à Mme Sophia Chikirou."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 119,
+          "texte": "Il existerait donc une différence majeure entre les mots : « susceptibles de constituer » et les mots : « susceptibles d’être », que ni le rapporteur ni la ministre ne sont capables de nous expliquer ? Mon amendement a la même visée que celui de Mme Rousseau. Le retirer ne me pose donc aucun problème, mais j’aimerais, par pure curiosité et pour mon information personnelle ainsi que celle de tous ceux qui nous regardent, que vous produisiez une belle démonstration de la différence entre ces mots !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 120,
+          "texte": "(L’amendement no 1179 est retiré.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 121,
+          "texte": "(L’amendement no 850 est adopté.)\n (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 122,
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 404."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 123,
+          "texte": "Il vise à inclure, parmi les violences que vise le dispositif prévu à l’article 49, les sévices, maltraitances, privations et violences physiques ou psychiques, qui ne sont pas énumérés dans l’article afférent du code pénal."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 124,
+          "texte": "Je suis saisie de plusieurs demandes de scrutin public : sur l’amendement no 404, par le gouvernement ; sur l’amendement no 1164, par les groupes Ensemble pour la République et Socialistes et apparentés ; sur l’amendement no 1172 et sur l’article 49, par le groupe Ensemble pour la République.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 126,
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 127,
+          "texte": "La parole est à Mme Sophia Chikirou."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 128,
+          "texte": "La rédaction de l’amendement pose problème. C’est la même question : qui estime et qui juge ? L’amendement prévoit la possibilité pour l’Ordre de supprimer la phase de conciliation s’agissant de « faits dont la gravité rend manifestement inappropriée une mesure de conciliation ». Qui jugera de leur gravité ? Est-ce encore le collectif des médecins, des personnes membres d’une corporation à laquelle on reproche sa tendance à pratiquer l’omerta, et pas seulement dans les cas de violences sexistes et sexuelles ? De nombreux patients y sont confrontés, s’agissant de dénonciations ou de faits graves, ainsi qu’à la difficulté de faire aboutir les procédures et les enquêtes, et à la faiblesse, voire à l’inexistence, dans de nombreux cas, des sanctions disciplinaires. Je souhaiterais obtenir une réponse précise qui nous aiderait à voter. Le cas échéant, je pense qu’il serait bon de déposer un nouvel amendement ou un nouveau sous-amendement de précision, si c’est encore possible."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 129,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 130,
+          "texte": "Le dispositif voté en commission spéciale est très clair : c’est l’Ordre qui intervient dans le cadre des sanctions disciplinaires. L’amendement vise simplement à élargir le champ des faits concernés en y incluant, par exemple, les maltraitances et les sévices."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 131,
+          "texte": "Vous ne répondez pas à la question : qui décide ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 132,
+          "texte": "Je mets aux voix l’amendement no 404."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 133,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 134,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        78\n        Nombre de suffrages exprimés                76\n        Majorité absolue                        39\n                Pour l’adoption                56\n                Contre                20",
+          "scrutinDetecte": {
+            "ordre": 134,
+            "votants": 78,
+            "exprimes": 76,
+            "majoriteAbsolue": 39,
+            "pour": 56,
+            "contre": 20,
+            "abstention": 2
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 135,
+          "texte": "(L’amendement no 404 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 136,
+          "texte": "Je suis saisie de trois amendements, nos 464, 1164 et 470, pouvant être soumis à une discussion commune.\n L’amendement no 464 de M. Yannick Neuder est défendu.\nLa parole est à Mme Sandrine Lalanne, pour soutenir l’amendement no 1164."
+        },
+        {
+          "orateur": "Mme Sandrine Lalanne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795390",
+          "ordre": 138,
+          "texte": "Il est issu des propositions de la mission flash sur les suites à donner à l’affaire Le Scouarnec. Il vise à rétablir le renvoi des plaintes devant la chambre disciplinaire de première instance plutôt que devant le directeur général de l’agence régionale de santé (ARS). Je précise que Mmes Cathala et Rousseau, préférant le renvoi devant l’ARS, n’y étaient pas favorables et ne s’associent pas à cette préconisation ; c’est une proposition de leurs corapporteures Laure Miller et Annie Vidal.\nLa juridiction ordinale, composée de magistrats et de professionnels de santé, dispose d’un pouvoir de sanction gradué allant de l’avertissement jusqu’à la radiation. Le directeur général de l’ARS n’a ni ce pouvoir disciplinaire, ni l’appui de magistrats pour l’exercer, ni les moyens humains pour traiter ces dossiers. De plus, dessaisir les ordres professionnels conduirait à dégrader le traitement des plaintes, surtout les plus graves. Les conventions qu’ils ont signées depuis 2025 avec la mission interministérielle pour la protection des femmes contre les violences et la lutte contre la traite des êtres humains (Miprof) les engagent déjà à assurer ce suivi."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 140,
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 470 et pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 141,
+          "texte": "Ces amendements sont ceux que j’évoquais il y a un instant et qui visent à rétablir la rédaction initiale de l’article 49. Nous avons tâché de parvenir, à partir du texte amendé par la commission spéciale, à une construction légistique dans laquelle les articles 49, 51 et 52 coexisteraient de manière cohérente. Après réflexion, il m’apparaît préférable de conserver la philosophie initiale du texte, c’est-à-dire de rétablir la compétence disciplinaire des ordres et de la renforcer, tout en renforçant par ailleurs le pouvoir du directeur général de l’ARS, et de clarifier les dispositions relatives à la communication entre les autorités ainsi qu’à l’information des victimes.\nJe retire l’amendement no 470 au profit de l’amendement no 1164, qui est plus complet, et j’invite les auteurs de l’amendement no 464 à faire de même."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 143,
+          "texte": "(L’amendement no 470 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 144,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 145,
+          "texte": "Je suis favorable à l’amendement no 1164 et demande le retrait de l’amendement no 464."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 146,
+          "texte": "(L’amendement no 464 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 147,
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 148,
+          "texte": "Je remercie Mme Lalanne d’avoir précisé que cette recommandation de la mission flash ne faisait pas consensus parmi les corapporteures. Mme Cathala et moi avions proposé de dessaisir les ordres professionnels de toutes les procédures disciplinaires relatives aux violences sexistes et sexuelles, pour éviter que les décisions se prennent dans l’entre-soi. En effet, à chaque fois que nous avons interrogé des procureurs, des responsables de la police ou de la gendarmerie, nous leur avons demandé s’ils avaient déjà été saisis par l’Ordre des médecins d’un signalement de viol ou d’agression sexuelle. La réponse était unanime : jamais.\nIl est inacceptable et même scandaleux que l’Ordre des médecins ne signale jamais à la justice des faits de viol ou d’agression. Nous estimons qu’il existe une contradiction de principe à ce qu’une justice ordinale corporatiste, certes compétente en ce qui concerne les pratiques médicales, soit saisie de faits de violences sexistes et sexuelles qui relèvent du code pénal. Le même problème existe d’ailleurs pour les universités, bien que mes amendements à ce sujet aient été considérés comme cavaliers législatifs.\nDes faits qui relèvent du pénal ne sauraient être traités à l’intérieur d’institutions corporatistes. Voilà la philosophie que nous défendons. Si nous avons considéré le vote de la commission spéciale comme une victoire, c’est parce que tout le monde s’est rangé à cette évidence. Que s’est-il passé depuis ? L’Ordre des médecins a fait un lobbying considérable auprès de la plupart des députés et nous avons vu reparaître des amendements écrits par l’Ordre pour conserver son pouvoir disciplinaire. S’il tient tant à garder ce pouvoir, c’est parce qu’il veut garder le contrôle sur ces affaires. Pour notre part, nous refusons que l’Ordre des médecins décide des sanctions des médecins qui se rendent auteurs de violences sexistes et sexuelles. (Applaudissements sur plusieurs bancs du groupe EcoS et sur quelques bancs des groupes LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 151,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 152,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 153,
+          "texte": "Je rappelle, car cela sera également utile à l’examen d’amendements à venir, que l’Ordre des médecins est responsable uniquement des sanctions disciplinaires, lesquelles ne se confondent pas avec les sanctions pénales. Nous débattrons aussi du pouvoir donné au directeur général de l’ARS de suspendre en urgence, si cela est nécessaire, le professionnel de santé. Il me semble très important que ces trois niveaux différents de sanction coexistent.\nL’Ordre travaille à améliorer son fonctionnement. De nombreuses missions relatives aux ordres professionnels ont été menées par l’Inspection générale des affaires sociales (Igas) ou encore par l’Inspection générale des finances (IGF), et des conclusions en ont été tirées. Des travaux sont en cours, sous la houlette de l’Igas et de l’IGF, pour améliorer ce qui doit l’être.\nIl importe de laisser leur place aux sanctions disciplinaires. Or sans les ordres professionnels, aucune sanction disciplinaire ne pourrait être prononcée. C’est aussi pour cela que nous avons besoin des ordres."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 156,
+          "texte": "Nous ne proposons pas de supprimer les sanctions disciplinaires !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 157,
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 158,
+          "texte": "J’indique à Mme Rousseau que ces amendements ne sont pas ceux de l’Ordre. Lorsque je dépose un amendement travaillé avec une organisation, je l’indique explicitement dans l’exposé sommaire. En l’espèce, cette proposition est le fruit des travaux que nous avons menés lors des auditions de la commission spéciale et des échanges qui ont fait suite à l’examen en commission."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 159,
+          "texte": "Je mets aux voix l’amendement no 1164."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 160,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 161,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        86\n        Nombre de suffrages exprimés                84\n        Majorité absolue                        43\n                Pour l’adoption                63\n                Contre                21",
+          "scrutinDetecte": {
+            "ordre": 161,
+            "votants": 86,
+            "exprimes": 84,
+            "majoriteAbsolue": 43,
+            "pour": 63,
+            "contre": 21,
+            "abstention": 2
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 162,
+          "texte": "(L’amendement no 1164 est adopté ; en conséquence, les amendements identiques nos 465 et 471 tombent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 163,
+          "texte": "La parole est à Mme Sandrine Lalanne, pour soutenir l’amendement no 1172."
+        },
+        {
+          "orateur": "Mme Sandrine Lalanne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795390",
+          "ordre": 164,
+          "texte": "Il permettra de répondre aux soupçons, évoqués par Mme Rousseau, de corporatisme envers l’Ordre des médecins. L’article 49 tend à supprimer la phase de conciliation devant le conseil départemental de l’Ordre et prévoit la transmission sans délai de la plainte à la chambre disciplinaire de première instance. Toutefois, il reste une faille : rien ne garantit que la chambre qui examine l’affaire ne comporte pas de proche du professionnel mis en cause. Les professionnels de santé exerçant dans le même territoire se connaissent ; ils sont confrères, collègues, parfois amis. Comment une plaignante peut-elle croire en l’impartialité d’une procédure menée par des pairs qui côtoient celui qu’elle accuse ?\nC’est pourquoi nous proposons d’ajouter à l’alinéa 3 la disposition suivante : « Le président de la chambre disciplinaire nationale désigne, dans un délai de quinze jours, une chambre disciplinaire de première instance autre que celle dans le ressort de laquelle le professionnel mis en cause est inscrit au tableau. Un décret en Conseil d’État précise les critères de cette désignation. » Cette mesure est tirée des recommandations de la mission flash sur les suites à donner à l’affaire Le Scouarnec."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 166,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 167,
+          "texte": "Mes collègues – je pense notamment à Annie Vidal et à Sandrine Rousseau – m’ont convaincu qu’il fallait avancer en matière de dépaysement. Cela vaut pour la santé, mais aussi pour l’enseignement supérieur et la recherche ; je regrette que nous ne puissions pas aller aussi loin dans le second domaine que dans le premier. Avis favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 168,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 169,
+          "texte": "Je suis un peu gênée par l’amendement car le dépaysement, à mon sens, doit rester exceptionnel. Il est bien sûr possible d’y procéder lorsque les professionnels de santé sont trop fortement liés entre eux ; d’ailleurs, des déports et des dépaysements ont régulièrement lieu pour cette raison. Toutefois, le dépaysement contraint aussi la victime à parcourir de nombreux kilomètres pour rejoindre une autre chambre disciplinaire. Demande de retrait ; à défaut, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 170,
+          "texte": "Je mets aux voix l’amendement no 1172."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 171,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 172,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        77\n        Nombre de suffrages exprimés                53\n        Majorité absolue                        27\n                Pour l’adoption                50\n                Contre                3",
+          "scrutinDetecte": {
+            "ordre": 172,
+            "votants": 77,
+            "exprimes": 53,
+            "majoriteAbsolue": 27,
+            "pour": 50,
+            "contre": 3,
+            "abstention": 24
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 173,
+          "texte": "(L’amendement no 1172 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 174,
+          "texte": "La parole est à Mme Sophia Chikirou, pour soutenir l’amendement no 1129."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 175,
+          "texte": "L’article prévoit que le président du conseil départemental de l’Ordre informe le procureur et l’auteur de la plainte, sous peine de sanctions. Je vous propose d’écrire plutôt qu’il doit transmettre au procureur « toute plainte ou tout signalement, quelle qu’en soit la forme, portant sur des faits susceptibles de constituer des violences sexuelles et sexistes ».\nLa simple notion d’information du procureur ne veut quasiment rien dire. Elle ne suffit pas. Le président d’un conseil de l’Ordre qui a été saisi par une victime ne peut se contenter d’écrire un rapport trimestriel ou annuel au procureur pour lui indiquer combien de patientes lui ont signalé des violences. Il doit systématiquement non seulement l’informer mais aussi lui transmettre les éléments en sa possession, y compris, s’il le faut, l’identité de la victime. Si nous voulons mettre un terme à ces violences une bonne fois pour toutes, si nous voulons que les patientes se sentent protégées, il faut prendre les mesures nécessaires. De toute façon, les faits qui relèvent du code pénal ne sauraient être traités par l’Ordre des médecins.\nL’amendement a été approuvé par la commission spéciale. Je vous invite à l’adopter en séance pour renforcer la protection des victimes et pour nous assurer qu’après l’adoption du texte, les femmes se sentent enfin réellement défendues."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 178,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 179,
+          "texte": "Avis favorable. L’amendement, qui a été réécrit à ma demande, répond à un questionnement qui a émergé lors de nos échanges en commission spéciale."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 180,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 181,
+          "texte": "Le président du conseil départemental de l’ordre est déjà tenu d’alerter le procureur, l’amendement me semble donc satisfait. Demande de retrait ; à défaut, avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 182,
+          "texte": "(L’amendement no 1129 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 183,
+          "texte": "Je suis saisie de deux amendements, nos 851 et 406, pouvant être soumis à une discussion commune.\n La parole est à Mme Sandrine Rousseau, pour soutenir l’amendement no 851."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 184,
+          "texte": "Il tend à citer l’article 40 du code de procédure pénale pour clarifier dans quel cadre s’appliquent les obligations de l’Ordre des médecins : manifestement, celui-ci méconnaît souvent l’obligation de signaler au procureur les crimes portés à sa connaissance. Il importe d’inscrire explicitement dans la loi que l’article 40 du code de procédure pénale s’applique aux représentants de l’Ordre comme à toute personne chargée d’une mission de service public."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 185,
+          "texte": "La parole est à Mme la ministre, pour soutenir l’amendement no 406."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 186,
+          "texte": "Il vise à supprimer l’aggravation des sanctions dont serait passible le président d’un conseil départemental de l’Ordre qui manquerait d’informer le procureur. Les sanctions prévues à l’article 434-1 du code pénal – trois ans d’emprisonnement et 45 000 euros d’amende – étant déjà applicables dans ce cas, il nous semble disproportionné d’en prévoir de plus lourdes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 187,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 188,
+          "texte": "Je demande le retrait de l’amendement no 851 de Mme Rousseau au profit de l’amendement no 406 du gouvernement, auquel la commission est favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 189,
+          "texte": "Quel est l’avis du gouvernement sur l’amendement no 851 ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 190,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 191,
+          "texte": "La parole est à Mme Sandrine Rousseau."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 192,
+          "texte": "Je ne le retirerai pas, car c’est le seul amendement qui contient la référence à l’article 40 du code de procédure pénale. Or il est très important que cet article s’applique aux ordres, qui conduisent les procédures disciplinaires."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 193,
+          "texte": "(L’amendement no 851 est adopté ; par conséquent, l’amendement no 406 tombe.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 194,
+          "texte": "La parole est à Mme Maud Petit, pour soutenir l’amendement no 165."
+        },
+        {
+          "orateur": "Mme Maud Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721234",
+          "ordre": 195,
+          "texte": "Les médecins sont en première ligne pour repérer les violences, établir les certificats médicaux et procéder au signalement. Or il est documenté qu’une crainte paralyse certains praticiens : la peur, lorsqu’ils rédigent un certificat, d’être poursuivi disciplinairement devant l’Ordre des médecins par les personnes qui se sentiraient mises en cause.\nPour lever ce frein, cet amendement propose expressément que la responsabilité disciplinaire du médecin qui signale ou établit un certificat de bonne foi ne soit pas engagée. Seul un manquement caractérisé aux règles déontologiques pourrait faire l’objet de poursuites.\nIl faut que nous sécurisions les médecins, y compris lorsqu’ils n’établissent que des certificats médicaux. Nous sommes tous conscients que parfois, les femmes ne souhaitent pas aller jusqu’à la plainte et veulent disposer de temps avant d’entamer une procédure. Il arrive que les médecins considèrent qu’un certificat est nécessaire dans un premier temps.\nJ’ajoute à toutes fins utiles qu’il est bien sûr recommandé aux médecins procédant à ces constats de ne jamais y ajouter un avis ou une orientation personnelle, sous peine de sanction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 199,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 200,
+          "texte": "Votre amendement comporte deux volets. S’agissant des signalements, il est déjà satisfait par l’article 47. S’agissant des certificats médicaux, l’intention est juste : un certificat constatant des violences n’est pas un signalement ; il n’est donc pas couvert par l’article 47, alors que des médecins font l’objet de plaintes disciplinaires pour en avoir rédigé. La rédaction soulève cependant quelques questions.\nPar conséquent la commission s’en remet à la sagesse de l’Assemblée et attend l’éclairage que pourrait nous apporter le gouvernement sur l’amendement no 165."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 202,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 203,
+          "texte": "Mon avis est identique à celui du rapporteur. Je pensais d’abord demander le retrait de l’amendement no 165 au motif qu’il était satisfait, mais je comprends l’objet de la demande.\nLe gouvernement s’en remet à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 205,
+          "texte": "La parole est à M. Arnaud Bonnet."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "ordre": 206,
+          "texte": "Les ordres sont des structures archaïques – je le dis comme je le pense. Non seulement les médecins qui établissent un certificat médical peuvent être embêtés – Mme Petit a entièrement raison de le souligner –, mais aussi les médecins de bonne volonté qui signalent des problèmes, ne serait-ce que par un mail – il n’est pas besoin de grand-chose – peuvent être embêtés par le conseil départemental de l’Ordre pendant deux ans avant que le conseil régional n’y mette fin. Il y a actuellement des pratiques honteuses au niveau des ordres."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 207,
+          "texte": "(L’amendement no 165 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 208,
+          "texte": "Je mets aux voix l’article 49, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 209,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 210,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        88\n        Nombre de suffrages exprimés                62\n        Majorité absolue                        32\n                Pour l’adoption                62\n                Contre                0",
+          "scrutinDetecte": {
+            "ordre": 210,
+            "votants": 88,
+            "exprimes": 62,
+            "majoriteAbsolue": 32,
+            "pour": 62,
+            "contre": 0,
+            "abstention": 26
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 211,
+          "texte": "(L’article 49, amendé, est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8651,
+          "id": "VTANR5L17V8651",
+          "sort": "adopté",
+          "titreVote": "l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 78,
+          "exprimes": 76,
+          "pour": 56,
+          "contre": 20,
+          "abstention": 2,
+          "ordre": 134
+        },
+        {
+          "numero": 8652,
+          "id": "VTANR5L17V8652",
+          "sort": "adopté",
+          "titreVote": "l'article 50 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 86,
+          "exprimes": 84,
+          "pour": 63,
+          "contre": 21,
+          "abstention": 2,
+          "ordre": 161
+        },
+        {
+          "numero": 8653,
+          "id": "VTANR5L17V8653",
+          "sort": "adopté",
+          "titreVote": "l'article 51 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 77,
+          "exprimes": 53,
+          "pour": 50,
+          "contre": 3,
+          "abstention": 24,
+          "ordre": 172
+        },
+        {
+          "numero": 8654,
+          "id": "VTANR5L17V8654",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 386 du Gouvernement de suppression de l'article 52 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 88,
+          "exprimes": 62,
+          "pour": 62,
+          "contre": 0,
+          "abstention": 26,
+          "ordre": 210
+        }
+      ]
+    },
+    {
+      "idSyceron": "4180824",
+      "valeurPtsOdj": "1",
+      "titre": "Article 50 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 213,
+          "texte": "Je suis saisie de deux amendements, nos 654 et 166, pouvant être soumis à une discussion commune.\n La parole est à M. Guillaume Gouffier Valente, rapporteur, pour soutenir l’amendement no 654."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 214,
+          "texte": "Faisant suite aux discussions que nous avons eues avec Maud Petit et d’autres collègues dans le cadre de la commission spéciale pour reconnaître la vulnérabilité chimique, il tend à substituer au mot « soumission » le mot « vulnérabilité »."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 215,
+          "texte": "L’amendement no 166 de Mme Maud Petit est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 217,
+          "texte": "La commission émet un avis favorable sur l’amendement no 166."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 218,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 219,
+          "texte": "Les deux notions ne se recouvrent pas totalement. La soumission chimique est l’administration d’une substance psychoactive à l’insu des victimes ou sous la menace à des fins criminelles ou délictuelles. Elle se distingue de la vulnérabilité chimique, qui désigne un état de fragilité induit par la consommation volontaire d’une substance psychoactive ayant rendu la personne plus vulnérable à une agression.\nJe vous demande de bien vouloir retirer ces deux amendements."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 221,
+          "texte": "La parole est à M. Guillaume Gouffier Valente, rapporteur."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 222,
+          "texte": "Je maintiens l’amendement no 654, qui fait suite aux discussions que nous avons eues en commission spéciale, mais aussi aux travaux des docteurs Hingray et Chaouachi, dont je salue l’engagement depuis de nombreuses années sur ce sujet, ainsi qu’à ceux de notre collègue Sandrine Josso, qui nous ont fait prendre conscience de cette réalité et reconnaître que la vulnérabilité chimique couvre un spectre de situations plus large que la soumission chimique. J’avais entendu vos arguments en commission, madame Josso, d’où l’amendement no 654."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 223,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 224,
+          "texte": "J’émets finalement un avis favorable sur l’amendement no 166, qui porte sur la formation."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 225,
+          "texte": "La parole est à Mme Maud Petit."
+        },
+        {
+          "orateur": "Mme Maud Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721234",
+          "ordre": 226,
+          "texte": "Je vous remercie infiniment, madame la ministre, pour cet avis favorable. Il me paraît indispensable de faire figurer les deux termes, car les deux concepts sont utilisés. On ne connaît pas encore suffisamment la vulnérabilité chimique, mais Sandrine Josso a évoqué des situations d’enfants battus chimiquement ou de personnes âgées battues chimiquement."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 227,
+          "texte": "La parole est à Mme Sophia Chikirou."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 228,
+          "texte": "Nous avons un dilemme. Monsieur le rappporteur, nous comprenons tout à fait que le mot « vulnérabilité » introduit par l’amendement no 654 couvre les deux types de situation, tandis que l’amendement no 166 de Mme Maud Petit mentionne explicitement les deux situations. Si nous adoptons l’amendement no 654, l’amendement no 166 tombe, ce qui nous pose problème.\nJe pense en effet qu’il vaut mieux que la loi soit claire et explicite. Cela facilite le travail des juges, des avocats et des plaignants et cela permet à chacun de bien comprendre ce que dit la loi et de ne pas prétendre passer à travers. Par conséquent, nous sommes plutôt favorables à l’amendement no 166 de Mme Maud Petit. Pour éviter qu’il ne tombe, nous voterons contre l’amendement no 654 de M. Gouffier Valente. Mais peut-être pouvons-nous poursuivre l’échange pour prendre la bonne décision."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 230,
+          "texte": "La parole est à M. Guillaume Gouffier Valente, rapporteur."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 231,
+          "texte": "Je retire l’amendement no 654 au profit de l’amendement no 166."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 232,
+          "texte": "(L’amendement no 654 est retiré.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 233,
+          "texte": "(L’amendement no 166 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 234,
+          "texte": "La parole est à Mme Marie-Charlotte Garin, pour soutenir l’amendement no 359."
+        },
+        {
+          "orateur": "Mme Marie-Charlotte Garin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795010",
+          "ordre": 235,
+          "texte": "L’amendement de mon collègue M. Sébastien Peytavie vise à intégrer dans la formation des professionnels de santé un volet concernant la prise en compte des besoins spécifiques des personnes en situation de handicap."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 236,
+          "texte": "(L’amendement no 359, accepté par la commission et le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 237,
+          "texte": "La parole est à Mme Nadège Abomangoli, pour soutenir l’amendement no 876."
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 238,
+          "texte": "Cette proposition de loi dite intégrale n’intègre que très peu les questions de mutilation génitale ou sexuelle. En France, 139 000 femmes ont subi une mutilation sexuelle au cours de leur vie, une excision ou une infibulation. En Europe, une femme excisée sur deux vit en France ou au Royaume-Uni – c’est donc bien une réalité de santé publique française.\nCes femmes consultent, accouchent, vont aux urgences, mais elles tombent sur des soignants qui ne sont quasiment jamais formés. L’obligation de traiter cette question dans les programmes de formation médicale existe depuis vingt ans. Vingt ans après, malheureusement, seules quatre facultés de médecine l’appliquent. C’est vraiment un très mauvais signal pour les femmes.\nLes écoles de sages-femmes l’ont intégrée à leur formation initiale, mais ce n’est pas le cas pour les études de médecine. Des praticiens nous indiquent que leurs internes achèvent leur cursus sans avoir jamais abordé le sujet.\nUne analyse publiée par l’Organisation mondiale de la santé (OMS) en 2025 établit qu’une femme ayant subi ce type de mutilation présente un risque fortement accru de complications obstétricales, de lésions génitales, d’infections génito-urinaires, de troubles menstruels et urinaires et de rapports douloureux. L’essentiel du repérage des mutilations se fait en protection maternelle et infantile (PMI), ce qui n’est pas suffisant, ou en médecine de ville, c’est-à-dire par des professionnels qui ne sont pas suffisamment formés.\nVous consacrez un article entier au renforcement de la formation, dans le cadre duquel je présente cet amendement. De nombreuses associations demandent que cette obligation de formation soit rendue effective : Excision parlons-en, Femmes battantes, la fédération nationale du Groupe pour l’abolition des mutilations sexuelles, des mariages forcés et autres pratiques traditionnelles néfastes à la santé des femmes et des enfants (Gams), l’association Djamma-Djigui et Alerte excision."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 243,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 244,
+          "texte": "Je vous demande de retirer l’amendement, sans quoi j’émettrai un avis défavorable, car il est satisfait.\nL’article 50 prévoit la formation des professionnels de santé à la prévention et à la prise en charge de tous les types de violence. Sa rédaction couvre les violences que vous venez d’évoquer.\nPar ailleurs, j’en suis désolé, mais je donnerai une série d’avis défavorables sur les amendements à l’article 50, après qu’en commission, nous avons déjà adopté un certain nombre de modifications et que des amendements viennent d’être adoptés en séance. Si nous poursuivions dans cette veine, nous risquerions de rendre l’article illisible. (Mme Sophia Chikirou s’exclame.)\nJe vous explique la position de la commission spéciale. Je pourrais faire le compte du nombre d’avis favorables que j’ai donnés lors de l’examen en commission de l’article 50, que nous avons largement modifié. Il entre aussi dans mon rôle de rapporteur d’être le garant, le protecteur, en quelque sorte, de la cohérence de l’article 50, article fondamental qui renforce les obligations de formation de l’ensemble des professionnels de santé et d’étudiants en santé. Nous nous accordons tous à penser que cet article doit être le plus clair possible."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 248,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 249,
+          "texte": "Merci de nous interpeller sur le sujet majeur des mutilations sexuelles. Tous les professionnels de santé doivent être formés à la connaissance et à la prise en charge de ces mutilations. Cependant, ce programme de formation figure déjà dans le développement professionnel continu.\nL’amendement no 876 étant satisfait, je vous demande de le retirer, sans quoi le gouvernement émettra un avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 251,
+          "texte": "La parole est à M. Thomas Ménagé."
+        },
+        {
+          "orateur": "M. Thomas Ménagé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794322",
+          "ordre": 252,
+          "texte": "Nous voterons l’amendement no 876 de notre collègue de La France insoumise. Je suis très heureux qu’il y ait une clarification au sein de La France insoumise au sujet de l’excision. Lorsque nous avons examiné l’article 18, qui mentionne explicitement les mutilations génitales dans le code pénal, seuls Les Républicains et le Rassemblement national se sont exprimés, ce qui avait entraîné un doute.\nSurtout, je suis allé voir la séance du 24 septembre 2026 du conseil municipal de la ville de Saint-Denis, dirigé par le maire M. Bagayoko de La France insoumise, dont la majorité a refusé de voter un vœu condamnant les mutilations génitales. (Applaudissements sur les bancs du groupe RN.)\nJe m’interroge donc sur la ligne de La France insoumise à l’égard de l’excision et j’attends une réponse. Je vous donne des chiffres : à l’hôpital Delafontaine à Saint-Denis, 13 % des femmes qui accouchent ont malheureusement vécu ces mutilations génitales. Pourquoi ce double discours ? À l’Assemblée nationale, la France insoumise défend les femmes victimes de ces mutilations génitales ; à Saint-Denis, elle s’aplatit devant cette barbarie et refuse de voter un simple vœu pour les soutenir, les accompagner et dénoncer cette atrocité."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 255,
+          "texte": "Vous dîtes n’importe quoi et vous le savez !"
+        },
+        {
+          "orateur": "M. Thomas Ménagé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794322",
+          "ordre": 256,
+          "texte": "Nous voterons votre amendement, et j’espère, chers collègues, que nous pourrons nous retrouver sur ce sujet. Cependant il faudra un jour que vous soyez au clair sur vos positions et que vous évitiez les doubles discours et votre définition à géométrie variable de la protection des femmes, notamment des victimes de mutilations génitales. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 257,
+          "texte": "La parole est à Mme Nadège Abomangoli."
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 258,
+          "texte": "Je me suis inscrite pour prendre la parole, car je savais ce que l’extrême droite allait dire sur ce sujet. L’excision fait très souvent l’objet d’instrumentalisations racistes. J’ai cité des chiffres éloquents : seules quatre facultés de médecine respectent l’obligation d’aborder cette question dans leurs programmes de formation. Cela montre à quel point ce phénomène reste invisibilisé, y compris dans le domaine médical."
+        },
+        {
+          "orateur": "M. Thomas Ménagé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794322",
+          "ordre": 259,
+          "texte": "Et y compris à Saint-Denis !"
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 260,
+          "texte": "C’est pourquoi, madame la ministre, il me semble important de l’inscrire explicitement dans le texte de loi. Pour en revenir à l’interpellation du collègue Ménagé, l’extrême droite se vautre dans les fake news. Le vœu en question, qui n’a pas été voté par nos collègues Insoumis de Saint-Denis, avait été déposé par le groupe socialiste, qui mène une offensive permanente contre Bally Bagayoko, faute d’avoir digéré sa défaite. (Mme Gabrielle Cathala applaudit.) Ce vœu avait un intitulé beaucoup plus large : il appelait non seulement à condamner l’excision, mais aussi à voter la loi intégrale."
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale de la commission spéciale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 261,
+          "texte": "Voilà !"
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 262,
+          "texte": "Il s’agissait d’une injonction formulée avant même le vote définitif du texte de loi. (Exclamations sur quelques bancs du groupe RN.) Quand on veut dénoncer le vote de quelqu’un, on regarde l’intitulé du texte et ses finalités. Dès lors que les collègues socialistes du conseil municipal de Saint-Denis ont refusé de modifier le vœu, celui-ci a été rejeté dans son intégralité."
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 263,
+          "texte": "Il n’a pas été rejeté !"
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 264,
+          "texte": "Voilà, comme d’habitude, je démonte les fake news de l’extrême droite sur les femmes racisées. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 265,
+          "texte": "Ils vivent de fake news ! Sinon, ils disparaissent !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 266,
+          "texte": "La parole est à Mme Émilie Bonnivard."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "ordre": 267,
+          "texte": "Je comprends la position du rapporteur : l’ensemble du texte doit être cohérent. Toutefois, le sujet évoqué par notre collègue concerne des pratiques assez répandues en France, mais encore trop peu connues des professionnels de santé. Ces pratiques touchent de nombreuses femmes dans notre pays. À titre personnel, je voterai donc l’amendement de ma collègue. Ce sera le seul et unique amendement de ce type que je soutiendrai, en raison de sa spécificité."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 268,
+          "texte": "La parole est à Mme la ministre déléguée chargée de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations."
+        },
+        {
+          "orateur": "Mme Aurore Bergé",
+          "fonction": "ministre déléguée chargée de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+          "role": null,
+          "idActeur": "PA722046",
+          "ordre": 269,
+          "texte": "Je voudrais éviter toute ambiguïté sur les lieux où ces mutilations sexuelles sont commises. Elles ne sont heureusement pas pratiquées sur le territoire national. Le risque est que des petites filles françaises ou vivant en France soient emmenées dans leur pays d’origine, où les mutilations sexuelles féminines, notamment l’excision, sont encore pratiquées. C’est pourquoi, avec les associations que vous avez citées, notamment Excision, parlons-en !, nous menons chaque année des campagnes ciblées, en particulier à l’approche des vacances scolaires. Pour certaines enfants, ces périodes ne sont pas synonymes de joie ou de retrouvailles, mais peuvent devenir des moments d’abomination, lorsqu’elles sont emmenées dans leur pays d’origine pour y subir ces mutilations. Ces campagnes rappellent les conséquences de ces actes sur le corps, la santé psychique et la vie de ces petites filles, puis des femmes qu’elles deviennent. Elles rappellent également les sanctions encourues en France par les parents qui imposent de telles mutilations à leurs enfants – notamment, des peines de prison ferme. Il me semble donc essentiel de souligner à la fois le droit français et les circonstances dans lesquelles ces mutilations sont commises."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 270,
+          "texte": "(L’amendement no 876 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 271,
+          "texte": "La parole est à Mme Élise Leboucher, pour soutenir l’amendement no 844."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "ordre": 272,
+          "texte": "Nous en arrivons au cœur du sujet, qui devrait tous nous préoccuper : la prise en compte des conséquences du psychotraumatisme, et donc la formation des professionnels de santé, aujourd’hui insuffisante sur cette question. Ce manque de formation cause une errance médicale pour les personnes concernées. Leurs traumatismes sont encore mal compris par les soignants, ce qui entraîne des prises en charge inadaptées. J’ai rencontré des personnes qui ont connu des parcours d’hospitalisation en psychiatrie pendant des années, faute d’avoir établi un lien entre leurs troubles et les violences sexuelles qu’elles avaient subies. Lorsque des professionnels de santé ont commencé à les interroger et à porter un regard différent sur leur situation, elles ont pu sortir de ces parcours. Il est donc essentiel de former les professionnels de santé. Le docteur Muriel Salmona nous l’a bien expliqué lors des auditions. Cet amendement est important, car il répond à l’un des enjeux centraux de notre texte : la lutte contre les violences sexuelles, dans laquelle la prise en compte du psychotraumatisme doit être une priorité."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 273,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 274,
+          "texte": "L’amendement est satisfait par l’adoption de l’amendement no 359, il y a quelques instants. Demande de retrait ; à défaut, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 275,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 276,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 277,
+          "texte": "La parole est à Mme Élise Leboucher."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "ordre": 278,
+          "texte": "Monsieur le rapporteur, je crois que vous faites référence à l’amendement de M. Peytavie, qui portait sur la prise en compte du handicap. L’amendement que je présentais sur le même sujet est tombé. Nous parlons maintenant de la prise en compte des conséquences du psychotraumatisme."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 279,
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 280,
+          "texte": "Je me trompe. Je voulais parler de l’amendement adopté en commission, qui satisfait votre amendement no 844."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 281,
+          "texte": "(L’amendement no 844 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 282,
+          "texte": "La parole est à Mme Nadège Abomangoli, pour soutenir l’amendement no 886."
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 283,
+          "texte": "Il vise à inscrire la lutte contre le racisme dans la relation de soins entre les patients, et singulièrement les patientes, et les médecins. Je veux parler de ce que l’on appelle le syndrome méditerranéen, documenté par de nombreux collectifs, associations antiracistes, chercheurs et chercheuses. Parce qu’une patiente est racisée, on présume parfois qu’elle exagère, qu’elle supporte mieux la douleur ou, au contraire, qu’elle en fait trop. Sa souffrance est alors minimisée, sa parole remise en cause et sa prise en charge peut s’en trouver dégradée. Ce phénomène se manifeste notamment dans les soins gynécologiques et obstétricaux. C’est pourquoi il nous semble essentiel d’en tenir compte.\nAu cours de l’examen de ce texte, nous avons évoqué plusieurs avancées sociologiques qui ont permis de faire évoluer la loi et les pratiques, notamment dans la police et la justice, en prenant en compte des phénomènes comme la victimisation secondaire ou les manifestations post-traumatiques. Pour toutes ces raisons, je vous demande d’adopter cet amendement qui met en lumière la question du syndrome méditerranéen."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 285,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 286,
+          "texte": "Demande de retrait ; à défaut, avis défavorable. Cet amendement est satisfait par le parcours de formation initiale, même si je ne peux que souscrire à la nécessité d’une approche intersectionnelle en la matière."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 287,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 288,
+          "texte": "Il est satisfait. J’émets donc un avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 289,
+          "texte": "La parole est à Mme Sophia Chikirou."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 290,
+          "texte": "J’interviens en soutien de cet amendement. Monsieur le rapporteur, vous ne pouvez pas considérer qu’il est déjà satisfait. Vous ne pouvez pas dire que la prise en compte des pratiques et des violences spécifiques subies par une partie de la population en raison de son origine, de sa religion supposée, de son appartenance ethnique ou de sa nationalité est déjà garantie. Malheureusement, ce n’est pas le cas.\nLorsqu’on veut construire une loi intégrale féministe, on ne peut pas exclure une partie de la population ni nier les violences spécifiques qu’elle subit. Le syndrome méditerranéen a déjà tué, sachez-le. Je pense à cette jeune fille de Strasbourg, qui appelle le Samu, qui crie au secours, qui dit qu’elle a mal, et qui s’entend répondre qu’elle fait la chochotte. Son cas est connu ; elle en est morte. Le syndrome méditerranéen désigne la minimisation de la douleur et des symptômes chez des personnes d’origine africaine ou maghrébine. Comme il ne s’agit pas d’un concept scientifique, l’objectif n’est pas de l’inscrire comme tel dans la loi. Mais il faut avoir conscience qu’il peut tuer, entraîner une prise en charge inadaptée et avoir des conséquences extrêmement graves.\nInscrire dans la loi que ces formes de violence et de discrimination peuvent être sanctionnées, et prévoir la formation des professionnels pour les prévenir, c’est essentiel. C’est aussi une manière d’inclure toutes les femmes. Lorsqu’on construit une loi intégrale, on doit prendre en compte tous les types de violence que les femmes peuvent subir. On ne peut pas, dès qu’il s’agit de ces questions, considérer que tout est déjà satisfait et qu’il n’est pas nécessaire de le préciser dans la loi.\nNous risquons de voir se reproduire ce qui s’est passé ce matin, sous l’impulsion d’une partie de la droite et de l’extrême droite : cette loi ne prendra plus en compte toutes les femmes et en exclura certaines en raison de leur statut administratif ou des violences spécifiques qu’elles subissent. Je vous invite à y réfléchir, car, dans ces conditions, cette loi n’a plus rien d’intégral. Il faudrait alors en changer le titre et assumer que l’on fait autre chose : une loi qui ne s’adresse qu’à certaines femmes, en niant les réalités spécifiques auxquelles sont confrontées les femmes étrangères ou les Françaises d’origine africaine ou maghrébine."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 294,
+          "texte": "La parole est à Mme Maud Petit."
+        },
+        {
+          "orateur": "Mme Maud Petit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721234",
+          "ordre": 295,
+          "texte": "Je soutiens cet amendement. Permettez-moi de vous donner un exemple très simple, sans même aborder les violences sexistes et sexuelles. La drépanocytose est une maladie des globules rouges qui touche particulièrement certaines populations, notamment les personnes originaires des Antilles, d’Afrique et du Maghreb. Lorsqu’elles se présentent à l’hôpital en pleine crise, avec des douleurs particulièrement intenses et parfois insoutenables, elles ne sont malheureusement pas toujours prises en charge comme elles le devraient. On estime qu’elles exagèrent, qu’elles font leur drama queen. Lorsqu’il s’agit d’un homme, on peut même soupçonner un manque dû à une consommation de substances illicites. Ces personnes ne bénéficient donc pas de soins adaptés, en raison des préjugés attachés à leurs symptômes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 296,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 297,
+          "texte": "Je suis d’accord avec Mme Chikirou – ce n’est pas très fréquent – et avec Mme Petit. Il est vrai que nous devons progresser dans la formation sur ces questions. Je l’ai moi-même constaté en tant que professionnelle de santé. Toutefois, madame Chikirou, M. le rapporteur a raison, cet amendement est satisfait. La fiche no 18 des orientations prioritaires de développement professionnel continu, relative à la promotion, à la prévention et à la prise en charge en matière de santé sexuelle, prévoit déjà, parmi les contenus pédagogiques destinés aux professionnels de santé, un volet consacré à la posture professionnelle, à la bienveillance, au non-jugement et à la non-discrimination."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 298,
+          "texte": "(L’amendement no 886 est adopté.)\n (Applaudissements sur quelques bancs des groupes LFI-NFP, SOC et EcoS.)"
+        },
+        {
+          "orateur": "Mme Danielle Simonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796018",
+          "ordre": 299,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 300,
+          "texte": "Je vous informe qu’après un peu plus d’une heure de séance, nous sommes encore loin d’avoir terminé, alors qu’il me semblait qu’une volonté assez largement partagée était de finir avant 20 heures. Au rythme actuel, nous n’y parviendrons pas. Je vous laisse en tirer les conclusions que vous souhaitez.\nL’amendement no 918 de Mme Ségolène Amiot est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 302,
+          "texte": "(L’amendement no 918, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 303,
+          "texte": "Les amendements nos 677, 656 et 658 de M. le rapporteur Gouffier Valente sont rédactionnels."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 304,
+          "texte": "(Les amendements nos 677, 656 et 658, acceptés par le gouvernement, sont successivement adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 305,
+          "texte": "Sur l’article 50, je suis saisie par les groupes Ensemble pour la République et La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Gabrielle Cathala, pour soutenir l’amendement no 846."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 307,
+          "texte": "Amendement rédactionnel. (Sourires.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 308,
+          "texte": "Bien tenté !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 309,
+          "texte": "(L’amendement no 846, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 310,
+          "texte": "La parole est à Mme Gabrielle Cathala, pour soutenir l’amendement no 871."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 311,
+          "texte": "Rédactionnel."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 312,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 313,
+          "texte": "C’est une mauvaise coordination. Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 314,
+          "texte": "(L’amendement no 871, repoussé par le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 315,
+          "texte": "Je mets aux voix l’article 50."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 316,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 317,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        92\n        Nombre de suffrages exprimés                92\n        Majorité absolue                        47\n                Pour l’adoption                92\n                Contre                0",
+          "scrutinDetecte": {
+            "ordre": 317,
+            "votants": 92,
+            "exprimes": 92,
+            "majoriteAbsolue": 47,
+            "pour": 92,
+            "contre": 0,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 318,
+          "texte": "(L’article 50, amendé, est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8655,
+          "id": "VTANR5L17V8655",
+          "sort": "adopté",
+          "titreVote": "l'article 53 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 92,
+          "exprimes": 92,
+          "pour": 92,
+          "contre": 0,
+          "abstention": 0,
+          "ordre": 317
+        }
+      ]
+    },
+    {
+      "idSyceron": "4180984",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 50 (amendements appelés par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 320,
+          "texte": "La parole est à Mme Catherine Ibled, pour soutenir l’amendement no 1153."
+        },
+        {
+          "orateur": "Mme Catherine Ibled",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795954",
+          "ordre": 321,
+          "texte": "Protéger les enfants, c’est aussi prévenir les violences avant qu’elles ne soient commises. Le dispositif STOP (service téléphonique d’orientation vers les soins et de prévention), proposé par les centres ressource pour les intervenants auprès des auteurs de violences sexuelles (CRIAVS), permet aux personnes attirées sexuellement par les enfants de demander de l’aide et d’être orientées vers des professionnels avant un éventuel passage à l’acte. En 2025, plus de 4 500 appels ont été reçus, dont 64 % émanaient de personnes réellement concernées. Cela montre qu’une politique de prévention en amont est possible et qu’elle évite de nombreux drames.\nCet amendement vise donc à mieux intégrer cette logique dans notre stratégie de santé de l’enfant, en nous appuyant sur les CRIAVS et les dispositifs existants. Cette proposition de loi ne doit pas oublier la prévention du passage à l’acte, au-delà de la protection des victimes et, évidemment, de la poursuite des auteurs. (Mmes Sandrine Josso et Maud Petit applaudissent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 323,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 324,
+          "texte": "Vous proposez, avec cet amendement, de prendre en compte la prévention des violences sexuelles sur mineurs dans la stratégie nationale de santé. Or l’article L1411-1 du code de la santé publique, qui définit les grands principes de la politique de santé, prévoit d’ores et déjà la prise en compte de la protection infantile et des conditions de vie ainsi que l’accès effectif à la prévention et aux soins. Votre amendement est donc pleinement satisfait. Une disposition du même ordre figurait d’ailleurs dans la stratégie nationale 2023-2033, transmise à la Haute Autorité de santé.\nJe vous invite donc à retirer votre amendement. À défaut, j’émettrai un avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 326,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 327,
+          "texte": "Cet amendement est effectivement satisfait et je vous invite moi aussi à le retirer.\nLes CRIAVS font un travail essentiel et je profite de cette prise de parole pour indiquer que nous allons renforcer leur budget, conformément à la recommandation no 45 de la Commission indépendante sur l’inceste et les violences sexuelles faites aux enfants (Ciivise) : avec 1,6 million supplémentaire, il atteindra 11 millions en 2027."
+        },
+        {
+          "orateur": "Mme Émilie Bonnivard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721410",
+          "ordre": 329,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 330,
+          "texte": "(L’amendement no 1153 est retiré.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4180996",
+      "valeurPtsOdj": "1",
+      "titre": "Article 50 bis (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 332,
+          "texte": "(L’article 50 bis est adopté.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4180998",
+      "valeurPtsOdj": "1",
+      "titre": "Article 51 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 334,
+          "texte": "Je suis saisie de l’amendement no 30 de Mme Émilie Bonnivard."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 335,
+          "texte": "(L’amendement no 30 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 336,
+          "texte": "Je suis saisie de deux amendements, nos 946 et 221, pouvant être soumis à une discussion commune.\n La parole est à Mme Gabrielle Cathala, pour soutenir l’amendement no 946."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 337,
+          "texte": "Il s’agit, avec cet amendement, de préciser ce qui peut conduire à la suspension d’un professionnel – ou d’une professionnelle – de santé, à savoir un certain nombre d’infractions, notamment sexuelles, qu’elles soient commises dans le cadre de son activité professionnelle ou dans le cadre familial."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 338,
+          "texte": "L’amendement no 221 de Mme Sandrine Josso est défendu.\nQuel est l’avis de la commission sur ces amendements ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 340,
+          "texte": "Nous avons déjà largement débattu de ces questions en commission. Vous proposez de remplacer la notion de grave danger par une liste d’infractions, applicable en cas de mise en examen. Je n’y suis pas favorable, pour trois raisons que je vais rappeler.\nD’abord, une liste risque toujours d’être incomplète. Nous avons bien vu en commission qu’il manquait dans chacun des amendements proposant de telles listes une infraction importante, que ce soit dans le cadre de l’exercice professionnel ou dans celui d’activités privées.\nPar ailleurs, votre amendement créerait un double régime de suspension, ce qui serait une source de fragilité juridique. En l’absence de mise en examen, la suspension pourrait être prononcée sur le fondement du grave danger. En cas de mise en examen, en revanche, la décision du directeur général de l’ARS serait subordonnée à la caractérisation d’une infraction déterminée. Le dispositif, à mon avis, y perdrait en lisibilité.\nEnfin, votre amendement fait dépendre la suspension d’une qualification pénale qui, par nature, est assez instable. La qualification retenue lors de la mise en examen est provisoire. Elle peut être modifiée au cours de l’instruction. Une requalification ferait tomber le fondement de la suspension, alors même que le danger demeurerait. La suspension doit rester ce qu’elle est, une mesure de protection des patientes et des patients, non l’accessoire d’une procédure pénale.\nPour toutes ces raisons, je vous invite à retirer votre amendement. À défaut, j’émettrai un avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 345,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 346,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 347,
+          "texte": "La parole est à Mme Gabrielle Cathala."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 348,
+          "texte": "La rédaction que nous proposons fait référence à l’article 1er du texte, c’est-à-dire à toutes les infractions qui sont visées dans ce texte comme étant des violences sexistes et sexuelles. Elle couvre donc un champ très large d’infractions et je ne vois pas pourquoi elle laisserait de côté certains comportements. Quant au fait de se référer à la mise en examen, il me semble que c’est un minimum. Lorsqu’une personne est mise en examen, c’est qu’il existe des indices graves et concordants à son encontre.\nPour que cette rédaction soit compatible avec nos exigences en matière de présomption d’innocence et que l’on se réfère à une notion plus précise qu’à celle de « danger », qui me semble sujette à interprétation, nous faisons référence aux articles du code pénal qui, à l’article 1er de ce texte, définissent les violences sexuelles et sexistes (VSS)."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 350,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 351,
+          "texte": "Je comprends vos arguments, madame Cathala, mais si demain un chirurgien frappe une patiente, cet acte n’entrera pas dans le cadre de l’article 51, tel que vous voulez le rédiger, puisque cela ne relève pas des VSS. C’est pourquoi je rejoins l’avis du rapporteur et réitère ma demande de retrait."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 352,
+          "texte": "Madame Cathala, maintenez-vous votre amendement ?"
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 353,
+          "texte": "L’article 1er fait aussi référence aux violences sur les personnes…"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 354,
+          "texte": "Madame Cathala, je vous ai déjà donné la parole. Dites-moi seulement si vous maintenez votre amendement."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 355,
+          "texte": "Je le maintiens."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 356,
+          "texte": "(Les amendements nos 946 et 221, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 357,
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 1163."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 358,
+          "texte": "Je vais défendre cet amendement, au nom d’un grand nombre de membres du groupe EPR, mais aussi de collègues d’autres groupes, qui m’ont convaincu de revoir ma position au sujet du délai de suspension. Il est proposé, avec cet amendement, un délai de six mois, renouvelable une fois et, le cas échéant, jusqu’à la fin de la procédure pénale pour les professionnels mis en examen. Il est en cohérence avec les discussions que nous avons eue en commission."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 359,
+          "texte": "(L’amendement no 1163, accepté par le gouvernement, est adopté ; en conséquence, les amendements identiques n°224 et 796 tombent.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 360,
+          "texte": "L’amendement no 661 de M. le rapporteur est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 361,
+          "texte": "(L’amendement no 661, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 362,
+          "texte": "Je suis saisie de quatre amendements, nos 852, 222, 763 et 680, pouvant être soumis à une discussion commune.\n La parole est à Mme Sandrine Rousseau, pour soutenir l’amendement no 852."
+        },
+        {
+          "orateur": "Mme Sandrine Rousseau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795076",
+          "ordre": 363,
+          "texte": "Il s’agit de rendre obligatoire la communication à l’ARS de la mise en examen d’un professionnel de santé, y compris lorsque les faits relèvent de la sphère privée. Si un professionnel de santé est mis en examen pour détention d’images pédopornographiques et qu’il est – au hasard ! – chirurgien pour enfant, cela peut présenter un léger danger."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 364,
+          "texte": "L’amendement no 222 de Mme Sandrine Rousseau est défendu.\nLa parole est à Mme Marie-Charlotte Garin, pour soutenir l’amendement no 763."
+        },
+        {
+          "orateur": "Mme Marie-Charlotte Garin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795010",
+          "ordre": 366,
+          "texte": "Il est retiré."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 367,
+          "texte": "(L’amendement no 763 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 368,
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 680 et donner l’avis de la commission sur les amendements en discussion commune."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 369,
+          "texte": "Mon amendement est rédactionnel. À l’alinéa 1er, nous avons adopté en commission un amendement qui supprime le lien entre mise en examen et exercice de la profession. Dorénavant, le directeur de l’ARS pourra suspendre un professionnel de santé mis en examen dès lors qu’il y a un danger grave pour le patient, et ce, quels que soient les faits. Par cohérence, il faut dorénavant corriger l’alinéa 8, qui concerne la transmission d’informations entre le ministère public et le directeur de l’ARS. J’ai déposé un amendement rédactionnel qui garantit cette cohérence, en alignant la rédaction de l’alinéa 8 sur ce qui a été adopté à l’alinéa 1er de cet article.\nLe ministère public devra donc informer le directeur de l’ARS chaque fois qu’un professionnel de santé sera mis en examen pour des faits susceptibles de constituer un danger grave pour les patients et il ne pourra s’abstenir que si cela est nécessaire pour le bien de l’enquête.\nJ’émettrai un avis défavorable sur les autres amendements en discussion commune, qui fragiliseraient à mon sens ce que nous avons construit en commission, et qui présente une vraie cohérence."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 372,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 373,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 374,
+          "texte": "(Les amendements nos 852 et 222, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 375,
+          "texte": "(L’amendement no 680 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 376,
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 828."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 377,
+          "texte": "Cet amendement a été travaillé avec le président Valletoux, qui n’est pas présent cet après-midi, mais que je remercie pour la qualité des échanges que nous avons pu avoir. Il précise que l’employeur doit être informé sans délai de la suspension d’un professionnel de santé par l’autorité administrative qui l’a prononcée. Cette information est due, quels que soient le motif de la suspension et l’autorité administrative qui l’a prononcée, qu’il s’agisse du directeur général de l’ARS ou de l’instance ordinale compétente. Il précise enfin que cette information s’applique quel que soit le statut du professionnel concerné : qu’il exerce dans un établissement public ou privé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 378,
+          "texte": "(L’amendement no 828, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 379,
+          "texte": "Je suis saisie de deux amendements, nos 599 et 776, pouvant être soumis à une discussion commune.\n La parole est à Mme Elsa Faucillon, pour soutenir l’amendement no 599."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "ordre": 380,
+          "texte": "L’article 51 étend la possibilité d’une suspension aux élèves et aux étudiants des établissements préparant aux professions de santé. Avec cet amendement, nous précisons que les établissements qui les forment doivent être prévenus en cas d’infraction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 381,
+          "texte": "La parole est à Mme Marie-Charlotte Garin, pour soutenir l’amendement no 776."
+        },
+        {
+          "orateur": "Mme Marie-Charlotte Garin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795010",
+          "ordre": 382,
+          "texte": "Je précise que cet amendement, qui a le même objet que celui de ma collègue, a été travaillé avec l’association StopVOG (Stop aux violences obstétricales et gynécologiques)."
+        },
+        {
+          "orateur": "Mme Elsa Faucillon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721896",
+          "ordre": 383,
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 384,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 385,
+          "texte": "Vous avez bien fait de préciser que ces amendements avaient été travaillés avec l’association StopVOG, que je tiens à saluer. J’émettrai un avis favorable sur ces amendements, qui prévoient l’information des établissements lorsque la suspension concerne un étudiant en santé. L’établissement doit garantir la sécurité des patientes et des patients dans les lieux où les étudiants effectuent leur stage. Or, sans cette information, il ne peut y avoir de protection des tiers. Pour les professionnels diplômés, l’Ordre des médecins est informé. Par parallélisme, l’établissement de formation remplit fonctionnellement le rôle de l’Ordre en matière disciplinaire ; il doit donc être informé pour les étudiants en santé."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 386,
+          "texte": "Ces amendements ne sont pas identiques. Avez-vous une préférence entre les deux ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 387,
+          "texte": "Je suis favorable aux deux."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 388,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 389,
+          "texte": "Je suis moi aussi favorable aux deux."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 390,
+          "texte": "(L’amendement no 599 est adopté ; en conséquence, l’amendement n° 776 tombe.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 391,
+          "texte": "La parole est à M. le rapporteur, pour soutenir l’amendement no 662."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 392,
+          "texte": "Il s’agit de supprimer une mention introduite à l’alinéa 11, qui est incohérente avec la rédaction de l’alinéa 1er. À l’alinéa 1er, nous avons été assez maximalistes, puisque nous avons précisé que le directeur de l’ARS prononce une suspension du professionnel mis en examen lorsqu’il y a danger. À l’alinéa 11, la mention est moins-disante, puisqu’elle prévoit que le directeur de l’ARS examine l’opportunité de cette suspension, ce qui laisse entendre qu’il pourrait opportun de ne pas suspendre un professionnel de santé, même dans le cas où il expose ses patients à un danger grave. Cet amendement vise donc à coordonner ces deux alinéas."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 393,
+          "texte": "(L’amendement no 662, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 1,
+          "texte": "Sur l’article 51, je suis saisie par les groupes Ensemble pour la République et La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n L’amendement no 664 de M. le rapporteur est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 2,
+          "texte": "(L’amendement no 664, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 3,
+          "texte": "L’amendement no 853 de Mme Sandrine Rousseau est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 4,
+          "texte": "(L’amendement no 853, accepté par la commission et le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 5,
+          "texte": "L’amendement no 854 de Mme Sandrine Rousseau est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 6,
+          "texte": "(L’amendement no 854, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 7,
+          "texte": "La parole est à M. Bernard Chaumeil, pour soutenir l’amendement no 1009."
+        },
+        {
+          "orateur": "M. Bernard Chaumeil",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840107",
+          "ordre": 8,
+          "texte": "Il vise à assurer l’information immédiate des organismes d’assurance maladie lorsqu’un professionnel de santé fait l’objet d’une suspension d’exercice, afin d’éviter qu’un professionnel conventionné suspendu continue de facturer des actes donnant lieu à remboursement. Le risque n’est pas théorique mais réel, d’où la nécessité de combler cette faille. La solidarité nationale doit rester cohérente : tel est le sens de cet amendement, que je vous invite à soutenir. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 9,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 10,
+          "texte": "Demande de retrait ; à défaut, avis défavorable. Votre amendement est déjà pleinement satisfait, l’article L. 4113-14 du code de la santé publique disposant que « le directeur général de l’agence régionale de santé dont relève le lieu d’exercice du professionnel informe également les organismes d’assurance maladie dont dépend le professionnel concerné par sa décision »."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 11,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 12,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 13,
+          "texte": "(L’amendement no 1009 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 14,
+          "texte": "Je mets aux voix l’article 51, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 15,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 16,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        87\n        Nombre de suffrages exprimés                87\n        Majorité absolue                        44\n                Pour l’adoption                87\n                Contre                0",
+          "scrutinDetecte": {
+            "ordre": 16,
+            "votants": 87,
+            "exprimes": 87,
+            "majoriteAbsolue": 44,
+            "pour": 87,
+            "contre": 0,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 17,
+          "texte": "(L’article 51, amendé, est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8644,
+          "id": "VTANR5L17V8644",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 814 de Mme Leboucher à l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 87,
+          "exprimes": 87,
+          "pour": 87,
+          "contre": 0,
+          "abstention": 0,
+          "ordre": 16
+        }
+      ]
+    },
+    {
+      "idSyceron": "4180440",
+      "valeurPtsOdj": "1",
+      "titre": "Article 52 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 19,
+          "texte": "La parole est à M. Cyril Tribuiani."
+        },
+        {
+          "orateur": "M. Cyril Tribuiani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793334",
+          "ordre": 20,
+          "texte": "Un patient en quête de soins confie sa santé, son intimité, parfois sa vie : lorsqu’un soignant en use pour commettre des violences sexuelles, cette confiance, qui implique en retour une responsabilité immense, est brisée. L’article 52 prévoit une interdiction d’exercer pour le professionnel de santé « dont l’intervention ou les fonctions impliquent un contact avec les usagers du système de santé et qui fait l’objet d’une condamnation définitive pour un crime de violences sexuelles ou sexistes ».\nL’enjeu est concret : empêcher que d’autres patients soient mis en danger. Adopter une mesure d’interdiction ne suffit pas, il nous faudra la faire respecter ; les condamnations doivent être portées à la connaissance des autorités compétentes, les ordres professionnels et agences régionales de santé disposer des informations nécessaires pour agir, les établissements pouvoir vérifier qu’un professionnel est autorisé à exercer. Qu’il ne suffise plus de changer de structure ou de département pour reprendre une activité interdite !\nDe surcroît, cette exigence doit s’appliquer à tous les métiers concernés, qu’ils disposent ou non d’un ordre professionnel. Il faut donc des responsabilités claires, une transmission effective des décisions, des contrôles, chaque défaillance risquant d’exposer de nouveaux patients. La gravité des faits exige en outre un dispositif juridiquement solide, capable de produire les effets attendus. Notre responsabilité consistant à protéger ceux qui viennent se faire soigner, il convient que l’interdiction d’exercer ait une traduction immédiate et concrète, autrement dit que l’activité cesse réellement et ne reprenne pas clandestinement ailleurs. (Applaudissementssur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 23,
+          "texte": "Sur l’article 52, je suis saisie par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Sur l’amendement no 386, tendant à supprimer l’article, je suis saisie par le groupe Socialistes et apparentés d’une demande de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\n La parole est à Mme la ministre, pour soutenir l’amendement no 386."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 24,
+          "texte": "Il s’agit d’une question de cohérence, de coordination avec l’article 5 du projet de loi relatif à la protection des enfants – lequel sera examiné en première lecture par le Sénat à partir du 27 octobre, avant de revenir à l’Assemblée. Nous avons soumis au Conseil d’État la question du contrôle de l’honorabilité, abordée par cet article 5. Je vous propose de supprimer l’article 52, ce qui ne constituerait nullement un recul."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795310",
+          "ordre": 25,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 26,
+          "texte": "La proposition du gouvernement présente une réelle cohérence, puisque nous savons depuis le début de nos travaux que le dispositif prévu par l’article 52 est similaire à celui qui figure à l’article 5 du projet de loi relatif à la protection des enfants. Je ne sais plus trop ce qui nous avait amenés, en commission, à conserver cet article, du moins à ne pas l’ajouter à la liste de ceux qui risquaient de créer des incohérences entre les deux textes.\nAvis favorable : je remercie le gouvernement d’avoir d’ores et déjà acté le fait que les séances au Sénat permettront prochainement d’avancer sur ce point, les deux rédactions, celle de la proposition de loi et celle du projet de loi, comportant des aspects positifs."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 28,
+          "texte": "Je mets aux voix l’amendement no 386."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 29,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 30,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        95\n        Nombre de suffrages exprimés                78\n        Majorité absolue                        40\n                Pour l’adoption                78\n                Contre                0",
+          "scrutinDetecte": {
+            "ordre": 30,
+            "votants": 95,
+            "exprimes": 78,
+            "majoriteAbsolue": 40,
+            "pour": 78,
+            "contre": 0,
+            "abstention": 17
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 31,
+          "texte": "(L’amendement no 386 est adopté ; en conséquence, l’article 52 est supprimé et les amendements nos 666, 467, 553 et 630 tombent.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8645,
+          "id": "VTANR5L17V8645",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 257 de Mme Lingemann et l'amendement identique suivant à l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 95,
+          "exprimes": 78,
+          "pour": 78,
+          "contre": 0,
+          "abstention": 17,
+          "ordre": 30
+        }
+      ]
+    },
+    {
+      "idSyceron": "4180454",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 52 (amendement appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795310",
+          "ordre": 33,
+          "texte": "L’amendement no 822 de Mme Sarah Legrain, portant article additionnel après l’article 52, est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 34,
+          "texte": "(L’amendement no 822, accepté par la commission, repoussé par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 35,
+          "texte": "Madame la présidente, je demande une suspension de séance."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 37,
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 38,
+          "texte": "(La séance, suspendue à seize heures trente-cinq, est reprise à seize heures quarante, sous la présidence de Mme Nadège Abomangoli.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 40,
+          "texte": "La séance est reprise."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4180463",
+      "valeurPtsOdj": "1",
+      "titre": "Article 53 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 42,
+          "texte": "Sur l’article 53, je suis saisie par les groupes Ensemble pour la République et La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n La parole est à Mme Clémentine Autain."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "ordre": 43,
+          "texte": "Cet article prévoit un parcours de soins coordonné pour les victimes mineures. Je voudrais plaider d’emblée contre l’exclusion des majeurs de ce dispositif de prise en charge."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 44,
+          "texte": "Madame Autain, vous parlez de l’article 55…"
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "ordre": 45,
+          "texte": "Visiblement, la fatigue aidant, je me suis en effet trompée d’article. Je préfère donc m’en tenir là, madame la présidente, et reprendre cette intervention tout à l’heure."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 46,
+          "texte": "La parole est à Mme Gabrielle Cathala."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 47,
+          "texte": "L’article 53, qu’il convient d’envisager et de commenter en relation avec l’article 55, prévoit un parcours de soins destiné aux victimes de violences sexuelles, mineures comme majeures ; néanmoins, contrairement à ce qui a pu être raconté en commission, ce parcours n’inclut pas le traitement du psychotraumatisme, c’est-à-dire qu’il comporte uniquement des soins dits hospitaliers.\nCe qui me pose problème, c’est que M. le rapporteur précisait, dans une note qu’il nous a transmise, que le dispositif était inspiré de ce qui se pratique pour les victimes de terrorisme. Or il interdit les dépassements d’honoraires, qui sont pourtant remboursés aux victimes de terrorisme ! Là réside la grande différence.\nLes personnels spécialisés dans le traitement du psychotraumatisme sont des professionnels de santé qui exercent en ville, refusent d’être conventionnés et procèdent à des dépassements d’honoraires. L’article 53 ne prend donc pas en charge le traitement du psychotraumatisme, alors même que la Ciivise préconise jusqu’à trente-trois séances par an.\nIl ne reprend pas non plus la recommandation de la Coalition féministe et enfantiste sur la prise en charge intégrale par la sécurité sociale des soins psychologiques et du traitement du psychotraumatisme.\nL’article 55 prévoit bien la prise en charge du parcours de soins pour le traitement du psychotraumatisme, mais seulement pour les mineurs. S’il était pris en charge pour les majeurs par cette proposition de loi, il serait mentionné à l’article 55."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 4,
+          "texte": "La parole est à Mme Sandrine Josso, pour soutenir l’amendement no 996."
+        },
+        {
+          "orateur": "Mme Sandrine Josso",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720038",
+          "ordre": 5,
+          "texte": "Cet amendement prévoit qu’un médecin coordonnateur assure le suivi médical de la victime, dont le parcours de soins implique souvent plusieurs professionnels de santé. Cela permettra à la victime de se concentrer sur sa reconstruction."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 6,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 7,
+          "texte": "Je comprends l’objectif de votre amendement. Il vise à garantir une coordination des soins par un médecin pour les adultes, par les unités d’accueil pédiatrique des enfants en danger (Uaped) pour les mineurs.\nLa commission spéciale a adopté un amendement qui prévoit que la prise en charge s’effectue dans le cadre d’un parcours de soins coordonnés, sans préciser l’identité de l’autorité qui en est chargée. Cela permet notamment à la patiente ou au patient de choisir de s’adresser à son médecin traitant ou à un médecin d’un centre spécialisé dans le psychotraumatisme. Cela permet aussi aux mineurs de bénéficier du dispositif, même s’ils n’ont pas accès à une Uaped, dans un contexte où l’accès à ces structures est notoirement long et difficile en raison de leur engorgement. Votre amendement introduit donc une restriction qui va dans le mauvais sens. J’émets donc une demande de retrait ; à défaut, avis défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 9,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 10,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 11,
+          "texte": "La parole est à Mme Clémentine Autain."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "ordre": 12,
+          "texte": "Monsieur le rapporteur, vous m’avez dit que je me trompais d’article lors de ma prise de parole précédente, mais les articles 53 et 55 se rejoignent dans une même logique.\nL’article 53 prévoit le remboursement de soins médicaux consécutifs à des violences immédiates : si une femme victime de violences conjugales a reçu des coups et requiert des soins médicaux, ils seront pris en charge. L’article 55, qui concerne les enfants, prévoit la prise en charge de tous les soins liés au psychotraumatisme.\nLes articles 53 et 55 sont liés : il faut, pour les adultes comme pour les enfants, une prise en charge des soins psychologiques et pas uniquement des soins médicaux. J’y reviendrai lors de l’examen de l’article 55.\nIl conviendrait soit d’élargir l’article 53 aux soins psychologiques, soit d’élargir le périmètre de l’article 55 aux adultes. La logique est la même. Or cela a été exclu pour les adultes : il n’a été question que de la prise en charge des soins médicaux, très circonscrits en matière de violences sexistes et sexuelles. On sait pourtant qu’il faut attendre en moyenne quarante-quatre ans avant que les violences subies par les enfants n’arrivent à maturité, que les victimes réalisent ce qu’elles ont vécu et commencent un parcours de soins."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 16,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 17,
+          "texte": "L’article 53 fait référence aux « actes médicaux » et aux « soins consécutifs » aux violences subies. Ces soins médicaux comprennent déjà la prise en charge psychologique et psychiatrique du psychotraumatisme.\nJe comprends que l’idée est de créer des parcours coordonnés renforcés, à l’instar de ce qui a été créé et financé pour les enfants confiés à l’aide sociale à l’enfance (ASE).\nJe voudrais préciser que le cahier des charges des maisons des femmes prévoit l’obligation de prendre en charge les femmes quel que soit le moment de leur déclaration ou de leur démarche. Dans ce cahier des charges figure également la coordination avec l’ensemble des professionnels de santé du territoire pour assurer le suivi des femmes dans le cadre d’un véritable parcours de prise en charge. Cet amendement est donc satisfait, et j’espère avoir répondu à votre demande."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 20,
+          "texte": "La parole est à Mme la rapporteure générale."
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 21,
+          "texte": "Je constate une incompréhension assez forte sur les dispositifs prévus par les articles 53 et 55 – qui sont par ailleurs assez similaires, tout en comportant des différences. Pour bien comprendre, et si vous le voulez bien, je vais revenir sur ce qu’est le parcours de santé dans notre système de santé et de protection sociale.\nDans notre système de protection sociale, nous sommes des assurés sociaux. À ce titre, l’assurance maladie nous demande de choisir un médecin traitant, qui permet d’accéder au parcours de soins coordonnés mentionné aux articles 53 et 55. Le parcours de soins coordonnés assure la prise en charge de divers actes, consultations et soins définis par la sécurité sociale.\nLes articles 53 et 55 prévoient la prise en charge de tous ces actes et consultations. Si une victime consulte un psychiatre qui utilise des méthodes de prise en charge du psychotraumatisme, son remboursement sera intégral. Si elle consulte un psychologue, qui n’est pas un médecin, elle ne sera pas remboursée ; il en va de même si elle consulte un acupuncteur. En revanche, si elle consulte un médecin qui est aussi acupuncteur, elle sera bien prise en charge : pour notre système de protection sociale, ce n’est pas l’acupuncteur qu’elle consulte, mais le médecin.\nVous nous demandez si seuls les soins seront pris en charge ou si l’on oublie les consultations, mais ce n’est pas la question. La question est de savoir si les victimes auront la possibilité d’être prises en charge par des professionnels de santé identifiés par la sécurité sociale comme étant des médecins. Évidemment, si les victimes en remplissent les conditions, elles pourront bénéficier du parcours Mon Soutien psy, avec les douze consultations prévues aujourd’hui. En dehors de cela, ce sont les dispositions prévues aux articles 53 et 55 qui s’appliquent.\nLe rapporteur Guillaume Gouffier Valente et moi-même l’avons rappelé en commission, il s’agit d’un régime très favorable. Nos collègues l’ont relevé, les dépassements d’honoraires sont interdits. Un professionnel de santé qui reçoit une victime, même s’il est conventionné en secteur 2, ne peut pas pratiquer de dépassement d’honoraires. Cela ne veut pas dire que la victime ne sera pas remboursée : simplement, le professionnel de santé ne peut pas appliquer de dépassements d’honoraires.\nLa prise en charge est donc maximale. Je l’ai déjà expliqué à de nombreuses reprises à plusieurs collègues, et je serais curieuse de savoir pour quelles raisons vous considérez que ce n’est pas le cas."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 27,
+          "texte": "Gabrielle va vous le dire !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 335,
+          "texte": "(L’amendement no 996 est retiré.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 336,
+          "texte": "L’amendement no 669 de M. le rapporteur est rédactionnel.\nQuel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 338,
+          "texte": "Favorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 339,
+          "texte": "La parole est à Mme Gabrielle Cathala."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 340,
+          "texte": "Je remercie Mme Thiébault-Martinez pour ses éclaircissements, mais j’ai très bien compris ces articles. J’ai d’ailleurs assisté à l’ensemble des auditions les concernant.\nL’article 53 concerne les soins médicaux, ce qui inclut la psychiatrie, mais exclut la psychologie et la psychothérapie, car il ne s’agit pas de soins hospitaliers – ils ne relèvent pas des mêmes articles du code de la sécurité sociale. Or consulter un spécialiste du psychotraumatisme coûte 95 euros les quarante-cinq minutes. Ce sont des professionnels qui pratiquent des dépassements d’honoraires. C’est en cela qu’il y a une différence avec les victimes de terrorisme, comme vous le mentionnez d’ailleurs dans votre note. Pour les victimes de terrorisme, les dépassements d’honoraires sont remboursés par la sécurité sociale, alors que ce n’est pas le cas ici : toute personne confrontée à un tarif de consultation supérieur à 50 euros n’est pas remboursée. Le psychotraumatisme est de fait exclu, puisque les consultations sont systématiquement plus chères.\nL’article 55 comble cette lacune en prenant en charge le parcours de soins spécialisé pour les mineurs, conformément à la recommandation de la Ciivise. Les adultes auraient dû y être ajoutés.\nL’article 53 ne vise à prendre en charge qu’une partie des soins, mais pas le parcours de soins spécialisé en psychotraumatisme. C’est pourtant la principale demande des victimes selon les travaux de la Ciivise.\nL’amendement de M. Gouffier Valente adopté en commission n’y a rien changé : c’est un amendement rédactionnel. S’il avait créé de nouveaux droits, il aurait d’ailleurs été déclaré irrecevable – preuve qu’il s’agissait uniquement d’un ajustement. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 345,
+          "texte": "La parole est à Mme la ministre."
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 346,
+          "texte": "Je précise que les centres régionaux du psychotraumatisme assurent une prise en charge."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "ordre": 347,
+          "texte": "Ils sont saturés !"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 348,
+          "texte": "Depuis cet été, ils conventionnent avec chacune des maisons des femmes, ce qui permet une prise en charge complète des femmes victimes de violences. Je voulais le signaler, car je ne sais pas si tout le monde a vu passer l’information."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 349,
+          "texte": "La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 350,
+          "texte": "Madame Cathala, je connais votre exigence dans le suivi des textes sur lesquels vous travaillez, mais j’ai tout de même le sentiment que vous voulez absolument avoir raison sur ce point."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 351,
+          "texte": "J’ai raison !"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 352,
+          "texte": "Vous me direz quels soins ne sont pas couverts, mais je sens une certaine envie d’invisibiliser les avancées majeures que permettent les articles 53, 54 et 55.\nPar ces articles, il s’agit de prendre en charge l’ensemble des soins, et pas uniquement les soins hospitaliers comme vous l’avez dit : il est bien question de l’ensemble des soins, y compris le parcours coordonné pour le psychotraumatisme, spécifique aux adultes, que nous avons réussi à rétablir en commission. J’avais qualifié cela d’astuce, et je remercie les équipes qui m’accompagnent de l’avoir trouvée afin de contourner la difficulté que nous avions à l’article 55. Nous y sommes parvenus : cela crée un parcours de soins du psychotraumatisme, aussi bien pour des soins immédiats que pour des soins s’inscrivant dans la durée, quel que soit le moment où la victime se déclare. Cet article est très important. Il prévoit la prise en charge de l’ensemble des soins pour toutes les personnes, mineures ou majeures, sans avance de frais et avec interdiction des dépassements d’honoraires, donc sous le même régime que celui des victimes d’actes terroristes. Il est de notre devoir de défendre cette disposition.\nCertains points peuvent certainement être améliorés. Ils figurent d’ailleurs dans la note que j’ai transmise à l’ensemble de nos collègues, conformément à l’engagement que Céline Thiébault-Martinez et moi-même avions pris en commission. Je ne vais pas vous la lire ici, elle fait sept pages et vous l’avez toutes et tous reçue, mais elle est très claire sur l’ensemble du dispositif. Nous devrons continuer à travailler sur certains points que je ne pouvais pas amender moi-même en raison des irrecevabilités au titre de l’article 40 de la Constitution. Par exemple, certains régimes – comme la Mutualité sociale agricole (MSA), de mémoire – ne sont pas couverts. Nous pourrons avancer sur ce point dans le cadre de la navette parlementaire.\nPour autant, il est important de ne pas minimiser, banaliser ou invisibiliser ce que nous sommes en train de construire avec ces trois articles. Je suis désolé de vous le dire, mais je pense que vous avez tort lorsque vous dites qu’il n’y aura pas de parcours de soins du psychotraumatisme pour les adultes après ce que nous avons adopté en commission."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 49,
+          "texte": "La parole est à Mme la rapporteure générale."
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 50,
+          "texte": "Je suis un peu inquiète. Si votre objectif est de rejeter les articles 53 et 55, il faudra s’en expliquer auprès des victimes. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "ordre": 51,
+          "texte": "Ce n’est pas le sujet !"
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 52,
+          "texte": "Si votre objectif est de marquer le point sur ce sujet pour tenter de vous rattraper lors de votre niche parlementaire, dans laquelle vous avez inscrit une proposition de loi visant à prendre en charge le psychotraumatisme, mais de manière nettement plus réduite, je vous mets en garde."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "ordre": 360,
+          "texte": "Vous êtes sérieuse ? C’est honteux, madame la rapporteure générale !"
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 361,
+          "texte": "Ne faites pas la politicienne !"
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 55,
+          "texte": "Cette proposition de loi, qui pourrait être complémentaire avec ce texte, démontre que vous avez parfaitement compris l’enjeu de ces deux articles.\nJe vous mets en garde : alors que le texte prévoit deux modalités de prise en charge substantielles, vous êtes en train de donner à croire que cela ne permettra pas de répondre aux besoins des victimes. Je suis désolée : le texte prévoit une excellente prise en charge, et quoi que vous en disiez, ces dispositions sont proches de celles en vigueur pour les victimes de terrorisme. (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe LIOT. – Mme Émilie Bonnivard applaudit également.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 2,
+          "texte": "(L’amendement no 669 est adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 3,
+          "texte": "Monsieur Ménagé, vous souhaitez faire un rappel au règlement ?"
+        },
+        {
+          "orateur": "M. Thomas Ménagé",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794322",
+          "ordre": 4,
+          "texte": "Je demande une suspension de séance de cinq minutes. (Protestations sur les bancs du groupe LFI-NFP.) C’est la première fois que le groupe RN en sollicite une ! Que ce soit au cours de la niche parlementaire du groupe RN ou pendant l’examen de ce texte, vous n’avez cessé de demander des suspensions de séance !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 5,
+          "texte": "Je suspends la séance pour cinq minutes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 7,
+          "texte": "La séance est suspendue."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 8,
+          "texte": "(La séance, suspendue à dix-sept heures, est reprise à dix-sept heures cinq.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 9,
+          "texte": "La séance est reprise.\nLa parole est à Mme Gabrielle Cathala, pour soutenir l’amendement no 508."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 11,
+          "texte": "Pas moins de 79 % des victimes de violences sexuelles dans l’enfance sont suivies par des psychologues en libéral. Les séances ne sont pas remboursées par la sécurité sociale. Voilà pourquoi je dis que, contrairement à ce que vous affirmez, les articles 53 et 55 ne permettront pas le remboursement de ces soins spécialisés dans le psychotrauma.\nMonsieur le rapporteur, vous prétendez reprendre le dispositif qui existe pour les victimes de terrorisme. Dans la note que vous avez adressée à tous les députés, il est pourtant écrit noir sur blanc que le dispositif est distinct de celui des victimes d’actes terroristes sur ce dernier point, les dépassements d’honoraires étant remboursés aux victimes d’actes de terrorisme, et non pas interdits. C’est bien la preuve que l’article 53 ne prévoit pas le remboursement des dépassements d’honoraires, alors que la quasi-totalité des victimes s’orientent vers le secteur libéral pour se soigner et espérer être réparées.\nPuisque vous estimez que je mens ou que j’ai mal compris ce texte, que vous m’accusez de déformer – je pense, à la différence de vous, l’avoir très bien compris –, j’aimerais que vous affirmiez au micro qu’avec votre texte, les victimes de violences sexuelles adultes, qu’elles aient subi ces violences à l’âge adulte ou pendant l’enfance, verront leurs soins remboursés par la sécurité sociale, même si une séance coûte 95 euros les quarante-cinq minutes.\nMadame la rapporteure générale, vous qui prétendez que la portée du texte que j’ai déposé dans le cadre de la niche LFI est plus restreinte, je vous invite à le relire. Mon texte, lui, a été travaillé par la Ciivise et par toutes les personnes auditionnées au sujet du vôtre, qui constitue certes une avancée – je n’ai jamais dit que nous allions voter contre –, mais qui reste insuffisant. Venez aux auditions qui se tiendront lundi au sujet de mon texte ! Vous verrez qu’il prévoit, lui, une prise en charge du traitement du psychotrauma pour tous les adultes. (« Pas de leçons ! » sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 15,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Guillaume Gouffier Valente",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA721296",
+          "ordre": 16,
+          "texte": "Défavorable. À titre personnel, je prendrai peut-être certaines libertés."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 17,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "Mme Stéphanie Rist",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA720066",
+          "ordre": 18,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 19,
+          "texte": "La parole est à Mme Clémentine Autain."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "ordre": 20,
+          "texte": "Je suis désolée, mais vos explications ne sont pas d’une clarté limpide. Dans de nombreux territoires, il est très compliqué de trouver un praticien qui accepte de ne pas pratiquer de dépassement d’honoraires, et en cas de dépassement, il faut avoir les moyens de payer la somme. Pourriez-vous énoncer clairement quels soins seront pris en charge ?\nIl ne s’agit pas de dire que nous sommes contre ces dispositions, qui représentent une avancée – personne n’a dit que nous ne voterions pas les articles 53 et 55 –, mais nous aimerions obtenir des réponses claires pour bien saisir ce qui sera remboursé et ce qui ne le sera pas. Notre intuition, c’est qu’en réalité, dans la vraie vie, avec ce qui est prévu dans ce texte, la majorité des victimes ne pourront pas accéder à un véritable remboursement des soins psychotraumatiques. C’est cela le sujet. Nous devons être clairs sur ce que nous racontons aux victimes."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 22,
+          "texte": "La parole est à Mme Alix Fruchon."
+        },
+        {
+          "orateur": "Mme Alix Fruchon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841151",
+          "ordre": 23,
+          "texte": "Monsieur le rapporteur, les assurés qui relèvent du régime de la MSA seront-ils inclus dans ce dispositif ? Si tel n’est pas le cas, pouvez-vous vous engager à travailler sur cette question au cours de la navette parlementaire ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 24,
+          "texte": "La parole est à Mme la rapporteure générale."
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 25,
+          "texte": "Je ne peux pas m’engager pour la MSA ni pour la ministre de la santé – étant donné qu’il n’y a pas eu de concertation, c’est compliqué de décider pour la MSA. Toutefois, nous pourrons nous rapprocher d’elle lorsqu’elle aura eu connaissance des dispositions adoptées, pour voir si elle souhaite étendre le dispositif aux assurés sociaux qui relèvent de ce régime.\nMadame Autain, prenons un exemple concret : si demain une victime décide de consulter un psychiatre, qui est un médecin, la sécurité sociale remboursera la partie qui est conventionnée. Si elle adhère à une mutuelle, la complémentaire pourra rembourser le reste à charge. Avec l’article 53, il n’y aura pas de reste à charge : même si la personne n’a pas de mutuelle, les soins seront pris en charge. S’il s’agit d’un psychiatre qui pratique des dépassements d’honoraires, il ne pourra pas appliquer de dépassement, parce qu’il saura, sans doute par le biais de sa carte Vitale, qu’elle bénéficie du dispositif prévu à l’article 53."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "ordre": 27,
+          "texte": "Mais il ne les prendra pas ! C’est ce que je vous ai dit !"
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 28,
+          "texte": "Ainsi, les dépassements d’honoraires sont interdits."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 29,
+          "texte": "Et les psychologues ?"
+        },
+        {
+          "orateur": "Mme Céline Thiébault-Martinez",
+          "fonction": "rapporteure générale",
+          "role": null,
+          "idActeur": "PA841893",
+          "ordre": 30,
+          "texte": "C’est un autre sujet. (Exclamations sur les bancs du groupe LFI-NFP.) Je ne peux pas répondre à cette question. Quand une personne se rend chez un médecin, a priori, il prend sa carte Vitale. Si, par la suite, il se rend compte qu’elle ne peut pas payer de dépassement d’honoraires et décide de ne pas la prendre en charge, je ne sais pas ce que fait la sécurité sociale. Ce n’est pas à moi de faire la police auprès des médecins qui refusent de prendre les patients pour lesquels ils n’ont pas le droit de pratiquer des dépassements d’honoraires. Concernant les psychologues, qui ne sont pas médecins, en effet, les soins ne sont pas pris en charge, sauf dans le cadre du dispositif Mon Soutien psy."
+        },
+        {
+          "orateur": "Mme Élise Leboucher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795108",
+          "ordre": 31,
+          "texte": "C’est pour des troubles légers à modérés !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 32,
+          "texte": "(L’amendement no 508 n’est pas adopté.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 33,
+          "texte": "Je mets aux voix l’article 53, tel qu’il a été amendé."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 34,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA795228",
+          "ordre": 35,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        90\n        Nombre de suffrages exprimés                90\n        Majorité absolue                        46\n                Pour l’adoption                90\n                Contre                0",
+          "scrutinDetecte": {
+            "ordre": 35,
+            "votants": 90,
+            "exprimes": 90,
+            "majoriteAbsolue": 46,
+            "pour": 90,
+            "contre": 0,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 36,
+          "texte": "(L’article 53, amendé, est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8646,
+          "id": "VTANR5L17V8646",
+          "sort": "adopté",
+          "titreVote": "l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 90,
+          "exprimes": 90,
+          "pour": 90,
+          "contre": 0,
+          "abstention": 0,
+          "ordre": 35
+        }
+      ]
+    },
+    {
+      "idSyceron": "4180906",
+      "valeurPtsOdj": "1",
+      "titre": "Article 54 (appelé par priorité)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 38,
+          "texte": "La parole est à Mme Gabrielle Cathala."
+        },
+        {
+          "orateur": "Mme Gabrielle Cathala",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842187",
+          "ordre": 39,
+          "texte": "Je suis ravie que nous ayons enfin obtenu une réponse au sujet des psychologues : l’article 53 ne prévoit pas de remboursement, ce qui exclura les 80 % de victimes bénéficiant d’une prise en charge libérale. C’est bien ce que je disais depuis le début. Merci d’avoir enfin répondu ! (Mme Élise Leboucher applaudit.) Quant aux psychiatres, ils pourront refuser de prendre en charge certaines victimes lorsqu’ils voudront continuer à pratiquer des dépassements d’honoraires – à la différence des victimes du terrorisme, pour lesquelles les dépassements d’honoraires sont remboursés par la sécurité sociale. Il existe donc une différence entre le dispositif en vigueur pour les victimes de terrorisme et celui que vous prévoyez pour les victimes de violences sexuelles.\nL’article 54 prévoit la création de maisons des femmes à l’échelle du territoire national, sans toutefois respecter les stipulations de la Convention d’Istanbul, qui prévoit l’installation de telles maisons en fonction de seuils de population – une pour 100 000 habitants. L’alinéa 12 précise que « Les modalités […] de financement et de fonctionnement des centres de prise en charge pluridisciplinaire des victimes de violences sexuelles sont déterminées par décret […] », ce qui me semble un peu flou. Madame la ministre, quels moyens allouerez-vous à la création de ces maisons, qui reposent sur les associations et sur les dons ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 41,
+          "texte": "La parole est à Mme Clémentine Autain."
+        },
+        {
+          "orateur": "Mme Clémentine Autain",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA588884",
+          "ordre": 42,
+          "texte": "Je plussoie évidemment à l’intervention de notre collègue Gabrielle Cathala au sujet des moyens qui seront alloués à la création de ces maisons des femmes. C’est tout le problème de cette proposition de loi dans sa globalité.\nJe voulais vous faire part du combat mené par mon collègue Sébastien Peytavie, que je partage. Depuis le début de l’examen de ce texte, il s’est mobilisé avec des associations handiféministes pour que la voix des femmes handicapées ne soit pas exclue, comme elle l’est encore beaucoup trop dans notre société. Nous avons fait un pas ensemble en commission pour acter que la responsabilité de l’accès universel à la justice ne relève pas de la responsabilité des victimes, mais bien de la société. Après la suppression du seul article traitant spécifiquement des femmes handicapées, nous avions dès lors la grande responsabilité de faire une nouvelle proposition pour que le texte qui sortira de cette assemblée donne les mêmes possibilités aux femmes handicapées pour demander justice."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 0,
+          "texte": "------------------Cette partie de la séance est en cours de finalisation---------------------------------------------"
+        }
+      ],
+      "scrutins": []
+    }
+  ]
+}
