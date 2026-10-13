@@ -1,5 +1,2141 @@
 [
   {
+    "id": "VTANR5L17V8696",
+    "numero": 8696,
+    "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30939",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 28,
+      "contre": 5,
+      "abstention": 3,
+      "total": 36
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8695",
+    "numero": 8695,
+    "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30939",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Droite Républicaine\"",
+    "syntheseVote": {
+      "pour": 44,
+      "contre": 0,
+      "abstention": 7,
+      "total": 51
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "SOC",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "Dem",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8694",
+    "numero": 8694,
+    "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 53,
+      "contre": 0,
+      "abstention": 1,
+      "total": 54
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8693",
+    "numero": 8693,
+    "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 87,
+      "contre": 0,
+      "abstention": 16,
+      "total": 103
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 12
+      },
+      {
+        "sigle": "SOC",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8692",
+    "numero": 8692,
+    "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 29,
+      "contre": 66,
+      "abstention": 1,
+      "total": 96
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8691",
+    "numero": 8691,
+    "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 32,
+      "contre": 62,
+      "abstention": 1,
+      "total": 95
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8690",
+    "numero": 8690,
+    "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 31,
+      "contre": 27,
+      "abstention": 28,
+      "total": 86
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 24
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8689",
+    "numero": 8689,
+    "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 32,
+      "contre": 28,
+      "abstention": 34,
+      "total": 94
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 28
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 2,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8688",
+    "numero": 8688,
+    "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 50,
+      "contre": 43,
+      "abstention": 2,
+      "total": 95
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 30,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 7,
+        "contre": 8,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 4,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8687",
+    "numero": 8687,
+    "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 36,
+      "contre": 58,
+      "abstention": 3,
+      "total": 97
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 30,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 2
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8686",
+    "numero": 8686,
+    "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 90,
+      "contre": 0,
+      "abstention": 4,
+      "total": 94
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8685",
+    "numero": 8685,
+    "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 35,
+      "contre": 29,
+      "abstention": 31,
+      "total": 95
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 25
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8684",
+    "numero": 8684,
+    "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Écologiste et Social\"",
+    "syntheseVote": {
+      "pour": 45,
+      "contre": 51,
+      "abstention": 2,
+      "total": 98
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8683",
+    "numero": 8683,
+    "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Écologiste et Social\"",
+    "syntheseVote": {
+      "pour": 47,
+      "contre": 50,
+      "abstention": 4,
+      "total": 101
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 2,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8682",
+    "numero": 8682,
+    "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 47,
+      "contre": 47,
+      "abstention": 6,
+      "total": 100
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 2,
+        "contre": 22,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 1,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8681",
+    "numero": 8681,
+    "titre": "l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "adopté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 24,
+      "contre": 8,
+      "abstention": 37,
+      "total": 69
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 13
+      },
+      {
+        "sigle": "EPR",
+        "pour": 8,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 16
+      },
+      {
+        "sigle": "SOC",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 5
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8680",
+    "numero": 8680,
+    "titre": "l'amendement n° 22 de M. Taupiac à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 20,
+      "contre": 33,
+      "abstention": 33,
+      "total": 86
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 18
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 14
+      },
+      {
+        "sigle": "SOC",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 2,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8679",
+    "numero": 8679,
+    "titre": "l'amendement n° 36 de M. Monnet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 22,
+      "contre": 37,
+      "abstention": 24,
+      "total": 83
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 17
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 3
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 2
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8678",
+    "numero": 8678,
+    "titre": "l'amendement n° 10 (rect.) de Mme Dubré-Chirat et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 24,
+      "contre": 65,
+      "abstention": 3,
+      "total": 92
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 17,
+        "abstention": 1
+      },
+      {
+        "sigle": "EPR",
+        "pour": 12,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 3,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8677",
+    "numero": 8677,
+    "titre": "l'amendement n° 74 de M. Gernigon à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Horizons & Indépendants\"",
+    "syntheseVote": {
+      "pour": 5,
+      "contre": 77,
+      "abstention": 7,
+      "total": 89
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 1
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8676",
+    "numero": 8676,
+    "titre": "l'amendement n° 42 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Écologiste et Social\"",
+    "syntheseVote": {
+      "pour": 27,
+      "contre": 56,
+      "abstention": 6,
+      "total": 89
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 1
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 5,
+        "contre": 2,
+        "abstention": 3
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8675",
+    "numero": 8675,
+    "titre": "l'amendement n° 75 de M. Weber à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 24,
+      "contre": 46,
+      "abstention": 6,
+      "total": 76
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8674",
+    "numero": 8674,
+    "titre": "l'amendement n° 32 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 34,
+      "contre": 43,
+      "abstention": 6,
+      "total": 83
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8673",
+    "numero": 8673,
+    "titre": "l'amendement n° 53 de M. Castermann à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "date": "2026-10-12",
+    "seanceRef": "RUANR5L17S2027IDS30938",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 19,
+      "contre": 42,
+      "abstention": 6,
+      "total": 67
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
     "id": "VTANR5L17V8672",
     "numero": 8672,
     "titre": "l'article 3 de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).",
