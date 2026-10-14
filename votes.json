@@ -1,5 +1,984 @@
 [
   {
+    "id": "VTANR5L17V8707",
+    "numero": 8707,
+    "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30941",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"\rPrésident du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 149,
+      "contre": 236,
+      "abstention": 1,
+      "total": 386
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 62,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 64,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 51,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 64,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 33,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 29,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 27,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8706",
+    "numero": 8706,
+    "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Conférence des Présidents",
+    "syntheseVote": {
+      "pour": 503,
+      "contre": 0,
+      "abstention": 68,
+      "total": 571
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 121,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 89,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 66
+      },
+      {
+        "sigle": "SOC",
+        "pour": 68,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 45,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 38,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 37,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 34,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8705",
+    "numero": 8705,
+    "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Conférence des Présidents",
+    "syntheseVote": {
+      "pour": 503,
+      "contre": 0,
+      "abstention": 67,
+      "total": 570
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 121,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 90,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 66
+      },
+      {
+        "sigle": "SOC",
+        "pour": 68,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 45,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 38,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 36,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 34,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8704",
+    "numero": 8704,
+    "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"\rPrésident du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 213,
+      "contre": 111,
+      "abstention": 51,
+      "total": 375
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 1,
+        "contre": 85,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 39,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 46,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 59,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 25
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 31,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 13,
+        "contre": 5,
+        "abstention": 5
+      },
+      {
+        "sigle": "HOR",
+        "pour": 3,
+        "contre": 9,
+        "abstention": 10
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 3
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8703",
+    "numero": 8703,
+    "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 98,
+      "contre": 257,
+      "abstention": 19,
+      "total": 374
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 86,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 42,
+        "abstention": 3
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 46,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 59,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 6
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 31,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 19,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 1
+      },
+      {
+        "sigle": "UDR",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 4
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8702",
+    "numero": 8702,
+    "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 167,
+      "contre": 177,
+      "abstention": 9,
+      "total": 353
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 1,
+        "contre": 82,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 7,
+        "contre": 31,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 44,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 56,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 2,
+        "contre": 22,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 30,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 14,
+        "contre": 6,
+        "abstention": 2
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 3,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8701",
+    "numero": 8701,
+    "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 236,
+      "contre": 3,
+      "abstention": 84,
+      "total": 323
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 73
+      },
+      {
+        "sigle": "EPR",
+        "pour": 38,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 40,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 53,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 29,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 9
+      },
+      {
+        "sigle": "GDR",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8700",
+    "numero": 8700,
+    "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 304,
+      "contre": 24,
+      "abstention": 9,
+      "total": 337
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 76,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 19,
+        "contre": 21,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 39,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 55,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 19,
+        "contre": 2,
+        "abstention": 2
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 29,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 16,
+        "contre": 1,
+        "abstention": 4
+      },
+      {
+        "sigle": "HOR",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8699",
+    "numero": 8699,
+    "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 324,
+      "contre": 1,
+      "abstention": 5,
+      "total": 330
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 74,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 43,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 39,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 52,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 29,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 17,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8698",
+    "numero": 8698,
+    "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 287,
+      "contre": 0,
+      "abstention": 4,
+      "total": 291
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 64,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 37,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 32,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 47,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "Dem",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8697",
+    "numero": 8697,
+    "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "date": "2026-10-13",
+    "seanceRef": "RUANR5L17S2027IDS30940",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 146,
+      "contre": 101,
+      "abstention": 4,
+      "total": 251
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 53,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 15,
+        "contre": 10,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 33,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 45,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 25,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 2,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
     "id": "VTANR5L17V8696",
     "numero": 8696,
     "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
@@ -1070,7 +2049,7 @@
   {
     "id": "VTANR5L17V8684",
     "numero": 8684,
-    "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
     "date": "2026-10-12",
     "seanceRef": "RUANR5L17S2027IDS30938",
     "sort": "rejeté",
@@ -1159,7 +2138,7 @@
   {
     "id": "VTANR5L17V8683",
     "numero": 8683,
-    "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+    "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
     "date": "2026-10-12",
     "seanceRef": "RUANR5L17S2027IDS30938",
     "sort": "rejeté",

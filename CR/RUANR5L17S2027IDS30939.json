@@ -1,0 +1,865 @@
+{
+  "uid": "CRSANR5L17S2027O1N019",
+  "seanceRef": "RUANR5L17S2027IDS30939",
+  "sessionRef": "SCR5A2027O1",
+  "date": "2026-10-12",
+  "dateLisible": "lundi 12 octobre 2026",
+  "session": "Session ordinaire 2026-2027",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4182637",
+      "valeurPtsOdj": "1",
+      "titre": "Discussion d’une proposition de loi adoptée par le Sénat (procédure de législation en commission)",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 7,
+          "texte": "L’ordre du jour appelle la discussion de la proposition de loi relative à l’expérimentation d’une gouvernance territoriale unifiée pour le centre de ressources, d’expertise et de performance sportive (CREPS) de Vichy (nos 2922, 3272).\n La conférence des présidents a décidé que ce texte serait examiné dans son intégralité selon la procédure de législation en commission. En application de l’article 107-3 du règlement, nous entendrons d’abord les interventions du gouvernement, du rapporteur et de Mme Béatrice Piron, suppléant le président de la commission des affaires culturelles et de l’éducation, puis les éventuelles explications de vote des groupes. Nous passerons ensuite directement au vote sur l’ensemble de la proposition de loi."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4182639",
+      "valeurPtsOdj": "1",
+      "titre": "Présentation",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 9,
+          "texte": "La parole est à Mme la ministre des sports, de la jeunesse et de la vie associative."
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": "ministre des sports, de la jeunesse et de la vie associative",
+          "role": null,
+          "idActeur": "PA795120",
+          "ordre": 10,
+          "texte": "Je suis heureuse d’être parmi vous ce soir pour l’examen de la proposition de loi portant sur l’avenir du centre de ressources, d’expertise et de performance sportive de Vichy car, à mes yeux, ce texte illustre parfaitement la façon dont nous devrions plus souvent légiférer, en partant des réalités de terrain pour faire évoluer les règles.\nL’implantation d’un Creps à Vichy en 1972 n’a en rien été due au hasard. Elle a été le fruit d’une politique volontariste, notamment de la ville de Vichy, qui a toujours vu le sport comme un secteur important et, surtout, comme un formidable levier de développement économique, touristique et territorial. Cette dynamique a été impulsée dès les années 1960, avant de quelque peu ralentir au début des années 2000, du fait notamment du vieillissement des installations du Creps. Dans ce contexte plus difficile, l’établissement a fait l’objet de menaces de fermeture entre 2008 et 2010 – si j’ose dire, il revient de loin.\nC’est pourquoi, en 2015, les élus de l’agglomération, Vichy Communauté, ont décidé de mener une étude patrimoniale sur l’intérêt de positionner un pôle d’économie sportive au sein du territoire. Le rapport rendu en juillet 2016 réaffirmait l’importance du champ sportif dans l’économie de Vichy tout en positionnant le Creps comme un acteur central pour construire une politique de référence nationale, notamment en matière de sport santé et de haute performance.\nConfirmant cet axe de travail, l’État et la région Auvergne-Rhône-Alpes ont investi 40 millions d’euros entre 2020 et 2024 pour moderniser les installations du centre, lui permettant de devenir un des établissements publics les plus attractifs pour des équipes et des délégations internationales en stage de préparation. En parallèle, Vichy Communauté réalisait d’importants travaux de rénovation de son parc omnisports, qui jouxte les installations du Creps, créant ainsi un site de 500 hectares, incluant le centre, dédié à la pratique sportive.\nC’est de cette unité de lieu qu’est née la proposition de loi visant à expérimenter une gouvernance territoriale unifiée pour le Creps de Vichy. Cette configuration géographique, combinée à la volonté d’investir dans le sport, a conduit les différents acteurs à nouer des relations partenariales régulières et d’ores et déjà solides. Mutualisations d’équipements et investissement communs ont vu le jour, nécessitant à chaque fois des conventionnements spécifiques qui – il ne faut pas le cacher – ont créé une certaine lourdeur administrative pour toutes les parties prenantes."
+        },
+        {
+          "orateur": "M. Romain Daubié",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793122",
+          "ordre": 15,
+          "texte": "La ministre a raison de le souligner !"
+        },
+        {
+          "orateur": "Mme Marina Ferrari",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795120",
+          "ordre": 16,
+          "texte": "Cette situation, combinée à la multiplicité des acteurs présents sur le territoire, a suscité une réflexion plus globale sur l’opportunité d’une gouvernance partagée. C’est dans ce contexte qu’une première étude, conduite en 2022 par Patrick Bayeux et Éric de Fenoyl, a conclu au bien-fondé de l’adoption d’une gouvernance unifiée pour le Creps de Vichy.\nEn décembre de la même année, le ministère des sports a demandé à son inspection générale d’évaluer les enjeux d’une telle évolution et les avantages qui pourraient en résulter. Le rapport final, remis en juillet 2023, a conclu à l’intérêt de la gouvernance unifiée et a préconisé la mise en place d’une mission de préfiguration. Confiée au directeur du Creps en août 2024, elle a conclu que l’expérimentation législative serait le schéma le plus adapté pour traiter efficacement les enjeux économiques ainsi que ceux liés au statut des personnels et à la gouvernance. C’est la raison de notre présence ce soir.\nAinsi que vous pouvez désormais le mesurer, cette proposition de loi est le fruit d’un dialogue constant entre l’agglomération de Vichy, la région et l’État, qui poursuivent tous trois, avec une réussite indéniable, l’objectif de mettre le sport au cœur de l’attractivité du territoire vichyssois. J’ai pu me rendre compte de cette réussite lors de mon déplacement à Vichy. Avec M. le rapporteur, les élus locaux, les parlementaires du territoire et le directeur du Creps, j’ai pu constater les résultats des investissements consentis, la cohérence apportée par l’unité de lieu et la richesse des services proposés, que ce soit par la maison sport-santé ou le Pôle ressources national sport-santé.\nNos échanges n’ont fait que confirmer la volonté de tous les acteurs de renforcer leur coopération. C’est l’objectif de la proposition de loi, dont je remercie l’auteur, le sénateur et président de groupe Claude Malhuret.\nCe texte permet de déroger, pour une durée limitée, aux dispositions législatives en vigueur. Ainsi, sans remettre en cause le statut d’établissement public du Creps – c’est un point important –, une expérimentation permettra d’adapter les règles relatives à sa gouvernance, à ses compétences, à l’organisation de ses ressources humaines et financières ainsi qu’à son régime patrimonial, afin de rendre possible l’association étroite de Vichy Communauté à son fonctionnement.\nLes sénateurs ont voté la réduction de la durée de cette expérimentation, initialement fixée à dix ans, et en ont fixé la fin au mois de juin 2033, après l’échéance olympique de Brisbane, permettant ainsi d’en dresser le bilan à l’issue de l’olympiade 2028-2032. Il conviendra alors de décider quelle suite nous voudrons donner à cette expérimentation et, le cas échéant, d’envisager sa pérennisation, voire son extension – j’y reviendrai.\nAu cours de l’examen du texte au Sénat, le principe de la compensation financière par l’agglomération d’un éventuel déséquilibre aujourd’hui constaté sur ses propres équipements a été introduit à l’article 3. Cette disposition de bon sens, qui protège chacun des partenaires, a également été votée en commission à l’Assemblée.\nJ’ai entendu des réserves sur la conception d’un texte d’exception pour un seul territoire. À ce jour, le Creps de Vichy est le seul qui se prête à une telle expérimentation, du fait de l’unité de lieu avec les installations de Vichy Communauté et des liens anciens et solides noués entre toutes les parties prenantes. Toutefois, si le modèle qu’il représente se révèle déclinable ailleurs sur le territoire national, nous n’avons aucune objection à ce qu’il le soit.\nVous aurez compris que je suis très favorable à la proposition de loi, dont l’un des objectifs est de donner aux territoires et aux établissements publics les moyens de s’organiser efficacement, et que je souhaite qu’elle soit adoptée dans les mêmes termes qu’au Sénat. Je remercie l’ensemble des groupes parlementaires, qui ont permis son examen selon la procédure de législation en commission, la plus à même de permettre la promulgation du texte d’ici à la fin de l’année que le territoire vichyssois attend.\nLe dynamisme du Creps de Vichy n’est plus à démontrer puisque, dans le cadre des Jeux olympiques et paralympiques de Paris, le centre a accueilli 31 équipes dans 18 disciplines, soit 220 athlètes qui ont décroché 52 médailles – une preuve de plus de son excellence. Par ailleurs, le pôle France de paraski alpin a décidé il y a quelques mois de s’installer à Vichy. Cette réussite est le fruit du travail conjoint de l’État, de la région et de Vichy Communauté. Avec ce texte, nous pouvons enfin donner au Creps de Vichy une gouvernance ambitieuse et innovante, à l’image de l’investissement de chacune des parties prenantes dans ce projet. (Applaudissements sur les bancs du groupe Dem. – M. Nicolas Ray, rapporteur, applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 26,
+          "texte": "La parole est à M. Nicolas Ray, rapporteur de la commission des affaires culturelles et de l’éducation."
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": "rapporteur de la commission des affaires culturelles et de l’éducation",
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 27,
+          "texte": "Cette proposition de loi arrive au terme de son parcours législatif. Voté à l’unanimité par le Sénat le 15 juin dernier, ce texte a été adopté sans modification par la commission des affaires culturelles et de l’éducation, selon la procédure de législation en commission. Dans quelques minutes, si l’Assemblée se prononce dans le même sens, il deviendra définitif.\nLe Creps de Vichy pourra alors s’engager dans une expérimentation qu’il attend depuis plusieurs années pour franchir une nouvelle étape dans son développement. Conformément à l’article 37-1 de la Constitution, le texte prévoit en effet de recourir à une expérimentation législative pour que le centre bénéficie d’une gouvernance territoriale unifiée.\nDerrière les athlètes que nous applaudissons lors des grandes compétitions, il y a des années d’entraînement, des équipes mobilisées et, bien souvent, des Creps. Répartis sur le territoire national, les dix-sept Creps jouent en effet un rôle essentiel dans la préparation des sportifs de haut niveau, dans la formation initiale et continue aux métiers du sport ainsi que dans le développement du sport santé et du sport pour tous.\nInitialement, les Creps étaient des établissements publics nationaux (EPN) qui, sous la tutelle du ministère dédié, avaient pour objectif de contribuer à la politique nationale du sport. En 2015, la loi portant nouvelle organisation territoriale de la République, dite Notre, a permis une décentralisation partielle de ces EPN devenus des établissements publics locaux de formation dont la gouvernance est partagée entre l’État et les régions. Le premier conserve la charge de la rémunération des agents, notamment ceux qui encadrent les sportifs, alors que les secondes assurent la construction, l’entretien des infrastructures et la maintenance des équipements.\nCette réforme poursuivait deux objectifs : renforcer l’ancrage local des Creps et répondre aux besoins des territoires en matière d’animation sportive. Cette décentralisation a été une réussite puisque, depuis 2016, l’État et les régions ont mobilisé près de 316 millions d’euros pour moderniser et agrandir les Creps. Ces investissements leur ont donné des moyens pour répondre aux exigences croissantes du sport de haut niveau.\nC’est ce modèle que nous proposons d’enrichir et d’adapter à Vichy, avec trois objectifs. Le premier est de permettre au Creps d’exercer des missions supplémentaires, au nom de l’État et de Vichy Communauté, en matière d’enseignement supérieur, de recherche, de médecine et de rééducation. Le deuxième est d’intégrer l’agglomération de Vichy dans les instances de gouvernance du centre.\nLe troisième et principal objectif est de mutualiser les équipements, les personnels et les ressources du Creps et de l’agglomération, sachant que tout est situé sur un même site. Favoriser les synergies, réduire les charges de fonctionnement, renforcer les capacités d’accueil du Creps, optimiser l’utilisation et la commercialisation des équipements, notamment de restauration et d’hébergement, générer des nouvelles ressources propres accroîtra l’efficacité de l’action publique. Il s’agit d’autant d’objectifs de bon sens bienvenues alors que nous cherchons à dépenser mieux, c’est-à-dire de façon plus rationnelle, et à réduire les déficits.\nLe texte vise aussi à renforcer l’ancrage local de l’établissement, tandis que l’expérimentation le concernant pourra, si elle porte ses fruits, être étendue aux seize autres Creps.\nPour comprendre l’intérêt de la proposition de loi, il faut revenir sur la situation particulière du Creps de Vichy. Depuis sa création, en 1972, cet établissement s’est imposé comme un centre de référence dans le domaine du sport de haut niveau. Cette excellence a notamment été consacrée à l’occasion des Jeux olympiques et paralympiques de Paris 2024, pour lesquels il a constitué un des principaux centres de préparation. Au total, trente et une équipes de dix-huit disciplines sportives y ont été accueillies, avec un bilan remarquable de cinquante-deux médailles, dont dix d’or.\nCe succès doit beaucoup au savoir-faire des équipes du centre, à la qualité de ses équipements et aux travaux de modernisation, financés par l’État et la région à hauteur de 40 millions d’euros. La force du Creps de Vichy tient également à son environnement exceptionnel puisque, sur un même site, à Bellerive-sur-Allier, se côtoient des infrastructures sportives ainsi que des équipements d’hébergement et de restaurations appartenant au Creps ou à Vichy Communauté. On a donc deux propriétaires publics, deux directions et deux équipes de gestion pour des installations voisines participant à la même politique de développement du sport.\nCette proximité géographique est aujourd’hui trop insuffisamment exploitée. La mise en commun de ces équipements, objet de la proposition de loi, va permettre de réaliser d’importantes économies d’échelle en mutualisant les infrastructures et les personnels. La nécessité d’une gouvernance unifiée s’est rapidement imposée pour intégrer Vichy Communauté à la gouvernance du Creps.\nEn 2024, la ministre des sports de l’époque, Amélie Oudéa-Castéra, confiait au directeur du Creps une mission de préfiguration de cette gouvernance, ayant pour objectif d’établir un diagnostic en vue de définir le périmètre des installations concernées, de fixer la liste des missions qui pourraient être assumées par le Creps pour le compte de la communauté d’agglomération, et de déterminer l’ampleur des moyens humains et financiers mis à disposition par les diverses parties.\nEn 2025, le choix est fait de porter cette réforme par la voie législative, en recourant à une expérimentation. Les autres options ont été écartées : la création d’un groupement d’intérêt public (GIP) aurait fait perdre leur statut aux agents du Creps et sorti ce dernier du réseau de l’Institut national du sport, de l’expertise et de la performance (Insep) ; la multiplication des conventions entre le Creps et la communauté d’agglomération, système vraiment fastidieux, chronophage, instable, aurait atteint ses limites. Les missions des Creps, vous le savez, sont énumérées dans la loi ; il fallait donc passer par la loi pour modifier le code du sport. Je regrette, à titre personnel, d’avoir dû mobiliser notre assemblée, dont l’ordre du jour est très chargé, afin d’autoriser cette expérimentation locale : cela devrait nous amener à prévoir à l’avenir, dans la loi, plus de souplesse, de liberté locale, de droit à la différenciation, dont ce texte offre un bel exemple. Si un cadre national doit toujours être garanti, il doit toujours tenir compte des réalités de chaque territoire.\nIssu de la proposition de loi déposée le 9 avril dernier par le sénateur de l’Allier Claude Malhuret, ancien maire de Vichy, ce texte a été amélioré au Sénat par l’adoption de plusieurs amendements qui ont permis de préciser les modalités de cette expérimentation. Notre commission, je le répète, a choisi de conserver tous ces apports. Comme nous n’avons pas d’amendements à examiner, ce dont je vous remercie, je vais commenter rapidement les différents articles.\nL’article 1er vise à fixer le cadre et la durée de l’expérimentation. Prévue à l’origine pour dix ans, puis jugée trop longue, elle s’achèvera finalement le 30 juin 2033. Cette échéance a été choisie pour coïncider avec la fin des Jeux olympiques et paralympiques de Brisbane, afin d’inscrire l’évaluation de l’expérimentation dans le calendrier olympique.\nL’article 2 prévoit de confier au Creps de Vichy, au nom de l’État, au nom de Vichy Communauté, de nouvelles missions pour l’exercice desquelles le Creps bénéficiera de moyens attribués par l’agglomération, suivant l’article 3. En cas de déséquilibre financier, Vichy Communauté assurera logiquement une compensation financière.\nLes articles 4, 5 et 6, relatifs à la gouvernance, traitent du conseil d’administration, des rapports du président de Vichy Communauté avec le directeur du Creps. L’article 7 tend à encadrer les prérogatives respectives de ces derniers. Les modalités d’évaluation de l’expérimentation – nous avons veillé aux garanties d’impartialité – sont déterminées à l’article 8.\nLes parties prenantes à ce projet sont unanimes : ce texte est utile, attendu. Depuis des années, le Creps, la ville de Vichy, Vichy Communauté, la région Auvergne-Rhône-Alpes, les services de l’État avancent ensemble ; ils attendent que la proposition de loi soit adoptée pour donner à leur coopération une nouvelle dimension. Le consensus qui entoure le texte témoigne d’une volonté partagée, dans l’intérêt du sport français et de nos territoires, de faire progresser ce projet. Je voudrais pour cela remercier l’ensemble des acteurs qui ont contribué à ce qu’il aboutisse.\nJe remercie Mme la ministre de son soutien, de l’inscription rapide de cette proposition de loi à l’ordre du jour des deux chambres ; je remercie les collègues de la commission, qui ont voté à l’unanimité en faveur du texte, les groupes parlementaires, qui ne se sont pas opposés à la procédure de législation en commission. Comme le disait la ministre, notre objectif consiste désormais en une adoption conforme, afin que l’expérimentation puisse être engagée sans délai.\nCette proposition de loi ne se contentera pas de conforter la place de Vichy parmi les grands centres de préparation sportive : elle doit rendre possible à nos Creps de choisir une organisation plus moderne, plus efficace, tenant davantage compte des particularités de nos territoires. J’ai la conviction profonde que cette expérimentation portera ses fruits et permettra, demain, à d’autres Creps de suivre le chemin ouvert à Vichy. C’est dans cet esprit que je vous invite à adopter cette proposition de loi, qui favorisera le développement du sport et de l’excellence sportive dans notre pays. (« Très bien ! Excellent ! » et applaudissements sur les bancs du groupe DR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 47,
+          "texte": "La parole est à Mme Béatrice Piron, suppléant M. Alexandre Portier, président de la commission des affaires culturelles et de l’éducation."
+        },
+        {
+          "orateur": "Mme Béatrice Piron",
+          "fonction": "suppléant M. Alexandre Portier, président de la commission des affaires culturelles et de l’éducation",
+          "role": null,
+          "idActeur": "PA721844",
+          "ordre": 48,
+          "texte": "Je souhaite tout d’abord saluer le travail parlementaire engagé au Sénat par Claude Malhuret, auteur de cette proposition de loi, et conduit ici par notre rapporteur, M. Nicolas Ray. Le sport de haut niveau se construit dans les grandes compétitions, mais se prépare surtout dans nos territoires. Les Creps jouent à cet égard un rôle essentiel – accompagnement des sportifs de haut niveau, formation des professionnels, développement du sport santé et de l’éducation populaire.\nCette proposition de loi répond à une situation très concrète : depuis la loi Notre, ces centres sont placés sous la double tutelle de l’État et des régions, le bloc communal, pourtant propriétaire et gestionnaire d’une grande partie des équipements sportifs, demeurant largement absent de leur gouvernance. Le Creps de Vichy illustre particulièrement cette difficulté. Il côtoie un ensemble sportif exceptionnel administré par Vichy Communauté, mais les équipements restent gérés séparément. En 2023, le centre international de séjour de la communauté d’agglomération affichait un taux de remplissage de 22 %, contre 50,9 % pour l’hébergement du Creps. Pourtant, le territoire a démontré son potentiel : lors des Jeux olympiques de Paris, Vichy est devenu, derrière l’Insep, le deuxième site d’accueil des stages de préparation, pour 31 équipes, 220 athlètes, issus de 18 disciplines.\nLe problème ne tenait donc pas aux équipements ou aux compétences, mais à leur coordination. C’est précisément celle-ci que la proposition de loi permettra à titre expérimental, sans créer de nouvelle structure ni remettre en cause le statut du centre et sa double tutelle. Ce Creps remplira ainsi certaines missions pour le compte de Vichy Communauté, entre autres l’exploitation d’équipements sportifs dont l’agglomération reste propriétaire. De nouvelles missions pourront également être développées pour le compte de l’État, notamment en matière d’offre universitaire, de recherche, de médecine du sport.\nLes responsabilités restent clairement réparties : Vichy Communauté conservera la charge de ses équipements, attribuera les moyens nécessaires, continuera de rémunérer environ quarante équivalents temps plein (ETP). Elle compensera également les éventuels déséquilibres financiers liés à cette exploitation. La gouvernance est adaptée en conséquence : Vichy Communauté entre au conseil d’administration du Creps et son président sera associé à la nomination du directeur.\nEnfin, l’expérimentation est encadrée par des garanties fortes : contrôle du préfet de région, évaluation indépendante permettant au Parlement, à son terme, de prononcer sa pérennisation, sa généralisation ou son abandon. Cette méthode me paraît essentielle ; il ne s’agit pas d’imposer depuis Paris un modèle uniforme mais de partir d’une réalité locale, d’expérimenter dans un cadre limité, puis d’évaluer, avant de décider. C’est là une démarche qui correspond pleinement à l’esprit de la décentralisation : faire confiance aux acteurs locaux tout en maintenant les garanties nécessaires au bon fonctionnement du service public.\nJe souhaite enfin saluer une nouvelle fois le travail de notre rapporteur ainsi que celui de l’ensemble des membres de notre commission, qui ont permis de sécuriser ce dispositif et adopté le texte, comme il l’avait été au Sénat, à l’unanimité. La procédure de législation en commission et le vote conforme, s’inscrivent dans cette même logique : une recherche d’efficacité parlementaire, partagée au-delà des sensibilités politiques, au service de l’intérêt général. Cette unanimité témoigne de notre volonté commune de mieux valoriser les équipements sportifs de nos territoires et de renforcer l’efficacité de nos politiques sportives. Pour toutes ces raisons, je vous invite, au nom de la commission des affaires culturelles et de l’éducation, à adopter cette proposition de loi."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4182782",
+      "valeurPtsOdj": "1",
+      "titre": "Explications de vote",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 55,
+          "texte": "Dans les explications de vote, la parole est à M. Michel Guiniot."
+        },
+        {
+          "orateur": "M. Michel Guiniot (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794734",
+          "ordre": 56,
+          "texte": "Le texte que nous examinons vise à expérimenter une gouvernance territoriale unifiée du Creps de Vichy. Les Creps sont des établissements publics placés, depuis la loi Notre d’août 2015, sous la tutelle de l’État et de la région ; issu de l’initiative du secrétaire d’État Léo Lagrange, celui de Vichy, même s’il a changé plusieurs fois de localisation, fait partie des plus anciens. Il bénéficie à présent d’une situation exceptionnelle, en plein cœur d’un vaste centre omnisports de 150 hectares géré par la communauté d’agglomération. Quant au territoire même de Vichy, il constitue un lieu privilégié de la pratique sportive de haut niveau, puisqu’il a été après l’Insep, la principale localisation des stages de préparation aux Jeux olympiques et paralympiques de Paris.\nTrès avantageuse sur le papier, cette proximité géographique est néanmoins insuffisamment exploitée : la coopération entre le Creps et le centre omnisports qui relève de l’agglomération, au sein duquel il se situe s’avère souvent complexe, les infrastructures étant gérées séparément par des acteurs différents. Prévoyant d’expérimenter jusqu’au 30 juin 2033 une gouvernance associant l’État, la région Auvergne-Rhône-Alpes et Vichy Communauté, cette proposition de loi semble remédier à ces problèmes et se montrer bien adaptée aux particularités du territoire. Elle vaudrait au Creps un accès privilégié à des personnels et des équipements communautaires situés à proximité, ainsi que des missions supplémentaires au nom de l’État, comme le déploiement d’une offre universitaire locale, ou de l’intercommunalité, comme la coordination locale des pratiques sportives.\nLa communauté d’agglomération y trouverait aussi son compte : directement associée à la gouvernance du Creps, notamment par son intégration au conseil d’administration de ce dernier et la participation de son président à la direction de l’établissement, elle serait en même temps préservée, puisqu’elle conserverait la gestion effective des locaux et infrastructures. Il conviendra toutefois de veiller à ce que le Creps ait une bonne gestion des ressources mises à sa disposition, en particulier celles de l’intercommunalité : le III de l’article 3 prévoit en effet que Vichy Communauté, et non l’État, soit le garant financier du dispositif.\nÀ l’issue de l’expérimentation ou au plus tard le 31 décembre 2032, un comité, nommé par arrêté du ministre après avis du conseil d’administration du Creps, devra remettre un rapport évaluant les effets de l’expérimentation en particulier sur les plans économique et financier, les services rendus aux usagers, la qualité de vie au travail des agents publics. Par cette expérimentation, il nous est possible d’espérer gagner en efficacité, formaliser une réelle mutualisation des moyens, objectif louable en un moment où l’état désastreux des finances publiques nous impose de chercher dans tous les domaines des mesures d’économie.\nNous ne pouvons donc qu’approuver cette proposition de loi et souhaiter que les résultats soient à la hauteur des attentes. Il nous semble souhaitable que l’Assemblée adopte ce texte dans les mêmes termes qu’au Sénat le 15 juin dernier : cela lui permettrait d’achever sa navette parlementaire et d’être promulgué dans les plus brefs délais. Par conséquent, le groupe Rassemblement national votera en sa faveur. (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 61,
+          "texte": "La parole est à M. François Piquemal."
+        },
+        {
+          "orateur": "M. François Piquemal (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793756",
+          "ordre": 62,
+          "texte": "Cette proposition de loi vise à expérimenter à Vichy la gouvernance locale des Creps.\nQu’est-ce que les Creps ? Pour celles et ceux, nombreux, qui nous écoutent partout en France à cette heure, les Creps ont été fondés par Léo Lagrange. Il s’agit des centres de ressources, d’expertise et de performance sportive.\nIls sont au nombre de dix-sept aujourd’hui en France et ils remplissent plusieurs missions, dont la formation et la préparation des sportifs de haut niveau. À vaste échelle, ils participent à un réseau national consacré au sport de haut niveau. Ils remplissent aussi des missions à l’échelle régionale comme l’accueil et l’accompagnement de sportifs régionaux, et mènent des actions en faveur du sport au service de la santé et du sport pour toutes et tous.\nCette proposition de loi qui vise à transférer la gouvernance des Creps de l’État aux collectivités locales n’apporte pas de réponse. Si nous n’y sommes pas opposés par principe, nous disons, madame la ministre, que le vrai enjeu n’est pas le changement de gouvernance, mais l’arrêt des coupes budgétaires régulières qui sont intervenues ces dernières années et dont se sont émus de nombreux sportifs de haut niveau, comme Léon Marchand. Je rappelle, à titre d’exemple, que le sport ne représentera a priori que 0,16 % du budget de l’État en 2026.\nIl y a ici le risque de faire encore peser des compétences sur les collectivités territoriales sans que les moyens suivent et, in fine, de créer des inégalités entre les différents Creps selon les moyens et les volontés locales. Cela risque d’entraîner un manque de cohésion globale.\nEnfin, on peut imaginer le pire si des Creps se retrouvent sous la tutelle de collectivités du Rassemblement national, avec une limitation de certaines pratiques sportives, la volonté de pourchasser des sportives qui porteraient le voile ou les personnes LGBT, par exemple."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 68,
+          "texte": "Mais de quoi il parle ?"
+        },
+        {
+          "orateur": "M. François Piquemal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793756",
+          "ordre": 69,
+          "texte": "La proposition de loi oublie aussi de nommer un certain nombre d’enjeux, comme l’action contre les faits de violences fréquents qui ont pu exister, y compris dans les Creps, notamment les violences sexuelles et sexistes et les faits de racisme. Nous l’avions d’ailleurs constaté lors de la commission d’enquête relative à l’identification des défaillances de fonctionnement au sein des fédérations françaises de sport avec nos collègues Sabrina Sebaihi et Béatrice Bellamy, à qui je veux rendre hommage ici.\nDerrière cette proposition de loi, c’est une vision du sport comme ciment de notre société qui peut être développée. Et justement, à La France insoumise, nous avons un bon programme thématique sur le sujet ! Je ne vous citerai que trois de nos propositions – sans cela nous en aurions pour longtemps (Sourires) : favoriser le recrutement d’éducateurs et d’éducatrices physiques et sportifs pour faire du sport un moyen d’insertion professionnelle des jeunes, du public féminin ainsi que des personnes en situation de handicap ; donner aux clubs amateurs les moyens – notamment de personnel – qui leur manquent depuis que les emplois aidés ont été supprimés et alors qu’ils doivent composer avec le seul dévouement de leurs bénévoles ; élaborer un plan national d’urgence pour la construction et la rénovation des équipements sportifs – les stades, les piscines, les gymnases – avec les collectivités locales. À Toulouse, nous manquons cruellement de piscines et d’équipements sportifs suffisamment disponibles.\nEnfin, je ne peux pas passer sous silence le fait qu’à la veille de la mobilisation de la jeunesse pour de meilleures conditions d’éducation, oui, il faut réaffirmer le rôle des professeurs d’éducation physique et sportive (EPS) et augmenter leur nombre pour valoriser et renforcer la pratique sportive dans les programmes scolaires et les activités périscolaires.\nJe conclurai par ces mots de Victor Wembanyama, qui sait visiblement ce que le sport doit aux profs d’EPS, aux bénévoles qui le font vivre dans les clubs amateurs…"
+        },
+        {
+          "orateur": "M. Vincent Rolland",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266808",
+          "ordre": 73,
+          "texte": "Oui, il est aux États-Unis…"
+        },
+        {
+          "orateur": "M. François Piquemal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793756",
+          "ordre": 74,
+          "texte": "…, et à quel point il est précieux en tant que moyen d’émancipation individuelle et collective non seulement pour la jeunesse, mais aussi pour chacun dans notre pays. Je le cite à propos des grèves lycéennes : « C’est une situation dont j’ai eu la chance de pouvoir m’extraire, ce sont des problèmes que j’ai la chance de ne plus vivre. […] Ce sont des inégalités systémiques et des problèmes tellement profonds. En réalité, je suis content que les lycéens, les jeunes en général, se fassent entendre, car moi je les entends et je les soutiens. Et j’espère que les gens qui sont là-haut, tout là-haut en feront de même. » Vous y compris, madame la ministre.\nDemain, le rendez-vous est donné à 14 heures, place d’Italie, pour la grande manifestation à Paris…"
+        },
+        {
+          "orateur": "Mme Frédérique Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719272",
+          "ordre": 76,
+          "texte": "Ce n’est pas normal ! Honteux !"
+        },
+        {
+          "orateur": "M. François Piquemal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793756",
+          "ordre": 77,
+          "texte": "…, et le plus important, à Toulouse, à 14 heures au lycée des Arènes !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 78,
+          "texte": "Vous avez les horaires de bus, aussi ?"
+        },
+        {
+          "orateur": "M. François Piquemal",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793756",
+          "ordre": 79,
+          "texte": "Vive le sport pour toutes et tous ! Vive les moyens dans l’éducation nationale ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 80,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 81,
+          "texte": "La parole est à M. Stéphane Delautrette."
+        },
+        {
+          "orateur": "M. Stéphane Delautrette (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795430",
+          "ordre": 82,
+          "texte": "Cela a été rappelé, les Creps sont placés sous la double tutelle de l’État et des régions. Ils assurent d’une part la formation et la préparation des sportifs de haut niveau et, d’autre part, l’accueil et l’accompagnement des sportifs régionaux.\nLes Creps sont l’héritage du Front populaire, notamment de la volonté du ministre Léo Lagrange de massifier l’apprentissage du sport par l’éducation populaire.\nL’existence des Creps n’a pourtant pas toujours été acquise. Dans le cadre de la réforme générale des politiques publiques voulue par Nicolas Sarkozy, huit d’entre eux ont été supprimés, comme celui de Limoges en 2009 dont dépendait ma circonscription."
+        },
+        {
+          "orateur": "M. Vincent Rolland",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA266808",
+          "ordre": 85,
+          "texte": "Qu’a fait François Hollande ? Il ne les a pas rouverts !"
+        },
+        {
+          "orateur": "M. Stéphane Delautrette",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795430",
+          "ordre": 86,
+          "texte": "Ce fut une surprise à l’époque, puisque ces établissements connaissaient pour la plupart une situation satisfaisante, comme le soulignait le sénateur de la Creuse Jean-Jacques Lozach dans un rapport d’information.\nLa loi Notre de 2015 est venue au secours des Creps et a procédé à leur décentralisation partielle pour mieux correspondre aux besoins de nos territoires. Le bilan de cette réforme est jugé positif par l’inspection générale de l’éducation, du sport et de la recherche.\nL’expérimentation proposée par la présente proposition de loi pour le Creps de Vichy s’inscrit pleinement dans l’objectif d’un meilleur ancrage territorial de la politique sportive de notre pays, en proposant de renforcer la coordination avec les collectivités territoriales pour mieux s’adapter à la réalité du terrain.\nLes députés socialistes sont bien entendu favorables à cette proposition de loi qui permet la différenciation des règles en fonction des contraintes propres à chaque territoire. Pour nous, ce sont ces expérimentations qui nourrissent la décentralisation et la rendent véritablement vivante.\nToutefois, je ne voudrais pas laisser croire que la politique du sport de notre pays se limite à des modes d’organisation. Je profite de l’examen de ce texte pour insister sur le nécessaire soutien financier de l’État au sport. En l’état, madame la ministre, le projet de loi de finances pour 2027 dont nous allons débattre n’est pas au rendez-vous. Les crédits du programme 219 « Sport » affichent une baisse de 48 millions d’euros, ce à quoi il faut ajouter une baisse de 10 millions d’euros pour le programme « Jeunesse et vie associative ».\nLes associations d’élus vous ont d’ailleurs alertée, en particulier s’agissant des moyens dédiés aux équipements sportifs au sein de l’Agence nationale du sport. En 2026, l’enveloppe qui y est consacrée a été divisée par trois.\nMais je veux surtout alerter la représentation nationale sur le principal risque pour les infrastructures sportives dans notre pays : la baisse du fonds de compensation de la taxe sur la valeur ajoutée (FCTVA) prévue par le gouvernement dans le projet de loi de finances, va, si la mesure est maintenue, priver nos collectivités territoriales de 2,1 milliards d’euros d’investissement dès l’année prochaine. Nous avons d’ailleurs obtenu le rejet de cette mesure en commission des finances vendredi dernier.\nOui, l’amélioration de la gouvernance des établissements sportifs locaux fait consensus. Mais si ces établissements ne sont pas financés à hauteur des besoins, ils deviendront malheureusement des coquilles vides.\nAlors que notre jeunesse s’indigne de l’accroissement des inégalités et réclame des conditions dignes pour préparer son avenir, il y a une urgence : renforcer l’accès de toutes et tous à la pratique du sport, qui reste un vecteur puissant d’émancipation. (« Bravo ! » et applaudissements sur les bancs du groupe SOC. – M. Romain Daubié applaudit également.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 95,
+          "texte": "La parole est à M. Jean-Claude Raux."
+        },
+        {
+          "orateur": "M. Jean-Claude Raux (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794154",
+          "ordre": 96,
+          "texte": "Nous allons nous prononcer aujourd’hui sur un texte qui fait consensus dans notre Assemblée, une fois n’est pas coutume. Il s’agit d’un texte utile et attendu à Vichy par le Creps, par l’agglomération et la région.\nLe Creps de Vichy, c’est un savoir-faire, des équipements de premier plan, des formations, de la recherche, une maison sport-santé ouverte aux habitants du bassin. Pendant les Jeux de Paris, 31 équipes et 200 athlètes s’y sont préparés.\nPour autant, il existe un problème ancien et connu de tous : deux acteurs publics, le Creps et l’agglomération, partagent le même site, mais gèrent leurs équipements chacun de son côté. Leurs hébergements ne sont pas mutualisés, je l’ai rappelé en commission. Celui de l’agglomération n’était rempli qu’à 22 % en 2023, celui du Creps à peine à moitié. De simples conventions ne sécurisent pas une coopération pourtant ancienne.\nDepuis la loi Notre, les Creps reposent sur une gouvernance partagée entre l’État et les régions. Dans le même temps, les collectivités sont devenues les premiers financeurs du sport public dans le pays. Chercher à mieux les associer, mettre en commun ce qui existe déjà, c’est du bon sens – une expression chère à certains membres de l’hémicycle que je n’utilise pour ma part qu’avec parcimonie.\nCe texte permet d’avancer dans le bon sens avec précaution. Il crée une gouvernance tripartite entre l’État, la région Auvergne-Rhône-Alpes et Vichy Communauté, sans privatisation, sans démantèlement : le Creps reste un établissement public. Il garde ses missions nationales. L’État conserve sa place au conseil d’administration. Le centre pourra développer une offre universitaire, de la recherche publique, de la médecine du sport.\nIl est question d’une expérimentation évaluée avant d’être étendue ailleurs. L’évaluation devra porter sur le service rendu aux usagers et sur les conditions de travail des agents. Nous serons vigilants sur ces points.\nLe groupe Écologiste et social votera donc pour ce texte.\nMadame la ministre, je vous ai entendue parler des jeunes la semaine dernière avec sincérité et conviction. J’emploierai la même sincérité pour vous redire que, pour nous, le sport n’est pas d’abord un instrument de compétitivité ou d’attractivité : c’est un outil d’émancipation, de santé et de lien social. C’est une responsabilité nationale qui ne peut pas reposer sur la seule bonne volonté des collectivités. Cette expérimentation ne doit pas préfigurer un abandon par l’État des politiques sportives, laissées à des territoires qui n’auront assurément pas les moyens de les assumer.\nOr le budget pour 2027 envoie un signal inquiétant. Dans le programme « Sport », la promotion du sport pour le plus grand nombre perd près de 40 % de ses crédits. Une partie est réorientée vers les caisses d’allocations familiales (CAF) avec le pass’sport, mais sans aucune garantie sur les montants. Ses moyens ont été divisés par deux en 2025 : permettez-nous d’être méfiants cette année encore.\nLes crédits alloués à la prévention par le sport en matière de santé baissent eux aussi. En face, les crédits de paiement du sport de haut niveau augmentent de 6 % et ceux des Jeux olympiques d’hiver de 2030, de plus de 75 %. Voilà le choix qui est fait : le sport spectacle plutôt que le sport pour tous ; les podiums plutôt que les clubs, les piscines et les gymnases de nos quartiers et de nos villages. On nous avait vendu l’héritage des Jeux de Paris avec plus de pratique, plus d’accès, plus de sport santé. Deux ans plus tard, les crédits fondent et les maires tirent la sonnette d’alarme. Depuis le 1er octobre, l’Agence nationale du sport ne règle plus les appels de fonds. Les maires le disent eux-mêmes : le bloc communal ne peut jamais financer un équipement sportif seul. Dont acte.\nLe gouvernement a choisi d’inscrire ce texte à notre ordre du jour. Tant mieux pour Vichy et pour le Creps. Nous espérons qu’un jour sera également inscrite une grande loi en faveur du sport pour toutes et tous. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 107,
+          "texte": "La parole est à M. Frantz Gumbs."
+        },
+        {
+          "orateur": "M. Frantz Gumbs (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795258",
+          "ordre": 108,
+          "texte": "Deux ans après les Jeux de Paris, on nous parle souvent de leur héritage. Ce texte en propose une forme discrète mais durable : apprendre à mieux faire travailler ensemble ceux qui ont rendu ces Jeux possibles.\nVichy en a été l’un des grands artisans. Après l’Insep, c’est là que la France a le plus préparé ses athlètes : 31 équipes, 200 athlètes et 52 médailles, dont 19 en or. L’État et la région y ont investi ensemble 40 millions d’euros.\nMais une réussite ne doit pas masquer une fragilité. Sur un même parc de 150 hectares coexistent deux gestionnaires : le Creps d’un côté, l’agglomération de l’autre. Chacun a ses équipements, ses chambres, ses plannings. En 2023, nous l’avons déjà entendu, le centre de séjour de l’agglomération n’était occupé qu’à 22 %, le Creps à 51 %.\nDans le contexte budgétaire que nous connaissons, nous ne pouvons pas nous satisfaire d’équipements publics financés deux fois et utilisés à moitié. Les acteurs locaux coopèrent déjà par voie de convention, mais une convention se dénonce et le principe de spécialité empêche le Creps d’exercer des missions que la loi ne lui confie pas. La bonne volonté a atteint ses limites. Il revient désormais au législateur de prendre le relais.\nIl existe une certaine crainte quant au désengagement de l’État. Nous croyons qu’il n’en est rien. Le Creps conserve son statut, ses missions nationales au service de la haute performance et ses personnels d’État, la région reste propriétaire des bâtiments, le préfet conserve le contrôle de légalité sur les actes relevant des compétences de l’agglomération. Il ne s’agit pas de défaire l’organisation issue de la loi Notre, mais de lui permettre de s’adapter là où le terrain est prêt.\nConcrètement, le Creps pourra exercer de nouvelles missions au nom de l’État et certaines missions de Vichy Communauté avec les équipements, les personnels et les crédits de l’agglomération. En retour, celle-ci siégera au conseil d’administration, sera consultée sur la nomination du directeur et compensera un éventuel déficit lié à l’exploitation de ses biens. Chacun a son rôle et chacun en assume la responsabilité.\nEn tant qu’élu ultramarin, je mesure combien cette démarche est pertinente. Nos territoires savent qu’une règle uniforme n’est pas toujours une règle juste et qu’adapter la norme aux réalités locales est souvent la meilleure façon de servir l’intérêt général. L’expérimentation et la différenciation ne sont pas des concessions faites aux territoires ; ce sont des outils pour mieux gouverner, que notre groupe défend avec constance.\nVoté à l’unanimité au Sénat, adopté sans modifications par notre commission, ce texte est équilibré. L’adopter conforme, c’est permettre à l’expérimentation de commencer sans délai au bénéfice des sportifs et des agents qui attendent cette clarification. C’est pourquoi le groupe Les Démocrates soutient ce texte et vous invite à le voter en l’état. (Applaudissements sur les bancs des groupes Dem et EPR.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 116,
+          "texte": "La parole est à M. Benoît Blanchard."
+        },
+        {
+          "orateur": "M. Benoît Blanchard (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA842183",
+          "ordre": 117,
+          "texte": "À Vichy, le Creps et Vichy Communauté se partagent près de 500 hectares consacrés au sport. L’Insep mis à part, aucun territoire n’a accueilli autant de stages de préparation aux Jeux de Paris. Et pourtant, en 2023, l’hébergement de l’agglomération est resté vide aux trois quarts, celui du Creps à moitié. Les élus locaux n’y sont pour rien : le code du sport interdit au Creps d’agir pour le compte d’une intercommunalité.\nCertains trouveront que le Parlement légifère pour un seul établissement. Nous y voyons la bonne méthode : quand les élus de terrain mettent en avant un projet solide, l’État doit leur ouvrir la porte plutôt que de leur demander d’attendre une grande réforme de niveau national. On essaie à Vichy, on mesure, et c’est nous qui déciderons ensuite d’aller plus loin ou d’en rester là.\nLe texte du président Claude Malhuret est également prudent avec l’argent public : l’agglomération garde la charge de ses équipements, paie sa quarantaine d’agents et comble un éventuel déficit. Ni l’État, ni la région ne paieront pour ses équipements. Le préfet contrôlera les actes et un comité impartial rendra compte avant la fin de l’expérimentation en 2033.\nLe Sénat a voté ce texte à l’unanimité, notre commission aussi, sans en changer une virgule. Le groupe Horizons & indépendants votera ce texte. Je remercie le rapporteur pour son travail."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 121,
+          "texte": "La parole est à M. Joël Bruneau."
+        },
+        {
+          "orateur": "M. Joël Bruneau (LIOT)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "ordre": 122,
+          "texte": "Je citerai trois des bonnes raisons de voter ce texte en l’état. Tout d’abord, il illustre la part prépondérante des collectivités locales dans l’organisation du sport français. J’en veux pour preuve la qualité des installations de l’agglomération de Vichy et les plus de 300 millions d’euros investis par les régions pour moderniser les Creps depuis la décentralisation de leurs activités impulsée par la loi Notre.\nEnsuite, ce texte permettra de valoriser et de développer la qualité de l’écosystème sportif vichyssois. Actuellement, le site de Vichy est déjà le plus utilisé de France après celui de l’Insep – il accueille de nombreuses équipes nationales, en particulier paralympiques. Grâce à ce texte, il pourra développer une offre de services en médecine du sport et rééducation, ainsi qu’une antenne universitaire autour de la thématique sportive.\nEnfin, en instaurant une gouvernance unifiée et une mutualisation entre les ressources de l’État et des collectivités locales, au service du développement sportif, ce texte est en avance sur son temps – nous aspirons à terme à généraliser ce modèle. Non seulement le Creps sera maintenu et conforté dans ses missions actuelles, mais il pourra en développer de nouvelles grâce à l’appui, aux côtés de la région et de l’État, de l’agglomération de Vichy.\nPour toutes ces raisons, je vous invite à adopter ce texte en l’état."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 126,
+          "texte": "Sur l’ensemble de la proposition de loi, je suis saisie par le groupe Droite républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Yannick Monnet."
+        },
+        {
+          "orateur": "M. Yannick Monnet (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793174",
+          "ordre": 128,
+          "texte": "Le 15 juin dernier, le Sénat a adopté ce texte à l’unanimité. Ce consensus récompense près de dix ans de travail patient, mené sur le terrain par l’État, la région et l’agglomération de Vichy. Ce texte mérite notre soutien, d’abord parce qu’il remédie à un problème concret : le Creps et le parc omnisports de l’agglomération, réunis sur un même site de 500 hectares, sont gérés séparément. Chaque projet commun exige une convention, fragile par nature. Pendant ce temps, le centre international de séjour de l’agglomération n’était rempli qu’à 22 % en 2023. Ce texte donne enfin un cadre stable à une coopération qui existe déjà.\nEnsuite, il préserve le service public du sport. Ce n’est ni une privatisation, ni un démantèlement. Le Creps reste un établissement public régi par le code du sport. Ses missions nationales sont intactes. Rien n’est retiré, tout s’ajoute : une offre universitaire, de la recherche et de la médecine du sport. L’État garde sa place au conseil d’administration et continue de nommer le directeur. L’agglomération compensera tout déficit lié à ses équipements – le montant actuel du déficit est estimé à 1 million d’euros –, le Creps n’en supportera donc pas la charge.\nEnfin, la méthode est prudente : il s’agit d’une expérimentation limitée à un seul établissement jusqu’en 2033. Le Sénat l’a utilement encadrée : caractère facultatif des nouvelles missions, neutralité financière, comité d’évaluation impartial, rapport au Parlement avant fin 2032. Rien ne sera généralisé sans bilan.\nCe vote ne nous dispense pas d’être vigilants sur deux points. Les moyens d’abord : le sport ne peut reposer sur la seule bonne volonté des collectivités. Il relève d’une responsabilité nationale. L’État doit continuer de financer pleinement les missions nationales du Creps, sans les reporter sur l’agglomération. Les personnels, ensuite : des agents de l’État, de la région et de l’agglomération travailleront sous l’autorité d’un même directeur, ce qui exige un dialogue social exemplaire – l’évaluation devra mesurer les conditions de travail.\nPour nous, le sport est d’abord un outil d’émancipation, de santé et de lien social. À Vichy, il est aussi le moteur de tout un territoire : 31 équipes et 220 athlètes s’y sont préparés pour les Jeux de Paris. Ce texte donne au Creps les moyens de poursuivre cette ambition au service des sportifs comme des habitants. Nous le voterons donc. (M. Nicolas Bonnet applaudit.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4183019",
+      "valeurPtsOdj": "1",
+      "titre": "Vote sur l’ensemble",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 134,
+          "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 135,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 136,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        50\n        Nombre de suffrages exprimés                44\n        Majorité absolue                        23\n                Pour l’adoption                44\n                Contre                0",
+          "scrutinDetecte": {
+            "ordre": 136,
+            "votants": 50,
+            "exprimes": 44,
+            "majoriteAbsolue": 23,
+            "pour": 44,
+            "contre": 0,
+            "abstention": 6
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 137,
+          "texte": "(La proposition de loi est adoptée.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8695,
+          "id": "VTANR5L17V8695",
+          "sort": "adopté",
+          "titreVote": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 50,
+          "exprimes": 44,
+          "pour": 44,
+          "contre": 0,
+          "abstention": 6,
+          "ordre": 136
+        }
+      ]
+    },
+    {
+      "idSyceron": "4183026",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion, après engagement de la procédure accélérée, d’un projet de loi adopté par le Sénat",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 141,
+          "texte": "L’ordre du jour appelle la discussion du projet de loi autorisant l’approbation de la convention d’extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (nos 2509, 2758).\nLa parole est à Mme la ministre déléguée chargée de la francophonie, des partenariats internationaux et des Français de l’étranger."
+        },
+        {
+          "orateur": "Mme Eléonore Caroit",
+          "fonction": "ministre déléguée chargée de la francophonie, des partenariats internationaux et des Français de l’étranger",
+          "role": null,
+          "idActeur": "PA795330",
+          "ordre": 143,
+          "texte": "Le 11 novembre 2024, la France signait avec la Colombie la nouvelle convention d’extradition entre la France et la Colombie. Cette convention est le fruit de près de vingt années de patientes négociations bilatérales, au cours desquelles les gouvernements se sont succédé. La coopération s’est faite de manière transpartisane et s’est construite patiemment au fil du temps. Cette convention permet d’actualiser une coopération judiciaire qui reposait encore sur un accord de 1850.\nJe voudrais dire un mot dans cet hémicycle de ce que ce texte n’est pas. Il n’est pas un geste de défiance envers la Colombie. Il est même exactement l’inverse : la marque d’une confiance mutuelle entre deux démocraties qui affrontent, chacune sur son territoire, le même adversaire. La Colombie n’est pas seulement le premier pays producteur de cocaïne au monde. Elle est d’abord une nation qui a payé un très lourd tribut : des juges assassinés, des policiers tombés, des villages entiers pris en otage par les groupes armés qui vivent et prospèrent de ces commerces. Quand nous parlons de narcotrafic avec Bogotá, nous ne donnons pas de leçons. Pendant des dizaines d’années, ils ont vécu cette violence. Nous parlons avec un pays meurtri.\nLa France sait désormais ce que cette violence signifie. Les règlements de comptes ne frappent plus seulement Marseille ; ils touchent des villes moyennes et des départements ruraux. Des surveillants pénitentiaires ont été attaqués, des magistrats menacés, des mineurs enrôlés comme petites mains puis comme exécuteurs. La cocaïne produite à 10 000 kilomètres de cet hémicycle finance des réseaux qui défient l’autorité de l’État jusque dans nos prisons. Voilà la réalité que ce texte vient affronter avec lucidité.\nNotre pays ne part pas de rien. Ces dernières années, des moyens inédits ont été engagés contre le blanchiment d’argent – frapper l’argent, c’est frapper au cœur du système. Une diplomatie judiciaire active, notamment grâce à nos magistrats de liaison, a permis d’obtenir la remise à la France de trafiquants de premier plan qui se croyaient intouchables à l’étranger. Telle est l’ambition de ce texte : donner à la justice française les moyens d’atteindre ceux qui croient pouvoir lui échapper en traversant un océan ; faire en sorte, une extradition après l’autre, de mettre fin à ce sentiment d’impunité géographique.\nVenons-en au fond de la nouvelle convention. Du point de vue technique, elle remplace la liste parcellaire d’infractions de 1850 par un critère de gravité des peines, plus moderne. Du point de vue politique, un compromis respectueux des traditions d’extradition de chacun des pays a été trouvé. La France maintient son principe et n’extrade pas ses ressortissants, mais elle s’engage à les poursuivre elle-même, selon la règle ancienne du droit international « extrader ou juger ». La Colombie conserve, à sa demande, la possibilité de nous remettre ses nationaux. Aucun criminel ne pourra donc s’abriter derrière son passeport.\nDu point de vue humaniste – j’insiste sur ce point très important pour moi –, cet accord préserve nos engagements en matière de droits de l’homme. Signé entre deux démocraties, il ne permet pas l’extradition de personnes visées pour des motifs politiques, ni pour des considérations ethniques, de genre, de religion ou d’opinions. Ainsi, quel que soit le gouvernement en place, en France comme en Colombie, ce texte présente des garanties suffisantes pour satisfaire nos obligations, et, surtout, l’impératif de préservation des droits humains. Bien évidemment, la Colombie étant un grand pays abolitionniste, les extraditions qui exposeraient à la peine capitale seront également refusées.\nMesdames et messieurs les députés, je veux replacer ce vote dans une perspective un peu plus large. La lutte contre le narcotrafic ne se gagnera ni par les seules saisies, ni par la seule répression sur notre sol, mais par des chaînes de coopération internationales solides entre pays de production, pays de transit et pays de consommation.\nChaque maillon manquant est une faille que les organisations criminelles exploitent avec un cynisme absolu. Elles ont mondialisé leur activité. Contre ces internationales du crime organisé, nous devons donc mondialiser la justice et lutter résolument contre l’impunité.\nC’est pour cela que la France a organisé en Martinique le 2 juillet dernier une conférence régionale de sécurité dans le cadre de notre présidence du G7. Ce sommet a débouché sur l’adoption par vingt-six délégations d’une déclaration commune, l’appel de la Martinique, par laquelle les participants se sont collectivement engagés à renforcer leur coopération contre les trafics de stupéfiants et d’armes à feu. Avec la Colombie, en particulier, nous travaillons étroitement dans les domaines policier, douanier et judiciaire. Sur ce dernier plan, le ministère de la justice a ainsi déployé un magistrat de liaison à Bogotá en 2025, conformément aux conclusions de la commission d’enquête du Sénat de mai 2024 sur l’impact du narcotrafic en France.\nJe conclurai en saluant le travail des services du ministère de l’Europe et des affaires étrangères et du ministère de la justice, qui ont contribué du côté français, mais aussi du côté colombien, à rendre cet accord possible. En administration centrale comme dans les ambassades et les consulats, ils ont été les chevilles ouvrières de ces accords internationaux. Nous les en remercions.\nAu nom du gouvernement, je vous invite à adopter ce projet de loi avec la plus large majorité possible, parce qu’il protège nos concitoyens, parce qu’il va bien au-delà des clivages politiques ou des changements de gouvernement dans tel ou tel pays, parce qu’il honore notre amitié avec le peuple colombien, parce qu’il affirme, face à des organisations qui ne croient qu’à la peur et à l’argent, la seule chose qui les ait jamais fait reculer : des États de droit unis et déterminés. (Applaudissements sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "ordre": 154,
+          "texte": "Un État de droit, la Colombie, avec l’extrême droite au pouvoir ?"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 155,
+          "texte": "La parole est à M. Hadrien Clouet, rapporteur de la commission des affaires étrangères."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": "rapporteur de la commission des affaires étrangères",
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 156,
+          "texte": "Alors que Donald Trump tente de démanteler le droit international, alors que tous ses relais sud-américains forment une véritable amicale du gangstérisme, l’heure est à la défense des principes communs de l’humanité. Sans suspense, je vous invite à adopter cette convention d’extradition entre la France et la Colombie, comme l’a fait unanimement la commission des affaires étrangères. Il s’agit à la fois de renforcer nos relations bilatérales en matière de lutte contre la criminalité organisée et de moderniser ce cadre de coopération, qui remonte à 1850.\nHors du droit international, il n’y a que de l’arbitraire. Nous en avons eu la démonstration il y a trois semaines, lorsqu’Air France a refoulé le président colombien sortant, Gustavo Petro, sur ordre direct de Washington, l’empêchant de venir en France pour recevoir un prix à Cannes. Avec trente parlementaires, nous avons signé un appel pour condamner le silence coupable du ministère des affaires étrangères. Air France est une compagnie nationale, pas un jouet pour les basses œuvres de la CIA ! Faut-il avoir commis un génocide pour pouvoir survoler notre territoire national ? (Applaudissements sur les bancs du groupe LFI-NFP.)\nLes relations franco-colombiennes se sont intensifiées ces dernières années, notamment depuis la signature des accords de paix en 2016 et le tournant historique de 2022, lorsque la gauche, pour la première fois, est arrivée au pouvoir présidentiel en Colombie. Le président Petro a engagé des réformes d’une ampleur considérable : réforme agraire, droit du travail, retraite, protection de l’environnement, plantations de substitution à la coca. Par ailleurs, un système de justice transitionnelle, la juridiction spéciale pour la paix, a mis fin à l’impunité et s’est donné pour tâche de faire la vérité sur les crimes commis par l’ensemble des groupes armés étatiques et non étatiques.\nBien sûr, cette transformation pacifique a suscité une hostilité radicale et implacable des milieux conservateurs colombiens. Relais de l’administration de Donald Trump, qui n’a pas mégoté sur l’ingérence en période électorale, à coups de manipulations numériques, de fermes de bots financées à Miami ou de chantage économique. Depuis le 21 juin, la Colombie a, malheureusement, un nouveau président, M. Abelardo de la Espriella, qui se comporte comme un gouverneur nord-américain. Celui-ci a même refusé l’aide internationale après le séisme d’août dernier, pour n’accepter que celle offerte par trois pays dirigés par l’extrême droite : les USA, Israël et le Salvador.\nLa France doit donc se tenir solennellement aux côtés du peuple colombien, de ses associations, de ses syndicats, de ses organisations populaires, de celles et ceux qui sont en première ligne de la violence fasciste qui ressurgit : ouvriers, paysans, indigènes, personnes LGBT."
+        },
+        {
+          "orateur": "Mme Frédérique Meunier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719272",
+          "ordre": 161,
+          "texte": "Oh !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 162,
+          "texte": "Qu’est-ce qui vous faire dire « Oh » ? Ce sont les paysans, les syndicalistes, les personnes LGBT ? Dans tous les cas, c’est également lamentable.\nNous sommes aux côtés de ce peuple, celui que Calle 13 qualifie de « peuple sans jambes, mais qui marche ». Pour cela, il faut que la France vote le 30 octobre prochain la prolongation du mandat de la mission des Nations unies en Colombie.\nJe conseille à ceux qui se trouvent à mon extrême droite d’ouvrir un bouquin sur l’histoire du continent. La situation actuelle rappelle les heures sombres de l’opération Condor, lorsque vos amis étaient au pouvoir, et la succession de coups d’État qui ont émaillé l’histoire de ce continent. Jean-Marie Le Pen applaudissait alors ces dictatures militaires.\nJ’en profite pour apporter mon soutien à notre camarade Lula, dont j’espère la victoire le 25 octobre. Je le dis au nom de La France insoumise : bora Lula ! (Applaudissements sur les bancs du groupe LFI-NFP.)\nComme toujours, des opérations sous faux drapeau ont lieu. Donald Trump invoque la lutte contre la drogue comme prétexte. C’est une blague ! Voyez ses alliées d’ultradroite : le président équatorien Noboa, dont la famille exporte de la cocaïne dans des caisses de bananes, le président salvadorien Bukele – je sais que vous l’aimez bien (L’orateur se tourne vers sa droite) – qui gouverne à coups d’accords secrets avec les chefs de gang, ou encore M. Hernández, ancien président du Honduras, condamné à quarante-cinq de prison pour trafic de drogue mais gracié en novembre 2025 par Trump et libéré pour aller porter la bonne parole néofasciste dans son pays.\nD’où l’urgence de coopérations institutionnelles fondées sur le droit international, comme ce projet de convention d’extradition dont nous discutons ce soir. La création d’un poste de magistrat à Bogotá l’an passé a déjà fluidifié les échanges judiciaires. Quelque 156 demandes d’entraide en matière pénale et 28 demandes d’extradition ont été formulées depuis dix ans, la majorité à la demande de la France. Le narcotrafic représente un tiers des demandes d’entraide. Les autres infractions relèvent de la délinquance, du blanchiment d’argent ou de la traite des êtres humains.\nJe veux aussi appeler l’attention sur l’ensemble des violations des droits humains commises par des entreprises françaises – la France est le premier employeur étranger en Colombie. Je pense à Perenco, qui a financé des unités paramilitaires d’extrême droite. Je pense à Veolia, qui déverse des polluants non traités dans des eaux normalement potables. Je pense à Teleperformance, qui espionne ses salariés en plaçant des caméras à leur domicile dans le but de les pressurer. Je pense à Casino, qui expulse des autochtones de leur terre natale. Partout dans le monde, nous avons un devoir de vigilance à l’égard des entreprises dont le siège est en France. Aujourd’hui, ce devoir n’est pas accompli. Nous travaillons, nous, avec l’univers syndical colombien pour faire respecter les droits fondamentaux de la population au travail.\nCette nouvelle convention lève cependant la principale difficulté juridique de celle de 1850, qui comportait une liste limitative d’infractions couvertes – les infractions de 2026, comme celles concernant les stupéfiants, ne sont évidemment pas celles de 1850. Elle supprime toute liste d’infractions et précise que sont champ inclut toute infraction punie d’au moins deux ans d’emprisonnement. Cela me semble pertinent, car cela inclut l’ensemble des infractions les plus graves. En outre, l’échelle des peines de la France et celle de la Colombie sont très proches, ce qui garantit une application symétrique du droit et des condamnations.\nCette nouvelle convention apporte en outre des précisions techniques bienvenues sur les délais de formalisation des demandes ou sur les obligations de traduction.\nLa convention comporte une spécificité dans son article 3 : les personnes relevant de la compétence de la juridiction spéciale pour la paix ne sont pas passibles d’une extradition si les faits sont liés au conflit armé, s’ils sont antérieurs au 1er décembre 2016 et si le prévenu respecte ses obligations judiciaires. Si jamais cette personne venait à transgresser les obligations auxquelles elle est assujettie, une levée de la protection pourrait intervenir après avis de la Cour suprême colombienne. Mais, puisque les demandes d’extradition prévues ici devraient s’appliquer aux faits commis à partir de 2017, cette stipulation ne me paraît pas constituer un obstacle à notre coopération et à la finalité de ce texte.\nLa juridiction spéciale pour la paix est la pierre angulaire de la réconciliation nationale. Elle est la composante fondamentale du Système intégral de vérité, justice, réparation et non-répétition visant les crimes commis avant les accords de paix. Il convient donc de la préserver, à un double titre : d’abord dans l’intérêt du peuple colombien, qui s’est doté souverainement d’une modalité de traitement judiciaire et de lutte contre l’impunité, mais aussi comme modèle international applicable à d’autres zones de conflit. Nous ferions bien de nous en inspirer et de le soutenir, y compris dans les enceintes onusiennes. La volonté de l’actuel président d’extrême droite de démanteler cette juridiction spéciale constitue une menace inquiétante."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 173,
+          "texte": "Le peuple colombien a librement choisi son président !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 174,
+          "texte": "Les gens ont aussi choisi que vous ayez perdu les dernières élections, donc tout le monde est content. Arrêtez trente secondes de bavasser, cela nous ferait du bien ! (Mme Sophia Chikirou applaudit.)\nPuisque l’exécutif est présent et puisque nous parlons de coopération, je voudrais protester avec force non seulement contre les pratiques d’Air France, qui, je l’ai dit, refoule un ancien président au seul motif qu’il est de gauche et qu’il a été mis sur une liste administrative états-unienne, mais aussi contre la remise en France de titres, médailles et diplômes à des tueurs patentés. Je pense aux responsables de l’extrême droite paramilitaire, notamment l’ancien président Uribe, ciblé par de nombreuses plaintes en raison de milliers d’exécutions auxquelles il est lié et de l’extermination systématique des mouvements sociaux à laquelle il a procédé. Cet homme, contre lequel la dernière plainte a été déposée en Argentine au titre de la juridiction universelle, est toujours docteur honoris causa de l’École nationale d’ingénieurs de Metz. C’est inadmissible. On trouve aussi parmi les récipiendaires de la Légion d’honneur des dirigeants militaires colombiens comme M. Freddy Padilla de León, commandant en chef des armées colombiennes lorsque se pratiquaient les « faux positifs », à savoir le meurtre de civils que l’on déguisait en guérilleros pour toucher des primes par tête. L’impunité est un problème judiciaire, mais c’est aussi un processus culturel qu’il faut interrompre.\nJe conclurai en rappelant que les stipulations de cet accord d’extradition sont conformes aux standards juridiques internationaux, s’inscrivent dans le strict respect de l’ensemble de nos exigences constitutionnelles et conventionnelles et s’articulent avec le code pénal et le code de procédure pénale.\nSi j’espère un vote unanime de cet accord, j’attends également de l’exécutif qu’il nous extraie de tout un tissu de complicités tissé en silence durant des décennies. « La honte a mauvaise mémoire », comme le disait García Márquez, mais, malheureusement pour elle, nous sommes là ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4182901",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion générale",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 179,
+          "texte": "Dans la discussion générale, la parole est à Mme Laurence Robert-Dehault."
+        },
+        {
+          "orateur": "Mme Laurence Robert-Dehault (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794442",
+          "ordre": 180,
+          "texte": "Ne nous y trompons pas, cette convention est d’un intérêt capital. La cocaïne est devenue le principal moteur de la criminalité organisée en Europe. Le trafic de la drogue évolue et s’adapte vite.\nLes réseaux sud-américains travaillent désormais directement avec les organisations criminelles européennes. Pour atteindre les organisateurs situés à l’étranger, il nous faut compter sur la coopération judiciaire internationale, et surtout sur la possibilité d’extradition.\nLe rapport de la commission d’enquête du Sénat sur l’impact du narcotrafic a dressé un état des lieux alarmant. La France figure désormais parmi les principaux pays européens de destination de la cocaïne, aux côtés de l’Espagne, de la Belgique et des Pays-Bas. Ce sont donc des Français qui sont victimes au bout de la chaîne et l’on ne peut rester les bras croisés. Il nous faut lutter contre les violences générées par les réseaux de distribution et identifier les commanditaires implantés à l’étranger.\nCette convention d’extradition entre la France et la Colombie est d’une importance cruciale. Elle permettra d’obtenir plus rapidement la remise des chefs de réseau et de renforcer la continuité des poursuites pénales entre les deux États. Nous éviterons les difficultés liées à l’ancien traité de 1850, dont les lacunes facilitaient la tâche des narcotrafiquants : il ne prévoyait même pas le trafic de stupéfiants parmi les infractions pouvant donner lieu à extradition ! Pourtant, près de la moitié des démarches sont engagées sur ce motif et le narcotrafic est l’une des principales formes du crime organisé.\nDésormais, ces lacunes seront comblées. Rien ne doit profiter aux criminels ni leur faciliter la tâche. Tout devra être déployé pour lutter contre le trafic qui ravage la vie des plus faibles, esclavagise et assassine. La cocaïne qui inonde nos quartiers, qui ravage nos jeunes, qui corrompt parfois les autorités, vient d’abord de Colombie. En 2024, 53 tonnes ont été saisies sur notre sol, un record absolu. En 2023, on estimait à 72 % la part de la Colombie dans la production mondiale de cocaïne. Elle aurait produit 2 664 tonnes, en hausse de 53 % sur un an – une estimation colossale !\nLa présente convention remplacera l’ancien système par un régime fondé sur un seuil minimal de peine. Elle s’appliquera aux infractions punies d’au moins deux ans d’emprisonnement dans chacun des deux pays. Elle concernera les réseaux internationaux de trafic de cocaïne, mais aussi le blanchiment d’argent, les organisations criminelles transnationales et les infractions économiques, financières et environnementales liées à ces réseaux. En tant que pays libre et fidèle aux valeurs du droit international, la France prend à cœur le refus d’extradition pour les infractions politiques ou lorsqu’il existe un risque de persécution ou de discrimination.\nMais nous ne sommes pas dupes. En commission, M. le rapporteur a voulu présenter l’ancien président colombien Gustavo Petro en champion de la lutte antidrogue au seul motif qu’il est de gauche."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 187,
+          "texte": "Pas seulement."
+        },
+        {
+          "orateur": "Mme Laurence Robert-Dehault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794442",
+          "ordre": 188,
+          "texte": "Pourtant, son fils a admis devant la justice colombienne que la campagne de 2022 avait reçu de l’argent d’un narcotrafiquant condamné aux États-Unis. Le 24 octobre 2025, le Trésor américain a inscrit Gustave Petro sur la liste de personnes sanctionnées pour leur rôle dans le trafic de stupéfiants, avec son épouse, son fils et son ministre de l’intérieur. En mars dernier, son nom est apparu dans deux enquêtes des procureurs fédéraux de New York, relayées par le New York Times.\nNous espérons que la fermeté affichée du gouvernement du nouveau président colombien, chargé d’appliquer la nouvelle convention, se traduira en actes. Il est temps de remplacer la convention de 1850 par un texte adapté à notre siècle. C’est pourquoi nous voterons en faveur de la présente convention, qui ne doit pas rester une déclaration d’intention ou un symbole, mais être un outil judiciaire dont nous attendrons les conséquences. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 190,
+          "texte": "La parole est à M. Benoît Larrouquis."
+        },
+        {
+          "orateur": "M. Benoît Larrouquis (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795334",
+          "ordre": 191,
+          "texte": "En 1850, lorsque la France et la Colombie ont signé leur traité d’extradition, le mot « cocaïne » n’existait pas encore. Pourtant, c’est encore avec ce texte vieux de 176 ans que nous poursuivons les narcotrafiquants.\nJe m’exprime à cette tribune, mais je porte aussi la voix d’une circonscription qui s’étend du rio Grande à la Terre de Feu, celle des Français établis en Amérique latine et dans les Caraïbes. En février dernier, alors que le Sénat adoptait ce texte, j’étais à Bogotá, auprès de notre ambassade et de nos compatriotes.\nNotre coopération est déjà concrète : depuis la Martinique, nos forces armées patrouillent en mer des Caraïbes aux côtés de la marine colombienne. Nous ne nous contentons pas d’échanger des informations ; la Colombie est un pays ami, avec lequel nous agissons. Cependant, il nous manquait un outil judiciaire à la hauteur de notre coopération.\nL’enjeu est de taille, puisque la Colombie est le premier producteur mondial de cocaïne, avec 253 000 hectares de champs de coca capables de produire plus de 2 600 tonnes en 2023. La Colombie est un pays meurtri, mais ce trafic se paie aussi en vies humaines en France, avec 110 morts et 341 blessés en 2024. Devenu l’une des premières menaces pour notre sécurité intérieure, il ne se limite plus aux grands ports, mais gagne les villes moyennes, dans l’Hexagone comme dans les outre-mer.\nFace à la menace, la nation s’est armée. La loi du 13 juin 2025, fruit d’un travail transpartisan, a créé un parquet national anti-criminalité organisée, à l’œuvre depuis le 5 janvier, pour poursuivre ceux qui tirent les ficelles. Cependant, il faut pouvoir aller les chercher pour les juger, même quand ils ne vivent pas sur notre sol. Or le texte de 1850 ignore le trafic de stupéfiants, alors que quinze de nos vingt-cinq demandes d’extradition adressées à la Colombie depuis 2014 portent sur ces faits. Lorsqu’un trafiquant est arrêté à notre demande, nos magistrats n’ont que cinq jours pour produire un dossier complet, traduit, transmis par voie diplomatique. La brièveté de ce délai est une chance offerte aux trafiquants d’échapper à notre justice.\nLa convention que nous examinons y met fin. Toute infraction punie d’au moins deux ans de prison dans les deux pays pourra donner lieu à extradition. Les infractions fiscales, douanières et de change sont couvertes, afin de frapper le crime au portefeuille. Nos magistrats disposeront de soixante jours pour bâtir un dossier solide. Mieux encore, la Colombie a elle-même demandé à pouvoir nous remettre ses ressortissants, lorsqu’ils organisent leur trafic sur notre sol, pour qu’ils soient jugés en France.\nÀ ceux qui attendent de la fermeté, je dis que ce texte est le prolongement naturel, au-delà de nos frontières, de la loi contre le narcotrafic, car la sécurité de nos rues se joue aussi à Bogotá. Démanteler une filière à sa source, c’est frapper les points de deal qu’elle alimente et la violence qu’elle sème sur notre territoire. À ceux qui attendent des garanties, je dis que nos principes ne sont nullement remis en cause par cette fermeté. Les droits de la défense restent la condition de toute remise et il n’y aura pas d’extradition vers la peine de mort, la torture ou la disparition forcée. Nos ressortissants continueront de relever de nos propres juges. À ceux qui seraient tentés de juger un gouvernement plutôt qu’un texte, je veux dire qu’à Bogotá comme à Paris, les gouvernements se succèdent, les trafiquants restent. Cette convention engage nos deux pays, quels que soient ceux qui les dirigent. Sur ce sujet, c’est l’État de droit face au réseau criminel. Face aux narcotrafiquants, il n’y a qu’un camp, celui de la République, et il ne reculera pas. Ce réseau se jouant des frontières, notre justice doit les franchir aussi.\nAvec ce texte, le message est clair : aucune impunité, aucun refuge, ni en France ni en Colombie. C’est pourquoi le groupe Ensemble pour la République votera en faveur de ce projet de loi."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 199,
+          "texte": "La parole est à Mme Sophia Chikirou."
+        },
+        {
+          "orateur": "Mme Sophia Chikirou (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 200,
+          "texte": "Il a fallu près de vingt ans de négociations bilatérales pour que cette convention arrive devant notre assemblée. Ce n’est pas un hasard si elle a été signée sous la présidence du premier président de gauche de ces dernières années, Gustavo Petro, le 11 novembre 2024. Pour le plus grand malheur des Colombiens, les présidents Uribe, Duque, et maintenant Abelardo de la Espriella, ont tous combattu la justice née de l’accord de paix, parce qu’elle juge aussi les crimes de l’armée et des paramilitaires. La convention que la France a signée pour élargir la coopération judiciaire au trafic de stupéfiants, au blanchiment, aux infractions fiscales et environnementales – car la Colombie n’est pas que le pays de la cocaïne, c’est aussi le pays de la beauté – doit servir à poursuivre aussi les financiers du crime qui s’enrichissent à l’abri des banques et des sociétés écrans.\nSurtout, l’article 3 de cette convention, aujourd’hui en danger, protège de l’extradition les personnes auxquelles la juridiction spéciale pour la paix – le tribunal créé par l’accord de paix – reconnaît cette garantie. Pour les faits liés au conflit antérieurs au 1er décembre 2016, la protection repose sur le respect de leurs obligations devant la justice traditionnelle. C’est l’engagement pris envers ceux qui ont rendu les armes, contribué à la vérité et à la réparation, sans être livrés à une justice étrangère pour les mêmes faits. Déchirer cet engagement, c’est détruire la confiance qui permet de sortir de la guerre. Cette juridiction poursuit les crimes des anciens guérilleros comme ceux de l’armée. Elle a recensé au moins 6 402 civils tués, faussement présentés comme des guérrilleros morts au combat, entre 2002 et 2008 ; ce sont les fameux « faux positifs ». Voilà la vérité que certains veulent faire disparaître. En 2025, 169 militaires étaient mis en cause comme hauts responsables, contre seulement 75 anciens membres des Forces armées révolutionnaires de Colombie (Farc). Les responsables des disparitions, des enlèvements et des meurtres étaient donc deux fois plus nombreux chez les militaires que chez les Farc. Cette justice doit établir toutes les responsabilités.\nEn 2008 déjà, Álvaro Uribe avait extradé quatorze chefs paramilitaires vers les États-Unis pour empêcher les révélations qu’ils faisaient sur les liens entre leurs crimes et les responsables politiques. La lutte contre le narcotrafic ne doit jamais servir à enterrer la vérité. Or, depuis le 7 août, la Colombie est présidée par Abelardo de la Espriella, soutenu par Trump, ancien avocat d’Alex Saab et d’élus qui sont tous poursuivis pour leurs liens avec les paramilitaires. C’est un président d’extrême droite aux ordres de Washington, qui n’a été élu qu’avec 250 000 voix d’avance. Il promettait déjà de supprimer la juridiction de paix d’un trait de plume, et il soutient maintenant les coupes budgétaires qui vont empêcher son fonctionnement.\nMadame la ministre, que ferez-vous pour défendre cette juridiction ? Comment garantirez-vous l’application de l’article 3 si elle est asphyxiée et démantelée ? Pouvez-vous prendre des engagements devant nous ? Notre vote en faveur du texte ne témoigne en rien d’un soutien au gouvernement en place. Aucune demande visant à persécuter un opposant politique ne doit être exécutée. D’ailleurs, la convention l’interdit. Cela vaut pour les plus de 2 000 Colombiens réfugiés ou protégés en France, que les services d’Álvaro Uribe sont déjà venus espionner et harceler sur notre sol.\nJ’ai une autre question à vous poser, madame la ministre. Air France, dont l’État est le premier actionnaire, a refusé de délivrer des billets d’avion à Gustavo Petro, avec qui vous avez signé cette convention, parce qu’il est inscrit sur la liste des sanctions du Trésor américain. Face à cela, que dites-vous ? Comment agissez-vous auprès d’Air France pour que cela n’arrive plus et pour garantir la liberté de circulation de M. Gustavo Petro ?\nEn Colombie, s’opposer peut encore coûter la vie. Les assassinats de militants continuent. Pendant la campagne, le 20 juin, un enseignant syndicaliste, Geovanny López Heredia, a été assassiné. Depuis l’élection, César Augusto Serna, militant du Pacto Histórico a été tué le 22 juillet, le syndicaliste Wilber Ferney Martinez Sana le 13 août et Ernesto Gómez, responsable communautaire, le 5 septembre. Selon l’Institut d’études pour le développement et pour la paix colombien (Indepaz), seize responsables sociaux et cinq anciens combattants signataires de la paix ont été assassinés durant le premier mois du nouveau gouvernement. Les familles ont droit à la vérité et à la justice. Aujourd’hui, à New York, le Conseil de sécurité a examiné la situation colombienne : quelle a été la position de la France ?\nJe veux dire à tous les Colombiens qui ont voté pour la paix : ne renoncez pas ! Vous n’êtes pas seuls, votre combat est aussi le nôtre. La France est à vos côtés. Vive la Colombie humaine ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 207,
+          "texte": "La parole est à M. Alain David."
+        },
+        {
+          "orateur": "M. Alain David (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA1008",
+          "ordre": 208,
+          "texte": "La France et la Colombie entretiennent des relations anciennes et profondes. Notre pays est le premier employeur étranger en Colombie avec 113 000 emplois directs et 275 filiales françaises implantées localement. Nous accompagnons également, depuis de nombreuses années, le processus de paix engagé en 2016 avec les Farc et poursuivi sous la présidence de Gustavo Petro. C’est dans cet esprit de coopération que nous avions abordé, en mai dernier, l’examen de cette nouvelle convention d’extradition en commission des affaires étrangères. Nous avions alors exprimé notre soutien à ce texte tout en faisant part de nos réserves liées à la situation politique et sécuritaire fragile du pays.\nCette convention vise à moderniser le cadre juridique qui remonte à 1850, devenu inadapté aux réalités de la criminalité organisée. Face à la puissance des cartels et au développement du narcotrafic, la coopération judiciaire internationale est indispensable. Cependant, nous avions aussi rappelé que les violences des groupes armés et l’influence des cartels fragilise les institutions et entrave l’action de la justice, et nous avions insisté sur la nécessité de préserver la juridiction spéciale pour la paix, créée par l’accord de 2016.\nDepuis l’examen du projet de loi en commission, la situation politique colombienne a profondément changé. Le 21 juin dernier, Abelardo de la Espriella a remporté l’élection présidentielle, portant l’extrême droite au pouvoir.\nCette alternance intervient dans un contexte régional particulièrement préoccupant. De l’Argentine au Salvador, nous assistons à la progression de forces nationalistes et autoritaires qui remettent en cause les contre-pouvoirs démocratiques et les droits fondamentaux. Au Brésil, l’arrivée en tête de l’extrême droite au premier tour de l’élection présidentielle constitue un signal d’alarme supplémentaire. Cette évolution s’accompagne d’un retour des logiques d’ingérence, notamment américaines, qui fragilisent les équilibres démocratiques de la région.\nPour nous, socialistes, cette montée des extrêmes droites constitue un sujet majeur d’inquiétude. La démocratie ne se résume pas à la tenue d’élections : elle repose aussi sur l’indépendance de la justice et le respect des droits fondamentaux.\nEn Colombie, ces inquiétudes prennent une dimension très concrète. Le nouveau président a notamment défendu la remise en cause de la juridiction spéciale pour la paix. Créée dans le cadre de l’accord de 2016, cette juridiction joue un rôle essentiel dans la reconnaissance des victimes et le jugement des crimes commis durant le conflit armé. Elle est expressément reconnue par la convention que nous examinons aujourd’hui. Sa remise en cause fait donc peser de sérieuses incertitudes sur l’application effective des garanties prévues par ce texte. Comment pouvons-nous renforcer notre coopération judiciaire sans avoir l’assurance que ces garanties seront pleinement respectées ?\nUne extradition n’est jamais un simple acte de coopération administrative, mais une décision qui engage directement la liberté et les droits fondamentaux des personnes concernées. Nous ne pouvons ignorer les risques de détournement des procédures judiciaires à des fins politiques, ni ceux qui pourraient peser sur le droit à un procès équitable. Nous ne pouvons accepter que notre pays prenne le risque de contribuer, même indirectement, à des violations des droits humains.\nNous demeurons attachés aux relations entre la France et la Colombie, à la poursuite de notre coopération et au soutien des forces démocratiques et de la société civile colombiennes. Mais les orientations prises par le nouveau pouvoir suscitent de profondes inquiétudes. La coopération judiciaire suppose la confiance dans les institutions et dans les garanties offertes aux personnes concernées, or nous ne sommes plus en mesure de l’accorder au nouveau pouvoir colombien. Notre attachement à la justice, à l’État de droit et aux droits humains nous impose de ne pas transiger sur ces principes.\nPour l’ensemble de ces raisons, le groupe Socialistes et apparentés votera contre ce projet de loi. (Applaudissements sur les bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 217,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 218,
+          "texte": "La parole est à Mme Frédérique Meunier."
+        },
+        {
+          "orateur": "Mme Frédérique Meunier (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719272",
+          "ordre": 219,
+          "texte": "La lutte contre la criminalité organisée constitue un défi majeur pour nos démocraties. Le narcotrafic, les réseaux criminels internationaux, les infractions financières et les trafics en tous genres ne connaissent ni frontières ni limites géographiques. Face à ces menaces, notre responsabilité est claire : nous devons donner à notre justice les moyens de poursuivre les criminels, où qu’ils se trouvent, et empêcher que les frontières ne deviennent des refuges pour ceux qui cherchent à échapper à leurs responsabilités. C’est tout le sens de ce projet de loi autorisant l’approbation de la convention d’extradition entre la France et la Colombie.\nLa convention qui nous lie à la Colombie en matière d’extradition remonte à 1850. Elle appartient à un autre siècle, à une époque où les formes de criminalité internationale n’avaient évidemment ni l’ampleur ni la complexité que nous leur connaissons. Depuis, les réseaux criminels se sont internationalisés. Le trafic de stupéfiants, les associations de malfaiteurs et la criminalité économique et financière nécessitent une coopération judiciaire plus rapide, plus efficace et mieux adaptée aux réalités contemporaines.\nLes difficultés rencontrées dans le traitement des demandes d’extradition illustrent la nécessité de revoir notre convention. Depuis 2014, la France a notamment présenté vingt-cinq demandes aux autorités colombiennes concernant des faits de trafic de stupéfiants et d’association de malfaiteurs. Mais la convention de 1850 en vigueur, qui prévoit une liste d’infractions permettant l’extradition, n’inclut pas l’infraction de trafic de stupéfiants. On mesure donc la difficulté.\nLa Colombie demeure l’un des principaux pôles mondiaux de production et d’expédition de cocaïne. La France, comme les autres pays européens, est exposée aux flux issus d’Amérique du Sud, acheminés par des routes maritimes et des réseaux criminels internationaux toujours plus inventifs. L’ampleur du phénomène se mesure aux 31 tonnes de cocaïne saisies par la douane française en 2025, même s’il est complexe, voire impossible, de déterminer le pourcentage de cocaïne provenant de Colombie, tant les réseaux sont imbriqués et organisés.\nNous ne pouvons pas nous satisfaire d’un cadre juridique devenu inadapté. La coopération entre États doit être à la hauteur des moyens dont disposent les organisations criminelles. La nouvelle convention répond précisément à cet impératif. Elle élargit le champ des infractions susceptibles de donner lieu à extradition en remplaçant une liste limitative par un seuil de peine encourue. Elle inclut également explicitement certaines infractions fiscales, douanières et financières. Elle prévoit des procédures encadrées pour la transmission des demandes, l’arrestation provisoire et la remise des personnes recherchées. Autant de dispositions qui doivent permettre de fluidifier la coopération entre nos autorités judiciaires et de réduire les obstacles administratifs inutiles. C’est une avancée concrète : lorsque la justice française recherche une personne afin de la poursuivre ou de lui faire exécuter une peine, elle doit pouvoir s’appuyer sur des instruments juridiques modernes et opérationnels.\nNotre soutien à cette convention ne signifie pas que nous ignorons les difficultés auxquelles la Colombie reste confrontée, notamment face au narcotrafic et aux groupes armés. Mais la Colombie demeure un partenaire important de la France. Notre relation repose sur des liens politiques, économiques, scientifiques et sécuritaires anciens. Elle comprend déjà une coopération judiciaire et un travail commun en matière de lutte contre les stupéfiants, notamment à travers le ministère de l’intérieur et le centre interministériel de formation antidrogue. Cette convention vient donc compléter et renforcer un partenariat qui doit produire des résultats tangibles dans la lutte contre la criminalité transnationale.\nL’extradition doit évidemment s’inscrire dans le respect de l’État de droit et des libertés fondamentales. Le texte prévoit des motifs de refus, notamment lorsque la demande poursuit un objectif politique, lorsque les garanties fondamentales de procédure et les droits de la défense ne sont pas assurés, ou lorsque la personne risque la peine de mort ou des traitements contraires à l’ordre public de l’État requis. Ces garanties sont essentielles. Elles rappellent que la coopération judiciaire ne peut être efficace et légitime que si elle repose sur la confiance, la réciprocité et le respect des droits fondamentaux.\nParce que la sécurité de nos concitoyens exige des actes, parce que la lutte contre le narcotrafic dans laquelle notre pays est pleinement engagé appelle une coopération internationale renforcée et parce que l’État de droit doit demeurer notre boussole, le groupe Droite républicaine votera en faveur de ce projet de loi."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 227,
+          "texte": "La parole est à Mme Christine Arrighi."
+        },
+        {
+          "orateur": "Mme Christine Arrighi (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "ordre": 228,
+          "texte": "Je veux commencer par rappeler une évidence : la Colombie est un pays ami. C’est précisément parce qu’elle est un pays ami que nous ne pouvons fermer les yeux sur ce qui s’y passe. Il y a dix ans, la signature des accords de paix avec les Farc ouvrait l’espoir de mettre fin à plus d’un demi-siècle de guerre civile. Cet espoir reste fragile. Depuis 2016, plus de 1 700 responsables syndicaux, associatifs ou communautaires et plus de 500 anciens combattants démobilisés ont été assassinés.\nDepuis le 7 août dernier, la Colombie a pris un tournant particulièrement inquiétant. Le nouveau président d’extrême droite a fait de la répression le cœur de son programme : construction de dix mégaprisons, militarisation de la sécurité, libéralisation du port d’armes, suspension des négociations avec les groupes armés : telle est sa conception de la paix. Son gouvernement envisage désormais d’enfermer les détenus les plus dangereux sur des navires-prisons en pleine mer. Nous sommes en pleine dystopie !\nMais le plus grave est ailleurs. Le 21 septembre dernier, Ricardo Martínez Rodríguez, 18 ans, a été tué lors d’une opération contre un groupe armé dans la Sierra Nevada de Santa Marta. Le président colombien s’est fait filmer au milieu de sept cadavres, félicitant les forces de sécurité pour leur opération contre de présumés terroristes. Cependant, la famille de Ricardo affirme qu’il n’était pas un combattant, mais un jeune ouvrier agricole venu travailler dans une exploitation d’élevage. Sa mère demande que la vérité soit établie.\nCette affaire n’est pas isolée. Selon les informations rapportées par la presse, le bureau des droits humains des Nations unies a été saisi de dix-huit affaires de possibles exécutions extrajudiciaires depuis le début de l’année, dont six depuis l’arrivée au pouvoir du nouveau président.\nC’est d’autant plus préoccupant que la Colombie a déjà connu cette tragédie. Dans les années 2000, des milliers de civils ont été assassinés par des militaires, puis présentés comme des guérilleros tués au combat. C’était le scandale des « faux positifs » : des innocents transformés en ennemis abattus pour améliorer les statistiques de la lutte contre la guérilla. Quand un gouvernement commence à mesurer ses victoires au nombre de cadavres, il est urgent de lui rappeler les principes de l’État de droit.\nC’est dans ce contexte que vous nous demandez d’approuver une convention d’extradition. Soyons clairs, nous ne contestons pas la nécessité de renforcer la coopération judiciaire avec la Colombie. La convention actuelle date de 1850 et ne permet pas de répondre convenablement aux enjeux contemporains du narcotrafic, du blanchiment ou de la criminalité organisée. Nous reconnaissons également que le nouveau texte comporte des garanties importantes : interdiction des extraditions à caractère politique ou discriminatoire, protection contre certaines atteintes aux droits fondamentaux, respect des compétences de la juridiction spéciale pour la paix.\nToutefois, une question demeure. Que valent ces garanties lorsqu’un gouvernement commence à fragiliser les institutions chargées de faire respecter la paix et que ses forces de sécurité sont de nouveau mises en cause dans la mort de civils ? Une convention d’extradition n’est pas un simple échange de documents administratifs. C’est un engagement de confiance entre deux États. Il s’agit d’accepter, sous certaines conditions, de remettre une personne à la justice d’un autre pays. Cette confiance ne peut pas être aveugle. Nous ne prétendons pas que toutes les demandes d’extradition colombiennes seraient abusives, mais nous refusons de faire comme si le changement politique intervenu depuis sa signature n’avait aucune conséquence. (M. Pierre Pribetich applaudit.)\n \nMadame la ministre, quelles garanties supplémentaires entendez-vous obtenir des nouvelles autorités colombiennes ? Comment la France s’assurera-t-elle de l’indépendance des procédures judiciaires et de la protection effective des personnes remises ? Surtout, pourquoi faudrait-il approuver cette convention aujourd’hui, sans attendre que les orientations du nouveau gouvernement et leurs conséquences sur les droits fondamentaux soient pleinement évaluées ?\nNous voulons une coopération renforcée avec la Colombie pour mieux lutter contre les narcotrafiquants et contre les organisations criminelles. Mais nous voulons aussi protéger les défenseurs des droits humains, soutenir la justice transitionnelle et préserver l’héritage des accords de paix de 2016.\nFaute de réponses à nos questions et dans l’attente d’obtenir des assurances supplémentaires sur l’indépendance de la justice et les conditions de détention, le groupe Écologiste et social votera contre l’approbation de cette convention à ce stade. (Applaudissements sur les bancs des groupes EcoS et SOC.) Non pas contre la Colombie ni contre la coopération judiciaire, mais parce que nous ne pouvons pas fermer les yeux devant les exactions commises par ce nouveau gouvernement d’extrême droite qui veut s’affranchir de l’État de droit. (Applaudissements sur les bancs des groupes EcoS et SOC.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 238,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 239,
+          "texte": "La parole est à M. Frantz Gumbs."
+        },
+        {
+          "orateur": "M. Frantz Gumbs (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795258",
+          "ordre": 240,
+          "texte": "Il y a quelque chose d’assez singulier à constater que nos relations judiciaires avec la Colombie reposent encore, pour partie, sur une convention signée en 1850. En plus d’un siècle et demi, la Colombie a changé, la France également, et les relations entre nos deux pays se sont développées. Surtout, les formes de criminalité auxquelles nous sommes confrontés n’ont plus grand-chose à voir avec celles du XIXe siècle. C’est particulièrement vrai du narcotrafic, dont les réseaux disposent de moyens financiers, logistiques et humains considérables, et dont les ramifications s’étendent bien au-delà des pays producteurs, en premier lieu sur nos territoires ultramarins de la Caraïbe.\nLa France en mesure désormais les conséquences sur son propre sol, jusque dans les villes et les territoires longtemps préservés de ces violences. Il serait donc paradoxal de prétendre lutter plus efficacement contre ces organisations tout en conservant dans nos relations avec un partenaire aussi important que la Colombie des instruments juridiques conçus il y a cent soixante-seize ans.\nC’est précisément l’objet de la convention d’extradition signée le 11 novembre 2024, dont nous examinons ce soir le projet de loi d’approbation. Le nouvel accord apporte une modernisation absolument nécessaire. En élargissant le champ des infractions susceptibles de donner lieu à extradition, il permettra de mieux appréhender les différentes formes de criminalité contemporaine. Il modernise également les procédures en clarifiant les modalités de transmission des demandes et les documents exigés et en encadrant les délais. Il prévoit notamment la présentation d’une demande formelle d’extradition dans les soixante jours suivant une arrestation provisoire. Ces dispositions doivent permettre une coopération plus prévisible et plus efficace entre nos deux systèmes judiciaires.\nLa lutte contre le narcotrafic ne peut pas se limiter à l’interpellation des exécutants. Elle suppose de pouvoir poursuivre les organisateurs de ces réseaux, d’établir les responsabilités et d’empêcher que le franchissement d’une frontière ne permette d’échapper à la justice. À cet égard, la coopération avec les autorités colombiennes constitue un enjeu important pour la France.\nMais nous devons également rappeler une exigence essentielle : l’efficacité de la justice ne saurait être recherchée au détriment de ses principes. C’est là un autre mérite de cette convention : elle préserve les garanties fondamentales attachées à toute procédure d’extradition. L’extradition devra notamment être refusée lorsqu’elle poursuit un objectif de persécution politique ou un objectif discriminatoire, ou lorsqu’elle concerne des infractions considérées comme politiques.\nLe texte maintient également la possibilité pour chaque État de refuser l’extradition de ses propres ressortissants. Il préserve pour la Colombie les garanties particulières issues du processus de paix de 2016. Il consacre enfin le principe de la spécialité, qui interdit, sauf exception encadrée, de poursuivre une personne extradée pour des faits antérieurs autres que ceux ayant justifié sa remise. Il ne s’agit donc pas simplement de faciliter les extraditions, il s’agit de les rendre juridiquement plus sûres pour les États comme pour les personnes concernées.\nMes chers collègues, nous savons qu’une convention internationale ne suffira pas à elle seule à faire reculer le narcotrafic – ce serait lui prêter une portée qu’elle n’a pas –, mais elle constitue un instrument supplémentaire pour que les autorités judiciaires de nos deux pays puissent agir plus efficacement. C’est pourquoi le groupe Les Démocrates votera en faveur de ce projet de loi et vous invite à en faire de même. (Applaudissements sur les bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 247,
+          "texte": "La parole est à M. Bertrand Bouyx."
+        },
+        {
+          "orateur": "M. Bertrand Bouyx (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719032",
+          "ordre": 248,
+          "texte": "Les réseaux criminels sont toujours plus mobiles, violents et sophistiqués. Avec la Colombie comme avec les autres pays, nous devons prendre pleinement conscience des défis sécuritaires contemporains et armer concrètement notre justice. C’est l’objet fondamental de la convention visée par le projet de loi que nous examinons ce soir.\nLa France entretient avec la Colombie une relation bilatérale ancienne et dense, scellée dès 1850. Nos liens économiques sont puissants : la France est le premier employeur étranger dans ce pays, et notre soutien constant au processus de paix historique entamé en 2016 témoigne de notre solidarité indéfectible.\nPourtant, sur le plan de la coopération judiciaire, nous étions jusqu’alors entravés par un anachronisme béant : notre traité d’extradition en vigueur datait de 1850. Conclu sous la IIe République avec ce qui s’appelait alors la République de Nouvelle-Grenade, ce texte reposait sur une liste fermée d’infractions d’un autre siècle. Sa plus grave lacune, devenue insoutenable, était l’absence totale du trafic de stupéfiants dans la liste.\nComment accepter que notre principal outil de coopération avec le premier pays producteur mondial de cocaïne ignore précisément le narcotrafic ? La Colombie fait face avec courage à une criminalité liée à la cocaïne, dont les cultures s’étendaient en 2023 sur plus de 253 000 hectares, pour une production potentielle de 2 600 tonnes.\nCette réalité lointaine frappe directement nos territoires : en France, les saisies de cocaïne ont été multipliées par cinq en dix ans, atteignant le chiffre vertigineux de 28 tonnes en 2022. Les réseaux transnationaux alimentent un marché européen estimé entre 7 et 10 milliards d’euros par an. Derrière ces chiffres se cachent des vies brisées, une jeunesse empoisonnée et une criminalité qui menace notre territoire. Face à ce fléau, le sursaut est indispensable. Si l’installation d’un magistrat de liaison à Bogota en mai 2025 a constitué un progrès réel, il nous manquait la clé de voûte juridique. Grâce à cette nouvelle convention, nous en disposons désormais.\nElle apporte trois avancées décisives, que notre groupe salue. Premièrement, elle modernise radicalement le champ des infractions. En substituant à la liste rigide de 1850 un critère moderne de seuil de peine, fixé à deux ans d’emprisonnement minimum, elle englobe enfin le trafic de stupéfiants, mais également le blanchiment, les infractions économiques, financières, fiscales et douanières. C’est l’outil indispensable pour frapper les organisations criminelles là où cela fait mal, à savoir au portefeuille et à la tête des réseaux."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "ordre": 254,
+          "texte": "Vous pouvez faire confiance à ce nouveau pouvoir !"
+        },
+        {
+          "orateur": "M. Bertrand Bouyx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719032",
+          "ordre": 255,
+          "texte": "Deuxièmement, elle accélère et sécurise les procédures. Jusqu’à présent, nos demandes d’extradition – la France en avait formulé vingt-cinq ces dix dernières années – s’enlisaient dans des démarches interminables. Le nouveau texte clarifie le recours à la voie diplomatique, dispense les pièces de toute formalité de légalisation et encadre l’arrestation provisoire dans un délai strict de soixante jours. C’est la fin de l’impunité par enlisement administratif.\nTroisièmement, ce texte concilie efficacité et respect absolu de nos principes fondamentaux. L’extradition sera rigoureusement refusée si la personne risque la peine de mort, la réclusion à perpétuité ou des traitements inhumains et dégradants."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "ordre": 257,
+          "texte": "Ah oui ?"
+        },
+        {
+          "orateur": "M. Bertrand Bouyx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719032",
+          "ordre": 258,
+          "texte": "De plus, une clause protège explicitement les compétences de la juridiction spéciale pour la paix en Colombie, respectant ainsi les équilibres délicats de la réconciliation nationale colombienne.\nMes chers collègues, ratifier cette convention, ce n’est pas seulement moderniser un texte, c’est donner à nos magistrats et à nos forces de l’ordre les outils juridiques pour atteindre les donneurs d’ordre qui se croient à l’abri derrière les frontières. Le groupe Horizons & indépendants soutient pleinement cette ambition de fermeté et de clarté juridique. C’est pourquoi nous voterons avec conviction en faveur de ce projet de loi. (Applaudissements sur les bancs des groupes HOR et DR.)"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "ordre": 260,
+          "texte": "Quelle méconnaissance !"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 261,
+          "texte": "La parole est à M. Michel Castellani."
+        },
+        {
+          "orateur": "M. Michel Castellani (LIOT)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719138",
+          "ordre": 262,
+          "texte": "La convention d’extradition qui nous est soumise ce soir vient remplacer un cadre juridique vieux de plus de 175 ans – il a été conclu en 1850 entre la France et la Colombie. Ce texte, hérité du XIXe siècle et fondé sur une liste limitative d’infractions, est inadapté aux formes contemporaines de criminalité. En particulier, il ne permet pas de répondre pleinement au problème majeur que représente le trafic de stupéfiants.\nAprès près de vingt ans de négociations, la France et la Colombie ont signé le 11 novembre 2024 une nouvelle convention destinée à moderniser et à sécuriser leur coopération judiciaire. C’est cette convention que nous sommes appelés à approuver ce soir.\nCette modernisation est nécessaire car elle répond à une réalité que nous ne pouvons plus ignorer : celle d’une criminalité organisée, mondialisée, structurée et de plus en plus violente. Le narcotrafic n’est plus un phénomène périphérique, il constitue désormais une menace majeure pour la sécurité intérieure, la cohésion sociale et même l’économie. Les réseaux criminels organisent leur activité à l’échelle internationale entre pays de production, de transit et de consommation. Ils exploitent les frontières et les différences entre les systèmes judiciaires pour échapper aux poursuites.\nEn France, les saisies de cocaïne ont atteint plus de 53 tonnes en 2024, soit une hausse de 130 % en un an. Ces chiffres témoignent de l’ampleur du phénomène et de la nécessité de renforcer nos moyens d’action. Face à des réseaux transnationaux, une réponse strictement nationale ne suffit pas. L’action doit être coordonnée, opérationnelle et juridiquement efficace.\nCette exigence concerne particulièrement certains de nos territoires : la Guyane et les Antilles françaises se trouvent en première ligne en raison de leur proximité avec les grandes routes du trafic de stupéfiants en provenance d’Amérique du Sud. Ces territoires constituent à la fois des zones de transit et des points d’entrée vers le marché européen et sont directement confrontés aux enjeux de sécurité, de démantèlement des filières et de protection des populations. Il ne s’agit pas d’assimiler des situations géographiques différentes, mais de rappeler une exigence commune : aucun territoire ne doit être laissé seul face à des réseaux criminels qui, eux, ne connaissent pas de frontières.\nDans la lutte contre ces derniers, nous devons en revanche tenir compte des réalités propres à chaque territoire, y compris le mien, la Corse : en raison de son insularité et de sa dépendance aux liaisons avec le continent, elle présente des enjeux particuliers en matière de contrôle des flux et de lutte contre les réseaux criminels. Des progrès ont certes été accomplis dans ces domaines ; nous souhaitons qu’ils soient poursuivis.\nEn toute hypothèse, le renforcement de la coopération judiciaire avec la Colombie revêt une dimension stratégique directe pour la France. Concrètement, la nouvelle convention élargit le champ des infractions susceptibles de donner lieu à extradition, selon un critère de gravité. Elle vise également à fluidifier les procédures, à réduire les délais et à sécuriser juridiquement les échanges entre les autorités des deux pays. L’objectif est clair : permettre à la justice d’atteindre les responsables des organisations criminelles, y compris lorsque ceux-ci se trouvent hors de notre territoire.\nNous souhaitons vivement que la justice connaisse des succès, mais également que cette efficacité accrue s’exerce dans le respect des principes fondamentaux. Nous approuvons donc le fait que la convention prévoie des garanties en matière de droits fondamentaux, des mécanismes de contrôle juridictionnel et des motifs de refus encadrés. Nous devons être fermes face à la criminalité organisée sans jamais renoncer aux exigences de l’État de droit. C’est cet équilibre entre efficacité de la justice et protection des droits de la personne qui doit guider notre coopération internationale.\nPour l’ensemble de ces raisons, le groupe LIOT soutiendra ce projet de loi, qui constitue une avancée utile et nécessaire dans la lutte contre la criminalité transnationale et le renforcement de la coopération judiciaire entre la France et la Colombie."
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794354",
+          "ordre": 271,
+          "texte": "La parole est à M. Antoine Valentin."
+        },
+        {
+          "orateur": "M. Antoine Valentin (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA878242",
+          "ordre": 272,
+          "texte": "Le 19 juin 1991, Pablo Escobar s’est rendu à la justice colombienne. Ce même jour, l’Assemblée constituante a voté contre l’extradition des Colombiens nés dans le pays. Ce n’était certainement pas un hasard. Les extradables ont mené leur guerre sur cette question. Leur slogan était simple : plutôt une tombe en Colombie qu’être enfermé ailleurs. Pour cela, un ministre de la justice et un candidat à la présidentielle ont été assassinés. Des centaines de policiers, des juges et des journalistes ont connu le même sort. Il a fallu attendre 1997 pour que l’extradition soit enfin rétablie en Colombie.\nCette histoire nous apprend une leçon simple : l’extradition est l’arme que les trafiquants craignent certainement le plus. Mais entre la France et la Colombie, elle dépend encore d’un accord signé à Bogotá le 9 avril 1850 avec un État qui n’existe plus, la République de Nouvelle-Grenade. Ce texte ne comprend évidemment rien au sujet du trafic de drogue moderne ou du blanchiment d’argent. Cela suffit largement à justifier notre vote en faveur de ce projet de loi.\nLa Colombie reste le plus grand producteur de cocaïne au monde. L’ONU estime que les deux tiers des plantations mondiales de coca s’y trouvent, soit 253 000 hectares en 2023, pour une production annuelle potentielle de 2 700 tonnes.\nLa France n’est malheureusement plus une étape pour la cocaïne ; c’est un marché. Entre 2017 et 2023, la consommation de cocaïne a augmenté de 83 % sur notre sol. Ces chiffres se traduisent concrètement : règlements de compte, fusillades, trafics au pied des immeubles. Même dans nos petites villes et campagnes, des familles sont brisées par l’addiction et le trafic.\nChaque dose vendue en France trouve son origine dans les plantations de coca colombiennes. Pourtant, notre coopération judiciaire reste trop lente. Depuis 2016, la France a adressé vingt-huit demandes d’extradition à la Colombie, dont un peu plus de la moitié seulement ont abouti. L’accord signé à Paris le 11 novembre 2024 modernise enfin cet outil. Il abandonne la vieille liste d’infractions de 1850 pour un critère beaucoup plus simple : tout acte passible d’au moins deux ans de prison, y compris en termes de fiscalité ou de législation douanière. Il donne soixante jours après une arrestation pour une demande complète, contre cinq auparavant. Cela encadre la réextradition vers un autre pays. Nous ne cédons rien d’essentiel. La France garde sa doctrine : pas d’extradition pour ses citoyens, pas de risque de peine de mort. Les motifs de refus classiques restent valides. La souveraineté de nos deux pays demeure respectée.\nUn point mérite toutefois notre attention : l’article 3 exclut l’extradition pour les faits liés au conflit armé avant le 1er décembre 2016 et relevant de la juridiction spéciale pour la paix. Nous comprenons parfaitement la logique de l’accord de paix, mais cette clause ne doit pas devenir un refuge pour ceux qui ont continué à trafiquer après cette date sous couvert de combat politique. Nous demandons au gouvernement de s’engager clairement à ce sujet.\nMonsieur le rapporteur, permettez-moi de dire ce qui différencie notre approche de la vôtre. Ce soir, vous avez beaucoup parlé de cette convention à travers le prisme de la politique de Gustavo Petro, ancien président de la Colombie. Une de vos collègues Insoumis a aussi salué l’action de son gouvernement. Depuis, les Colombiens ont voté, un nouveau président a été élu, et la nécessité de cette convention reste et demeure. Les routes de la cocaïne n’ont pas changé après le vote, les cartels n’ont pas disparu avec l’alternance politique.\nSoyons clairs : une convention d’extradition n’est pas un certificat de bonne conduite pour un gouvernement ou un exécutif. Nous ne jugeons pas, nous ne validons pas le programme des dirigeants colombiens. Nous votons pour que la justice française dispose d’un outil de plus contre le crime organisé. C’est ce qui compte.\nLe groupe UDR votera cette convention car elle donne enfin à notre justice les moyens de frapper ceux qui inondent notre pays de drogue. Coopérer avec la Colombie n’est pas soutenir un gouvernement. Moderniser l’extradition n’est pas renoncer à nos garanties fondamentales. Voter ce texte n’est pas signer un chèque en blanc. En 1991, les cartels craignaient l’extradition ; assurons-nous que leurs successeurs la craignent toujours autant aujourd’hui. (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 281,
+          "texte": "La discussion générale est close.\n La parole est à M. le rapporteur."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": "rapporteur",
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 282,
+          "texte": "Je voudrais apporter quelques éléments de réponse, en commençant par nos collègues de gauche. La convention qui nous est soumise a été négociée par le gouvernement de gauche de Gustavo Petro. Elle doit encore être examinée par le Congrès colombien, où les forces de gauche entendent la faire adopter. Je m’étonne donc que certains établissent un lien entre le contenu de ce texte, négocié par nos camarades de gauche, et un gouvernement d’extrême droite, d’autant que son article 3 reconnaît précisément cette justice transitionnelle que l’extrême droite veut abattre. J’ajoute que ce texte n’a pas été souhaité par les nouvelles autorités. Il sera soumis au Congrès colombien pour adoption, et il me semble qu’il offre des garde-fous importants face au gouvernement d’extrême droite actuel.\nDeuxièmement, pour répondre aux collègues d’extrême droite, je le dis très tranquillement : je salue le bilan du gouvernement de Gustavo Petro en matière de droits à l’éducation, à la retraite, au travail et à un environnement sain, mais aussi de paix totale et de lutte contre le narcotrafic. En un mandat, le président Petro a fait saisir 3 300 tonnes de cocaïne, soit autant que ses trois prédécesseurs réunis. Il a organisé 800 extraditions et, surtout, 60 % des saisies mondiales ont pu être réalisées grâce au renseignement colombien, civil et militaire.\nC’est un succès du gouvernement de gauche, et je considère cette approche plus pertinente que celle qui consiste à recourir à la fumigation aérienne, à déployer des troupes nord-américaines sur le territoire colombien ou à confier la gestion des campagnes à des paramilitaires criminels. Je l’assume pleinement. Je pense également que les cultures de substitution comme le café et le cacao constituent une meilleure réponse que les assassinats ciblés ou en masse des paysans contraints de produire de la coca.\nPar ailleurs, je m’étonne que nos collègues du Rassemblement national commencent leur intervention en évoquant la famille ou le fils de telle ou telle personne. Si nous procédions de la même manière à votre égard, nous pourrions aller très loin. Je ne crois pas, par exemple, que Marine Le Pen soit juridiquement responsable des propos de son père. Nous pourrions tout à fait ouvrir ce débat, si vous le souhaitez. Mais il me semble que vous êtes souvent moins à l’aise lorsque ces méthodes sont employées contre vous, notamment à propos du fils prodigue et de ses anciens comptes Facebook. (Protestations sur les bancs du groupe RN.) Laissons donc chacun à sa responsabilité individuelle et garantissons l’État de droit. Cela fera du bien à tout le monde – et peut-être à vous en premier lieu.\nJe tiens à rappeler que ce texte ne concerne pas uniquement le narcotrafic, qui a été au cœur de nos discussions. Il porte également sur la criminalité écologique ou financière. Il s’agit donc d’un outil transversal au service de l’État de droit et de la lutte contre toutes les formes d’infractions, de crimes et de délits. Le président actuel, que certains ont défendu sur les bancs de l’extrême droite, a effectivement annoncé une politique dite de la main de fer. Moi, je vois des mains de fer et des poches bien remplies, notamment grâce à son activité d’avocat auprès de narcotrafiquants et de paramilitaires.\nJe vous invite à voter ce texte. J’y vois un outil de défense de l’État de droit, capable de rassembler des personnes aux sensibilités philosophiques, morales et politiques différentes. C’est une bonne chose, et cela mérite d’être souligné car ce n’est pas si fréquent dans cette assemblée. Pour ma part, c’est en tant que rapporteur, militant politique et ami du peuple colombien que je voterai en sa faveur. Pour conclure, je n’aurai qu’une seule phrase : « Aquí se respira lucha ! ». (M. le rapporteur lève le poing. – Mme Sophia Chikirou applaudit.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 288,
+          "texte": "Sur l’article unique du projet de loi, je suis saisie par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme la ministre déléguée."
+        },
+        {
+          "orateur": "Mme Eléonore Caroit",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA795330",
+          "ordre": 290,
+          "texte": "Je tiens à vous remercier pour nos débats de ce soir. Il est tard, mais la Colombie mérite que nous prenions le temps d’examiner ce texte important. J’entends les réserves exprimées par deux groupes, ainsi que leur volonté de ne pas donner de blanc-seing à un pays, a fortiori lorsque celui-ci est en train de changer de gouvernement.\nJ’aimerais insister sur un point : une convention est un instrument permanent de coopération judiciaire entre États, et non entre gouvernements ou administrations. Elle offre des garanties qui doivent perdurer, quels que soient les aléas de la vie politique et les changements de majorité, en Colombie comme en France. Ce texte a d’ailleurs été négocié par des gouvernements successivement de droite et de gauche, avant d’être signé il y a déjà plusieurs années.\nIl serait donc dommage de réduire le vote de cet instrument, dont la portée est bien plus large, au contexte politique et à nos désaccords actuels. Je vous invite à mesurer l’importance de cette convention pour la coopération judiciaire et pour l’État de droit. Évitons de politiser un texte qui, je le répète, dépasse les clivages et les circonstances politiques du moment."
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "ordre": 293,
+          "texte": "Il s’agit tout de même de l’extrême droite !"
+        },
+        {
+          "orateur": "Mme Eléonore Caroit",
+          "fonction": "ministre déléguée",
+          "role": null,
+          "idActeur": "PA795330",
+          "ordre": 294,
+          "texte": "Concernant les propos de Mme Chikirou sur le soutien à l’accord de paix, je vous invite à consulter l’intervention de notre représentant permanent auprès des Nations unies sur le soutien apporté par la France à la mission de vérification des Nations unies en Colombie. La France accompagne la Colombie dans son aspiration à la paix et à la sécurité. Je tenais à le rappeler, car des propos contraires ont pu être tenus dans cet hémicycle. (Applaudissements sur quelques bancs du groupe Dem.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4183470",
+      "valeurPtsOdj": "2",
+      "titre": "Discussion des articles",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 296,
+          "texte": "J’appelle maintenant l’article unique du projet de loi."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4183365",
+      "valeurPtsOdj": "2",
+      "titre": "Vote sur l’article unique",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 299,
+          "texte": "Je mets aux voix l’article unique du projet de loi."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 300,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 301,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        35\n        Nombre de suffrages exprimés                33\n        Majorité absolue                        17\n                Pour l’adoption                28\n                Contre                5",
+          "scrutinDetecte": {
+            "ordre": 301,
+            "votants": 35,
+            "exprimes": 33,
+            "majoriteAbsolue": 17,
+            "pour": 28,
+            "contre": 5,
+            "abstention": 2
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 302,
+          "texte": "(L’article unique est adopté, ainsi que l’ensemble du projet de loi.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8696,
+          "id": "VTANR5L17V8696",
+          "sort": "adopté",
+          "titreVote": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 35,
+          "exprimes": 33,
+          "pour": 28,
+          "contre": 5,
+          "abstention": 2,
+          "ordre": 301
+        }
+      ]
+    },
+    {
+      "idSyceron": "4183371",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "Mme la présidente",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA794354",
+          "ordre": 305,
+          "texte": "Prochaine séance, demain, à quinze heures :\n Questions au gouvernement ;\n Suite de la discussion de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants ;\n Votes solennels sur les propositions de loi ordinaire et organique relatives aux violences sexuelles et sexistes ;\n Débat sur la dette ;\n Discussion de la première partie du projet de loi de finances pour 2027.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 306,
+          "texte": "(La séance est levée à vingt-trois heures quarante.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 307,
+          "texte": "La directrice des comptes rendus par intérim\n Pascale Mesnier"
+        }
+      ],
+      "scrutins": []
+    }
+  ]
+}
