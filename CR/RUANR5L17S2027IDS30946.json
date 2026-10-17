@@ -1,0 +1,2956 @@
+{
+  "uid": "CRSANR5L17S2027O1N026",
+  "seanceRef": "RUANR5L17S2027IDS30946",
+  "sessionRef": "SCR5A2027O1",
+  "date": "2026-10-15",
+  "dateLisible": "jeudi 15 octobre 2026",
+  "session": "Session ordinaire 2026-2027",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4188825",
+      "valeurPtsOdj": "1",
+      "titre": "Première partie (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 7,
+          "texte": "L’ordre du jour appelle la suite de la discussion de la première partie du projet de loi de finances pour 2027 (nos 3210, 3291).\n Cet après-midi, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant aux amendements identiques nos 206 et 2597, portant article additionnel après l’article 3.\nJe suis saisi de deux demandes de scrutin : sur l’amendement no 1798, par le groupe Rassemblement national ; sur l’amendement no 1999, par le groupe Socialistes et apparentés.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4188828",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 3 (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 10,
+          "texte": "Je suis saisi de deux amendements identiques, nos 206 et 2597.\n La parole est à M. Karim Ben Cheikh, pour soutenir l’amendement no 206."
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "ordre": 11,
+          "texte": "Le présent amendement vise à ouvrir aux Français établis hors de France la réduction d’impôts pour don aux associations et fondations. Il avait été adopté de manière transpartisane en commission des finances en 2024 et en 2025.\nUn compatriote installé à l’étranger et qui paye ses impôts en France ne bénéficie d’aucun avantage fiscal pour sa contribution à une association française reconnue d’utilité publique, contrairement à toute personne résidant en France et ce, je le répète, même s’il paye ses impôts en France. Nos compatriotes de l’étranger ont ainsi le sentiment de ne plus être des Français à part entière, voire d’être des Français de seconde zone.\nDepuis la première version de cet amendement il y a cinq ans, nous avons fait évoluer sa rédaction, pour répondre aux craintes d’optimisation, exprimées notamment par Charles de Courson. Le dispositif est désormais strictement encadré afin que la réduction ne s’applique que si le don ne permet pas déjà de réduire l’impôt dans le pays de résidence. Aucun double avantage n’est donc possible.\nLe dispositif que nous proposons soutiendrait des associations françaises reconnues d’utilité publique qui mènent des actions sociales en faveur des Français de l’étranger, comme Français du monde-ADFE – Association démocratique des Français à l’étranger –, la Fédération internationale des accueils français et francophones d’expatriés (Fiafe) ou l’Union des Français de l’étranger (UFE). Ces associations dépendent de donateurs qui sont, le plus souvent, établis hors de France.\nIl est d’autant plus nécessaire de soutenir ces associations que les Français de l’étranger se sont pris de plein fouet les conséquences des coupes drastiques du budget du ministère des affaires étrangères."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 16,
+          "texte": "La parole est à Mme Caroline Yadan, pour soutenir l’amendement no 2597."
+        },
+        {
+          "orateur": "Mme Caroline Yadan",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795046",
+          "ordre": 17,
+          "texte": "Comme l’a rappelé notre collègue Ben Cheikh, ce dispositif avait été adopté en première lecture l’an passé. Il est très important pour les Français qui vivent hors de France de maintenir des attaches avec la France, notamment en donnant à des associations reconnues d’utilité publique. Il est normal qu’ils bénéficient, comme tout Français, d’une déduction fiscale à ce titre, pourvu qu’ils soient fiscalisés en France. Cet amendement permet d’ouvrir aux non-résidents la déductibilité des dons de l’impôt sur le revenu.\nL’année dernière, le rapporteur général avait émis un avis défavorable en raison d’un possible effet d’aubaine. Pour y remédier, la nouvelle rédaction de l’amendement prévoit que la réduction n’est ouverte qu’à la condition sine qua non que le don ne soit pas de nature à octroyer un avantage fiscal dans le pays de résidence. Ainsi, l’effet d’aubaine disparaît et ne subsistent que les avantages pour les donateurs et les associations."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 19,
+          "texte": "La parole est à M. Philippe Juvin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 20,
+          "texte": "Un amendement similaire avait été adopté l’année dernière, mais ces amendements ont été rejetés cette année par la commission. À titre personnel, je me retourne vers M. le ministre pour qu’il nous éclaire sur la position du gouvernement. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 21,
+          "texte": "La parole est à M. le ministre de l’action et des comptes publics, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre de l’action et des comptes publics",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 22,
+          "texte": "La rédaction de l’amendement a évolué depuis l’année dernière, mais je donnerai tout de même un avis défavorable.\nIl existe une différence entre les résidents fiscaux dans un pays européen et ceux qui ne résident pas dans un pays de l’Union européenne. Pour les Français résidant dans un pays européen, le régime Schumacker, issu d’un arrêt du 14 février 1995 de la Cour de justice de l’Union européenne (CJUE), s’applique. Je le précise pour ceux qui ne seraient pas, contrairement à vous, monsieur Ben Cheikh, madame Yadan, familiers de ces questions.\nVous proposez d’étendre le bénéfice de la réduction d’impôts à des personnes contribuant de manière très limitée aux charges publiques, puisque leur principale résidence fiscale est à l’étranger. Or notre déficit public est supérieur à 5 % du PIB et les taux d’intérêt s’approchent des 5 %. Dans ces conditions, la ligne du gouvernement est de ne pas étendre les réductions d’impôts et les niches fiscales."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 25,
+          "texte": "La parole est à M. Karim Ben Cheikh."
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "ordre": 26,
+          "texte": "Je rappelle que l’amendement concerne les Français qui ont des revenus en France, comme les professeurs détachés. Leur principale résidence fiscale n’est pas forcément à l’étranger. Ils continuent à payer leurs impôts en France alors qu’ils sont résidents à l’étranger.\nPar ailleurs, vous dites qu’ils contribuent peu. Je rappelle que les non-résidents paient environ 1,4 milliard d’euros d’impôts, soit à peu près l’équivalent d’un département moyen. Le budget social consacré aux Français de l’étranger est d’à peu près 15 millions, alors que ce budget est de 450 millions pour un département moyen. S’il y a une iniquité, ce sont plutôt les Français établis hors de France qui la subissent. Il serait souhaitable d’essayer de la corriger."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 28,
+          "texte": "Je mets aux voix les amendements identiques nos 206 et 2597."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 29,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 30,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        86\n        Nombre de suffrages exprimés                85\n        Majorité absolue                        43\n                Pour l’adoption                40\n                Contre                45",
+          "scrutinDetecte": {
+            "ordre": 30,
+            "votants": 86,
+            "exprimes": 85,
+            "majoriteAbsolue": 43,
+            "pour": 40,
+            "contre": 45,
+            "abstention": 1
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 31,
+          "texte": "(Les amendements identiques nos 206 et 2597 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 32,
+          "texte": "L’amendement no 1798 de M. Kévin Mauvieux est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 34,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 35,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 36,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 37,
+          "texte": "La parole est à Mme Shéhérazade Bentorki."
+        },
+        {
+          "orateur": "Mme Shéhérazade Bentorki",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841531",
+          "ordre": 38,
+          "texte": "Mes chers collègues du Rassemblement national, j’ai une petite question : le détournement de fonds publics rompt-il le pacte républicain ? Dans une affaire d’emploi fictif, similaire à celle dans laquelle vous avez été impliqués, le Parquet national financier (PNF) a apporté une réponse en parlant de déchirure du pacte républicain.\nSi vous êtes vraiment soucieux de l’argent public, étendez le champ de votre amendement aux partis politiques. Vous ne le ferez pas parce que vous ne visez que les associations qui vous dérangent. Remboursez l’argent et retirez votre amendement ! (Applaudissements sur les bancs du groupe LFI-NFP. – M. Karim Ben Cheikh applaudit également.)"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 40,
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 41,
+          "texte": "La parole est à M. Kévin Mauvieux."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 42,
+          "texte": "L’amendement ne mentionne aucune association spécifique. Ce qui vous dérange, c’est que vos associations sont les seules à être violentes et elles sont donc les seules à être concernées. (Protestations sur les bancs du groupe LFI-NFP.) L’amendement ne s’attaque pas à L214 ou à telle ou telle association soutenue, dirigée ou manipulée par La France insoumise.\nLes seules associations condamnées pénalement pour des faits violents, pour des menaces, pour de l’intimidation, pour de la destruction, sont celles qui sont de votre côté ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 44,
+          "texte": "Je mets aux voix l’amendement no 1798."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 45,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 46,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        97\n        Nombre de suffrages exprimés                94\n        Majorité absolue                        48\n                Pour l’adoption                44\n                Contre                50",
+          "scrutinDetecte": {
+            "ordre": 46,
+            "votants": 97,
+            "exprimes": 94,
+            "majoriteAbsolue": 48,
+            "pour": 44,
+            "contre": 50,
+            "abstention": 3
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 47,
+          "texte": "(L’amendement no 1798 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 48,
+          "texte": "La parole est à M. Mickaël Bouloux, pour soutenir l’amendement no 1999."
+        },
+        {
+          "orateur": "M. Mickaël Bouloux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794094",
+          "ordre": 49,
+          "texte": "Cet amendement de notre collègue Pierrick Courbon vise à protéger la liberté associative.\nNous constatons depuis plusieurs années la remise en cause de la légitimité et, parfois, des avantages fiscaux de certaines associations, notamment celles qui défendent l’environnement ou viennent en aide aux personnes migrantes.\nOr le bénéfice de la réduction d’impôts pour les dons ne doit pas dépendre d’une appréciation politique de l’objet d’une association. Les associations doivent respecter les règles et l’administration doit pouvoir en contrôler l’application. Mais contrôler le respect de la loi, ce n’est pas juger de l’opportunité d’un engagement associatif. Une association peut contester une politique publique, interpeller les pouvoirs publics, déranger parfois, tout en poursuivant une mission d’intérêt général.\nUne démocratie vivante n’est pas une démocratie dans laquelle seules les associations dociles peuvent agir sereinement. Une association qui dérange le pouvoir, ce n’est pas un problème pour la République. Bien au contraire, c’est souvent la preuve que la démocratie fonctionne. Je vous invite donc à adopter cet amendement. (Mme Estelle Mercier applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 53,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 54,
+          "texte": "La commission a émis un avis défavorable, dans le cadre de l’article 88 du règlement, à cet amendement qui propose d’interdire la restriction des droits à la réduction d’impôt pour tout motif qui porterait atteinte à la liberté d’association. La liberté d’association étant protégée par la Constitution, le juge administratif peut suspendre toute décision de retrait de l’agrément fiscal si cette décision porte atteinte à la liberté d’association. Votre amendement est donc déjà satisfait."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 55,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 56,
+          "texte": "Je profite de cet amendement pour dire mon admiration pour le travail des agents de la direction générale des finances publiques (DGFIP), qui réalisent leurs travaux de contrôle dans un strict respect des principes républicains et en toute neutralité politique. Ce sont de très grands professionnels qui appliquent la loi telle que nous la votons ici. Je crois que nous pouvons tous nous rejoindre pour le reconnaître.\nOr la loi prévoit que le bénéfice de la réduction d’impôt s’applique aux dons et versements à des œuvres ou organismes d’intérêt général dont l’activité revêt de manière prépondérante « un caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel, ou concourant à l’égalité entre les femmes et les hommes », et ainsi de suite. Aucun critère politique ne s’applique, heureusement : la DGFIP prend seulement en considération les critères que je viens de citer. Lorsqu’ils procèdent à des contrôles, ses agents font preuve de beaucoup de professionnalisme, de rigueur et d’attachement aux principes républicains. Je tiens à les en remercier, car ils exercent parfois leur mission dans des conditions difficiles. Si une association souhaite contester la décision de la DGFIP, elle peut emprunter les voies de recours qu’a évoquées M. le rapporteur général.\nJe demande donc le retrait de l’amendement ; à défaut, je donne un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 59,
+          "texte": "Je mets aux voix l’amendement no 1999."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 60,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 61,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        94\n        Nombre de suffrages exprimés                94\n        Majorité absolue                        48\n                Pour l’adoption                36\n                Contre                58",
+          "scrutinDetecte": {
+            "ordre": 61,
+            "votants": 94,
+            "exprimes": 94,
+            "majoriteAbsolue": 48,
+            "pour": 36,
+            "contre": 58,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 62,
+          "texte": "(L’amendement no 1999 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 63,
+          "texte": "Je suis saisi de deux amendements identiques, nos 864 et 1841.\n L’amendement no 864 de M. Anthony Brosse est défendu.\nLa parole est à Mme Marie-Christine Dalloz, pour soutenir l’amendement no 1841."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 65,
+          "texte": "C’est le seul amendement que j’ai déposé parmi la longue liste de ceux qui portent article additionnel après l’article 3 : vous noterez que j’ai été respectueuse de nos finances publiques. D’ailleurs, le coût de cette mesure ne serait pas très élevé.\nNous nous accordons tous à reconnaître que la forêt française, qui constitue un patrimoine public et privé considérable, est malade. Les canicules et sécheresses récentes ont encore aggravé sa fragilité déjà inquiétante. Pour résoudre ce problème, le dispositif d’encouragement fiscal à l’investissement en forêt (Defi forêt) a été instauré en 2018. Il comporte quatre piliers, parmi lesquels le Defi travaux forestiers. Ce dernier dispositif rapporte de l’argent à l’État, car l’avoir fiscal auquel il ouvre droit est plafonné à une somme modique et que le Defi travaux forestiers crée en contrepartie des recettes de TVA et des emplois dans les territoires. J’ai fait faire une estimation du coût de l’amendement, qui serait à peu près équivalent aux recettes qu’il rapporterait – je rappelle que la TVA est à 10 % sur le bois de chauffage et à 20 % sur le bois d’œuvre.\nPour donner un coup de pouce à la forêt française, il faut renforcer le Defi travaux forestiers. C’est ce que vise à faire cet amendement, dans des proportions relativement modestes, puisqu’il s’agit de revenir aux 40 millions d’euros programmés à l’origine."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 68,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 69,
+          "texte": "Je confirme la frugalité de Mme Dalloz en ce qui concerne le dépôt d’amendements et l’en remercie.\nCes amendements identiques soulèvent la question légitime de l’entretien des forêts. Ce nécessaire entretien entraîne des charges qui sont loin d’être anodines pour les propriétaires. Vous proposez donc d’exclure les dépenses liées au Defi travaux forestiers du plafonnement global des niches fiscales. Néanmoins, d’après le dernier rapport du Conseil des prélèvements obligatoires (CPO), seuls 17 000 foyers atteignent ce plafond global. En outre, seuls 21 000 ménages bénéficient du Defi forêt, sans forcément atteindre le plafond global.\nC’est pourquoi la commission, réunie au titre de l’article 88 du règlement, a repoussé ces amendements : ils ne seraient guère utiles, car il est très possible de bénéficier pleinement du Defi travaux forestiers sans atteindre le plafond global des niches fiscales. Je me tourne toutefois vers le ministre pour savoir s’il dispose de chiffres complémentaires qui permettraient de confirmer cette position."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 72,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 73,
+          "texte": "M. le ministre a forcément des chiffres."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 74,
+          "texte": "Je confirme les chiffres donnés par le rapporteur général. Nous sommes en train de procéder au chiffrage de ces amendements identiques ; à ce stade, nous en estimons le coût à moins de 1 million d’euros. Il convient d’examiner l’articulation de cette mesure avec les dispositions visant à soutenir la forêt qui pourraient être adoptées dans la deuxième partie du PLF. Le renouvellement forestier d’une part, l’entretien de la forêt de l’autre, sont essentiels ; ce n’est pas le président Fesneau qui me contredira. Je vous propose donc de continuer à y travailler dans le cadre de la navette parlementaire, en articulant ces amendements, je le répète, avec les dispositions de la deuxième partie du PLF. À ce stade, je m’en remets à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 75,
+          "texte": "La parole est à Mme Marie-Christine Dalloz."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 76,
+          "texte": "Comme c’est mon seul amendement sur cette partie du texte, je ne le retirerai pas. Je remercie M. le ministre de son avis. Chacun sait comment se déroule la navette : le Sénat récupérera l’amendement et se vantera d’avoir accompli une avancée au bénéfice de la forêt. (Sourires et exclamations sur quelques bancs des groupes SOC et Dem.) Je voudrais donc que nous votions dès maintenant cet amendement au coût raisonnable et laissions éventuellement le Sénat l’améliorer. Il faut que l’Assemblée nationale prenne nettement position pour défendre les forêts françaises, après l’été meurtrier qu’elles ont connu. (Applaudissements sur les bancs du groupe DR et sur quelques bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 77,
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 78,
+          "texte": "Compte tenu de l’évaluation du coût donnée par M. le ministre, il me semble possible de donner un avis favorable aux amendements identiques. (M. Paul Midy applaudit.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 79,
+          "texte": "Ben tiens !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 80,
+          "texte": "(Les amendements identiques nos 864 et 1841 sont adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 81,
+          "texte": "Sur l’amendement no 1602, je suis saisi par le groupe Socialistes et apparentés d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Christine Pirès Beaune, pour soutenir l’amendement no 1602."
+        },
+        {
+          "orateur": "Mme Christine Pirès Beaune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608172",
+          "ordre": 83,
+          "texte": "M. le rapporteur général vient d’évoquer le plafonnement global des crédits et réductions d’impôt qui, depuis 2013, est fixé à 10 000 euros par foyer fiscal, ou à 18 000 euros dans certains cas particuliers. Comme le souligne le CPO, une vingtaine de crédits ou réductions d’impôt échappent à ce plafonnement. L’amendement vise à les inclure dans le dispositif de plafonnement global, à l’exception de la réduction d’impôt accordée au titre des dons faits par les particuliers et des réductions d’impôt concernant la Corse ou l’outre-mer."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 84,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 85,
+          "texte": "Les exceptions au plafonnement telles que la réduction d’impôt pour les frais de scolarité des enfants à charge, le dispositif Malraux ou la réduction d’impôt Sofica – société pour le financement de l’industrie cinématographique et audiovisuelle –, répondent à des finalités diverses qui justifient la dérogation.\nLa commission n’a pas pu étudier l’amendement. Je m’en remets donc provisoirement à la sagesse de l’Assemblée et me tourne vers M. le ministre pour obtenir son évaluation du coût ou du bénéfice d’une telle disposition."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 87,
+          "texte": "Tout repose sur les épaules du ministre !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 88,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 89,
+          "texte": "L’évaluation de l’amendement par les services fiscaux est en cours ; je ne peux donc pas vous en faire part ce soir. Au-delà de son effet budgétaire, j’insiste sur l’impact économique qu’il aurait. L’extension du plafonnement des niches fiscales affecterait fortement les dons des particuliers – je sais que de nombreux députés sont attachés à la réduction d’impôt qui s’y rapporte – et le dispositif Malraux, que nous avons longuement évoqué. Craignant d’affecter négativement les dons et la rénovation de bâtiments, je suis défavorable à l’amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 90,
+          "texte": "La parole est à Mme Christine Pirès Beaune."
+        },
+        {
+          "orateur": "Mme Christine Pirès Beaune",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608172",
+          "ordre": 91,
+          "texte": "Monsieur le ministre, la réduction d’impôt au titre des dons n’est pas concernée par l’amendement. Monsieur le rapporteur général, j’ai soutenu l’amendement en commission, avant de le retirer à votre demande ; suivant votre remarque, j’ai exclu du dispositif les investissements réalisés en Corse et en outre-mer."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 92,
+          "texte": "Je mets aux voix l’amendement no 1602."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 93,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 94,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        100\n        Nombre de suffrages exprimés                99\n        Majorité absolue                        50\n                Pour l’adoption                38\n                Contre                61",
+          "scrutinDetecte": {
+            "ordre": 94,
+            "votants": 100,
+            "exprimes": 99,
+            "majoriteAbsolue": 50,
+            "pour": 38,
+            "contre": 61,
+            "abstention": 1
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 95,
+          "texte": "(L’amendement no 1602 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 96,
+          "texte": "L’amendement no 2632 rectifié de Mme Marie-Noëlle Battistel est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 97,
+          "texte": "(L’amendement no 2632 rectifié, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 98,
+          "texte": "Je suis saisi de deux demandes de scrutin public : sur l’amendement no 2171, par le groupe Les Démocrates ; sur l’amendement no 1057 rectifié, par le groupe La France insoumise-Nouveau Front populaire.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nJe suis saisi de quatre amendements, nos 2171, 1157, 1057 rectifié et 1477, pouvant être soumis à une discussion commune.\n La parole est à Mme Sophie Mette, pour soutenir l’amendement no 2171."
+        },
+        {
+          "orateur": "Mme Sophie Mette",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719640",
+          "ordre": 100,
+          "texte": "Il vise à rétablir une aide fiscale à l’adaptation de l’habitation principale pour les personnes en situation de handicap ou de perte d’autonomie. Pouvoir utiliser sa salle de bains ou circuler chez soi est une condition de l’autonomie. Pour les personnes handicapées ou en perte d’autonomie, les équipements nécessaires peuvent représenter une dépense difficile à supporter, d’autant que le handicap s’accompagne parfois d’une grande précarité.\nNous proposons donc de rétablir, de 2027 à 2029, le crédit d’impôt de 25 % pour l’adaptation de la résidence principale qui s’appliquait jusqu’en 2025, en conservant les mêmes conditions de ressources, critères d’éligibilité et plafonds. Pour 4 000 euros de dépenses éligibles, entièrement supportées par un ménage remplissant les conditions du dispositif et n’atteignant pas le plafond global des niches fiscales, l’avantage serait de 1 000 euros dans la limite de l’impôt dû.\nCe soutien est ciblé et limité à trois ans. Pour que les ménages non imposables puissent aussi en bénéficier, je demande au gouvernement de supprimer la limitation introduite par le II, qui empêche le remboursement de cet avantage."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 103,
+          "texte": "La parole est à M. Jean-Pierre Bataille, pour soutenir l’amendement no 1157."
+        },
+        {
+          "orateur": "M. Jean-Pierre Bataille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267763",
+          "ordre": 104,
+          "texte": "Les arguments pour défendre le présent amendement de notre collègue Valérie Létard sont quasiment les mêmes que ceux exposés par Mme Mette. Je précise que le dispositif existait jusqu’au 31 décembre 2025 et a été interrompu en 2026, que l’amendement no 1157 vise à le reconduire du 1er janvier 2027 au 31 décembre 2028 et qu’il restera complémentaire du dispositif MaPrimeAdapt’."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 105,
+          "texte": "La parole est à Mme Shéhérazade Bentorki, pour soutenir l’amendement no 1057 rectifié."
+        },
+        {
+          "orateur": "Mme Shéhérazade Bentorki",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841531",
+          "ordre": 106,
+          "texte": "Il vise à relever le plafond du crédit d’impôt lié aux travaux de mise en accessibilité du logement d’une personne âgée ou handicapée. Seuls 7 % des logements sont accessibles aux personnes porteuses d’un handicap, alors que la loi de 2005 en faveur de l’égalité des droits et des chances des personnes handicapées avait pour ambition de leur rendre accessibles toutes les constructions neuves. Pour la Macronie et ses complices, la question du handicap n’est malheureusement pas une priorité : la loi Elan de 2018 a fait reculer cet objectif. Depuis, la part des logements adaptés n’évolue que de 0,2 % par an. Vivre dans un logement non adapté à son handicap est pourtant un critère de déclenchement du droit au logement opposable (Dalo).\nEn commission, M. le rapporteur général a évoqué MaPrimeAdapt’ ; celle-ci constitue certes une avancée pour les ménages les plus modestes, mais l’extinction du volet fiscal du crédit d’impôt laisse les familles de la classe moyenne sans solution. Voilà pourquoi nous demandons son rétablissement et l’augmentation de son plafond. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 108,
+          "texte": "La parole est à M. Corentin Le Fur, pour soutenir l’amendement no 1477."
+        },
+        {
+          "orateur": "M. Corentin Le Fur",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840979",
+          "ordre": 109,
+          "texte": "Cet amendement de notre collègue Jean-Pierre Vigier vise à rétablir le crédit d’impôt pour les travaux d’adaptation du logement au handicap ou à la perte d’autonomie. L’adaptation au handicap est une évidence et doit devenir une priorité nationale. Depuis la grande loi Chirac de 2005, la France n’a pas suffisamment progressé en la matière. Supprimer durablement ce crédit d’impôt, alors que les besoins sont immenses et que notre politique du handicap est trop souvent à l’arrêt, serait un retour en arrière.\nL’adaptation à la perte d’autonomie est également fondamentale. Le bon sens conduit à constater que le maintien à domicile est bien plus intéressant et beaucoup moins coûteux, pour les familles comme pour les pouvoirs publics, que l’hébergement en Ehpad. Si nous voulons permettre à nos compatriotes qui perdent leur autonomie de rester à domicile et soutenir du même coup nos artisans, nous devons encourager les travaux d’adaptation du domicile.\nCe crédit d’impôt est utile, important et nous y tenons. En outre, il est essentiel pour faciliter le maintien à domicile. Nous vous invitons donc à voter ces amendements."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 112,
+          "texte": "L’amendement identique de Mme Brulebois n’est pas défendu ! C’est dommage, ce n’était pas un amendement du Medef ! (Sourires.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 113,
+          "texte": "Quel est l’avis de la commission sur cette série d’amendements ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 114,
+          "texte": "Pour adapter les logements pour les personnes âgées ou en situation de handicap, il y avait un crédit d’impôt ; en 2024 a été créée MaPrimeAdapt’. Il y a eu un tuilage des deux dispositifs pendant deux ans. Ensuite, le crédit d’impôt a été supprimé au profit de MaPrimeAdapt’. Le dispositif MaPrimeAdapt’ est-il meilleur ? Le crédit d’impôt s’élevait à 15 millions d’euros en 2025, tandis que MaPrimeAdapt’ permet de décaisser 250 à 350 millions d’euros. L’effet est donc beaucoup plus important.\nLa commission a donné un avis défavorable sur tous les amendements en discussion commune du fait de l’existence du dispositif MaPrimeAdapt’. Madame Bentorki, vous soutenez qu’une catégorie de la population est peut-être moins bien couverte par MaPrimeAdapt’ que par le crédit d’impôt. Pour y remédier, il est possible d’adapter MaPrimeAdapt’, ce qui relève du domaine réglementaire.\nÉtant donné le changement d’échelle objectif des montants engagés, revenir en arrière n’aurait pas de sens. Le dispositif actuel permet une meilleure adaptation des logements aux personnes âgées ou en situation de handicap."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 117,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 118,
+          "texte": "J’irai dans le sens du rapporteur général. D’abord, le passage à MaPrimeAdapt’ a constitué un progrès, comme l’a souligné le rapporteur général, en raison de l’ampleur des montants débloqués. Ce dispositif permet d’apporter un soutien beaucoup plus important aux ménages les plus modestes qui ont besoin d’adapter leur logement, qu’il s’agisse de personnes âgées, notamment de plus de 70 ans, sans conditions spécifiques, ou de personnes en situation de handicap.\nDe manière générale, ensuite, les systèmes de primes me paraissent beaucoup plus adaptés que ceux de réduction ou de crédit d’impôt. C’est d’ailleurs le chemin que nous avons pris en matière de transition écologique, en passant du crédit d’impôt pour la transition écologique à MaPrimeRénov’. Cela permet de cibler davantage les aides vers les ménages des classes populaires et des classes moyennes. En outre, les primes sont disponibles immédiatement tandis que les crédits d’impôt sont effectifs l’année suivante et les primes peuvent plus facilement être adaptées aux besoins.\nEnfin, il est toujours possible d’améliorer et de corriger MaPrimeAdapt’ ; mais la meilleure manière de le faire est de perfectionner MaPrimeAdapt’ et non de recréer un dispositif ancien qui existerait en parallèle et qui, comme l’a rappelé le rapporteur général, était beaucoup moins pertinent.\nLe gouvernement émet donc un avis défavorable sur les amendements en discussion commune."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 122,
+          "texte": "La parole est à Mme Shéhérazade Bentorki."
+        },
+        {
+          "orateur": "Mme Shéhérazade Bentorki",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841531",
+          "ordre": 123,
+          "texte": "Monsieur le ministre, vous évoquez MaPrimeAdapt’, alors que pour moi c’est une mesurette, car seuls 7 % des logements sont actuellement accessibles aux personnes en situation de handicap. MaPrimeAdapt’ ne prend pas en charge la totalité de l’accessibilité du logement, ce qui est un problème pour les familles modestes. Prenons l’exemple d’un escalier qui coûte 11 000 euros. L’Agence nationale de l’habitat (Anah) prend en charge 70 % du coût des travaux. Des retraités avec des revenus assez modestes devraient donc débourser 3 300 euros pour pouvoir monter les escaliers. Pensez-vous vraiment que cette mesure répond au vieillissement de la population ? (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "ordre": 124,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 125,
+          "texte": "Je mets aux voix l’amendement no 2171."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 126,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 127,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        115\n        Nombre de suffrages exprimés                63\n        Majorité absolue                        32\n                Pour l’adoption                41\n                Contre                22",
+          "scrutinDetecte": {
+            "ordre": 127,
+            "votants": 115,
+            "exprimes": 63,
+            "majoriteAbsolue": 32,
+            "pour": 41,
+            "contre": 22,
+            "abstention": 52
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 128,
+          "texte": "(L’amendement no 2171 est adopté ; en conséquence, les amendements 1157, 1057 rectifié et 1477 tombent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 129,
+          "texte": "Sur l’amendement n° 1310, je suis saisi par le groupe de la Gauche démocrate et républicaine d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nJe suis saisi de quatre amendements, nos 1310, 1312, 1320 et 2308, pouvant être soumis à une discussion commune.\n Les amendements nos 1312, 1320 et 2308 sont identiques.\n La parole est à M. Cyrille Isaac-Sibille, pour soutenir l’amendement no 1310."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "ordre": 131,
+          "texte": "Les plans de prévention des risques technologiques (PPRT) peuvent imposer aux propriétaires de logements situés à proximité de sites industriels classés Seveso seuil haut la réalisation de travaux destinés à renforcer leur habitation face aux risques technologiques.\nCes travaux doivent être réalisés dans un délai de onze ans à compter de l’approbation du plan ou avant le 1er janvier 2027 si le plan a été approuvé avant le 1er janvier 2016.\nLe financement de ces travaux repose sur deux dispositifs. Dans le premier, 50 % du coût des diagnostics et des travaux sont pris en charge, dans la limite d’un plafond de dépenses de 10 000 euros par logement. Dans le second, 40 % du coût des travaux sont pris en charge, dans la limite de 20 000 euros par logement.\nMalgré ces dispositifs de financement, les habitants des communes d’Oullins et de Vernaison, notamment, m’ont alerté sur le fait que l’ensemble des travaux prescrits n’a pu être réalisé.\nAfin de permettre aux propriétaires concernés de réaliser ces travaux dans les meilleures conditions, l’amendement vise à prolonger de trois ans la période pendant laquelle les dépenses peuvent ouvrir droit au crédit d’impôt. Cette mesure vise à assurer la cohérence entre le délai de réalisation des travaux et la période d’éligibilité au crédit d’impôt."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 136,
+          "texte": "Vous gardez la parole, cher collègue, pour soutenir l’amendement no 1312."
+        },
+        {
+          "orateur": "M. Cyrille Isaac-Sibille",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722374",
+          "ordre": 137,
+          "texte": "Il s’agit d’un amendement de repli, qui vise seulement à prolonger la période d’éligibilité au crédit d’impôt."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 138,
+          "texte": "L’amendement no 1320 de Mme Agnès Firmin Le Bodo est défendu.\nLa parole est à M. Jean-Luc Fugit, pour soutenir l’amendement no 2308."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 140,
+          "texte": "Cet amendement identique aux amendements nos 1312 et 1320 vise à prolonger de trois ans la période d’éligibilité au crédit d’impôt pour réaliser des travaux prescrits par les PPRT. M. Cyrille Isaac-Sibille et moi-même sommes élus dans le département du Rhône, où il peut arriver que des riverains réalisent les travaux dans le délai légal de onze ans prévu dans le cadre des PPRT sans pouvoir bénéficier pleinement du soutien de l’État à travers le crédit d’impôt de 40 % du montant des travaux.\nLe décalage de trois ans que nous préconisons permettrait de mettre en cohérence le droit fiscal avec les besoins de travaux imposés dans le cadre réglementaire des PPRT."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 142,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 143,
+          "texte": "Ces amendements visent à proroger le crédit d’impôt sur les travaux d’adaptation des logements aux PPRT Seveso. L’amendement no 1310 reporte également les échéances de la réalisation des travaux du 1er janvier 2027 au 1er janvier 2030.\nLa commission émet un avis favorable sur les amendements identiques no 1312, 1320 et 2308 car il faut pouvoir adapter les logements aux plans de prévention. Cette dépense de l’ordre de 13 millions d’euros est évidemment nécessaire.\nIl faut prendre garde toutefois à ne pas reporter indéfiniment la date limite. Certains travaux auraient dû être réalisés il y a onze ans…"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 146,
+          "texte": "Ça fait longtemps !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 147,
+          "texte": "…or il s’agit de travaux obligatoires.\nLa commission s’en remet à la sagesse de l’Assemblée sur l’amendement no 1310. Je me tourne vers M. le ministre car je me demande si repousser la date de réalisation des travaux du 1er janvier 2027 au 1er janvier 2030 n’encouragerait pas en réalité à ne pas faire les travaux, alors que cela fait onze ans qu’ils sont obligatoires."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 149,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 150,
+          "texte": "Le gouvernement émet un avis favorable sur les amendements identiques nos 1312 de M. Cyrille Isaac-Sibille, 1320 de Mme Agnès Firmin Le Bodo et 2308 de M. Jean-Luc Fugit qui tendent à proroger le dispositif. En revanche, il émet un avis défavorable sur l’amendement no 1310.\nPour répondre à la question de M. le rapporteur général quant à l’opportunité d’adopter la prorogation du crédit d’impôt mais non le décalage du délai de réalisation des travaux, comme l’ont très bien expliqué MM. Isaac-Sibille et Fugit, il faut pouvoir proroger jusqu’au 31 décembre 2029 le crédit d’impôt pour les travaux prescrits par les plans de prévention des risques technologiques car certains travaux ont été engagés et requièrent cette visibilité jusqu’à la fin de l’année 2029, parfois parce que les services de l’État eux-mêmes avaient tardé à prendre ces plans. Ce n’est pas de la faute des contribuables si cela a pris plus de temps que prévu.\nJe suis en revanche défavorable à l’amendement no 1310 qui propose de porter de onze à quatorze ans le délai de réalisation des travaux à compter de l’approbation du plan. Il faut en effet conserver le délai de onze ans pour réaliser les travaux, qui est déjà assez important."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 153,
+          "texte": "La parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 154,
+          "texte": "Je soutiens les amendements défendus par M. Isaac-Sibille, notamment l’amendement no 1310. Notre collègue Jean-Paul Lecoq, élu dans une circonscription où la présence de sites Seveso seuil haut est très importante dans certaines communes, avait souhaité déposer un amendement identique, mais une erreur de rédaction l’a rendu irrecevable.\nDes familles doivent effectuer des travaux dans le cadre des PPRT et pour cela apporter 60 % de la somme – ne l’oublions pas. Proroger le crédit d’impôt est utile, mais autoriser trois ans de plus pour la réalisation des travaux garantit mieux la réussite de ces travaux. De nombreux foyers n’ont pas choisi cette situation mais sont obligés de faire des travaux parce que le PPRT classe leur logement en Seveso seuil haut, alors que ce classement n’existait pas il y a vingt ou vingt-cinq ans, quand ils se sont installés.\nL’amendement no 1310 me paraît donc être le plus à même de répondre aux préoccupations de nos concitoyens."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 157,
+          "texte": "Je mets aux voix l’amendement no 1310."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 158,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 159,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        116\n        Nombre de suffrages exprimés                60\n        Majorité absolue                        31\n                Pour l’adoption                39\n                Contre                21",
+          "scrutinDetecte": {
+            "ordre": 159,
+            "votants": 116,
+            "exprimes": 60,
+            "majoriteAbsolue": 31,
+            "pour": 39,
+            "contre": 21,
+            "abstention": 56
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 160,
+          "texte": "(L’amendement no 1310 est adopté ; en conséquence, les amendements identiques nos 1312, 1320 et 2308 tombent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 161,
+          "texte": "La parole est à Mme Sophie Mette, pour soutenir l’amendement no 2173."
+        },
+        {
+          "orateur": "Mme Sophie Mette",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719640",
+          "ordre": 162,
+          "texte": "Il vise à réduire le reste à charge lié à l’adaptation d’un véhicule au handicap moteur. Ces aménagements peuvent conditionner l’accès aux soins, à la scolarité, à l’emploi et à la vie familiale lorsque les autres solutions de transport ne répondent pas aux besoins de la personne.\nSe rendre à un rendez-vous médical, travailler ou accompagner un enfant à l’école peut nécessiter un véhicule adapté. Les équipements d’accès, d’arrimage du fauteuil ou de conduite représentent un coût supplémentaire directement lié au handicap moteur.\nJe propose que ces dépenses soient prises en compte par un crédit d’impôt de 25 % pour les paiements effectués entre 2027 et 2029. Le plafond est de 10 000 euros de dépenses sur cinq ans, soit 2 500 euros de crédit d’impôt au maximum dans la limite de l’impôt dû. Par exemple, un montant de 8 000 euros pour des aménagements éligibles restant à charge après les aides ouvrirait droit à 2 000 euros d’avantage fiscal.\nLe prix de la voiture elle-même n’entre pas dans ce calcul. La nécessité des adaptations doit être attestée et les factures détaillées. Il s’agit d’aider des familles entières à retrouver de la mobilité. Pour atteindre aussi les ménages non imposables, le gouvernement doit permettre le remboursement de cet avantage."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 166,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin,",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 167,
+          "texte": "Ce besoin serait déjà couvert par la prestation de compensation du handicap (PCH). L’avis de la commission est par conséquent défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 168,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 169,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 170,
+          "texte": "La parole est à M. Arnaud Bonnet."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "ordre": 171,
+          "texte": "Je soutiens cet amendement. Dans la grande couronne des métropoles, par exemple, où les transports du quotidien sont parfois insuffisants voire défaillants, il n’est absolument pas anecdotique de disposer d’un véhicule adapté. Cette adaptation doit être individualisée pour être adaptée au handicap, ce qui entraîne un surcoût énorme pour les personnes pour lesquelles ces adaptations sont nécessaires.\nNous jugeons que c’est un bon objectif d’aider ces personnes à retrouver une mobilité, notamment dans les territoires ruraux ou, je le répète, dans la grande couronne des métropoles."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 173,
+          "texte": "(L’amendement no 2173 est adopté.)\n (M. Pascal Lecamp applaudit.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 174,
+          "texte": "Je suis saisi de trois amendements, nos 3787, 1488 et 2320, pouvant être soumis à une discussion commune.\n La parole est à Mme Sophie Mette, pour soutenir l’amendement no 3787."
+        },
+        {
+          "orateur": "Mme Sophie Mette",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719640",
+          "ordre": 175,
+          "texte": "Il vise à rétablir le crédit d’impôt pour l’installation d’une borne de recharge à domicile, qui a pris fin le 31 décembre 2025. Conformément aux recommandations de l’Office parlementaire d’évaluation des choix scientifiques et technologiques (Opecst), le présent amendement le rétablit pour la période allant de 2027 à 2029, porte son plafond à 1 000 euros et le réserve aux ménages modestes et aux classes moyennes.\nL’absence de point de recharge reste l’un des premiers freins à l’achat d’un véhicule électrique. Aider les ménages modestes à s’équiper, c’est réduire durablement leur facture de carburant et notre dépendance aux hydrocarbures importés."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 177,
+          "texte": "Sur l’amendement no 3787, je suis saisi par le groupe Les Démocrates d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nL’amendement no 1488 de M. Jean-Pierre Vigier est défendu.\nLa parole est à M. Jean-Luc Fugit, pour soutenir l’amendement no 2320."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 180,
+          "texte": "Le développement des mobilités électriques accroît sensiblement nos besoins en électricité. Le gouvernement y a répondu par la troisième programmation pluriannuelle de l’énergie (PPE) et l’élaboration d’un plan d’électrification.\nPour que le système électrique s’adapte à cette évolution, le pilotage de la recharge des véhicules électriques, neufs comme d’occasion, constitue un outil précieux. Il permet notamment de limiter les appels de puissance aux heures de pointe, d’absorber les excédents de production et de favoriser la flexibilité et la soutenabilité du réseau.\nJusqu’à fin 2025, l’installation d’une borne pilotable bidirectionnelle, dont le coût reste supérieur à celui d’une borne classique, permettait de bénéficier d’un crédit d’impôt. Le présent amendement vise donc à rétablir cette aide pour mieux accompagner le déploiement de telles bornes qui apporteront de la flexibilité et permettront un meilleur pilotage du réseau électrique – pour répondre aux appels de puissance.\nJe précise qu’il s’agit de bornes pilotables bidirectionnelles, car on nous oppose souvent qu’un tel équipement est compris dans l’achat d’un véhicule neuf. J’appelle cependant votre attention sur le nombre croissant de véhicules d’occasion, avec l’arrivée sur le marché de véhicules électriques en leasing, pour lesquels aucune aide n’est prévue. Or ce type de crédit d’impôt permet d’aider les plus modestes. Je remercie par ailleurs notre collègue d’avoir cité le rapport de l’Opecst que j’ai cosigné avec le sénateur Médevielle."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 184,
+          "texte": "Quel est l’avis de la commission sur ces amendements ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 185,
+          "texte": "L’amendement no 3787 de Mme Mette prévoit le rétablissement et le doublement du plafond pour le crédit d’impôt, qui serait réservé aux ménages les plus modestes. Le no 1488 le rétablit pour deux ans ; le no 2320 le rétablit pour un an.\nL’année de sa suppression, le dispositif avait coûté 22 millions d’euros. La commission a donné un avis défavorable à l’amendement no 3787 et un avis favorable aux deux suivants."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 187,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 188,
+          "texte": "Le marché a considérablement évolué, et dans le bon sens, depuis l’époque où nous débattions de ces crédits d’impôt. Les derniers chiffres montrent d’ailleurs l’efficacité des dispositifs mis en place : 40 % des véhicules neufs sont des véhicules électriques, soit le double d’il y a un an. On compte désormais quelque 200 000 bornes publiques sur tout le territoire, sans compter les bornes privées. Nous sommes donc en train de transformer le marché automobile, tout en apportant un soutien important aux constructeurs français. Par conséquent, les dispositifs doivent s’adapter.\nLa priorité est de concentrer les aides sur les ménages les plus modestes. Il s’agit d’ailleurs moins d’un objectif de transition écologique ou de politique industrielle que d’un objectif de politique sociale, afin de sortir les ménages les plus modestes de la dépendance au prix du carburant – un débat que nous avons eu aujourd’hui. C’est par exemple tout l’enjeu du leasing social que nous défendons : 100 000 personnes pourront en bénéficier dès cette année – un dispositif considérable.\nEn revanche, de nombreuses mesures de soutien existent déjà pour les bornes de recharge : taux de TVA réduits, aides apportées par les collectivités locales, aides apportées par les copropriétés…\nLe rapporteur général a évoqué le coût de l’amendement no 3787 : il serait d’une trentaine de millions d’euros. Dans le moment de bascule que nous vivons, nous devons, j’y insiste, concentrer les aides sur les ménages les plus modestes et continuer à accompagner les industries française et européenne. Ce type de dispositif me semble moins nécessaire qu’auparavant. Mon avis sera donc défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 192,
+          "texte": "La parole est à Mme Mathilde Feld."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "ordre": 193,
+          "texte": "Je suis effrayée par l’entre-soi qui règne dans cet hémicycle, où l’on vote de petites mesures qui vont bien pour les gens bien installés, qui vivent dans des pavillons…\nJ’aimerais que vous m’expliquiez comment on fait pour accéder à ce genre de crédits quand on habite dans une HLM ou dans un immeuble collectif : comment installe-t-on une borne quand on habite au neuvième étage ?\nEn plus, monsieur le ministre, vous affirmez qu’il s’agit d’abord de mesures sociales, en faveur des ménages les plus modestes, mais à l’exception de celui de Mme Mette, ces amendements ne me semblent pas particulièrement orientés vers eux. Ce serait bien, pourtant.\nM. le rapporteur général donne un avis favorable pour les 22 millions d’euros que coûterait la mesure, alors que nous venons de laisser échapper 3 milliards sur le crédit d’impôt services à la personne (Cisap). Allons-y, continuons !\nJe suis absolument dégoûtée par votre attitude : vous ne légiférez pas pour le peuple français, vous légiférez pour une caste. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 198,
+          "texte": "La parole est à M. Jean-Luc Fugit."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 199,
+          "texte": "J’apporterai deux arguments en faveur de ces amendements. Grâce à la flexibilité apportée par les bornes pilotables, les investissements dans le réseau électrique seront moindres – un point que vous devriez examiner de près, monsieur le ministre, car, à la fin, nous serons gagnants.\nD’autre part, ce type de mesures permettra d’aider des foyers aux revenus plutôt modestes à acheter des véhicules électriques d’occasion. En effet, il est temps de les accompagner davantage afin qu’ils puissent y accéder."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 201,
+          "texte": "Surtout des véhicules chinois !"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 202,
+          "texte": "Les véhicules d’occasion ne sont pas chinois ! Un accompagnement accru permettrait d’amplifier l’électrification du parc et la flexibilité, je le répète, diminuerait les investissements sur le réseau. Il serait donc dommage de se priver de cette aide."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "ordre": 203,
+          "texte": "Comment fait-on dans les HLM ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 204,
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 205,
+          "texte": "Je suis affolé par le nombre de crédits d’impôt qui défilent et pèsent sur notre déficit."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 206,
+          "texte": "Ça s’appelle la droite !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 207,
+          "texte": "Nous avons commencé l’examen du budget avec l’idée de ne pas dépasser 5 % de déficit et de diminuer impérativement notre endettement. Or nous multiplions les amendements qui supposent des dépenses."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 208,
+          "texte": "Bien dit, monsieur Cazeneuve !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 209,
+          "texte": "En outre, nous savons tous que les crédits d’impôt – c’est de l’argent public – ont un impact sur le prix des prestations par les fournisseurs. Un crédit d’impôt sur les bornes de recharge entraînera assurément une augmentation de leur prix de 10, 20 ou 30 %, et l’argent n’ira pas à l’utilisateur, mais à l’industriel ou à l’intermédiaire. (M. Aurélien Le Coq applaudit.)\nEnfin, vous dites que ce crédit d’impôt a pris fin en 2025. Or je constate que l’explosion des ventes de voitures électriques date de 2026 : voilà bien la preuve qu’il n’y a aucune corrélation entre le crédit d’impôt sur les bornes et le fait que ces voitures se vendent bien – une bonne nouvelle pour tout le monde."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 211,
+          "texte": "Je mets aux voix l’amendement no 3787."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 212,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 213,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        104\n        Nombre de suffrages exprimés                62\n        Majorité absolue                        32\n                Pour l’adoption                23\n                Contre                39",
+          "scrutinDetecte": {
+            "ordre": 213,
+            "votants": 104,
+            "exprimes": 62,
+            "majoriteAbsolue": 32,
+            "pour": 23,
+            "contre": 39,
+            "abstention": 42
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 214,
+          "texte": "(L’amendement no 3787 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 215,
+          "texte": "(Les amendements nos 1488 et 2320, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 216,
+          "texte": "L’amendement no 2178 de Mme Sophie Mette est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 217,
+          "texte": "(L’amendement no 2178, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 218,
+          "texte": "Sur l’amendement no 299, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Pierre-Yves Cadalen, pour soutenir cet amendement."
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "ordre": 220,
+          "texte": "Il faut le dire clairement : en période de changement climatique, la lutte contre les feux a plusieurs visages. L’un a été singulièrement ignoré l’été dernier, alors qu’il s’agit probablement du plus important : la forêt en monoculture de pins. Or dans les Landes, en Gironde…"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 221,
+          "texte": "Parlez moins fort !"
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "ordre": 222,
+          "texte": "…ou en Nouvelle-Aquitaine, 90 % des propriétaires de forêts en monoculture sont des propriétaires privés. Il faut donc que l’État agisse, en conditionnant les crédits d’impôt à la culture de plusieurs espèces."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 223,
+          "texte": "On dit « essences », pas « espèces » !"
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "ordre": 224,
+          "texte": "Je vois Charles de Courson s’énerver, mais il faut comprendre ce que je dis."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 225,
+          "texte": "Je disais simplement : nous ne sommes pas sourds !"
+        },
+        {
+          "orateur": "M. Pierre-Yves Cadalen",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841023",
+          "ordre": 226,
+          "texte": "C’est pour vous réveiller un peu ! (Applaudissements sur quelques bancs du groupe LFI-NFP.)\nLa coexistence de plusieurs espèces favorise la rétention d’eau, le développement de la biodiversité et, à terme, l’efficacité de la lutte contre les incendies.\nVous n’êtes pas le seul à devoir vous réveiller : le gouvernement et l’Assemblée doivent lutter de façon déterminée et planifiée contre les incendies et les canicules à venir. (Applaudissements sur de nombreux bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 229,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 230,
+          "texte": "Tous les travaux forestiers n’ont pas pour but de valoriser le bois. On nous a expliqué que les scieries françaises seraient incapables d’absorber tout le bois coupé en France. Votre amendement semble donc difficile à appliquer. À ce titre, mon avis sera défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 231,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 232,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 233,
+          "texte": "La parole est à Mme Mathilde Panot."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 234,
+          "texte": "Il est un peu léger de justifier votre avis uniquement par la capacité des scieries. Tout le monde sait ici que leur nombre a chuté depuis trente à quarante ans, en raison notamment du passage à la monoculture de pins comme mode unique de sylviculture. Or nous devons valoriser le bois d’œuvre, susceptible de capter du carbone, par exemple lorsqu’il est utilisé pour des charpentes.\nCet amendement prévoit de conditionner le crédit d’impôt à la valorisation du bois en France et à l’absence de monoculture.\nEn effet, quels ont été les résultats du projet pharaonique de plantation de 1 milliard d’arbres, dans le cadre du plan de relance voulu par Emmanuel Macron ? Des associations comme Canopée ont montré que 87 % de l’argent public a été utilisé pour faire des coupes rases, y compris dans des forêts saines, diversifiées, à couvert continu, et pour créer des plantations en monoculture. C’est une aberration !\nNous sommes désormais à un carrefour, et nous refusons l’industrialisation des forêts – comme a eu lieu l’industrialisation de l’agriculture. Il faut garder des forestiers et des forêts diversifiées. Il est donc normal que l’argent public finance une sylviculture saine, qui permet de capter du carbone et de transformer le bois en France, et non en Chine. (Applaudissements sur de nombreux bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 238,
+          "texte": "La parole est à M. Frédéric-Pierre Vos."
+        },
+        {
+          "orateur": "M. Frédéric-Pierre Vos",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841575",
+          "ordre": 239,
+          "texte": "Vous avez une très mauvaise connaissance de la loi Sérot, qui implique une planification sur plusieurs années. En effet, les contrats passés avec les propriétaires déterminent les espèces plantées, généralement à un jeune âge, ainsi que les coupes à réaliser dans des carrés programmés bien des années à l’avance.\nFaire intervenir le législateur sans que la loi puisse être d’ordre public, puisqu’elle ne pourra pas remettre en cause des contrats existants, est donc un non-sens juridique. C’est également un non-sens écologique, car vous viendriez perturber des écosystèmes qui remontent au moins au Second Empire, notamment en Sologne et dans les Landes, et qui fonctionnent très bien."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "ordre": 241,
+          "texte": "Il n’y a plus de biodiversité !"
+        },
+        {
+          "orateur": "M. Frédéric-Pierre Vos",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841575",
+          "ordre": 242,
+          "texte": "Quant aux incendies, je vous invite à vous rapprocher des renseignements territoriaux qui vous expliqueront qui a mis le feu aux forêts françaises. Vous pourriez avoir de très mauvaises surprises. (Applaudissements sur quelques bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 243,
+          "texte": "C’est lamentable ! Vous n’avez rien compris !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 244,
+          "texte": "Je mets aux voix l’amendement no 299."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 245,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 246,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        116\n        Nombre de suffrages exprimés                108\n        Majorité absolue                        55\n                Pour l’adoption                37\n                Contre                71",
+          "scrutinDetecte": {
+            "ordre": 246,
+            "votants": 116,
+            "exprimes": 108,
+            "majoriteAbsolue": 55,
+            "pour": 37,
+            "contre": 71,
+            "abstention": 8
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 247,
+          "texte": "(L’amendement no 299 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 248,
+          "texte": "La parole est à M. Charles de Courson, pour soutenir l’amendement no 2780."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 249,
+          "texte": "Nous avons évoqué tout à l’heure, avec l’amendement de notre collègue Dalloz, le Defi. Cet amendement vise à étendre le Defi acquisition aux personnes morales, c’est-à-dire aux sociétés civiles forestières. Actuellement, il est réservé aux personnes physiques, alors que le Defi travaux est ouvert à la fois aux personnes physiques et aux personnes morales. Il s’agit donc d’un amendement d’harmonisation entre le Defi acquisition et le Defi travaux."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 250,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 251,
+          "texte": "La question que vous posez est la suivante : est-il pertinent qu’une réduction d’impôt sur le revenu s’applique à une personne morale ? Vous avez répondu par l’affirmative, mais je ne suis pas certain qu’il y ait, en l’espèce, un réel intérêt. Par ailleurs, on m’indique que le Defi acquisition s’applique déjà à l’acquisition et à la souscription de parts de groupements forestiers ou de sociétés d’épargne forestière. Dans ces conditions, l’amendement est donc satisfait. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 252,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 253,
+          "texte": "Avis défavorable, pour les mêmes raisons."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 254,
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 255,
+          "texte": "Les sociétés civiles immobilières forestières sont fiscalement transparentes : le crédit d’impôt revient donc aux détenteurs des parts. Quant au Defi acquisition, il vise à permettre l’acquisition de parcelles afin d’assurer une gestion forestière cohérente. Il est ouvert aux personnes physiques, mais pas aux personnes morales que sont les sociétés civiles immobilières (SCI) forestières. Ma proposition est donc simple : assurer la cohérence entre le Defi travaux et le Defi acquisition. Le Defi travaux est déjà ouvert aux SCI forestières, et le crédit d’impôt est réparti entre leurs détenteurs. Par exemple, si trois associés détiennent chacun un tiers des parts, chacun bénéficie d’un tiers du crédit d’impôt dans sa déclaration de revenus. Les SCI forestières sont transparentes."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 256,
+          "texte": "(L’amendement no 2780 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 257,
+          "texte": "Je suis saisi de deux demandes de scrutin public : sur l’amendement no 3812 rectifié, par le groupe Les Démocrates ; et sur l’amendement no 2448, par le groupe Socialistes et apparentés.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Sophie Mette, pour soutenir l’amendement no 2514."
+        },
+        {
+          "orateur": "Mme Sophie Mette",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719640",
+          "ordre": 259,
+          "texte": "Il vise à supprimer la condition minimale de superficie applicable à l’acquisition de terrains en nature de bois et forêts ou de terrains nus à boiser dans le cadre du Defi acquisition. Le seuil actuel de 4 hectares peut en effet exclure une acquisition utile à la constitution d’une unité de gestion au seul motif qu’elle ne permet pas encore d’atteindre cette superficie."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 260,
+          "texte": "(L’amendement no 2514, repoussé par la commission et par le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 261,
+          "texte": "Je vous donne à nouveau la parole, madame Mette, pour soutenir l’amendement no 3812 rectifié."
+        },
+        {
+          "orateur": "Mme Sophie Mette",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719640",
+          "ordre": 262,
+          "texte": "Je reste dans le domaine forestier. À gestion forestière comparable, le soutien fiscal ne devrait pas dépendre du fait de détenir sa forêt seul ou au sein d’un groupement. Aujourd’hui, un propriétaire individuel peut bénéficier du Defi travaux grâce à un code de bonnes pratiques sylvicoles et à un programme de coupes et de travaux approuvé. Cette possibilité n’est pas ouverte dans les mêmes conditions aux associés des structures concernées. Cet amendement vise donc à aligner les conditions d’accès au dispositif. Sur la base d’un programme approuvé par le Centre national de la propriété forestière, les associés, pour leur part des dépenses, bénéficieraient du crédit d’impôt. Les engagements de conservation et de gestion seraient maintenus. L’amendement ne relève ni le taux ni les plafonds, mais ouvre le dispositif à des propriétaires aujourd’hui exclus en raison de leur mode de détention. Cette extension a un coût qui reste à évaluer. Elle encourage la gestion collective sans réduire les exigences de gestion durable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 263,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 264,
+          "texte": "J’ignore absolument combien de situations cela pourrait recouvrir. Je m’en remets donc à la sagesse de l’Assemblée et me tourne vers le ministre pour en savoir plus."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 265,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 266,
+          "texte": "Aujourd’hui, dans le cadre du volet travaux du Defi forêt, le groupement s’engage à conserver les parcelles concernées pendant huit ans et à appliquer l’une des garanties de gestion durable prévues par le code forestier. Votre amendement substituerait à ces garanties légales une présomption de gestion durable fondée sur le code de bonnes pratiques sylvicoles que vous mentionnez. Ce code est un document simplifié, conçu pour les propriétaires qui réalisent eux-mêmes les travaux, notamment dans les petites propriétés individuelles. Ce n’est pas le cas des groupements forestiers, qui ont vocation à mutualiser les surfaces et disposent donc de documents de gestion plus exigeants. Il est par conséquent nécessaire de maintenir un niveau d’exigence supérieur pour ces groupements, afin de ne pas réduire les garanties de gestion durable ni de traiter de la même manière des structures aux caractéristiques différentes. C’est pourquoi je vous demande de retirer votre amendement. À défaut, j’émets un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 267,
+          "texte": "Je mets aux voix l’amendement no 3812 rectifié."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 268,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 269,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        104\n        Nombre de suffrages exprimés                94\n        Majorité absolue                        48\n                Pour l’adoption                50\n                Contre                44",
+          "scrutinDetecte": {
+            "ordre": 269,
+            "votants": 104,
+            "exprimes": 94,
+            "majoriteAbsolue": 48,
+            "pour": 50,
+            "contre": 44,
+            "abstention": 10
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 270,
+          "texte": "(L’amendement no 3812 rectifié est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 271,
+          "texte": "Sur l’amendement no 3811, je suis saisi par le groupe Les Démocrates d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Gérard Leseul, pour soutenir l’amendement no 2448."
+        },
+        {
+          "orateur": "M. Gérard Leseul",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA774958",
+          "ordre": 273,
+          "texte": "Nos forêts abritent un trésor de biodiversité. Pourtant, les entreprises de travaux forestiers interviennent trop souvent à l’aveugle, sans disposer de diagnostics écologiques clairs et suffisants. Elles s’exposent ainsi à de lourds risques juridiques et financiers en cas de destruction involontaire d’espèces protégées. L’amendement proposé par notre collègue Chantal Jourdan apporte une solution concrète en créant un crédit d’impôt incitatif pour financer la réalisation d’un diagnostic de l’indice de biodiversité potentielle. Cet outil est reconnu par les professionnels et les services de l’État. Simple, il permet d’adapter la gestion forestière et d’identifier les zones à préserver. Notre proposition reste mesurée, puisque nous prévoyons un ciblage très rigoureux du dispositif."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 274,
+          "texte": "Vous m’avez trompé, monsieur Leseul, en prenant la parole. Vous n’êtes pas cosignataire de l’amendement. Heureusement, Mme Pirès Beaune est là. Je considère donc qu’il a été défendu."
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "ordre": 275,
+          "texte": "C’est un excellent amendement !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 276,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 277,
+          "texte": "Vous dites qu’il s’agit d’une proposition mesurée. En réalité, vous souhaitez augmenter de manière importante le taux du crédit d’impôt, qui passerait de 25 à 80 %. Or, le coût moyen de réalisation d’un diagnostic est de l’ordre de 400 euros par hectare, d’après les chiffres dont je dispose. Cette hausse représentant un effort fiscal important, j’émets un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 278,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 279,
+          "texte": "M. Leseul nous a trompés deux fois, en prenant la parole et en affirmant que cette mesure serait très ciblée. Il s’agit tout de même d’un crédit d’impôt de 80 % pour la réalisation d’un indice de biodiversité potentielle. Cet indice est effectivement très utile, comme vous l’avez rappelé. Il permet d’évaluer la biodiversité forestière à partir d’une dizaine de critères, notamment le nombre de gros arbres morts. Cependant, je ne suis pas certain que cet outil nécessite un crédit d’impôt, a fortiori à hauteur de 80 %. C’est un des débats que nous avons depuis le début : toute politique publique utile ne nécessite pas nécessairement un avantage fiscal. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 280,
+          "texte": "Je mets aux voix l’amendement no 2448."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 281,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 282,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        102\n        Nombre de suffrages exprimés                74\n        Majorité absolue                        38\n                Pour l’adoption                10\n                Contre                64",
+          "scrutinDetecte": {
+            "ordre": 282,
+            "votants": 102,
+            "exprimes": 74,
+            "majoriteAbsolue": 38,
+            "pour": 10,
+            "contre": 64,
+            "abstention": 28
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 283,
+          "texte": "(L’amendement no 2448 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 284,
+          "texte": "La parole est à Mme Sophie Mette, pour soutenir l’amendement no 3811."
+        },
+        {
+          "orateur": "Mme Sophie Mette",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719640",
+          "ordre": 285,
+          "texte": "Après un incendie, le risque ne disparaît pas toujours avec les flammes. Certains peuplements fragilisés peuvent favoriser la prolifération de ravageurs et menacer les parcelles voisines. Entre la Gironde et les Landes, nous connaissons bien ce problème. Lorsque le broyage est nécessaire pour prévenir ce risque, il faut aider les propriétaires à intervenir. Cet amendement porterait donc à 50 % le crédit d’impôt applicable à ces travaux de broyage sanitaire, pour les dépenses payées en 2026 et 2027, afin de tenir compte des interventions déjà réalisées cette année. Pour 4 000 euros de dépenses éligibles restant à charge, l’avantage calculé serait de 2 000 euros. Par rapport au taux actuel de 25 %, le soutien augmenterait ainsi de 1 000 euros, sous réserve de l’impôt disponible pour ce supplément. Les factures et la nécessité sanitaire des travaux devront être justifiées. Les aides perçues seront déduites et les plafonds resteront inchangés. Cet avantage fiscal compléterait les aides directes, mais il ne dispenserait pas les propriétaires de disposer de la trésorerie nécessaire pour avancer le coût des travaux."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 286,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 287,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 288,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 289,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 290,
+          "texte": "Je mets aux voix l’amendement no 3811."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 291,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 292,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        105\n        Nombre de suffrages exprimés                70\n        Majorité absolue                        36\n                Pour l’adoption                3\n                Contre                67",
+          "scrutinDetecte": {
+            "ordre": 292,
+            "votants": 105,
+            "exprimes": 70,
+            "majoriteAbsolue": 36,
+            "pour": 3,
+            "contre": 67,
+            "abstention": 35
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 293,
+          "texte": "(L’amendement no 3811 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 294,
+          "texte": "La parole est à M. Charles de Courson, pour soutenir l’amendement no 2783."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 295,
+          "texte": "L’article 200 quindecies du code général des impôts permet aux contribuables de bénéficier d’un crédit d’impôt au titre de leurs investissements forestiers, qu’il s’agisse de l’acquisition de bois et forêts, dans le cadre du Defi acquisition, de la réalisation de travaux sylvicoles, dans le cadre du Defi travaux, ou de la souscription d’une assurance, dans le cadre du Defi assurance. Cet amendement propose d’aligner les modalités de calcul du crédit d’impôt du Defi acquisition sur celles du Defi travaux. En effet, ce dernier permet de reporter sur les quatre années suivantes les dépenses de travaux dépassant les plafonds, dans les mêmes limites, et jusqu’à huit ans en cas de sinistre forestier. Cette possibilité n’existe pas pour le Defi acquisition. Il s’agit donc simplement d’étendre à ce dispositif un mécanisme déjà prévu pour le Defi travaux, afin de permettre un étalement de l’avantage fiscal dans le temps."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 296,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 297,
+          "texte": "Il existe une différence de nature entre les acquisitions et les entretiens. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 298,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 299,
+          "texte": "En effet, il existe bien une différence entre les volets acquisition et travaux, comme vous l’avez souligné, en matière de report et d’étalement du crédit d’impôt. Mais cette différence n’est pas arbitraire : elle tient à la nature des dépenses engagées. Les travaux forestiers représentent des dépenses lourdes, parfois imprévisibles, notamment lorsqu’ils font suite à un incendie, à une dégradation ou à une attaque sanitaire, et qu’il faut reconstituer un peuplement forestier. Le mécanisme de report vise donc à lisser ce coût dans le temps. Une acquisition forestière ne répond pas exactement à la même logique."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 300,
+          "texte": "En effet, une acquisition étant une opération patrimoniale ponctuelle, dont on calcule le coût à partir du prix fixé, l’acquéreur – qui a éventuellement contracté des crédits – n’a pas besoin d’organiser le même lissage. C’est la raison pour laquelle j’émets un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 301,
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 302,
+          "texte": "L’argument de M. le ministre et de M. le rapporteur général ne tient pas : vous pouvez être amené à réaliser d’importants travaux une année n et non les années suivantes, auquel cas, vous avez la possibilité d’étaler le montant des travaux sur plusieurs années, puisqu’il est souvent très supérieur au plafond annuel.\nLe problème est exactement le même pour les acquisitions : vous pouvez saisir une opportunité de réorganiser ou de compléter un massif, qui ne se présentera qu’une fois en cinq ou six ans. Contrairement à ce qui a été affirmé tant par M. le ministre que par M. le rapporteur général, il n’y a pas de différence de nature.\nMes chers collègues, je vous propose que nous harmonisions les deux dispositifs."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 305,
+          "texte": "(L’amendement no 2783 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 306,
+          "texte": "Je suis saisi de deux amendements, nos 3810 et 2789, pouvant être soumis à une discussion commune.\n L’amendement no 3810 de Mme Sophie Mette fait l’objet d’une demande de scrutin public de la part du groupe Les Démocrates.\nLe scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n Cet amendement est défendu.\nLa parole est à M. Charles de Courson, pour soutenir l’amendement no 2789."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 308,
+          "texte": "Entretenir une forêt, restaurer un peuplement ou intervenir après un sinistre, qu’il résulte d’un incendie ou d’une tempête, exige des dépenses immédiates, alors que les revenus forestiers peuvent être, comme vous le savez, très éloignés dans le temps. Le soutien fiscal doit donc mieux accompagner cet effort de gestion et de reconstitution.\nLe présent amendement tend à porter de 25 % à 35 % le taux de crédit d’impôt applicable aux travaux forestiers éligibles réalisés directement par les propriétaires ou par les structures mentionnées à l’article 200 quindecies du code général des impôts et à le porter à 50 % pour les travaux rendus nécessaires par un sinistre relevant du premier alinéa de l’article 1398 du même code.\nCette majoration serait liée à la finalité des travaux : réparer les conséquences du sinistre ou prévenir les risques phytosanitaires qui lui sont directement consécutifs ; la seule localisation dans une forêt anciennement sinistrée ne suffirait pas.\nLes plafonds de dépense, la déduction des aides publiques, les engagements de conservation et de gestion durable ainsi que l’encadrement européen des aides publiques demeureraient applicables, puisque le taux de 76 % relativement aux cotisations d’assurance forestière serait conservé.\nL’objet du présent amendement est tout simplement de faciliter l’entretien et la remise en état de forêts sinistrées."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 313,
+          "texte": "Quel est l’avis de la commission sur ces deux amendements ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 314,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 315,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 316,
+          "texte": "Ces amendements tendent à augmenter de 40 % le taux du crédit d’impôt, ce qui n’est pas une mince affaire dans le contexte actuel. Pour ma part, je crois que nos efforts doivent cibler certains massifs, parmi lesquels, bien évidemment, ceux qui ont subi les incendies. Nous aurons l’occasion d’y revenir longuement, notamment lors de l’examen de la seconde partie du projet de loi de finances, quand nous examinerons les financements ciblés, dédiés au renouvellement forestier. Quant à la proposition d’augmenter de 40 % le taux de l’encouragement fiscal pour travaux, qui est d’ores et déjà le plus généreux des Defi forestiers, j’y suis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 317,
+          "texte": "Je mets aux voix l’amendement no 3810."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 318,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 319,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        101\n        Nombre de suffrages exprimés                58\n        Majorité absolue                        30\n                Pour l’adoption                8\n                Contre                50",
+          "scrutinDetecte": {
+            "ordre": 319,
+            "votants": 101,
+            "exprimes": 58,
+            "majoriteAbsolue": 30,
+            "pour": 8,
+            "contre": 50,
+            "abstention": 43
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 320,
+          "texte": "(L’amendement no 3810 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 321,
+          "texte": "Je mets aux voix l’amendement no 2789."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 322,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 323,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        105\n        Nombre de suffrages exprimés                104\n        Majorité absolue                        53\n                Pour l’adoption                50\n                Contre                54",
+          "scrutinDetecte": {
+            "ordre": 323,
+            "votants": 105,
+            "exprimes": 104,
+            "majoriteAbsolue": 53,
+            "pour": 50,
+            "contre": 54,
+            "abstention": 1
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 324,
+          "texte": "(L’amendement no 2789 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 325,
+          "texte": "La parole est à Mme Mathilde Panot, pour soutenir l’amendement no 298."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 326,
+          "texte": "Il vise à éviter que de l’argent public subventionne des coupes rases. Je rappelle que cette pratique est une aberration : non seulement elle favorise l’érosion du sol, mais elle modifie les cycles de l’eau et libère du carbone stocké dans les sols. Or, contrairement à ce que l’on croit généralement, la plupart du carbone en forêt se trouve dans les sols et, contrairement à ce qui a été dit tout à l’heure, les sols forestiers sont extrêmement fragiles. Leur mise à nu lors des coupes rases les expose directement au rayonnement solaire, de sorte que les propriétaires forestiers pratiquant la monoculture épandent encore des pesticides après plusieurs coupes rases, ce qui est encore une aberration.\nQui plus est, la France est déjà en retard sur cette question. En Suisse, procéder à des coupes rases est interdit depuis 1876, sauf en cas d’impasse sanitaire avérée. L’Allemagne impose des restrictions à cette pratique. Un pays comme l’Autriche l’interdit au-delà de 2 hectares et exige une autorisation préalable à partir de 0,5 hectare. À défaut d’avoir une législation restrictive, comme elle le devrait, la France pourrait au moins faire en sorte que l’argent public ne serve pas à cela. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 328,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 329,
+          "texte": "Les coupes rases sont déjà soumises à de multiples autorisations et interdictions. Si vous ne respectez pas ces obligations, qui peuvent être édictées par la direction départementale des territoires (DDT) ou figurer dans votre plan simple de gestion (PSG) forestière, vous ne pouvez pas bénéficier du crédit d’impôt.\nAvis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 331,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 332,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 333,
+          "texte": "La parole est à Mme Mathilde Panot."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 334,
+          "texte": "Merci, monsieur le rapporteur général : au moins avez-vous avancé un argument à l’appui de votre avis.\nPeut-être êtes-vous déjà allé dans le Morvan, où 50 % des forêts diversifiées ont été remplacées par des monocultures de pins. Cette catastrophe change jusqu’au paysage et suscite une forte résistance populaire. Alors que leur exploitation tend à s’industrialiser, ne laissons pas faire avec les forêts ce qui est arrivé en agriculture : il ne faut pas d’industrialisation des forêts. Pour l’éviter, il faut supprimer son principal levier : la coupe rase.\nPour rappel, 87 % de l’argent public dédié au volet forestier du plan France Relance a servi à financer des coupes rases et des monocultures. C’est une aberration ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 337,
+          "texte": "La parole est à Mme Marie-Christine Dalloz."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 338,
+          "texte": "Je m’attendais à tout sauf à entendre Mme Panot nous parler de la forêt. (Vives exclamations sur les bancs du groupe LFI-NFP.) C’est extraordinaire, je suis ravie ! Ce qui serait intéressant, ce serait de l’entendre prochainement sur l’agriculture. (Exclamations persistantes. – «Taisez-vous ! » sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 339,
+          "texte": "On n’entend rien là !"
+        },
+        {
+          "orateur": "M. Alexandre Dufosset",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840135",
+          "ordre": 340,
+          "texte": "Allez prendre une tisane !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 341,
+          "texte": "S’il vous plaît, chers collègues !"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 342,
+          "texte": "C’est scandaleux, monsieur le président !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 343,
+          "texte": "C’est le débat."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 344,
+          "texte": "Je ne suis pas certaine que l’exemple du Morvan soit le plus pertinent. Je vous invite à venir dans le Jura, madame Panot. Vous pourrez constater que certaines coupes rases sont nécessaires. En effet, quand l’épicéa est en proie au bostryche et que ce ravageur flambe dans toute la forêt, on est obligé de procéder à des coupes rases."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 345,
+          "texte": "J’ai précisé : sauf en cas de nécessité sanitaire avérée !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 346,
+          "texte": "L’infestation va très vite : en l’espace de trois mois, le bostryche a ravagé une forêt."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "ordre": 347,
+          "texte": "Vous avez écouté ce que Mme Panot a dit ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 348,
+          "texte": "Chut !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 349,
+          "texte": "D’autre part, sur ces parcelles qui ont été coupées à raz, les plantations effectuées dans le cadre du plan de relance ont été diversifiées. En effet, nous en sommes aux phases d’essai. L’Office national des forêts (ONF) ne privilégie aucune essence, il effectue des tests pour déterminer, selon les massifs, lesquelles seront les plus adaptées au changement climatique dans les années à venir.\nArrêtez donc de croire comme un dogme que la coupe rase doit être interdite !"
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 351,
+          "texte": "Il faut des forêts diversifiées, la monoculture est une horreur !"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 352,
+          "texte": "Il faut diversifier en suivant l’avis des techniciens, qui sont aujourd’hui à l’œuvre pour trouver quelle diversification sera nécessaire. Que vous le vouliez ou non, c’est ainsi.\nLa prochaine fois, je vous attends sur l’agriculture – je pense que ça peut être sympathique."
+        },
+        {
+          "orateur": "Mme Mathilde Panot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720892",
+          "ordre": 354,
+          "texte": "Vous êtes pitoyable !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 355,
+          "texte": "(L’amendement no 298 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 356,
+          "texte": "La parole est à M. Arnaud Bonnet, pour soutenir l’amendement no 2139."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "ordre": 357,
+          "texte": "Cet amendement, déposé à l’initiative de notre collègue Dominique Voynet, tend à conditionner l’octroi des aides aux propriétaires forestiers à une première transformation du bois sur le sol de l’Union européenne.\nEn France comme dans le reste de l’Europe, la filière des feuillus est en grande difficulté. Attirés par les prix bien plus avantageux proposés par la Chine, les propriétaires y exportent massivement leur bois. Nombreuses sur le territoire, les petites et moyennes scieries pourraient pourtant disposer des ressources nécessaires pour le transformer.\nÀ l’heure où s’impose l’impératif de décarbonation du secteur du BTP, la première transformation du bois doit se faire en Europe. Je me questionne aussi à titre personnel : à quel moment nous sommes-nous désarmés au point de céder une matière première aussi précieuse ? Des fûts, dont certains ont mis des dizaines d’années à pousser, sont envoyés pour transformation à l’autre bout de la planète pour nous revenir avec une valeur supérieure. Ce que nous avons fait de notre filière bois est assez incompréhensible."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 360,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 361,
+          "texte": "L’adoption de votre amendement améliorerait certainement la situation, puisqe ces aides ne sont aujourd’hui soumises à aucune condition. Toutefois, une chose m’échappe : qu’est-ce qui empêcherait que la première transformation ait lieu dans un autre État membre de l’Union ? Ainsi, l’activité d’une scierie belge ou allemande permettrait de bénéficier d’un crédit d’impôt payé par la France. J’ai donc du mal à voir l’intérêt de l’amendement, sur lequel j’émets un avis défavorable.\nQuant aux scieries françaises, leur nombre a été divisé par dix en trente ans. C’est ce qui explique que nous ayons du mal à traiter tout le bois coupé en France."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 363,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 364,
+          "texte": "Nous avons déjà eu ce débat à propos d’amendements similaires – je suis d’ailleurs étonné qu’ils n’aient pas fait l’objet d’une discussion commune.\nÀ ce qu’a dit le rapporteur général, j’ajouterai que la mesure proposée me semble contraire au droit de l’Union européenne, ce qui la rendrait inapplicable.\nC’est pourquoi j’émets moi aussi un avis défavorable sur l’amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 367,
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 368,
+          "texte": "Non, monsieur le ministre, dans la mesure où l’amendement prévoit l’exportation au sein de l’Union européenne, il n’est pas contraire au droit de l’Union. Le problème, ce n’est pas ça, c’est la réexportation. Comment contrôler que tout ou partie d’une coupe de bois envoyée en Allemagne n’a pas ensuite été exportée en Chine – pour prendre le cas de figure le plus fréquent ? Faute de pouvoir assurer un suivi, la mesure n’est pas applicable. On pourrait éventuellement adopter une disposition de ce genre dans le cadre d’une politique européenne, mais, dans un cadre national, les difficultés de contrôle la rendraient inapplicable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 369,
+          "texte": "(L’amendement no 2139 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 370,
+          "texte": "L’amendement no 1648 de Mme Mélanie Thomin est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 371,
+          "texte": "(L’amendement no 1648, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 372,
+          "texte": "Je suis saisi de trois amendements, nos 2517, 448 et 3189, pouvant être soumis à une discussion commune.\n Ces amendements font l’objet de demandes de scrutin public : le premier, par le groupe La France insoumise-Nouveau Front populaire ; le deuxième, par le groupe Écologiste et social ; le troisième, par le groupe Libertés, indépendants, outre-mer et territoires.\nLes scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à Mme Shéhérazade Bentorki, pour soutenir l’amendement no 2517."
+        },
+        {
+          "orateur": "Mme Shéhérazade Bentorki",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841531",
+          "ordre": 373,
+          "texte": "Il vise à tripler le taux de la contribution exceptionnelle sur les hauts revenus (CEHR). Sur un produit total de 1,4 milliard d’euros, 96,7 % seraient acquittés par les 0,1 % des foyers les plus aisés. Votre budget est une sorte de Robin des bois à l’envers : vous prenez aux plus modestes pour épargner les plus riches ! Notre amendement vise à atténuer l’injustice fiscale, qui mine le consentement à l’impôt.\nVous avez clairement demandé un effort collectif : aux retraités, aux malades de longue durée, aux collectivités territoriales. Sachant que votre politique a permis aux 500 plus grandes fortunes de France de doubler leur patrimoine sous la présidence Macron, ces contribuables pourraient vous témoigner un peu de gratitude ! (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 375,
+          "texte": "La parole est à M. Tristan Lahais, pour soutenir l’amendement no 448."
+        },
+        {
+          "orateur": "M. Tristan Lahais",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841223",
+          "ordre": 376,
+          "texte": "Nous voterons pour l’amendement no 2517 de M. Coquerel, qui vise à tripler le taux de la contribution exceptionnelle sur les hauts revenus. Nous proposons toutefois un amendement moins-disant pour celles et ceux qui considéreraient que le premier est excessif. C’est une solution intermédiaire, mais qui s’inscrit dans la même veine. Il faut en effet que les riches payent comme les autres à due proportion de leurs capacités, alors que nombre d’entre eux échappent aujourd’hui à l’impôt – une singularité française. À l’heure où la France est menacée par une crise de la dette causée par des déficits excessifs, ce n’est pas tenable. Puisqu’il faut corriger ces déficits, il va de soi que celles et ceux qui ont le plus de moyens doivent contribuer davantage. C’est pourquoi nous proposons cet amendement.\nJ’ajoute que nous avons le sentiment, et même la certitude, que cette contribution supplémentaire des plus riches est demandée par la majorité de nos concitoyens, et qu’elle ne se heurte qu’à la sorte de crise que traversent nos institutions du fait de l’alliance nouvelle – ou, plutôt, malheureuse – du bloc central et du Rassemblement national, qui refusent que ces amendements de bon sens soient adoptés."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 378,
+          "texte": "La parole est à M. Michel Castellani, pour soutenir l’amendement no 3189."
+        },
+        {
+          "orateur": "M. Michel Castellani",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719138",
+          "ordre": 379,
+          "texte": "Notre amendement va dans le sens des deux amendements précédents, même si ce qu’il prévoit est plus modeste. Ce n’est pas dans un esprit punitif que nous proposons d’augmenter la CEHR, c’est dans un souci d’efficacité, compte tenu du déséquilibre budgétaire. Il faut rééquilibrer les finances publiques – parler de rééquilibrage est d’ailleurs très optimiste, il serait beaucoup plus juste de dire que nous essayons de ralentir leur dérapage."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 380,
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 381,
+          "texte": "Ces amendements augmentent tous le taux de la contribution exceptionnelle sur les hauts revenus, mais de différentes manières. L’amendement no 2517 le triple, l’amendement no 448 le double, l’amendement no 3189 le rehausse à 3,5 % et 5 %.\nLes deux premiers amendements ont reçu un avis défavorable de la commission. En effet, l’amendement no 2517 aboutirait à un taux marginal d’imposition de 75,6 %…"
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 383,
+          "texte": "Et allez !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 384,
+          "texte": "…avec un impôt sur le revenu (IR) à 45 %, des prélèvements sociaux à 18,6 % et la CEHR à 12 % ; avec l’amendement no 449, le taux marginal d’imposition serait de 71,6 %.\nL’amendement no 3189 a reçu un avis favorable de la commission. J’indique toutefois que l’assiette de la CDHR – contribution différentielle sur les hauts revenus – tient compte de tous les impôts acquis, parmi lesquels la CEHR. Il y a donc un paradoxe : si vous augmentez la CEHR, le produit de la CDHR diminuera. (Exclamations sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 386,
+          "texte": "Sauf si l’on remédie au mitage de la CDHR !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 387,
+          "texte": "En résumé, au nom de la commission, avis défavorable sur les deux premiers amendements, favorable sur le troisième. Je vous mets toutefois en garde contre ses effets de bord."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 388,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 389,
+          "texte": "Comme nous avons longuement débattu de l’indexation du barème de l’impôt sur le revenu ce matin, j’en profite pour rappeler que la CEHR n’a pas été indexée ces dernières années – je ne parle pas là de ce que prévoit le projet de loi de finances pour 2027."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 390,
+          "texte": "On parle de revenus supérieurs à 250 000 euros, quand même !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 391,
+          "texte": "Par conséquent, le nombre de personnes assujetties à la contribution exceptionnelle sur les hauts revenus a plus que doublé entre 2011 et 2024. Alors que 30 000 redevables étaient concernés au moment de sa création, ils sont aujourd’hui 65 000."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 392,
+          "texte": "Oh, ça va !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 393,
+          "texte": "C’est une donnée intéressante pour notre débat, monsieur Le Coq."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 394,
+          "texte": "Oui : la France est riche !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 395,
+          "texte": "Je dirai un mot sur l’optimisation fiscale. Le paradoxe de la CEHR est que son assiette n’est pas très éloignée de celle de l’impôt sur le revenu. Il ne concerne donc pas des personnes qui contourneraient l’imposition, et ces deux notions n’ont en réalité pas grand-chose à voir."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 396,
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 397,
+          "texte": "J’entends bien qu’il y a une demande, de nature symbolique, à augmenter la CEHR mais nous ne nous attaquerions pas là au cœur de l’optimisation fiscale des plus fortunés, qui, pour contourner l’impôt, utilisent plutôt d’autres dispositifs. Les études menées sur les 13 000 contribuables qui payent peu, voire pas d’impôt sur le revenu alors qu’ils sont assujettis à l’impôt sur la fortune immobilière, qu’il s’agisse des auditions à l’Assemblée nationale ou des travaux du Sénat, ont montré que ces derniers avaient plutôt recours à des outils fiscaux. C’est ce qui nous a conduits, conformément aux recommandations du Sénat et du CPO dans son rapport, à proposer des dispositifs de correction pour l’apport-cession, dans l’article 5, ou pour le dispositif LMNP – location meublée non professionnelle – dans l’article 7, lequel est parfois utilisé par les contribuables pour minorer l’assiette au-delà de l’effet voulu.\nLe débat autour de l’effort demandé aux plus fortunés va se poursuivre. Vous l’aurez compris, la politique du gouvernement consiste d’abord à cibler l’abus d’optimisation fiscale, parce que c’est là que se crée la véritable injustice dans notre pays. C’est pourquoi nous vous faisons ces propositions, conformément aux travaux menés tout au long de cette année.\nPour toutes ces raisons, j’émets un avis défavorable sur les amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 400,
+          "texte": "La parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 401,
+          "texte": "J’espère vivement que, contrairement à ce qui s’est passé en commission, nous réussirons ce soir à voter l’augmentation de la CEHR.\nMonsieur le ministre, vous avez raison sur un point : la CEHR n’est pas satisfaisante. En effet, elle ne touche pas de manière utile et suffisamment rentable, non pas tous ceux qui contournent l’impôt, mais tous ceux qui ont utilisé les outils que vous leur avez donnés pour abriter leurs revenus et leur patrimoine derrière de prétendus revenus professionnels, lesquels sont en réalité des actifs financiers passant par des holdings, etc. Nous connaissons les mécanismes ; comme vous le savez, ils concernent plusieurs milliers de personnes. On l’a dit et redit, et toutes les études, y compris celle de la commission d’enquête dont Charles de Courson était le rapporteur, le confirment : ces quelques milliers de personnes ont, toutes impositions confondues, un taux d’effort de 25 %, soit la moitié du taux d’effort moyen des Français."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 403,
+          "texte": "Mais non, ce ne sont pas les mêmes personnes !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 404,
+          "texte": "Monsieur Cazeneuve, il me semble que, lorsque quelqu’un parle en même temps que vous, vous le lui faites remarquer. Vous me répondrez tranquillement tout à l’heure ! (Exclamations sur quelques bancs du groupe EPR.) Oui, je constate que M. Cazeneuve est le spécialiste de ce qu’il reproche aux autres – je le sais parce que je l’entends souvent depuis le banc. (Mêmes mouvements.)"
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 405,
+          "texte": "Tel père, tel fils !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 406,
+          "texte": "Je vais essayer de poursuivre ma réflexion. Ces contribuables sont donc très peu concernés par l’impôt. C’est pourquoi Bercy avait engagé une réflexion sur une contribution sur les patrimoines, malheureusement abandonnée – nous aurions aimé voir comment elle aboutissait. Aussi, faute de vouloir réellement toucher ces personnes très peu nombreuses mais qui nous coûtent très cher, vous êtes-vous concentrés sur les hauts revenus. Ceux-ci – notamment les 1 % les plus hauts, comme le montre l’étude du CPO – sont les grands gagnants du macronisme, par rapport au reste de la population, et il faut en tenir compte. Depuis 2017, à cause de ces cadeaux fiscaux et de ces niches, les recettes de l’État ont diminué de 2,1 % – sans eux, notre déficit pourrait n’être que de 2,9 %, nous n’avons cessé de le répéter.\nVous dites que la situation est grave, et qu’il faut continuer de réduire le déficit. Et qu’est-ce que vous proposez – sans pousser cette fois aucun cri d’orfraie ? D’attaquer les malades de longue durée, les retraités, les bénéficiaires des APL – aides personnelles au logement –, de vous en prendre aux franchises médicales ou aux fonctionnaires en gelant le point d’indice, etc. !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 408,
+          "texte": "Eh oui ! C’est une honte !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 409,
+          "texte": "Mais quand on vous dit que ces personnes, qui en ont largement les moyens, pourraient contribuer à l’effort national davantage que par la seule CEHR – dont, de surcroît, le rendement est insuffisant –, le dialogue devient tout d’un coup absolument impossible. Vous nous traitez de taxateurs et nous accusez de vouloir confisquer leurs revenus. Ça ne tient pas ! Si vous voulez que les efforts soient répartis sur tout le monde, puisque c’est l’argument que vous utilisez pour des retraités qui touchent 1 250 euros par mois, il faut que la CEHR soit revalorisée – même si je vous accorde que ce n’est pas le meilleur outil, et c’est d’ailleurs pourquoi nous en proposons d’autres, comme la taxe Zucman."
+        },
+        {
+          "orateur": "Mme Marie-Christine Dalloz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA332523",
+          "ordre": 410,
+          "texte": "C’est long !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 411,
+          "texte": "En revanche, si vous aviez la bonne idée de ressortir à l’occasion de l’examen de ce PLF la contribution sur les hauts patrimoines à laquelle Bercy a travaillé cette année – et Bercy a vraiment travaillé dessus, je peux en témoigner –, nous pourrions revoir nos demandes à la baisse. Pour l’instant, vous ne proposez rien qui soit à la hauteur de la captation des richesses produites par ceux qui ont leur force de travail pour vivre par ces personnes que vous ciblez, mais que vous aidez largement depuis 2017. (Applaudissements sur quelques bancs du groupe LFI-NFP. – MM. Joël Aviragnet et Karim Ben Cheikh applaudissent également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 412,
+          "texte": "La parole est à Mme Shéhérazade Bentorki."
+        },
+        {
+          "orateur": "Mme Shéhérazade Bentorki",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841531",
+          "ordre": 413,
+          "texte": "Monsieur le ministre, vous dites que, comme le seuil de la CEHR a été gelé, le nombre de personnes assujetties à cette contribution a doublé. C’est faux ! C’est votre politique qui a favorisé l’explosion du nombre de foyers les plus riches ! (M. Aurélien Le Coq applaudit.) C’est un peu le paradoxe de votre politique : vous faites très attention à ne surtout pas imposer les plus riches, alors même que, depuis que Macron est au pouvoir, il y a 12 millions de pauvres en France, c’est-à-dire 15,4 % de personnes vivant sous le seuil de pauvreté. La France s’est pourtant engagée à l’ONU à diviser par deux son taux de pauvreté d’ici à 2030 ; nous en sommes loin, très loin, et votre politique ne peut que le faire exploser ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 414,
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 415,
+          "texte": "Je suis assez surpris par ces amendements, et cela pour une raison assez simple. Vous dites, à juste titre, qu’il y a quelques centaines, probablement quelques milliers de Français dont la fortune est essentiellement constituée d’un patrimoine professionnel et qui payent peu d’impôts sur le revenu. Pour vous, c’est un scandale. Or, pour atteindre ces contribuables, vous choisissez d’augmenter l’impôt le plus redistributif !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 416,
+          "texte": "Ce sont des gens qui gagnent 250 millions d’euros !"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 417,
+          "texte": "Vous tapez en réalité sur ceux qui payent déjà l’impôt ! En effet, lorsque vous vous acquittez de la CEHR, c’est que vous payez déjà 45 % de taux incrémental, plus 4 %, plus 17 % de CSG et que votre taux de prélèvements obligatoires est de 66 % !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 418,
+          "texte": "Combien en taux réel ?"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 419,
+          "texte": "Vous dites en définitive que, puisque vous n’arrivez pas à régler le problème de quelques centaines ou de quelques milliers de contribuables, vous allez taper sur ceux qui payent déjà 66 % de prélèvements obligatoires ! C’est absolument incompréhensible.\nVotre problème, c’est que vous êtes atteints de mélenchonite aiguë (Applaudissements sur quelques bancs du groupe LFI-NFP), ce qui consiste à se demander comment instaurer beaucoup plus d’impôts beaucoup plus élevés, et comment les augmenter systématiquement. Ça ne marche pas comme ça. Je vous le dis une fois de plus : vous allez faire fuir ceux qui font fonctionner notre économie. (Exclamations sur les bancs des groupes LFI-NFP et GDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 421,
+          "texte": "Je mets aux voix l’amendement no 2517."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 422,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 423,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        117\n        Nombre de suffrages exprimés                117\n        Majorité absolue                        59\n                Pour l’adoption                40\n                Contre                77",
+          "scrutinDetecte": {
+            "ordre": 423,
+            "votants": 117,
+            "exprimes": 117,
+            "majoriteAbsolue": 59,
+            "pour": 40,
+            "contre": 77,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 424,
+          "texte": "(L’amendement no 2517 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 425,
+          "texte": "Je mets aux voix l’amendement no 448."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 426,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 427,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        116\n        Nombre de suffrages exprimés                115\n        Majorité absolue                        58\n                Pour l’adoption                43\n                Contre                72",
+          "scrutinDetecte": {
+            "ordre": 427,
+            "votants": 116,
+            "exprimes": 115,
+            "majoriteAbsolue": 58,
+            "pour": 43,
+            "contre": 72,
+            "abstention": 1
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 428,
+          "texte": "(L’amendement no 448 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 429,
+          "texte": "Je mets aux voix l’amendement no 3189."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 430,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 431,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        120\n        Nombre de suffrages exprimés                119\n        Majorité absolue                        60\n                Pour l’adoption                47\n                Contre                72",
+          "scrutinDetecte": {
+            "ordre": 431,
+            "votants": 120,
+            "exprimes": 119,
+            "majoriteAbsolue": 60,
+            "pour": 47,
+            "contre": 72,
+            "abstention": 1
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 432,
+          "texte": "(L’amendement no 3189 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 433,
+          "texte": "Je suis saisi de deux demandes de scrutin public : sur l’amendement no 3190, par le groupe Libertés, indépendants, outre-mer et territoires ; sur l’amendement no 3918, par le groupe de la Gauche démocrate et républicaine.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 0,
+          "texte": "------------------Cette partie de la séance est en cours de finalisation---------------------------------------------"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 8784,
+          "id": "VTANR5L17V8784",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 206 de M. Ben Cheikh et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 86,
+          "exprimes": 85,
+          "pour": 40,
+          "contre": 45,
+          "abstention": 1,
+          "ordre": 30
+        },
+        {
+          "numero": 8785,
+          "id": "VTANR5L17V8785",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1798 de M. Mauvieux après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 97,
+          "exprimes": 94,
+          "pour": 44,
+          "contre": 50,
+          "abstention": 3,
+          "ordre": 46
+        },
+        {
+          "numero": 8786,
+          "id": "VTANR5L17V8786",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1999 de M. Courbon après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 94,
+          "exprimes": 94,
+          "pour": 36,
+          "contre": 58,
+          "abstention": 0,
+          "ordre": 61
+        },
+        {
+          "numero": 8787,
+          "id": "VTANR5L17V8787",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1602 de Mme Pirès-Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 100,
+          "exprimes": 99,
+          "pour": 38,
+          "contre": 61,
+          "abstention": 1,
+          "ordre": 94
+        },
+        {
+          "numero": 8788,
+          "id": "VTANR5L17V8788",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 2171 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 115,
+          "exprimes": 63,
+          "pour": 41,
+          "contre": 22,
+          "abstention": 52,
+          "ordre": 127
+        },
+        {
+          "numero": 8789,
+          "id": "VTANR5L17V8789",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 1310 de M. Isaac-Sibille après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 116,
+          "exprimes": 60,
+          "pour": 39,
+          "contre": 21,
+          "abstention": 56,
+          "ordre": 159
+        },
+        {
+          "numero": 8790,
+          "id": "VTANR5L17V8790",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 3787 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 104,
+          "exprimes": 62,
+          "pour": 23,
+          "contre": 39,
+          "abstention": 42,
+          "ordre": 213
+        },
+        {
+          "numero": 8791,
+          "id": "VTANR5L17V8791",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 299 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 116,
+          "exprimes": 108,
+          "pour": 37,
+          "contre": 71,
+          "abstention": 8,
+          "ordre": 246
+        },
+        {
+          "numero": 8792,
+          "id": "VTANR5L17V8792",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 3812 (rect.) de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 104,
+          "exprimes": 94,
+          "pour": 50,
+          "contre": 44,
+          "abstention": 10,
+          "ordre": 269
+        },
+        {
+          "numero": 8793,
+          "id": "VTANR5L17V8793",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 2448 de Mme Jourdan après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 102,
+          "exprimes": 74,
+          "pour": 10,
+          "contre": 64,
+          "abstention": 28,
+          "ordre": 282
+        },
+        {
+          "numero": 8794,
+          "id": "VTANR5L17V8794",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 3811 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 105,
+          "exprimes": 70,
+          "pour": 3,
+          "contre": 67,
+          "abstention": 35,
+          "ordre": 292
+        },
+        {
+          "numero": 8795,
+          "id": "VTANR5L17V8795",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 3810 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 101,
+          "exprimes": 58,
+          "pour": 8,
+          "contre": 50,
+          "abstention": 43,
+          "ordre": 319
+        },
+        {
+          "numero": 8796,
+          "id": "VTANR5L17V8796",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 2789 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 105,
+          "exprimes": 104,
+          "pour": 50,
+          "contre": 54,
+          "abstention": 1,
+          "ordre": 323
+        },
+        {
+          "numero": 8797,
+          "id": "VTANR5L17V8797",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 2517 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 117,
+          "exprimes": 117,
+          "pour": 40,
+          "contre": 77,
+          "abstention": 0,
+          "ordre": 423
+        },
+        {
+          "numero": 8798,
+          "id": "VTANR5L17V8798",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 448 de M. Lahais après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 116,
+          "exprimes": 115,
+          "pour": 43,
+          "contre": 72,
+          "abstention": 1,
+          "ordre": 427
+        },
+        {
+          "numero": 8799,
+          "id": "VTANR5L17V8799",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 3189 de M. Castellani après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 120,
+          "exprimes": 119,
+          "pour": 47,
+          "contre": 72,
+          "abstention": 1,
+          "ordre": 431
+        }
+      ]
+    }
+  ]
+}
