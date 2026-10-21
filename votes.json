@@ -1,5 +1,1073 @@
 [
   {
+    "id": "VTANR5L17V8906",
+    "numero": 8906,
+    "titre": "l'amendement n° 3115 de M. Biteau après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Écologiste et Social\"",
+    "syntheseVote": {
+      "pour": 42,
+      "contre": 82,
+      "abstention": 2,
+      "total": 126
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 44,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 1,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8905",
+    "numero": 8905,
+    "titre": "l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 159,
+      "contre": 9,
+      "abstention": 4,
+      "total": 172
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 57,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 11,
+        "contre": 8,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 8,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "UDR",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8904",
+    "numero": 8904,
+    "titre": "l'amendement n° 39 de M. Simion à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 72,
+      "contre": 33,
+      "abstention": 75,
+      "total": 180
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 59
+      },
+      {
+        "sigle": "EPR",
+        "pour": 19,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 1,
+        "contre": 8,
+        "abstention": 1
+      },
+      {
+        "sigle": "Dem",
+        "pour": 7,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 6,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 7
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8903",
+    "numero": 8903,
+    "titre": "l'amendement n° 2976 de Mme Runel à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"\rPrésident du groupe \"Droite Républicaine\"",
+    "syntheseVote": {
+      "pour": 40,
+      "contre": 60,
+      "abstention": 91,
+      "total": 191
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 63
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 2,
+        "contre": 19,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 12
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 7,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 8
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8902",
+    "numero": 8902,
+    "titre": "l'amendement n° 472 de Mme Bellay à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 61,
+      "contre": 56,
+      "abstention": 79,
+      "total": 196
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 64
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 3,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 8
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8901",
+    "numero": 8901,
+    "titre": "l'amendement n° 625 de M. Rancoule à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 74,
+      "contre": 102,
+      "abstention": 15,
+      "total": 191
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 62,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 4
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 23,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 8
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "UDR",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8900",
+    "numero": 8900,
+    "titre": "l'amendement n° 37 de Mme Runel à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 68,
+      "contre": 124,
+      "abstention": 9,
+      "total": 201
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 61,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 24,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 3,
+        "contre": 6,
+        "abstention": 3
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8899",
+    "numero": 8899,
+    "titre": "l'amendement n° 36 de Mme Runel et les amendements identiques suivants de suppression de l'article 3 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"\rPrésidente du groupe \"La France insoumise - Nouveau Front Populaire\"\rPrésident du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 164,
+      "contre": 40,
+      "abstention": 7,
+      "total": 211
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 66,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 25,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 5
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 3,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8898",
+    "numero": 8898,
+    "titre": "l'amendement n° 34 de Mme Runel et les amendements identiques suivants de suppression de l'article 2 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"\rPrésidente du groupe \"La France insoumise - Nouveau Front Populaire\"\rPrésident du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 152,
+      "contre": 60,
+      "abstention": 1,
+      "total": 213
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 66,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 24,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8897",
+    "numero": 8897,
+    "titre": "l'amendement n° 33 de Mme Runel et les amendements identiques suivants de suppression de l'article premier du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"\rPrésidente du groupe \"La France insoumise - Nouveau Front Populaire\"\rPrésident du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 151,
+      "contre": 60,
+      "abstention": 2,
+      "total": 213
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 68,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 23,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 23,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 3,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8896",
+    "numero": 8896,
+    "titre": "l'amendement n° 1352 de Mme Mélin et l'amendement identique suivant de suppression de l'article liminaire du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30953",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"\rPrésidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 149,
+      "contre": 60,
+      "abstention": 3,
+      "total": 212
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 71,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 2,
+        "contre": 19,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 34,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 18,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 13,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V8895",
+    "numero": 8895,
+    "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+    "date": "2026-10-20",
+    "seanceRef": "RUANR5L17S2027IDS30952",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"\rPrésidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 128,
+      "contre": 259,
+      "abstention": 1,
+      "total": 388
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 78,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 65,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 53,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 38,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 31,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 28,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 28,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 9,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
     "id": "VTANR5L17V8894",
     "numero": 8894,
     "titre": "l'amendement n° 2577 de Mme Bentorki à l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
@@ -41031,7 +42099,7 @@
   {
     "id": "VTANR5L17V8433",
     "numero": 8433,
-    "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+    "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (texte de la commission mixte paritaire).",
     "date": "2026-07-21",
     "seanceRef": "RUANR5L17S2026IDS30881",
     "sort": "adopté",
@@ -41120,7 +42188,7 @@
   {
     "id": "VTANR5L17V8432",
     "numero": 8432,
-    "titre": "la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+    "titre": "la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (texte de la commission mixte paritaire).",
     "date": "2026-07-21",
     "seanceRef": "RUANR5L17S2026IDS30881",
     "sort": "rejeté",
@@ -41187,15 +42255,15 @@
         "abstention": 0
       },
       {
-        "sigle": "GDR",
-        "pour": 7,
-        "contre": 0,
-        "abstention": 0
-      },
-      {
         "sigle": "UDR",
         "pour": 0,
         "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 7,
+        "contre": 0,
         "abstention": 0
       },
       {
