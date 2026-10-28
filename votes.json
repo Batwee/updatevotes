@@ -1,5 +1,5167 @@
 [
   {
+    "id": "VTANR5L17V9155",
+    "numero": 9155,
+    "titre": "l'amendement n° 1405 de M. Baumel et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 43,
+      "contre": 63,
+      "abstention": 7,
+      "total": 113
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 28,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 13,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 11,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9154",
+    "numero": 9154,
+    "titre": "l'amendement n° 3224 de M. Mazaury après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 42,
+      "contre": 60,
+      "abstention": 8,
+      "total": 110
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 11,
+        "contre": 5,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 4
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 3,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9153",
+    "numero": 9153,
+    "titre": "l'amendement n° 3782 de M. Mattei après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 57,
+      "contre": 63,
+      "abstention": 4,
+      "total": 124
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 10,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9152",
+    "numero": 9152,
+    "titre": "l'amendement n° 3531 de Mme Trouvé après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 50,
+      "contre": 92,
+      "abstention": 3,
+      "total": 145
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 34,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9151",
+    "numero": 9151,
+    "titre": "l'amendement n° 2618 de M. Le Coq après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 53,
+      "contre": 92,
+      "abstention": 4,
+      "total": 149
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 35,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9150",
+    "numero": 9150,
+    "titre": "l'amendement n° 2113 de Mme Feld après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 55,
+      "contre": 91,
+      "abstention": 5,
+      "total": 151
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 36,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9149",
+    "numero": 9149,
+    "titre": "l'amendement n° 2107 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 54,
+      "contre": 87,
+      "abstention": 5,
+      "total": 146
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 29,
+        "abstention": 3
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9148",
+    "numero": 9148,
+    "titre": "l'amendement n° 1282 de M. Arnaud Bonnet après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Écologiste et Social\"",
+    "syntheseVote": {
+      "pour": 55,
+      "contre": 98,
+      "abstention": 2,
+      "total": 155
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 36,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 13,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9147",
+    "numero": 9147,
+    "titre": "l'amendement n° 2619 de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 62,
+      "contre": 107,
+      "abstention": 1,
+      "total": 170
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 42,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9146",
+    "numero": 9146,
+    "titre": "l'amendement n° 1516 de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 61,
+      "contre": 105,
+      "abstention": 4,
+      "total": 170
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 41,
+        "abstention": 1
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9145",
+    "numero": 9145,
+    "titre": "l'amendement n° 2629 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 63,
+      "contre": 106,
+      "abstention": 4,
+      "total": 173
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 42,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9144",
+    "numero": 9144,
+    "titre": "l'amendement n° 1360 de Mme Mercier et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 66,
+      "contre": 115,
+      "abstention": 1,
+      "total": 182
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 46,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 29,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9143",
+    "numero": 9143,
+    "titre": "l'amendement n° 1513 de M. Coquerel et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 64,
+      "contre": 103,
+      "abstention": 7,
+      "total": 174
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 32,
+        "abstention": 6
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 29,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9142",
+    "numero": 9142,
+    "titre": "l'amendement n° 3945 de M. Sansu après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Droite Républicaine\"\rPrésident du groupe \"Gauche Démocrate et Républicaine\"",
+    "syntheseVote": {
+      "pour": 74,
+      "contre": 72,
+      "abstention": 57,
+      "total": 203
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 53
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 30,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 30,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9141",
+    "numero": 9141,
+    "titre": "l'amendement n° 2617 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"\rPrésident du groupe \"Droite Républicaine\"",
+    "syntheseVote": {
+      "pour": 72,
+      "contre": 72,
+      "abstention": 61,
+      "total": 205
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 57
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 30,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 30,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9140",
+    "numero": 9140,
+    "titre": "l'amendement n° 669 de M. Jean-Philippe Tanguy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"\rPrésident du groupe \"Droite Républicaine\"",
+    "syntheseVote": {
+      "pour": 59,
+      "contre": 110,
+      "abstention": 4,
+      "total": 173
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 58,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 30,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 17,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9139",
+    "numero": 9139,
+    "titre": "l'amendement n° 1396 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 31,
+      "contre": 100,
+      "abstention": 64,
+      "total": 195
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 58
+      },
+      {
+        "sigle": "EPR",
+        "pour": 23,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 29,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 2,
+        "contre": 17,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 4,
+        "contre": 1,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9138",
+    "numero": 9138,
+    "titre": "l'amendement n° 2923 de Mme Mercier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 75,
+      "contre": 136,
+      "abstention": 4,
+      "total": 215
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 1,
+        "contre": 56,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 31,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 29,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 2,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9137",
+    "numero": 9137,
+    "titre": "l'amendement n° 2464 de M. Le Coq après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 48,
+      "contre": 141,
+      "abstention": 25,
+      "total": 214
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 57,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 30,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 29,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 23
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 17,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9136",
+    "numero": 9136,
+    "titre": "l'amendement n° 2620 de Mme Feld après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 64,
+      "contre": 139,
+      "abstention": 7,
+      "total": 210
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 56,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 32,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 6
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 17,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9135",
+    "numero": 9135,
+    "titre": "l'amendement n° 2630 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 72,
+      "contre": 133,
+      "abstention": 3,
+      "total": 208
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 55,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 33,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 24,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9134",
+    "numero": 9134,
+    "titre": "l'amendement n° 49 de Mme Sas après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Écologiste et Social\"",
+    "syntheseVote": {
+      "pour": 73,
+      "contre": 136,
+      "abstention": 2,
+      "total": 211
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 58,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 1,
+        "contre": 32,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 28,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 25,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9133",
+    "numero": 9133,
+    "titre": "l'amendement n° 2144 de M. Bilongo après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 64,
+      "contre": 139,
+      "abstention": 5,
+      "total": 208
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 59,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 34,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9132",
+    "numero": 9132,
+    "titre": "l'amendement n° 1372 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 106,
+      "contre": 91,
+      "abstention": 7,
+      "total": 204
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 60,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 34,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 5,
+        "abstention": 3
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9131",
+    "numero": 9131,
+    "titre": "l'amendement n° 2633 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 106,
+      "contre": 90,
+      "abstention": 10,
+      "total": 206
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 57,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "EPR",
+        "pour": 34,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 1,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 2,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "HOR",
+        "pour": 2,
+        "contre": 4,
+        "abstention": 3
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9130",
+    "numero": 9130,
+    "titre": "l'amendement n° 1382 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 103,
+      "contre": 93,
+      "abstention": 9,
+      "total": 205
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 61,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 31,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 5,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 2,
+        "contre": 2,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 5,
+        "abstention": 4
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9129",
+    "numero": 9129,
+    "titre": "l'amendement n° 1558 de M. Ray et les amendements identiques suivants après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 52,
+      "contre": 72,
+      "abstention": 70,
+      "total": 194
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 59
+      },
+      {
+        "sigle": "EPR",
+        "pour": 25,
+        "contre": 2,
+        "abstention": 4
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 3
+      },
+      {
+        "sigle": "DR",
+        "pour": 14,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 6,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9128",
+    "numero": 9128,
+    "titre": "l'amendement n° 1332 de M. Potier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 61,
+      "contre": 112,
+      "abstention": 2,
+      "total": 175
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 60,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 24,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9127",
+    "numero": 9127,
+    "titre": "l'amendement n° 3599 de M. Tavel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"\rPrésidente du groupe \"Écologiste et Social\"",
+    "syntheseVote": {
+      "pour": 61,
+      "contre": 112,
+      "abstention": 1,
+      "total": 174
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 60,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 24,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 24,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9126",
+    "numero": 9126,
+    "titre": "l'amendement n° 2479 de M. Le Coq après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 56,
+      "contre": 94,
+      "abstention": 3,
+      "total": 153
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 52,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9125",
+    "numero": 9125,
+    "titre": "l'amendement n° 3595 de Mme Abomangoli après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 58,
+      "contre": 92,
+      "abstention": 3,
+      "total": 153
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 52,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 24,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9124",
+    "numero": 9124,
+    "titre": "l'amendement n° 1037 de M. Bompard après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 26,
+      "contre": 26,
+      "abstention": 2,
+      "total": 54
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9123",
+    "numero": 9123,
+    "titre": "l'amendement n° 69 de M. Grenon et les amendements identiques suivants de suppression de l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 79,
+      "contre": 77,
+      "abstention": 5,
+      "total": 161
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 48,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 14,
+        "contre": 2,
+        "abstention": 3
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 4,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 4,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 5,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9122",
+    "numero": 9122,
+    "titre": "l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 160,
+      "contre": 4,
+      "abstention": 18,
+      "total": 182
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 65,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 12
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 9,
+        "contre": 2,
+        "abstention": 2
+      },
+      {
+        "sigle": "Dem",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 12,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9121",
+    "numero": 9121,
+    "titre": "l'amendement n° 2305 (rect.) de M. Fugit à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30965",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 105,
+      "contre": 68,
+      "abstention": 14,
+      "total": 187
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 66,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 22,
+        "contre": 1,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 7
+      },
+      {
+        "sigle": "DR",
+        "pour": 6,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 5,
+        "contre": 1,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 12,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9120",
+    "numero": 9120,
+    "titre": "l'amendement n° 3488 (rect.) de M. Labaronne à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 42,
+      "contre": 63,
+      "abstention": 80,
+      "total": 185
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 65
+      },
+      {
+        "sigle": "EPR",
+        "pour": 23,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 9,
+        "contre": 2,
+        "abstention": 3
+      },
+      {
+        "sigle": "DR",
+        "pour": 5,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 3,
+        "contre": 2,
+        "abstention": 4
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9119",
+    "numero": 9119,
+    "titre": "l'amendement n° 2190 (rect.) de M. Patrice Martin à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 66,
+      "contre": 118,
+      "abstention": 4,
+      "total": 188
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 60,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 23,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 23,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 19,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 3,
+        "contre": 8,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9118",
+    "numero": 9118,
+    "titre": "l'amendement n° 1482 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 54,
+      "contre": 117,
+      "abstention": 4,
+      "total": 175
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 50,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 19,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 9,
+        "abstention": 2
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9117",
+    "numero": 9117,
+    "titre": "l'amendement n° 2508 de M. Coquerel à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 63,
+      "contre": 82,
+      "abstention": 67,
+      "total": 212
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 62
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9116",
+    "numero": 9116,
+    "titre": "l'amendement n° 2547 de Mme Violland à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 19,
+      "contre": 112,
+      "abstention": 78,
+      "total": 209
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 2,
+        "contre": 3,
+        "abstention": 63
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 2,
+        "contre": 22,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 10,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 6,
+        "abstention": 6
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 7
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9115",
+    "numero": 9115,
+    "titre": "l'amendement n° 70 de M. Dufosset à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 75,
+      "contre": 132,
+      "abstention": 5,
+      "total": 212
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 66,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 2
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9114",
+    "numero": 9114,
+    "titre": "l'amendement n° 1486 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 79,
+      "contre": 114,
+      "abstention": 11,
+      "total": 204
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 69,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 1,
+        "contre": 26,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 4
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 10,
+        "abstention": 2
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 4
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9113",
+    "numero": 9113,
+    "titre": "l'amendement n° 407 de M. Liger et les amendements identiques suivants à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"\rPrésident du groupe \"Libertés, Indépendants, Outre-mer et Territoires\"",
+    "syntheseVote": {
+      "pour": 144,
+      "contre": 76,
+      "abstention": 7,
+      "total": 227
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 64,
+        "contre": 1,
+        "abstention": 2
+      },
+      {
+        "sigle": "EPR",
+        "pour": 27,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 1,
+        "contre": 26,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 27,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 15,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 11,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9112",
+    "numero": 9112,
+    "titre": "l'amendement n° 522 de M. Ciotti et l'amendement identique suivant à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Horizons & Indépendants\"",
+    "syntheseVote": {
+      "pour": 139,
+      "contre": 73,
+      "abstention": 6,
+      "total": 218
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 63,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 25,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 14,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 8,
+        "contre": 2,
+        "abstention": 2
+      },
+      {
+        "sigle": "HOR",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9111",
+    "numero": 9111,
+    "titre": "l'amendement n° 783 de M. Lhardit à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 63,
+      "contre": 66,
+      "abstention": 64,
+      "total": 193
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 59
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 27,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 24,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 13,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 2
+      },
+      {
+        "sigle": "GDR",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9110",
+    "numero": 9110,
+    "titre": "l'amendement n° 3883 de Mme Olivia Grégoire à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Ensemble pour la République\"",
+    "syntheseVote": {
+      "pour": 89,
+      "contre": 102,
+      "abstention": 3,
+      "total": 194
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 57,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 23,
+        "contre": 5,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 19,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 1,
+        "contre": 11,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 6,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9109",
+    "numero": 9109,
+    "titre": "l'amendement n° 1481 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"Rassemblement National\"",
+    "syntheseVote": {
+      "pour": 70,
+      "contre": 119,
+      "abstention": 6,
+      "total": 195
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 61,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 26,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 24,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 8,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 5
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9108",
+    "numero": 9108,
+    "titre": "l'amendement n° 2933 de M. Masséglia à l'article 6 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 55,
+      "contre": 57,
+      "abstention": 69,
+      "total": 181
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 55
+      },
+      {
+        "sigle": "EPR",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 18,
+        "abstention": 1
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 2,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 8
+      },
+      {
+        "sigle": "NI",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9107",
+    "numero": 9107,
+    "titre": "l'amendement n° 2466 de M. Sitzenstuhl à l'article 6 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 74,
+      "contre": 78,
+      "abstention": 12,
+      "total": 164
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 56,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 3,
+        "contre": 2,
+        "abstention": 9
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 20,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 6,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 2,
+        "contre": 9,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 3,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 2,
+        "contre": 2,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9106",
+    "numero": 9106,
+    "titre": "l'amendement n° 283 (rect.) de M. End et les amendements identiques suivants après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 62,
+      "contre": 58,
+      "abstention": 73,
+      "total": 193
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 58
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 25,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 22,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 21,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 8,
+        "abstention": 4
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 3,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 8
+      },
+      {
+        "sigle": "NI",
+        "pour": 2,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9105",
+    "numero": 9105,
+    "titre": "l'amendement n° 3843 de M. Kasbarian après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 10,
+      "contre": 84,
+      "abstention": 81,
+      "total": 175
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 60
+      },
+      {
+        "sigle": "EPR",
+        "pour": 4,
+        "contre": 6,
+        "abstention": 10
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 1,
+        "contre": 19,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 0,
+        "contre": 17,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 5,
+        "abstention": 1
+      },
+      {
+        "sigle": "HOR",
+        "pour": 2,
+        "contre": 6,
+        "abstention": 3
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 6
+      },
+      {
+        "sigle": "GDR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9104",
+    "numero": 9104,
+    "titre": "l'amendement n° 2940 de M. Colombani après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 108,
+      "contre": 44,
+      "abstention": 26,
+      "total": 178
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 58,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "EPR",
+        "pour": 1,
+        "contre": 22,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 4,
+        "contre": 0,
+        "abstention": 13
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 11,
+        "abstention": 2
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 2
+      },
+      {
+        "sigle": "HOR",
+        "pour": 4,
+        "contre": 6,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 4
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 3,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9103",
+    "numero": 9103,
+    "titre": "l'amendement n° 3257 de Mme Létard après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Présidente de séance",
+    "syntheseVote": {
+      "pour": 53,
+      "contre": 108,
+      "abstention": 5,
+      "total": 166
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 54,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 22,
+        "abstention": 2
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 14,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 1,
+        "contre": 11,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 9,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 4,
+        "contre": 5,
+        "abstention": 3
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9102",
+    "numero": 9102,
+    "titre": "l'amendement n° 3124 de Mme Thomin après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 50,
+      "contre": 113,
+      "abstention": 6,
+      "total": 169
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 1,
+        "contre": 55,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 21,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 19,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 10,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9101",
+    "numero": 9101,
+    "titre": "l'amendement n° 23 de M. Delautrette et les amendements identques suivants après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 153,
+      "contre": 20,
+      "abstention": 9,
+      "total": 182
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 61,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 4,
+        "contre": 14,
+        "abstention": 4
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 16,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 15,
+        "contre": 1,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 11,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 3,
+        "contre": 3,
+        "abstention": 2
+      },
+      {
+        "sigle": "HOR",
+        "pour": 7,
+        "contre": 2,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "NI",
+        "pour": 5,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9100",
+    "numero": 9100,
+    "titre": "l'amendement n° 35 (rect.) de M. Delautrette après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 37,
+      "contre": 96,
+      "abstention": 6,
+      "total": 139
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 51,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 0,
+        "contre": 19,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 0,
+        "contre": 13,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 4,
+        "abstention": 1
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 3,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 1
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9099",
+    "numero": 9099,
+    "titre": "l'amendement n° 34 de M. Delautrette après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "rejeté",
+    "demandeur": "Président du groupe \"Socialistes et apparentés\"",
+    "syntheseVote": {
+      "pour": 43,
+      "contre": 69,
+      "abstention": 4,
+      "total": 116
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 41,
+        "abstention": 0
+      },
+      {
+        "sigle": "EPR",
+        "pour": 2,
+        "contre": 14,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 18,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 8,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 5,
+        "contre": 6,
+        "abstention": 1
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 0,
+        "contre": 5,
+        "abstention": 0
+      },
+      {
+        "sigle": "HOR",
+        "pour": 2,
+        "contre": 0,
+        "abstention": 2
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 2,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 1,
+        "abstention": 0
+      }
+    ]
+  },
+  {
+    "id": "VTANR5L17V9098",
+    "numero": 9098,
+    "titre": "l'amendement n° 2231 (rect.) de Mme Miller et les amendements identiques suivants après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+    "date": "2026-10-27",
+    "seanceRef": "RUANR5L17S2027IDS30964",
+    "sort": "adopté",
+    "demandeur": "Présidente du groupe \"La France insoumise - Nouveau Front Populaire\"",
+    "syntheseVote": {
+      "pour": 42,
+      "contre": 12,
+      "abstention": 39,
+      "total": 93
+    },
+    "groupes": [
+      {
+        "sigle": "RN",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 32
+      },
+      {
+        "sigle": "EPR",
+        "pour": 8,
+        "contre": 3,
+        "abstention": 1
+      },
+      {
+        "sigle": "LFI-NFP",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "SOC",
+        "pour": 7,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "DR",
+        "pour": 2,
+        "contre": 7,
+        "abstention": 0
+      },
+      {
+        "sigle": "EcoS",
+        "pour": 6,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "Dem",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 3
+      },
+      {
+        "sigle": "HOR",
+        "pour": 0,
+        "contre": 1,
+        "abstention": 3
+      },
+      {
+        "sigle": "LIOT",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "UDR",
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "GDR",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      },
+      {
+        "sigle": "NI",
+        "pour": 1,
+        "contre": 0,
+        "abstention": 0
+      }
+    ]
+  },
+  {
     "id": "VTANR5L17V9097",
     "numero": 9097,
     "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
