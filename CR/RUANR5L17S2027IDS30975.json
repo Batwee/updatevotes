@@ -1,0 +1,3808 @@
+{
+  "uid": "CRSANR5L17S2027O1N051",
+  "seanceRef": "RUANR5L17S2027IDS30975",
+  "sessionRef": "SCR5A2027O1",
+  "date": "2026-11-02",
+  "dateLisible": "lundi 02 novembre 2026",
+  "session": "Session ordinaire 2026-2027",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4214966",
+      "valeurPtsOdj": "1",
+      "titre": "Première partie (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 7,
+          "texte": "L’ordre du jour appelle la suite de la discussion de la première partie du projet de loi de finances pour 2027 (nos 3210, 3291 rectifié).\n Ce matin, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant aux amendements no 1469 et identiques portant article additionnel après l’article 16."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4214968",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 16 (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 9,
+          "texte": "Les amendements no 1469 et identiques ne sont pas défendus.\nLes amendements nos 3136 de M. Aurélien Le Coq, 1026 de M. François Piquemal et 3685 de M. Aurélien Le Coq, pouvant être soumis à une discussion commune, sont défendus.\nSur ces trois amendements, je suis saisi par le groupe La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Philippe Juvin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 13,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 14,
+          "texte": "La parole est à M. le ministre de l’action et des comptes publics, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre de l’action et des comptes publics",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 15,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 16,
+          "texte": "Je mets aux voix l’amendement no 3136."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 17,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 18,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        24\n        Nombre de suffrages exprimés                24\n        Majorité absolue                        13\n                Pour l’adoption                6\n                Contre                18",
+          "scrutinDetecte": {
+            "ordre": 18,
+            "votants": 24,
+            "exprimes": 24,
+            "majoriteAbsolue": 13,
+            "pour": 6,
+            "contre": 18,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 19,
+          "texte": "(L’amendement no 3136 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 20,
+          "texte": "Je mets aux voix l’amendement no 1026."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 21,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 22,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        30\n        Nombre de suffrages exprimés                30\n        Majorité absolue                        16\n                Pour l’adoption                9\n                Contre                21",
+          "scrutinDetecte": {
+            "ordre": 22,
+            "votants": 30,
+            "exprimes": 30,
+            "majoriteAbsolue": 16,
+            "pour": 9,
+            "contre": 21,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 23,
+          "texte": "(L’amendement no 1026 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 24,
+          "texte": "Je mets aux voix l’amendement no 3685."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 25,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 26,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        29\n        Nombre de suffrages exprimés                29\n        Majorité absolue                        15\n                Pour l’adoption                9\n                Contre                20",
+          "scrutinDetecte": {
+            "ordre": 26,
+            "votants": 29,
+            "exprimes": 29,
+            "majoriteAbsolue": 15,
+            "pour": 9,
+            "contre": 20,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 27,
+          "texte": "(L’amendement no 3685 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 28,
+          "texte": "Je suis saisi de deux amendements identiques, nos 641 et 1039.\n La parole est à M. Kévin Mauvieux, pour soutenir l’amendement no 641."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 29,
+          "texte": "Il vise à supprimer la TVA sur un panier de cent produits de première nécessité. Alors que l’inflation, qui ne nous a jamais vraiment quittés, reprend plus fortement encore ces dernières semaines, que les Français sont asphyxiés sous le poids des taxes et des impôts, que l’économie est à l’arrêt, il s’agit de redonner un peu d’oxygène sur les produits de première nécessité – ce ne sont pas des produits de luxe."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 30,
+          "texte": "Sur l’amendement no 641, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Damien Maudet, pour soutenir l’amendement no 1039."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "ordre": 32,
+          "texte": "Depuis des années, les classes populaires subissent un braquage en règle. Les macronistes ont baissé tous les impôts progressifs qu’acquittent les plus riches – impôt sur la fortune, impôt sur les dividendes, etc. Dans le même temps, la TVA – impôt injuste s’il en est puisqu’on paie le même montant, qu’on soit riche ou pauvre – rapporte de plus en plus d’argent : comme elle est proportionnelle aux prix, son produit  augmente avec l’inflation. Et pourtant, tout cet argent n’est pas utilisé pour les services publics, il sert à compenser les baisses d’impôt pour les plus riches.\nNous proposons de supprimer la TVA sur les produits de première nécessité, dont ont besoin les classes populaires, qui n’ont pas les moyens de s’alimenter correctement. La TVA pèse plus lourd sur les foyers modestes : 12,5 % des revenus des 10 % des ménages les plus pauvres sont absorbés par la TVA, tandis que pour les 10 % des ménages les plus riches, elle représente 4,7 % de leurs revenus."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 34,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 35,
+          "texte": "Cette mesure coûterait environ 2 milliards d’euros. Pour la compenser, il faudrait augmenter d’autres impôts ou d’autres taxes. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 36,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 37,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 38,
+          "texte": "La parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 39,
+          "texte": "Je soutiens avec force l’amendement no 1039, qui présente un avantage important par rapport à l’amendement no 641 : si l’on se réfère à l’exposé sommaire, il prévoit une disposition complémentaire à la baisse de la TVA, le blocage du prix des produits ou des services. Sans cette mesure, et sans prix régulés, il pourrait y avoir un effet d’aubaine, même sur les produits de première nécessité."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 40,
+          "texte": "La parole est à M. Damien Maudet."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "ordre": 41,
+          "texte": "Nous proposons en effet de bloquer les prix pour que la suppression de la TVA sur les produits de première nécessité ne soit pas accompagnée d’une augmentation des marges.\nMonsieur le rapporteur général, vous expliquez que cette mesure créera un trou de 2 milliards d’euros, mais quand vous avez supprimé l’impôt de solidarité sur la fortune (ISF), vous n’avez pas cherché à savoir si cela créerait un trou. Quand vous avez baissé les impôts de production et l’impôt sur les dividendes, le trou, vous vous en fichiez ! En réalité, le trou est compensé par les foyers les plus modestes qui paient la TVA quand ils font leurs courses. Finalement, la TVA rebouche tous les trous que vous creusez année après année dans le budget de l’État."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 43,
+          "texte": "La parole est à M. Kévin Mauvieux."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 44,
+          "texte": "Monsieur le rapporteur général, vous soutenez que rendre de l’argent aux Français oblige à taxer d’autres personnes. Ce réflexe est à l’œuvre depuis cinquante ans : dès qu’on baisse la fiscalité sur les uns, on va taper sur d’autres. Vous ne remettez toujours pas en question les dépenses de l’État, sa capacité à faire des économies.\nEn réalité, on prend trop aux Français, aux entreprises et aux ménages, sans faire d’économies. Ainsi, l’économie est asphyxiée, il n’y a plus de pouvoir d’achat, la croissance et la consommation ralentissent. Les Français sont défiants à l’égard du prélèvement de l’impôt parce que les services publics ne suivent pas, etc.\nLa suppression de la TVA sur les produits de première nécessité a évidemment un coût, cependant cette mesure n’exige pas d’augmenter d’autres taxes, mais de faire des économies. Voilà tout simplement ce que nous proposons.\nÀ ceux qui prétendent que cette mesure est inefficace si on ne bloque pas les prix, je réponds que d’autres pays ont pris cette disposition sans bloquer les prix et que cela a fonctionné. Des études ont montré qu’au Portugal, le passage de la TVA à 0 % sur les produits de première nécessité s’est retrouvé sur les étiquettes dans les magasins, où les prix ont effectivement baissé. Il n’y a aucune raison que ce ne soit pas le cas en France. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 48,
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 49,
+          "texte": "Malheureusement, baisser la TVA n’a pas toujours une répercussion sur les prix – vous le savez, il existe d’autres exemples.\nEnsuite, vous voulez nous rassurer en affirmant que cette mesure ne creusera pas le déficit si la dépense, parallèlement, baisse. Bien que tout le monde soit d’accord sur le principe, les débats que nous avons eus jusqu’ici n’ont pas montré que nous étions capables de faire baisser la dépense. Elles ne baisse jamais quand nous en venons au vote."
+        },
+        {
+          "orateur": "Plusieurs députés du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 51,
+          "texte": "Nous examinons les recettes !"
+        },
+        {
+          "orateur": "M. Jérôme Buisson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793134",
+          "ordre": 52,
+          "texte": "Les dépenses, c’est après !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 53,
+          "texte": "Je ne l’ai pas encore vue baisser. Mais je suis d’accord, faites baisser la dépense, nous baisserons alors les impôts. Sans cela, nous augmenterons le déficit. Pardon de présenter un raisonnement aussi primaire."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 54,
+          "texte": "Je mets aux voix les amendements identiques nos 641 et 1039."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 55,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 56,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        58\n        Nombre de suffrages exprimés                58\n        Majorité absolue                        30\n                Pour l’adoption                30\n                Contre                28",
+          "scrutinDetecte": {
+            "ordre": 56,
+            "votants": 58,
+            "exprimes": 58,
+            "majoriteAbsolue": 30,
+            "pour": 30,
+            "contre": 28,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 57,
+          "texte": "(Les amendements identiques nos 641 et 1039 sont adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 58,
+          "texte": "Je suis saisi de quatre amendements, nos 1040, 2519, 1381 et 914, pouvant être soumis à une discussion commune.\n Sur l’amendement n° 1040, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n La parole est à M. Jean-Hugues Ratenon, pour soutenir l’amendement no 1040."
+        },
+        {
+          "orateur": "M. Jean-Hugues Ratenon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721062",
+          "ordre": 59,
+          "texte": "L’amendement tend à supprimer la TVA sur les produits de première nécessité dans l’ensemble des outre-mer. L’objectif est de redonner du pouvoir d’achat aux familles. Fixer le taux de TVA à 0 % a un effet immédiat et direct sur le panier des ménages. Afin d’éviter que la grande distribution n’augmente les marges en absorbant la différence de taux, nous souhaitons assortir cette mesure d’un blocage des prix. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 60,
+          "texte": "La parole est à M. Arnaud Bonnet, pour soutenir l’amendement no 2519."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "ordre": 61,
+          "texte": "Les députés ultramarins ne cessent de le dire, les prix des produits alimentaires sont bien plus élevés en moyenne que dans l’Hexagone : de 42 % en Guadeloupe, de 40 % en Martinique et de 37 % à La Réunion. Dans le même temps, la pauvreté touche beaucoup plus fortement les territoires ultramarins.\nNous ne proposons pas ici une mesure générale, mais un coup de pouce pour les produits de première nécessité. Pour s’assurer que la suppression de la TVA bénéficie bien aux consommateurs et ne débouche pas sur une hausse des marges, nous proposons que les observatoires des prix, des marges et des revenus (OPMR) contrôlent que la baisse est bien répercutée.\nRappelons que la perception de la TVA n’est pas toujours effective. Si elle était correctement perçue, son produit serait de  6 à 7 milliards d’euros supérieur. Et pourtant, en commission, vous avez refusé d’augmenter – alors que ce sont des postes qui s’autofinancent – les effectifs de la direction générale des finances publiques. Rappelons que les personnels de la DGFIP sont soumis à une tension énorme, comme le manifestent les suicides récents. Nous devons faire beaucoup mieux pour les fonctionnaires, surtout connaissant les conséquences tragiques de cette tension."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 64,
+          "texte": "La parole est à Mme Estelle Mercier, pour soutenir l’amendement no 1381."
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "ordre": 65,
+          "texte": "L’article 295 du code général des impôts (CGI) exonère déjà les produits de première nécessité de la TVA en Guadeloupe, en Martinique et à La Réunion. L’amendement vise à déterminer la liste de ces produits par la loi. En effet, le panier des produits de première nécessité est actuellement établi par décret ; ainsi, un arrêté peut ajouter ou retirer un produit de ce panier sans que le Parlement en débatte, sans que personne en soit averti. Il s’agit ici de garantir que les denrées alimentaires de base, les produits d’hygiène, les produits destinés à l’alimentation et au soin des nourrissons et des jeunes enfants ainsi que les protections menstruelles ne pourront plus sortir de ce panier.\nCe socle n’est pas choisi par hasard, mais correspond aux dépenses qu’un ménage ne peut pas comprimer. Lorsque le budget se resserre, on peut différer l’achat d’un vêtement ou d’un équipement, pas celui de lait infantile, de couches ou de protections hygiéniques.\nL’écart de prix des denrées alimentaires par rapport à l’Hexagone atteint 41,8 % en Guadeloupe et 40,2 % en Martinique. Dans ce contexte, il est important que la loi détermine ce qui figure dans le panier de produits essentiels."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 68,
+          "texte": "La parole est à M. Frédéric Maillot, pour soutenir l’amendement no 914."
+        },
+        {
+          "orateur": "M. Frédéric Maillot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796010",
+          "ordre": 69,
+          "texte": "Vous le voyez, l’ensemble des députés sur les bancs de la gauche formulent quasiment la même demande.\nQuand on regarde les informations, on voit que depuis l’arrivée des macronistes au pouvoir, les gens se plaignent de leur pouvoir de vivre – je préfère l’expression « pouvoir de vivre » au pouvoir d’achat, car on vit pour vivre, pas pour acheter.\nIl est important de s’interroger aussi sur les marges, puisque même dans les territoires où la TVA n’existe pas, comme Mayotte ou la Guyane, la vie est chère. Par ailleurs, il ne faut pas limiter le panier à l’alimentation, comme l’a souligné Estelle Mercier, car la vie est chère en tout : quand on achète un gel douche, des produits pour nos bébés, des pièces pour nos voitures. Il faut donc étendre la TVA à 0 %.\nNotre ambition est simple : que la baisse de la fiscalité se traduise concrètement par une baisse des prix et un gain de pouvoir de vivre pour les Réunionnais, les Martiniquais et les Guadeloupéens."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 73,
+          "texte": "Quel est l’avis de la commission sur ces quatre amendements ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 74,
+          "texte": "La commission a rejeté ces amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 75,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 76,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 77,
+          "texte": "Je mets aux voix l’amendement no 1040."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 78,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 79,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        61\n        Nombre de suffrages exprimés                61\n        Majorité absolue                        31\n                Pour l’adoption                39\n                Contre                22",
+          "scrutinDetecte": {
+            "ordre": 79,
+            "votants": 61,
+            "exprimes": 61,
+            "majoriteAbsolue": 31,
+            "pour": 39,
+            "contre": 22,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 80,
+          "texte": "(L’amendement no 1040 est adopté ; en conséquence, les amendements nos 2519, 1381 et 914 tombent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 81,
+          "texte": "Je suis saisi de trois amendements, nos 1108, 1386 et 2569, pouvant être soumis à une discussion commune.\n La parole est à M. Damien Maudet, pour soutenir l’amendement no 1108."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "ordre": 82,
+          "texte": "Les Français subissent chaque jour un braquage : depuis plusieurs années, tous les impôts progressifs baissent au profit des contribuables plus riches, à qui l’on fait cadeau de 60 milliards d’euros. Mais l’État doit s’y retrouver : pour rembourser ces allégements fiscaux, il demande donc aux plus modestes, aux plus précaires de payer la TVA. Cette taxe représente 12 % des revenus des 10 % des Français les plus modestes, contre 5 % de ceux des 10 % les plus riches.\nEn trente ans, elle est passée de 33 % à 20 %, même sur les produits de luxe. Le même taux s’applique à l’achat d’un yacht ou d’un jet privé qu’à celui de baskets dont une famille a besoin. Est-ce normal ?\nLa TVA, impôt très injuste, doit à tout le moins voir rehausser son taux applicable à tous les produits de luxe, pour que celles et ceux qui ont les moyens de se les procurer, les mêmes qui ont vu leurs impôts baisser ces dernières années, en acquittent davantage par ce biais."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 85,
+          "texte": "Je suis saisi de deux demandes de scrutin public : sur l’amendement no 907, par le groupe Socialistes et apparentés ; sur l’amendement no 968, par le groupe Ensemble pour la République.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Arnaud Bonnet, pour soutenir les amendements nos 1386 et 2569, qui peuvent faire l’objet d’une présentation groupée."
+        },
+        {
+          "orateur": "M. Arnaud Bonnet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841885",
+          "ordre": 87,
+          "texte": "Les prestations d’hôtellerie haut de gamme et les transports aériens domestiques bénéficient d’un taux réduit de TVA de 10 %. C’est incompréhensible : de nombreux biens de consommation sont taxés à 20 %, mais l’État accorde un avantage fiscal aux clients des hôtels de luxe, alors même que l’hébergement d’urgence est sous-financé.\nLa même logique s’applique aux vols intérieurs : comment justifier cet avantage fiscal au profit d’un moyen de transport qui constitue une bombe climatique, alors que notre réseau ferré reste performant – quoiqu’il faille le développer et lui consacrer davantage de financements ?\nNous vous proposons donc de supprimer le taux réduit applicable à ces deux types de prestations.\nL’amendement no 2569 est un amendement de repli : il ne concerne que l’hôtellerie haut de gamme. Quand on peut se payer des hôtels de luxe, on doit pouvoir payer dix points de TVA supplémentaires."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 91,
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 92,
+          "texte": "Ces amendements touchent à des sujets différents mais procèdent d’une philosophie commune : il s’agit de taxer un certain nombre de consommations de luxe.\nLa législation européenne interdit la TVA à 33 % applicable aux produits de luxe que propose M. Maudet. Je suis donc défavorable à l’amendement qu’il a présenté.\nJ’en viens au rehaussement à 20 % du taux applicable aux billets d’avion sur les lignes intérieures. Ces billets font déjà l’objet d’une taxe : il ne s’agit pas à proprement parler de TVA mais cela revient à leur appliquer une TVA élevée. Et l’on voit qu’aujourd’hui, la France est en difficulté par rapport à ses voisins, tant en ce qui concerne la part de marché du transport aérien français que la fréquentation de ses aéroports.\nIl est aussi proposé d’augmenter le taux de TVA applicable aux hôtels cinq étoiles. Dans la mesure où le tourisme constitue une ressource très importante pour le pays – il représente 8 % du PIB français –, tout ce qui peut contribuer à l’affaiblir doit faire l’objet d’une grande prudence. Avis défavorable sur les deux amendements de M. Bonnet."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 96,
+          "texte": "(Les amendements nos 1108, 1386 et 2569, repoussés par le gouvernement, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 97,
+          "texte": "La parole est à Mme Estelle Mercier, pour soutenir l’amendement no 907."
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "ordre": 98,
+          "texte": "Il tend à exonérer temporairement de la TVA les produits issus de la production locale dans les départements de la Guadeloupe, de la Martinique et de La Réunion. Il s’agit de soutenir les producteurs et les artisans des pays des océans – comme dirait ma collègue Béatrice Bellay – et de contribuer à la consolidation des économies insulaires en ciblant les secteurs agricole, agroalimentaire, halioalimentaire, agro-industriel, halio-industriel et de l’artisanat. Cette disposition encourage le développement des circuits courts, la valorisation des savoir-faire et la création d’emplois durables dans les territoires ultramarins."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 99,
+          "texte": "Je mets aux voix l’amendement no 907, repoussé par la commission et le gouvernement."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 100,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 101,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        61\n        Nombre de suffrages exprimés                55\n        Majorité absolue                        28\n                Pour l’adoption                17\n                Contre                38",
+          "scrutinDetecte": {
+            "ordre": 101,
+            "votants": 61,
+            "exprimes": 55,
+            "majoriteAbsolue": 28,
+            "pour": 17,
+            "contre": 38,
+            "abstention": 6
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 102,
+          "texte": "(L’amendement no 907 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 103,
+          "texte": "La parole est à M. Jean-Luc Fugit, pour soutenir l’amendement no 968."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 104,
+          "texte": "Cet amendement de notre collègue Sandra Marsaud tend à créer un régime particulier d’exonération de TVA pour les entreprises des filières viticoles et du négoce de boissons alcooliques, dont plus de 85 % des ventes annuelles sont réalisées à l’export et dans le cadre de livraisons intra-européennes, notamment de cognac. Ces ventes étant de ce fait presque entièrement exonérées, les opérateurs concernés ne collectent pas ou très peu de TVA en aval. Ils ne peuvent donc pas y imputer l’important stock de TVA récupérable supporté en amont sur leurs achats. Des demandes de remboursement sont certes possibles, mais elles requièrent d’insoutenables avances de trésorerie dans des filières totalement dépendantes du contexte international, entre hausse des droits de douane américains et tensions sur les marchés. Quant au régime des achats en franchise, il reste insuffisant, car la directive TVA le réserve aux achats de biens effectués par l’exportateur et non à ceux qu’effectuent ses fournisseurs, et l’écarte par ailleurs s’agissant des services. Le régime que nous proposons, rendu possible par le mécanisme européen des entrepôts douaniers et autres que douaniers, apporte à cette difficulté une réponse claire et juridiquement sécurisée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 105,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 106,
+          "texte": "La commission n’a pas examiné l’amendement. D’après les informations dont je dispose, cette disposition serait contraire à la directive TVA. À ce titre, j’y suis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 107,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 108,
+          "texte": "Une fois n’est pas coutume, je ne partage pas l’analyse du rapporteur général…"
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 109,
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 110,
+          "texte": "…puisqu’il me semble que cette mesure est compatible avec la directive TVA."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 111,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 112,
+          "texte": "La filière cognac est exportatrice à plus de 90 %. La mesure présentée permettra surtout de soulager la trésorerie des entreprises concernées, ce qui est très important dans le contexte de crise que traverse cette filière. C’est pourquoi mon avis est favorable. Si vous veniez à adopter cette disposition, je lèverais le gage. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 113,
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 114,
+          "texte": "Nombre de viticulteurs sont pénalisés par les taxes successivement pratiquées par les États-Unis et par la fermeture des marchés chinois et russe. Une part très significative de notre excédent agricole est issue de l’activité des viticulteurs, qui nourrit pour une part importante l’image de notre pays à l’étranger. Je pense aux vins de qualité, au cognac ou encore à l’armagnac. Je voterai cet amendement des deux mains."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 115,
+          "texte": "La parole est à Mme Eva Sas."
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 116,
+          "texte": "Je ne comprends pas l’orientation du gouvernement s’agissant de la TVA. Vous voulez en exonérer le cognac, alors que vous avez refusé tout à l’heure de le faire pour les produits de première nécessité ? Il y a là une fabuleuse incohérence ! (Applaudissements sur les bancs des groupes EcoS, LFI-NFP et SOC.) Pourquoi faudrait-il exonérer le cognac en priorité ? Je souhaiterais que le gouvernement nous livre des explications."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 117,
+          "texte": "C’est pour l’exportation !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 118,
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 119,
+          "texte": "Les deux exonérations dont vous parlez n’ont absolument aucun rapport : nous ne parlons pas de biens de consommation destinés au marché intérieur, mais de biens exportés, donc exonérés in fine : on ne paie pas de TVA sur les exportations.\nLe dispositif actuel présente un seul problème : il a un impact temporaire sur la trésorerie des entreprises concernées. L’amendement tend à résoudre une difficulté pratique. (Brouhaha sur les bancs des groupes EPR, LFI-NFP et SOC.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 121,
+          "texte": "Je mets aux voix l’amendement no 968."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 122,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 123,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        74\n        Nombre de suffrages exprimés                72\n        Majorité absolue                        37\n                Pour l’adoption                49\n                Contre                23",
+          "scrutinDetecte": {
+            "ordre": 123,
+            "votants": 74,
+            "exprimes": 72,
+            "majoriteAbsolue": 37,
+            "pour": 49,
+            "contre": 23,
+            "abstention": 2
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 124,
+          "texte": "(L’amendement no 968, modifié par la suppression du\n            gage, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 125,
+          "texte": "La parole est à M. Nicolas Metzdorf, pour soutenir les amendements nos 1181, 1180 et 1178, qui peuvent être soumis à une discussion commune."
+        },
+        {
+          "orateur": "M. Nicolas Metzdorf",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795176",
+          "ordre": 126,
+          "texte": "J’ai la faiblesse de penser que la Polynésie française, comme son nom l’indique, la Nouvelle-Calédonie et Wallis-et-Futuna sont des territoires de France. Or lorsque nous exportons des biens agroalimentaires, alimentaires, agricoles ou même miniers en France métropolitaine, nous sommes soumis à des droits de douane, contrairement aux départements, ainsi qu’à la TVA à l’importation. Les trois amendements tendent à exonérer de TVA à l’importation les produits qui viennent des trois territoires du Pacifique, puisque les droits de douane relèvent de la compétence de l’Union européenne."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 127,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 128,
+          "texte": "La commission a adopté le premier amendement. À titre personnel, j’y suis défavorable : son application requiert l’autorisation de la Commission européenne au titre des aides d’État."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 129,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 130,
+          "texte": "En effet, cette mesure n’est pas conforme à la directive TVA. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 131,
+          "texte": "Je mets aux voix l’amendement no 1181."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 132,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 133,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        75\n        Nombre de suffrages exprimés                25\n        Majorité absolue                        13\n                Pour l’adoption                18\n                Contre                7",
+          "scrutinDetecte": {
+            "ordre": 133,
+            "votants": 75,
+            "exprimes": 25,
+            "majoriteAbsolue": 13,
+            "pour": 18,
+            "contre": 7,
+            "abstention": 50
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 134,
+          "texte": "(L’amendement no 1181 est adopté ; en conséquence, les amendements nos 1180 et 1178 tombent.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 135,
+          "texte": "La parole est à M. Nicolas Metzdorf, pour soutenir l’amendement no 1179."
+        },
+        {
+          "orateur": "M. Nicolas Metzdorf",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795176",
+          "ordre": 136,
+          "texte": "Je propose d’appliquer une mesure semblable à la précédente aux produits métallurgiques. La Nouvelle-Calédonie produit du nickel – cette activité représente 15 % de notre PIB – qu’elle exporte en majorité vers l’Asie, malheureusement. Il y a quinze jours, le commissaire Séjourné s’est rendu en Nouvelle-Calédonie pour signer un protocole d’accord entre ce territoire et l’Union européenne, afin que celle-ci, pour assurer sa souveraineté industrielle, puisse acheter plus de nickel produit en Nouvelle-Calédonie. Nous vous proposons d’exonérer de TVA à l’importation les produits métallurgiques en provenance de cette dernière."
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "ordre": 137,
+          "texte": "C’est bien !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 138,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 139,
+          "texte": "Elle a adopté l’amendement. Je nourris les mêmes réserves que sur l’amendement précédent. Mon avis est donc défavorable à titre personnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 140,
+          "texte": "(L’amendement no 1179, repoussé par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 141,
+          "texte": "Je suis saisi de trois amendements, nos 1031, 675 et 676, pouvant être soumis à une discussion commune.\n La parole est à M. Arnaud Saint-Martin, pour soutenir l’amendement no 1031."
+        },
+        {
+          "orateur": "M. Arnaud Saint-Martin",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841845",
+          "ordre": 142,
+          "texte": "Cet amendement de notre collègue Caron vise à exonérer de TVA les refuges pour animaux et les associations de protection animale. Cela concerne plus particulièrement l’alimentation, dont les prix ont substantiellement augmenté, les produits d’hygiène et les soins vétérinaires, qui représentent un important poste de dépenses – certaines opérations, notamment de stérilisation, peuvent être très coûteuses. Ces structures, souvent fragiles, sont portées par des bénévoles dévoués, qu’il faut soutenir. Elles accomplissent par ailleurs des missions importantes, dont la puissance publique se décharge souvent sur les associations. On observe aussi une croissance regrettable et continue des abandons, qui mettent sous tension ces associations et ces structures. S’il est adopté, l’amendement garantira leur activité en leur permettant de traverser cette période."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 143,
+          "texte": "Sur les amendements nos 675 et 676, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Lionel Tivoli, pour les soutenir."
+        },
+        {
+          "orateur": "M. Lionel Tivoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793298",
+          "ordre": 145,
+          "texte": "Chaque année, des êtres humains irresponsables abandonnent leurs animaux, qui se retrouvent par dizaines de milliers dans les refuges. Les bénévoles, qui travaillent jour et nuit pour les nourrir, les accueillir, les divertir, peinent à financer leurs soins. Par le premier amendement, je propose d’exonérer de TVA les soins vétérinaires destinés aux animaux recueillis dans les refuges.\nLe deuxième est un amendement de repli qui vise à abaisser à 10 % le taux de TVA sur ces soins. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 147,
+          "texte": "Quel est l’avis de la commission sur ces trois amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 148,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 149,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 150,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 151,
+          "texte": "(L’amendement no 1031 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 152,
+          "texte": "Je mets aux voix l’amendement no 675."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 153,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 154,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        68\n        Nombre de suffrages exprimés                56\n        Majorité absolue                        29\n                Pour l’adoption                27\n                Contre                29",
+          "scrutinDetecte": {
+            "ordre": 154,
+            "votants": 68,
+            "exprimes": 56,
+            "majoriteAbsolue": 29,
+            "pour": 27,
+            "contre": 29,
+            "abstention": 12
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 155,
+          "texte": "(L’amendement no 675 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 156,
+          "texte": "Je mets aux voix l’amendement no 676."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 157,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 158,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        74\n        Nombre de suffrages exprimés                59\n        Majorité absolue                        30\n                Pour l’adoption                28\n                Contre                31",
+          "scrutinDetecte": {
+            "ordre": 158,
+            "votants": 74,
+            "exprimes": 59,
+            "majoriteAbsolue": 30,
+            "pour": 28,
+            "contre": 31,
+            "abstention": 15
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 159,
+          "texte": "(L’amendement no 676 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 160,
+          "texte": "La parole est à M. Jean-René Cazeneuve, pour soutenir l’amendement no 845."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 161,
+          "texte": "Cet amendement vise à aligner les dispositions du code des impositions des biens et services, créé en 2022, sur celles du code des impôts, concernant la délimitation du champ des opérations bancaires et financières pouvant donner lieu à option à la TVA."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 162,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 163,
+          "texte": "Je m’en remets à la sagesse de l’Assemblée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 164,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 165,
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 166,
+          "texte": "(L’amendement no 845 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 167,
+          "texte": "Je suis saisi de deux amendements, nos 1523 et 1530, pouvant être soumis à une discussion commune.\n La parole est à Mme Natalia Pouzyreff, pour les soutenir."
+        },
+        {
+          "orateur": "Mme Natalia Pouzyreff",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721916",
+          "ordre": 168,
+          "texte": "Ma proposition peut paraître un peu iconoclaste, mais j’espère qu’elle suscitera au moins le débat. Le premier amendement vise à relever le taux normal de TVA de 20 % à 22 %, le second, à 21 % – le taux s’appliquant aux biens de première nécessité restant inchangé. Pourquoi hausser le taux de TVA ? D’abord, parce que beaucoup de produits concernés par la TVA sont importés. Ensuite, parce que dans un contexte où nous empruntons à un taux supérieur à 5 %, nous n’avons plus le choix. En complément de la réduction des dépenses, augmenter le taux de TVA nous permettrait de regagner des marges de manœuvre, en particulier pour alléger les cotisations salariales et ainsi transférer une partie du coût des dépenses sociales du travail vers la consommation."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 169,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 170,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 171,
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 172,
+          "texte": "Cet amendement a l’intérêt de rappeler ce qui est en train de se passer. Vous dites qu’il vise à ouvrir le débat sur le transfert d’une partie du financement des dépenses sociales pesant sur le travail vers la consommation, mais c’est déjà le cas. En 2017, plus de 90 % des recettes de la TVA étaient dévolues au budget de l’État, contre moins de 50 %aujourd’hui, parce qu’elles compensent les impôts locaux, qui ont été supprimés, et les exonérations sociales.\nCette TVA sociale représente, selon moi, la pire manière de financer notre système social, qui doit continuer à être assis sur les cotisations. Il faut donc cesser de mener une politique d’exonération, au moins sur les salaires compris entre deux et trois fois le smic, mais aussi de faire payer aux consommateurs le système social par l’impôt le plus injuste, parce qu’il n’est pas proportionnel. Ce n’est pas ainsi qu’il faut régler le problème, mais en revenant à une politique par laquelle les cotisations financent le système de solidarité sociale et où les collectivités retrouvent une autonomie fiscale."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 174,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 175,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 176,
+          "texte": "La parole est à Mme Claire Marais-Beuil."
+        },
+        {
+          "orateur": "Mme Claire Marais-Beuil",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841563",
+          "ordre": 177,
+          "texte": "Je suis très surprise de vos explications. Vous, qui avez si mal géré la France, qui avez entraîné un déficit majeur depuis sept ans, vous dites qu’il est impératif, pour maîtriser le déficit public, d’augmenter la TVA, c’est-à-dire d’aller chercher dans les poches des Français, pour couvrir votre mauvaise gestion ? C’est incroyable, et plein de culot. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 178,
+          "texte": "La parole est à M. Denis Masséglia."
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "ordre": 179,
+          "texte": "Je veux remercier ma collègue Pouzyreff de mettre en avant ce sujet important. Le nombre d’actifs cotisants par personne retraitée baisse. Nous devrions donc nous accorder sur le fait que notre modèle social ne doit plus dépendre uniquement du financement par le salaire de ceux qui travaillent. Nous allons devoir trouver une alternative : élargir l’assiette du financement du modèle social. La TVA dite sociale peut être un axe de travail important, parce qu’à force d’exercer une pression sur ceux qui travaillent, leur salaire ne leur suffit plus pour s’en sortir. Mais je vous vois arriver : il faudra taxer toujours plus. Non, il faudra que le travail paie mieux et que le financement de notre modèle social soit partagé par tous. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 180,
+          "texte": "La parole est à Mme Eva Sas."
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 181,
+          "texte": "Cet amendement a le mérite de dévoiler vos intentions. Au moment où les gens défilent dans la rue contre la vie chère, où l’inflation atteint 3,4 %, où nous avons un problème de pouvoir d’achat, vous proposez d’augmenter la TVA de 2 points. Vous êtes hors sol ; (Applaudissements sur quelques bancs des groupes EcoS, LFI-NFP, SOC et GDR) vous devriez discuter avec vos électeurs – s’il vous en reste – pour tenter de saisir leurs problèmes sociaux. Vous refusez d’augmenter l’imposition sur les plus hauts patrimoines et sur les plus gros héritages, mais vous proposez d’augmenter de 2 points la TVA sur tout le monde. Vos propositions inconséquentes relèvent de la plus grande injustice fiscale. (Applaudissements sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 182,
+          "texte": "La parole est à M. Paul Midy."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "ordre": 183,
+          "texte": "Merci à la collègue Pouzyreff de lancer ce débat utile. Cependant, le groupe Ensemble pour la République rejettera ces amendements."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 184,
+          "texte": "(Les amendements nos 1523 et 1530, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 185,
+          "texte": "La parole est à M. Joël Bruneau, pour soutenir l’amendement no 2665 rectifié."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "ordre": 186,
+          "texte": "Cet amendement vise à rendre la fiscalité des produits alimentaires plus cohérente. Les sodas, dans toutes leurs déclinaisons, sont imposés comme l’eau pure, alors qu’il est reconnu que l’excès de sucre est très nocif pour la santé. Je propose donc de soumettre ces boissons au taux de TVA classique et non au taux réduit."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 187,
+          "texte": "(L’amendement no 2665 rectifié, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 188,
+          "texte": "Les amendements nos 1473, 3461 et 1230 sont défendus."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 189,
+          "texte": "(Les amendements nos 1473 de M. Alexandre Loubet, 3461 de Mme Béatrice Bellay et 1230 de Mme Nadège Abomangoli, repoussés par la commission et le gouvernement, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 190,
+          "texte": "La parole est à M. Jean-Luc Fugit, pour soutenir l’amendement no 2323."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 191,
+          "texte": "Cet amendement propose de sécuriser l’application du taux de TVA à 5,5 % aux réseaux de chaleur alimentés à plus de 50 % par la valorisation des combustibles solides de récupération (CSR), au lieu de les enfouir. Il ne s’agit pas d’élargir le dispositif, mais de clarifier l’existant, car la rédaction actuelle du code général des impôts laisse un doute sur la prise en compte de la chaleur issue des CSR dans la part des énergies renouvelables et de récupération. Le gouvernement l’a reconnu lors de l’examen du PLF l’année dernière au Sénat, en donnant un avis favorable à une demande de précision, qui n’aura aucun impact budgétaire. Je rappelle que les CSR sont des déchets non recyclables, voués à l’enfouissement, et que leur valorisation peut participer à produire une chaleur décarbonée qui se substitue aux énergies fossiles importées. Cela sert notre souveraineté énergétique, sans affecter le budget."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 192,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 193,
+          "texte": "La commission a adopté cet amendement, qui me semble proposer une mesure bienvenue pour soutenir les réseaux de chaleur durables."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 194,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 195,
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 196,
+          "texte": "(L’amendement no 2323, modifié par la suppression du gage, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 197,
+          "texte": "Les amendements nos 2812 et 2037 rectifié sont défendus."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 198,
+          "texte": "(Les amendements nos 2812 de M. Iñaki Echaniz et 2037 rectifié de M. Pierrick Courbon, repoussés par la commission et le gouvernement, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 199,
+          "texte": "Les amendements identiques no 1620 rectifié de M. Vincent Descoeur et no 2432 rectifié de Mme Constance de Pélichy ainsi que les amendements no 1962 de M. Julien Brugerolles et no 3908 de M. Stéphane Peu, tous pouvant être soumis à une discussion commune, sont défendus."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 200,
+          "texte": "(Les amendements identiques nos 1620 rectifié et 2432 rectifié, de même que les amendements nos 1962 et 3908, repoussés par la commission et le gouvernement, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 83,
+          "texte": "L’amendement no 2625 rectifié de Mme Marie-Noëlle Battistel est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 84,
+          "texte": "(L’amendement no 2625 rectifié, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 85,
+          "texte": "La parole est à M. Jean-Luc Fugit, pour soutenir l’amendement no 2521."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 86,
+          "texte": "Il propose d’étendre le taux réduit de TVA à 5,5 % aux batteries de stockage associées aux installations photovoltaïques des particuliers. Aujourd’hui, lorsqu’un ménage installe une batterie en complément de ses panneaux photovoltaïques, l’ensemble de l’opération est soumis à une TVA de 20 %, y compris les panneaux. En revanche, lorsqu’il installe uniquement des panneaux, il bénéficie du taux réduit. Cherchez l’erreur ! Il y a là une incohérence : il faudrait au contraire encourager l’autoconsommation en développant les aides à l’installation de panneaux et la flexibilité du réseau. C’est précisément l’objet de cet amendement, qui s’inscrit dans la droite ligne des recommandations du rapport Lévy-Tuot sur l’optimisation du soutien public aux énergies renouvelables électriques et au stockage, rapport sur lequel le gouvernement s’est lui-même appuyé."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 87,
+          "texte": "Sur l’amendement no 2521, je suis saisi par le groupe Ensemble pour la République d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 89,
+          "texte": "La commission a donné un avis favorable. À titre personnel, j’étais opposé à cette disposition, puisque la directive européenne sur la TVA n’autorise le taux réduit que pour les panneaux et non pour les batteries."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 90,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 91,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 92,
+          "texte": "La parole est à Mme Eva Sas."
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 93,
+          "texte": "Je soutiens cet amendement de bon sens. Il faut être cohérent dans le soutien à l’autoconsommation. Il n’y a aucune raison de ne pas appliquer également un taux réduit de TVA pour les batteries. C’est ce que font déjà d’autres pays d’Europe, comme l’Allemagne."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 94,
+          "texte": "Je mets aux voix l’amendement no 2521."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 95,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 96,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        75\n        Nombre de suffrages exprimés                60\n        Majorité absolue                        31\n                Pour l’adoption                30\n                Contre                30",
+          "scrutinDetecte": {
+            "ordre": 96,
+            "votants": 75,
+            "exprimes": 60,
+            "majoriteAbsolue": 31,
+            "pour": 30,
+            "contre": 30,
+            "abstention": 15
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 97,
+          "texte": "(L’amendement no 2521 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 98,
+          "texte": "L’amendement no 3643 de M. Nicolas Thierry est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 99,
+          "texte": "(L’amendement no 3643, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 100,
+          "texte": "La parole est à Mme Sophie Panonacle, pour soutenir l’amendement no 853."
+        },
+        {
+          "orateur": "Mme Sophie Panonacle",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719632",
+          "ordre": 101,
+          "texte": "Les services départementaux d’incendie et de secours (Sdis) bénéficient du fonds de compensation pour la TVA (FCTVA) avec un taux forfaitaire de compensation fixé à 16,404 % du montant TTC, et non à hauteur des 20 % de TVA effectivement acquittés. Il existe donc un écart de 3,6 points. L’amendement vise à réduire le coût d’acquisition et de renouvellement des véhicules lourds spécialement conçus et aménagés pour les missions des services d’incendie et de secours, notamment les camions-citernes. Il prévoit ainsi d’exonérer ces véhicules de TVA, mais également des impositions assises sur leurs émissions de dioxyde de carbone. Il reprend les propositions du rapport de la mission parlementaire intitulé « Agir dès aujourd’hui pour anticiper, prévenir, préparer, lutter et se relever face aux feux de forêt » remis au premier ministre le 28 septembre."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 102,
+          "texte": "Sur l’amendement no 1030, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 104,
+          "texte": "Vous avez raison, les Sdis doivent pouvoir acquérir massivement du matériel, notamment des camions-citernes. Je comprends donc l’objectif de cette mesure, mais elle ne semble pas autorisée par la directive européenne relative au système commun de TVA : manifestement, les véhicules ne figurent pas dans la liste des biens et services pouvant bénéficier d’une exonération. Par ailleurs, une disposition du PLF augmente le taux de la taxe spéciale sur les conventions d’assurance (TSCA) de façon à apporter aux SDIS 150 millions d’euros de surcroît de recettes. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 105,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 106,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 107,
+          "texte": "(L’amendement no 853 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 108,
+          "texte": "La parole est à M. Damien Maudet, pour soutenir l’amendement no 1030."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "ordre": 109,
+          "texte": "Mercredi dernier, le Secours populaire de Haute-Vienne, qui organisait une distribution alimentaire à destination des étudiants, a été contraint de refuser l’accès à une partie d’entre eux. À Saint-Léonard-de-Noblat, il s’est retrouvé avec des frigos vides, manquant notamment de viande. La pauvreté explose dans notre pays : nous comptons désormais 11 millions de personnes pauvres, et un foyer sur trois est contraint de réduire son alimentation pour pouvoir nourrir ses enfants. Face à cette situation, les associations ont bien du mal à aider tous nos concitoyens dans le besoin. Alors que le gouvernement fabrique de plus en plus de pauvres, il ne leur donne pas les moyens nécessaires. Nous souhaitons donc leur apporter un soutien financier en proposant d’exonérer du paiement de la TVA les associations d’aide alimentaire. Dans l’urgence, il faut leur donner les moyens d’agir. Bien sûr, à moyen et long terme, il faudra s’attaquer aux causes de la pauvreté ; mais cela, nous le ferons lorsque nous aurons gagné l’élection présidentielle de 2027."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 110,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 111,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 112,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 113,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 114,
+          "texte": "Je mets aux voix l’amendement no 1030."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 115,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 116,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        78\n        Nombre de suffrages exprimés                50\n        Majorité absolue                        26\n                Pour l’adoption                25\n                Contre                25",
+          "scrutinDetecte": {
+            "ordre": 116,
+            "votants": 78,
+            "exprimes": 50,
+            "majoriteAbsolue": 26,
+            "pour": 25,
+            "contre": 25,
+            "abstention": 28
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 117,
+          "texte": "(L’amendement no 1030 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 118,
+          "texte": "La parole est à M. Marc Chavent, pour soutenir l’amendement no 3641."
+        },
+        {
+          "orateur": "M. Marc Chavent",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840721",
+          "ordre": 119,
+          "texte": "Il vise à retirer l’accise de la base d’imposition de la TVA sur l’électricité et les carburants. Il est en effet inadmissible de payer un impôt sur un autre impôt, même si c’est un excellent résumé de la politique menée par la gauche – et lorsque je parle de la gauche, cela va de LR jusqu’à LFI. (Applaudissements sur plusieurs bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 120,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 121,
+          "texte": "Aux termes de l’article 78 de la directive européenne sur la TVA, « sont à comprendre dans la base d’imposition […] les impôts, droits, prélèvements et taxes, à l’exception de la TVA elle-même […]. » Je pense donc que votre proposition est contraire au droit européen. Par ailleurs, son coût est estimé à 5 milliards d’euros, ce qui soulève la question de son financement et de la compensation de cette perte de recettes. Pour ces raisons, mon avis est malheureusement défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 122,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 123,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 124,
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "ordre": 125,
+          "texte": "À défaut d’avoir adopté tout à l’heure la baisse de la TVA sur les carburants, nous avons ici une séance de rattrapage. Il s’agit cette fois de supprimer la TVA appliquée à la taxe intérieure de consommation sur les produits énergétiques (TICPE), autrement dit l’impôt sur l’impôt. Je rappelle qu’au moment de la crise des gilets jaunes, le groupe LR avait au moins proposé cette mesure. Il ne s’agissait pas de baisser la TVA ou la TICPE, mais simplement de supprimer cet impôt sur l’impôt, qui rapporte tout de même 4 milliards d’euros par an à l’État. Je suis assez surpris par l’argument du rapporteur général : qu’un impôt sur un autre impôt puisse être contraire au droit européen, voilà qui est assez cocasse !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 126,
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 127,
+          "texte": "Je saisis l’occasion pour vous donner un bilan chiffré de la situation depuis le début de l’examen de la première partie du projet de loi de finances. À ce stade, le déficit public s’est dégradé de 23,9 milliards d’euros."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 128,
+          "texte": "Ce n’est pas vrai ! Et l’impôt mondial consolidé ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 129,
+          "texte": "Sur ces 23,9 milliards, 4,9 milliards d’euros ont été enregistrés ce matin. Autrement dit, au cours de notre seule séance de ce matin, nous avons dégradé le déficit public de 1 milliard d’euros par heure !\nMonsieur le député Renault, lorsque j’entends parler de séance de rattrapage, comme s’il fallait encore dégrader davantage le déficit public, et le faire passer de 24 milliards à 29 milliards d’euros, ou davantage encore, je trouve cela assez lunaire. Nous avons besoin de retrouver le sens des réalités : il faut réduire le déficit public. Or, depuis le début de cet examen, vous l’avez dégradé en votant ici des baisses de recettes qui se chiffrent en milliards et en refusant là des économies tout aussi importantes."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 131,
+          "texte": "Ce n’est pas nous !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 132,
+          "texte": "Le refus systématique des économies a malheureusement été largement partagé sur ces bancs, monsieur le député.\nLa seule séance de rattrapage qui compte aujourd’hui, c’est donc celle de nos finances publiques. Nous avons encore plusieurs jours de débats devant nous, dans le cadre de cette première partie, puis de la navette, pour redresser la situation."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 134,
+          "texte": "La parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 135,
+          "texte": "Monsieur le ministre, n’oubliez pas les recettes supplémentaires qui ont été votées. Vous les oubliez sans cesse, parce que ce n’est pas vous qui les avez proposées ! Je pense à la fiscalisation de la conversion des cryptomonnaies en stablecoins, grâce à l’amendement que j’ai fait adopter. Je pense également à l’amendement de M. Lhardit sur la taxation des flux ainsi qu’à la taxe sur l’impôt mondial consolidé. Toutes ces mesures représentent des recettes qui dépassent largement 23 milliards d’euros. Nous n’avons donc pas dégradé le solde public ; bien au contraire, je crois que nous l’avons amélioré. (Applaudissements sur quelques bancs des groupes LFI-NFP, GDR, SOC et EcoS.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 136,
+          "texte": "(L’amendement no 3621 n’est pas adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9495,
+          "id": "VTANR5L17V9495",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 3136 de M. Le Coq après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 24,
+          "exprimes": 24,
+          "pour": 6,
+          "contre": 18,
+          "abstention": 0,
+          "ordre": 18
+        },
+        {
+          "numero": 9496,
+          "id": "VTANR5L17V9496",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1026 de M. Piquemal après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 30,
+          "exprimes": 30,
+          "pour": 9,
+          "contre": 21,
+          "abstention": 0,
+          "ordre": 22
+        },
+        {
+          "numero": 9497,
+          "id": "VTANR5L17V9497",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 3685 de M. Le Coq après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 29,
+          "exprimes": 29,
+          "pour": 9,
+          "contre": 20,
+          "abstention": 0,
+          "ordre": 26
+        },
+        {
+          "numero": 9498,
+          "id": "VTANR5L17V9498",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 641 de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 58,
+          "exprimes": 58,
+          "pour": 30,
+          "contre": 28,
+          "abstention": 0,
+          "ordre": 56
+        },
+        {
+          "numero": 9499,
+          "id": "VTANR5L17V9499",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 1040 de M. Ratenon après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 61,
+          "exprimes": 61,
+          "pour": 39,
+          "contre": 22,
+          "abstention": 0,
+          "ordre": 79
+        },
+        {
+          "numero": 9500,
+          "id": "VTANR5L17V9500",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 907 de Mme Bellay après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 75,
+          "exprimes": 60,
+          "pour": 30,
+          "contre": 30,
+          "abstention": 15,
+          "ordre": 96
+        },
+        {
+          "numero": 9501,
+          "id": "VTANR5L17V9501",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 968 de Mme Marsaud après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 61,
+          "exprimes": 55,
+          "pour": 17,
+          "contre": 38,
+          "abstention": 6,
+          "ordre": 101
+        },
+        {
+          "numero": 9502,
+          "id": "VTANR5L17V9502",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 1181 de M. Metzdorf après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 78,
+          "exprimes": 50,
+          "pour": 25,
+          "contre": 25,
+          "abstention": 28,
+          "ordre": 116
+        },
+        {
+          "numero": 9503,
+          "id": "VTANR5L17V9503",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 675 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 74,
+          "exprimes": 72,
+          "pour": 49,
+          "contre": 23,
+          "abstention": 2,
+          "ordre": 123
+        },
+        {
+          "numero": 9504,
+          "id": "VTANR5L17V9504",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 676 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 75,
+          "exprimes": 25,
+          "pour": 18,
+          "contre": 7,
+          "abstention": 50,
+          "ordre": 133
+        },
+        {
+          "numero": 9506,
+          "id": "VTANR5L17V9506",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1030 de M. Coulomme après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 68,
+          "exprimes": 56,
+          "pour": 27,
+          "contre": 29,
+          "abstention": 12,
+          "ordre": 154
+        },
+        {
+          "numero": 9507,
+          "id": "VTANR5L17V9507",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1375 de Mme Maximi à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 74,
+          "exprimes": 59,
+          "pour": 28,
+          "contre": 31,
+          "abstention": 15,
+          "ordre": 158
+        }
+      ]
+    },
+    {
+      "idSyceron": "4215115",
+      "valeurPtsOdj": "1",
+      "titre": "Article 19",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 138,
+          "texte": "Sur les amendements nos 1375 et 1378, je suis saisi par le groupe La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nL’amendement no 1375 de Mme Marianne Maximi est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 141,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 142,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 143,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 144,
+          "texte": "Je mets aux voix l’amendement no 1375."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 145,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 146,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        77\n        Nombre de suffrages exprimés                75\n        Majorité absolue                        38\n                Pour l’adoption                22\n                Contre                53",
+          "scrutinDetecte": {
+            "ordre": 146,
+            "votants": 77,
+            "exprimes": 75,
+            "majoriteAbsolue": 38,
+            "pour": 22,
+            "contre": 53,
+            "abstention": 2
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 147,
+          "texte": "(L’amendement no 1375 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 148,
+          "texte": "La parole est à M. Matthias Renault, pour soutenir l’amendement no 740."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "ordre": 149,
+          "texte": "Je défends cet amendement de simplification fiscale, mais j’en profite également pour répondre à M. le ministre sur la fiscalité des carburants. Vous nous expliquez que nous avons multiplié les cadeaux fiscaux, notamment en matière de TVA, pour un montant total de 24 milliards d’euros depuis le début de l’examen de la première partie du budget. Nous savons tous ici que ces mesures seront probablement balayées par le gouvernement par 49.3 ou par ordonnance. Si nous pouvions échanger ces 24 milliards d’euros de pertes de recettes contre une baisse de la fiscalité sur les carburants, je pense que des millions de Français seraient preneurs !\nNous ne proposons pas des baisses de fiscalité dans tous les sens. Il se trouve que cette assemblée en a adopté un certain nombre – mais ça compte pour du beurre. En revanche, la question de la fiscalité sur les carburants, elle, ne compte pas pour du beurre. Pour financer cette baisse, nous avons préparé des amendements sur la deuxième partie du budget, consacrée aux dépenses. Nous avons de nombreuses propositions d’économies à présenter, dont nous n’avons pas encore pu parler, si ce n’est en commission. Ces propositions viendront donc dans la suite de nos débats, si nous y arrivons, car il est probable que la première partie sera rejetée en séance."
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9505,
+          "id": "VTANR5L17V9505",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 2521 de M. Fugit après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 77,
+          "exprimes": 75,
+          "pour": 22,
+          "contre": 53,
+          "abstention": 2,
+          "ordre": 146
+        }
+      ]
+    },
+    {
+      "idSyceron": "4215129",
+      "valeurPtsOdj": "1",
+      "titre": "Rappel au règlement",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 152,
+          "texte": "La parole est à Mme Marianne Maximi, pour un rappel au règlement."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "ordre": 153,
+          "texte": "Sur le fondement de l’article 100. Monsieur le ministre, vous venez de nous annoncer une somme globale, que nous contestons. Nous souhaitons donc avoir accès au détail du chiffrage des amendements qui ont été adoptés."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4215132",
+      "valeurPtsOdj": "1",
+      "titre": "Article 19 (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 155,
+          "texte": "Quel est l’avis de la commission sur l’amendement no 740 ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 156,
+          "texte": "Avis défavorable. Je m’interroge sur les conséquences de cet amendement pour les collectivités elles-mêmes, puisqu’il revient à les priver d’une partie de leurs compétences fiscales."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 157,
+          "texte": "(L’amendement no 740, repoussé par le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 158,
+          "texte": "L’amendement no 3389 de M. le rapporteur général est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 159,
+          "texte": "(L’amendement no 3389, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 160,
+          "texte": "L’amendement no 1378 de M. Carlos Martens Bilongo est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 162,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 163,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 164,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 165,
+          "texte": "Je mets aux voix l’amendement no 1378."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 166,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 167,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        75\n        Nombre de suffrages exprimés                53\n        Majorité absolue                        27\n                Pour l’adoption                24\n                Contre                29",
+          "scrutinDetecte": {
+            "ordre": 167,
+            "votants": 75,
+            "exprimes": 53,
+            "majoriteAbsolue": 27,
+            "pour": 24,
+            "contre": 29,
+            "abstention": 22
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 168,
+          "texte": "(L’amendement no 1378 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 169,
+          "texte": "(L’article 19, amendé, est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9508,
+          "id": "VTANR5L17V9508",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1378 de M. Bilongo à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 75,
+          "exprimes": 53,
+          "pour": 24,
+          "contre": 29,
+          "abstention": 22,
+          "ordre": 167
+        }
+      ]
+    },
+    {
+      "idSyceron": "4215157",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 19",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 171,
+          "texte": "La parole est à M. Jean-Victor Castor, pour soutenir l’amendement no 871, portant article additionnel après l’article 19."
+        },
+        {
+          "orateur": "M. Jean-Victor Castor",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795868",
+          "ordre": 172,
+          "texte": "Cet amendement vise à appliquer, de 2027 à 2029, un tarif nul aux taxes sur le stockage et l’incinération des déchets dans les installations de déchets non dangereux situées dans les collectivités régies par l’article 73 de la Constitution. Le droit actuel prévoit déjà des réductions tarifaires comprises entre 20 % et 80 % dans ces collectivités, ainsi qu’un tarif nul à Mayotte.\nL’article 19 précise le champ de ces réductions mais ne modifie pas la fourchette de réductions. Pourtant, les insuffisances des infrastructures de tri et de valorisation dans les territoires visés limitent les possibilités de réduire le recours au stockage et à l’incinération.\nCette mesure temporaire vise à préserver les capacités financières des collectivités territoriales d’outre-mer, qui sont déjà exsangues."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 175,
+          "texte": "(L’amendement no 871, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4215162",
+      "valeurPtsOdj": "1",
+      "titre": "Article 20",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 177,
+          "texte": "Je suis saisi de deux amendements identiques, nos 1361 et 2487, tendant à supprimer l’article 20.\n Ces amendements font l’objet d’une demande de scrutin public par le groupe La France insoumise-Nouveau Front populaire.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n L’amendement no 1361 est défendu.\nLa parole est à Mme Eva Sas, pour soutenir l’amendement no 2487."
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 179,
+          "texte": "L’article 20 instaure un tarif réduit de taxe sur les installations nucléaires de base pendant leur construction."
+        },
+        {
+          "orateur": "M. Romain Daubié",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793122",
+          "ordre": 180,
+          "texte": "C’est une bonne chose !"
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 181,
+          "texte": "Aujourd’hui, une installation nucléaire est soumise, dès sa création, au même tarif de taxe qu’une installation en exploitation. Le gouvernement propose de réduire ce tarif pendant toute la durée du chantier des nouveaux réacteurs de type EPR. Nous nous opposons à cette disposition et, plus largement, à cette relance illégitime du nucléaire, qui repose sur des paris technologiques industriels et financiers hasardeux.\nCet article est très révélateur à cet égard : avant même leur construction, on accorde des avantages fiscaux aux futurs réacteurs pour tenter d’assurer leur équilibre économique ! Alors qu’on demande des efforts considérables aux gens dans ce budget, l’argent public serait bien plus efficacement utilisé si on le consacrait à la sobriété, à l’efficacité énergétique et au développement des énergies renouvelables, des technologies matures, efficaces et rapidement déployables, plutôt qu’à des réacteurs qui ne produiront pas d’électricité avant 2040, au plus tôt."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 183,
+          "texte": "Quel est l’avis de la commission sur ces deux amendements ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 184,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 185,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 186,
+          "texte": "Je voudrais remercier Mme Sas qui, comme à son habitude, a défendu son amendement avec beaucoup d’honnêteté. Cela renvoie au débat sur la politique industrielle et sur la relance du programme nucléaire français : le gouvernement juge cette relance nécessaire ; le groupe écologiste, lui, y est opposé.\nSi nous souhaitons la relance du programme nucléaire et la construction de nouveaux EPR, il faut voter cet article, car il permettra d’assurer un équilibre économique, le temps de la construction des nouveaux réacteurs.\nAvis défavorable sur ces amendements de suppression."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 189,
+          "texte": "Je mets aux voix les amendements identiques nos 1361 et 2487."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 190,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 191,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        78\n        Nombre de suffrages exprimés                78\n        Majorité absolue                        40\n                Pour l’adoption                20\n                Contre                58",
+          "scrutinDetecte": {
+            "ordre": 191,
+            "votants": 78,
+            "exprimes": 78,
+            "majoriteAbsolue": 40,
+            "pour": 20,
+            "contre": 58,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 192,
+          "texte": "(Les amendements identiques nos 1361 et 2487 ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 193,
+          "texte": "La parole est à M. Joël Bruneau, pour soutenir l’amendement no 2666."
+        },
+        {
+          "orateur": "M. Joël Bruneau",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840817",
+          "ordre": 194,
+          "texte": "Nous proposons que la disposition introduite à l’article 20 s’applique également aux laboratoires de recherche en physique nucléaire, notamment aux grands accélérateurs de particules, pendant la durée de leur construction ou s’ils nécessitent des rénovations lourdes."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 195,
+          "texte": "(L’amendement no 2666, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 196,
+          "texte": "L’amendement no 3400 de M. le rapporteur général est rédactionnel."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 197,
+          "texte": "(L’amendement no 3400, accepté par le gouvernement, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 198,
+          "texte": "L’amendement no 1363 de M. Carlos Martens Bilongo est défendu."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 199,
+          "texte": "(L’amendement no 1363, repoussé par la commission et le gouvernement, n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 200,
+          "texte": "(L’article 20, amendé, est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9509,
+          "id": "VTANR5L17V9509",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1361 de M. Le Coq et l'amendement identique suivant de suppression de l'article 20 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 78,
+          "exprimes": 78,
+          "pour": 20,
+          "contre": 58,
+          "abstention": 0,
+          "ordre": 191
+        }
+      ]
+    },
+    {
+      "idSyceron": "4215187",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 20",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 202,
+          "texte": "Nous en venons à des amendements portant article additionnel après l’article 20.\n La parole est à M. Jean-Luc Fugit, pour soutenir l’amendement no 3063."
+        },
+        {
+          "orateur": "M. Jean-Luc Fugit",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722366",
+          "ordre": 203,
+          "texte": "L’Agence nationale pour la gestion des déchets radioactifs (Andra) gère un fonds destiné à financer la construction, l’exploitation, la fermeture et la surveillance des installations de stockage des déchets de haute ou de moyenne activité à vie longue. Ce fonds est alimenté par les contributions des exploitants nucléaires – EDF, Orano Recyclage et le Commissariat à l’énergie atomique et aux énergies alternatives (CEA).\nCes contributions sont soumises à l’impôt sur les sociétés dès l’année de leur versement, alors que les dépenses qu’elles financent s’étalent sur de nombreuses années. Aussi cet amendement propose-t-il d’appliquer à ces contributions un mécanisme comparable à celui de l’article 42 septies du code général des impôts, prévu pour les subventions d’équipement. Leur imposition serait différée et suivrait le même rythme que les amortissements comptabilisés sur les immobilisations affectées au projet."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 205,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 206,
+          "texte": "La commission n’a pas examiné cet amendement. Je comprends qu’il s’agit de lisser la charge fiscale de l’Agence nationale pour la gestion des déchets radioactifs liée aux subventions qu’elle reçoit pour la construction de Cigéo, le centre industriel de stockage géologique en profondeur, à Bure. Vous proposez que les subventions versées à l’Andra pour la construction de Cigéo ne soient pas imposées lors de leur versement mais après l’entrée en service de l’installation. L’objectif est de réduire l’imposition en l’imputant sur l’amortissement du projet.\nVotre proposition paraît intéressante et de bon sens, mais je répète que nous n’en avons pas débattu en commission. Je me tourne donc vers M. le ministre, pour qu’il nous dise si ce report d’imposition est nécessaire pour assurer l’équilibre économique du projet. Si la réponse est oui, alors j’émettrai évidemment un avis favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 208,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 209,
+          "texte": "Votre interprétation est exacte, monsieur le rapporteur général. L’amendement de M. Fugit apporte un soutien à l’Andra, en faisant que les versements effectués par les opérateurs au profit de l’Andra ne soient pas immédiatement assujettis à l’IS, mais que le produit constaté soit imposé à la même cadence que les amortissements sur les immobilisations affectées au projet. C’est un bon moyen d’accompagner les projets de très longue durée.\nAvis favorable, et le gouvernement lève le gage."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 211,
+          "texte": "(L’amendement no 3063, modifié par la suppression du gage, est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 212,
+          "texte": "La parole est à Mme Agnès Pannier-Runacher, pour soutenir l’amendement no 3775."
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA759832",
+          "ordre": 213,
+          "texte": "Cet amendement technique porte également sur Cigéo. Il vise à organiser sur dix ans la transition entre la taxe qui accompagne actuellement les collectivités locales qui accueillent le site Cigéo et la taxe qui sera mise en œuvre lorsqu’il sera en fonctionnement, de sorte qu’il n’y ait ni rupture de taxe, ni double taxation. J’invite ceux qui soutiennent le nucléaire et qui veulent anticiper la gestion des déchets à voter cet amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 214,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 215,
+          "texte": "Cet amendement n’a pas été examiné par la commission. À titre personnel, j’émettrai un avis défavorable, pour les raisons que je vais exposer.\nVous proposez, sur dix ans, une baisse du tarif d’accompagnement et une hausse du tarif de stockage destinés à financer Cigéo. Le tarif d’accompagnement est versé aux départements de la Meuse et de la Haute-Marne, via deux groupements d’intérêt public (GIP). Le tarif de stockage, quant à lui, doit être versé directement aux communes et aux établissements publics de coopération intercommunale (EPCI) lorsque Cigéo entrera en service.\nJe comprends la logique de votre amendement, mais je me pose plusieurs questions. Premièrement, les affectataires du produit de ces deux tarifs ne sont pas les mêmes : il s’agit, pour le tarif de recherche, de deux GIP et, pour le tarif de stockage, des collectivités. Deuxièmement, les destinations des fonds ne sont pas non plus les mêmes. Pour tout vous dire, j’aurais aimé connaître l’avis des collectivités à ce sujet, parce qu’elles sont les premières concernées. Troisièmement, ces règles ont été fixées dans la loi de finances pour 2025 et je crois important, sur un tel sujet, de maintenir une stabilité fiscale et de ne pas changer les règles au bout de deux ans."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 218,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 219,
+          "texte": "Même avis que le rapporteur général : il convient de ne pas préempter la discussion qui doit avoir lieu au niveau local concernant le niveau et la répartition de ces taxes entre les collectivités concernées par le projet Cigéo."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 220,
+          "texte": "La parole est à Mme Agnès Pannier-Runacher."
+        },
+        {
+          "orateur": "Mme Agnès Pannier-Runacher",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA759832",
+          "ordre": 221,
+          "texte": "Cet amendement était souhaité par l’Inspection générale des finances (IGF) et la Cour des comptes. C’est un impensé qui n’a pas encore été traité. Les questions que vous posez sont parfaitement légitimes, monsieur le rapporteur général, mais il convient d’y répondre rapidement. On peut donc considérer qu’il s’agit d’un amendement d’appel. Il importe qu’il soit adopté, afin qu’il soit retravaillé au cours de la navette. Nous avons déjà eu cette discussion : vous savez que le produit de la taxe revient aux collectivités locales et finance ensuite des projets qui bénéficient aux EPCI. En théorie, rien ne se perd, tout se transforme."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 222,
+          "texte": "(L’amendement no 3775 n’est pas adopté.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4215209",
+      "valeurPtsOdj": "1",
+      "titre": "Article 21",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 224,
+          "texte": "L’amendement no 1191 de Mme Marianne Maximi, tendant à supprimer l’article 21, est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 226,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 227,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 228,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 229,
+          "texte": "Je mets aux voix l’amendement no 1191."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 230,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 231,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        79\n        Nombre de suffrages exprimés                50\n        Majorité absolue                        26\n                Pour l’adoption                13\n                Contre                37",
+          "scrutinDetecte": {
+            "ordre": 231,
+            "votants": 79,
+            "exprimes": 50,
+            "majoriteAbsolue": 26,
+            "pour": 13,
+            "contre": 37,
+            "abstention": 29
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 232,
+          "texte": "(L’amendement no 1191 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 233,
+          "texte": "Sur l’amendement no 1539, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n L’amendement no 1539 de M. Emmanuel Fouquart est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 235,
+          "texte": "La commission a rejeté cet amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 236,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 237,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 238,
+          "texte": "Je mets aux voix l’amendement no 1539."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 239,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 240,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        82\n        Nombre de suffrages exprimés                77\n        Majorité absolue                        39\n                Pour l’adoption                30\n                Contre                47",
+          "scrutinDetecte": {
+            "ordre": 240,
+            "votants": 82,
+            "exprimes": 77,
+            "majoriteAbsolue": 39,
+            "pour": 30,
+            "contre": 47,
+            "abstention": 5
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 241,
+          "texte": "(L’amendement no 1539 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 242,
+          "texte": "Je suis saisi de cinq amendements, nos 1293, 547, 2919, 3454 et 1462, pouvant être soumis à une discussion commune.\n Les amendements nos 547, 2919 et 3454 sont identiques.\n L’amendement no 1293 de Mme Christine Pirès Beaune est défendu.\nL’amendement no 547 de M. Philippe Lottiaux est défendu.\nLa parole est à Mme Félicie Gérard, pour soutenir l’amendement no 2919."
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "ordre": 245,
+          "texte": "Il vise à maintenir à 20 euros, au lieu de 22 euros, le plafond du tarif de sûreté et de sécurité (T2S) applicable aux aéroports de la nouvelle classe 3  bis, qui accueillent entre 5 000 et 700 000 passagers par an. Le maintien des lignes de ces petits aéroports régionaux est un enjeu essentiel pour la desserte et l’attractivité des territoires concernés. Les compagnies comparent leurs coûts entre de nombreuses destinations européennes ; une charge supplémentaire peut peser sur leur choix – de fréquence ou de ligne. Nous proposons de préserver le plafond actuel, afin de ne pas fragiliser davantage les liaisons aériennes de nos territoires."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 246,
+          "texte": "La parole est à M. Nicolas Ray, pour soutenir l’amendement no 3454."
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 247,
+          "texte": "Nous sommes un peu surpris que vous rehaussiez aussi fortement le taux de T2S pour les aéroports de la classe 3 bis, cette catégorie que nous avons créée l’année dernière précisément pour tenir compte des difficultés de nos aéroports régionaux, de nos aéroports de proximité, qui assurent l’accessibilité de nos territoires et leur désenclavement, notamment sanitaire.\nVous rehaussez fortement le plafond pour la catégorie  3  bis, alors que vous stabilisez le plafond pour les aéroports de catégorie 2 et que vous augmentez plus faiblement celui des aéroports de catégorie 1, c’est-à-dire les plus gros. C’est assez contradictoire avec votre volonté de soutenir ces aéroports de proximité !"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 0,
+          "texte": "------------------Cette partie de la séance est en cours de finalisation---------------------------------------------"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 1,
+          "texte": "Pour calculer la rentabilité de l’exploitant, il est prévu un ratio entre le résultat net et le chiffre d’affaires ; mais le calcul réintègre d’abord au résultat net, c’est-à-dire au numérateur, le montant de la taxe sur l’exploitation des infrastructures de transport de longue distance déjà acquittée. Pour éviter l’effet de bord qui conduirait ainsi à une taxation identique pour toutes les sociétés visées, l’amendement que je vous propose supprime cette réintégration dans le calcul du taux. Il limite la hausse de la fiscalité pour les entreprises les moins rentables et concentre l’effet de la mesure sur les exploitations les plus rentables, tout en sécurisant juridiquement le dispositif. Monsieur le ministre, je pense qu’il y avait une discussion à avoir sur ce sujet technique et sur les entreprises éventuellement visées."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 2,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 3,
+          "texte": "Favorable."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 4,
+          "texte": "(L’amendement no 3410 est adopté.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9510,
+          "id": "VTANR5L17V9510",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1191 de Mme Maximi de suppression de l'article 21 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 79,
+          "exprimes": 50,
+          "pour": 13,
+          "contre": 37,
+          "abstention": 29,
+          "ordre": 231
+        },
+        {
+          "numero": 9511,
+          "id": "VTANR5L17V9511",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1539 de M. Fouquart à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 82,
+          "exprimes": 77,
+          "pour": 30,
+          "contre": 47,
+          "abstention": 5,
+          "ordre": 240
+        }
+      ]
+    },
+    {
+      "idSyceron": "4214888",
+      "valeurPtsOdj": "1",
+      "titre": "Article 23",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 6,
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 7,
+          "texte": "La Caisse des dépôts et consignations a été créée il y a plus de deux siècles pour gérer l’épargne des Français et la mettre à l’abri de l’appétit de l’État et des gouvernements successifs.\nElle gère notamment les comptes en déshérence, c’est-à-dire les comptes qui n’ont pas été réclamés, en particulier à la suite de successions – c’est le sujet de cet article. La Caisse des dépôts les conserve pendant vingt ans ; au bout de ce délai, les sommes reviennent à l’État. Chaque année, des ayants droit, retrouvés grâce à des recherches, les réclament et ces sommes leur sont évidemment versées.\nCet article opère un prélèvement exceptionnel de 1,4 milliard d’euros sur les comptes en déshérence. Il s’agit d’un montant très important. Au regard de l’état des finances publiques et de la nécessité de réduire notre déficit, il convient d’adopter cet article. Je voudrais néanmoins en souligner certaines limites et m’opposer aux amendements qui iraient plus loin. Avec 1,4 milliard d’euros en moins, la Caisse des dépôts verra sa capacité d’action réduite. Par ailleurs, cet article bouscule le principe d’indépendance de la Caisse… (Le temps de parole étant écoulé, M. le président coupe le micro de l’orateur.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 97,
+          "texte": "Nous en venons à cinq amendements identiques, nos 163 de M. Anthony Boulogne, 677 de M. Jean-Philippe Tanguy, 836 de M. François Jolivet, 1190 de M. Aurélien Le Coq et 1470 de M. Éric Ciotti visant à supprimer l’article 23.\n Sur ces amendements, je suis saisi par les groupes Rassemblement national et La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n Les cinq amendements sont défendus.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 379,
+          "texte": "Ces amendements ont été rejetés par la commission. S’ils étaient adoptés, ils représenteraient un coût de 1,4 milliard d’euros."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 380,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 381,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 382,
+          "texte": "Je mets aux voix les amendements identiques nos 163, 677, 836, 1190 et 1470."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 383,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 384,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        92\n        Nombre de suffrages exprimés                88\n        Majorité absolue                        45\n                Pour l’adoption                51\n                Contre                37",
+          "scrutinDetecte": {
+            "ordre": 384,
+            "votants": 92,
+            "exprimes": 88,
+            "majoriteAbsolue": 45,
+            "pour": 51,
+            "contre": 37,
+            "abstention": 4
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 385,
+          "texte": "(Les amendements identiques nos 163, 677, 836, 1190 et 1470 sont adoptés ; en conséquence, l’article 23 est supprimé et les amendements suivants tombent.)"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9512,
+          "id": "VTANR5L17V9512",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 547 de M. Lottiaux et les amendements identiques suivants à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 92,
+          "exprimes": 88,
+          "pour": 51,
+          "contre": 37,
+          "abstention": 4,
+          "ordre": 384
+        }
+      ]
+    },
+    {
+      "idSyceron": "4214906",
+      "valeurPtsOdj": "1",
+      "titre": "Après l’article 23",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 387,
+          "texte": "L’amendement no 3992 de la commission des finances, qui fait l’objet du sous-amendement no 4020, est défendu.\nLa parole est à M. Denis Masséglia, pour soutenir le sous-amendement no 4020."
+        },
+        {
+          "orateur": "M. Denis Masséglia",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720146",
+          "ordre": 389,
+          "texte": "Cet amendement est excellent ; je propose de l’élargir à la presse spécialisée."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 390,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 391,
+          "texte": "J’apparais comme signataire de l’amendement, mais seulement en tant que rapporteur général, parce qu’il a été accepté lors de la réunion tenue en application de l’article 91 du règlement. J’y suis toutefois défavorable.\nEn effet, il vise à instituer une taxe égale à 0,5 % du chiffre d’affaires pour les entreprises dont les dépenses annuelles de publicité dépassent 1 million d’euros qui n’affecteraient pas une part minimum de ces dépenses aux éditeurs de presse. Forcer les entreprises à cibler une part de leurs dépenses publicitaires me semble contestable. Avis défavorable à l’amendement ainsi qu’au sous-amendement."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 393,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 394,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 395,
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 396,
+          "texte": "Cet amendement est issu des travaux que j’ai menés avec notre collègue du groupe Socialistes et apparentés Jacques Oberti dans le cadre de la mission d’information relative aux missions de service public de La Poste en vue d’une nouvelle loi postale.\nNotre pays a besoin d’une presse indépendante, d’une presse qui gagne de l’argent, d’une presse libre. Or le modèle économique des journaux, en particulier en ligne, n’est pas bon. Les recettes publicitaires sont captées par les géants du numérique. L’objectif de cet amendement est donc d’obliger les annonceurs à consacrer 15 % de leurs dépenses publicitaires aux titres de presse. Il répond à un objectif de transparence démocratique visant à permettre à la presse française de vivre et de se développer.\nMonsieur le rapporteur général, j’ai utilisé la taxe comme prétexte pour faire passer cet amendement ; mais sur le fond, il s’agit bien de soutenir la presse."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 399,
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "ordre": 400,
+          "texte": "Cet amendement est intéressant, même s’il ne figure pas dans le programme du Rassemblement national ! L’idée est de forcer les grands annonceurs à financer la presse écrite et la presse en ligne : s’ils le font, ils reçoivent un bonus ; s’ils ne le font pas, un malus. À court terme, cela favorisera la presse en lui apportant un financement privé. À moyen terme, cela peut permettre de réduire sa dépendance aux financements publics. Nous nous retrouverions alors dans un modèle de presse libre, comme vous dites, c’est-à-dire financée essentiellement par de l’argent privé. Ce débat mérite de prospérer au cours de la navette : nous voterons pour cet amendement. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 401,
+          "texte": "Sur l’amendement no 680, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 402,
+          "texte": "(Le sous-amendement no 4020 n’est pas adopté.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 403,
+          "texte": "(L’amendement no 3992 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 404,
+          "texte": "La parole est à M. Kévin Mauvieux, pour soutenir l’amendement no 680."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 405,
+          "texte": "Cet amendement vise à instaurer une contribution forfaitaire annuelle de 1 000 euros due par l’employeur pour l’embauche d’un salarié extra-européen.\nLe taux de chômage est en hausse. On entend régulièrement que l’immigration est nécessaire à l’économie ; en réalité, elle tire les salaires vers le bas,…"
+        },
+        {
+          "orateur": "Mme Léa Balage El Mariky",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 407,
+          "texte": "C’est faux !"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 408,
+          "texte": "…au détriment des Français comme des migrants.\nIl s’agit d’une trappe à bas salaires qui permet notamment aux grandes entreprises d’embaucher à bas prix des personnes qui acceptent ce travail parce qu’elles n’ont pas forcément conscience de ce qu’il faut pour vivre en France. (Exclamations sur les bancs du groupe LFI-NFP.) Or, pour revaloriser le travail et redonner aux Français l’envie de travailler, il faut évidemment que les salaires augmentent. Et pour que les salaires s’ajustent à la hausse, à la juste valeur du travail, il faut éviter cette trappe à bas salaires que constitue l’immigration."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "ordre": 410,
+          "texte": "Vous êtes vraiment obsédés…"
+        },
+        {
+          "orateur": "Mme Léa Balage El Mariky",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841701",
+          "ordre": 411,
+          "texte": "Les trappes à bas salaires, ce sont les patrons !"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 412,
+          "texte": "Nous proposons donc cette mesure pour opérer une forme de rééquilibrage du coût du travail. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 413,
+          "texte": "Sur les amendements nos 2527, 2533 et 2518, je suis saisi par le groupe La France insoumise-Nouveau Front populaire de demandes de scrutin public.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nQuel est l’avis de la commission sur l’amendement no 680 ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 415,
+          "texte": "La commission a émis un avis défavorable sur cet amendement, qui y a fait l’objet d’une discussion passionnée.\nAvec une telle disposition, ne craignez-vous pas de conduire les étrangers extracommunautaires présents en France à moins travailler, puisque leur travail coûtera par définition plus cher aux entreprises ? Or nous savons tous que l’intégration par le travail est probablement l’un des modes d’intégration les plus vertueux. C’est pourquoi je suis défavorable à cet amendement."
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "ordre": 417,
+          "texte": "C’est tout ce que cela vous inspire comme commentaire ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 418,
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 419,
+          "texte": "Il faut faire de la publicité à cet amendement, tant il est délirant ! (Applaudissements sur les bancs des groupes LFI-NFP, EcoS et GDR.)"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "ordre": 420,
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 421,
+          "texte": "Il témoigne d’une incompréhension totale de ce qu’est le travail dans notre pays et de la manière dont les travailleurs étrangers participent à la production de la richesse nationale, notamment dans les métiers de première ligne, dans ceux qui impliquent de se lever très tôt le matin, dans le BTP ou dans le commerce. Si vous enleviez tous les travailleurs étrangers – car c’est bien le fond de cet amendement ! –, des secteurs entiers de l’économie s’arrêteraient. (Applaudissements sur les bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. Frédéric Maillot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796010",
+          "ordre": 422,
+          "texte": "Ce serait un black-out économique !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 423,
+          "texte": "L’idée que les travailleurs étrangers « voleraient » le travail des Français est totalement contraire à la réalité, et même à la manière dont s’est construite la France, grand pays d’immigration depuis des siècles.\nSi j’ai bien compris, l’idée de votre amendement est que les entreprises licencient les travailleurs étrangers qu’elles emploient pour embaucher des salariés français ; mais ceux-ci n’iraient évidemment pas y travailler ! Les entreprises devraient donc payer 1 000 euros par personne embauchée. Quel cadeau ! Bref, cet amendement est catastrophique.\nJ’ai relevé un élément qui me choque particulièrement dans l’exposé sommaire. Si j’ai bien compris, vous considérez que les travailleurs étrangers extracommunautaires…"
+        },
+        {
+          "orateur": "M. Frédéric Weber",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841479",
+          "ordre": 426,
+          "texte": "Extra-européens !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 427,
+          "texte": "…présents en France sont des espèces de sauvages, de naïfs, qui arrivent dans notre pays sans connaître le niveau des salaires ni l’existence des accords de branche, et qui seraient de facto exploités du fait de leur statut."
+        },
+        {
+          "orateur": "Mme Marianne Maximi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794686",
+          "ordre": 428,
+          "texte": "Incroyable !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 429,
+          "texte": "Vous rendez-vous compte du racisme sous-jacent de ce développement ? (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR. – Exclamations sur les bancs du groupe RN.)\nSavez-vous qu’une très grande partie de ces travailleurs étrangers sont syndiqués, qu’ils défendent leurs droits et ceux de leurs camarades ? (Exclamations sur les bancs du groupe RN.)\nVotre vision du marché de l’emploi, comme des travailleurs étrangers, est incroyable. Ces travailleurs n’ont aucune leçon à recevoir sur leurs revendications ou sur le niveau des salaires. Votre exposé sommaire ne fait qu’ajouter au caractère discriminatoire de votre amendement. (Applaudissements sur les bancs des groupes LFI-NFP et EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 432,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 433,
+          "texte": "Cet amendement s’en prend à l’immigration régulière et à l’immigration de travail. Plusieurs secteurs ont été évoqués ; votre proposition mériterait par exemple d’être soumise aux agriculteurs, car un très grand nombre d’exploitations agricoles ont besoin de travailleurs saisonniers. Les exploitations les plus riches pourraient sans doute payer ; en revanche, les exploitations en difficulté, qui emploient des travailleurs saisonniers en situation régulière, seraient mises à terre par cette taxe qui pèserait, je le répète, sur l’immigration régulière et de travail. J’émets évidemment un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 434,
+          "texte": "La parole est à M. Matthias Renault."
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "ordre": 435,
+          "texte": "La notion de racisme a été évoquée."
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 436,
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "ordre": 437,
+          "texte": "Mais la vision raciste, c’est précisément la situation actuelle ! (Applaudissements sur les bancs du groupe RN.)\nAujourd’hui, on considère qu’il existe des sous-métiers, sous-payés, impropres à des Français ou à des Européens, et qu’il faudrait donc faire venir des extra-Européens sous-payés pour exercer ces prétendus sous-métiers. Cela s’appelle du néoesclavagisme à caractère raciste. (« Eh oui ! » et applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 439,
+          "texte": "C’est exactement ce que vous dites ! Vous êtes esclavagistes !"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "ordre": 440,
+          "texte": "C’est une vision de gauche, mais c’est aussi la vision du centre. Je me rappelle par exemple qu’Éric Dupond-Moretti disait : si on n’avait plus d’immigration, qui irait ramasser nos poubelles ? Qui irait nettoyer nos toilettes ? Comme si les immigrés extra-européens n’étaient bons qu’à ça, et comme si ces métiers étaient des sous-métiers qui devaient être sous-payés !"
+        },
+        {
+          "orateur": "Mme Mathilde Feld",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841251",
+          "ordre": 441,
+          "texte": "C’est juste un constat de la réalité !"
+        },
+        {
+          "orateur": "M. Matthias Renault",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841955",
+          "ordre": 442,
+          "texte": "C’est une vision raciste du monde !\nQuant au caractère irréalisable de cette mesure, je rappelle que Singapour a instauré une contribution d’un montant encore plus élevé. Nous proposons 1 000 euros par an par travailleur ; à Singapour, c’est entre 300 et 600 dollars par mois ! (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 444,
+          "texte": "La parole est à M. Benjamin Lucas-Lundy."
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "ordre": 445,
+          "texte": "Il serait bon que nos collègues d’extrême droite révisent un peu leurs chiffres et ce qu’est la réalité. Rappelons que les travailleurs étrangers sont plus diplômés que la moyenne des travailleurs français."
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 446,
+          "texte": "Raciste !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "ordre": 447,
+          "texte": "Vous racontez n’importe quoi ! M. le ministre évoque tel ou tel secteur. Nous, nous considérons que par principe, votre racisme est insupportable,…"
+        },
+        {
+          "orateur": "Un député du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 448,
+          "texte": "C’est vous !"
+        },
+        {
+          "orateur": "M. Benjamin Lucas-Lundy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795636",
+          "ordre": 449,
+          "texte": "…et que cette préférence nationale que vous voulez instaurer partout – dans la société, dans le logement, et aujourd’hui dans le travail – est un apartheid. (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs du groupe LFI-NFP.) Pour nous, un travailleur est un travailleur, une travailleuse est une travailleuse, quels que soient ses papiers, qu’il ou elle soit en situation régulière ou non, quelle que soit son origine. Nous voulons nous battre pour des droits pour toutes les travailleuses et tous les travailleurs, qui seront d’ailleurs mobilisés le 5 novembre contre la Macronie et contre vous ! (Applaudissements sur les bancs des groupes EcoS et LFI-NFP. – Exclamations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 450,
+          "texte": "Je mets aux voix l’amendement no 680."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 451,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 452,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        95\n        Nombre de suffrages exprimés                95\n        Majorité absolue                        48\n                Pour l’adoption                37\n                Contre                58",
+          "scrutinDetecte": {
+            "ordre": 452,
+            "votants": 95,
+            "exprimes": 95,
+            "majoriteAbsolue": 48,
+            "pour": 37,
+            "contre": 58,
+            "abstention": 0
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 453,
+          "texte": "(L’amendement no 680 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 454,
+          "texte": "Nous en venons à six amendements, nos 2527, 2533, 3234, 2518, 3515 et 3956, pouvant être soumis à une discussion commune.\nLes amendements nos 2527 de M. Aurélien Le Coq, 2533 de Mme Marianne Maximi, 3234 de M. Christophe Naegelen et 2518 de Mme Marianne Maximi sont défendus.\nJe suis saisi de deux demandes de scrutin public : sur l’amendement no 3515, par le groupe Écologiste et social ; sur l’amendement n° 3956, par le groupe de la Gauche démocrate et républicaine.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nLa parole est à M. Karim Ben Cheikh, pour soutenir l’amendement no 3515."
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "ordre": 457,
+          "texte": "Par cet amendement, qui va dans le même sens que les précédents, nous proposons de moderniser la taxe sur les transactions financières (TTF) en relevant son taux de 0,4 % à 0,6 %, en élargissant son assiette aux opérations intraday et en confiant sa collecte à la DGFIP.\nL’amendement s’appuie sur un rapport de la Cour des comptes de septembre 2026. En 2025, le passage d’un taux de 0,3 % à un taux de 0,4 % a permis de porter le produit de la taxe de 1,9 milliard d’euros à 2,5 milliards, sans effet sur les marchés boursiers. Selon la Cour des comptes, le rendement de la taxe serait maximal avec un taux de 0,78 %. Pour garder raison à ce stade, nous proposons de ne pas nous aligner complètement sur la position maximaliste de la Cour et de porter le taux à 0,6 % seulement.\nPar ailleurs, la Cour souligne qu’entre 2017 et 2025, 95 % des transactions déclarées ont été exonérées sans qu’aucun justificatif soit exigé. Les opérations intrajournalières et les produits dérivés échappent à la TTF, qui devait justement décourager les stratégies de court terme. Nous proposons de corriger cela en introduisant la taxation des opérations intraday."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 460,
+          "texte": "Merci de conclure, monsieur le député."
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "ordre": 461,
+          "texte": "Étant donné que personne n’a présenté les amendements, je me permets de terminer, monsieur le président. Enfin, la Cour relève 2,2 milliards d’euros d’écarts inexpliqués entre la taxe due et la taxe acquittée. Face à cette faillite de la collecte, nous proposons de confier celle-ci à la DGFIP. (Applaudissements sur les bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 462,
+          "texte": "La parole est à M. Nicolas Sansu, pour soutenir l’amendement no 3956."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 463,
+          "texte": "Il vise à porter le taux de la taxe sur les transactions financières de 0,4 % à 0,6 % et à inclure dans son assiette les transactions intrajournalières et certains produits dérivés. Notre collègue Ben Cheikh l’a dit, 95 % des transactions échappent à cette taxe – c’est incroyable !\nJe rappelle à l’attention de celles et ceux qui pensent que la taxe Zucman ne sera jamais créée, que la taxe Tobin a été instaurée en 1998 ou 1999 à un taux de 0 % – mais le principe était là. Je peux vous assurer que tout comme la taxe sur les transactions financières, une taxe sur les grands patrimoines sera instaurée un jour ou l’autre. (Applaudissements sur les bancs du groupe EcoS. – Mme Estelle Mercier applaudit également.)\nL’élargissement de l’assiette à un peu plus de 1 700 milliards d’euros pour la France, associé au relèvement du taux à 0,6 %, permettrait de porter le rendement de la TTF à près de 4 milliards. Monsieur le ministre, nous ne faisons pas que créer des dépenses !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 466,
+          "texte": "Quel est l’avis de la commission sur ces amendements en discussion commune ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 467,
+          "texte": "Cette série d’amendements décline trois mesures, avec des variantes selon les amendements : une hausse du taux de la TTF, qui passerait de 0,4 % à 0,5 % ou 0,6 % ; pour certains, un élargissement de l’assiette de la taxe aux opérations intrajournalières et à certains produits dérivés ; pour certains, le transfert du recouvrement de la TTF d’Euroclear vers la DGFIP.\nLa commission a donné un avis favorable à l’amendement no 2533 de Mme Maximi. Elle a émis un avis défavorable sur les autres amendements – ou n’a pas eu le temps de les étudier car ils étaient tombés à la suite de l’adoption du no 2533.\nÀ titre personnel, je donnerai un avis défavorable à tous les amendements, pour les raisons suivantes. Tout d’abord, la hausse de la TTF, dont le taux a déjà augmenté l’année dernière, produit une baisse relative du volume d’opérations et dégrade la qualité du marché. Ensuite, les taux de TTF sont plus faibles dans les pays voisins – 0,2 % pour l’Espagne, par exemple. Enfin, la Cour des comptes estime à 0,37 % le taux optimal permettant de décourager certaines transactions financières jugées néfastes sans nuire aux marchés.\nSur l’élargissement de l’assiette aux opérations intraday, la Cour des comptes souligne qu’il n’y a pas de transfert de propriété pour ces opérations. Il faudrait donc complètement redéfinir la TTF. Selon la Cour, les taxer provoquerait probablement une migration de l’activité vers d’autres places européennes.\nEnfin, s’agissant du transfert du recouvrement à la DGFIP, la collecte de la TTF par Euroclear est peu coûteuse pour l’État, et, selon la Cour des comptes, en l’état, nous serions incapables de remplacer Euroclear."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 472,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 473,
+          "texte": "Je partage l’avis personnel du rapporteur général. Je précise que la collecte par Euroclear France fonctionne. Les frais de gestion sont estimés à 300 000 euros par la DGFIP – ce sont des frais très faibles pour une taxe d’une telle ampleur. Il n’y a donc pas de raison de changer les modalités de recouvrement. Ce serait long et coûteux et cela risquerait de créer des erreurs, y compris au détriment des comptes publics.\nAvis défavorable sur l’ensemble de ces amendements."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 475,
+          "texte": "La parole est à M. Daniel Labaronne."
+        },
+        {
+          "orateur": "M. Daniel Labaronne",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719798",
+          "ordre": 476,
+          "texte": "Rappelons trois idées évoquées par la Cour des comptes. D’abord, la TTF manque sa cible : elle devait réguler les marchés, mais la Cour ne constate pas d’effet stabilisateur solide sur la volatilité des cours. La composante de la taxe visant les opérations de trading à haute fréquence, souvent présentées comme sa cible, ne rapporte presque plus rien.\nEnsuite, elle pénalise les échanges sans distinguer selon leur utilité. Depuis sa création, les volumes de transaction ont baissé de 10 % à 15 % pour les titres concernés et la liquidité s’est dégradée sur certains segments – les flux se sont déplacés.\nEnfin, elle est mal calibrée : son assiette est étroite, avec de nombreuses exonérations. La Cour estime qu’un élargissement mal étudié pourrait déplacer encore les transactions et réduire les recettes."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 479,
+          "texte": "La parole est à M. Karim Ben Cheikh."
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "ordre": 480,
+          "texte": "Permettez-moi de revenir sur certaines affirmations. Monsieur le rapporteur général, vous parlez d’un taux optimal à 0,37 %. Cela aurait été le cas si la TTF avait été un instrument de régulation des marchés boursiers. La Cour affirme aussi à la page 61 du rapport que le taux actuel de 0,4 % se situe « en deçà du taux maximisant les recettes », lequel se serait plutôt aux alentours de 0,78 %.\nPour l’instant, la baisse du produit de la taxe ne s’est pas vérifiée. Les seules baisses observées sont dues au fait que les marchés boursiers ont été affectés par la hausse des tarifs douaniers américains en 2025 – rien dans le rapport de la Cour des comptes n’indique que c’est l’augmentation de la taxe qui a entraîné une perturbation du marché ; au contraire, elle tend plutôt à infirmer cette hypothèse.\nPour ce qui concerne le déplacement des transactions vers d’autres places, là non plus, cela n’est pas vérifié. Vous nous promettez quasiment les dix plaies d’Égypte à chaque fois, et rien ne se vérifie. En attendant, le produit de la taxe a continué d’augmenter sans entraîner de perturbation sur les marchés boursiers."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 483,
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 484,
+          "texte": "Monsieur Ben Cheikh, en affirmant que selon la Cour des comptes, le taux de 0,4 % est optimal, vous forcez un peu le trait – vous le savez, c’est pourquoi je le dis en souriant."
+        },
+        {
+          "orateur": "M. Karim Ben Cheikh",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795454",
+          "ordre": 485,
+          "texte": "À 0,78 % !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 486,
+          "texte": "Elle dit surtout de ne pas augmenter le taux, compte tenu des effets économiques – cela conduirait à taxer avant tout des entreprises françaises et les épargnants. La Cour des comptes ne recommande pas du tout d’augmenter la TTF !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 487,
+          "texte": "Je mets aux voix l’amendement no 2527."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 488,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 489,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        96\n        Nombre de suffrages exprimés                59\n        Majorité absolue                        30\n                Pour l’adoption                33\n                Contre                26",
+          "scrutinDetecte": {
+            "ordre": 489,
+            "votants": 96,
+            "exprimes": 59,
+            "majoriteAbsolue": 30,
+            "pour": 33,
+            "contre": 26,
+            "abstention": 37
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 490,
+          "texte": "(L’amendement no 2527 est adopté ; en conséquence, les amendements nos 2533, 3234, 2518, 3515et 3956tombent,demêmequelesamendementsnos  2623, 3543, 3917, 3516, les amendements identiques nos 1346 et 1493 et les amendements nos 1321, 2215 et 1292.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 491,
+          "texte": "Les amendements nos 558 de M. Fabrice Barusseau et 2062 de M. Pierrick Courbon sont défendus."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 492,
+          "texte": "(Les amendements nos 558 et 2062, repoussés par la commission et le gouvernement, successivement mis aux voix, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 493,
+          "texte": "Je suis saisi de deux demandes de scrutin public : sur l’amendement n° 761, par le groupe Rassemblement national ; sur l’amendement n° 297, par le groupe La France insoumise-Nouveau Front populaire.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nL’amendement no 761 de M. Matthias Renault est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 496,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 497,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 498,
+          "texte": "Même avis."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 499,
+          "texte": "Je mets aux voix l’amendement no 761."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 500,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 501,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        86\n        Nombre de suffrages exprimés                85\n        Majorité absolue                        43\n                Pour l’adoption                35\n                Contre                50",
+          "scrutinDetecte": {
+            "ordre": 501,
+            "votants": 86,
+            "exprimes": 85,
+            "majoriteAbsolue": 43,
+            "pour": 35,
+            "contre": 50,
+            "abstention": 1
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 502,
+          "texte": "(L’amendement no 761 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA720468",
+          "ordre": 503,
+          "texte": "La parole est à M. Damien Maudet, pour soutenir l’amendement no 297."
+        },
+        {
+          "orateur": "M. Damien Maudet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795422",
+          "ordre": 504,
+          "texte": "Aujourd’hui, le gouvernement demande aux agriculteurs de respecter des normes et, dans le même temps, il importe de l’autre bout du monde des produits qui ne respectent pas ces normes. C’est ce que vous faites notamment depuis 2017, en négociant et en signant des traités de libre-échange avec le Canada, la Nouvelle-Zélande, l’Australie, le Mexique ou encore le Chili – le Mercosur récemment.\nVous avez décidé d’accepter l’importation de produits issus de fermes 15 000 fois plus grandes qu’en France, qui contiennent parfois jusqu’à cinquante et une molécules interdites en France et qui consomment quatre fois plus de CO2 que la production française. Dans le même temps, chez nous, les éleveurs bovins ont de plus en plus de mal à s’en sortir et doivent affronter des crises successives.\nLe minimum que l’on puisse faire dans cette assemblée est de mettre fin à la concurrence déloyale que subissent les éleveurs français, en instaurant des surtaxes sur les importations de produits qui ne respectent pas les normes françaises. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 507,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 508,
+          "texte": "La commission a rejeté cet amendement, parce qu’il s’agit d’une mesure équivalente à un droit de douane, interdite par le droit européen."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720468",
+          "ordre": 509,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 510,
+          "texte": "J’irai évidemment dans le sens du rapporteur général. Des mesures de protection de notre marché intérieur n’ont de sens que si elles sont prises au niveau européen. Sinon, il y aura un contournement par les pays frontaliers : les produits qui devaient arriver en France arriveront en Belgique, en Italie, en Allemagne ou en Espagne et franchiront ensuite la frontière, et nous n’aurons rien obtenu.\nLes années qui viennent de s’écouler montrent que nous obtenons des choses au niveau européen. C’est particulièrement le cas pour les petits colis : nous avons réussi à obtenir une augmentation de 5 euros – 3 euros au 1er juillet, puis 2 euros supplémentaires au 1er novembre – des taxes sur les petits colis, venus en grande partie de Chine, qui ne respectent pas certaines normes sanitaires, environnementales et relatives au droit du travail. (Mme Alma Dufour s’exclame.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 0,
+          "texte": "------------------Cette partie de la séance est en cours de finalisation---------------------------------------------"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9513,
+          "id": "VTANR5L17V9513",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 908 de Mme Bellay et l'amendement identique suivant à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 95,
+          "exprimes": 95,
+          "pour": 37,
+          "contre": 58,
+          "abstention": 0,
+          "ordre": 452
+        },
+        {
+          "numero": 9514,
+          "id": "VTANR5L17V9514",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1544 de M. Nadeau à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 96,
+          "exprimes": 59,
+          "pour": 33,
+          "contre": 26,
+          "abstention": 37,
+          "ordre": 489
+        },
+        {
+          "numero": 9515,
+          "id": "VTANR5L17V9515",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 923 de Mme Bellay à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 86,
+          "exprimes": 85,
+          "pour": 35,
+          "contre": 50,
+          "abstention": 1,
+          "ordre": 501
+        }
+      ]
+    }
+  ]
+}
