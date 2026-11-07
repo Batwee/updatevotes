@@ -1,0 +1,3110 @@
+{
+  "uid": "CRSANR5L17S2027O1N056",
+  "seanceRef": "RUANR5L17S2027IDS30980",
+  "sessionRef": "SCR5A2027O1",
+  "date": "2026-11-04",
+  "dateLisible": "mercredi 04 novembre 2026",
+  "session": "Session ordinaire 2026-2027",
+  "legislature": "17",
+  "sujets": [
+    {
+      "idSyceron": "4221652",
+      "valeurPtsOdj": "1",
+      "titre": "Première partie (suite)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 7,
+          "texte": "L’ordre du jour appelle la suite de la discussion de la première partie du projet de loi de finances pour 2027 (nos 3210, 3291 rectifié).\n Cet après-midi, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant à l’article 57 et à l’état A annexé."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4221654",
+      "valeurPtsOdj": "1",
+      "titre": "Article 57 et état A",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 9,
+          "texte": "Nous commençons par l’amendement no 656 de M. Jean-Philippe Tanguy, tendant à supprimer l’article 57 et l’état A.\n Sur cet amendement, je suis saisi par le groupe Rassemblement national d’une demande de scrutin public.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.\n L’amendement est défendu.\nLa parole est à M. Philippe Juvin, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 11,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 12,
+          "texte": "La parole est à M. le ministre de l’action et des comptes publics, pour donner l’avis du gouvernement."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre de l’action et des comptes publics",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 13,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 14,
+          "texte": "Mes chers collègues, êtes-vous d’accord pour procéder au scrutin sans attendre l’expiration du délai réglementaire de cinq minutes ?"
+        },
+        {
+          "orateur": "De nombreux députés",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 15,
+          "texte": "Oui !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 16,
+          "texte": "Je mets aux voix l’amendement no 656."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 17,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 18,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        75\n        Nombre de suffrages exprimés                70\n        Majorité absolue                        36\n                Pour l’adoption                20\n                Contre                50",
+          "scrutinDetecte": {
+            "ordre": 18,
+            "votants": 75,
+            "exprimes": 70,
+            "majoriteAbsolue": 36,
+            "pour": 20,
+            "contre": 50,
+            "abstention": 5
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 19,
+          "texte": "(L’amendement no 656 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 20,
+          "texte": "La parole est à M. le ministre, pour soutenir l’amendement no 4038."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 21,
+          "texte": "Comme je l’ai annoncé à la fin de la séance précédente, cet amendement à l’article d’équilibre vise à traduire l’incidence des amendements que vous avez adoptés sur les articles fiscaux et budgétaires de la première partie de ce projet de loi de finances (PLF). Nous nous concentrons ici sur l’impact sur le solde budgétaire. Viendra ensuite une seconde délibération de l’article liminaire, qui permettra d’actualiser la prévision du solde des administrations publiques, lesquelles comprennent notamment les administrations de sécurité sociale.\nÀ l’issue de l’examen de cette première partie, le déficit budgétaire s’établirait à 177,1 milliards d’euros. Il s’agit d’une dégradation de 20,7 milliards d’euros par rapport au texte déposé par le gouvernement – je parle ici du seul solde budgétaire ; pour le solde des administrations publiques, la dégradation est plus importante encore.\nDans le détail, cette détérioration résulte d’une minoration des recettes fiscales nettes de 16,5 milliards d’euros, qui s’explique principalement par : la suppression de la contribution progressive des collectivités territoriales et de leurs groupements à l’effort budgétaire (CPEB), pour 2,5 milliards ; la suppression de la mise à contribution des grandes entreprises, pour 5 milliards ; l’application du taux réduit de TVA de 5,5 % sur les abonnements et les livraisons d’électricité destinées à la consommation finale, pour 2 milliards ; la suppression de la baisse du plafond de l’abattement d’impôt sur le revenu (IR) en faveur des retraités, pour 1,4 milliard ; la suppression du prélèvement exceptionnel sur les avoirs en déshérence déposés auprès de la Caisse des dépôts (CDC), pour 1,4 milliard ; l’abrogation de la taxe sur les émissions de CO2 – dite malus CO2 – et de la taxe sur la masse en ordre de marche – dite malus masse –, pour 1,1 milliard ; le maintien des exonérations d’impôt sur le revenu applicables aux indemnités journalières perçues au titre des affections de longue durée (ALD) ou des accidents du travail et maladies professionnelles (AT-MP), pour 900 millions ; le conditionnement du bénéfice du pacte Dutreil à l’âge d’au moins un des donataires et l’exonération totale de droits de mutation à titre gratuit (DMTG) pour les sociétés non cotées, pour 800 millions ; le rejet de la mesure tendant à maîtriser la dynamique de la TVA affectée aux collectivités territoriales, pour 600 millions.\nCe dernier effet ne concerne que le solde budgétaire et peut être considéré comme artificiel puisqu’il est neutralisé dans le solde de l’ensemble des administrations publiques. Il explique l’essentiel de la majoration des recettes des comptes spéciaux, qui s’élève à 800 millions d’euros. Cette hausse appellerait le cas échéant des ajustements de crédits dans la seconde partie du projet de loi de finances ; nous ne les avons pas intégrés ici.\nLes recettes de l’État sont en outre minorées de 4,8 milliards d’euros du fait de la hausse du prélèvement sur recettes (PSR) au profit des collectivités territoriales, qui s’explique principalement par : le maintien des modalités d’attribution du fonds de compensation pour la TVA (FCTVA), pour 2,1 milliards ; la création d’un nouveau PSR au profit du fonds de mobilisation départementale pour les jeunes majeurs de la protection de l’enfance, pour 800 millions ; la suppression de la minoration de la compensation versée aux collectivités territoriales et à leurs groupements au titre de la réduction de moitié des valeurs locatives des établissements industriels, pour 800 millions ; la création d’un nouveau PSR au profit du fonds de sauvegarde des départements, pour 600 millions.\nPour bien éclairer l’Assemblée, je précise que l’effet de certains amendements n’a pas été chiffré dans la mesure où ils entrent en contradiction avec le droit européen, les conventions fiscales internationales ou la jurisprudence du Conseil constitutionnel. Tel est notamment le cas de l’amendement no 3945 prévoyant d’assujettir à l’impôt sur les sociétés (IS) les entreprises françaises de groupes étrangers, puisque cette mesure serait contraire au droit international. C’est aussi le cas de l’amendement no 3944, qui serait contraire à la directive mère-filles, et des amendements nos 286, 287 et 302, qui seraient contraires à la directive TVA.\nL’amendement no 1358 créant une taxe de 0,055 euro par gigaoctet sur les flux de données transmis par les fournisseurs de contenu – qui a fait l’objet de nombreux débats, y compris après son vote – n’est pas non plus retenu dans le chiffrage que nous présentons ici,…"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 28,
+          "texte": "Si on ne retient rien, il ne faut pas s’étonner de la dégradation du déficit !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 29,
+          "texte": "…car l’assiette est extrêmement difficile à déterminer et à chiffrer.\nJ’ai ainsi fait le point sur l’amendement que le gouvernement présente à l’article d’équilibre."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 31,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 32,
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 33,
+          "texte": "La parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 34,
+          "texte": "Monsieur le ministre, les années passent et se ressemblent : le gouvernement intègre bien les dépenses nouvelles et les recettes diminuées, mais ne tient jamais compte des recettes nouvelles. Vous l’avez d’ailleurs dit, en essayant de vous couvrir. Pourtant, l’impôt sur le bénéfice mondial consolidé par pays est un prélèvement qui peut exister. Certes, cela nécessite que l’on revoie les conventions fiscales. Il est susceptible de rapporter plusieurs milliards, peut-être 10 milliards ou 15 milliards. L’imposition des conversions de cryptoactifs en stablecoins procurerait 1,5 milliard. La limitation des remises à 35 % des droits appelés dans le cadre des règlements d’ensemble ferait gagner 1 milliard. Enfin, la taxe sur les flux de données – il convient d’y réfléchir encore, car nous savons bien qu’il y a un problème – fournirait elle aussi plusieurs milliards. Au total, si l’on observe bien les choses, il n’y a pas de dégradation du déficit."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 35,
+          "texte": "Votez le budget, alors !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 36,
+          "texte": "Si vous procédez de la sorte, c’est une fois encore pour faire peur, et pour pouvoir affirmer que nous sommes irresponsables, alors que nous cherchons des recettes pour assurer une véritable justice fiscale. (Applaudissements sur les bancs du groupe GDR.)"
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "ordre": 37,
+          "texte": "Vous ne croyez pas vous-même à ce que vous dites !"
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "ordre": 38,
+          "texte": "Votez donc le budget !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 39,
+          "texte": "La parole est à M. Aurélien Le Coq."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 40,
+          "texte": "En réalité, monsieur le ministre, l’amendement que vous nous présentez est exactement de même nature que votre budget initial : c’est une escroquerie. (M. Maxime Laisney applaudit.) Vous l’avez dit vous-même et M. Sansu vient de le rappeler : dans cet amendement, vous refusez d’intégrer les mesures adoptées qui rapporteraient de l’argent. Peut-être cela vous dérange-t-il que, dans la partie relative aux recettes du budget, nous allions chercher des recettes ? (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe GDR.) Oui, nous pouvons faire en sorte qu’il existe un impôt universel sur les grandes entreprises. Oui, il pourrait rapporter jusqu’à 20 milliards d’euros.\nVous nous dites que le déficit se creuserait, mais à qui la faute ?"
+        },
+        {
+          "orateur": "M. Paul Vannier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795596",
+          "ordre": 42,
+          "texte": "À vous ! (M. Paul Vannier désigne les bancs situés au centre et à droite de l’hémicycle.)"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 43,
+          "texte": "Quel est donc le coût des amendements votés par le groupe de M. Attal main dans la main avec le groupe de Mme Le Pen ? Au moins 5 milliards d’euros de cadeaux fiscaux faits aux grandes entreprises ! (Applaudissements sur les bancs du groupe LFI-NFP. – M. Marcellin Nadeau applaudit également.) Combien de nouvelles dépenses fiscales, dont le coût explose ? Voilà la réalité.\nEnfin, dans votre amendement, pourquoi ne tenez-vous pas compte du fait que votre prévision de croissance à 1 % ne sera jamais réalisée ? La croissance s’effondre, au point qu’elle est négative ce semestre. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Marcellin Nadeau applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 45,
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 46,
+          "texte": "Dans votre amendement, monsieur le ministre, vous avez essayé d’évaluer l’incidence, à la hausse ou à la baisse, de toutes les mesures que nous avons adoptées. Le solde est une dégradation de 20,7 milliards. Cependant, vous l’avez évoqué et cela figure dans le dernier paragraphe de l’exposé sommaire de votre amendement, il y a cinq mesures que vous n’avez pas évaluées parce que vous les considérez comme anti-européennes. Avant que nous ne votions, pouvez-vous nous indiquer quel serait le montant des recettes supplémentaires procurées par ces cinq amendements ? Quelle en est l’estimation ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 47,
+          "texte": "Je mets aux voix l’amendement no 4038."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 48,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 49,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        198\n        Nombre de suffrages exprimés                144\n        Majorité absolue                        73\n                Pour l’adoption                77\n                Contre                67",
+          "scrutinDetecte": {
+            "ordre": 49,
+            "votants": 198,
+            "exprimes": 144,
+            "majoriteAbsolue": 73,
+            "pour": 77,
+            "contre": 67,
+            "abstention": 54
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 50,
+          "texte": "(L’amendement no 4038 est adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 51,
+          "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements identiques nos 1801, 3833 et 3964, par le groupe Rassemblement national, le groupe La France insoumise-Nouveau Front populaire et le groupe de la Gauche démocrate et républicaine ; sur l’amendement no 1428, par le groupe La France insoumise-Nouveau Front populaire ; sur l’amendement no 3897, par le groupe de la Gauche démocrate et républicaine.\n Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.\nNous en venons aux trois amendements identiques nos 1801, 3833 et 3964.\n L’amendement no 1801 de M. Kévin Mauvieux est défendu.\nLa parole est à M. Aurélien Le Coq, pour soutenir l’amendement no 3833."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "ordre": 54,
+          "texte": "Défendu ! (Sourires.)"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 55,
+          "texte": "Au moment où l’Assemblée nationale s’apprête à rejeter une nouvelle fois un budget de la Macronie, il convient de dénoncer une autre escroquerie. Lorsque nous avons commencé la discussion de ce texte, monsieur le ministre, vous nous avez expliqué que nous croulions sous le poids de la dette et que, pour la payer, il fallait prendre 2 milliards aux fonctionnaires – dont vous avez déjà réduit le revenu de 25 % depuis que vous êtes en place –, 4 milliards aux retraités et un montant du même ordre aux malades.\nLe temps est venu de dire où va la dette. Si elle nous coûte si cher aujourd’hui, c’est parce que vous avez décidé de l’indexer sur l’inflation. L’année dernière, sur les 6,6 milliards supplémentaires consacrés au service de la dette, 5,8 milliards résultaient de l’indexation des titres de dette sur l’inflation. Renoncez-y ! Cessez d’étrangler les Français, en les faisant payer partout et sans restriction, aux fins de gaver les pouvoirs financiers ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 57,
+          "texte": "La parole est à M. Nicolas Sansu, pour soutenir l’amendement no 3964."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 58,
+          "texte": "Cet amendement vise lui aussi à supprimer le droit de recourir aux OATI, les fameuses obligations assimilables du Trésor indexées sur l’inflation. En effet, nous payons très cher cette indexation : 11 % de notre dette est indexée sur l’inflation, mais plus de 40 % des intérêts supplémentaires proviennent des OATI ; ce n’est pas possible !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 59,
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 60,
+          "texte": "Il faut savoir que l’Allemagne s’est défaite de ses obligations indexées sur l’inflation dès 2023. Monsieur le ministre, vous avez encore utilisé de telles souscriptions en septembre 2026, avec une échéance en 2037. Or, rien que le mois dernier, le coût pour nos finances publiques s’est élevé à 2,5 milliards d’euros. Faites un effort : cessez d’émettre des OATI !"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "ordre": 61,
+          "texte": "Ce sont des cadeaux à vos amis !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 62,
+          "texte": "Quel est l’avis de la commission sur ces amendements identiques ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 63,
+          "texte": "La commission a adopté ces amendements. À titre personnel, j’avais donné un avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 64,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 65,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 66,
+          "texte": "La parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 67,
+          "texte": "Il faut cesser d’émettre des OATI, car elles coûtent trop cher à l’État. Elles avaient permis d’économiser 1 milliard d’euros sur une longue période, car l’inflation était longtemps restée faible après leur création en 1998. Cependant, avec la hausse du niveau d’inflation à partir de 2022, les OATI sont devenues très désavantageuses. En effet, si les investisseurs ne peuvent pas perdre – le taux de ces obligations ne peut redescendre en dessous du plafond auquel elles ont été acquises –, ils peuvent en revanche gagner des sommes importantes, puisque les OATI sont indexées sur l’inflation. C’est donc une excellente affaire pour eux. Les Allemands ont été, comme nous, très désavantagés en 2022, si bien qu’ils ont arrêté en 2023, pendant que nous continuions. Je n’ai pas bien compris, tout à l’heure, la réponse de M. Lescure à ma question sur ce sujet, mais les OATI contribuent encore beaucoup à l’augmentation de la charge de la dette. Nous entrons dans une période troublée, où les taux vont beaucoup fluctuer ; dans ce contexte, soyons raisonnables, arrêtons l’émission des OATI !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 68,
+          "texte": "La parole est à M. Kévin Mauvieux."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 69,
+          "texte": "Tout d’abord, je me félicite de voir que le travail que j’ai mené avec mes collègues du RN depuis quatre ans porte ses fruits, puisque désormais la gauche veut aussi supprimer les OATI, qui sont toxiques pour notre pays (Applaudissements sur les bancs du groupe RN), alors que cette même gauche avait instauré cet instrument en 1998, avec Lionel Jospin et Dominique Strauss-Kahn. D’ailleurs, Jean-Luc Mélenchon était membre de ce gouvernement, et l’avait donc validé à l’époque. Je suis ravi de voir que vous vous ralliez à nous sur cette cause.\nMonsieur le ministre, nous avons eu, sur les OATI, un court débat en séance à l’occasion de l’amendement de Jean-Philippe Tanguy qui visait à indexer le taux d’intérêt du livret A sur l’inflation. Je rappelle que nous émettons des OATI toxiques parce qu’il faut financer l’épargne indexée sur l’inflation, alors que le livret A ne l’est plus. Enfin, j’ai demandé à l’Agence France Trésor (AFT), dans mes auditions, quel montant nous aurions économisé sur la charge d’intérêt de la dette si nous n’avions pas émis d’OATI quand les taux étaient nuls : la réponse est 15 milliards d’euros. (Applaudissements sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 71,
+          "texte": "Je mets aux voix les amendements identiques nos 1801, 3833 et 3964."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 72,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 73,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        204\n        Nombre de suffrages exprimés                187\n        Majorité absolue                        94\n                Pour l’adoption                108\n                Contre                79",
+          "scrutinDetecte": {
+            "ordre": 73,
+            "votants": 204,
+            "exprimes": 187,
+            "majoriteAbsolue": 94,
+            "pour": 108,
+            "contre": 79,
+            "abstention": 17
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 74,
+          "texte": "(Les amendements identiques nos 1801, 3833 et 3964 sont adoptés.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 75,
+          "texte": "L’amendement no 1428 de M. Aurélien Le Coq est défendu.\nQuel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 77,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 78,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 79,
+          "texte": "Défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 80,
+          "texte": "La parole est à M. Jean-René Cazeneuve."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 81,
+          "texte": "Tout n’est pas perdu : les insoumis ont découvert que nous devions payer des intérêts sur la dette ! Depuis des années, ils nous expliquent que la dette n’est pas un problème et qu’il ne faut pas la rembourser.\nS’agissant des OATI, tout d’abord, quand vous avez 30 à 35 milliards à emprunter chaque mois à vos créanciers, vous ne choisissez pas, hélas, la part d’OAT indexées et non indexées que vous pouvez distribuer. Le taux d’intérêt est plus ou moins élevé selon qu’il est, ou non, indexé sur l’inflation. Ensuite, vous ne pouvez pas savoir si l’inflation va progresser ou ralentir au cours des prochaines années. Il est facile de dire, après coup, que l’on n’aurait pas dû emprunter à taux variable ; avant, vous ne le saviez pas, comme vous ne savez pas quelle sera l’inflation dans cinq ans. (Applaudissements sur plusieurs bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 83,
+          "texte": "La parole est à M. Aurélien Le Coq."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 84,
+          "texte": "D’abord, il y a une révélation : M. le ministre refuse de répondre sur la dette indexée sur l’inflation."
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 85,
+          "texte": "Ça fait trois semaines qu’il répond !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 86,
+          "texte": "Visiblement, le sujet ne l’intéresse pas."
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "ordre": 87,
+          "texte": "Un peu de respect !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 88,
+          "texte": "Les grands discours gouvernementaux sur la dette ne sont peut-être qu’un panache de fumée pour justifier de saigner toujours plus les Français. Monsieur le ministre, nous vous prions de donner votre avis sur ce qui représente jusqu’à 40 % de l’augmentation de la charge de la dette !\nMonsieur Cazeneuve, soyez sérieux. Vous nous reprochez de ne pas nous intéresser au sujet, mais quand nous le faisons, nous voyons que le coût de la dette qui pèse sur les finances publiques, c’est le vôtre, c’est celui de la Macronie ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Jean-René Cazeneuve",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719472",
+          "ordre": 90,
+          "texte": "C’est votre faute !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 91,
+          "texte": "Vous avez créé 1 400 milliards de dette, vous avez indexé la dette sur l’inflation et vous décidez encore de jouer en bourse nos finances publiques sur trente ans ! Dans cet amendement, nous proposons de limiter les prévisions à cinq années. Vous-même, vous venez de dire qu’il était impossible de savoir quelle serait l’inflation demain et que le gouvernement a été incapable de la prévoir. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 92,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 93,
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 94,
+          "texte": "Monsieur Le Coq, vous n’étiez pas là, ce matin, en commission des finances, mais j’ai déjà eu l’occasion de répondre lors du débat que nous avons eu sur les OATI. Je ne voulais donc pas abuser de la patience des députés qui étaient présents."
+        },
+        {
+          "orateur": "M. Frédéric Maillot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796010",
+          "ordre": 95,
+          "texte": "Ça n’empêche pas de le répéter en séance ! Nous ne sommes pas tous dans la commission des finances !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 96,
+          "texte": "Ma commission, c’est la commission des affaires sociales. Alors, je ne peux pas savoir !"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "ordre": 97,
+          "texte": "Vous devez vous adresser à tout le monde !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 98,
+          "texte": "Nous avons aussi débattu longuement en séance, mais je n’ai aucune difficulté à y revenir.\nLes OATI ont été introduites par le gouvernement de Lionel Jospin en 1998. Leur rendement s’apprécie sur une longue période, parce que lorsque l’inflation augmente, le prix des OATI suit, mais lorsqu’elle baisse, les OATI génèrent un gain pour le budget de l’État. J’avais cru comprendre qu’à La France insoumise vous vous intéressiez au long terme. Or, après vingt-cinq ans d’émissions régulières, le bilan est positif, avec un gain net pour l’État de 5 milliards d’euros.\nVous êtes nombreux à dire qu’il faut que les OAT soient davantage détenues par des investisseurs français et que les épargnants doivent être mieux protégés contre l’inflation. Or 75 % des investisseurs en titres indexés sur l’inflation sont des acteurs français, soit une proportion supérieure à la moyenne des OAT. C’est pourquoi j’ai donné un avis défavorable aux amendements précédents."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 101,
+          "texte": "Je mets aux voix l’amendement no 1428."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 102,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 103,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        227\n        Nombre de suffrages exprimés                225\n        Majorité absolue                        113\n                Pour l’adoption                77\n                Contre                148",
+          "scrutinDetecte": {
+            "ordre": 103,
+            "votants": 227,
+            "exprimes": 225,
+            "majoriteAbsolue": 113,
+            "pour": 77,
+            "contre": 148,
+            "abstention": 2
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 104,
+          "texte": "(L’amendement no 1428 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 105,
+          "texte": "La parole est à M. Nicolas Sansu, pour soutenir l’amendement no 3897."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 106,
+          "texte": "Pour clore l’examen de la première partie du projet de loi de finances, nous proposons de reconsidérer le financement de notre économie en réinternalisant notre dette. D’aucuns disent que nous faisons face à une crise de la dette. Outre le fait que nous contestons cette allégation, la charge des taux d’intérêt par rapport à notre PIB étant proportionnée – 2,4 points de PIB aujourd’hui contre 2,7 en 1990 –, nous réaffirmons qu’être endetté n’est pas un problème en soi."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 107,
+          "texte": "Mais oui !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 108,
+          "texte": "C’est un problème car avons abandonné notre dette aux mains des marchés financiers. Dans ce système dérégulé, nous ne connaissons plus nos créanciers. Le nombre de créanciers étrangers a doublé en vingt ans pour atteindre 57 %, et les fonds spéculatifs y contribuent beaucoup. Avoir une dette soutenable, c’est avant tout avoir des créanciers alignés sur l’objectif de souveraineté de la France. Le Japon, dont la dette est très importante, n’est pas inquiété car 90 % des créanciers sont des résidents. Nous avons une épargne privée record de 6 600 milliards d’euros ; nous proposons de mieux la mobiliser en permettant à nos concitoyens de souscrire des titres du Trésor et donc de financer notre économie de manière vertueuse."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 109,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 110,
+          "texte": "Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 111,
+          "texte": "Quel est l’avis du gouvernement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 112,
+          "texte": "Monsieur Sansu, c’est un débat que nous avons déjà eu au cours de la discussion de ce PLF. Les particuliers peuvent déjà investir dans les obligations d’État. Ils sont même incités fiscalement à le faire via les produits d’épargne réglementés comme l’assurance vie. C’est pourquoi la France se finance encore sans difficulté. Le problème, c’est que les taux d’intérêt sont beaucoup trop élevés, comme nos niveaux d’endettement. Avis défavorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 113,
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 114,
+          "texte": "Oui, nous en avons déjà débattu, mais nous devrons continuer dans les années à venir. Vous pouvez récuser toutes les solutions qui nous font sortir du monopole des marchés financiers, mais si nous y restons, nous ne parviendrons pas à faire face au mur d’investissements qui se présente dans tous les pays européens, soit les 1 000 milliards évoqués par le rapport Draghi sur les nouvelles technologies, en plus des investissements nécessaires à la bifurcation écologique.\nPour répondre à Jean-René Cazeneuve, la dette n’était pas un problème en soi jusqu’à récemment, parce que les taux d’intérêt étaient faibles. La charge de la dette n’avait pas un poids supérieur à la croissance, et nous trouvions toujours autant de personnes enclines à nous prêter plus que ce dont nous avions besoin ; c’est d’ailleurs encore le cas. Comme le dit le ministre, la dette est devenue un problème du fait de la hausse considérable des taux d’intérêt ; et vu le contexte, nous ne pouvons pas présumer qu’ils vont faiblir.\nNous devons donc mener une réflexion collective. La Banque centrale européenne, dérogeant à l’esprit des traités, a trouvé un biais, pendant la crise du covid, en prêtant directement aux États. Ce moyen pourrait être employé pour financer les investissements que nous devons faire, mais nous devrions surtout sortir du monopole des marchés financiers qui étranglent la France comme d’autres pays européens. La France devrait prendre son balluchon pour convaincre les autres pays européens – l’action doit être imaginée à l’échelle européenne – afin de sortir de cette contrainte qui pèse trop sur nous. Continuer comme à présent ne nous mènera nulle part."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 117,
+          "texte": "La parole est à M. Kévin Mauvieux."
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 118,
+          "texte": "L’avantage de ce débat, c’est qu’il dessine bien les trois blocs sur l’analyse de la dette. La gauche et l’extrême gauche forment le bloc des bisounours de la dette : ils imaginent qu’on fait un peu ce qu’on veut, qu’on peut la supprimer, ne pas la rembourser, supprimer les intérêts."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 119,
+          "texte": "Alors vous, je n’ai pas compris votre solution !"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 120,
+          "texte": "Le bloc central est l’éternel donneur de leçons : il sait que la dette existe et qu’on doit en rembourser les intérêts ; mais il l’a fait exploser, faisant marcher la planche à billets, en considérant que ce n’est pas grave, car les Français paieront."
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "ordre": 121,
+          "texte": "C’est complètement faux !"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 122,
+          "texte": "Et malgré cela, le ministre continue, jusqu’au bout, à faire la leçon à tout le monde."
+        },
+        {
+          "orateur": "M. François Cormier-Bouligeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719118",
+          "ordre": 123,
+          "texte": "Mais qu’est-ce qu’il raconte comme bêtises !"
+        },
+        {
+          "orateur": "M. Kévin Mauvieux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793616",
+          "ordre": 124,
+          "texte": "Enfin, nous sommes le bloc des responsables : nous savons que la dette est néfaste et nous voulons un budget à l’équilibre. La seule candidate qui propose une règle d’or, c’est Marine Le Pen, le seul premier ministre qui remettra de l’ordre dans les comptes publics, c’est Jordan Bardella ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "Mme Nadège Abomangoli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795228",
+          "ordre": 125,
+          "texte": "Rendez l’argent !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 126,
+          "texte": "Vous n’êtes pas responsables, vous êtes coupables !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 127,
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 128,
+          "texte": "Monsieur le président Coquerel, nous sommes tous d’accord pour dire qu’il est bon que la dette finance des investissements dans l’avenir, mais ce n’est pas le cas aujourd’hui. Notre dette,…"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 129,
+          "texte": "C’est ta dette !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 130,
+          "texte": "…depuis des décennies,…"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "ordre": 131,
+          "texte": "Non, depuis dix ans !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 132,
+          "texte": "…finance d’abord les déficits de nos comptes sociaux, les dépenses courantes, les dépenses de retraite et de santé."
+        },
+        {
+          "orateur": "M. Christophe Bentz",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794434",
+          "ordre": 133,
+          "texte": "Dix années catastrophiques !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 134,
+          "texte": "Nous avons proposé de réduire les déficits de la sécurité sociale, de les diviser par deux, et d’investir dans l’avenir, par exemple dans le nouveau programme nucléaire français, dont nous avons débattu cet après-midi. Qu’avez-vous fait ?"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 135,
+          "texte": "C’est vous qui avez tout fait !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 136,
+          "texte": "Vous avez refusé toutes les mesures d’économie sur la sécurité sociale, et refusé l’investissement dans le nouveau nucléaire. (Applaudissements sur les bancs du groupe EPR. – Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Voilà notre position politique.\nMonsieur Mauvieux, vous avez présenté il y a quelques semaines, à grand renfort de PowerPoint, un contre-budget."
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "ordre": 138,
+          "texte": "Nous sommes les seuls à l’avoir fait !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 139,
+          "texte": "Cependant, votre budget Potemkine s’est désintégré lors des débats budgétaires dans cet hémicycle. Les amendements que votre parti a déposés nous donnent un aperçu de ce que vous feriez si vous aviez la majorité absolue."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "ordre": 140,
+          "texte": "L’année prochaine !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 141,
+          "texte": "Les amendements du Rassemblement national sur la deuxième partie du projet de loi de financement de la sécurité sociale creuseraient le déficit de 14 milliards d’euros ! (Exclamations sur les bancs du groupe RN.)\nPour ce qui est du projet de loi de finances, M. Renault, il y a quelques jours, m’a invité à regarder non seulement les amendements déposés par le Rassemblement national sur la première partie, mais aussi sur la deuxième – en commission. C’est chose faite. L’ensemble de ces amendements auraient conduit à une dégradation du déficit public de plus de 30 milliards d’euros ! Telle est la réalité du contre-budget du Rassemblement national. (Applaudissements sur les bancs des groupes EPR et HOR. – M. Éric Martineau applaudit également. – Vives protestations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Mme Marie Pochon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793664",
+          "ordre": 143,
+          "texte": "Rendez l’argent !"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "ordre": 144,
+          "texte": "Trente milliards !"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 145,
+          "texte": "Et les 1 500 milliards de dette supplémentaire en dix ans ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 146,
+          "texte": "Monsieur le député, dans l’hémicycle, on débat. Le débat parlementaire a la grande vertu de permettre de passer aux rayons X les projets des uns et des autres. Votre contre-budget s’est écrasé au décollage du débat parlementaire en proposant une explosion des déficits de la sécurité sociale et des finances publiques. (Applaudissements sur quelques bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 147,
+          "texte": "1 500 milliards en dix ans !"
+        },
+        {
+          "orateur": "M. Thierry Tesson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841553",
+          "ordre": 148,
+          "texte": "Il ose nous faire la leçon ?"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 149,
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 150,
+          "texte": "Monsieur le ministre, comment votre dette a-t-elle été créée ? Si les recettes étaient au même niveau qu’en 2017, la dette serait à moins de 3 % du déficit. (Applaudissements sur plusieurs bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC.)"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 151,
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 152,
+          "texte": "Nous vous avons donné toutes les solutions pour revenir sur les 60 milliards de cadeaux fiscaux que vous avez faits, surtout aux ultrariches !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 153,
+          "texte": "Mince ! Ça partait bien !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 154,
+          "texte": "Ne le niez pas, monsieur le ministre, c’est la réalité ! En proportion du PIB, les dépenses publiques n’ont pas augmenté, contrairement à ce que vous dites ; ce sont les recettes qui ont diminué. C’est ce qui explique la première moitié de la dette."
+        },
+        {
+          "orateur": "M. Théo Bernhardt",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841645",
+          "ordre": 155,
+          "texte": "Vous êtes aussi responsables ! Vous avez voté ces mesures !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 156,
+          "texte": "L’autre moitié s’explique facilement : nous sommes dans un système incapable de répondre aux crises – crise des subprimes ou crise du covid – et qui est obligé de faire appel à l’État pour s’en sortir. Nous payons tous cette dépendance ! C’est la raison pour laquelle l’annulation de la dette covid avait du sens, car il aurait été impensable que nous payions tous, avec l’argent de l’État,…"
+        },
+        {
+          "orateur": "M. Jocelyn Dessigny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793166",
+          "ordre": 157,
+          "texte": "Et les votes de LFI !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 158,
+          "texte": "…une restauration du système qui avait permis aux entreprises de continuer."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "ordre": 159,
+          "texte": "Il y a des salariés dans les entreprises !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 160,
+          "texte": "C’est cela qui explique la dette et non, comme vous le prétendez, une hausse des dépenses publiques.\nVous parlez des retraites et de la sécurité sociale, mais leur poids rapporté au PIB est le même qu’il y a quelques années. Ce sont les recettes qui créent la difficulté, et non les dépenses."
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "ordre": 162,
+          "texte": "Trente milliards !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 163,
+          "texte": "Gardez vos leçons, car c’est vous qui avez baissé les recettes et fait le choix, que je ne conteste pas, de faire venir l’État au secours de l’économie de marché et des entreprises. À chaque fois, le capitalisme a besoin de l’État pour s’en sortir ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 164,
+          "texte": "Je mets aux voix l’amendement no 3897."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 165,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 166,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        246\n        Nombre de suffrages exprimés                173\n        Majorité absolue                        87\n                Pour l’adoption                81\n                Contre                92",
+          "scrutinDetecte": {
+            "ordre": 166,
+            "votants": 246,
+            "exprimes": 173,
+            "majoriteAbsolue": 87,
+            "pour": 81,
+            "contre": 92,
+            "abstention": 73
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 167,
+          "texte": "(L’amendement no 3897 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 168,
+          "texte": "Je mets aux voix l’article 57 et l’état A, tels qu’ils ont été amendés."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 169,
+          "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 170,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        246\n        Nombre de suffrages exprimés                243\n        Majorité absolue                        122\n                Pour l’adoption                86\n                Contre                157",
+          "scrutinDetecte": {
+            "ordre": 170,
+            "votants": 246,
+            "exprimes": 243,
+            "majoriteAbsolue": 122,
+            "pour": 86,
+            "contre": 157,
+            "abstention": 3
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 171,
+          "texte": "(L’article 57 et l’état A, amendés, ne sont pas adoptés.)"
+        },
+        {
+          "orateur": "M. Sylvain Berrios",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA687214",
+          "ordre": 172,
+          "texte": "C’est l’axe LFI-RN !"
+        },
+        {
+          "orateur": "M. François Cormier-Bouligeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719118",
+          "ordre": 173,
+          "texte": "C’est l’alliance rouge-brun !"
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9752,
+          "id": "VTANR5L17V9752",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 656 de M. Jean-Philippe Tanguy de suppression de l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 75,
+          "exprimes": 70,
+          "pour": 20,
+          "contre": 50,
+          "abstention": 5,
+          "ordre": 18
+        },
+        {
+          "numero": 9753,
+          "id": "VTANR5L17V9753",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 4038 du Gouvernement à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 198,
+          "exprimes": 144,
+          "pour": 77,
+          "contre": 67,
+          "abstention": 54,
+          "ordre": 49
+        },
+        {
+          "numero": 9754,
+          "id": "VTANR5L17V9754",
+          "sort": "adopté",
+          "titreVote": "l'amendement n° 1801 de M. Mauvieux et les amendements identiques suivants à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 204,
+          "exprimes": 187,
+          "pour": 108,
+          "contre": 79,
+          "abstention": 17,
+          "ordre": 73
+        },
+        {
+          "numero": 9755,
+          "id": "VTANR5L17V9755",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1428 de M. Le Coq à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 227,
+          "exprimes": 225,
+          "pour": 77,
+          "contre": 148,
+          "abstention": 2,
+          "ordre": 103
+        },
+        {
+          "numero": 9756,
+          "id": "VTANR5L17V9756",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 3897 de M. Sansu à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 246,
+          "exprimes": 173,
+          "pour": 81,
+          "contre": 92,
+          "abstention": 73,
+          "ordre": 166
+        },
+        {
+          "numero": 9757,
+          "id": "VTANR5L17V9757",
+          "sort": "rejeté",
+          "titreVote": "l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 246,
+          "exprimes": 243,
+          "pour": 86,
+          "contre": 157,
+          "abstention": 3,
+          "ordre": 170
+        }
+      ]
+    },
+    {
+      "idSyceron": "4222249",
+      "valeurPtsOdj": "1",
+      "titre": "Seconde délibération",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 175,
+          "texte": "En application de l’article 119, alinéa 2, du règlement, le gouvernement demande qu’il soit procédé à une seconde délibération de l’article liminaire."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4222251",
+      "valeurPtsOdj": "1",
+      "titre": "Article liminaire (seconde délibération)",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 177,
+          "texte": "La parole est à M. le ministre, pour soutenir l’amendement no 1, sur lequel je suis saisi d’une demande de scrutin public par le groupe La France insoumise-Nouveau Front populaire.\n Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 178,
+          "texte": "L’amendement vise à actualiser l’article liminaire pour tenir compte des votes de l’Assemblée nationale. Le solde de l’ensemble des administrations publiques – indicateur utilisé en comptabilité nationale, à distinguer du solde budgétaire de l’État, évoqué précédemment –, autrement dit le déficit public, se serait élevé à 5 % du produit intérieur brut avec la version initiale du projet de loi de finances. À l’issue de l’examen de la première partie, il s’élèverait à 5,9 %, soit une dégradation du solde de 0,9 point de PIB.\nCette dégradation s’explique par la baisse déjà mentionnée de 16 milliards des prélèvements obligatoires : suppression de la contribution exceptionnelle sur les bénéfices des grandes entreprises, annulation du recentrage de certains dispositifs – plafonnement de l’abattement pour frais professionnels sur les pensions de retraite, fiscalisation des indemnités journalières AT-MP – proposé dans la version initiale, abaissement de certains taux de TVA, notamment pour les livraisons d’électricité ou les prestations de réparation. Ces baisses ne sont que partiellement compensées par le droit d’enregistrement sur la valeur d’acquisition des titres annulés pour les sociétés cotées et la modification des paramètres de la taxe sur les transactions financières.\nPar ailleurs, 8 milliards d’euros résultent des nouveaux transferts vers les collectivités territoriales et du rejet des mesures d’économie proposées sur la sphère locale, comme la contribution progressive à l’effort budgétaire et la réforme du FCTVA.\nÀ cela s’ajoutent 2 milliards de crédits d’impôt, principalement dus à la transformation de la réduction d’impôt pour les dépenses de dépendance et de la niche Coluche en crédits d’impôt."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "ordre": 182,
+          "texte": "Vous contournerez le vote du Parlement !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 183,
+          "texte": "Quel est l’avis de la commission ?"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 184,
+          "texte": "Avis favorable."
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 185,
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 186,
+          "texte": "Merci, monsieur le ministre, pour cet exercice de communication, mais il faut regarder la situation de façon plus pragmatique. Le PLF que vous avez déposé prévoyait un déficit à 5 % du PIB. Or les prévisions sur lesquelles s’appuyait cette version initiale sont d’ores et déjà toutes caduques. La croissance à 1 % ? Tout le monde s’accorde pour dire qu’elle atteindra maximum 0,5 %. Un prix du baril à 80 dollars ? Il est à 100 dollars. Une inflation à 2 % ? Elle est à 3 %. Rien ne va. Tout est déjà insincère. Malheureusement, nous ne pourrons pas vous reprocher votre insincérité l’année prochaine.\nReprocher aux députés d’avoir fait n’importe quoi et d’avoir alourdi la dette n’est qu’un exercice de communication. C’est vous qui avez fait n’importe quoi ! Vous avez déposé un budget insincère ! (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "ordre": 188,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 189,
+          "texte": "Je mets aux voix l’amendement no 1."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 190,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 191,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        252\n        Nombre de suffrages exprimés                248\n        Majorité absolue                        125\n                Pour l’adoption                80\n                Contre                168",
+          "scrutinDetecte": {
+            "ordre": 191,
+            "votants": 252,
+            "exprimes": 248,
+            "majoriteAbsolue": 125,
+            "pour": 80,
+            "contre": 168,
+            "abstention": 4
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 192,
+          "texte": "(L’amendement no 1 n’est pas adopté.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 193,
+          "texte": "La parole est à M. le rapporteur général."
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 194,
+          "texte": "J’avoue ne plus trouver les mots. Les nouvelles sont mauvaises. Les nuages s’accumulent. Les hypothèses macroéconomiques se dégradent. Même les impôts rentrent moins, qu’il s’agisse de l’impôt sur le revenu, de l’impôt sur les sociétés ou des accises. La TVA elle-même est paresseuse.\nLe projet de loi de finances s’était donné pour objectif de réduire le déficit ; or, compte tenu de ces nouvelles réalités et de tout ce qui a été voté – j’y reviendrai –, le déficit ne diminuera pas ; il va même augmenter. Nous sommes au bord de la falaise et nous agissons comme s’il n’y avait pas de précipice. Nous agissons comme si nous avions le temps, alors que ce n’est pas le cas.\nVous connaissez les chiffres de la dette qui nous étouffe. C’est à la lumière de cette réalité que doit être jugé le texte que nous nous apprêtons à voter. Le gouvernement a sa part de responsabilité, tout comme le Parlement.\nLa responsabilité du gouvernement, c’est que la version initiale du PLF affichait un but : réduire le déficit ; or, même si nous adoptions cette version initiale, le déficit continuerait d’augmenter. La responsabilité de l’Assemblée, la nôtre, c’est qu’au terme de l’examen de cette première partie, les amendements adoptés dégradent la situation – probablement à hauteur de 20 milliards, avec un déficit désormais estimé à 5,9 % du PIB. Certains amendements sont même incompatibles avec le droit de l’Union européenne ou la Constitution, quand d’autres sont tellement incertains qu’on est incapables d’en calculer les recettes. Comment voulez-vous qu’une recette incertaine rembourse une dette certaine ?"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "ordre": 198,
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 199,
+          "texte": "Surtout, nous avons continué à faire peser l’essentiel de l’effort sur ceux qui travaillent, qui produisent, qui investissent. J’insisterai sur ce point, car il est essentiel pour l’avenir du pays : nos entreprises supportent déjà une fiscalité de production parmi les plus lourdes d’Europe,…"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "ordre": 200,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 201,
+          "texte": "…alors qu’elles souffrent par ailleurs d’une énergie chère, de conditions de financement plus strictes, d’une concurrence internationale toujours plus forte, et désormais d’une croissance ralentie.\nQue leur a-t-on offert au cours de nos débats ? De nouvelles taxes sur les transactions financières, des prélèvements supplémentaires sur les activités numériques, des prélèvements sur les trésoreries des PME. Or comprenez bien qu’une entreprise répercute toujours les taxes, que ce soit en augmentant le prix des biens ou des services qu’elle fournit – au détriment des Français –, en payant moins bien les salariés, en embauchant moins, en se développant moins, voire en délocalisant la production. Alourdir encore les prélèvements des entreprises, c’est prendre le risque d’affaiblir précisément ceux dont nous avons besoin pour renouer avec la croissance.\nLes Français sont prêts à faire des efforts, comme ils nous l’ont montré dans l’épreuve, mais à trois conditions. Premièrement, que l’effort soit partagé entre tout le monde – les particuliers, les entreprises, les actifs, les non-actifs et l’État."
+        },
+        {
+          "orateur": "Mme Anna Pic",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794270",
+          "ordre": 204,
+          "texte": "Ce n’est pas le cas !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 205,
+          "texte": "Moins de dépenses fiscales par exemple !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 206,
+          "texte": "Deuxièmement, que ces efforts s’inscrivent dans un plan de redressement crédible et lisible. Troisièmement, qu’on leur donne l’espoir de voir un ciel bleu."
+        },
+        {
+          "orateur": "Mme Anna Pic",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794270",
+          "ordre": 207,
+          "texte": "Tu parles !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 208,
+          "texte": "Un smic à 1 700 euros par exemple !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 209,
+          "texte": "Un plan de plusieurs années à base de sueur, c’est une purge dont on ne voit pas le but et qui est finalement décourageant.\nQue faut-il faire ? Dépenser moins et mieux, comme aurait dû l’acter l’examen de la seconde partie. (« Ah ! » sur plusieurs bancs du groupe LFI-NFP.) Cependant dépenser moins ne suffira plus désormais : il faut produire plus. Il n’y aura pas de redressement du pays sans croissance. Pour cela, il faut des entreprises qui créent des emplois, des salaires qui poussent à travailler et moins de taxes qui grèvent le pouvoir d’achat.\nUn budget, ce sont des comptes, des recettes, des dépenses, des équilibres, des soldes – nul ne doit mépriser la rigueur de l’arithmétique ; mais un budget, c’est aussi l’expression d’une vision,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 212,
+          "texte": "On ne voit plus rien !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 213,
+          "texte": "…la traduction en chiffres de ce que nous voulons être et de ce que nous voulons transmettre. Oui, on peut mobiliser les Français en leur disant quelle France on peut bâtir."
+        },
+        {
+          "orateur": "M. Louis Boyard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795318",
+          "ordre": 214,
+          "texte": "Ils seront mobilisés demain !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 215,
+          "texte": "Une France qui produit et qui innove, qui récompense le travail et le mérite, qui protège les plus fragiles parce qu’elle en a les moyens, qui laisse les orateurs parler sans les interrompre (Sourires. – «Oh ! » sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "ordre": 216,
+          "texte": "Excellent !"
+        },
+        {
+          "orateur": "M. Philippe Juvin",
+          "fonction": "rapporteur général",
+          "role": null,
+          "idActeur": "PA346782",
+          "ordre": 217,
+          "texte": "…qui tient son rang en Europe et dans le monde, qui ne laisse pas aux enfants la charge de payer le renoncement de leurs parents.\nCe n’est pas seulement la rigueur des comptes qui manque à ce texte, mais aussi la force d’une ambition. C’est parce que cette première partie n’apporte ni les garanties budgétaires ni les perspectives dont notre pays a besoin que nous ne pouvons pas l’adopter. J’ai donc le grand regret de vous annoncer que je voterai contre ce texte (Applaudissements sur quelques bancs du groupe LFI-NFP. – Mme Christine Arrighi applaudit également), non par goût de l’obstruction mais par fidélité – fidélité à l’exigence de responsabilité et de vérité que l’on doit aux Français ! Notre devoir n’est pas de gérer le déclin de la France mais de lui rendre les moyens de son avenir.\nJe le redis avec solennité : au fur et à mesure que le temps passe et que les décisions ne sont pas prises, la situation se dégrade et l’addition s’alourdit. C’est à nous de prendre les décisions, sinon les Français paieront la note et elle sera très chère ! (Applaudissements sur quelques bancs des groupes EPR, DR, Dem et HOR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 220,
+          "texte": "La parole est à M. le président de la commission des finances."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 221,
+          "texte": "C’est déjà excellent !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 222,
+          "texte": "En guise de prologue, je voudrais remercier tous les administrateurs, tout le personnel de l’Assemblée, tous les collaborateurs des groupes, des députés et des ministres. (Applaudissements.) Ils ne sont pas pour rien dans la qualité du débat qui s’est déroulé dans des conditions exceptionnelles et pour lequel je vous remercie également toutes et tous, chers collègues.\nJe voudrais saluer le ministre et le rapporteur pour la qualité de leurs réponses – je ne parle pas du fond, avec lequel je suis souvent en désaccord. (Sourires sur les bancs des commissions et du gouvernement.) En veillant à ne pas faire perdre trop de temps au débat, ils ont pris soin de répondre à toutes les interrogations, ou peu s’en faut.\nCe budget était mauvais à l’origine et il le reste à l’issue des débats. Il n’était pas crédible au départ, il n’a aucune cohérence, il n’a aucun soutien : il sera donc rejeté à l’arrivée, comme à chaque fois depuis trois ans. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nSi le budget sur lequel nous votons a parfois été amélioré, il a parfois été aggravé, notamment par la diminution des recettes, actée grâce aux votes communs d’une sorte de bouclier du capital, qui va du RN à une grande partie du bloc central que ce courant a désormais rejoint."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 226,
+          "texte": "Eh oui !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 227,
+          "texte": "L’article 4 sur les donations tendait à inventer de nouveaux privilèges, en exonérant encore plus de dons familiaux, jusqu’à 50 000 euros. Insuffisant pour le RN et le bloc central, qui ont donc voté ensemble pour relever ce plafond à 100 000 euros. On pourra plus facilement donner 100 000 euros dans sa famille. Qui est concerné par de telles sommes ?\nLe plafond du plan d’épargne en actions destiné au financement des petites et moyennes entreprises et des entreprises de taille intermédiaire (PEA-PME) est à 225 000 euros ? Ce n’est pas assez, il fallait le porter à 300 000 euros. Qui possède 300 000 euros de capital à investir en actions ?"
+        },
+        {
+          "orateur": "M. Éric Michoux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841769",
+          "ordre": 229,
+          "texte": "Mélenchon !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 230,
+          "texte": "Dans le même esprit, ce nouvel arc néolibéral a voté pour étendre une série de niches fiscales, si nombreuses que je ne peux ici en faire la liste.\nLa France, avec 40 heures travaillées en moyenne par semaine, est dans la moyenne européenne. La droite et l’extrême droite votent pour augmenter les exonérations sur les heures supplémentaires, au lieu d’augmenter les salaires.\nN’oublions pas la longue liste de mesures positives qui ont été battues par l’alliance constante du bloc central avec le Rassemblement national.\nRenforcer le rehaussement des tranches hautes du barème de l’impôt sur le revenu (IR) ? Le RN n’en veut pas, les purs macronistes non plus.\nSoumettre les revenus logés dans les holdings à l’impôt sur le revenu ? Le RN n’en veut pas, les macronistes non plus.\nAugmenter les contributions exceptionnelles et différentielles des ménages riches ? Le RN n’en veut pas, les macronistes non plus.\nAugmenter la progressivité des droits de succession, et donc faire payer plus aux riches et moins à ceux qui possèdent moins ? Le RN n’en veut pas, les macronistes non plus.\nSupprimer la flat tax ou au moins l’augmenter ? Le RN n’en veut pas, les macronistes non plus.\nInstaurer la taxe Zucman ? Le RN n’en veut évidemment pas, les macronistes non plus !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 239,
+          "texte": "Complices !"
+        },
+        {
+          "orateur": "M. Éric Coquerel",
+          "fonction": "président de la commission des finances",
+          "role": null,
+          "idActeur": "PA721202",
+          "ordre": 240,
+          "texte": "Réduire les niches fiscales qui permettent aux privilégiés de suroptimiser leur impôt – celles du crédit d’impôt services à la personne (Cisap), du crédit d’impôt recherche (CIR), de la taxe au tonnage, la niche Copé ? Jamais ! Voilà les faits.\nCe budget sera rejeté, car il est marqué de contradictions qui ne satisferont finalement personne.\nL’incohérence écologique est flagrante. Dans le même texte, on a une baisse du soutien fiscal aux éoliennes d’un côté, et de l’autre, une prise de participation dans ArcelorMittal et une surtaxe antidumping sur les importations.\nL’incohérence économique et sociale est flagrante. D’un côté, une attaque contre les logements sociaux avec la suppression de l’exonération de taxe foncière pour les bailleurs. De l’autre, une mesure de baisse des prix de l’électricité et un moratoire sur l’obligation de facturation électronique.\nL’incohérence dans le financement des collectivités est flagrante. D’un côté, vous leur supprimez 500 millions via la fraction de TVA qui leur est affectée, mais d’un autre côté, nous avons voté une hausse de 600 millions d’euros pour un fonds de sauvegarde des départements.\nLe texte renonce à réformer certains dispositifs coûteux, critiqués par la Cour des comptes, comme les 6 milliards d’euros de l’inefficace pacte Dutreil. Pourtant, au milieu de tout cela, nous avons réussi à voter une imposition accrue des multinationales, des superdividendes et des rachats d’actions, que le ministre refuse de comptabiliser dans l’article d’équilibre en raison de choix purement idéologiques.\nL’incohérence en matière de recettes est totale. Ce texte est pétri de refus : refus de voter des recettes nouvelles, comme un impôt sur la fortune (ISF) renforcé ; refus de conserver des impôts importants, comme les 5 milliards d’euros de la contribution exceptionnelle sur les bénéfices des grandes entreprises – ce sont 5 milliards de perdus, qui creusent le déficit et disqualifient les prétendus défenseurs de la bonne tenue des comptes publics.\nCe budget va être rejeté. Le texte qui partira au Sénat correspond au projet initial du gouvernement, qui contient toutes les mesures injustes déjà connues : augmenter les impôts des retraités – mesure qui avait été battue par la quasi-unanimité des députés, je dois le reconnaître ; faire payer des impôts aux malades sur leurs indemnités d’arrêts maladie ; ponctionner les recettes des collectivités territoriales. Avec la deuxième partie du projet de loi de finances pour 2027, dont il n’est pas question ici, mais qui se retrouvera dans le texte final, le gouvernement imposera aussi cette austérité, sur laquelle j’ai déjà alerté la représentation nationale.\nCes dépenses ont été battues en commission – aucun député n’a voté pour, c’est à noter –, mais dans une commission souvent réduite et déséquilibrée, ce qui rappelle la nécessité de changer la loi organique pour que la discussion en séance parte du texte de la commission, qui aura ainsi un plus grand rôle. Un vote m’a particulièrement inquiété : la suppression de l’aide médicale de l’État (AME), réduite à une aide d’urgence. C’est le même programme discriminatoire que le délai de carence d’un an pour certaines aides sociales pour les étrangers, soutenu par la même majorité inhumaine et réactionnaire.\nCe que tous ces votes communs cherchent à empêcher, c’est le partage des richesses et une plus grande contribution du capital. Faute de chercher des moyens de ce côté, ce budget tend à affaiblir le pouvoir d’achat, les services publics, la capacité de l’État à mener à bien ses missions. Par cette inaction et ce refus, ce budget échoue à répondre aux besoins de la population, et il échoue en outre en aggravant ce qu’il était censé améliorer : le déficit, la dette et la croissance. Ce budget ne peut qu’échouer. (Applaudissement sur plusieurs bancs des groupes LFI-NFP et GDR ainsi que sur quelques bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 250,
+          "texte": "La parole est à M. le ministre."
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 251,
+          "texte": "Je tiens à mon tour à remercier le rapporteur général, le président de la commission des finances, les services de l’Assemblée,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 252,
+          "texte": "Vous gelez leurs salaires ! Dégelez le point d’indice !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 253,
+          "texte": "…les collaborateurs de tous les groupes politiques, les collaborateurs et les services du ministère de l’économie et des finances, ceux du ministère de l’action et des comptes publics, et vous tous qui avez siégé jour et nuit.\nChacun connaît l’issue probable du vote qui se déroulera dans quelques minutes. Chacun connaît aussi sa conséquence immédiate : si la première partie est rejetée, c’est la copie initiale du gouvernement qui partira au Sénat. Si, ce soir, l’heure n’est pas vraiment au suspense, les prochains jours devront être ceux du sursaut."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 255,
+          "texte": "Le sursaut aura lieu dans la rue !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 256,
+          "texte": "Après le vote d’aujourd’hui, le projet de loi de finances sera examiné au Sénat, puis reviendra à l’Assemblée. Nous avons donc quelques semaines pour dessiner un compromis indispensable, mais pas davantage : le pays a besoin d’un budget avant la fin de l’année et les prochaines semaines seront décisives pour la France. Le budget est réversible, mais un décrochage financier et budgétaire serait irréversible. Nous ne pouvons pas être hypnotisés par l’élection présidentielle au point de ne pas voir le sol qui se dérobe sous nos pieds."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 257,
+          "texte": "Personne ne te croit !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 258,
+          "texte": "Les taux d’intérêt ont atteint, entre le début de la procédure budgétaire – nos premiers échanges au printemps, puis au mois de juillet, avec la publication du rapport prévu à l’article 48 de la loi organique relative aux lois de finances – et aujourd’hui, des niveaux records."
+        },
+        {
+          "orateur": "M. Arnaud Le Gall",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795672",
+          "ordre": 259,
+          "texte": "C’est votre bilan !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 260,
+          "texte": "Chacun voit bien les turbulences géopolitiques – la fermeture du détroit d’Ormuz se prolonge – et mesure à quel point elles déstabilisent notre économie, fragilisent les comptes publics et étranglent le pouvoir d’achat des Français."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 261,
+          "texte": "Tu parles dans le vide !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 262,
+          "texte": "On ne peut pas, pour des raisons électorales, pour ménager un camp, pour ménager une clientèle, faire souffrir notre pays toute l’année 2027, faute d’avoir su faire le compromis indispensable pour donner un budget à la France."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 263,
+          "texte": "Ça fait dix ans que vous faites souffrir le pays !"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 264,
+          "texte": "Donc, vous démissionnez ?"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 265,
+          "texte": "Vous vous retirez définitivement ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 266,
+          "texte": "Pour répondre à la situation et pour ramener le déficit à 5 % du PIB, il faut dépasser les tabous, et ce, dans tous les camps et sur tous les bancs. On ne peut pas, ici, dire non à toutes les économies, là, dire non à toutes les recettes,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 267,
+          "texte": "Ah ! On adopte la taxe Zucman ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 268,
+          "texte": "…alors que chacun sait et chacun, le plus souvent, se l’avoue dans les couloirs qui jouxtent l’hémicycle – c’est le plus triste : nous avons besoin des unes et des autres pour réduire le déficit public, nous devons baisser la dépense tout en renforçant la justice fiscale et sociale.\nLe gouvernement a proposé, dans le texte initial, des mesures nouvelles et importantes. Je pense à la réduction des allègements généraux et aux réformes des niches fiscales. Il est évidemment disponible pour continuer d’y travailler dans les prochaines semaines et pour répondre aux demandes sociales qui émanent de tout le pays et, en premier lieu, de sa jeunesse – j’y reviendrai dans un instant. Si le gouvernement est ouvert, sans tabou, au sujet du comment, c’est-à-dire des mesures, il sera toujours très ferme au sujet du combien, c’est-à-dire de la réduction impérieuse du déficit public."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 270,
+          "texte": "Alors, Zucman, c’est oui !"
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 271,
+          "texte": "Friedman, c’est non !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 272,
+          "texte": "Je crois, peut-être avec la foi du charbonnier, qu’un compromis est possible. Nous avons réussi à le trouver en 2024 comme en 2025. Alors même que la situation géopolitique est plus grave, que la situation financière est plus tendue et qu’une élection présidentielle permettra, d’ici quelques mois, de trancher les grands désaccords et de revenir, après ce grand moment de légitimation démocratique, sur les dispositions de la loi de finances qui ne conviendrait pas à la nouvelle majorité,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 273,
+          "texte": "Celle de Jean-Luc Mélenchon !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 274,
+          "texte": "…il serait paradoxal que, tel des Ponce Pilate budgétaires, nous nous lavions les mains, cette année, des conséquences des décisions prises dans l’hémicycle. L’an dernier, le Parlement a trouvé un compromis sur la question des retraites."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 275,
+          "texte": "Non !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 276,
+          "texte": "Cette année, nous devons trouver un compromis pour notre jeunesse."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 277,
+          "texte": "Dix milliards !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 278,
+          "texte": "Depuis des décennies, la jeunesse a été la variable d’ajustement,…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 279,
+          "texte": "De votre gouvernement !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 280,
+          "texte": "…à chaque fois – je le disais dès mon propos liminaire dans ce débat. Elle a toujours été sacrifiée dans les discussions budgétaires. On a beaucoup parlé des jeunes ces dernières semaines. Ils ont été beaucoup trahis dans cet hémicycle."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 281,
+          "texte": "Par le gouvernement aussi !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 282,
+          "texte": "Le déficit a été porté de 5 % à 5,9 % du PIB, mais qui paiera la facture, si ce n’est la jeunesse ?"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 283,
+          "texte": "Qui fait payer à la jeunesse le gel des APL ?"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 284,
+          "texte": "Quand on se refuse par principe à envisager tout effort, quel qu’il soit, de nos retraités, qui assumera les conséquences, si ce n’est la jeunesse ?"
+        },
+        {
+          "orateur": "Mme Dieynaba Diop",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841919",
+          "ordre": 285,
+          "texte": "Vous n’avez jamais envisagé de taxer les riches !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 286,
+          "texte": "S’il y a un compromis à trouver dans les prochaines semaines, s’il y a des moyens supplémentaires à dégager – et il en faudra –…"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 287,
+          "texte": "Dix milliards !"
+        },
+        {
+          "orateur": "M. David Amiel",
+          "fonction": "ministre",
+          "role": null,
+          "idActeur": "PA795950",
+          "ordre": 288,
+          "texte": "…et s’il y a, sur tous les bancs, des tabous à dépasser et des dogmes à faire sauter, ce doit être au service d’une seule cause, celle de notre jeunesse.\nVoilà les quelques mots que je souhaitais partager avec vous. Évidemment, l’élection présidentielle tranchera les grands désaccords. C’est son rôle et, conscients de cela, nous avons voulu vous proposer un budget aussi réversible que possible. Ne laissons pas ce grand rendez-vous démocratique être gâché par les conséquences terribles qu’aurait l’absence de budget ou un décrochage financier de notre pays ! C’est ce que nous devons aux Français, c’est ce que nous devons à la France. (Applaudissements sur plusieurs bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 290,
+          "texte": "Nous avons achevé l’examen des articles de la première partie du projet de loi de finances pour 2027. Je vous rappelle que la conférence des présidents a décidé qu’il serait procédé à un scrutin public sur cette première partie."
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9758,
+          "id": "VTANR5L17V9758",
+          "sort": "rejeté",
+          "titreVote": "l'amendement n° 1 du Gouvernement à l'article liminaire du projet de loi de finances pour 2027 (seconde délibération) (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 252,
+          "exprimes": 248,
+          "pour": 80,
+          "contre": 168,
+          "abstention": 4,
+          "ordre": 191
+        }
+      ]
+    },
+    {
+      "idSyceron": "4222508",
+      "valeurPtsOdj": "1",
+      "titre": "Explications de vote",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 292,
+          "texte": "La parole est à M. Paul Midy."
+        },
+        {
+          "orateur": "M. Paul Midy (EPR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "ordre": 293,
+          "texte": "Je remercie celles et ceux qui ont présidé les séances pendant toutes ces longues journées, je remercie le rapporteur général, le président de la commission des finances, le ministre du budget et vous toutes et tous, chers collègues, pour la qualité de nos débats qui ont été, je crois, de bonne tenue.\nSi l’on considère la copie budgétaire qui ressort de ces débats, on peut y trouver des choses positives, comme la suppression de la surtaxe sur l’impôt sur les sociétés, le financement du nouveau nucléaire ou les aides à la modernisation des entreprises, tel le suramortissement IA qui permet de projeter le pays dans le futur. Toutefois, le texte présente désormais un déficit en grave dérapage – près de 6 %.\nTous les efforts contenus dans la version initiale ont été supprimés par cette assemblée. En outre, le Rassemblement national et La France insoumise ont mis en commun leurs votes pour donner le meilleur d’eux-mêmes et créer des impôts supplémentaires qui se chiffrent à des dizaines de milliards d’euros, aboutissant à un résultat inacceptable. (Applaudissements sur quelques bancs du groupe EPR.)\nEn voici quelques exemples. L’impôt sur les sociétés mondialisées représenterait 24 milliards d’euros – c’est une augmentation de 50 % de l’impôt sur les sociétés ! La nouvelle idée de taxe gigaoctets représenterait 10 milliards d’euros : 5 euros pour télécharger un film sur Netflix, en voilà une excellente idée ! J’en passe et des meilleures : le retour de la taxe holdings, l’augmentation de la contribution différentielle sur les hauts revenus (CDHR), et ainsi de suite. Il y en a des dizaines et des dizaines, pour des dizaines et des dizaines de milliards !"
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "ordre": 297,
+          "texte": "De ce fait, il est évident que la copie issue de nos débats n’est pas acceptable. Le groupe Ensemble pour la République votera contre la première partie du projet de loi de finances.\nCependant, il faut que le processus budgétaire continue. Il convient de doter le plus rapidement possible notre pays d’un budget, de manière à donner de la visibilité aux Françaises et aux Français et à arrêter de stresser les entrepreneurs. Il faut que nous arrivions à passer les mois qui viennent, afin d’offrir une belle élection présidentielle à notre démocratie, et que l’émoi actuel et l’expression démocratique se focalisent sur cette élection."
+        },
+        {
+          "orateur": "M. Stéphane Peu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721270",
+          "ordre": 299,
+          "texte": "Je la sens vachement bien pour vous, là !"
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "ordre": 300,
+          "texte": "Nous rejetons donc le texte dans sa rédaction actuelle mais nous appelons à poursuivre le processus budgétaire. (Applaudissements sur les bancs du groupe EPR et sur quelques bancs du groupe Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 301,
+          "texte": "La parole est à M. Carlos Martens Bilongo."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo (LFI-NFP)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 302,
+          "texte": "Le débat budgétaire a lieu dans un contexte de forte mobilisation. Depuis le 31 août dernier, les lycées à Mayotte et en Guyane sont mobilisés ; ils se révoltent pour demander plus de moyens et ont été rejoints par les lycées de l’Hexagone. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)\nÀ l’ouverture des débats, le gouvernement a présenté une copie qui prévoyait 54 milliards d’euros de coupes budgétaires."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 304,
+          "texte": "C’est scandaleux !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 305,
+          "texte": "C’est en effet scandaleux parce qu’à chaque fois, le gouvernement tape dans les services publics. Il évoque un déficit budgétaire à hauteur de 5,4 % du PIB en 2026 et vise l’objectif de le ramener à 5 %, le déficit attendu pour 2027 étant estimé à 156,5 milliards d’euros. En neuf ans, sous Macron, environ 1 300 milliards d’euros de dette supplémentaires ont été accumulés.\nLes contributions des entreprises ont été rabotées de 2,3 milliards d’euros, notamment du fait de la baisse du taux de la contribution exceptionnelle sur les bénéfices des grandes entreprises. Cette année, au cours du seul premier semestre, 61 milliards de dividendes ont été versés par les groupes du CAC40 – ce montant est en hausse de 30 % sur un an.\nVous voulez fiscaliser les indemnités journalières à hauteur de 50 % pour les malades en ALDs et de 100 % pour les victimes d’accidents du travail et de maladies professionnelles, et supprimer le taux réduit de la CSG, la contribution sociale généralisée."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 308,
+          "texte": "Scandaleux ! Insupportable !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 309,
+          "texte": "Depuis dix ans, vous avez aggravé la situation de ces personnes, en supprimant les comités d’hygiène, de sécurité et des conditions de travail (CHSCT) et en mettant en difficulté les inspecteurs du travail. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "ordre": 310,
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 311,
+          "texte": "Vous évaluez l’effort demandé aux collectivités territoriales à 5,4 milliards d’euros, alors que, selon le Comité des finances locales, il s’élève à 7 milliards."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 312,
+          "texte": "En plus, nous n’avons pas les bons chiffres !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 313,
+          "texte": "Vous voulez abaisser le plafond de l’abattement fiscal de 10 % sur les pensions de retraite, de 4 439 euros à 3 000 euros par foyer, ce qui entraînerait une baisse des revenus de 90 à 130 euros par mois pour certains retraités isolés.\nQuand nous cherchons à augmenter les recettes, vous êtes les premiers à vous y opposer. La taxe Zucman aurait pu rapporter plus de 20 milliards d’euros, l’impôt de solidarité sur la fortune (ISF) renforcé, plus de 15 milliards, la suppression de la flat tax, plus de 9 milliards, mais l’alliance macro-lepéniste s’est opposée à ces mesures de justice sociale, de justice fiscale. (« Eh oui ! » sur les bancs du groupe LFI-NFP.)\nLe Rassemblement national, si prompt à parler d’argent public, pique l’argent au Parlement européen (Applaudissements sur plusieurs bancs du groupe LFI-NFP) et la présidente de son groupe au Sénat annonce qu’elle veut « piquer 200 000 balles » au Sénat puis demande de couper ce passage au montage, pour le cacher aux Français. C’est ce même Rassemblement national qui s’oppose à la taxation des ultrariches, à la justice fiscale et à plusieurs distributions. Le Rassemblement national est une escroquerie sociale."
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 316,
+          "texte": "Oui, ce sont des escrocs !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 317,
+          "texte": "Vous êtes l’antithèse, l’ennemi du social !"
+        },
+        {
+          "orateur": "Mme Lisette Pollet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793656",
+          "ordre": 318,
+          "texte": "N’importe quoi !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 319,
+          "texte": "Vous n’avez jamais voté aucune mesure en soutien aux plus précaires de ce pays. (Exclamations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 320,
+          "texte": "N’importe quoi !"
+        },
+        {
+          "orateur": "Mme Lisette Pollet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793656",
+          "ordre": 321,
+          "texte": "Vous assignez les gens ! Vous les mettez dans une case !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 322,
+          "texte": "Eh oui, monsieur Jacobelli ! Vous n’êtes jamais au rendez-vous pour augmenter le smic. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Rodrigo Arenas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795084",
+          "ordre": 323,
+          "texte": "Les masques tombent !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 324,
+          "texte": "Pendant l’examen de la seconde partie du projet de loi de finances en commission, nous avons eu la chance de faire adopter des amendements. Ainsi, nous avons adopté des amendements de mon collègue Paul Vannier sur l’enseignement scolaire, notamment pour augmenter de 20 % la rémunération des enseignants (Applaudissements sur les bancs du groupe LFI-NFP),…"
+        },
+        {
+          "orateur": "Mme Sophia Chikirou",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA791812",
+          "ordre": 325,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 326,
+          "texte": "…rétablir 1 588 postes d’enseignants supprimés par le gouvernement dans le projet de loi de finances pour 2027 et créer un fonds de rénovation d’urgence pour les locaux scolaires.\nEn outre, plusieurs mesures ont été adoptées suivant les recommandations de la mission flash sur le coût de la canicule du président Éric Coquerel, pour renouveler et développer la flotte d’avions amphibies, recruter plus de 5 000 sapeurs-pompiers professionnels dès 2027 et augmenter les moyens terrestres des services départementaux d’incendie et de secours (Sdis) dans la lutte contre les feux de forêt. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 328,
+          "texte": "Merci de conclure."
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 329,
+          "texte": "Nous voterons donc contre la première partie du projet de loi de finances. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Marcellin Nadeau applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 330,
+          "texte": "La parole est à Mme Estelle Mercier."
+        },
+        {
+          "orateur": "Mme Estelle Mercier (SOC)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "ordre": 331,
+          "texte": "Le groupe SOC a abordé la séquence budgétaire avec pour boussole la volonté de protéger les Françaises et les Français d’un budget pour 2027 injuste, de leur éviter d’être placés entre le marteau de la dette publique et l’enclume de l’austérité, d’empêcher que ce dernier budget de l’ère Macron ne nous projette encore plus dans le gouffre de la crise économique, budgétaire et sociale.\nNous avions formulé dès cet été des propositions concrètes pour améliorer la justice fiscale, comme la taxation des hauts patrimoines et des mégahéritages, réaliser des investissements ambitieux pour les services publics, notamment à travers un plan pour l’hôpital, investir dans notre avenir, en consacrant 1 milliard d’euros supplémentaires à la recherche publique et aux universités, rénover le bâti scolaire. Nous avions également formulé des propositions pour lutter contre le réchauffement climatique, parmi lesquelles un fonds de soutien face aux catastrophes, des moyens pour la sécurité civile, l’accompagnement vers des mobilités individuelles ou collectives décarbonées ou des aides à l’adaptation de notre modèle agricole.\nVotre gouvernement a fait le choix de les ignorer. Nous attendions des inflexions majeures avant l’examen du budget, mais il n’en a rien été. Votre copie initiale était tellement éloignée d’un compromis possible que nous avons déposé une motion de rejet préalable.\nLes débats nous ont donné raison. La copie amendée n’est pas plus digeste que la copie initiale. Certains irritants ont été supprimés et nous nous en félicitons. Plusieurs dispositions ont même fait l’unanimité contre elles, reflet d’un gouvernement lâché par sa propre majorité minoritaire : des mesures injustes comme la fiscalisation des indemnités pour les personnes en ALD, la réforme de l’abattement sur l’impôt sur les revenus des retraités, l’instauration de frais de scolarité pour les classes préparatoires aux grandes écoles (CPGE) et les sections de techniciens supérieurs (STS) ainsi que les nombreuses coupes imposées aux collectivités territoriales. Ces mesures sont symptomatiques de votre politique : demander aux plus précaires et aux plus modestes de payer les errances de votre politique, alors qu’ils sont de plus en plus nombreux à ne pas parvenir à boucler les fins de mois, plutôt que de le demander à ceux qui en ont profité et en profitent encore, qui s’enrichissent et accumulent des richesses. (Applaudissements sur quelques bancs du groupe SOC.)\nMalgré ces maigres satisfactions, la première partie du budget 2027 demeure inacceptable. Nous ne pouvons voter un texte qui creuse davantage les niches fiscales dont bénéficient les plus aisés et qui ont largement contribué à la dégradation des finances publiques. Surtout, nous déplorons qu’aucune mesure de justice fiscale n’ait pu être votée en raison d’une alliance droitière.\nEn effet, il existe bien dans cet hémicycle une alliance qui ne dit pas son nom. Elle ne s’affiche pas sur les plateaux, mais elle se révèle dans les scrutins publics : le 16 octobre, pour voter contre la taxe Zucman, le bloc central et le Rassemblement national, main dans la main (Protestations sur les bancs du groupe RN) ; pour voter contre le retour de l’ISF, le bloc central et le Rassemblement national, main dans la main. Le 27 octobre au soir, l’amendement visant à supprimer la surtaxe sur les bénéfices des plus grandes entreprises, qui permet de lever 5 milliards d’euros de recettes, est passé à deux voix près ; parmi ceux qui l’ont voté, on compte quarante-huit députés du Rassemblement national et quatorze députés macronistes. Voilà la vérité de l’extrême droite : elle parle au peuple à la tribune, mais elle vote pour les puissants dans l’urne ! (Applaudissements sur les bancs du groupe SOC. – M. Marcellin Nadeau applaudit également.) Elle se dit antisystème, mais quand le système a besoin de bras pour protéger ses privilèges, elle répond toujours présente !"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 337,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "ordre": 338,
+          "texte": "En matière de fiscalité, le Rassemblement national n’est pas l’alternative à la Macronie, il en est la roue de secours. (M. Pierre Pribetich applaudit. – Protestations sur les bancs du groupe RN.)"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 339,
+          "texte": "Vous avez voté Macron !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 340,
+          "texte": "Chut !"
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "ordre": 341,
+          "texte": "En définitive, cette première partie du projet de loi de finances dégrade de 20 milliards d’euros le solde de l’État."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "ordre": 342,
+          "texte": "Vous créez toujours plus de dette !"
+        },
+        {
+          "orateur": "Mme Estelle Mercier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841463",
+          "ordre": 343,
+          "texte": "Ce résultat est bien loin des discours moralisateurs et des appels à la responsabilité des adorateurs de Reagan et de Milei dans cet hémicycle. Il n’y a rien pour financer les services publics, les politiques publiques, les investissements d’avenir nécessaires pour les écoles et les universités ou pour la lutte contre le réchauffement climatique.\nMes chers collègues, ce budget est un testament, celui d’un pouvoir qui aura réussi l’exploit d’enrichir les plus riches tout en appauvrissant l’État, un pouvoir qui laisse en héritage moins de services publics, plus de dette et de l’injustice fiscale. Cet héritage, nous le refusons. Nous refusons qu’on présente comme une fatalité ce qui n’est qu’un choix – car l’argent existe : il est dans les dividendes, dans les patrimoines qui ont explosé, dans les niches qui prospèrent. Il ne manque que le courage d’aller le chercher.\nC’est pourquoi notre groupe votera contre la première partie de ce projet de loi de finances, non par posture, mais par fidélité à nos valeurs, par fidélité à celles et ceux qui travaillent, qui cotisent, qui paient et qu’on oublie toujours au moment du partage. (Applaudissements sur les bancs du groupe SOC ainsi que sur quelques bancs du groupe GDR.)"
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 346,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 347,
+          "texte": "La parole est à M. Nicolas Ray."
+        },
+        {
+          "orateur": "M. Nicolas Ray (DR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 348,
+          "texte": "Nous terminons ce soir l’examen de la partie recettes du projet de loi de finances pour 2027, alors que les finances publiques de notre pays traversent une grave crise. La France emprunte sur les marchés à des taux records, qui ont dépassé les 5 %. La charge de la dette, qui atteindra 91 milliards l’an prochain, devient le premier poste budgétaire de l’État. Ce contexte aurait dû conduire notre assemblée à aborder cet examen avec sérieux et responsabilité.\nAvec les députés du groupe Droite républicaine, autour de son président Laurent Wauquiez, nous avons fait preuve d’esprit de construction et de responsabilité tout long des discussions. Nous avons également défendu une conviction constante : dans le pays qui détient le record des prélèvements obligatoires – ils dépasseront prochainement 44 % du PIB –, le redressement des comptes publics doit passer par la maîtrise des dépenses et non par de nouveaux impôts.\nPourtant, au cours des débats, nous avons assisté à une surenchère de mesures fiscales dont il est difficile, ce soir, comme cela a été dit, de chiffrer les conséquences pour notre économie et pour nos compatriotes. Certaines d’entre elles sont inconstitutionnelles, d’autres sont contraires aux conventions internationales que nous avons signées ou aux directives communautaires. Nous avons eu droit à une taxe sur les gigaoctets pour les téléchargements sur internet, à une autre sur la trésorerie des holdings, à des hausses de la fiscalité sur les rachats d’actions et sur les dividendes, à des taxes sur les transactions financières, sur Vinci et sur ArcelorMittal en vue de leur nationalisation, à un durcissement du pacte Dutreil et à un rabotage de l’abattement sur les locations meublées.\nComment cela a-t-il été possible ? Toutes ces hausses de la fiscalité, qui sont pour la plupart venues des bancs de la gauche, ont été votées avec la complicité du Rassemblement national,…"
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 352,
+          "texte": "En votre absence !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 353,
+          "texte": "…qui, par son vote ou son abstention, a permis l’adoption de ces amendements, montrant d’ailleurs des désaccords avec ses alliés de l’UDR."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 354,
+          "texte": "Vous étiez où pour voter contre ?"
+        },
+        {
+          "orateur": "Plusieurs députés du groupe RN",
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 355,
+          "texte": "Vous n’étiez pas là !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 356,
+          "texte": "Chers collègues, on ne peut pas dénoncer le poids de la pression fiscale sur les Français et les entreprises, puis, dans cet hémicycle, contribuer à l’alourdir ! Cette année encore, la réalité des votes est manifeste."
+        },
+        {
+          "orateur": "M. Emeric Salmon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794954",
+          "ordre": 357,
+          "texte": "Ah oui ? Et les vôtres ?"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 358,
+          "texte": "Au cours de l’examen de ce texte, nous avons défendu nos convictions, en nous opposant aux hausses d’impôt prévues dans le texte initial. Nous avons fait adopter plusieurs amendements de notre groupe. Nous avons obtenu la préservation de l’abattement fiscal de 10 % pour éviter une hausse d’impôt de plus de 1,4 milliard d’euros sur les retraités, le maintien du régime des loueurs en meublés non professionnels, dont la remise en cause aurait aggravé la crise du logement, le maintien du taux de TVA de 10 % sur les abonnements à la télévision, dont le doublement aurait eu des répercussions sur les abonnés et sur le pouvoir d’achat des Français, la suppression de la hausse du plafond du tarif de sûreté et de sécurité qui était prévu pour les aéroports régionaux de moins de 700 000 passagers.\nEn contrepartie du refus de ces hausses d’impôt, nous avons proposé des baisses de dépenses. Je vais en dire un mot, puisque l’examen de la partie dépenses ne devrait pas avoir lieu en raison du rejet probable de la partie recettes.\nLors de l’examen de la seconde partie du projet de loi en commission, notre groupe a été le seul à faire adopter une baisse des dépenses, dans la mission Santé, grâce à un encadrement de l’aide médicale de l’État."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 361,
+          "texte": "C’est une honte !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 362,
+          "texte": "Celle-ci a en effet doublé depuis 2012, passant de 700 millions à 1,4 milliard d’euros. Il s’agit non pas d’une suppression, mais d’un encadrement, afin de la limiter aux soins urgents, aux affections graves, aux soins de la grossesse, à la vaccination et à la médecine préventive. Cependant, malgré ces quelques victoires, 88 milliards d’euros de dépenses supplémentaires ont été votés en commission. C’est irresponsable.\nAu terme de l’examen du texte en première lecture et compte tenu de l’adoption de nombreuses augmentations de taxes, notre groupe votera contre la copie issue des travaux de l’Assemblée nationale.\nHeureusement, le débat budgétaire ne s’arrête pas ce soir. Le travail va se poursuivre, notamment au Sénat."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 365,
+          "texte": "C’est dans la rue que ça se joue !"
+        },
+        {
+          "orateur": "M. Nicolas Ray",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793094",
+          "ordre": 366,
+          "texte": "Nous restons convaincus que la France a besoin d’un budget. Nous continuerons donc à nous montrer constructifs et responsables en vue de donner un budget à la France ; non pas un budget dans lequel les taxes augmentent constamment, mais un budget dans lequel nous avons le courage de diminuer les dépenses, un budget qui permette de soutenir la France qui travaille, un budget qui nous permette de retrouver le chemin de l’équilibre budgétaire et de la croissance. (Applaudissements sur les bancs du groupe DR. – Mme Anne-Cécile Violland applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 367,
+          "texte": "La parole est à Mme Eva Sas."
+        },
+        {
+          "orateur": "Mme Eva Sas (EcoS)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 368,
+          "texte": "Le budget que le gouvernement nous a soumis était marqué du double sceau de l’injustice fiscale et de l’inaction climatique. Pour combler les déficits creusés par dix ans de cadeaux fiscaux aux multinationales et aux plus aisés, le gouvernement veut en effet faire payer tout le monde : les retraités, les allocataires des aides personnelles au logement (APL), les malades en affection longue durée, les fonctionnaires.\nTout le monde ? Pas tout à fait. Vous laissez bien tranquilles les plus riches. Pourtant, qui a parlé « des multimillionnaires ou des milliardaires [qui] voient leur taux d’impôt effectif baisser, parce qu’ils abusent de l’optimisation fiscale » ? C’est vous, monsieur le ministre Amiel ! Vous reconnaissez que les milliardaires contournent l’impôt, mais vous ne prenez aucune mesure pour les faire contribuer."
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 370,
+          "texte": "C’est parce qu’il voudrait l’être !"
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 371,
+          "texte": "C’est cela, le macronisme au pouvoir : l’application rigoureuse et méthodique d’une devise tragique, Fort avec les faibles et faible avec les forts.\nCe refus de dégager des recettes a une conséquence directe : il nous prive des moyens nécessaires pour lutter contre le dérèglement climatique. Cela devrait pourtant être une priorité, après les 8 124 décès liés à la canicule de cet été. Pourtant, on nous annonce un budget de l’écologie au rabais, la suppression des programmes de lutte contre la précarité énergétique, des coupes budgétaires dans le fonds Chaleur, et même sa suspension en cette fin d’année 2026 – une politique irresponsable, alors que notre génération est la dernière à pouvoir enrayer le réchauffement climatique.\nNéanmoins, l’examen de ce texte aura eu le mérite de clarifier deux choses.\nD’abord, il aura révélé votre aveuglement, chers collègues macronistes. Je dois dire que vous avez encore réussi à m’étonner. Après le constat d’échec implacable de votre politique de l’offre, qui a précipité la France dans le mur, vous ne voulez pas seulement continuer à faire des cadeaux fiscaux, vous voulez les multiplier. Le summum, c’est quand vous avez voté, main dans la main avec le Rassemblement national, la suppression de la contribution exceptionnelle sur les grandes entreprises, soit 7 milliards d’euros en moins pour les caisses de l’État, pour les services publics, pour la transition écologique. Les Français se demandent : nous payons des impôts, mais où passe l’argent ? Eh bien, voilà où il passe : dans des cadeaux répétés aux multinationales !\nEnsuite, l’examen de ce projet de budget nous aura permis d’assister au coming out libéral du Rassemblement national. On ne savait pas très bien où vous vous situiez sur le plan économique, mais là, au moins, c’est clair : vous êtes du côté des actionnaires, des grandes entreprises et des plus riches. Que chacun sur ces bancs et au-delà de l’hémicycle le sache : le Rassemblement national, c’est la politique économique macroniste, avec l’obsession de l’immigration en plus.\nFace à cette alliance ultralibérale, les députés du groupe Écologiste et social se sont battus pour défendre un autre projet de société : une société plus juste et plus égalitaire, une société qui donne la priorité à la lutte contre le dérèglement climatique et à la protection du vivant, une société qui préserve la santé de chacun, contre les lobbys des pesticides et de l’alimentation ultratransformée,…"
+        },
+        {
+          "orateur": "M. Laurent Jacobelli",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794598",
+          "ordre": 377,
+          "texte": "Vous taxez aussi la viande !"
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 378,
+          "texte": "…une société qui soutient les initiatives citoyennes, les sociétés coopératives et participatives (Scop) et les associations, une société décentralisée qui redonne de l’autonomie aux collectivités locales, au plus près des citoyens.\nNous avons défendu une fiscalité plus juste, qui redresse les comptes publics en mettant à contribution les plus hauts patrimoines et les plus gros héritages, qui taxe les surprofits des entreprises pétrogazières ; une fiscalité alignée sur nos objectifs environnementaux, qui applique le principe pollueur-payeur et qui rend accessibles le bio, le train, les transports en commun et tous les biens et services qui ont un impact positif sur le climat.\nNotre mobilisation aura permis d’obtenir quelques avancées, notamment la baisse de la TVA sur les transports du quotidien et sur les services de réparation. Nous avons surtout évité plusieurs reculs : le plafonnement de l’abattement de 10 % sur les pensions de retraite, la fiscalisation des indemnités touchées par les victimes d’accidents du travail ou la ponction de 2,5 milliards d’euros sur les collectivités territoriales.\nNe nous y trompons pas : cela ne suffit pas à rééquilibrer ce budget. Nous vous avions prévenu dès le début : nous ne pouvons rien attendre d’un projet de loi de finances qui préserve les privilèges de quelques-uns au détriment de l’intérêt général et de la protection du vivant."
+        },
+        {
+          "orateur": "M. Alexis Corbière",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA721210",
+          "ordre": 382,
+          "texte": "C’est vrai."
+        },
+        {
+          "orateur": "Mme Eva Sas",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA610002",
+          "ordre": 383,
+          "texte": "Le groupe Écologiste et social votera donc résolument contre la première partie du projet de loi de finances pour 2027. (Applaudissements sur les bancs des groupes EcoS et GDR. – M. Carlos Martens Bilongo applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 384,
+          "texte": "La parole est à M. Jean-Paul Mattei."
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei (Dem)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "ordre": 385,
+          "texte": "Je commencerai, monsieur le ministre, monsieur le rapporteur général, monsieur le président de la commission des finances, par vous remercier pour la qualité de nos débats. Nous n’étions pas d’accord, mais nous avons pu débattre malgré tout.\nAu terme de cette discussion budgétaire, un constat s’impose : cette assemblée a échoué à prendre la mesure de la situation de notre pays et de la gravité du moment. Je ne reviendrai pas sur les chiffres, que nous avons martelés : près de 120 % de dette publique, plus de 5 % de déficit, une charge de la dette en augmentation. Des majorités ont émergé pour dépenser davantage, supprimer des recettes existantes et en inventer de nouvelles.\nPourtant, nous avions proposé notre voie. Notre groupe, Les Démocrates, a soumis des propositions de repli pour réaliser près de 12 milliards de recettes et d’économies et faire contribuer chacun selon ses moyens. Nous avons travaillé sur les niches, sur les rentes, sur les revenus du patrimoine et sur les dépenses fiscales inefficaces, avec pour boussole la recherche de l’équilibre budgétaire. Nous avons proposé une année blanche sur tous les plans : gel intégral du barème de l’IR, demi-indexation sur l’inflation, gel des tranches supérieures. Toutes ces propositions ont été rejetées, alors que nos prédécesseurs, de droite comme de gauche, avaient déjà pris ces mesures courageuses en 2012 et en 2013, sous Nicolas Sarkozy et sous François Hollande. (Applaudissements sur les bancs du groupe Dem. – Mme Nicole Dubré-Chirat applaudit également.)\nNous avons néanmoins avancé sur le pacte Dutreil, l’ exit tax, la lutte contre les montages dits CumCum et la fiscalité des holdings patrimoniaux, au service de la justice fiscale, sans obérer le dynamisme économique.\nToutefois, ces avancées ne suffisent pas à sauver une copie que nous avons collectivement dégradée. Nous avons supprimé la contribution exceptionnelle des grandes entreprises, multiplié les taux réduits de TVA et créé des dépenses fiscales sans réfléchir à leur coût. En outre, il a été impossible de débattre de l’efficacité ou du ciblage des crédits d’impôt pour les services à la personne ou pour la recherche sans être accusé de vouloir les supprimer ou de favoriser les plus riches.\nLe débat sur les retraites est tout aussi révélateur : lorsque le gouvernement a proposé une réforme de l’abattement qui aurait coûté en moyenne moins de 20 euros par mois aux 10 % de retraités les plus aisés, nous avons entendu qu’il s’agissait d’une attaque contre les retraites. Pourtant, cela concerne aussi les générations à venir. Chers collègues, de grâce, n’opposons pas les générations ! Depuis quand demander un effort proportionné aux moyens de chacun est-il une injustice ? Notre système de retraite est l’un des plus protecteurs au monde. Pour le préserver, il faut aussi pouvoir investir dans l’éducation, l’écologie, l’innovation, la recherche ou la défense. (Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR.) Tous les débats ont été faussés. Pour ou contre les retraités ? Pour ou contre les riches ? Pour ou contre les entreprises ? Jamais pour ou contre une mesure juste, efficace et soutenable ! (Applaudissements sur les bancs du groupe Dem. – Mme Nicole Dubré-Chirat applaudit également.)\nÀ force de refuser des efforts mesurés aujourd’hui, ils seront plus douloureux demain, et nous nous préparons à des sacrifices bien plus brutaux. Nous ne provoquons pas un effondrement spectaculaire, nous endormons lentement le pays en lui faisant croire qu’il pourra financer demain ce que nous refusons de payer aujourd’hui.\nMes chers collègues, nous aurions voté pour un budget imparfait s’il avait permis d’engager un effort crédible et partagé, mais nous ne pouvons pas voter un budget dans lequel des recettes existantes sont supprimées et des recettes inexistantes sont créées, et qui laisse la facture aux générations suivantes. Les fréquentes alliances de circonstance entre La France insoumise et le RN ont fait de ce budget un danger. (Applaudissements sur les bancs du groupe Dem. – M. Paul Midy applaudit également.)"
+        },
+        {
+          "orateur": "M. Maxime Laisney",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795516",
+          "ordre": 393,
+          "texte": "Ce n’est pas vrai !"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "ordre": 394,
+          "texte": "Ce n’est pas un budget de redressement, c’est la somme de nos renoncements."
+        },
+        {
+          "orateur": "M. Romain Daubié",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793122",
+          "ordre": 395,
+          "texte": "Toujours les mêmes !"
+        },
+        {
+          "orateur": "M. Jean-Paul Mattei",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA720728",
+          "ordre": 396,
+          "texte": "Le groupe Les Démocrates votera contre la première partie du projet de loi de finances. Au gouvernement de proposer une copie courageuse qui tienne compte de nos débats et du contexte économique et, surtout, à lui d’assumer les voies de passage. (Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR. – M. Michel Barnier applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 397,
+          "texte": "La parole est à Mme Félicie Gérard."
+        },
+        {
+          "orateur": "Mme Félicie Gérard (HOR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "ordre": 398,
+          "texte": "Après plusieurs semaines de débats, l’Assemblée nationale doit se prononcer sur la première partie du projet de loi de finances pour 2027, c’est-à-dire sur la partie recettes du budget de la France. Le texte sur lequel nous votons n’a plus grand-chose à voir avec celui qui nous a été présenté en commission des finances. Le projet du gouvernement n’était pas parfait. Nous l’avions dit dès sa présentation : les baisses de dépenses publiques étaient trop faibles et l’effort reposait trop sur la fiscalité. Il avait cependant un mérite : il fixait un cap, que nous soutenons, celui d’un déficit ramené à 5 % du PIB.\nC’est pourquoi notre groupe a abordé cet examen avec une ligne claire : aucune hausse d’impôt pour les Français qui travaillent et pour les entreprises qui produisent, créent de la richesse et créent de l’emploi, mais avant tout des baisses de dépenses publiques, afin d’atteindre l’objectif de 5 % de déficit. La France a déjà l’un des niveaux de prélèvements les plus élevés d’Europe. Ce n’est certainement pas en l’alourdissant que nous redresserons nos comptes publics.\nOr qu’avons-nous vu dans l’hémicycle pendant ces semaines de débats ? La gauche a multiplié les taxes nouvelles : taxe sur les rachats d’actions, retour de l’ exit tax, imposition des multinationales sur leurs bénéfices mondiaux, taxe sur les gigaoctets, et j’en passe. Ces taxes pèseraient sur les Français et sur nos entreprises au moment où notre économie a besoin de confiance et de stabilité. Nous nous y sommes opposés, mais le Rassemblement national a très souvent laissé faire en s’abstenant.\nNotre état d’esprit n’a pas changé – éviter d’augmenter les impôts et baisser les dépenses, en proposant des économies dans la seconde partie du budget."
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "ordre": 402,
+          "texte": "Voilà où ça nous mène !"
+        },
+        {
+          "orateur": "Mme Félicie Gérard",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794470",
+          "ordre": 403,
+          "texte": "Or, en commission des finances, la gauche a voté près de 50 milliards d’euros de dépenses nouvelles. Nous savons que toute dépense supplémentaire sera financée par des impôts supplémentaires, donc par les Français. Ces milliards d’euros de dépenses supplémentaires sont une dette que nous laisserons à nos enfants et aux générations futures. C’est totalement irresponsable.\nL’année prochaine, notre dette publique atteindra près de 122 % du PIB et la charge de ses intérêts approchera les 73 milliards d’euros. Nos créanciers – les investisseurs qui achètent notre dette – nous regardent. Les taux augmentent de manière exponentielle. Chaque fois que nous laissons penser que la France renonce à tenir ses comptes, le coût de notre dette augmente, et ce sont les Français qui paient et qui paieront encore longtemps.\nNous ne pouvons voter en faveur d’un texte qui augmente les impôts tout en creusant le déficit. Il n’est ni cohérent ni sincère. Le groupe Horizons & indépendants votera donc contre la première partie du projet de loi. Ce vote ne signifie pas que nous renonçons à donner un budget au pays – les collectivités, les entreprises et tous les Français ont besoin d’un budget cohérent et voté dans les temps – mais le texte issu de nos débats est inacceptable en l’état. La navette parlementaire va se poursuivre et nous continuerons à défendre notre ligne : redresser les comptes de notre pays sans alourdir la charge qui pèse sur ceux qui travaillent, qui produisent et qui créent de la richesse pour notre pays. (Applaudissements sur les bancs du groupe HOR. – M. Nicolas Ray applaudit également.)"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 406,
+          "texte": "Faudrait déjà redresser votre courbe dans les sondages…"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 407,
+          "texte": "La parole est à M. Charles de Courson."
+        },
+        {
+          "orateur": "M. Charles de Courson (LIOT)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 408,
+          "texte": "À l’issue de l’examen de cette première partie du projet de loi de finances, il y aura 21 milliards d’euros de recettes en moins, ce qui portera le déficit public à 5,9 % du produit intérieur brut – et c’est sans compter les 50 milliards supplémentaires déjà votés en commission. Le déficit de la sécurité sociale sera quant à lui doublé, passant de 12 à 24 milliards d’euros. Nous avons sous les yeux un budget mosaïque, sans ligne directrice ni projet de société. Un budget doit pourtant dire ce que nous entendons transformer, quel avenir nous préparons pour notre pays. Celui-ci ne dessine aucun destin commun. Les Français n’y trouvent aucune protection durable, les collectivités territoriales, aucune visibilité, les entreprises, aucune perspective.\nMes chers collègues, quelle image donnons-nous de l’Assemblée nationale ? Cette dérive complète a plusieurs causes. La première, c’est la surenchère permanente dans l’hémicycle. Or on ne sert pas les Français en leur promettant aujourd’hui des illusions qu’ils devront payer demain. La deuxième, c’est l’abandon – que chacun connaît. Pourtant, la priorité est de réduire les déficits publics, en diminuant prioritairement les dépenses, dans la justice et en évitant d’aggraver toujours plus les prélèvements obligatoires. Les compromis demandent du courage : celui de consentir certaines concessions entre les différents courants politiques et de les défendre ensuite devant les électeurs. La troisième cause, c’est une certaine stratégie du pourrissement adoptée par le gouvernement et par la minorité présidentielle. Aucune négociation sérieuse n’a été engagée par le gouvernement avec les groupes responsables – et ensuite, vous déplorez, monsieur le ministre, qu’un compromis soit introuvable ! Ce qui avait été possible l’année dernière ne serait donc même plus tenté cette année ?\nDepuis plus de trente ans – trente-trois ans, pour être précis – que je siège sur ces bancs, j’en ai connu, des majorités plus ou moins solides, des alternances, des crises. Je n’ai jamais considéré que les difficultés politiques pouvaient justifier qu’on organise l’effacement du Parlement et de l’Assemblée nationale. Cet attachement républicain vient de loin. Il s’inscrit dans une histoire familiale – et de cet héritage, je retiens un devoir : mes chers collègues, ne consentons jamais à l’abaissement de la représentation nationale."
+        },
+        {
+          "orateur": "M. Yannick Favennec-Bécot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA267042",
+          "ordre": 411,
+          "texte": "Tout à fait !"
+        },
+        {
+          "orateur": "M. Jean-Paul Lecoq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA335612",
+          "ordre": 412,
+          "texte": "Il a raison !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 413,
+          "texte": "C’est pourquoi je le dis avec gravité au gouvernement : imposer par voie d’ordonnance le budget constituerait un acte terrible, celui de l’effacement total du parlementarisme. (Applaudissements sur les bancs du groupe LIOT ainsi que sur quelques bancs des groupes LFI-NFP, SOC, Dem et DR.) Le gouvernement ne peut en préparer consciemment l’issue pour s’affranchir des représentants de la nation."
+        },
+        {
+          "orateur": "M. Jean-Claude Raux",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794154",
+          "ordre": 414,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Charles de Courson",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA942",
+          "ordre": 415,
+          "texte": "Notre République est à un tournant. Nous ne regarderons pas son crépuscule les bras croisés. Il reste du temps pour nous retrouver autour d’une copie commune. Il existe des volontés de compromis : réunissez-les, monsieur le ministre ! Et engagement pour engagement, le nôtre, au groupe LIOT, c’est que nous serons en première ligne pour sanctionner de la plus forte des manières tout gouvernement qui recourrait aux ordonnances.\nDans quelques mois, les Français trancheront. D’ici là, personne n’a le droit de mettre le pays entre parenthèses. Nous appelons au compromis. Notre devoir est de transmettre un pays gouvernable, des comptes soutenables et une démocratie debout. Par voie de conséquence, nous voterons contre la première partie du projet de loi de finances. (Applaudissements sur les bancs du groupe LIOT. – M. Jimmy Pahun applaudit également.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 417,
+          "texte": "Je fais annoncer dans l’enceinte de l’Assemblée nationale le scrutin public sur l’ensemble de la première partie du projet de loi de finances.\nLa parole est à M. Nicolas Sansu."
+        },
+        {
+          "orateur": "M. Nicolas Sansu (GDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 419,
+          "texte": "Monsieur le ministre, monsieur le président de la commission des finances, monsieur le rapporteur général, merci pour votre écoute et pour le travail en commun que nous avons effectué.\nCe dernier projet de loi de finances du second quinquennat du président Macron est en quelque sorte le document d’exécution testamentaire de la politique de l’offre. C’est un héritage si affligeant que même ses héritiers naturels font tout pour s’en éloigner, voire pour s’en défaire."
+        },
+        {
+          "orateur": "M. Pierre Pribetich",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840955",
+          "ordre": 421,
+          "texte": "Bravo !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 422,
+          "texte": "Quel est-il, cet héritage ? Les inégalités patrimoniales ont explosé, permettant aux 500 plus grandes fortunes d’avoir plus que triplé leur richesse en dix ans, alors même que nous atteignons le triste record de plus de 10 millions de personnes vivant sous le seuil de pauvreté. Les services publics, à commencer par l’éducation et la santé, sont exsangues, alors même que vous avez creusé la dette de plus de 1 400 milliards d’euros en dix ans, gavant ainsi les marchés financiers et préservant les plus aisés. L’industrie ne réussit pas la révolution de l’intelligence artificielle et laisse des fonds vautours dépecer et brader nos savoir-faire, comme c’est le cas pour l’entreprise Durkopp de Vierzon, dans ma circonscription.\nLes Françaises et les Français, jeunes ou moins jeunes, qui se rassembleront demain dans toutes les villes de France, ont raison de manifester leur colère, de porter leurs revendications pour que justice fiscale et justice sociale marchent d’un même pas pour relever le pays. (Applaudissements sur les bancs du groupe GDR ainsi que sur quelques bancs du groupe LFI-NFP.)"
+        },
+        {
+          "orateur": "M. Aurélien Le Coq",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA841515",
+          "ordre": 424,
+          "texte": "Exactement !"
+        },
+        {
+          "orateur": "M. Frédéric Maillot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796010",
+          "ordre": 425,
+          "texte": "Très bien !"
+        },
+        {
+          "orateur": "M. Nicolas Sansu",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA605745",
+          "ordre": 426,
+          "texte": "Dans ce projet de loi de finances, vous nous avez proposé tout le contraire, avec des efforts à hauteur de 54 milliards d’euros, le gel de la dépense publique et un budget de l’éducation nationale indigent face aux demandes des jeunes. En fait, ce budget demande beaucoup à ceux qui ont peu et rien à ceux qui ont tout. Vous réclamez des efforts aux petits retraités, aux personnes qui touchent l’APL, aux malades en affection de longue durée, aux chômeurs, et vous préservez les ultrariches, les grandes entreprises qui font des profits faramineux – jusqu’à verser plus de 60 milliards d’euros de dividendes ! – et même les profiteurs de guerre comme Total, dont les bénéfices atteignent le montant record de 18 milliards d’euros pour les neuf premiers mois de l’année 2026.\nPartant de ce constat, le groupe de la Gauche démocrate et républicaine s’est engagé, comme toujours, dans ce débat budgétaire avec des propositions fortes pour faire triompher la justice fiscale et la protection de nos services publics, car c’est ainsi que nous ferons France en commun. Nous ne négligeons jamais la force du débat public et nous nous félicitons de l’adoption de certains de nos amendements pour réguler la bulle des cryptoactifs, véritable instrument de blanchiment et de fraude fiscale, ainsi que pour instaurer une imposition mondiale sur les bénéfices. Surtout, à l’heure où le pouvoir d’achat de nos concitoyens est si malmené, je vous invite, monsieur le ministre, à ne pas balayer d’un revers de la main l’abaissement à 5,5 % de la TVA sur l’électricité. Nous nous félicitons également du rejet des dispositions qui attaquaient les retraités modestes et les malades, qui exigeaient des efforts injustes de la part des collectivités locales, ainsi que de la prise en compte du financement du réseau ferroviaire à La Réunion et de la mise en œuvre du foncier agricole en Guyane.\nNous avons conscience que ces avancées ne feront pas long feu. Ces modifications à la marge d’un budget de casse sociale seront balayées, soit par le 49.3, soit par les ordonnances, par un gouvernement minoritaire, soutenu par un extrême centre arc-bouté sur les résidus de sa politique de l’offre, prêt à voter main dans la main avec l’extrême droite. (Mme Natalia Pouzyreff s’exclame.) Cet extrême centre est prêt à toutes les compromissions avec l’extrême droite pour supprimer la contribution sur les bénéfices des grandes entreprises, pour allonger la liste des niches fiscales favorables aux plus riches, pour rejeter la taxe Zucman, le plafonnement du prix de l’essence ou la réforme du pacte Dutreil, ou encore pour attaquer les bailleurs sociaux, donc les plus modestes.\nÉvidemment, monsieur le ministre, pour paralyser toute alternative et justifier tous les renoncements, vous nous resservez sans cesse la dette : cette dette que vous avez creusée par vos cadeaux fiscaux aux plus aisés, cette dette qui est l’instrument de sidération par excellence. Il existe pourtant une alternative aux politiques d’austérité : sortir la dette des griffes des marchés financiers par la création d’un circuit du Trésor européen, par le fléchage de l’épargne privée, qui atteint 6 600 milliards d’euros, par la création d’un fonds souverain qui pourrait s’asseoir sur la grande transmission des patrimoines, estimée à 9 000 milliards dans les quinze ans à venir.\nAujourd’hui, votre budget sera largement rejeté, et notre groupe participera à ce rejet. Demain, c’est le peuple lui-même qui rejettera massivement dans la rue votre politique. La jeunesse sera là, nombreuse, car avec elle, face au bruit des bottes qui sourd, nous ferons jaillir la symphonie de la liberté, de l’égalité et de la fraternité. C’est l’honneur de la gauche d’y parvenir – car oui, nous ferons mieux ! (Applaudissements sur les bancs des groupes GDR et LFI-NFP ainsi que sur plusieurs bancs du groupe EcoS.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 431,
+          "texte": "La parole est à M. Gérault Verny."
+        },
+        {
+          "orateur": "M. Gérault Verny (UDR)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 432,
+          "texte": "Nous sommes en récession : - 0,2 % cet hiver, 0 % au printemps, - 0,1 % cet été. On m’objectera qu’un trimestre à zéro interdit de prononcer ce mot – je laisse au gouvernement la querelle des manuels. Depuis le 1er janvier, notre pays n’a pas connu un seul trimestre de croissance. Depuis l’ouverture de ce débat, au rythme où va la France, plus de 4 000 entreprises ont déposé le bilan, 6 000 emplois privés ont disparu, notre dette a augmenté de 10 milliards d’euros et nous avons payé plus de 4 milliards d’intérêts à nos créanciers. Voilà où nous a conduits la crise Macron.\nLe 14 octobre, je vous parlais de cette question que se poseront nos enfants dans quelques années : « Que savaient-ils ? » La réponse est simple : vous saviez tout. Vous saviez que votre croissance de 1 % était un mensonge, que les taux d’intérêt allaient s’envoler. Ce budget était faux, insincère, mensonger le jour même où vous l’avez déposé. Comment osez-vous ? Vous passez votre temps à commenter, analyser, critiquer le contre-budget du Rassemblement national – mais, monsieur le ministre, vous n’êtes pas journaliste, vous êtes ministre du budget et c’est vous qui avez commis ce projet de budget épouvantable."
+        },
+        {
+          "orateur": "M. Laurent Croizier",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793716",
+          "ordre": 434,
+          "texte": "Et vous, vous voulez la retraite à 60 ans !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 435,
+          "texte": "Pour relancer le pays, qu’avez-vous trouvé ? Un budget qui tape sur les salariés et sur les entreprises. La France n’a jamais vu autant de faillites d’entreprises. Votre réponse ? Taxer les entreprises. Le pouvoir d’achat des Français est en baisse depuis trois ans, pour la première fois depuis cinquante ans. Votre réponse ? Augmenter les taxes sur les salariés. Dix ans de crise Macron, c’est dix ans à nous dire chaque année : « En Marche pour que rien ne marche ». On ne change rien pour que rien ne marche. Même votre camp n’y croyait pas. En commission des finances, cette partie de votre projet de budget n’a trouvé que trois voix pour la défendre.\nFrançaises, Français, la seule bonne nouvelle de ce jour funeste, c’est que c’est bientôt fini. Ce budget est le dernier d’Emmanuel Macron. La crise Macron a une date de fin. Au printemps, vous aurez le dernier mot et, si vous le voulez, Marine Le Pen et Jordan Bardella seront là pour redresser le pays. Avec Éric Ciotti, nous serons à leurs côtés. (Applaudissements sur les bancs des groupes UDR et RN.)\nLe cap est fixé : 140 milliards d’euros net d’économies d’ici à 2032, un déficit sous les 3 % en 2030, avec des mesures concrètes.\nD’abord, nous rendrons du pouvoir d’achat aux Français."
+        },
+        {
+          "orateur": "M. Frédéric Maillot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA796010",
+          "ordre": 439,
+          "texte": "Rendez les 4 millions !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 440,
+          "texte": "Nous baisserons la TVA sur l’énergie, parce que le plein et le chauffage sont indispensables. (Exclamations sur quelques bancs des groupes EPR et Dem.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 441,
+          "texte": "Chut !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 442,
+          "texte": "Nous ramènerons à zéro la TVA sur cent produits de première nécessité. Nous ferons baisser la facture de l’énergie. Nous relancerons le nucléaire et nous arrêterons de subventionner l’éolien et le solaire. (Applaudissements sur les bancs des groupes UDR et RN.)\nNous réaliserons pour plus de 5 milliards d’euros d’économies dès la première année. Le prix de l’électricité sera fixé en France, pour que les impôts des Français ne financent plus les industries de nos concurrents européens. Nous permettrons aux jeunes Français de devenir propriétaires grâce à un prêt à taux zéro de 100 000 euros pour les jeunes couples ; nous relancerons ainsi la construction, qui a perdu 25 000 emplois rien que cette année. Nous libérerons nos entreprises. Nous supprimerons les impôts de production, la cotisation sur la valeur ajoutée des entreprises (CVAE), la cotisation foncière des entreprises (CFE) et la contribution sociale de solidarité des sociétés (C3S), qui représentent 17 milliards d’euros et qui frappent nos usines avant le premier euro de bénéfice. Nous ferons la chasse aux normes, cet impôt invisible, et nous rapprocherons enfin ce que coûte un salarié de ce qu’il touche."
+        },
+        {
+          "orateur": "M. Hadrien Clouet",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793736",
+          "ordre": 444,
+          "texte": "Un salarié ne coûte pas."
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 445,
+          "texte": "Tout cela, nous le financerons. Les économies, nous irons les chercher là où elles se trouvent : dans la fraude, dans l’immigration, dans les agences de l’État, dans notre contribution à l’Union européenne. (Applaudissements sur les bancs des groupes UDR et RN. – Exclamations sur quelques bancs des groupes EPR et HOR.)"
+        },
+        {
+          "orateur": "M. Carlos Martens Bilongo",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795616",
+          "ordre": 446,
+          "texte": "Rendez l’argent !"
+        },
+        {
+          "orateur": "M. Gérault Verny",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA840809",
+          "ordre": 447,
+          "texte": "Enfin, le sérieux, puisque vous en parlez tant, monsieur le ministre, vous, les responsables de la faillite de notre économie, de l’effondrement du pouvoir d’achat des Français et du déclassement de notre pays, ce sérieux, nous le graverons dans le marbre avec une règle d’or adoptée par référendum, pour que plus jamais un gouvernement ne puisse laisser filer les comptes comme vous l’avez fait.\nVous saviez, et vous n’avez pas eu le courage d’agir ; nous savons, et nous agirons. Le groupe UDR votera contre ce mauvais budget, insincère dans ses chiffres, inacceptable pour nos entreprises, honteux pour les Français, en attendant enfin la renaissance, cette nouvelle aurore pour que revive la France. (Applaudissements sur les bancs des groupes UDR et RN.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 449,
+          "texte": "La parole est à M. Jean-Philippe Tanguy."
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy (RN)",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 450,
+          "texte": "Nous redécouvrons ce soir des visages que nous avions oubliés : ceux de nos collègues macronistes, mais aussi DR – je ne savais pas si votre groupe existait encore, mais vous êtes là ce soir, c’est miraculeux ! (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "ordre": 451,
+          "texte": "Quelle arrogance !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 452,
+          "texte": "Après les horreurs d’Halloween, les miracles de Noël arrivent ! Mais ce ne sont pas des cadeaux que vous nous apportez ; ce sont des taxes et des dépenses, dont vous allez accabler les Françaises et les Français ! (Exclamations sur les bancs du groupe EPR.)\nCe que vous avez fait est très grave, chers collègues macronistes. Au bout de dix ans, vous n’avez pas seulement ruiné la France ; comme l’a dit Charles de Courson, vous avez aussi ruiné nos institutions, et vous avez décrédibilisé le Parlement,…"
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "ordre": 454,
+          "texte": "C’est vous qui êtes irresponsables !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 455,
+          "texte": "…en faisant croire aux Françaises et aux Français que c’était à lui de faire le budget."
+        },
+        {
+          "orateur": "Mme Prisca Thevenot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795920",
+          "ordre": 456,
+          "texte": "Il est où, votre contre-budget ?"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 457,
+          "texte": "Or ce n’est pas vrai. Le terme français « amender » – peut-être parlez-vous encore notre belle langue ? – veut dire « nuancer », « changer ». Nous ne tenons pas la plume, c’est le gouvernement qui tient la plume de ce budget. (Applaudissements sur les bancs des groupes RN et UDR.) Seul ce gouvernement tient la plume de ce budget !\nCe que vous avez fait est très grave, parce que vous faites croire à des gens de bonne foi que nous pourrions faire un autre budget. Mais le Parlement n’a pas le pouvoir, sous la Ve République, d’écrire un autre budget, et vous mentez sciemment…"
+        },
+        {
+          "orateur": "Mme Christine Arrighi",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA793780",
+          "ordre": 459,
+          "texte": "Vous aussi ! Rendez l’argent !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 460,
+          "texte": "…– du moins, ceux qui le savent, parce qu’il est bien possible que certains d’entre vous ne sachent même pas comment fonctionnent les institutions. Vous faites comme si vous ne saviez pas que votre seul rôle est de venir parfois – parfois, parce que même ce rôle-là, vous l’oubliez ! – poser vos fesses ici pour appuyer sur un bouton. (Exclamations sur plusieurs bancs du groupe EPR.)\nSous la Ve République, ce n’est pas le Parlement qui fait le budget. Derrière ce mensonge, il y a toute l’escroquerie de la Macronie. Vous êtes à la fois la mère de toutes les bureaucraties et le père de tous les lobbys ; c’est comme cela, et uniquement comme cela, que vous fonctionnez. (Applaudissements sur les bancs des groupes RN et UDR.)\nIl y a eu deux visages du macronisme. Le premier visage, certains y ont cru, ça a été le premier mandat d’Emmanuel Macron – un mandat injuste, socialement épouvantable, qui a consisté à faire payer la baisse de l’ISF en augmentant les taxes sur le carburant, le fioul, le gaz, l’électricité (Mêmes mouvements ), à sanctionner la consommation des travailleurs et des retraités pour payer des cadeaux fiscaux aux lobbys et aux forces de l’argent qui vous avaient conduits au pouvoir ! (Exclamations sur plusieurs bancs du groupe EPR.) La campagne politique qui s’ouvre doit être un moment de vérité et il faut la dire : il y a des gens qui ont payé les centaines de unes que vous avez eues dans la presse ! (Applaudissements sur les bancs des groupes RN et UDR. – Exclamations sur les bancs du groupe EPR. )"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 463,
+          "texte": "Chut !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 464,
+          "texte": "Il y a des gens qui ont payé les dividocrates qui ont essayé de faire croire que vous aviez des compétences !"
+        },
+        {
+          "orateur": "M. François Cormier-Bouligeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719118",
+          "ordre": 465,
+          "texte": "C’est un discours pétainiste que vous faites !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 466,
+          "texte": "Le macronisme ne vient pas de nulle part : il vient de cette bureaucratie épouvantable qui a entaché et entravé les forces économiques de la France, il vient de cette oligarchie épouvantable qui a piqué dans la caisse des Français, qui a augmenté les impôts pour payer des cadeaux, pour privatiser des entreprises, voire pour les vendre à des adversaires de la France. (Applaudissements sur les bancs des groupes RN et UDR. – Vives protestations sur les bancs des groupes EPR et Dem.) Voilà la facture du macronisme ! Ce n’est pas seulement une incompétence, c’est une ploutocratie, c’est un pouvoir de voleurs,…"
+        },
+        {
+          "orateur": "M. Benjamin Dirx",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA722382",
+          "ordre": 467,
+          "texte": "Vous n’avez peur de rien !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 468,
+          "texte": "…c’est un pouvoir d’escrocs (Mêmes mouvements),…"
+        },
+        {
+          "orateur": "M. François Cormier-Bouligeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719118",
+          "ordre": 469,
+          "texte": "C’est le discours de Pétain !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 470,
+          "texte": "…c’est un pouvoir qui s’est emparé des institutions françaises. Il va falloir vous extirper de ce pouvoir et ce ne sera pas facile car, malgré votre impopularité dans la population, vous avez encore beaucoup trop de pouvoir."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "ordre": 471,
+          "texte": "Calme-toi, mélenchoniste !"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 472,
+          "texte": "Chut !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 473,
+          "texte": "Vous salissez encore les mobilisations sociales, vous laissez encore les pillards, les voyous, salir la mobilisation sociale (Applaudissements sur plusieurs bancs des groupes RN et UDR), vous laissez les pillards, les voyous, détruire nos centres-villes, incendier des hôtels de ville."
+        },
+        {
+          "orateur": "Mme Prisca Thevenot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795920",
+          "ordre": 474,
+          "texte": "Et le budget ?"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 475,
+          "texte": "Tout cela, vous le laissez faire, vous êtes incapables de mettre de l’ordre dans les comptes, incapables de mettre de l’ordre dans la rue. Et cette incapacité à mettre de l’ordre dans la rue vous arrange bien, car elle évite que l’on voie le désordre que vous avez mis dans les comptes. Il faut vous extirper, car on parle de tout dans les médias français, sauf de votre faillite."
+        },
+        {
+          "orateur": "M. Paul Midy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795664",
+          "ordre": 476,
+          "texte": "Respire !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 477,
+          "texte": "Pendant deux mois, il n’y a pas eu seulement la désertion des députés macronistes, il y a eu aussi la désertion des journalistes."
+        },
+        {
+          "orateur": "M. Patrick Hetzel",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA608416",
+          "ordre": 478,
+          "texte": "Apportez-lui une tisane !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 479,
+          "texte": "On ne parle pas, à la télévision, de votre faillite."
+        },
+        {
+          "orateur": "Mme Ségolène Amiot",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA794138",
+          "ordre": 480,
+          "texte": "Rendez l’argent et taisez-vous !"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 481,
+          "texte": "On parle d’amendements grotesques adoptés dans ce budget Potemkine, mais on ne parle pas de votre faillite, et c’est ça qui est grave. C’est le sens du combat de Marine Le Pen : elle va enfin démontrer ce que vous étiez, ce que vous avez toujours été ! (Applaudissements sur les bancs des groupes RN et UDR.) Et je suis fier, avec les 140 députés RN et UDR (M. Sylvain Berrios s’exclame), d’avoir tenu pendant dix ans face à vos mensonges, car l’heure de vérité est venue pour les Français. Ils vont devoir faire un choix : ce choix, ce n’est pas seulement de libérer la France et les Français de vos impôts épouvantables, ce n’est pas seulement de les libérer de votre incompétence et de vous-mêmes – ce sera déjà une économie en soi ! –, c’est de montrer ce que vous étiez, de montrer ce que vous êtes. Vous êtes des incompétents, vous êtes un poison qui a empoisonné notre pays. (Protestations sur les bancs du groupe EPR.)"
+        },
+        {
+          "orateur": "M. François Cormier-Bouligeon",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719118",
+          "ordre": 482,
+          "texte": "Monsieur le président, ce n’est pas possible !"
+        },
+        {
+          "orateur": "M. Pascal Lecamp",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795374",
+          "ordre": 483,
+          "texte": "Et votre explication de vote ?"
+        },
+        {
+          "orateur": "M. Jean-Philippe Tanguy",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA795778",
+          "ordre": 484,
+          "texte": "Et le 2 mai, on se libérera de vous, et l’on se libérera du poison que vous avez été pour le pays ! (Les députés des groupes RN et UDR se lèvent et applaudissent.)"
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4222653",
+      "valeurPtsOdj": "1",
+      "titre": "Vote sur l’ensemble de la première partie du projet de loi de finances pour 2027",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 486,
+          "texte": "Je mets aux voix l’ensemble de la première partie du projet de loi de finances pour 2027."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 487,
+          "texte": "(Il est procédé au scrutin.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 488,
+          "texte": "Voici le résultat du scrutin :\n        Nombre de votants                        460\n        Nombre de suffrages exprimés                458\n        Majorité absolue                        230\n                Pour l’adoption                0\n                Contre                458",
+          "scrutinDetecte": {
+            "ordre": 488,
+            "votants": 460,
+            "exprimes": 458,
+            "majoriteAbsolue": 230,
+            "pour": 0,
+            "contre": 458,
+            "abstention": 2
+          }
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 489,
+          "texte": "(L’ensemble de la première partie du projet de loi de finances pour 2027 n’est pas adopté.)\n (Exclamations et applaudissements sur les bancs des groupes RN et UDR.)"
+        },
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 490,
+          "texte": "L’Assemblée n’ayant pas adopté sa première partie, l’ensemble du projet de loi de finances pour 2027 est considéré comme rejeté."
+        }
+      ],
+      "scrutins": [
+        {
+          "numero": 9759,
+          "id": "VTANR5L17V9759",
+          "sort": "rejeté",
+          "titreVote": "la première partie du projet de loi de finances pour 2027 (première lecture).",
+          "matchConfidence": "ordre_probable",
+          "votants": 460,
+          "exprimes": 458,
+          "pour": 0,
+          "contre": 458,
+          "abstention": 2,
+          "ordre": 488
+        }
+      ]
+    },
+    {
+      "idSyceron": "4222635",
+      "valeurPtsOdj": "2",
+      "titre": "Modification de l’ordre du jour",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": null,
+          "idActeur": "PA719024",
+          "ordre": 493,
+          "texte": "La présidente de l’Assemblée nationale a reçu du ministre délégué chargé des relations avec le Parlement une lettre l’informant de plusieurs modifications de l’ordre du jour.\nL’Assemblée examinera, à partir du lundi 9 novembre après-midi, le projet de loi, adopté par le Sénat, relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité. La discussion se poursuivra le lundi soir, le mardi 10 novembre après-midi, le jeudi 12 novembre – après l’examen des conclusions de la commission mixte paritaire sur la proposition de loi visant à renforcer l’effectivité des droits voisins des éditeurs et des agences de presse et après la discussion du projet de loi de finances de fin de gestion pour 2026 – et le vendredi 13 novembre.\nEn application de l’article 95, alinéa 5, du règlement, à la demande du gouvernement, l’Assemblée examinera par priorité l’article 16 bis le mardi 10 novembre, après les questions au gouvernement.\nLundi 16 novembre après-midi, le gouvernement inscrit en premier point de l’ordre du jour la proposition de loi, adoptée par le Sénat, visant au renforcement de l’attractivité de l’épargne salariale et à la mise en œuvre d’une procédure de déblocage exceptionnelle.\nEnfin, le début de la discussion du projet de loi, adopté par le Sénat, visant la relance et la décentralisation du logement, initialement prévu mardi 17 novembre, est avancé au lundi 16 novembre, après la discussion de la proposition de loi sur l’épargne salariale."
+        }
+      ],
+      "scrutins": []
+    },
+    {
+      "idSyceron": "4222642",
+      "valeurPtsOdj": "3",
+      "titre": "Ordre du jour de la prochaine séance",
+      "interventions": [
+        {
+          "orateur": "M. le président",
+          "fonction": null,
+          "role": "president",
+          "idActeur": "PA719024",
+          "ordre": 500,
+          "texte": "Prochaine séance, lundi 9 novembre, à seize heures :\n Discussion du projet de loi, adopté par le Sénat, après engagement de la procédure accélérée, relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité.\n La séance est levée."
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 501,
+          "texte": "(La séance est levée à vingt-trois heures vingt.)"
+        },
+        {
+          "orateur": null,
+          "fonction": null,
+          "role": null,
+          "idActeur": null,
+          "ordre": 502,
+          "texte": "La directrice des comptes rendus\n Pascale Mesnier"
+        }
+      ],
+      "scrutins": []
+    }
+  ]
+}
